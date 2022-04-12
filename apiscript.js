@@ -34,6 +34,19 @@ var url = startUrl + apiVersion + "/"
 var jsondb = {}
 // spaces to be used for prettify/json.stringify
 var prettyindent = '\t'
+// stores iso codes
+var isocodes;
+//stores maqra,juz etc start and end
+var qinfo;
+// stores the google language codes
+var gLangCodes;
+// https://stackoverflow.com/a/5767589
+// access node command line args
+var argarr = process.argv.slice(2);
+// Page to add translation text and get the direction of text and also for font generation
+var page
+// browser variable, to allow easily closing the browser from anywhere in the script
+var browser
 
 
 // function that will run on running this script

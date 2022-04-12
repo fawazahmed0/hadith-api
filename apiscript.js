@@ -89,7 +89,39 @@ function helpPrint() {
 
 
   async function create(){
+ // saving database snippet, filename and it's json data in jsondb variable
+ await jsonDB()
+ // saving isocodes in json
+ isocodes = await util.getJSON('https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/isocodes/iso-codes.min.json',true)
 
+ // saving quran data such as how many rukus, etc, this will be used to generate the rukus endpoint
+ metainfo = await util.getJSON(path.join(__dirname,'..','hadith','grades','grades.json'))
+
+
+ // Launching browser as we will need it for checking direction of the language
+ await launchBrowser()
+
+ for (var filename of fs.readdirSync(startDir)) {
+  // we don't want to read .gitkeep, it is used as a placeholder for start direcotory to exist in git
+  if (filename == '.gitkeep')
+    continue;
+    logmsg("\nStarting to create files for " + filename)
+    // Reading the file and retrieving as array, filteredarr, and jsondata inside it
+    // filterarr doesn't contain jsondata and empty lines in it
+    var [orgarr, cleanarr, jsondata] = readDBTxt(path.join(startDir, filename))
+
+    if (!jsondata) {
+      logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format", true)
+      jsondata = {}
+      if (jsonrequired) {
+        var tempjson = '{"author":"Name of Author","language":"Name of language","source":"","comments":""}'
+        logmsg("\nAdd json at end of file in the following format:\n\n" + JSON.stringify(JSON.parse(tempjson), null, prettyindent))
+        continue
+      }
+
+    }
+
+ }
     
   }
 

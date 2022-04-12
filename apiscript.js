@@ -86,3 +86,60 @@ function helpPrint() {
     console.log("\nsearch\nsearches the provided line in database\nExample: node ", filename, ' search "verseToSearch"')
     console.log("\nfontsgen\ngenerates the fonts, paste your fonts in start direcotry and then run this command\nExample: node ", filename, ' fontsgen')
   }
+
+
+  async function create(){
+
+    
+  }
+
+    // Stores the translation files snippets and it's json,retreieves them from linebylineDir
+async function jsonDB(singlefile) {
+  for (var filename of fs.readdirSync(linebylineDir)) {
+    // if single file is defined, we will break the loop at end, we will only read that particular files data into jsondb object
+    if (singlefile)
+      filename = singlefile
+
+    var filepath = path.join(linebylineDir, filename)
+    // read the file 40k bytes of file to be stored as snippet in jsondb object
+    var data = await streamRead(filepath, 0, 40000)
+
+    jsondb[filename] = {}
+    // taking verse from line 11 to 20 and storing it for searching and duplicate detection
+    jsondb[filename]['snippet'] = data.split(/\r?\n/).slice(10, 20).join('\n')
+    // reading last 3k bytes of file to fetch json
+    data = await streamRead(filepath, fs.statSync(filepath).size - 3000)
+    // parse the json
+    jsondb[filename]['jsondata'] = getJSONInArray(data.split(/\r?\n/))[0]
+    // break the loop, as we only wanted to add one file
+    if (singlefile)
+      break;
+  }
+}
+
+// Checks for duplicate files in the database
+function checkduplicateTrans(arr) {
+  for (var filename of fs.readdirSync(linebylineDir)) {
+    if (cleanify(arr.join('\n')).includes(cleanify(jsondb[filename]['snippet'])))
+      return filename
+  }
+}
+
+
+
+// Page and browser is a global variable and it can be accessed from anywhere
+// function that launches a browser
+async function launchBrowser(linkToOpen, downloadPathDir) {
+  browser = await firefox.launch({
+    headless: true,
+    downloadsPath: downloadPathDir
+  });
+  var context = await browser.newContext({
+    acceptDownloads: true
+  });
+  page = await context.newPage();
+  if (linkToOpen)
+    await page.goto(linkToOpen, {
+      timeout: 60000
+    });
+}

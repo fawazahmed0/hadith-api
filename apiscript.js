@@ -108,7 +108,7 @@ async function create(update){
  // saving isocodes in json
  isocodes = await util.getJSON('https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/isocodes/iso-codes.min.json',true)
 
- // saving quran data such as how many rukus, etc, this will be used to generate the rukus endpoint
+
  metainfo = await util.getJSON(path.join(__dirname,'..','hadith','grades','grades.json'))
 
 

@@ -277,14 +277,14 @@ function generateFiles(arr, genJSON){
     }
     let hadithnumArr = tempObj["hadiths"].map(e=>e.hadithnumber)
     let newHaditNumArr = Object.keys(jsonArr).filter(e=>!hadithnumArr.includes(parseFloat(e)))
-    for(let value of newHaditNumArr){
-      let hadithNo =  jsonArr[value]
- 
-      skeletonJSON.hadithnumber = hadithNo
+    for(let key of newHaditNumArr){
+      let hadithtext =  jsonArr[key]
+      let num = parseFloat(key)
+      skeletonJSON.hadithnumber = num
       if(genJSON['book']!='muslim')
-      skeletonJSON.arabicnumber = hadithNo
+      skeletonJSON.arabicnumber = num
 
-      skeletonJSON.text = jsonArr[hadithNo]
+      skeletonJSON.text = hadithtext
      
       tempObj["hadiths"].push(skeletonJSON)
 

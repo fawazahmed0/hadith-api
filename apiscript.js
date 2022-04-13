@@ -141,11 +141,19 @@ async function create(update){
       util.logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format", true)
       jsondata = {}
       if (jsonrequired) {
-        var tempjson = '{"author":"Name of Author","language":"Name of language","source":"","comments":""}'
+        var tempjson = '{"author":"Name of Author","book":"Name of book","language":"Name of language","source":"","comments":""}'
         util.logmsg("\nAdd json at end of file in the following format:\n\n" + JSON.stringify(JSON.parse(tempjson), null, prettyindent))
         continue
       }
 
+    }
+
+    jsondata = util.cleanifyObject(jsondata)
+
+    if(!Object.keys(bookslength).includes(jsondata["book"])){
+      util.logmsg("\nNo correct book name found in json " + filename+" skipping this", true)
+      util.logmsg("\nYou should set the book name to any of the following values\n"+Object.keys(bookslength), true)
+      continue
     }
 
         // Now we have to check and make sure same copy doesn't exists in the repo, here we will use the linebylineDir to check
@@ -158,6 +166,8 @@ async function create(update){
           else
             util.logmsg("\ncheckduplicate is set to false, so a duplicate copy of this translation will be created in the database")
         }
+
+   
 
         var temp = util.isoLangMap([jsondata['language']], isocodes)
         // if the above fails, then we will have to detect the language
@@ -363,13 +373,15 @@ async function generateJSON(arr, newjson, editionName) {
   // Deleting iso key, as it might create a bug in the future, as this key was added later to solve an issue in actions enviroment
   delete newjson['iso']
   // capitalize first letters
-  newjson['language'] = capitalize(newjson['language'])
+  newjson['language'] = util.capitalize(newjson['language'])
   // If values are undefined we will assign it as empty string
   newjson['author'] = newjson['author'] || "unknown"
 
+  newjson['book'] = util.capitalize(newjson['book'])
+
   // Removing special symbols and diacritics from authors name
   newjson['author'] = newjson['author'].normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^A-Za-z\s\.\,]+/gi, " ").replace(/\s\s+/gi, " ").toLowerCase().trim()
-  newjson['author'] = capitalize(newjson['author'])
+  newjson['author'] = util.capitalize(newjson['author'])
 
   // If values are undefined we will assign it as empty string
   newjson['source'] = newjson['source'] || ""
@@ -381,7 +393,7 @@ async function generateJSON(arr, newjson, editionName) {
   // Take first few chars of like 10chars for author to make editionName
   // editionName will be a foldername and also part of url, so cannot have anything other than latin alphabets
   if (!editionName)
-    editionName = isocode + "-" + newjson['author'].toLowerCase().replace(/[^A-Za-z]+/gi, "").substring(0, authorSize);
+    editionName = isocode + "-" + newjson['book'].toLowerCase()
 
   // first check file with same endpoint exists or not in editions.json, if there then we will add 1 to the editionname and check again
   for (var i = 1;; i++) {
@@ -404,6 +416,7 @@ async function generateJSON(arr, newjson, editionName) {
   // JSON in sorted order
   var sortjson = {}
   sortjson['name'] = newjson['name']
+  sortjson['book'] = newjson['book']
   sortjson['author'] = newjson['author']
   sortjson['language'] = newjson['language']
   sortjson['direction'] = newjson['direction']

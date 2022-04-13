@@ -265,13 +265,31 @@ function generateFiles(arr, genJSON){
   // generate whole edition
   
     tempObj =  metainfo[genJSON['book']]
+    let skeletonJSON = 	util.replaceInnerJSON(tempObj["hadiths"][0])
+    skeletonJSON.text = ""
 
     for(let i=0;i<tempObj["hadiths"].length;i++){
       let hadithNo = tempObj["hadiths"][i].hadithnumber
       if(jsonArr[hadithNo])
       tempObj["hadiths"][i].text = jsonArr[hadithNo]
+      else
+      tempObj["hadiths"][i].text = ''
     }
+    let hadithnumArr = tempObj["hadiths"].map(e=>e.hadithnumber)
+    let newHaditNumArr = Object.keys(jsonArr).filter(e=>!hadithnumArr.includes(parseFloat(e)))
+    for(let value of newHaditNumArr){
+      let hadithNo =  jsonArr[value]
+ 
+      skeletonJSON.hadithnumber = hadithNo
+      if(genJSON['book']!='muslim')
+      skeletonJSON.arabicnumber = hadithNo
 
+      skeletonJSON.text = jsonArr[hadithNo]
+     
+      tempObj["hadiths"].push(skeletonJSON)
+
+    }
+    tempObj["hadiths"].sort((a,b)=>a.hadithnumber-b.hadithnumber)
     fs.writeFileSync(path.join(editionsDir, genJSON['name'])+'.json', JSON.stringify(tempObj,null,'\t'))
 
   

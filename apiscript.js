@@ -264,7 +264,7 @@ function generateFiles(arr, genJSON){
   let tempObj = {}
   // generate whole edition
   
-    tempObj =  metainfo[genJSON['book']]
+    tempObj =  structuredClone(metainfo[genJSON['book']])
     let skeletonJSON = 	util.replaceInnerJSON(structuredClone(tempObj["hadiths"][0]))
     skeletonJSON.text = ""
 

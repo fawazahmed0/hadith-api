@@ -294,7 +294,7 @@ async function jsonDB(singlefile) {
 
     jsondb[filename] = {}
     // taking verse from line 11 to 20 and storing it for searching and duplicate detection
-    jsondb[filename]['snippet'] = data.split(/\r?\n/).slice(10, 20).join('\n')
+    jsondb[filename]['snippet'] = data.split(/\r?\n/).slice(10, 20).map(e=>e.replace(/^\d+\s*\|\s*/,'').trim()).join('\n')
     // reading last 3k bytes of file to fetch json
     data = await streamRead(filepath, fs.statSync(filepath).size - 3000)
     // parse the json

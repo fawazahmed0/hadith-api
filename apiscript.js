@@ -34,9 +34,7 @@ fs.mkdirSync(startDir, {
 fs.mkdirSync(editionsDir, {
   recursive: true
 });
-fs.mkdirSync(fontsDir, {
-  recursive: true
-});
+
 fs.mkdirSync(path.join(databaseDir, "originals"), {
   recursive: true
 });
@@ -259,6 +257,26 @@ async function generateEdition(arr, jsondata, editionName) {
   return genJSON
 }
 
+function generateFiles(arr, genJSON){
+ // convert the arr into json for ease
+  var jsonArr = arr.map(e=>[e.split('|')[0].trim(),e.split('|').slice(1).join(' ').trim()])
+  jsonArr = Object.fromEntries(jsonArr)
+  let tempObj = {}
+  // generate whole edition
+  
+    tempObj =  metainfo[genJSON['book']]
+    console.log(genJSON['book'])
+    for(let i=0;i<tempObj["hadiths"].length;i++){
+      let hadithNo = tempObj["hadiths"][i].hadithnumber
+      if(jsonArr[hadithNo])
+      tempObj["hadiths"][i].text = jsonArr[hadithNo]
+    }
+
+    fs.writeFileSync(path.join(editionsDir, genJSON['name'])+'.json', JSON.stringify(tempObj,null,'\t'))
+
+  
+
+}
 
 // function to delete list of editions from the database
 // This will also remove the auto generated -la and -lad of edition
@@ -377,7 +395,6 @@ async function generateJSON(arr, newjson, editionName) {
   // If values are undefined we will assign it as empty string
   newjson['author'] = newjson['author'] || "unknown"
 
-  newjson['book'] = util.capitalize(newjson['book'])
 
   // Removing special symbols and diacritics from authors name
   newjson['author'] = newjson['author'].normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^A-Za-z\s\.\,]+/gi, " ").replace(/\s\s+/gi, " ").toLowerCase().trim()
@@ -388,8 +405,7 @@ async function generateJSON(arr, newjson, editionName) {
   newjson['comments'] = newjson['comments'] || ""
 
 
-  // Number of chars to consider in author name for editionName creation
-  var authorSize = 15
+
   // Take first few chars of like 10chars for author to make editionName
   // editionName will be a foldername and also part of url, so cannot have anything other than latin alphabets
   if (!editionName)
@@ -411,7 +427,7 @@ async function generateJSON(arr, newjson, editionName) {
   newjson['name'] = editionName
   newjson['link'] = url + editionsFolder + "/" + editionName + ".json"
   newjson['linkmin'] = url + editionsFolder + "/" + editionName + ".min.json"
-  newjson['direction'] = await dirCheck(arr.slice(0, 10).join('\n'))
+  newjson['direction'] = await util.dirCheck(arr.slice(0, 10).join('\n'), page)
 
   // JSON in sorted order
   var sortjson = {}

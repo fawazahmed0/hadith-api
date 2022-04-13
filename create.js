@@ -12,8 +12,9 @@
 // check duplicte
 // make sure the largest num is less than or equal to length of book
 // create a json of it
+//----- here
 // geneate the structure (keep skeleton for new decimal hadith numbers & sort it)
-// generate editions.json
+// generate editions.json & info.min json
 
 
 //delete (easy)\

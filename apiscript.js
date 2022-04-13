@@ -56,6 +56,8 @@ var isocodes;
 //stores grades etc
 var metainfo;
 
+var bookslength = {}
+
 // https://stackoverflow.com/a/5767589
 // access node command line args
 var argarr = process.argv.slice(2);
@@ -109,7 +111,11 @@ async function create(update){
  isocodes = await util.getJSON('https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/isocodes/iso-codes.min.json',true)
 
 
- metainfo = await util.getJSON(path.join(__dirname,'..','hadith','grades','grades.json'))
+ metainfo = await util.getJSON(path.join(__dirname,'info.json'))
+
+ for(let [key, value] of Object.entries(metainfo))
+  bookslength[key] = metainfo[key]["metadata"]["hadith_count"]
+ 
 
 
  // Launching browser as we will need it for checking direction of the language
@@ -119,10 +125,17 @@ async function create(update){
   // we don't want to read .gitkeep, it is used as a placeholder for start direcotory to exist in git
   if (filename == '.gitkeep')
     continue;
-    util.logmsg("\nStarting to create files for " + filename)
+    util.logmsg("Starting to create files for " + filename)
     // Reading the file and retrieving as array, filteredarr, and jsondata inside it
     // filterarr doesn't contain jsondata and empty lines in it
     var [orgarr, cleanarr, jsondata] = util.readDBTxt(path.join(startDir, filename))
+    // find index of element which doesn't follow pattern of number | text
+    let indexProblem = cleanarr.findIndex(e=>!/^\d+\s*\|\s*/.test(e))
+    if(indexProblem != -1){
+      util.logmsg("problem at index",indexProblem,"in file",filename)
+      continue
+    }
+
 
     if (!jsondata) {
       util.logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format", true)
@@ -146,7 +159,7 @@ async function create(update){
             util.logmsg("\ncheckduplicate is set to false, so a duplicate copy of this translation will be created in the database")
         }
 
-        var temp = isoLangMap([jsondata['language']])
+        var temp = util.isoLangMap([jsondata['language']], isocodes)
         // if the above fails, then we will have to detect the language
         if (!Array.isArray(temp)){
         util.logmsg("\nPlease specify the proper iso name of the language in json, Skipping this translation " + filename)
@@ -155,6 +168,15 @@ async function create(update){
               // Assigning isoname of the language and it's isocode
       jsondata['language'] = temp[0]
       jsondata['iso'] = temp[1]
+
+
+      // check max number in the arr is less than or equal to books length
+      let maxVal = Math.max(...cleanarr.map(e=>parseInt(e.split('|')[0].trim())))
+      if(maxVal>bookslength[jsondata['book']]){
+        util.logmsg("\nThe max hadith number in the file " + filename + " is "+bookslength[jsondata['book']]+" It larger than books length for "+jsondata['book']+ "it should be less than or equal to "+bookslength[jsondata['book']])
+        continue
+      }
+      
 
       if (update) {
 

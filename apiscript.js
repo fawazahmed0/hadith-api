@@ -273,15 +273,15 @@ async function generateEdition(arr, jsondata, editionName) {
   return genJSON
 }
 
-function generateFiles(arr, genJSON){
-  console.log(genJSON)
+function generateFiles(arr, json){
+  console.log(json)
  // convert the arr into json for ease
   var jsonArr = arr.map(e=>[e.split('|')[0].trim(),e.split('|').slice(1).join(' ').trim()])
   jsonArr = Object.fromEntries(jsonArr)
   let tempObj = {}
   // generate whole edition
   
-    tempObj =  structuredClone(metainfo[genJSON['book']])
+    tempObj =  structuredClone(metainfo[json['book']])
     let skeletonJSON = 	util.replaceInnerJSON(structuredClone(tempObj["hadiths"][0]))
     skeletonJSON.text = ""
 
@@ -298,7 +298,7 @@ function generateFiles(arr, genJSON){
       let hadithtext =  jsonArr[key]
       let num = parseFloat(key)
       skeletonJSON.hadithnumber = num
-      if(genJSON['book']!='muslim')
+      if(json['book']!='muslim')
       skeletonJSON.arabicnumber = num
 
       skeletonJSON.text = hadithtext
@@ -307,8 +307,8 @@ function generateFiles(arr, genJSON){
 
     }
     tempObj["hadiths"].sort((a,b)=>a.hadithnumber-b.hadithnumber)
-    fs.writeFileSync(path.join(editionsDir, genJSON['name'])+'.json', JSON.stringify(tempObj,null,'\t'))
-
+    fs.writeFileSync(path.join(editionsDir, json['name'])+'.json', JSON.stringify(tempObj,null,'\t'))
+    fs.writeFileSync(path.join(linebylineDir, json['name'] + ".txt"), Object.values(jsonArr).join('\n') + '\n' + JSON.stringify(json, null, prettyindent))
   
 
 }

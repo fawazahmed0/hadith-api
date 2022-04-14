@@ -378,7 +378,7 @@ async function generateJSON(json, newjson, editionName) {
   newjson['link'] = url + editionsFolder + "/" + editionName + ".json"
   newjson['linkmin'] = url + editionsFolder + "/" + editionName + ".min.json"
   newjson['direction'] = await dirCheck(Object.values(json).slice(0, 10).join('\n'), page)
-  newjson['has_sections'] = metadata[newjson['book']]["hadiths"][2]?.["reference"]?.["hadith"] ? true : false
+  newjson['has_sections'] = metainfo[newjson['book']]["hadiths"][2]?.["reference"]?.["hadith"] ? true : false
 
     // JSON in sorted order
     var sortjson = {}

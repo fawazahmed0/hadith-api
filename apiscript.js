@@ -237,6 +237,22 @@ async function create(update){
   
 
  }
+
+ // reads the jsondb variable to generate editions.json
+function editionsListingsGen() {
+  var newjsondb = {}
+  // we will always keep the editions.json in sorted order, so it's easier to find
+  var sortedkeys = Object.keys(jsondb).sort()
+  for (var name of sortedkeys) {
+    // removing .txt from filename and replace dash with underscore as many programming languages doesn't support - (dash) in json object key
+    var newname = name.replace(/\..*/gi, "").replace(/-/gi, "_")
+    newjsondb[newname] = jsondb[name]['jsondata']
+  }
+
+  fs.writeFileSync(editionsDir + ".json", JSON.stringify(newjsondb, null, prettyindent))
+  fs.writeFileSync(editionsDir + ".min.json", JSON.stringify(newjsondb))
+  logmsg("\neditions.json and editions.min.json generated")
+}
     
 
  // This function is a wrapper to generate json and generate the files in the database
@@ -433,7 +449,7 @@ async function generateJSON(arr, newjson, editionName) {
   // first check file with same endpoint exists or not in editions.json, if there then we will add 1 to the editionname and check again
   for (var i = 1;; i++) {
     // If a filename with same edition name exists in database then add number to the editionName
-    if (jsondb[editionName + '.txt'] || jsondb[editionName + '-la.txt'] || jsondb[editionName + '-lad.txt']) {
+    if (jsondb[editionName + '.txt']) {
       // Fetch the number if exists in the editionName
       var Num = editionName.match(/\d+$/) || [0]
       Num = parseInt(Num[0])

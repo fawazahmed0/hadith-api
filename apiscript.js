@@ -273,42 +273,42 @@ async function generateEdition(arr, jsondata, editionName) {
   return genJSON
 }
 
-function generateFiles(arr, json){
-  console.log(json)
+function generateFiles(arr, jsondata){
+  console.log(jsondata)
  // convert the arr into json for ease
-  var jsonArr = arr.map(e=>[e.split('|')[0].trim(),e.split('|').slice(1).join(' ').trim()])
-  jsonArr = Object.fromEntries(jsonArr)
-  let tempObj = {}
+  var json = arr.map(e=>[e.split('|')[0].trim(),e.split('|').slice(1).join(' ').trim()])
+  json = Object.fromEntries(json)
+  let fullEditionObj = {}
   // generate whole edition
   
-    tempObj =  structuredClone(metainfo[json['book']])
-    let skeletonJSON = 	util.replaceInnerJSON(structuredClone(tempObj["hadiths"][0]))
+    fullEditionObj =  structuredClone(metainfo[jsondata['book']])
+    let skeletonJSON = 	util.replaceInnerJSON(structuredClone(fullEditionObj["hadiths"][0]))
     skeletonJSON.text = ""
 
-    for(let i=0;i<tempObj["hadiths"].length;i++){
-      let hadithNo = tempObj["hadiths"][i].hadithnumber
-      if(jsonArr[hadithNo])
-      tempObj["hadiths"][i].text = jsonArr[hadithNo]
+    for(let i=0;i<fullEditionObj["hadiths"].length;i++){
+      let hadithNo = fullEditionObj["hadiths"][i].hadithnumber
+      if(json[hadithNo])
+      fullEditionObj["hadiths"][i].text = json[hadithNo]
       else
-      tempObj["hadiths"][i].text = ''
+      fullEditionObj["hadiths"][i].text = ''
     }
-    let hadithnumArr = tempObj["hadiths"].map(e=>e.hadithnumber)
-    let newHaditNumArr = Object.keys(jsonArr).filter(e=>!hadithnumArr.includes(parseFloat(e)))
+    let hadithnumArr = fullEditionObj["hadiths"].map(e=>e.hadithnumber)
+    let newHaditNumArr = Object.keys(json).filter(e=>!hadithnumArr.includes(parseFloat(e)))
     for(let key of newHaditNumArr){
-      let hadithtext =  jsonArr[key]
+      let hadithtext =  json[key]
       let num = parseFloat(key)
       skeletonJSON.hadithnumber = num
-      if(json['book']!='muslim')
+      if(jsondata['book']!='muslim')
       skeletonJSON.arabicnumber = num
 
       skeletonJSON.text = hadithtext
      
-      tempObj["hadiths"].push(skeletonJSON)
+      fullEditionObj["hadiths"].push(skeletonJSON)
 
     }
-    tempObj["hadiths"].sort((a,b)=>a.hadithnumber-b.hadithnumber)
-    fs.writeFileSync(path.join(editionsDir, json['name'])+'.json', JSON.stringify(tempObj,null,'\t'))
-    fs.writeFileSync(path.join(linebylineDir, json['name'] + ".txt"), Object.values(jsonArr).join('\n') + '\n' + JSON.stringify(json, null, prettyindent))
+    fullEditionObj["hadiths"].sort((a,b)=>a.hadithnumber-b.hadithnumber)
+    fs.writeFileSync(path.join(editionsDir, jsondata['name'])+'.json', JSON.stringify(fullEditionObj,null,'\t'))
+    fs.writeFileSync(path.join(linebylineDir, jsondata['name'] + ".txt"), Object.values(json).join('\n') + '\n' + JSON.stringify(jsondata, null, prettyindent))
   
 
 }

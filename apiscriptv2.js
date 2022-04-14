@@ -5,7 +5,7 @@ var checkduplicate = true;
 var jsonrequired = true
 
 const {
-    cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,sortInnerJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg
+    checkduplicateTrans,cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,sortInnerJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg
   } = require('../hadith/utilities.js')
 
 const fs = require('fs');
@@ -69,7 +69,7 @@ fs.mkdirSync(startDir, {
 
 // function that will run on running this script
 async function start() {
-    util.logmsg("BEGIN:\n" + process.argv.join(' '), true)
+    logmsg("BEGIN:\n" + process.argv.join(' '), true)
     // Print the help and how to use the script file and arguments, same as given in contribute
     if (argarr[0] == undefined)
       helpPrint()
@@ -143,7 +143,7 @@ async function create(update) {
       }
 
           // Now we have to check and make sure same copy doesn't exists in the repo, here we will use the linebylineDir to check
-    var duplicatefilename = checkduplicateTrans(cleanjson)
+    var duplicatefilename = checkduplicateTrans(cleanjson, linebylineDir)
         // We don't want to check for duplicates during update operation
         if (duplicatefilename && !update) {
             logmsg("\nThis file " + filename + " seems to be a duplicate copy of edition " + duplicatefilename.replace(/(\.[^\.]*$)/i, ""))
@@ -350,7 +350,7 @@ async function generateJSON(json, newjson, editionName) {
     
   // Removing special symbols and diacritics from authors name
   newjson['author'] = newjson['author'].normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^A-Za-z\s\.\,]+/gi, " ").replace(/\s\s+/gi, " ").toLowerCase().trim()
-  newjson['author'] = util.capitalize(newjson['author'])
+  newjson['author'] = capitalize(newjson['author'])
 
   // If values are undefined we will assign it as empty string
   newjson['source'] = newjson['source'] || ""
@@ -377,7 +377,7 @@ async function generateJSON(json, newjson, editionName) {
   newjson['name'] = editionName
   newjson['link'] = url + editionsFolder + "/" + editionName + ".json"
   newjson['linkmin'] = url + editionsFolder + "/" + editionName + ".min.json"
-  newjson['direction'] = await util.dirCheck(Object.values(json).slice(0, 10).join('\n'), page)
+  newjson['direction'] = await dirCheck(Object.values(json).slice(0, 10).join('\n'), page)
   newjson['has_sections'] = metadata[newjson['book']]["hadiths"][2]?.["reference"]?.["hadith"] ? true : false
 
     // JSON in sorted order
@@ -503,4 +503,21 @@ function search(arr) {
     }
     if (!found)
       logmsg("\n No edition found in the database")
+  }
+
+  // Page and browser is a global variable and it can be accessed from anywhere
+// function that launches a browser
+async function launchBrowser(linkToOpen, downloadPathDir) {
+    browser = await firefox.launch({
+      headless: true,
+      downloadsPath: downloadPathDir
+    });
+    var context = await browser.newContext({
+      acceptDownloads: true
+    });
+    page = await context.newPage();
+    if (linkToOpen)
+      await page.goto(linkToOpen, {
+        timeout: 60000
+      });
   }

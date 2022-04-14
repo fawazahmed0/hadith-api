@@ -5,7 +5,7 @@ var checkduplicate = true;
 var jsonrequired = true
 
 const {
-    checkduplicateTrans,cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,sortInnerJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg
+    cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg
   } = require('../hadith/utilities.js')
 
 const fs = require('fs');
@@ -264,12 +264,14 @@ function generateFiles(json, jsondata) {
     fullEditionObj =  structuredClone(metainfo[bookName])
     let skeletonJSON = 	replaceInnerJSON(structuredClone(fullEditionObj["hadiths"][0]))
     skeletonJSON.text = ""
+    let sortByArr = ['metadata','hadithnumber','arabicnumber','text','grades','section','reference']
     for(let i=0;i<fullEditionObj["hadiths"].length;i++){
         let hadithNo = fullEditionObj["hadiths"][i].hadithnumber
         if(json[hadithNo])
         fullEditionObj["hadiths"][i].text = json[hadithNo]
         else
         fullEditionObj["hadiths"][i].text = ''
+        sortJSON(fullEditionObj["hadiths"][i],sortByArr)
       }
       // get hadith numbers which were not saved in fullEditionObj
       let hadithnumArr = fullEditionObj["hadiths"].map(e=>e.hadithnumber)
@@ -287,7 +289,7 @@ function generateFiles(json, jsondata) {
         skeletonJSON.arabicnumber = num
   
         skeletonJSON.text = hadithtext
-       
+        sortJSON(skeletonJSON,sortByArr)
         fullEditionObj["hadiths"].push(skeletonJSON)
   
       }
@@ -296,8 +298,8 @@ function generateFiles(json, jsondata) {
       delete fullEditionObj["metadata"].hadith_count
       //delete fullEditionObj["metadata"].has_sections
 
-      let sortByArr = ['metadata','hadithnumber','arabicnumber','text','grades','section','reference']
-      sortInnerJSON(fullEditionObj,sortByArr)
+ 
+      
       saveJSON(fullEditionObj,path.join(editionsDir, jsondata['name'])+'.json',prettyindent)
       saveJSON(fullEditionObj,path.join(editionsDir, jsondata['name'])+'.min.json')
       let editionNamePath = path.join(editionsDir, jsondata['name'])
@@ -308,11 +310,12 @@ function generateFiles(json, jsondata) {
       // generate sections
       for(let [key,value] of Object.entries(metainfo[bookName]["metadata"]["sections"])){
           let sectionObj = {}
-          sectionObj["hadiths"] = fullEditionObj["hadiths"].filter(e=>e["reference"].book==key)
           sectionObj["metadata"] = structuredClone(fullEditionObj["metadata"])
+          sectionObj["hadiths"] = fullEditionObj["hadiths"].filter(e=>e["reference"].book==key)
+
           delete sectionObj["metadata"]["sections"]
           sectionObj["metadata"]["section"] = {key:value}
-          sortInnerJSON(sectionObj,sortByArr)
+          sortJSON(sectionObj["metadata"],sortByArr)
           saveJSON(sectionObj,path.join(sectionsPath,key+'.json'),prettyindent)
           saveJSON(sectionObj,path.join(sectionsPath,key+'.min.json'))
       }
@@ -323,7 +326,7 @@ function generateFiles(json, jsondata) {
             let sectionNum = singleObj["reference"].book
             let hadithNo = singleObj["hadithnumber"]
             singleObj.section = {sectionNum:fullEditionObj["metadata"]["sections"][sectionNum]}
-            sortInnerJSON(singleObj,sortByArr)
+            sortJSON(singleObj,sortByArr)
             saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.json'),prettyindent)
             saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.min.json'))
         }
@@ -520,4 +523,12 @@ async function launchBrowser(linkToOpen, downloadPathDir) {
       await page.goto(linkToOpen, {
         timeout: 60000
       });
+  }
+
+  // Checks for duplicate files in the database
+function checkduplicateTrans(json, pathToDir) {
+    for (var filename of fs.readdirSync(pathToDir)) {
+      if (cleanify(Object.values(json).join('\n')).includes(cleanify(jsondb[filename]['snippet'])))
+        return filename
+    }
   }

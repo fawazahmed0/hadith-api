@@ -271,7 +271,7 @@ function generateFiles(json, jsondata) {
         fullEditionObj["hadiths"][i].text = json[hadithNo]
         else
         fullEditionObj["hadiths"][i].text = ''
-        sortJSON(fullEditionObj["hadiths"][i],sortByArr)
+        fullEditionObj["hadiths"][i] = sortJSON(fullEditionObj["hadiths"][i],sortByArr)
       }
       // get hadith numbers which were not saved in fullEditionObj
       let hadithnumArr = fullEditionObj["hadiths"].map(e=>e.hadithnumber)
@@ -289,7 +289,7 @@ function generateFiles(json, jsondata) {
         skeletonJSON.arabicnumber = num
   
         skeletonJSON.text = hadithtext
-        sortJSON(skeletonJSON,sortByArr)
+        skeletonJSON = sortJSON(skeletonJSON,sortByArr)
         fullEditionObj["hadiths"].push(skeletonJSON)
   
       }
@@ -315,7 +315,7 @@ function generateFiles(json, jsondata) {
 
           delete sectionObj["metadata"]["sections"]
           sectionObj["metadata"]["section"] = {key:value}
-          sortJSON(sectionObj["metadata"],sortByArr)
+          sectionObj["metadata"] = sortJSON(sectionObj["metadata"],sortByArr)
           saveJSON(sectionObj,path.join(sectionsPath,key+'.json'),prettyindent)
           saveJSON(sectionObj,path.join(sectionsPath,key+'.min.json'))
       }
@@ -326,7 +326,7 @@ function generateFiles(json, jsondata) {
             let sectionNum = singleObj["reference"].book
             let hadithNo = singleObj["hadithnumber"]
             singleObj.section = {sectionNum:fullEditionObj["metadata"]["sections"][sectionNum]}
-            sortJSON(singleObj,sortByArr)
+            singleObj =  sortJSON(singleObj,sortByArr)
             saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.json'),prettyindent)
             saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.min.json'))
         }

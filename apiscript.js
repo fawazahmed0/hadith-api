@@ -258,6 +258,7 @@ async function generateEdition(arr, jsondata, editionName) {
 }
 
 function generateFiles(arr, genJSON){
+  console.log(genJSON)
  // convert the arr into json for ease
   var jsonArr = arr.map(e=>[e.split('|')[0].trim(),e.split('|').slice(1).join(' ').trim()])
   jsonArr = Object.fromEntries(jsonArr)

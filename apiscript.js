@@ -375,13 +375,13 @@ async function jsonDB(singlefile) {
 
     var filepath = path.join(linebylineDir, filename)
     // read the file 40k bytes of file to be stored as snippet in jsondb object
-    var data = await streamRead(filepath, 0, 40000)
+    var data = await util.streamRead(filepath, 0, 40000)
 
     jsondb[filename] = {}
     // taking verse from line 11 to 20 and storing it for searching and duplicate detection
     jsondb[filename]['snippet'] = data.split(/\r?\n/).slice(10, 20).map(e=>e.replace(/^\d+\.?\d*\s*\|\s*/,'').trim()).join('\n')
     // reading last 3k bytes of file to fetch json
-    data = await streamRead(filepath, fs.statSync(filepath).size - 3000)
+    data = await util.streamRead(filepath, fs.statSync(filepath).size - 3000)
     // parse the json
     jsondb[filename]['jsondata'] = getJSONInArray(data.split(/\r?\n/))[0]
     // break the loop, as we only wanted to add one file

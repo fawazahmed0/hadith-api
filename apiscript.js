@@ -383,7 +383,7 @@ async function jsonDB(singlefile) {
     // reading last 3k bytes of file to fetch json
     data = await util.streamRead(filepath, fs.statSync(filepath).size - 3000)
     // parse the json
-    jsondb[filename]['jsondata'] = getJSONInArray(data.split(/\r?\n/))[0]
+    jsondb[filename]['jsondata'] = util.getJSONInArray(data.split(/\r?\n/))[0]
     // break the loop, as we only wanted to add one file
     if (singlefile)
       break;

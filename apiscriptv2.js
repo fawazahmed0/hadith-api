@@ -296,7 +296,7 @@ function generateFiles(json, jsondata) {
       delete fullEditionObj["metadata"].hadith_count
       //delete fullEditionObj["metadata"].has_sections
 
-      let sortByArr = ['metadata','hadithnumber','arabicnumber','text','grades','section','references']
+      let sortByArr = ['metadata','hadithnumber','arabicnumber','text','grades','section','reference']
       sortInnerJSON(fullEditionObj,sortByArr)
       saveJSON(fullEditionObj,path.join(editionsDir, jsondata['name'])+'.json',prettyindent)
       saveJSON(fullEditionObj,path.join(editionsDir, jsondata['name'])+'.min.json')

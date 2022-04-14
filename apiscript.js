@@ -395,7 +395,7 @@ async function jsonDB(singlefile) {
 // Checks for duplicate files in the database
 function checkduplicateTrans(arr) {
   for (var filename of fs.readdirSync(linebylineDir)) {
-    if (cleanify(arr.join('\n')).includes(cleanify(jsondb[filename]['snippet'])))
+    if (util.cleanify(arr.join('\n')).includes(util.cleanify(jsondb[filename]['snippet'])))
       return filename
   }
 }
@@ -487,8 +487,8 @@ function search(arr) {
   for (var val of arr) {
     for (var filename of fs.readdirSync(linebylineDir)) {
       var content = fs.readFileSync(path.join(linebylineDir, filename)).toString();
-      str = cleanify(val)
-      content = cleanify(content)
+      str = util.cleanify(val)
+      content = util.cleanify(content)
 
       if (content.includes(str)) {
         util.logmsg("\n Line: " + val + " contains in edition \n" + filename.replace(/(\.[^\.]*$)/i, ""))

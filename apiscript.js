@@ -6,7 +6,7 @@ var jsonrequired = true
 
 const {
   mode, cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg
-  } = require('../hadith/utilities.js')
+  } = require('./utilities.js')
 
 const fs = require('fs');
 const path = require('path');

@@ -264,7 +264,7 @@ function generateFiles(json, jsondata) {
     fullEditionObj =  structuredClone(metainfo[bookName])
     let skeletonJSON = 	replaceInnerJSON(structuredClone(fullEditionObj["hadiths"][0]))
     skeletonJSON.text = ""
-    let sortByArr = ['metadata','hadithnumber','arabicnumber','text','grades','section','reference']
+    let sortByArr = ["name",'metadata','hadithnumber','arabicnumber','text','grades','section','reference']
     for(let i=0;i<fullEditionObj["hadiths"].length;i++){
         // set the initial values to skeletonJSON
         for(let [key,value] of Object.entries(skeletonJSON)){
@@ -302,7 +302,7 @@ function generateFiles(json, jsondata) {
   
       }
       // sort by hadith number
-      fullEditionObj["hadiths"].sort((a,b)=>a.hadithnumber-b.hadithnumber)
+      fullEditionObj["hadiths"].sort((a,b)=>parseFloat(a.hadithnumber)-parseFloat(b.hadithnumber))
       delete fullEditionObj["metadata"].hadith_count
       //delete fullEditionObj["metadata"].has_sections
 
@@ -322,7 +322,8 @@ function generateFiles(json, jsondata) {
           sectionObj["hadiths"] = fullEditionObj["hadiths"].filter(e=>e["reference"].book==key)
 
           delete sectionObj["metadata"]["sections"]
-          sectionObj["metadata"]["section"] = {key:value}
+          sectionObj["metadata"]["section"] = {} 
+          sectionObj["metadata"]["section"][key] = value
           sectionObj["metadata"] = sortJSON(sectionObj["metadata"],sortByArr)
           saveJSON(sectionObj,path.join(sectionsPath,key+'.json'),prettyindent)
           saveJSON(sectionObj,path.join(sectionsPath,key+'.min.json'))
@@ -333,7 +334,8 @@ function generateFiles(json, jsondata) {
             let singleObj = structuredClone(value)
             let sectionNum = singleObj["reference"].book
             let hadithNo = singleObj["hadithnumber"]
-            singleObj.section = {sectionNum:fullEditionObj["metadata"]["sections"][sectionNum]}
+            singleObj["section"] = {}
+            singleObj["section"][sectionNum] = fullEditionObj["metadata"]["sections"][sectionNum]
             singleObj =  sortJSON(singleObj,sortByArr)
             saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.json'),prettyindent)
             saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.min.json'))
@@ -341,6 +343,7 @@ function generateFiles(json, jsondata) {
 
 
   }
+    json = sortJSON(json,sortByArr)
     // saving in linebylinedir as backup
     fs.writeFileSync(path.join(linebylineDir, jsondata['name'] + ".txt"), Object.entries(json).map(e=>e.join(' | ')).join('\n') + '\n' + JSON.stringify(jsondata, null, prettyindent))
    

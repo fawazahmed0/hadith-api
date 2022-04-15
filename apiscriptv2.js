@@ -256,7 +256,9 @@ async function generateEdition(json, jsondata, editionName) {
 
 // Generate the files and folder for the edition in REST architecture
 function generateFiles(json, jsondata) {
-  // We will generate the files and folders only if we are in github actions where CI env is set to trues and not on dev environment
+    // sort json in this order
+    let sortByArr = ["name",'metadata','hadithnumber','arabicnumber','text','grades','section','reference']
+    // We will generate the files and folders only if we are in github actions where CI env is set to trues and not on dev environment
   if(process.env.CI || true){
 // generate whole edition first
     let fullEditionObj = {}
@@ -264,7 +266,6 @@ function generateFiles(json, jsondata) {
     fullEditionObj =  structuredClone(metainfo[bookName])
     let skeletonJSON = 	replaceInnerJSON(structuredClone(fullEditionObj["hadiths"][0]))
     skeletonJSON.text = ""
-    let sortByArr = ["name",'metadata','hadithnumber','arabicnumber','text','grades','section','reference']
     for(let i=0;i<fullEditionObj["hadiths"].length;i++){
         // set the initial values to skeletonJSON
         for(let [key,value] of Object.entries(skeletonJSON)){

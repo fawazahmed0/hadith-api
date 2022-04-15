@@ -339,7 +339,7 @@ function generateFiles(json, jsondata) {
         delete singleObj["metadata"]["sections"]
 
         singleObj["metadata"]["section"] = {}
-        let sectionNum = singleObj["hadiths"][0].book
+        let sectionNum = singleObj["hadiths"][0].reference.book
         singleObj["section"][sectionNum] = fullEditionObj["metadata"]["sections"][sectionNum]
        
         singleObj["metadata"] =  sortJSON(singleObj["metadata"],sortByArr)

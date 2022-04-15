@@ -5,7 +5,7 @@ var checkduplicate = true;
 var jsonrequired = true
 
 const {
-    cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg
+  mode, cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg
   } = require('../hadith/utilities.js')
 
 const fs = require('fs');
@@ -339,8 +339,9 @@ function generateFiles(json, jsondata) {
         delete singleObj["metadata"]["sections"]
 
         singleObj["metadata"]["section"] = {}
+        //let sectionNum = mode(singleObj["hadiths"].map(e=>e.reference.book))
         let sectionNum = singleObj["hadiths"][0].reference.book
-        singleObj["section"][sectionNum] = fullEditionObj["metadata"]["sections"][sectionNum]
+        singleObj["metadata"]["section"][sectionNum] = metainfo[bookName]["metadata"]["sections"][sectionNum]
        
         singleObj["metadata"] =  sortJSON(singleObj["metadata"],sortByArr)
         singleObj =  sortJSON(singleObj,sortByArr)

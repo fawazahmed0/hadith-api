@@ -448,8 +448,6 @@ if (singlefile)
 // This will also remove the auto generated -la and -lad of edition
 function deleteEditions(arr) {
 
-
-    var deleted = false
     for (var editionname of arr) {
 
 
@@ -461,17 +459,10 @@ function deleteEditions(arr) {
       pathsarr.push(path.join(linebylineDir, editionname + '.txt'))
   
 
-      for (var pathToDelete of pathsarr) {
-        if (fs.existsSync(pathToDelete)) {
-          deleted = true
-          if (fs.statSync(pathToDelete).isDirectory())
-            fs.rmdirSync(pathToDelete, {
-              recursive: true
-            })
-          else
-            fs.unlinkSync(pathToDelete)
-        }
-      }
+      for (var pathToDelete of pathsarr) 
+        fs.rmSync(pathToDelete,{ recursive: true, force: true })
+
+      
             // Deleting also from temporary jsondb variable
             delete jsondb[editionname + '.txt']
             logmsg("\n deletion completed for " + editionname)
@@ -479,7 +470,6 @@ function deleteEditions(arr) {
 
     }
       // Generate the editions.json if any of the file was deleted
-  if (deleted)
   editionsListingsGen()
 }
 

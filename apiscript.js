@@ -331,15 +331,25 @@ function generateFiles(json, jsondata) {
       }
 
             // generate single
-        for(let value of fullEditionObj["hadiths"]){
-            let singleObj = structuredClone(value)
-            let sectionNum = singleObj["reference"].book
-            let hadithNo = singleObj["hadithnumber"]
-            singleObj["section"] = {}
-            singleObj["section"][sectionNum] = fullEditionObj["metadata"]["sections"][sectionNum]
-            singleObj =  sortJSON(singleObj,sortByArr)
-            saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.json'),prettyindent)
-            saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.min.json'))
+        for(let i = 1;i<=bookslength[bookName];i++){
+        let singleObj = {}
+        
+        singleObj["hadiths"] =  fullEditionObj["hadiths"].filter(e=>parseInt(e.hadithnumber)==i).map(e=>sortJSON(e,sortByArr))
+        singleObj["metadata"] = structuredClone(fullEditionObj["metadata"])
+        delete singleObj["metadata"]["sections"]
+
+        singleObj["metadata"]["section"] = {}
+        let sectionNum = singleObj["hadiths"][0].book
+        singleObj["section"][sectionNum] = fullEditionObj["metadata"]["sections"][sectionNum]
+       
+        singleObj["metadata"] =  sortJSON(singleObj["metadata"],sortByArr)
+        singleObj =  sortJSON(singleObj,sortByArr)
+
+        let hadithNo = singleObj["hadiths"][0]["hadithnumber"]
+        hadithNo = parseInt(hadithNo)
+
+        saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.json'),prettyindent)
+        saveJSON(singleObj,path.join(editionNamePath,hadithNo+'.min.json'))
         }
 
 

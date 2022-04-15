@@ -266,6 +266,12 @@ function generateFiles(json, jsondata) {
     skeletonJSON.text = ""
     let sortByArr = ['metadata','hadithnumber','arabicnumber','text','grades','section','reference']
     for(let i=0;i<fullEditionObj["hadiths"].length;i++){
+        // set the initial values to skeletonJSON
+        for(let [key,value] of Object.entries(skeletonJSON)){
+            if(!fullEditionObj["hadiths"][i][key])
+            fullEditionObj["hadiths"][i][key] = value
+        }
+
         let hadithNo = fullEditionObj["hadiths"][i].hadithnumber
         if(json[hadithNo])
         fullEditionObj["hadiths"][i].text = json[hadithNo]
@@ -282,15 +288,17 @@ function generateFiles(json, jsondata) {
       let sameHadithNum = middleHadith.hadithnumber == middleHadith.arabicnumber ? true : false
       // we will save them also with skeleton
       for(let key of newHaditNumArr){
+        // initial values to skeletonJSON
+        let myObj = structuredClone(skeletonJSON)
         let hadithtext =  json[key]
         let num = parseFloat(key)
-        skeletonJSON.hadithnumber = num
+        myObj.hadithnumber = num
         if(sameHadithNum)
-        skeletonJSON.arabicnumber = num
+        myObj.arabicnumber = num
   
-        skeletonJSON.text = hadithtext
-        skeletonJSON = sortJSON(skeletonJSON,sortByArr)
-        fullEditionObj["hadiths"].push(skeletonJSON)
+        myObj.text = hadithtext
+        myObj = sortJSON(myObj,sortByArr)
+        fullEditionObj["hadiths"].push(myObj)
   
       }
       // sort by hadith number

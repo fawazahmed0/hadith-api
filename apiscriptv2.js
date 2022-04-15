@@ -69,6 +69,7 @@ fs.mkdirSync(startDir, {
 
 // function that will run on running this script
 async function start() {
+  metainfo = await getJSON(path.join(__dirname,'info.json'))
     logmsg("BEGIN:\n" + process.argv.join(' '), true)
     // Print the help and how to use the script file and arguments, same as given in contribute
     if (argarr[0] == undefined)
@@ -109,7 +110,7 @@ async function create(update) {
   await jsonDB()
  // getting isocodes in json
  isocodes = await getJSON('https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/isocodes/iso-codes.min.json',true)
- metainfo = await getJSON(path.join(__dirname,'info.json'))
+
 // get books count
  for(let key of Object.keys(metainfo))
  bookslength[key] = metainfo[key]["metadata"]["hadith_count"]

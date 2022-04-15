@@ -264,6 +264,7 @@ function generateFiles(json, jsondata) {
     let fullEditionObj = {}
     let bookName = jsondata['book']
     fullEditionObj =  structuredClone(metainfo[bookName])
+    fullEditionObj = sortJSON(fullEditionObj,sortByArr)
     let skeletonJSON = 	replaceInnerJSON(structuredClone(fullEditionObj["hadiths"][0]))
     skeletonJSON.text = ""
     for(let i=0;i<fullEditionObj["hadiths"].length;i++){

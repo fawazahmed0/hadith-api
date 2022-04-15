@@ -278,8 +278,6 @@ function generateFiles(json, jsondata) {
         let hadithNo = fullEditionObj["hadiths"][i].hadithnumber
         if(json[hadithNo])
         fullEditionObj["hadiths"][i].text = json[hadithNo]
-        else
-        fullEditionObj["hadiths"][i].text = ''
         fullEditionObj["hadiths"][i] = sortJSON(fullEditionObj["hadiths"][i],sortByArr)
       }
       // get hadith numbers which were not saved in fullEditionObj

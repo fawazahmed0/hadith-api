@@ -258,7 +258,7 @@ async function generateEdition(json, jsondata, editionName) {
 // Generate the files and folder for the edition in REST architecture
 function generateFiles(json, jsondata) {
     // sort json in this order
-    let sortByArr = ["name",'metadata','hadithnumber','arabicnumber','text','grades','section','reference']
+    let sortByArr = ["name",'metadata','hadithnumber','arabicnumber','text','grades','section','sections','reference']
     // We will generate the files and folders only if we are in github actions where CI env is set to trues and not on dev environment
   if(process.env.CI || true){
 // generate whole edition first

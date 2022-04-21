@@ -23,13 +23,14 @@ shadh`.trim().split('\n').map(e=>e.trim())
         let metaPath = path.join(__dirname, 'info.json')
         let metainfo = await getJSON(metaPath)
         let good = false
+        let graderName = "Shuaib Al Arnaut"
         for(let [key,value] of Object.entries(metainfo)){
             
             for(let data of metainfo[key]["hadiths"]){
                 if(Array.isArray(data.grades)){
                 good=false
                 for(let grade of data.grades){
-                    if(grade.name=="Bashar Awad Maarouf"){
+                    if(grade.name==graderName){
                         for(let gradeval of gradesValues){
                             if(grade.grade.toLowerCase().includes(gradeval) && data.grades.filter(e=>e.grade.toLowerCase().includes(gradeval)).length>1){
                                 good=true
@@ -39,7 +40,7 @@ shadh`.trim().split('\n').map(e=>e.trim())
                     }
                 }
                 if(!good)
-                data.grades=   data.grades.filter(e=>e.name!="Bashar Awad Maarouf")
+                data.grades=   data.grades.filter(e=>e.name!=graderName)
                 
             }
             }

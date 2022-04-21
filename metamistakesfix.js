@@ -1,3 +1,6 @@
+// remove grader, who doesn't match with majority, this script is only used for Shuaib Al Arnaut & Bashar Awad Maarouf, because
+// scrapping of it's grades were not perfect, it contain few mistakes due to programmatic errors
+
 const {
     mode, cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg
     } = require('./utilities.js')

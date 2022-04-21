@@ -113,7 +113,7 @@ async function create(update) {
 
 // get books count
  for(let key of Object.keys(metainfo))
- bookslength[key] = metainfo[key]["metadata"]["hadith_count"]
+ bookslength[key] = metainfo[key]["metadata"]["last_hadithnumber"]
    // Launching browser as we will need it for checking direction of the language
    await launchBrowser()
 
@@ -304,7 +304,7 @@ function generateFiles(json, jsondata) {
       }
       // sort by hadith number
       fullEditionObj["hadiths"].sort((a,b)=>parseFloat(a.hadithnumber)-parseFloat(b.hadithnumber))
-      delete fullEditionObj["metadata"].hadith_count
+      delete fullEditionObj["metadata"].last_hadithnumber
       //delete fullEditionObj["metadata"].has_sections
 
  

@@ -65,10 +65,6 @@ fs.mkdirSync(startDir, {
     recursive: true
   });
 
-  fs.mkdirSync(linebylineDir, {
-    recursive: true
-  });
-
 
 
 // function that will run on running this script

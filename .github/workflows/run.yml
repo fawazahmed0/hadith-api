@@ -37,11 +37,18 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
+      - name: Retrieve information from package.json
+        uses: myrotvorets/info-from-package-json-action@0.0.2
+        id: ver
+
+
+
 
       # Partial clone
       - name: Partial clone
         shell: bash
         run: |
+          echo ${{ steps.ver.outputs.packageName }}
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git config --global user.email github-actions@github.com
           git config --global user.name github-actions

@@ -58,7 +58,10 @@ const getEntryFilenames = async tarballFilename => {
        // delete files from tarball
       let toAddFiles = cleanFilesArr.map(e=>tarballOptions.prefix+'/'+e.split(path.sep).join('/'))
       let toDeleteFiles = toAddFiles.filter(e=>tarballFiles.includes(e))
-      await exec('tar --delete --file='+tarballName+' '+toDeleteFiles.join(' '), { maxBuffer: Infinity })
+      // take 1000 files at a time to avoid spawn issues
+      let batchArr = TwoDimensional(toDeleteFiles, 1000) 
+      for(let batch of batchArr)
+      await exec('tar --delete --file='+tarballName+' '+batch.join(' '), { maxBuffer: Infinity })
       
       // now update tarball with new files
       await tar.r(tarballOptions,cleanFilesArr)
@@ -96,3 +99,10 @@ function sortJSONbyValue(json){
   return Object.fromEntries(entries)
 }
 
+function TwoDimensional(arr, size) 
+{
+  var res = []; 
+  for(var i=0;i < arr.length;i = i+size)
+  res.push(arr.slice(i,i+size));
+  return res;
+}

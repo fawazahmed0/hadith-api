@@ -9,14 +9,14 @@
 			{
 				"name": "eng-bukhari",
 				"book": "bukhari",
-				"author": "Unknown",
+				"author": "Muhsin Khan",
 				"language": "English",
 				"has_sections": true,
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-bukhari.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-bukhari.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari.min.json"
 			}
 		]
 	},
@@ -34,14 +34,14 @@
 			{
 				"name": "eng-muslim",
 				"book": "muslim",
-				"author": "Unknown",
+				"author": "Abdul Hamid Siddiqui",
 				"language": "English",
 				"has_sections": true,
 				"direction": "ltr",
 				"source": "",
 				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muslim.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muslim.min.json"
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim.min.json"
 			}
 		]
 	},

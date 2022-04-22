@@ -131,7 +131,7 @@ jobs:
           node tararchive.js
           7z a mytarball.tar.gz mytarball.tar -mx=9 -mfb=258
           node publish.js
-          node unpublish ${{ steps.ver.outputs.packageName }}@${{ steps.ver.outputs.packageVersion }}
+          npm unpublish ${{ steps.ver.outputs.packageName }}@${{ steps.ver.outputs.packageVersion }}
           git pull
           git add --sparse -A
           git commit -m ${{ env.mycmd }}

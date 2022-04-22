@@ -77,6 +77,19 @@
 	},
 	"tirmidhi": {
 		"name": "Jami At Tirmidhi",
-		"collection": []
+		"collection": [
+			{
+				"name": "eng-tirmidhi",
+				"book": "tirmidhi",
+				"author": "Unknown",
+				"language": "English",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-tirmidhi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-tirmidhi.min.json"
+			}
+		]
 	}
 }

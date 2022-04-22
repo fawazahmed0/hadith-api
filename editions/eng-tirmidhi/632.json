@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"7": "The Book on Zakat"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 632,
+			"arabicnumber": 632,
+			"text": "Ibn Umar said:\"Whoever acquired wealth, then there is no Zakat on it until the Hawl has passed while it is in his possession",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Mauquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 16
+			}
+		}
+	]
+}

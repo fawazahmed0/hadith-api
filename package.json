@@ -1,6 +1,6 @@
 {
   "name": "@fawazahmed0/hadith-api",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "exports": "*",
   "description": "",
   "main": "apiscript.js",
@@ -22,5 +22,6 @@
     "npm-registry-client": "^8.6.0",
     "playwright": "^1.21.1",
     "tar": "^6.1.11"
-  }
+  },
+  "devDependencies": {}
 }

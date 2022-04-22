@@ -27,7 +27,7 @@ var databaseDir = path.join(__dirname, 'database')
 // Stores translations in line by line format of 6236 lines
 var linebylineDir = path.join(databaseDir, 'linebyline')
 
-var startUrl = "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@"
+var startUrl = "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@"
 var apiVersion = '1'
 // API url
 var url = startUrl + apiVersion + "/"

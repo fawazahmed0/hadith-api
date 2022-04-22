@@ -28,7 +28,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '17'
+          cache: 'npm'
 
       # Partial clone
       - name: Partial clone
@@ -75,24 +78,6 @@ jobs:
           updateargs=`ls -1 start | sed -e 's/\.txt$/*/' | tr '\n' ' '`
           git sparse-checkout add database/linebyline/* $delargs $updateargs
 
-
-
-      - name: Get cache directories for npm
-        id: cache-dir
-        shell: bash
-        run: |
-          echo "::set-output name=npmcache::$(npm config get cache)"
-
-      - name: Trying to use the old cache if available
-        uses: actions/cache@v2
-        with:
-          path: |
-            ${{ steps.cache-dir.outputs.npmcache }}
-          key: ${{ runner.os }}-cache-${{ hashFiles('**/package.json') }}
-          restore-keys: |
-            ${{ runner.os }}-cache-${{ hashFiles('**/package.json') }}
-            ${{ runner.os }}-cache-
-            ${{ runner.os }}-
 
       - name: Install Dependencies
         run: |

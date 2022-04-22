@@ -36,13 +36,15 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - uses: nyaayaya/package-info@v1
+
 
       # Partial clone
       - name: Partial clone
         shell: bash
         run: |
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git config --global user.email github-actions@github.com
+          git config --global user.name github-actions
           git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
           git sparse-checkout add start/*
           git checkout
@@ -118,9 +120,6 @@ jobs:
           node tararchive.js
           7z a mytarball.tar.gz mytarball.tar -mx=9 -mfb=258
           node publish.js
-          npm unpublish ${{ env.PACKAGE_NAME }}@${{ env.PACKAGE_VERSION }}
-          git config --global user.email github-actions@github.com
-          git config --global user.name github-actions
           git pull
           git add --sparse -A
           git commit -m ${{ env.mycmd }}

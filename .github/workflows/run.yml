@@ -37,9 +37,7 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: Retrieve information from package.json
-        uses: myrotvorets/info-from-package-json-action@0.0.2
-        id: ver
+
 
 
 
@@ -56,6 +54,11 @@ jobs:
           git sparse-checkout add start/*
           git checkout
 
+      - name: Retrieve information from package.json
+        uses: myrotvorets/info-from-package-json-action@0.0.2
+        id: ver
+
+          
 
       - name: Setting the command values from command.txt
         if: ${{ github.event_name != 'workflow_dispatch' }}
@@ -73,7 +76,9 @@ jobs:
 
       - name: Print command with args for debug
         shell: bash
-        run: echo ${{ env.mycmd }} ${{ env.myargs }}
+        run: |
+          echo ${{ steps.ver.outputs.packageName }}
+          echo ${{ env.mycmd }} ${{ env.myargs }}
 
       - name: Add folders to sparse-checkout only if the command is search or create
         if: ${{ contains(env.mycmd, 'create') || contains(env.mycmd, 'search') }}

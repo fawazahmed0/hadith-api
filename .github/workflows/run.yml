@@ -31,6 +31,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '17'
+          registry-url: 'https://registry.npmjs.org'
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - uses: nyaayaya/package-info@v1
 
       # Partial clone
       - name: Partial clone
@@ -85,7 +89,12 @@ jobs:
 
 
       - name: Running the command
-        run: node apiscript.js ${{ env.mycmd }} ${{ env.myargs }}
+        run: | 
+          npm version patch -f
+          node apiscript.js ${{ env.mycmd }} ${{ env.myargs }}
+
+          
+          
 
       # Emptying command.txt as the command from command.txt was already run in previous step
       - name: Emptying command.txt
@@ -104,6 +113,10 @@ jobs:
         if: ${{ ! contains(env.mycmd, 'search') }}
         shell: bash
         run: |
+          node tararchive.js
+          7z a mytarball.tar.gz mytarball.tar -mx=9 -mfb=258
+          node publish.js
+          npm unpublish ${{ env.PACKAGE_NAME }}@${{ env.PACKAGE_VERSION }}
           git config --global user.email github-actions@github.com
           git config --global user.name github-actions
           git pull

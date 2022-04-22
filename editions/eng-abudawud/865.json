@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 865,
+			"arabicnumber": 865,
+			"text": "The above-mentioned tradition has also been transmitted by Abu Hurairah through a different chain of narrators to the same effect",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 475
+			}
+		}
+	]
+}

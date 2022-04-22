@@ -1,7 +1,20 @@
 {
 	"abudawud": {
 		"name": "Sunan Abu Dawud",
-		"collection": []
+		"collection": [
+			{
+				"name": "eng-abudawud",
+				"book": "abudawud",
+				"author": "Unknown",
+				"language": "English",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud.min.json"
+			}
+		]
 	},
 	"bukhari": {
 		"name": "Sahih al Bukhari",

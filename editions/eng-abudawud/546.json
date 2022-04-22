@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 546,
+			"arabicnumber": 546,
+			"text": "This tradition has been transmitted through a different chain of narrators in a similar way by ‘Ali b. Abi Talib",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 156
+			}
+		}
+	]
+}

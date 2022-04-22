@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 818,
+			"arabicnumber": 818,
+			"text": "Abu sa’id said:we were commanded to recite Fatihat al-kitab and whatever was convenient (from the Qur’an during the prayer)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sanad Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 428
+			}
+		}
+	]
+}

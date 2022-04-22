@@ -46,13 +46,14 @@ jobs:
       - name: Partial clone
         shell: bash
         run: |
-          echo ${{ steps.ver.outputs.packageName }}
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git config --global user.email github-actions@github.com
           git config --global user.name github-actions
           git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
           git sparse-checkout add start/*
           git checkout
+          curl `npm view ${{ steps.ver.outputs.packageName }} dist.tarball` --output mytarball.tar.gz
+          gzip -d mytarball.tar.gz
 
       - name: Retrieve information from package.json
         uses: myrotvorets/info-from-package-json-action@0.0.2

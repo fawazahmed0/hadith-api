@@ -26,8 +26,8 @@ client.publish(uri, params, function (error, data, raw, res) {
   // data is the parsed data object
   // raw is the json string
   // res is the response from couch
-    if (!error) 
-      client.unpublish(baseuri+metadata.name, {"version":decrementVersion(metadata.version),auth: {token:npmToken}}, function (error, data, raw, res) {})
+   // if (!error) 
+   //   client.unpublish(baseuri+metadata.name, {"version":decrementVersion(metadata.version),auth: {token:npmToken}}, function (error, data, raw, res) {})
 
 })
 

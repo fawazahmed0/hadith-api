@@ -6,12 +6,10 @@ let filesArr = [];
 let tarballName = 'mytarball.tar'
 let foldersToExclude = ['node_modules','.git','originals','start',tarballName,tarballName+'.gz']
   async function test(){
-    traverseDir(path.join('..',path.basename(__dirname)),foldersToExclude)
-
+    traverseDir('.',foldersToExclude)
     let filesObj = {}
     for (let value of filesArr)
     filesObj[value] = fs.statSync(value).size
-
     filesObj= sortJSONbyValue(filesObj)
     //compression ratio for 7zip
     let compressionRatio = 12
@@ -33,7 +31,8 @@ let foldersToExclude = ['node_modules','.git','originals','start',tarballName,ta
     //create tar
     await tar.c(
         {
-          file: tarballName
+          file: tarballName,
+          prefix: 'dir',
         },
         cleanFilesArr
       )

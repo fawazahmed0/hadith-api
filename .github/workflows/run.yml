@@ -31,8 +31,6 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '17'
-          cache: 'npm'
-          cache-dependency-path: package-lock.json
 
       # Partial clone
       - name: Partial clone
@@ -82,6 +80,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
+          node --version
           npm install
 
 

@@ -58,7 +58,7 @@ const getEntryFilenames = async tarballFilename => {
       let toAddFiles = cleanFilesArr.map(e=>tarballOptions.prefix+'/'+e.split(path.sep).join('/'))
       let toDeleteFiles = toAddFiles.filter(e=>tarballFiles.includes(e))
       // take n files at a time to avoid exec issues
-      let batchArr = TwoDimensional(toDeleteFiles, 300) 
+      let batchArr = TwoDimensional(toDeleteFiles, 25) 
       for(let batch of batchArr)
       await exec('tar --delete --file='+tarballName+' '+batch.join(' '), { maxBuffer: Infinity })
       

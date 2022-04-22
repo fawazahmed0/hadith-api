@@ -1,6 +1,7 @@
 {
-  "name": "hadith-api",
+  "name": "@fawazahmed0/hadith-api",
   "version": "1.0.0",
+  "exports": "*",
   "description": "",
   "main": "apiscript.js",
   "scripts": {
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/fawazahmed0/hadith-api#readme",
   "dependencies": {
     "node-fetch": "^3.2.3",
+    "npm-registry-client": "^8.6.0",
     "playwright": "^1.21.1",
     "tar": "^6.1.11"
   }

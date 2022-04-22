@@ -12,8 +12,11 @@ let tarballPath = path.join(__dirname,'mytarball.tar.gz')
 var baseuri = "https://registry.npmjs.org/"
 var uri = baseuri + 'npm'
 
-let npmToken = fs.readFileSync(path.join(__dirname,'..','npmtoken.txt')).toString().trim()
-
+let npmToken;
+if (process.env.CI) 
+  npmToken = process.env.npmtoken
+else
+ npmToken = fs.readFileSync(path.join(__dirname,'..','npmtoken.txt')).toString().trim()
 
 // location of tar.gz file
 const readable = fs.createReadStream(tarballPath)

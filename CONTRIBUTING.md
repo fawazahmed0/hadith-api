@@ -2,7 +2,7 @@
 
 
 ### Prerequisite Steps:
-1.  Go to [hadith-api editor](https://github.dev/fawazahmed0/hadith-api "hadith-api editor")
+1.  Go to [web editor](https://github.dev/fawazahmed0/hadith-api "web editor")
 
 ### Add new translations:
 The [database/originals](https://github.com/fawazahmed0/hadith-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/hadith-api/blob/1/Preprocessing.md) the file, if it is in other than text format(pdf, Images, docx, etc).

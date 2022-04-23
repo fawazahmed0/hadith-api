@@ -5,7 +5,7 @@
 1.  Go to [web editor](https://github.dev/fawazahmed0/hadith-api "web editor")
 
 ### Add new translations:
-1. The [database/originals](https://github.com/fawazahmed0/hadith-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/hadith-api/blob/1/Preprocessing.md) the file, if it is in other than text format(pdf, Images, docx, etc). Also make sure the correct hadith numbers are used in your file, the hadith numbers should be same as which is used in this api, so that proper hadith grades will show up
+1. The [database/originals](https://github.com/fawazahmed0/hadith-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/hadith-api/blob/1/Preprocessing.md) the file, if it is in other than text format(pdf, Images, docx, etc). Also make sure the correct hadith numbers are used in your file, the hadith numbers should be same as which is used in this api, so that proper hadith grades will mapped
 
     [Example 1](https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/database/originals/englishtirmidhiscrapped.txt "Example 1")
 

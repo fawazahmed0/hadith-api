@@ -19,9 +19,7 @@
   "homepage": "https://github.com/fawazahmed0/hadith-api#readme",
   "dependencies": {
     "node-fetch": "^3.2.3",
-    "npm-registry-client": "^8.6.0",
-    "playwright": "^1.21.1",
-    "tar": "^6.1.11"
+    "playwright": "^1.21.1"
   },
   "devDependencies": {}
 }

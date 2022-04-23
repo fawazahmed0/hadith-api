@@ -16,9 +16,7 @@ on:
       argval:
         description: 'Arguments'
         required: false
-        
-env: # Or as an environment variable
-  npmtoken: ${{ secrets.NPM_TOKEN }}
+
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -32,14 +30,6 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '17'
-          registry-url: 'https://registry.npmjs.org'
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-
-
-
-
-
 
       # Partial clone
       - name: Partial clone
@@ -52,11 +42,6 @@ jobs:
           git sparse-checkout add start/*
           git checkout
 
-      - name: Retrieve information from package.json
-        uses: myrotvorets/info-from-package-json-action@0.0.2
-        id: ver
-
-          
 
       - name: Setting the command values from command.txt
         if: ${{ github.event_name != 'workflow_dispatch' }}
@@ -78,12 +63,6 @@ jobs:
           echo ${{ env.mycmd }} ${{ env.myargs }}
           
 
-      - name: fetch tarball to update it
-        shell: bash
-        run: |
-          curl `npm view ${{ steps.ver.outputs.packageName }} dist.tarball` --output mytarball.tar.gz
-          gzip -d mytarball.tar.gz
-
       - name: Add folders to sparse-checkout only if the command is search or create
         if: ${{ contains(env.mycmd, 'create') || contains(env.mycmd, 'search') }}
         shell: bash
@@ -104,13 +83,11 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          node --version
           npm install
 
 
       - name: Running the command
         run: | 
-          npm version patch -f
           node apiscript.js ${{ env.mycmd }} ${{ env.myargs }}
 
           
@@ -128,15 +105,6 @@ jobs:
           name: log
           path: log.txt
           
-          
-      - name: publish tarball & unpublish old one
-        if: ${{ ! contains(env.mycmd, 'search') }}
-        shell: bash
-        run: |
-          node tararchive.js
-          7z a mytarball.tar.gz mytarball.tar -mx=9 -mfb=258
-          node publish.js
-          npm unpublish ${{ steps.ver.outputs.packageName }}@${{ steps.ver.outputs.packageVersion }}
           
       # commiting and pushing changes
       - name: commit and push

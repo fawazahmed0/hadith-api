@@ -54,15 +54,15 @@ Let say there is a spelling mistake in the edition and you would like to correct
 Lets say you what to know whether a translation exists in the database or not, or you want to find the edition which have a specific verse
 
 1. Edit [command.txt](https://github.com/fawazahmed0/hadith-api/blob/1/command.txt) file with the following line:<br>
-`search`
-And next line with:
+`search`<br>
+And next line with text to be searched:<br>
 `"text to be searched1" "text to be searched2"`
 
 2. Now commit the changes and create pull request.
 
 
 ### Deleting Translation:
-1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done by editing [command.txt](https://github.com/fawazahmed0/hadith-api/blob/1/command.txt) file with the following line:
+1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done by editing [command.txt](https://github.com/fawazahmed0/hadith-api/blob/1/command.txt) file with the following line:<br>
 `delete`<br>
 And next line with editions to be deleted<br>
 `editionNameToDelete editionName2ToDelete`

@@ -7,6 +7,7 @@ let sortByArr = ["name",'metadata','hadithnumber','arabicnumber','text','grades'
 
 async function test(){
     let metaPath = path.join(__dirname, 'info.json')
+    let metaMinPath = path.join(__dirname, 'info.min.json')
     let metainfo = await getJSON(metaPath)
    
     for(let [key, value] of Object.entries(metainfo)){
@@ -36,5 +37,6 @@ async function test(){
     }
 
     saveJSON(metainfo,metaPath,'\t')
+    saveJSON(metainfo,metaMinPath)
 }
 test()

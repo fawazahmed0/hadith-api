@@ -76,6 +76,8 @@ And next line with editions to be deleted<br>
 
 3. Now commit the changes and create pull request.
 
+4. Follow the steps given [here](#add-new-translations).
+
 <br>
 
 Facing any issue? [Let me Know](https://github.com/fawazahmed0/hadith-api/issues/new "Let me Know ")

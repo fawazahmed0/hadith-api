@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"9": "The Book on Hajj"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 867,
+			"arabicnumber": 867,
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 60
+			}
+		}
+	]
+}

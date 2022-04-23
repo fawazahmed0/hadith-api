@@ -1,0 +1,53 @@
+{
+	"metadata": {
+		"name": "Muwatta Malik",
+		"section": {
+			"4": "Forgetfulness in Prayer"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 222,
+			"arabicnumber": 222,
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 222
+			}
+		},
+		{
+			"hadithnumber": 223,
+			"arabicnumber": 223,
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 223
+			}
+		},
+		{
+			"hadithnumber": 224,
+			"arabicnumber": 224,
+			"text": "Nafî'den: Abdullah b. Ömer öğle, ikindi, akşam, yatsı ve sabah namazlarını Mina'da kılar, sabahleyin güneş doğunca Arafat'a giderdi",
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Maqtu Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 224
+			}
+		}
+	]
+}

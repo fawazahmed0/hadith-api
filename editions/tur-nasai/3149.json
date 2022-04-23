@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3149,
+			"arabicnumber": 3149,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 65
+			}
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"39": "The Book on the Description of Hellfire"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2584,
+			"arabicnumber": 2584,
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 12
+			}
+		}
+	]
+}

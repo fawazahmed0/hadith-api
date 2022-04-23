@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4106,
+			"arabicnumber": 4106,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 7
+			}
+		}
+	]
+}

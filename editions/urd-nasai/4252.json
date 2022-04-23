@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4252,
+			"arabicnumber": 4252,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 31
+			}
+		}
+	]
+}

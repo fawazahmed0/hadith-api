@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"4": "The Book on the Day of Friday"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 502,
+			"arabicnumber": 502,
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 15
+			}
+		}
+	]
+}

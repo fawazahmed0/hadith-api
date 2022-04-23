@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 100,
+			"arabicnumber": 100,
+			"text": "It was narrated from 'Awn bin Abi Juhaifah that his father said:\"The Messenger of Allah said: 'Abu Bakr and 'Umar are the leaders of the mature people of Paradise, the first and the last, except for the Prophets and the Messengers",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 100
+			}
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"metadata": {
+		"name": "Muwatta Malik",
+		"section": {
+			"40": "The Mudabbar"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1497,
+			"arabicnumber": 1497,
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Mauquf Sahih"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 1497
+			}
+		},
+		{
+			"hadithnumber": 1498,
+			"arabicnumber": 1498,
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Maqtu Sahih"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 1498
+			}
+		},
+		{
+			"hadithnumber": 1499,
+			"arabicnumber": 1499,
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Maqtu Daif"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 1499
+			}
+		}
+	]
+}

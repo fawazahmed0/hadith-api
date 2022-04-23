@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1,
+			"arabicnumber": 1,
+			"text": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: میں تمہیں جس چیز کا حکم دوں اسے مانو، اور جس چیز سے روک دوں اس سے رک جاؤ ۔",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari And Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 1
+			}
+		}
+	]
+}

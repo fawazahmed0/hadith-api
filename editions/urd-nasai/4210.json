@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4210,
+			"arabicnumber": 4210,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 62
+			}
+		}
+	]
+}

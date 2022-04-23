@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2334,
+			"arabicnumber": 2334,
+			"text": "It was narrated from Hafsah that the Prophet said:\"Whoever does not have the intention of fasting from the night before, then there is no fast for him.\" (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 245
+			}
+		}
+	]
+}

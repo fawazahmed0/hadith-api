@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2303,
+			"arabicnumber": 2303,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 214
+			}
+		}
+	]
+}

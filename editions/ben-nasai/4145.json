@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"38": "The Book of Distribution of Al-Fay'"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4145,
+			"arabicnumber": 4145,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Mursal"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Mursal"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 38,
+				"hadith": 13
+			}
+		}
+	]
+}

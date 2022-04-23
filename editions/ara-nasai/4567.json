@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4567,
+			"arabicnumber": 4567,
+			"text": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ مُوسَى بْنِ أَبِي تَمِيمٍ، عَنْ سَعِيدِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الدِّينَارُ بِالدِّينَارِ وَالدِّرْهَمُ بِالدِّرْهَمِ لاَ فَضْلَ بَيْنَهُمَا ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 119
+			}
+		}
+	]
+}

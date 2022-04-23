@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3777,
+			"arabicnumber": 3777,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 17
+			}
+		}
+	]
+}

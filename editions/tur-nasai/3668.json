@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3668,
+			"arabicnumber": 3668,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 58
+			}
+		}
+	]
+}

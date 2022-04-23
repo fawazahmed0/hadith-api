@@ -147,3 +147,269 @@ Generating Edition
  Generated edition eng-tirmidhi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for arabicabudawudarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-abudawud
+
+Starting to create files for arabicbukhariarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-bukhari
+
+Starting to create files for arabicibnmajaharabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-ibnmajah
+
+Starting to create files for arabicmalikarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for arabicmuslimarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-muslim
+
+Starting to create files for arabicnasaiarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-nasai
+
+Starting to create files for arabictirmidhiarabicscrapped.txt
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for bengaliabudawud.txt
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for bengalibukhari.txt
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for bengaliibnmajah.txt
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for bengalimalik.txt
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for bengalimuslim.txt
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for bengalinasai.txt
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for bengalitirmidhi.txt
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for englishabudawudscrapped.txt
+
+This file englishabudawudscrapped.txt seems to be a duplicate copy of edition eng-abudawud
+
+Starting to create files for englishibnmajahscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-ibnmajah
+
+Starting to create files for englishmalikscrapped.txt
+
+This file englishmalikscrapped.txt seems to be a duplicate copy of edition eng-malik
+
+Starting to create files for englishnasaiscrapped.txt
+
+Generating Edition
+
+ Generated edition eng-nasai
+
+Starting to create files for englishtirmidhiscrapped.txt
+
+This file englishtirmidhiscrapped.txt seems to be a duplicate copy of edition eng-tirmidhi
+
+Starting to create files for frenchmalik.txt
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for frenchmuslim.txt
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+Starting to create files for indonesianabudawud.txt
+
+Generating Edition
+
+ Generated edition ind-abudawud
+
+Starting to create files for indonesianbukhari.txt
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for indonesianibnmajah.txt
+
+Generating Edition
+
+ Generated edition ind-ibnmajah
+
+Starting to create files for indonesianmalik.txt
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for indonesianmuslim.txt
+
+Generating Edition
+
+ Generated edition ind-muslim
+
+Starting to create files for indonesiannasai.txt
+
+Generating Edition
+
+ Generated edition ind-nasai
+
+Starting to create files for indonesiantirmidhi.txt
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tamilbukhari.txt
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+Starting to create files for tamilmuslim.txt
+
+Generating Edition
+
+ Generated edition tam-muslim
+
+Starting to create files for turkishabudawud.txt
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for turkishbukhari.txt
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for turkishibnmajah.txt
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for turkishmalik.txt
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for turkishmuslim.txt
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for turkishnasai.txt
+
+Generating Edition
+
+ Generated edition tur-nasai
+
+Starting to create files for turkishtirmidhi.txt
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urduabudawud.txt
+
+Generating Edition
+
+ Generated edition urd-abudawud
+
+Starting to create files for urdubukhari.txt
+
+Generating Edition
+
+ Generated edition urd-bukhari
+
+Starting to create files for urduibnmajah.txt
+
+Generating Edition
+
+ Generated edition urd-ibnmajah
+
+Starting to create files for urdumalik.txt
+
+Generating Edition
+
+ Generated edition urd-malik
+
+Starting to create files for urdumuslim.txt
+
+Generating Edition
+
+ Generated edition urd-muslim
+
+Starting to create files for urdunasai.txt
+
+Generating Edition
+
+ Generated edition urd-nasai
+
+Starting to create files for urdutirmidhi.txt
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated

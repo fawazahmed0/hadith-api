@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4343,
+			"arabicnumber": 4343,
+			"text": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا الْمُفَضَّلُ، - هُوَ ابْنُ فَضَالَةَ - عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ أَكَلْنَا يَوْمَ خَيْبَرَ لُحُومَ الْخَيْلِ وَالْوَحْشِ وَنَهَانَا النَّبِيُّ صلى الله عليه وسلم عَنِ الْحِمَارِ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 81
+			}
+		}
+	]
+}

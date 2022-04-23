@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1298,
+			"arabicnumber": 1298,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 49
+			}
+		}
+	]
+}

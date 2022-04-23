@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"10": "The Book of Lost and Found Items"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1714,
+			"arabicnumber": 1714,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 14
+			}
+		}
+	]
+}

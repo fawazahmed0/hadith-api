@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5101,
+			"arabicnumber": 5101,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 62
+			}
+		}
+	]
+}

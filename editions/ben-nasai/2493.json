@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2493,
+			"arabicnumber": 2493,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 59
+			}
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"2": "The Book on Salat (Prayer)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 203,
+			"arabicnumber": 203,
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 55
+			}
+		}
+	]
+}

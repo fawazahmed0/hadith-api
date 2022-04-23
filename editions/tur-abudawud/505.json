@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 505,
+			"arabicnumber": 505,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Munqar"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Shadh"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 115
+			}
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4214,
+			"arabicnumber": 4214,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 1
+			}
+		}
+	]
+}

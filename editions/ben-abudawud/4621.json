@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4621,
+			"arabicnumber": 4621,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 26
+			}
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"metadata": {
+		"name": "Muwatta Malik",
+		"section": {
+			"2": "Purity"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 145,
+			"arabicnumber": 145,
+			"text": "Abou Houraira a dit: «Si (l'Envoyé d'Allah (salallahou alayhi wa salam)) ne voulait imposer quelque chose d'excessive à sa communauté, il lui aurait ordonné de faire usage du siwak avec chaque ablution» MOUATTA // Author: Brian Gosselin at scriptasylum.com var isMinNS4 = (navigator.appName.indexOf(\"Netscape\")>=0 && parseFloat(navigator.appVersion) >= 4 && parseFloat(navigator.appVersion) < 5)? true : false; var isMinIE4 = (document.all)? true : false; var isMinNS6 = (parseFloat(navigator.appVersion) >= 5 && navigator.appName.indexOf(\"Netscape\")>=0 )? true: false; var w_x, w_y, item, okscroll=false, godown, scrollamount=6; function init(){ if(isMinNS4)item=document.item; if(isMinNS6)item=document.getElementById('item'); if(isMinIE4)item=document.all.item; moveitem(); (isMinNS4)? item.visibility=\"show\" : item.style.visibility=\"visible\"; setInterval('scrollpage()' , 50); } function setscroll(ismore){ scrollamount= (ismore)? Math.min(30 , scrollamount+2) : Math.max(1, scrollamount-2); } function moveitem(){ if(isMinNS4 isMinNS6){ w_x=window.innerWidth; w_y=window.innerHeight; scrlx=window.pageXOffset; scrly=window.pageYOffset; }else{ w_x=document.body.clientWidth; w_y=document.body.clientHeight; scrlx=document.body.scrollLeft; scrly=document.body.scrollTop; } if(isMinNS4){ item.moveTo((scrlx+w_x-70),(scrly+w_y-50)) }else{ item.style.left=scrlx+w_x-70+'px'; item.style.top=scrly+w_y-50+'px'; }} function scrollpage(){ status=''; if(okscroll){ (godown)? window.scrollBy(0,scrollamount) : window.scrollBy(0,-scrollamount) ; } moveitem(); } var txt=(isMinNS4)? '<layer name=\"item\" visibility=\"hidden\" top=\"0\" left=\"0\" width=\"42\" height=\"20\">' : '<div id=\"item\" style=\"position:absolute; visibility:hidden; left:0px; top:0px; width: 42px; height:20px\">'; txt+='<a href=\"javascript:setscroll(false)\" onMouseover=\"okscroll=true; godown=true\" onMouseout=\"okscroll=false\"><img src=\"bas.gif\"/*tpa=http://www.nouralislam.org/almouwatta/livres/bas.gif*/ border=\"0\" alt=\"Cliquez pour ralentir\"></a><a href=\"javascript:setscroll(true)\" onMouseover=\"okscroll=true; godown=false\" onMouseout=\"okscroll=false\"><img src=\"haut.gif\"/*tpa=http://www.nouralislam.org/almouwatta/livres/haut.gif*/ border=\"0\" alt=\"Cliquez pour accélérer\"></a>'; txt+=(isMinNS4)? '</layer>' : '</div>'; document.write(txt); window.onload=init; Livre3 Les Prières. Chapitre premier L'appel à la prière",
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Mauquf Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 145
+			}
+		}
+	]
+}

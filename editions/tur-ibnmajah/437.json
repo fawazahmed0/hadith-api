@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 437,
+			"arabicnumber": 437,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 171
+			}
+		}
+	]
+}

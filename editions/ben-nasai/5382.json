@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"49": "The Book of the Etiquette of Judges"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5382,
+			"arabicnumber": 5382,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 49,
+				"hadith": 4
+			}
+		}
+	]
+}

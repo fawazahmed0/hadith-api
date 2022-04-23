@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"21": "The Book on Military Expeditions"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1565,
+			"arabicnumber": 1565,
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 24
+			}
+		}
+	]
+}

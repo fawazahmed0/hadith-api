@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 923,
+			"arabicnumber": 923,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Shadh"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 48
+			}
+		}
+	]
+}

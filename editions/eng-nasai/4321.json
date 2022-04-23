@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4321,
+			"arabicnumber": 4321,
+			"text": "It was narrated that Thabit bin Wadi ah said:\"A man brought a mastigure to the Messenger of Allah and he started looking at it, and turning it over. He said: 'A nation was transformed, it is not known what they did, and I do not know if this is one of them",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 59
+			}
+		}
+	]
+}

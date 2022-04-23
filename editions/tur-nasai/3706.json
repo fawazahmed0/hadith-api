@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"33": "The Book of ar-Ruqba"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3706,
+			"arabicnumber": 3706,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 1
+			}
+		}
+	]
+}

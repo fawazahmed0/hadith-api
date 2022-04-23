@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2036,
+			"arabicnumber": 2036,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 219
+			}
+		}
+	]
+}

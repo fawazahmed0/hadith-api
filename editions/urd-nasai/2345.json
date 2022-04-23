@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2345,
+			"arabicnumber": 2345,
+			"text": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم حضر میں ہوں یا سفر میں ایام بیض میں بغیر روزہ کے نہیں رہتے تھے ۱؎۔",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 256
+			}
+		}
+	]
+}

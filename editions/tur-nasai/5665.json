@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5665,
+			"arabicnumber": 5665,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad Maqtu"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 127
+			}
+		}
+	]
+}

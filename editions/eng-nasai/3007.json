@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3007,
+			"arabicnumber": 3007,
+			"text": "It was narrated from Salamah bin Nubait, that his father said:\"I saw the Messenger of Allah delivering a Khutab atop a red camel in Arafat, before the Salah.\" (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 390
+			}
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3617,
+			"arabicnumber": 3617,
+			"text": "اس سند سے یہ ابن عمر سے موقوفاً روایت ہے ( یعنی ابن عمر رضی اللہ عنہما کا قول ) ۔",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 7
+			}
+		}
+	]
+}

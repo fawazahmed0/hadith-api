@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 165,
+			"arabicnumber": 165,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 165
+			}
+		}
+	]
+}

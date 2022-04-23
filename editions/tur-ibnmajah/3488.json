@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3488,
+			"arabicnumber": 3488,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 53
+			}
+		}
+	]
+}

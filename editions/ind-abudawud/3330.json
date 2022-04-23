@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3330,
+			"arabicnumber": 3330,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 5
+			}
+		}
+	]
+}

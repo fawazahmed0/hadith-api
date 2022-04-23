@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 213,
+			"arabicnumber": 213,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 213
+			}
+		}
+	]
+}

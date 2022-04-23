@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 588,
+			"arabicnumber": 588,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 95
+			}
+		}
+	]
+}

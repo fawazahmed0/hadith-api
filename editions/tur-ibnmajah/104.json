@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 104,
+			"arabicnumber": 104,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Munqar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 104
+			}
+		}
+	]
+}

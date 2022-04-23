@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3077,
+			"arabicnumber": 3077,
+			"text": "Sad said:\"We returned during the Hajj with the Prophet and some of us said that they had stoned (the Jamarat) with seven stones, and other said that they had done so with six, and no one denounced anyone else",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 460
+			}
+		}
+	]
+}

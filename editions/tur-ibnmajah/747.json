@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 747,
+			"arabicnumber": 747,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 13
+			}
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1011,
+			"arabicnumber": 1011,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 622
+			}
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3385,
+			"arabicnumber": 3385,
+			"text": "হাসান ইবন সাব্বাহ (রহঃ) .... উরওয়া বারিকী (রাঃ) থেকে এরূপ বর্ণিত হয়েছে। তবে এর শব্দের মধ্যে কিছু পার্থক্য পরিলক্ষিত হয়।",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 60
+			}
+		}
+	]
+}

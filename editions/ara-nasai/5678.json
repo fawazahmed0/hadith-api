@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5678,
+			"arabicnumber": 5678,
+			"text": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ أَنْبَأَنَا شَرِيكٌ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ وَالْمُزَفَّتِ ‏.‏ خَالَفَهُ أَبُو عَوَانَةَ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 140
+			}
+		}
+	]
+}

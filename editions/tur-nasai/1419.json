@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"14": "The Book of Jumu'ah (Friday Prayer)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1419,
+			"arabicnumber": 1419,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 56
+			}
+		}
+	]
+}

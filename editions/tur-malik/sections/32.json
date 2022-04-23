@@ -1,0 +1,38 @@
+{
+	"metadata": {
+		"name": "Muwatta Malik",
+		"section": {
+			"32": "Qirad"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1386,
+			"arabicnumber": 1386,
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Mauquf Sahih"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 1386
+			}
+		},
+		{
+			"hadithnumber": 1387,
+			"arabicnumber": 1387,
+			"grades": [
+				{
+					"name": "Salim al-Hilali",
+					"grade": "Mauquf Hasan"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 1387
+			}
+		}
+	]
+}

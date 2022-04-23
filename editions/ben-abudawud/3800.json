@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3800,
+			"arabicnumber": 3800,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 65
+			}
+		}
+	]
+}

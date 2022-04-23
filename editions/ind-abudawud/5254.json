@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5254,
+			"arabicnumber": 5254,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 482
+			}
+		}
+	]
+}

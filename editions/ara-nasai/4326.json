@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4326,
+			"arabicnumber": 4326,
+			"text": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا بَقِيَّةُ، عَنْ بَحِيرٍ، عَنْ خَالِدٍ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ أَبِي ثَعْلَبَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَحِلُّ النُّهْبَى وَلاَ يَحِلُّ مِنَ السِّبَاعِ كُلُّ ذِي نَابٍ وَلاَ تَحِلُّ الْمُجْثَّمَةُ ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 64
+			}
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"24": "The Book on Clothing"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1762,
+			"arabicnumber": 1762,
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 45
+			}
+		}
+	]
+}

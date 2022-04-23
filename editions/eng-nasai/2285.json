@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2285,
+			"arabicnumber": 2285,
+			"text": "It was narrated that 'Abdur-Rahman bin 'Awf said:\"The one who fasts while traveling is like one who does not fast while a resident.\" (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 196
+			}
+		}
+	]
+}

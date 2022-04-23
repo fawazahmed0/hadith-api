@@ -1,0 +1,47 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5564,
+			"arabicnumber": 5564,
+			"text": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، عَنْ هِشَامِ بْنِ حَسَّانَ، عَنْ أَبِي إِدْرِيسَ، قَالَ شَهِدْتُ أَنَسَ بْنَ مَالِكٍ أُتِيَ بِبُسْرٍ مُذَنَّبٍ فَجَعَلَ يَقْطَعُهُ مِنْهُ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 25
+			}
+		},
+		{
+			"hadithnumber": 5564.2,
+			"arabicnumber": 5564.2,
+			"text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، قَالَ قَتَادَةُ كَانَ أَنَسٌ يَأْمُرُ بِالتَّذْنُوبِ فَيُقْرَضُ ‏.‏",
+			"grades": [],
+			"reference": {
+				"book": 0,
+				"hadith": 0
+			}
+		}
+	]
+}

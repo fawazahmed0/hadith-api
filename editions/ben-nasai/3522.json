@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3522,
+			"arabicnumber": 3522,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 134
+			}
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3348,
+			"arabicnumber": 3348,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 153
+			}
+		}
+	]
+}

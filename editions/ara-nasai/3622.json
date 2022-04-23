@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3622,
+			"arabicnumber": 3622,
+			"text": "أَخْبَرَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا مُصْعَبٌ، حَدَّثَنَا دَاوُدُ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ مَا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم دِرْهَمًا وَلاَ دِينَارًا وَلاَ شَاةً وَلاَ بَعِيرًا وَمَا أَوْصَى‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 12
+			}
+		}
+	]
+}

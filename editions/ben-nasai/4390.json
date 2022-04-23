@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4390,
+			"arabicnumber": 4390,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 30
+			}
+		}
+	]
+}

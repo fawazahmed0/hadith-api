@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"18": "The Book on Hunting"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1467,
+			"arabicnumber": 1467,
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Munqar"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Munqar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 5
+			}
+		}
+	]
+}

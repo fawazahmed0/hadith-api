@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3659,
+			"arabicnumber": 3659,
+			"text": "Abdullah b. Abbâs (radıyallahü anhümâ)'tan rivâyet olunduğuna göre, Resûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: Siz (bir hadisi) benden işitirsiniz, (sonra siz onu bir yerde rivâyet edince) sizden işitilir. (Sonra sizden işiten kimse onu nakleder de) sizden işitenden işitilir",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 19
+			}
+		}
+	]
+}

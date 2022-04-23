@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1112,
+			"arabicnumber": 1112,
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 84
+			}
+		}
+	]
+}

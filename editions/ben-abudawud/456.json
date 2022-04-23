@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 456,
+			"arabicnumber": 456,
+			"text": "মুহাম্মাদ ইবনু দাউদ .... সামুরা (রাঃ) থেকে বর্ণিত। তিনি তাঁর পুত্রদের নিকট এই মর্মে পত্র লিখেন যে, রাসুলূল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদেবকে পাড়ায় পাড়ায় মসজিদ নির্মাণের নির্দেশ দিয়েছেন এবং তা ঠিক ভাবে তৈরী করে পরিষ্কার রাখারও নির্দেশ দিয়ছেন।",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 66
+			}
+		}
+	]
+}

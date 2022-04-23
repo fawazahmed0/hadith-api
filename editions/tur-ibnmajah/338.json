@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 338,
+			"arabicnumber": 338,
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 72
+			}
+		}
+	]
+}

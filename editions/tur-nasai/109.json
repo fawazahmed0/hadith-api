@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 109,
+			"arabicnumber": 109,
+			"text": "Muğîre b. Şu’be (radıyallahü anh) aktarıyor: özellik var ki onları Rasûlüllah (sallallahü aleyhi ve sellem)’den gördükten sonra başka bir kimseye sorma ihtiyacı duymadım;",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 109
+			}
+		}
+	]
+}

@@ -89,3 +89,61 @@ Generating Edition
  Generated edition eng-tirmidhi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-abudawud.txt
+
+ deletion completed for eng-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-abudawud
+
+Starting to create files for eng-bukhari.txt
+
+ deletion completed for eng-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-bukhari
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for eng-muslim.txt
+
+ deletion completed for eng-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-muslim
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+editions.json and editions.min.json generated

@@ -75,7 +75,7 @@ Facing any issue? [Let me Know](https://github.com/fawazahmed0/hadith-api/issues
 
 <br>
 
-The above given details are enough to contribute to this repo, incase you want to know how the underlying things work or want to add new features to the repo then see [Local Contribute](https://github.com/fawazahmed0/hadith-api/blob/1/CONTRIBUTING-LOCAL.md "Implementation details") and [Development details](https://github.com/fawazahmed0/hadith-api/blob/1/dev.md "Development details")
+The above given details are enough to contribute to this repo, incase you want to know how the underlying things work or want to add new features to the repo then see [Development details](https://github.com/fawazahmed0/hadith-api/blob/1/dev.md "Development details")
 
 <br>
 <br>

@@ -264,7 +264,7 @@ function generateFiles(json, jsondata) {
     // sort json in this order
     let sortByArr = ["name",'metadata','hadithnumber','arabicnumber','text','grades','section','sections','reference']
     // We will generate the files and folders only if we are in github actions where CI env is set to trues and not on dev environment
-  if(process.env.CI || true){
+  if(process.env.CI){
 // generate whole edition first
     let fullEditionObj = {}
     let bookName = jsondata['book']

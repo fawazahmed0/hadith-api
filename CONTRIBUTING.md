@@ -24,7 +24,7 @@
     }
     ```  
     Please see [database/originals](https://github.com/fawazahmed0/hadith-api/tree/1/database/originals "database/originals") , all the files have the json data at end of file.
-When specifying the language, please use proper [iso name of language](https://github.com/fawazahmed0/quran-api/blob/1/isocodes/iso-codes.json "iso name of language")
+When specifying the language, please use proper [iso name of language](https://github.com/fawazahmed0/quran-api/blob/1/isocodes/iso-codes.json "iso name of language"). Also the book name should be same as given in [info](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/info.json).
 
 3. Drag & drop the translations to the [start](https://github.com/fawazahmed0/hadith-api/tree/1/start "start") directory, you can paste any number of translations.
 
@@ -68,6 +68,13 @@ And next line with editions to be deleted<br>
 `editionNameToDelete editionName2ToDelete`
 
 2. Now commit the changes and create pull request.
+
+### Adding a new book:
+1. You will have to add book metadata in [info](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/info.json), and have to follow same structure, as how other books details are structured in json.
+
+2. Run the [infofixer](https://github.com/fawazahmed0/hadith-api/blob/1/infofixer.js) script, which will sort the json, and fix any anamolies and generate minimized json.
+
+3. Now commit the changes and create pull request.
 
 <br>
 

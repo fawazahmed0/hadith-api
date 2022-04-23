@@ -1,4 +1,5 @@
 // Run this to make info.json into standard form, you should run this after adding something in info.json
+// This will also generate info.min.json
 
 const {
     mode, cleanify,replaceInnerJSON,replaceJSON,streamRead,sortJSON,getJSONKeyByValue,renameInnerJSONKey,saveJSON, renameJSONKey,isObject,capitalize,getJSON,getJSONInArray,dirCheck,isoLangMap,readDBTxt,isValidJSON,cleanifyObject,logmsg

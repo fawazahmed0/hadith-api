@@ -30,7 +30,7 @@ const getEntryFilenames = async tarballFilename => {
     update=true
  
     //compression ratio for 7zip
-    let compressionRatio = 12
+    let compressionRatio = 6.6
     let sizeLimit = 195 * 1000000 //195MB
     sizeLimit*=compressionRatio
 

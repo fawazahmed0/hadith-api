@@ -37,17 +37,11 @@ const getEntryFilenames = async tarballFilename => {
 
 
     let cleanFilesArr=[],sum=0;
-    // get tarball files list
-    let tarballFiles = []
-    if(update){
-      sum+=fs.statSync(tarballPath).size
-      tarballFiles = await getEntryFilenames(tarballPath)
-    }
-  
+
+    if(update)
+    sum+=fs.statSync(tarballPath).size
 
     for (let [key,value] of Object.entries(filesObj)) {
-       // don't add sizes for files from tarball, as we have already added the whole tarball size to sum
-      if(!tarballFiles.includes(tarballOptions.prefix+'/'+key.split(path.sep).join('/')))
         sum+=value
         if(sum>sizeLimit)
         break
@@ -58,7 +52,8 @@ const getEntryFilenames = async tarballFilename => {
 
    //update tar
     if(update){
-  
+      // get tarball files list
+      let tarballFiles = await getEntryFilenames(tarballPath)
 
        // delete files from tarball
       let toAddFiles = cleanFilesArr.map(e=>tarballOptions.prefix+'/'+e.split(path.sep).join('/'))

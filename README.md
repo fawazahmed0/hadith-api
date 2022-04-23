@@ -4,8 +4,6 @@
   <img width="460" height="300" src="https://github.com/fawazahmed0/hadith-api/raw/1/hadith.jpg">
 </p>
 
-[![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/hadith-api/badge)](https://www.jsdelivr.com/package/gh/fawazahmed0/hadith-api)
-[![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/hadith-api/badge/rank)](https://www.jsdelivr.com/package/gh/fawazahmed0/hadith-api)
 
 **In the name of God, who have guided me to do this work**
 

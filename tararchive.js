@@ -1,3 +1,4 @@
+// This only works in linux environment properly due to tar --delete thing, which is in linux
 const tar = require('tar');
 const fs = require('fs');
 const path = require('path');
@@ -61,8 +62,7 @@ const getEntryFilenames = async tarballFilename => {
   
 
        // delete files from tarball
-      let toAddFiles = cleanFilesArr.map(e=>tarballOptions.prefix+'/'+e.split(path.sep).join('/'))
-      let toDeleteFiles = toAddFiles.filter(e=>tarballFiles.includes(e))
+      let toDeleteFiles = cleanFilesArr.map(e=>tarballOptions.prefix+'/'+e.split(path.sep).join('/')).filter(e=>tarballFiles.includes(e))
       // take n files at a time to avoid exec issues
       let batchArr = TwoDimensional(toDeleteFiles, 1000) 
       for(let batch of batchArr)

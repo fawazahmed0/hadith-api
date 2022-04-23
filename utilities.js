@@ -1,3 +1,5 @@
+// contains different utility functions to make things easier
+
 const fs = require('fs');
 const path = require('path')
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));

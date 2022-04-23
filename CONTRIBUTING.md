@@ -28,7 +28,7 @@ When specifying the language, please use proper [iso name of language](https://g
 
 3. Drag & drop the translations to the [start](https://github.com/fawazahmed0/hadith-api/tree/1/start "start") directory, you can paste any number of translations.
 
-4. And then, edit command.txt file with the following line:<br>
+4. And then, edit [command.txt](https://github.com/fawazahmed0/hadith-api/blob/1/command.txt) file with the following line:<br>
 `create`
 
 5. Now commit the changes and create pull request.
@@ -44,7 +44,7 @@ Let say there is a spelling mistake in the edition and you would like to correct
 
 3. Update the text, Please do not modify the JSON values which are stored at the end of file,specifically the name and language json values
 
-4. And then, edit command.txt file with the following line:<br>
+4. And then, edit [command.txt](https://github.com/fawazahmed0/hadith-api/blob/1/command.txt) file with the following line:<br>
 `update`
 
 5. Now commit the changes and create pull request.
@@ -53,7 +53,7 @@ Let say there is a spelling mistake in the edition and you would like to correct
 
 Lets say you what to know whether a translation exists in the database or not, or you want to find the edition which have a specific verse
 
-1. Edit command.txt file with the following line:<br>
+1. Edit [command.txt](https://github.com/fawazahmed0/hadith-api/blob/1/command.txt) file with the following line:<br>
 `search`
 And next line with:
 `"text to be searched1" "text to be searched2"`
@@ -63,7 +63,7 @@ And next line with:
 
 
 ### Deleting Translation:
-1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done by editing command.txt file with the following line:
+1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done by editing [command.txt](https://github.com/fawazahmed0/hadith-api/blob/1/command.txt) file with the following line:
 `delete`<br>
 And next line with editions to be deleted<br>
 `editionNameToDelete editionName2ToDelete`

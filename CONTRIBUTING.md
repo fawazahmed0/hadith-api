@@ -5,7 +5,7 @@
 1.  Go to [web editor](https://github.dev/fawazahmed0/hadith-api "web editor")
 
 ### Add new translations:
-The [database/originals](https://github.com/fawazahmed0/hadith-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/hadith-api/blob/1/Preprocessing.md) the file, if it is in other than text format(pdf, Images, docx, etc).
+1. The [database/originals](https://github.com/fawazahmed0/hadith-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/hadith-api/blob/1/Preprocessing.md) the file, if it is in other than text format(pdf, Images, docx, etc).
 
     [Example 1](https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/database/originals/englishtirmidhiscrapped.txt "Example 1")
 
@@ -59,7 +59,6 @@ And next line with:
 `"text to be searched1" "text to be searched2"`
 
 2. Now commit the changes and create pull request.
-
 
 
 ### Deleting Translation:

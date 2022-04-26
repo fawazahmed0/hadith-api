@@ -269,11 +269,8 @@ function generateFiles(json, jsondata) {
     let skeletonJSON = 	replaceInnerJSON(structuredClone(fullEditionObj["hadiths"][0]))
     skeletonJSON.text = ""
     for(let i=0;i<fullEditionObj["hadiths"].length;i++){
-        // set the initial values to skeletonJSON
-        for(let [key,value] of Object.entries(skeletonJSON)){
-            if(!fullEditionObj["hadiths"][i][key])
-            fullEditionObj["hadiths"][i][key] = value
-        }
+        // set the undefined values from skeletonJSON
+        fullEditionObj["hadiths"][i] = structuredClone({...skeletonJSON,...fullEditionObj["hadiths"][i]})
 
         let hadithNo = fullEditionObj["hadiths"][i].hadithnumber
         if(json[hadithNo])

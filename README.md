@@ -45,15 +45,15 @@ The above formats also work for fallback i.e if `.min.json` link fails, you can 
 [https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim.json") <br>
 
 - `/editions/{editionName}/{HadithNo}` <br>
-> Get the 5th Hadith:<br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/5.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/5.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/5.json")
+> Get the 1035th Hadith:<br>
+[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/1035.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/1035.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/1035.json")
 
-> Get the 5th Hadith in minified format:<br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/5.min.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/5.min.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/5.min.json")
+> Get the 1035th Hadith in minified format:<br>
+[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/1035.min.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/1035.min.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/1035.min.json")
 
 - `/editions/{editionName}/sections/{sectionNo}` <br>
-> Get Section 3:<br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/sections/3.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/sections/3.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/sections/3.json")
+> Get Section 7:<br>
+[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/sections/7.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/sections/7.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-muslim/sections/7.json")
 
 
 - `/info` <br>

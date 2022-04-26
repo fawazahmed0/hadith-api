@@ -64,7 +64,7 @@ function renameInnerJSONKey(obj, oldKey, newKey){
 
       return arr.concat(objectKeys).reduce(
           (obj, key) => { 
-            if(jsonObj[key])
+            if(key in jsonObj)
             obj[key] = jsonObj[key]; 
             return obj;
           }, 

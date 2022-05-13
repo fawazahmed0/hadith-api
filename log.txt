@@ -881,3 +881,71 @@ Generating Edition
  Generated edition urd-tirmidhi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for tur-abudawud.txt
+
+ deletion completed for tur-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-abudawud
+
+Starting to create files for tur-bukhari.txt
+
+ deletion completed for tur-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-bukhari
+
+Starting to create files for tur-ibnmajah.txt
+
+ deletion completed for tur-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-ibnmajah
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for tur-muslim.txt
+
+ deletion completed for tur-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-muslim
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+editions.json and editions.min.json generated

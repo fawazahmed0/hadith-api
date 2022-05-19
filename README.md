@@ -73,7 +73,10 @@ or
 
 ### Any Issues: [Raise here](https://github.com/fawazahmed0/hadith-api/issues/new "Raise here")
 
-### Other Projects:
+### Demos:
+- [Hadiths](https://github.com/fawazahmed0/hadiths)
+
+### Other Similar Projects:
 - [Quran-api](https://github.com/fawazahmed0/quran-api)
 
 

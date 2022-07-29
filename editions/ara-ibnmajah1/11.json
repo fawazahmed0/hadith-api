@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 11,
+			"arabicnumber": 11,
+			"text": "حدثنا أبو سعيد عبد الله بن سعيد، حدثنا أبو خالد الأحمر، قال سمعت مجالدا، يذكر عن الشعبي، عن جابر بن عبد الله، قال كنا عند النبي ـ صلى الله عليه وسلم ـ فخط خطا وخط خطين عن يمينه وخط خطين عن يساره ثم وضع يده في الخط الأوسط فقال ‏\"‏ هذا سبيل الله ‏\"‏ ‏.‏ ثم تلا هذه الآية {وأن هذا صراطي مستقيما فاتبعوه ولا تتبعوا السبل فتفرق بكم عن سبيله}‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 11
+			}
+		}
+	]
+}

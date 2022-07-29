@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 652,
+			"arabicnumber": 652,
+			"text": "أخبرنا سويد، قال حدثنا عبد الله، عن يونس بن أبي إسحاق، عن محارب بن دثار، قال حدثني الأسود بن يزيد، عن أبي محذورة، أن آخر الأذان، لا إله إلا الله ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 27
+			}
+		}
+	]
+}

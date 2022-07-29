@@ -15,6 +15,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abudawud.min.json"
 			},
 			{
+				"name": "ara-abudawud1",
+				"book": "abudawud",
+				"author": "Unknown",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "Diacritics removed for easier searching",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abudawud1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abudawud1.min.json"
+			},
+			{
 				"name": "ben-abudawud",
 				"book": "abudawud",
 				"author": "Unknown",
@@ -90,6 +102,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.min.json"
+			},
+			{
+				"name": "ara-bukhari1",
+				"book": "bukhari",
+				"author": "Unknown",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "Diacritics removed for easier searching",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari1.min.json"
 			},
 			{
 				"name": "ben-bukhari",
@@ -181,6 +205,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-ibnmajah.min.json"
 			},
 			{
+				"name": "ara-ibnmajah1",
+				"book": "ibnmajah",
+				"author": "Unknown",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "Diacritics removed for easier searching",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-ibnmajah1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-ibnmajah1.min.json"
+			},
+			{
 				"name": "ben-ibnmajah",
 				"book": "ibnmajah",
 				"author": "Unknown",
@@ -256,6 +292,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-malik.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-malik.min.json"
+			},
+			{
+				"name": "ara-malik1",
+				"book": "malik",
+				"author": "Unknown",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "Diacritics removed for easier searching",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-malik1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-malik1.min.json"
 			},
 			{
 				"name": "ben-malik",
@@ -345,6 +393,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim.min.json"
+			},
+			{
+				"name": "ara-muslim1",
+				"book": "muslim",
+				"author": "Unknown",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "Diacritics removed for easier searching",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-muslim1.min.json"
 			},
 			{
 				"name": "ben-muslim",
@@ -448,6 +508,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nasai.min.json"
 			},
 			{
+				"name": "ara-nasai1",
+				"book": "nasai",
+				"author": "Unknown",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "Diacritics removed for easier searching",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nasai1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nasai1.min.json"
+			},
+			{
 				"name": "ben-nasai",
 				"book": "nasai",
 				"author": "Unknown",
@@ -523,6 +595,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-tirmidhi.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-tirmidhi.min.json"
+			},
+			{
+				"name": "ara-tirmidhi1",
+				"book": "tirmidhi",
+				"author": "Unknown",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "Diacritics removed for easier searching",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-tirmidhi1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-tirmidhi1.min.json"
 			},
 			{
 				"name": "ben-tirmidhi",

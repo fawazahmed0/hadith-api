@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1892,
+			"arabicnumber": 1892,
+			"text": "أخبرنا قتيبة بن سعيد، قال حدثنا حماد، عن أيوب، وقالت، حفصة عن أم عطية، وجعلنا، رأسها ثلاثة قرون ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 75
+			}
+		}
+	]
+}

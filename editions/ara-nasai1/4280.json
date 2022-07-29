@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4280,
+			"arabicnumber": 4280,
+			"text": "أخبرنا عمران بن موسى، قال حدثنا يزيد بن زريع، قال حدثنا يونس، عن الحسن، عن عبد الله بن مغفل، قال قال رسول الله صلى الله عليه وسلم ‏ \"‏ لولا أن الكلاب أمة من الأمم لأمرت بقتلها فاقتلوا منها الأسود البهيم وأيما قوم اتخذوا كلبا ليس بكلب حرث أو صيد أو ماشية فإنه ينقص من أجره كل يوم قيراط ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 18
+			}
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3667,
+			"arabicnumber": 3667,
+			"text": "أخبرنا العباس بن محمد، قال حدثنا عبد الله بن يزيد، عن سعيد بن أبي أيوب، عن عبيد الله بن أبي جعفر، عن سالم بن أبي سالم الجيشاني، عن أبيه، عن أبي ذر، قال قال لي رسول الله صلى الله عليه وسلم ‏ \"‏ يا أبا ذر إني أراك ضعيفا وإني أحب لك ما أحب لنفسي لا تأمرن على اثنين ولا تولين على مال يتيم ‏\"‏‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 57
+			}
+		}
+	]
+}

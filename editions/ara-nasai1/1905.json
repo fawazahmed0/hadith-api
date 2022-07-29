@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1905,
+			"arabicnumber": 1905,
+			"text": "أخبرنا محمود بن غيلان، قال حدثنا أبو داود، وشبابة، قالا حدثنا شعبة، عن خليد بن جعفر، سمع أبا نضرة، عن أبي سعيد، قال قال رسول الله صلى الله عليه وسلم ‏ \"‏ أطيب الطيب المسك ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 88
+			}
+		}
+	]
+}

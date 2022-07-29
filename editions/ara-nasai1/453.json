@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 453,
+			"arabicnumber": 453,
+			"text": "أخبرنا إسحاق بن إبراهيم، قال أنبأنا سفيان، عن الزهري، عن عروة، عن عائشة، قالت أول ما فرضت الصلاة ركعتين فأقرت صلاة السفر وأتمت صلاة الحضر ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 6
+			}
+		}
+	]
+}

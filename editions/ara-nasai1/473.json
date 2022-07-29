@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 473,
+			"arabicnumber": 473,
+			"text": "أخبرنا محمد بن عبد الأعلى، قال حدثنا خالد، قال حدثنا شعبة، قال أخبرني قتادة، عن أبي حسان، عن عبيدة، عن علي، - رضى الله عنه - عن النبي صلى الله عليه وسلم قال ‏ \"‏ شغلونا عن الصلاة الوسطى حتى غربت الشمس ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 26
+			}
+		}
+	]
+}

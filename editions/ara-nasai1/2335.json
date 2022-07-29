@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2335,
+			"arabicnumber": 2335,
+			"text": "أخبرنا محمد بن عبد الأعلى، قال حدثنا معتمر، قال سمعت عبيد الله، عن ابن شهاب، عن سالم، عن عبد الله، عن حفصة، أنها كانت تقول من لم يجمع الصيام من الليل فلا يصوم ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 246
+			}
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 738,
+			"arabicnumber": 738,
+			"text": "أخبرنا إسماعيل بن مسعود، قال حدثنا خالد، عن شعبة، عن سليمان، - يعني الشيباني - عن عبد الله بن شداد، عن ميمونة، أن رسول الله صلى الله عليه وسلم كان يصلي على الخمرة ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 51
+			}
+		}
+	]
+}

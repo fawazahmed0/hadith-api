@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3880,
+			"arabicnumber": 3880,
+			"text": "حدثنا عثمان بن أبي شيبة، حدثنا جرير، عن الأعمش، عن إبراهيم، عن الأسود، عن عائشة، رضى الله عنها قالت كان يؤمر العائن فيتوضأ ثم يغتسل منه المعين ‏.‏",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 26
+			}
+		}
+	]
+}

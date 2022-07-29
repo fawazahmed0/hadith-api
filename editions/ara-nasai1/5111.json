@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5111,
+			"arabicnumber": 5111,
+			"text": "أخبرنا أحمد بن عمرو بن السرح، قال حدثنا ابن وهب، قال أخبرني الليث، عن يزيد بن أبي حبيب، عن أبي الحصين الحميري، عن أبي ريحانة، قال بلغنا أن رسول الله صلى الله عليه وسلم نهى عن الوشر والوشم ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 72
+			}
+		}
+	]
+}

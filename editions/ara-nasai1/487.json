@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 487,
+			"arabicnumber": 487,
+			"text": "أخبرنا عمرو بن علي، ويعقوب بن إبراهيم، قالا حدثنا يحيى بن سعيد، عن إسماعيل، قال حدثني أبو بكر بن عمارة بن، رويبة عن أبيه، قال سمعت رسول الله صلى الله عليه وسلم يقول ‏ \"‏ لا يلج النار أحد صلى قبل طلوع الشمس وقبل أن تغرب ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 40
+			}
+		}
+	]
+}

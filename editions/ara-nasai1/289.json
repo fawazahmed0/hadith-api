@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 289,
+			"arabicnumber": 289,
+			"text": "أخبرنا عمرو بن علي، قال حدثنا يحيى، عن شعبة، عن الحكم، عن عبد الحميد، عن مقسم، عن ابن عباس، عن النبي صلى الله عليه وسلم في الرجل يأتي امرأته وهي حائض يتصدق بدينار أو بنصف دينار ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 290
+			}
+		}
+	]
+}

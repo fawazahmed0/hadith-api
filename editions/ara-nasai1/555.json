@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 555,
+			"arabicnumber": 555,
+			"text": "أخبرني يزيد بن محمد بن عبد الصمد، قال حدثنا هشام العطار، قال حدثنا إسماعيل، - وهو ابن سماعة - عن موسى بن أعين، عن أبي عمرو الأوزاعي، عن الزهري، عن أبي سلمة، عن أبي هريرة، أن النبي صلى الله عليه وسلم قال ‏ \"‏ من أدرك من الصلاة ركعة فقد أدرك الصلاة ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 62
+			}
+		}
+	]
+}

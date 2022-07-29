@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4321,
+			"arabicnumber": 4321,
+			"text": "أخبرنا عمرو بن يزيد، قال حدثنا بهز بن أسد، قال حدثنا شعبة، قال حدثني عدي بن ثابت، قال سمعت زيد بن وهب، يحدث عن ثابت بن وديعة، قال جاء رجل إلى رسول الله صلى الله عليه وسلم بضب فجعل ينظر إليه ويقلبه وقال ‏ \"‏ إن أمة مسخت لا يدرى ما فعلت وإني لا أدري لعل هذا منها ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 59
+			}
+		}
+	]
+}

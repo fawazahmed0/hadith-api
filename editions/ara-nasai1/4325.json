@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4325,
+			"arabicnumber": 4325,
+			"text": "أخبرنا إسحاق بن منصور، ومحمد بن المثنى، عن سفيان، عن الزهري، عن أبي إدريس، عن أبي ثعلبة الخشني، أن النبي صلى الله عليه وسلم نهى عن أكل كل ذي ناب من السباع ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 63
+			}
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"2": "The Book of Water"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 345,
+			"arabicnumber": 345,
+			"text": "أخبرنا عمرو بن علي، قال حدثنا يحيى بن سعيد، قال حدثنا شعبة، قال حدثني عبد الله بن عبد الله بن جبر، قال سمعت أنس بن مالك، يقول كان رسول الله صلى الله عليه وسلم يتوضأ بمكوك ويغتسل بخمسة مكاكي ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 21
+			}
+		}
+	]
+}

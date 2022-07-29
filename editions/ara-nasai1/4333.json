@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4333,
+			"arabicnumber": 4333,
+			"text": "أخبرنا محمد بن المثنى، عن عبد الرحمن، عن سفيان، عن عبد الكريم، عن عطاء، عن جابر، قال كنا نأكل لحوم الخيل ‏.‏ قلت البغال قال لا ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 71
+			}
+		}
+	]
+}

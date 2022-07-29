@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"23": "The Book on Jihad"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1689,
+			"arabicnumber": 1689,
+			"text": "حدثنا محمد بن عمر بن علي المقدمي البصري، حدثني أبي، عن سفيان بن حسين، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، قال لقد رأيتنا يوم حنين وإن الفئتين لموليتين وما مع رسول الله صلى الله عليه وسلم مائة رجل ‏.‏ قال أبو عيسى هذا حديث حسن صحيح غريب لا نعرفه من حديث عبيد الله إلا من هذا الوجه ‏.‏",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 20
+			}
+		}
+	]
+}

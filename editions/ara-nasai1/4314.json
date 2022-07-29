@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4314,
+			"arabicnumber": 4314,
+			"text": "أخبرنا قتيبة، قال حدثنا مالك، عن عبد الله بن دينار، عن ابن عمر، أن رسول الله صلى الله عليه وسلم وهو على المنبر سئل عن الضب فقال ‏ \"‏ لا آكله ولا أحرمه ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 52
+			}
+		}
+	]
+}

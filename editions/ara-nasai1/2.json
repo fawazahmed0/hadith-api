@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2,
+			"arabicnumber": 2,
+			"text": "أخبرنا إسحاق بن إبراهيم، وقتيبة بن سعيد، عن جرير، عن منصور، عن أبي وائل، عن حذيفة، قال كان رسول الله صلى الله عليه وسلم إذا قام من الليل يشوص فاه بالسواك ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari And Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 2
+			}
+		}
+	]
+}

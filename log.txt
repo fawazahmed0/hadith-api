@@ -949,3 +949,53 @@ Generating Edition
  Generated edition tur-tirmidhi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-abudawud.txt
+
+Generating Edition
+
+ Generated edition ara-abudawud1
+
+Starting to create files for ara-bukhari.txt
+
+Generating Edition
+
+ Generated edition ara-bukhari1
+
+Starting to create files for ara-ibnmajah.txt
+
+Generating Edition
+
+ Generated edition ara-ibnmajah1
+
+Starting to create files for ara-malik.txt
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ara-muslim.txt
+
+Generating Edition
+
+ Generated edition ara-muslim1
+
+Starting to create files for ara-nasai.txt
+
+Generating Edition
+
+ Generated edition ara-nasai1
+
+Starting to create files for ara-tirmidhi.txt
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+editions.json and editions.min.json generated

@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Jami At Tirmidhi",
+		"section": {
+			"24": "The Book on Clothing"
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1748,
+			"arabicnumber": 1748,
+			"text": "حدثنا محمد بن بشار، ومحمد بن يحيى، وغير، واحد، قالوا حدثنا محمد بن عبد الله الأنصاري، حدثني أبي، عن ثمامة، عن أنس بن مالك، قال كان نقش خاتم النبي صلى الله عليه وسلم ثلاثة أسطر محمد سطر ورسول سطر والله سطر ‏.‏ ولم يذكر محمد بن يحيى في حديثه ثلاثة أسطر ‏.‏ وفي الباب عن ابن عمر ‏.‏",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 29
+			}
+		}
+	]
+}

@@ -8177,3 +8177,25 @@ Generating Edition
  Generated edition eng-tirmidhi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.1.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-bukhari.txt
+
+No JSON found in file fra-bukhari.txt or please enter the json in correct format
+
+Add json at end of file in the following format:
+
+{
+	"author": "Name of Author",
+	"book": "Name of book",
+	"language": "Name of language",
+	"source": "",
+	"comments": ""
+}
+
+editions.json and editions.min.json generated

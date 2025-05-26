@@ -15,7 +15,7 @@ async function begin() {
         outArr.push(`${value.arabic_number} | ${value.french}`)
     }
 
-    await fs.writeFile(pathToOutFile, outArr.join('\n'), 'utf8')
+    await fs.writeFile(pathToOutFile, outArr.map(e=>e.replace(/\r?\n/gi, " ")).join('\n'), 'utf8')
 
 }
 

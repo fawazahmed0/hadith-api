@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 730,
+			"arabicnumber": 730,
+			"text": "Rapporté par Aïcha : Le Prophète ﷺ avait une natte qu’il étendait le jour et utilisait comme rideau la nuit. Des gens se rassemblèrent la nuit et prièrent derrière lui",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 124
+			}
+		}
+	]
+}

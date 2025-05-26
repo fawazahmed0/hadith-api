@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"11": "Friday Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 941,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 941
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 889,
+			"arabicnumber": 889,
+			"text": "Rapporté par Houdhayfa : Lorsque le Prophète ﷺ se levait la nuit, il se brossait la bouche",
+			"grades": [],
+			"reference": {
+				"book": 11,
+				"hadith": 14
+			}
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"34": "Sales and Trade"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 2047,
+				"hadithnumber_last": 2238,
+				"arabicnumber_first": 2047,
+				"arabicnumber_last": 2238
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2214,
+			"arabicnumber": 2214,
+			"text": "Rapporté par Jâbir ibn 'Abdillah : Le Prophète ﷺ a statué la validité de la préemption dans tout bien qui n'a pas été partagé. Mais lorsque les limites sont fixées et les chemins tracés, il n'y a plus de préemption",
+			"grades": [],
+			"reference": {
+				"book": 34,
+				"hadith": 160
+			}
+		},
+		{
+			"hadithnumber": 2214.2,
+			"arabicnumber": 2214.2,
+			"text": "Rapporté par Mussaddad, d'après 'Abd al-Wâhid, à ce sujet, et il a dit : « ... dans tout ce qui n'a pas été partagé. » Hisham a rapporté de Ma'mar la même chose, mais il a dit : « ... dans tout bien. » 'Abd al-Razzâq a dit : « dans tout bien. » Cela a été rapporté par 'Abd al-Rahmân ibn Ishâq d'après al-Zuhrî",
+			"grades": [],
+			"reference": {
+				"book": 34,
+				"hadith": 161
+			}
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"8": "Prayers (Salat)"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 349,
+				"hadithnumber_last": 520,
+				"arabicnumber_first": 349,
+				"arabicnumber_last": 520
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 402,
+			"arabicnumber": 402,
+			"text": "Rapporté par Anas : `Umar a dit : Mon Seigneur a été d’accord avec moi sur trois choses. J’ai dit : Ô Messager d’Allah, si nous prenions la station d’Ibrahim comme lieu de prière. Alors fut révélée : {Et prenez la station d’Ibrahim comme lieu de prière}. Et au sujet du verset du voile, j’ai dit : Ô Messager d’Allah, si tu ordonnais à tes épouses de se couvrir, car elles sont abordées par le vertueux comme par le pervers. Le verset du voile fut alors révélé. Et lorsque les épouses du Prophète ﷺ se sont réunies contre lui par jalousie, je leur ai dit : Il se peut que son Seigneur, s’il vous répudie, lui accorde à la place des épouses meilleures que vous. Alors ce verset fut révélé",
+			"grades": [],
+			"reference": {
+				"book": 8,
+				"hadith": 53
+			}
+		},
+		{
+			"hadithnumber": 402.2,
+			"arabicnumber": 402.2,
+			"text": "Rapporté par Anas : comme précédemment cité",
+			"grades": [],
+			"reference": {
+				"book": 8,
+				"hadith": 54
+			}
+		}
+	]
+}

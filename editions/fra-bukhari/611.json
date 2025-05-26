@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 611,
+			"arabicnumber": 611,
+			"text": "Rapporté par Abou Sa`id al-Khudri : Le Messager d’Allah ﷺ a dit : « Lorsque vous entendez l’appel, dites comme le muezzin dit. »",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 9
+			}
+		}
+	]
+}

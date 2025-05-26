@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"76": "Medicine"
+		},
+		"section_detail": {
+			"76": {
+				"hadithnumber_first": 5678,
+				"hadithnumber_last": 5782,
+				"arabicnumber_first": 5678,
+				"arabicnumber_last": 5782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5779,
+			"arabicnumber": 5779,
+			"text": "Rapporté par ‘Âmir ibn Sa‘d d’après son père Sa‘d : « Celui qui, le matin, mange sept dattes ‘ajwa, ce jour-là, aucun poison ni aucune sorcellerie ne lui nuira. »",
+			"grades": [],
+			"reference": {
+				"book": 76,
+				"hadith": 91
+			}
+		}
+	]
+}

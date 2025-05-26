@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"14": "Witr Prayer"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 990,
+				"hadithnumber_last": 1004,
+				"arabicnumber_first": 990,
+				"arabicnumber_last": 1004
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1000,
+			"arabicnumber": 1000,
+			"text": "Rapporté par Ibn ‘Umar : Le Prophète ﷺ priait en voyage sur sa monture, dans la direction où elle se tournait, en faisant des gestes, la prière de la nuit, sauf les prières obligatoires, et il accomplissait le witr sur sa monture",
+			"grades": [],
+			"reference": {
+				"book": 14,
+				"hadith": 11
+			}
+		}
+	]
+}

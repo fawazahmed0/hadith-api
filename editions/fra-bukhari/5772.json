@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"76": "Medicine"
+		},
+		"section_detail": {
+			"76": {
+				"hadithnumber_first": 5678,
+				"hadithnumber_last": 5782,
+				"arabicnumber_first": 5678,
+				"arabicnumber_last": 5782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5772,
+			"arabicnumber": 5772,
+			"text": "Rapporté par ‘Abdallah ibn ‘Omar : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de contagion, ni de superstition ; mais le mauvais présage n’est que dans trois choses : le cheval, la femme et la maison. »",
+			"grades": [],
+			"reference": {
+				"book": 76,
+				"hadith": 86
+			}
+		}
+	]
+}

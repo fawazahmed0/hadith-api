@@ -1,0 +1,38 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"35": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 2239,
+				"hadithnumber_last": 2256,
+				"arabicnumber_first": 2239,
+				"arabicnumber_last": 2256
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2240,
+			"arabicnumber": 2240,
+			"text": "Rapporté par Ibn ‘Abbas : Le Prophète ﷺ arriva à Médine, et ils avançaient de l’argent pour des dattes sur deux ou trois ans. Il dit : « Celui qui avance de l’argent pour une chose, qu’il le fasse selon une mesure déterminée, un poids déterminé, et pour un délai déterminé. »",
+			"grades": [],
+			"reference": {
+				"book": 35,
+				"hadith": 3
+			}
+		},
+		{
+			"hadithnumber": 2240.2,
+			"arabicnumber": 2240.2,
+			"text": "Rapporté par Ibn Abi Najih : « Qu’il avance le paiement pour une quantité déterminée, jusqu’à un terme déterminé. »",
+			"grades": [],
+			"reference": {
+				"book": 35,
+				"hadith": 4
+			}
+		}
+	]
+}

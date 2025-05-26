@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 693,
+			"arabicnumber": 693,
+			"text": "Rapporté par Anas : Le Prophète ﷺ a dit : « Écoutez et obéissez, même si un Abyssin dont la tête est comme un raisin est désigné comme votre chef. »",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 88
+			}
+		}
+	]
+}

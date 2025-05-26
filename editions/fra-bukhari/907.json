@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"11": "Friday Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 941,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 941
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 907,
+			"arabicnumber": 907,
+			"text": "Rapporté par Abou `Abs : J’ai entendu le Prophète ﷺ dire : « Celui dont les pieds sont couverts de poussière dans le sentier d’Allah, Allah lui interdit le Feu. »",
+			"grades": [],
+			"reference": {
+				"book": 11,
+				"hadith": 31
+			}
+		}
+	]
+}

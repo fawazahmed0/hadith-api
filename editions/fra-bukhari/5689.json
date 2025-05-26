@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"76": "Medicine"
+		},
+		"section_detail": {
+			"76": {
+				"hadithnumber_first": 5678,
+				"hadithnumber_last": 5782,
+				"arabicnumber_first": 5678,
+				"arabicnumber_last": 5782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5689,
+			"arabicnumber": 5689,
+			"text": "Rapporté par ‘Aïcha : Elle recommandait la talbina pour le malade et pour celui qui est affligé par la perte d’un proche, et elle disait : « J’ai entendu le Messager d’Allah ﷺ dire : “La talbina réconforte le cœur du malade et dissipe une partie de la tristesse.” »",
+			"grades": [],
+			"reference": {
+				"book": 76,
+				"hadith": 12
+			}
+		}
+	]
+}

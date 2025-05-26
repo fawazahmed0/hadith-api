@@ -1,0 +1,38 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 690,
+			"arabicnumber": 690,
+			"text": "Rapporté par Al-Bara’ — et il n’était pas menteur — : Lorsque le Messager d’Allah ﷺ disait : « Sami‘a Allahu liman hamidah », aucun de nous ne courbait son dos (pour la prosternation) avant que le Prophète ﷺ ne se prosterne, puis nous nous prosternions après lui",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 84
+			}
+		},
+		{
+			"hadithnumber": 690.2,
+			"arabicnumber": 690.2,
+			"text": "Rapporté par Abou Ishaq : Comme ci-dessus",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 85
+			}
+		}
+	]
+}

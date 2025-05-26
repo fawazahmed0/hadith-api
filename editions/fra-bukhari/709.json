@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 709,
+			"arabicnumber": 709,
+			"text": "Rapporté par Anas ibn Malik : Le Prophète ﷺ a dit : « Il m’arrive d’entrer en prière en voulant la prolonger, puis j’entends les pleurs d’un enfant, alors j’allège ma prière, sachant combien sa mère est affectée par ses pleurs. »",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 104
+			}
+		}
+	]
+}

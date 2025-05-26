@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"76": "Medicine"
+		},
+		"section_detail": {
+			"76": {
+				"hadithnumber_first": 5678,
+				"hadithnumber_last": 5782,
+				"arabicnumber_first": 5678,
+				"arabicnumber_last": 5782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5690,
+			"arabicnumber": 5690,
+			"text": "Rapporté par ‘Aïcha : Elle recommandait la talbina et disait : « C’est une chose désagréable mais bénéfique. »",
+			"grades": [],
+			"reference": {
+				"book": 76,
+				"hadith": 13
+			}
+		}
+	]
+}

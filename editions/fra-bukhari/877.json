@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"11": "Friday Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 941,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 941
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 877,
+			"arabicnumber": 877,
+			"text": "Rapporté par ‘Abdullah ibn ‘Umar : Le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous vient pour la prière du vendredi, qu’il prenne un bain. »",
+			"grades": [],
+			"reference": {
+				"book": 11,
+				"hadith": 2
+			}
+		}
+	]
+}

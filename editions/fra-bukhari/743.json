@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 743,
+			"arabicnumber": 743,
+			"text": "Rapporté par Anas ibn Malik : Le Prophète, Abou Bakr et ‘Omar — qu’Allah les agrée — ouvraient la prière par : « Al-hamdu li-Llahi Rabbi-l-‘Alamin »",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 137
+			}
+		}
+	]
+}

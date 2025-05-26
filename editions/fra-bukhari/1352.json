@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"23": "Funerals (Al-Janaa'iz)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 1237,
+				"hadithnumber_last": 1394,
+				"arabicnumber_first": 1237,
+				"arabicnumber_last": 1394
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1352,
+			"arabicnumber": 1352,
+			"text": "Rapporté par Jabir : Un homme fut enterré avec mon père, et je n’en fus pas satisfait jusqu’à ce que je le sortis et que je le mis dans une tombe à part",
+			"grades": [],
+			"reference": {
+				"book": 23,
+				"hadith": 106
+			}
+		}
+	]
+}

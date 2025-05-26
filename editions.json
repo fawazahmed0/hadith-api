@@ -152,6 +152,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-bukhari.min.json"
 			},
 			{
+				"name": "fra-bukhari",
+				"book": "bukhari",
+				"author": "Unknown",
+				"language": "French",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-bukhari.min.json"
+			},
+			{
 				"name": "ind-bukhari",
 				"book": "bukhari",
 				"author": "Unknown",

@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"11": "Friday Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 941,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 941
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 931,
+			"arabicnumber": 931,
+			"text": "Rapporté par Jabir : Un homme entra le jour du vendredi alors que le Prophète ﷺ prononçait le sermon. Il lui dit : « As-tu prié ? » Il répondit : « Non. » Il dit : « Accomplis alors deux unités de prière. »",
+			"grades": [],
+			"reference": {
+				"book": 11,
+				"hadith": 55
+			}
+		}
+	]
+}

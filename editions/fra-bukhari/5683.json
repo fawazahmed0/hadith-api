@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"76": "Medicine"
+		},
+		"section_detail": {
+			"76": {
+				"hadithnumber_first": 5678,
+				"hadithnumber_last": 5782,
+				"arabicnumber_first": 5678,
+				"arabicnumber_last": 5782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5683,
+			"arabicnumber": 5683,
+			"text": "Rapporté par Jabir ibn Abd Allah : J’ai entendu le Prophète ﷺ dire : « S’il y a du bien dans vos remèdes, c’est dans la pose de ventouses, une gorgée de miel ou une cautérisation par le feu (qui convient à la maladie), mais je n’aime pas être cautérisé. »",
+			"grades": [],
+			"reference": {
+				"book": 76,
+				"hadith": 6
+			}
+		}
+	]
+}

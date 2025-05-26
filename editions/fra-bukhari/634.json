@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 634,
+			"arabicnumber": 634,
+			"text": "Rapporté par ‘Awn ibn Abi Juhaifa : Mon père a dit : « J’ai vu Bilal tourner son visage de chaque côté en faisant l’appel à la prière. »",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 31
+			}
+		}
+	]
+}

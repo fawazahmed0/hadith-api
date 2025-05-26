@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"11": "Friday Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 941,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 941
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 920,
+			"arabicnumber": 920,
+			"text": "Rapporté par Ibn ‘Umar — qu’Allah les agrée : Le Prophète ﷺ prononçait le sermon debout, puis il s’asseyait, puis il se levait, comme vous le faites maintenant",
+			"grades": [],
+			"reference": {
+				"book": 11,
+				"hadith": 44
+			}
+		}
+	]
+}

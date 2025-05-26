@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 751,
+			"arabicnumber": 751,
+			"text": "Rapporté par ‘Aïcha : J’ai interrogé le Messager d’Allah ﷺ au sujet du fait de détourner le regard dans la prière. Il répondit : « C’est un rapt que le diable subtilise à la prière du serviteur. »",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 145
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 612,
+			"arabicnumber": 612,
+			"text": "Rapporté par `Isa ibn Talha : Il a entendu Mu`awiya répéter les paroles de l’Adhan jusqu’à : « Wa ashhadu anna Muhammadan Rasul Allah. »",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 10
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"11": "Friday Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 941,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 941
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 901,
+			"arabicnumber": 901,
+			"text": "Rapporté par Ibn `Abbas : Un jour de pluie, il dit à son muezzin : « Lorsque tu auras dit : “J’atteste que Muhammad est le Messager d’Allah”, ne dis pas : “Venez à la prière”, mais dis : “Priez dans vos maisons.” » Les gens trouvèrent cela étrange. Il dit : « Cela a été fait par quelqu’un de meilleur que moi. Certes, la prière du vendredi est une obligation, mais j’ai détesté vous faire sortir pour marcher dans la boue et la glissade. »",
+			"grades": [],
+			"reference": {
+				"book": 11,
+				"hadith": 25
+			}
+		}
+	]
+}

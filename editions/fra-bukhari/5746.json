@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"76": "Medicine"
+		},
+		"section_detail": {
+			"76": {
+				"hadithnumber_first": 5678,
+				"hadithnumber_last": 5782,
+				"arabicnumber_first": 5678,
+				"arabicnumber_last": 5782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5746,
+			"arabicnumber": 5746,
+			"text": "Rapporté par ‘Aïcha : Le Prophète ﷺ disait dans la ruqya : « La terre de notre pays, et la salive de certains d’entre nous, notre malade est guéri par la permission de notre Seigneur. »",
+			"grades": [],
+			"reference": {
+				"book": 76,
+				"hadith": 61
+			}
+		}
+	]
+}

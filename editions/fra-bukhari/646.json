@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 646,
+			"arabicnumber": 646,
+			"text": "Rapporté par Abou Sa‘id al-Khoudri : Il a entendu le Prophète ﷺ dire : « La prière en groupe surpasse la prière individuelle de vingt-cinq degrés. »",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 43
+			}
+		}
+	]
+}

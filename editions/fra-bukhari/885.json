@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"11": "Friday Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 941,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 941
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 885,
+			"arabicnumber": 885,
+			"text": "Rapporté par Tâwous : Ibn ‘Abbâs mentionna la parole du Prophète ﷺ concernant le bain du vendredi. Je lui ai demandé : « Doit-on toucher du parfum ou de l’huile s’il s’en trouve chez lui ? » Il répondit : « Je ne le sais pas. »",
+			"grades": [],
+			"reference": {
+				"book": 11,
+				"hadith": 10
+			}
+		}
+	]
+}

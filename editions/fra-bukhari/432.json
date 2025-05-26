@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"8": "Prayers (Salat)"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 349,
+				"hadithnumber_last": 520,
+				"arabicnumber_first": 349,
+				"arabicnumber_last": 520
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 432,
+			"arabicnumber": 432,
+			"text": "Rapporté par Ibn ‘Umar : Le Prophète ﷺ a dit : « Accomplissez une partie de vos prières dans vos maisons, et ne les transformez pas en tombes. »",
+			"grades": [],
+			"reference": {
+				"book": 8,
+				"hadith": 82
+			}
+		}
+	]
+}

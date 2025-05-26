@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"76": "Medicine"
+		},
+		"section_detail": {
+			"76": {
+				"hadithnumber_first": 5678,
+				"hadithnumber_last": 5782,
+				"arabicnumber_first": 5678,
+				"arabicnumber_last": 5782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5697,
+			"arabicnumber": 5697,
+			"text": "Rapporté par Jabir ibn ‘Abd Allah رضي الله عنهما : Il rendit visite à Al-Muqanna pendant sa maladie, puis il dit : « Je ne partirai pas avant que tu ne te fasses saigner, car j’ai entendu le Messager d’Allah ﷺ dire : “Il y a dans la saignée une guérison.” »",
+			"grades": [],
+			"reference": {
+				"book": 76,
+				"hadith": 19
+			}
+		}
+	]
+}

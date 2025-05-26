@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"68": "Divorce"
+		},
+		"section_detail": {
+			"68": {
+				"hadithnumber_first": 5251,
+				"hadithnumber_last": 5350,
+				"arabicnumber_first": 5251,
+				"arabicnumber_last": 5350
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5253,
+			"arabicnumber": 5253,
+			"text": "Rapporté par Ibn ‘Umar : (Le fait d’avoir divorcé ma femme pendant ses menstrues) a été compté comme un seul divorce contre moi",
+			"grades": [],
+			"reference": {
+				"book": 68,
+				"hadith": 3
+			}
+		}
+	]
+}

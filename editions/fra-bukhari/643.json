@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Sahih al Bukhari",
+		"section": {
+			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 643,
+			"arabicnumber": 643,
+			"text": "Rapporté par Anas ibn Malik : La prière fut établie, puis un homme se présenta au Prophète ﷺ et le retint après que la prière eut été établie",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 40
+			}
+		}
+	]
+}

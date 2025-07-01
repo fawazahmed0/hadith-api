@@ -8231,3 +8231,29 @@ Generating Edition
  Generated edition fra-bukhari
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.3.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-dehlawi.txt
+
+Generating Edition
+
+ Generated edition fra-dehlawi
+
+Starting to create files for fra-nawawi.txt
+
+Generating Edition
+
+ Generated edition fra-nawawi
+
+Starting to create files for fra-qudsi.txt
+
+Generating Edition
+
+ Generated edition fra-qudsi
+
+editions.json and editions.min.json generated

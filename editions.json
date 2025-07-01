@@ -251,6 +251,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-dehlawi.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-dehlawi.min.json"
+			},
+			{
+				"name": "fra-dehlawi",
+				"book": "dehlawi",
+				"author": "Unknown",
+				"language": "French",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-dehlawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-dehlawi.min.json"
 			}
 		]
 	},
@@ -696,6 +708,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-nawawi.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-nawawi.min.json"
+			},
+			{
+				"name": "fra-nawawi",
+				"book": "nawawi",
+				"author": "Unknown",
+				"language": "French",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-nawawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-nawawi.min.json"
 			}
 		]
 	},
@@ -725,6 +749,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-qudsi.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-qudsi.min.json"
+			},
+			{
+				"name": "fra-qudsi",
+				"book": "qudsi",
+				"author": "Unknown",
+				"language": "French",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-qudsi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-qudsi.min.json"
 			}
 		]
 	},

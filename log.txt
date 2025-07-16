@@ -8283,3 +8283,21 @@ Generating Edition
  Generated edition fra-nasai
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.4.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-muslim.txt
+
+ deletion completed for fra-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-muslim
+
+editions.json and editions.min.json generated

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3124,
+			"arabicnumber": 3124,
+			"text": "Rapporté par Abu Hurairah : J’ai entendu le Messager d’Allah (ﷺ) dire : « L’exemple du Mujahid (qui lutte pour la cause d’Allah) – et Allah sait mieux qui lutte pour Sa cause – est comme celui qui jeûne et prie sans cesse. Allah a promis au Mujahid (qui lutte dans Sa cause) qu’Il le fera mourir et l’admettra au Paradis, ou qu’Il le ramènera sain et sauf avec la récompense ou le butin qu’il aura obtenu. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 40
+			}
+		}
+	]
+}

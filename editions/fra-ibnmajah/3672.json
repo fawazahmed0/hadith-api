@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3672,
+			"arabicnumber": 3672,
+			"text": "Rapporté par Abu Shuraih Al-Khuzai : Le Prophète (ﷺ) a dit : « Celui qui croit au Jour dernier doit bien traiter son voisin. Celui qui croit en Allah et au Jour dernier doit honorer son invité. Celui qui croit en Allah et au Jour dernier doit dire du bien ou se taire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 16
+			}
+		}
+	]
+}

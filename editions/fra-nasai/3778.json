@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3778,
+			"arabicnumber": 3778,
+			"text": "Rapporté par Al-Bara' bin 'Azib : Le Messager d’Allah ﷺ nous a ordonné de faire sept choses : assister aux funérailles, visiter les malades, répondre (en disant : “Yarhamuk Allah” [qu’Allah te fasse miséricorde]) à celui qui éternue, accepter les invitations, soutenir les opprimés, tenir ses promesses (lorsqu’on est sollicité) et rendre le salut",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 18
+			}
+		}
+	]
+}

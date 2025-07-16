@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"22": "The Chapters on Wills"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2695,
+				"hadithnumber_last": 2718,
+				"arabicnumber_first": 2695,
+				"arabicnumber_last": 2718
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2713,
+			"arabicnumber": 2713,
+			"text": "Rapporté par Shurahbil bin Muslim Al-Khawlani, d’après Abu Umamah Al-Bahili : Il a entendu le Messager d’Allah (ﷺ) dire dans son sermon, lors de l’année du pèlerinage d’Adieu : “Allah (SWT) a donné à chacun ses droits, et il n’y a pas de legs pour un héritier.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 19
+			}
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 384,
+			"arabicnumber": 384,
+			"text": "Rapporté par ‘Aïcha : Le Messager d’Allah (ﷺ) a dit : « Donne-moi le tapis de la mosquée. » Elle a dit : « J’ai mes règles. » Le Messager d’Allah (ﷺ) a répondu : « Tes règles ne sont pas dans ta main. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 36
+			}
+		},
+		{
+			"hadithnumber": 384.2,
+			"arabicnumber": 384.2,
+			"text": "Rapporté par un autre transmetteur avec un contenu similaire",
+			"grades": [],
+			"reference": {
+				"book": 3,
+				"hadith": 37
+			}
+		}
+	]
+}

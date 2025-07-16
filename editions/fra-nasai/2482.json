@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2482,
+			"arabicnumber": 2482,
+			"text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : \"Si Allah accorde des biens à quelqu’un et qu’il ne paie pas la Zakat, ses biens lui apparaîtront le Jour de la Résurrection sous la forme d’un serpent chauve avec deux taches au-dessus des yeux. Il lui saisira les coins de la bouche le Jour de la Résurrection et dira : 'Je suis ta richesse, je suis ton trésor caché.' Puis il a récité ce verset : 'Et que ceux qui gardent jalousement ce qu’Allah leur a donné de Sa grâce ne pensent pas que c’est un bien pour eux (et ne paient pas la Zakat obligatoire)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 48
+			}
+		}
+	]
+}

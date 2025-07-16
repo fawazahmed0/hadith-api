@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4587,
+			"arabicnumber": 4587,
+			"text": "Rapporté par Saeed bin Jubair : Il ne voyait aucun mal à cela, même si c’était à crédit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 139
+			}
+		}
+	]
+}

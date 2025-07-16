@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5266,
+			"arabicnumber": 5266,
+			"text": "Rapporté par Ibn ‘Abbas : On m’a interdit de porter des vêtements rouges, des bagues en or, et de réciter le Coran en étant incliné",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 227
+			}
+		}
+	]
+}

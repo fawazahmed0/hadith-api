@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1671,
+			"arabicnumber": 1671,
+			"text": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Prophète ﷺ a dit : « On ne doit rien demander pour l’amour d’Allah, sauf le Paradis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 116
+			}
+		}
+	]
+}

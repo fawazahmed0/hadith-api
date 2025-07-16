@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3441,
+			"arabicnumber": 3441,
+			"text": "Rapporté par Anas bin Malik : Le Prophète (ﷺ) est allé rendre visite à un malade et lui a dit : “Veux-tu quelque chose ? Veux-tu du gâteau ?” Il a répondu : “Oui.” Alors ils en ont cherché pour lui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 6
+			}
+		}
+	]
+}

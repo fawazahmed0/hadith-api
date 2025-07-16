@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 90,
+			"arabicnumber": 90,
+			"text": "Rapporté par Thawban : Le Messager d'Allah (ﷺ) a dit : \"Rien ne prolonge la vie sauf la piété, rien ne repousse le décret divin sauf l'invocation, et rien ne prive un homme de sa subsistance sauf le péché qu'il commet",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 90
+			}
+		}
+	]
+}

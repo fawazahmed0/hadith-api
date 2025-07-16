@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4610,
+			"arabicnumber": 4610,
+			"text": "Rapporté par Anas bin Malik : Il a apporté du pain d'orge et de l'huile rance au Messager d'Allah. Il a dit : \"Il a mis son armure en gage chez un Juif à Médine, et il a pris de l'orge de lui pour sa famille",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 162
+			}
+		}
+	]
+}

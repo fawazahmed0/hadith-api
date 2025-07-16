@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5120,
+			"arabicnumber": 5120,
+			"text": "Rapporté par Suraqah ibn Malik ibn Ju’sham al-Mudlaji : Le Messager d’Allah ﷺ nous a adressé un discours et a dit : « Le meilleur d’entre vous est celui qui défend sa tribu, tant qu’il ne commet pas de péché. » Abu Dawud a dit : Abu Ayyub ibn Suwaid est faible",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 348
+			}
+		}
+	]
+}

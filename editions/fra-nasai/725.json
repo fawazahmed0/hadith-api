@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 725,
+			"arabicnumber": 725,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Le Prophète (ﷺ) a vu de la salive dans la direction de la Qibla de la mosquée. Il l’a grattée avec un caillou et a interdit à un homme de cracher devant lui ou à sa droite. Il a dit : \"Qu’il crache à sa gauche ou sous son pied gauche",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 38
+			}
+		}
+	]
+}

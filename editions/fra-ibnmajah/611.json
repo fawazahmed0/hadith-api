@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 611,
+			"arabicnumber": 611,
+			"text": "Rapporté par ‘Amr bin Shu’aib, de son père, de son grand-père : Le Messager d’Allah ﷺ a dit : « Quand les deux parties circoncises se touchent et que (le bout du sexe) disparaît, alors le bain devient obligatoire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 345
+			}
+		}
+	]
+}

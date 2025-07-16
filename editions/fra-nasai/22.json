@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 22,
+			"arabicnumber": 22,
+			"text": "Rapporté par Abu Ayyub Al-Ansari : Le Messager d’Allah (ﷺ) a dit : \"Quand l’un de vous va faire ses besoins, qu’il ne se tourne pas vers la Qibla, mais qu’il se tourne plutôt vers l’est ou l’ouest",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 22
+			}
+		}
+	]
+}

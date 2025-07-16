@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4132,
+			"arabicnumber": 4132,
+			"text": "Rapporté par Jarir bin 'Abdullah : Le Messager d'Allah ﷺ m'a dit : \"Demande aux gens de se taire et d'écouter.\" Puis il a dit : \"Je ne veux pas voir que, après mon départ, vous redeveniez des mécréants, en vous frappant le cou les uns les autres (en vous entre-tuant)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 167
+			}
+		}
+	]
+}

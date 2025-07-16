@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4665,
+			"arabicnumber": 4665,
+			"text": "Le récit ci-dessus a aussi été transmis par Dubai’ah b. Husain al-Tha’labi par une autre chaîne de transmetteurs, avec le même sens",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 70
+			}
+		}
+	]
+}

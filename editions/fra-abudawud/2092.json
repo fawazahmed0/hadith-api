@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2092,
+			"arabicnumber": 2092,
+			"text": "Abu Huraira رضي الله عنه a rapporté que le Prophète ﷺ a dit : « Une femme déjà mariée ne doit pas être donnée en mariage sans qu’on lui demande son avis, et une vierge ne doit pas être mariée sans sa permission. » Ils ont demandé : « Quelle est sa permission, Messager d’Allah ﷺ ? » Il a répondu : « C’est son silence. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6970، 5136) Sahih Muslim (1419)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 47
+			}
+		}
+	]
+}

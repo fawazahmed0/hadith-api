@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"49": "The Book of the Etiquette of Judges"
+		},
+		"section_detail": {
+			"49": {
+				"hadithnumber_first": 5379,
+				"hadithnumber_last": 5427,
+				"arabicnumber_first": 5379,
+				"arabicnumber_last": 5427
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5423,
+			"arabicnumber": 5423,
+			"text": "Rapporté par 'Aishah : Le Messager d'Allah ﷺ a dit : « L'homme le plus détesté d'Allah est le plus querelleur des adversaires. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 49,
+				"hadith": 45
+			}
+		}
+	]
+}

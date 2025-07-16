@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1331,
+			"arabicnumber": 1331,
+			"text": "Rapporté par 'Imran bin Husain : Le Prophète (ﷺ) a prié trois unités, puis a fait le taslim. Al-Khirbaq dit : \"Tu as prié trois.\" Alors il leur fit accomplir la rak'ah manquante, puis il fit le taslim, ensuite il fit deux prosternations de l’oubli, puis il fit de nouveau le taslim",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 153
+			}
+		}
+	]
+}

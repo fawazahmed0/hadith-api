@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5024,
+			"arabicnumber": 5024,
+			"text": "Rapporté par Ibn ‘Abbas : Le Prophète ﷺ a dit : « Celui qui fait une représentation de quoi que ce soit, Allah le punira au Jour de la Résurrection jusqu’à ce qu’il insuffle la vie dans cette chose, mais il ne pourra pas le faire. Celui qui prétend avoir vu un rêve alors qu’il ne l’a pas vu devra faire un nœud dans un grain d’orge. Celui qui écoute les conversations des autres alors qu’ils essaient de l’éviter, on versera du plomb fondu dans ses oreilles au Jour de la Résurrection. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (7042)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 252
+			}
+		}
+	]
+}

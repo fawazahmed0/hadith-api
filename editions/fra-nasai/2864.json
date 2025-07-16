@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2864,
+			"arabicnumber": 2864,
+			"text": "Rapporté par Muharrish Al-Kabi : Le Prophète ﷺ est parti d’Al-Jirranah la nuit, comme s’il était un lingot d’argent (c’est-à-dire d’une grande blancheur et pureté), il a accompli la ‘Umrah, puis il est revenu le matin comme s’il y avait passé la nuit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 247
+			}
+		}
+	]
+}

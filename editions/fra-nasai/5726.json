@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5726,
+			"arabicnumber": 5726,
+			"text": "Rapporté par Anas bin Sirin : \"J'ai entendu Anas bin Malik dire : 'Le Diable s'est disputé avec Nuh, paix sur lui, au sujet de la vigne. L'un a dit : \"Ceci est pour moi,\" et l'autre a dit : \"Ceci est pour moi.\" Puis ils ont convenu que Nuh aurait un tiers et le Diable deux tiers",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 188
+			}
+		}
+	]
+}

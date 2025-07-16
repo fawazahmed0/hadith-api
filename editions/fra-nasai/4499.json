@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4499,
+			"arabicnumber": 4499,
+			"text": "Rapporté par Ibn ‘Umar : Le Messager d’Allah (ﷺ) a interdit d’aller à la rencontre des commerçants sur la route, jusqu’à ce qu’ils arrivent au marché avec eux. » Abou Oussama l’a confirmé et a dit : Oui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 51
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1921,
+			"arabicnumber": 1921,
+			"text": "Rapporté par ‘Abdur-Rahman bin Abi Laila : Sahl bin Hunaif et Qais bin Sa’d bin ‘Ubadah étaient à Al-Qadisiyyah lorsqu’un cortège funéraire est passé devant eux, alors ils se sont levés et on leur a dit : \"C’est quelqu’un du pays.\" Ils ont répondu : \"Un cortège est passé devant le Messager d’Allah ﷺ et il s’est levé, et on lui a dit : C’est un Juif. Il a dit : 'N’est-ce pas une âme ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 104
+			}
+		}
+	]
+}

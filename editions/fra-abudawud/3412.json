@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3412,
+			"arabicnumber": 3412,
+			"text": "Rapporté par Miqsam : Lorsque le Prophète ﷺ a conquis Khaybar. Il a ensuite raconté comme dans le récit de Zaid (b. Abu al-Zarqa’). Cette version précise : Il a alors évalué la production des palmiers et a dit : « Je m’occupe moi-même de la récolte des fruits, et je vous donnerai la moitié de ce que j’ai dit. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 87
+			}
+		}
+	]
+}

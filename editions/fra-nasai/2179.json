@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2179,
+			"arabicnumber": 2179,
+			"text": "Rapporté par Abou Salama : J’ai demandé à Aïcha رضي الله عنها : « Parle-moi du jeûne du Messager d’Allah ﷺ. » Elle a répondu : « Il jeûnait au point qu’on pensait qu’il allait continuer à jeûner, puis il arrêtait au point qu’on pensait qu’il n’allait plus jeûner. Il n’a jamais autant jeûné un mois que Chaabane. Il jeûnait presque tout Chaabane, sauf un peu, il jeûnait presque tout le mois. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 90
+			}
+		}
+	]
+}

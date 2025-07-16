@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 877,
+			"arabicnumber": 877,
+			"text": "‘Aishah رضي الله عنها a dit : Le Messager d’Allah ﷺ disait souvent en s’inclinant et en se prosternant : « Gloire à Toi, ô Allah, notre Seigneur. » Et : « Louange à Toi, ô Allah, pardonne-moi. » Ainsi, il mettait en pratique ce qui est ordonné dans le Coran",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (4968) Sahih Muslim (484)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 487
+			}
+		}
+	]
+}

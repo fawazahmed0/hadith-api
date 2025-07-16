@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"3": "The Book of the Adhan and the Sunnah Regarding It"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 706,
+				"hadithnumber_last": 734,
+				"arabicnumber_first": 706,
+				"arabicnumber_last": 734
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 726,
+			"arabicnumber": 726,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d'Allah a dit : « Que le meilleur d'entre vous fasse l'appel à la prière (Adhan), et que ceux qui connaissent le mieux le Coran dirigent la prière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 21
+			}
+		}
+	]
+}

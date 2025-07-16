@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 349,
+			"arabicnumber": 349,
+			"text": "Makhul fut interrogé sur le sens des mots « ghassala » et « ightasala » (qui apparaissent dans le hadith 345) et il répondit : « Il faut bien laver la tête et le corps (et non pas faire laver sa femme). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 349
+			}
+		}
+	]
+}

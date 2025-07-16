@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 602,
+			"arabicnumber": 602,
+			"text": "Rapporté par Khawlah bint Hakim : Elle a demandé au Messager d’Allah ﷺ au sujet d’une femme qui voit en rêve ce qu’un homme peut voir. Il a dit : « Elle n’a pas à prendre un bain sauf si elle a un orgasme, tout comme l’homme n’a pas à prendre un bain sauf s’il a un orgasme. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 336
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 900,
+			"arabicnumber": 900,
+			"text": "Rapporté par Ahmar ibn Jaz’ رضي الله عنه : Lorsque le Messager d’Allah ﷺ se prosternait, il gardait ses bras tellement éloignés de ses côtés que nous avions pitié de lui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 510
+			}
+		}
+	]
+}

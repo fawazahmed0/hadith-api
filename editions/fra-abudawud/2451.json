@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2451,
+			"arabicnumber": 2451,
+			"text": "Rapporté par Hafsah, la mère des croyants رضي الله عنها : Le Messager d’Allah ﷺ avait l’habitude de jeûner trois jours chaque mois : le lundi, le jeudi, puis le lundi de la semaine suivante",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 139
+			}
+		}
+	]
+}

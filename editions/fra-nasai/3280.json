@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3280,
+			"arabicnumber": 3280,
+			"text": "Rapporté par Sahl bin Sa'd : J’étais parmi les gens avec le Prophète lorsqu’une femme s’est levée et a dit : « Ô Messager d’Allah, elle s’est proposée à toi en mariage, alors vois ce que tu en penses. » Il est resté silencieux et le Prophète n’a pas répondu. Puis elle s’est relevée (encore) et a dit : « Ô Messager d’Allah, elle s’est proposée à toi en mariage, alors vois ce que tu en penses. » Un homme s’est levé et a dit : « Maries-la-moi, ô Messager d’Allah ! » Il a dit : « As-tu quelque chose ? » Il a répondu : « Non. » Il a dit : « Va voir, même si ce n’est qu’une bague en fer. » Il est parti chercher puis est revenu et a dit : « Je n’ai rien trouvé, même pas une bague en fer. » Il a dit : « As-tu mémorisé quelque chose du Coran ? » Il a répondu : « Oui, telle sourate et telle sourate. » Il a dit : « Je te la donne en mariage pour ce que tu as mémorisé du Coran. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 85
+			}
+		}
+	]
+}

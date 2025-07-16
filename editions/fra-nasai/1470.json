@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1470,
+			"arabicnumber": 1470,
+			"text": "Rapporté par Ata : \"J'ai entendu Ubaid bin Umair dire : 'Quelqu'un en qui j'ai confiance' – et je pense qu'il parlait de 'Aishah – m'a dit : Il y a eu une éclipse du soleil à l'époque du Messager d'Allah (ﷺ). Il a dirigé la prière et est resté debout très longtemps, puis il s'est incliné, puis il s'est relevé, puis il s'est incliné, puis il s'est relevé, puis il s'est incliné. Il a prié deux unités, s'inclinant trois fois dans chaque unité. Après la troisième inclinaison, il s'est prosterné longuement. Ce jour-là, certains hommes se sont évanouis à force d'être restés debout si longtemps, et on les a ranimés en leur jetant des seaux d'eau. Lorsqu'il s'inclinait, il disait : Allahu Akbar, et quand il relevait la tête, il disait : Sami' Allahu lima hamidah. Il n'a terminé que lorsque l'éclipse a pris fin. Ensuite, il s'est levé, a loué et glorifié Allah (SWT), puis il a dit : Le soleil et la lune ne s'éclipsent pas à cause de la mort ou de la naissance de quelqu'un, mais ce sont deux des signes d'Allah (SWT) par lesquels Il vous inspire la crainte. S'ils s'éclipsent, tournez-vous vers le rappel d'Allah, le Puissant et le Sublime, jusqu'à ce que cela se termine",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 12
+			}
+		}
+	]
+}

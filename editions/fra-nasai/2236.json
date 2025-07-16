@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2236,
+			"arabicnumber": 2236,
+			"text": "Rapporté par Sahi bin Sad : Le Prophète ﷺ a dit : \"Pour les jeûneurs, il y a une porte au Paradis appelée Ar-Rayyan, par laquelle seuls eux entreront. Quand le dernier d’entre eux sera entré, elle sera fermée. Celui qui y entre boira, et celui qui boira n’aura plus jamais soif",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 147
+			}
+		}
+	]
+}

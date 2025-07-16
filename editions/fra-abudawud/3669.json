@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3669,
+			"arabicnumber": 3669,
+			"text": "Omar رضي الله عنه a dit : L’interdiction du vin a été révélée lorsque ce verset du Coran est descendu. Il était fabriqué à partir de cinq choses : raisins, dattes, miel, blé et orge. Le vin est ce qui trouble l’esprit. Il y a trois choses que j’aurais aimé que le Prophète ﷺ nous explique complètement avant de nous quitter : la part du grand-père, le cas de celui qui ne laisse ni descendants ni ascendants comme héritiers, et les détails de l’usure",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (4619) Sahih Muslim (3032)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 1
+			}
+		}
+	]
+}

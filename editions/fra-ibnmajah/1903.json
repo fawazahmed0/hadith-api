@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"9": "The Chapters on Marriage"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1845,
+				"hadithnumber_last": 2015,
+				"arabicnumber_first": 1845,
+				"arabicnumber_last": 2015
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1903,
+			"arabicnumber": 1903,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah a maudit les femmes qui imitent les hommes et les hommes qui imitent les femmes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 59
+			}
+		}
+	]
+}

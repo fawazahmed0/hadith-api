@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4785,
+			"arabicnumber": 4785,
+			"text": "Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ n’a jamais eu à choisir entre deux choses sans choisir la plus facile (ou la moins difficile), tant que cela ne constituait pas un péché. Mais si c’était un péché, personne ne s’en éloignait plus que lui. Et le Messager d’Allah ﷺ ne s’est jamais vengé pour lui-même, sauf si ce qu’Allah avait interdit était transgressé ; dans ce cas, il se vengeait pour Allah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6126) Sahih Muslim (2327)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 13
+			}
+		}
+	]
+}

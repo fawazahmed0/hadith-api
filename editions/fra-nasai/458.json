@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 458,
+			"arabicnumber": 458,
+			"text": "Rapporté par Abu Suhail, d’après son père, qu’il a entendu Talhah bin ‘Ubaidullah dire : Un homme du Najd est venu voir le Messager d’Allah (ﷺ) avec des cheveux en désordre. Nous l’entendions parler fort sans comprendre ce qu’il disait, jusqu’à ce qu’il s’approche. Il posait des questions sur l’islam. Le Messager d’Allah (ﷺ) lui a dit : \"Cinq prières chaque jour et chaque nuit.\" Il a dit : \"Dois-je faire autre chose ?\" Il a dit : \"Non, sauf si tu fais des prières volontaires.\" Il a dit : \"Et le jeûne du mois de Ramadan.\" Il a dit : \"Dois-je faire autre chose ?\" Il a dit : \"Non, sauf si tu le fais volontairement.\" Le Messager d’Allah (ﷺ) lui a aussi parlé de la zakat, et il a dit : \"Dois-je faire autre chose ?\" Il a dit : \"Non, sauf si tu le fais volontairement.\" L’homme est parti en disant : \"Par Allah, je n’en ferai pas plus ni moins.\" Le Messager d’Allah (ﷺ) a dit : \"Il sera sauvé, s’il dit la vérité",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 11
+			}
+		}
+	]
+}

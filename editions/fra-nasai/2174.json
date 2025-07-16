@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2174,
+			"arabicnumber": 2174,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah ﷺ a dit : \"Ne jeûnez pas un ou deux jours avant le début du mois, sauf si cela correspond à un jour où l’un de vous a l’habitude de jeûner.\" Abu ‘Abdur-Rahman (An-Nasai) a dit : Ceci est une erreur",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 85
+			}
+		}
+	]
+}

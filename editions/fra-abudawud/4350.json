@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"39": "Battles (Kitab Al-Malahim)"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4291,
+				"hadithnumber_last": 4350,
+				"arabicnumber_first": 4291,
+				"arabicnumber_last": 4350
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4350,
+			"arabicnumber": 4350,
+			"text": "Rapporté par Sa’d ibn Abu Waqqas رضي الله عنه : Le Prophète ﷺ a dit : « J’espère que ma communauté ne perdra pas sa place auprès de son Seigneur, même s’Il la retarde d’une demi-journée. » On a demandé à Sa’d : « Combien de temps dure une demi-journée ? » Il a répondu : « Cinq cents ans. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 60
+			}
+		}
+	]
+}

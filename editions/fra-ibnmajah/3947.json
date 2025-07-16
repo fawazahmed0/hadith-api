@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"36": "Tribulations"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3927,
+				"hadithnumber_last": 4099,
+				"arabicnumber_first": 3927,
+				"arabicnumber_last": 4099
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3947,
+			"arabicnumber": 3947,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Le croyant a plus de valeur auprès d’Allah, le Tout-Puissant et le Majestueux, que certains de Ses anges. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 22
+			}
+		}
+	]
+}

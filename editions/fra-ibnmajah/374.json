@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 374,
+			"arabicnumber": 374,
+			"text": "Rapporté par `Abdullah bin Sarjis : Le Messager d’Allah ﷺ a interdit aux hommes de faire leurs ablutions avec l’eau laissée par une femme, et aux femmes de faire leurs ablutions avec l’eau laissée par un homme, mais les deux peuvent commencer leurs ablutions en même temps. Abu `Abdullah Ibn Majah a dit : \"La première version est correcte, et la seconde est une erreur.\" Une autre chaîne rapporte des mots similaires",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 108
+			}
+		}
+	]
+}

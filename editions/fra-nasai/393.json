@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 393,
+			"arabicnumber": 393,
+			"text": "Rapporté par Samurah : J’ai fait la prière funéraire avec le Messager d’Allah (ﷺ) pour Umm Ka’b, qui était morte en couches, et pendant la prière, le Messager d’Allah (ﷺ) s’est placé au niveau du milieu de son corps",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 46
+			}
+		}
+	]
+}

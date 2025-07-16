@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3499,
+			"arabicnumber": 3499,
+			"text": "Rapporté par Ibn Umar : J’ai acheté de l’huile d’olive au marché. Quand j’en suis devenu propriétaire, un homme m’a proposé un bon prix. Je voulais conclure la vente avec lui, mais un homme m’a attrapé la main par derrière. En me retournant, j’ai vu que c’était Zayd ibn Thabit. Il m’a dit : « Ne la vends pas à l’endroit où tu l’as achetée avant de l’avoir transportée chez toi, car le Messager d’Allah ﷺ a interdit de vendre des marchandises là où elles ont été achetées avant que les commerçants ne les emmènent chez eux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 84
+			}
+		}
+	]
+}

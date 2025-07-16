@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3542,
+			"arabicnumber": 3542,
+			"text": "Rapporté par Hafsah, d’après Umm 'Atiyyah, d’après le Prophète ﷺ : Il a accordé une permission à la femme dont le mari est décédé d’utiliser du Qust et de l’Azfar pour se purifier après ses règles",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 156
+			}
+		}
+	]
+}

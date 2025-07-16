@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 584,
+			"arabicnumber": 584,
+			"text": "Rapporté par 'Amr bin 'Abasah : \"Je suis venu voir le Messager d'Allah et j'ai demandé : 'Qui s'est converti à l'islam avec toi ?' Il a répondu : 'Des hommes libres et des esclaves.' J'ai demandé : 'Y a-t-il un moment qui rapproche plus d'Allah qu'un autre ?' Il a dit : 'Oui, la dernière partie de la nuit. Prie autant que tu veux jusqu'à ce que tu fasses la prière du Subh, puis arrête-toi jusqu'à ce que le soleil se lève et ressemble à un bouclier et que sa lumière se répande. Ensuite, prie autant que tu veux jusqu'à ce que l'ombre d'un objet soit la plus courte, puis arrête-toi jusqu'à ce que le soleil passe son zénith, car l'Enfer est attisé à midi. Puis prie 'Asr, puis arrête-toi jusqu'à ce que tu pries 'Asr, puis arrête-toi jusqu'à ce que le soleil se couche, car il se couche entre les cornes d'un Shaitan et il se lève entre les cornes d'un Shaitan",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 91
+			}
+		}
+	]
+}

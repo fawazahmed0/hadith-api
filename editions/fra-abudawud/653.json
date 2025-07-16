@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 653,
+			"arabicnumber": 653,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : J’ai vu le Messager d’Allah ﷺ prier aussi bien pieds nus qu’avec des sandales",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 263
+			}
+		}
+	]
+}

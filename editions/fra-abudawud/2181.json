@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2181,
+			"arabicnumber": 2181,
+			"text": "Ibn ‘Umar رضي الله عنه a dit qu’il avait divorcé de sa femme alors qu’elle avait ses règles. ‘Umar رضي الله عنه a mentionné ce fait au Prophète ﷺ. Le Prophète ﷺ a dit : « Ordonne-lui de la reprendre et de la divorcer lorsqu’elle sera purifiée (de ses règles) ou si elle est enceinte. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1471)"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 7
+			}
+		}
+	]
+}

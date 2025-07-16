@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5044,
+			"arabicnumber": 5044,
+			"text": "Rapporté par Abu Hurairah : Cinq choses font partie de la fitrah : couper les ongles, tailler la moustache, épiler les aisselles, raser les poils pubiens et la circoncision. (Sahih Mawquf)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 5
+			}
+		}
+	]
+}

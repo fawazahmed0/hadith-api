@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3734,
+			"arabicnumber": 3734,
+			"text": "Rapporté par Abdullah bin Salam : \"Je suis allé voir le Messager d’Allah (ﷺ), et je ne m’appelais pas Abdullah bin Salam. Le Messager d’Allah (ﷺ) m’a donné le nom d’Abdullah bin Salam",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Munkar Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 78
+			}
+		}
+	]
+}

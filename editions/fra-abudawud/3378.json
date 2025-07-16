@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3378,
+			"arabicnumber": 3378,
+			"text": "Le hadith précédent a aussi été rapporté par Abu Sa’id al-Khudri رضي الله عنه du Prophète ﷺ par une autre chaîne de transmetteurs. Cette version ajoute : « Porter le samma' signifie qu’un homme met son vêtement sur son épaule gauche et laisse son côté droit découvert. La munabadhah veut dire qu’un homme dit (à un autre) : “Si je te lance ce vêtement, la vente sera conclue.” La mulamasah signifie qu’un homme touche le vêtement (d’un autre) avec sa main sans le déplier ni le retourner. Dès qu’il le touche, la vente devient obligatoire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 53
+			}
+		}
+	]
+}

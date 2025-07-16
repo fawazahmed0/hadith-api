@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4162,
+			"arabicnumber": 4162,
+			"text": "Rapporté par Ibn ‘Umar : J’avais construit une maison pour me protéger de la pluie et du soleil, à l’époque du Messager d’Allah (ﷺ), et aucune créature d’Allah ne m’a aidé à la construire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 63
+			}
+		}
+	]
+}

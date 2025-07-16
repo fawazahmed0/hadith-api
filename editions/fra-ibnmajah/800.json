@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 800,
+			"arabicnumber": 800,
+			"text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : « Un musulman qui fréquente régulièrement les mosquées pour prier et se souvenir d’Allah, Allah est content de lui comme la famille d’un absent est heureuse de son retour. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 66
+			}
+		}
+	]
+}

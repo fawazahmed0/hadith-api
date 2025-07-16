@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3749,
+			"arabicnumber": 3749,
+			"text": "Rapporté par Yazid bin Abi Habib : Ibn Shihab a rapporté d'Abu Salamah, d'après Jabir, que le Messager d'Allah ﷺ a statué concernant l'‘Umra — lorsqu’un homme fait un don à un autre homme et à ses descendants, mais précise : « Si quelque chose t’arrive à toi et à tes descendants, alors cela reviendra à moi et à mes descendants » — : « Cela appartient à celui à qui le don a été fait, ainsi qu’à ses descendants. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 31
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"11": "The Chapters on Expiation"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2136,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2136
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2101,
+			"arabicnumber": 2101,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) a entendu un homme jurer par son père et a dit : \"Ne jurez pas par vos ancêtres. Celui qui jure par Allah, qu’il tienne son serment, et si un serment est fait pour quelqu’un par Allah, qu’il l’accepte. Celui qui n’est pas satisfait d’Allah n’a rien à voir avec Allah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 12
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"30": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3904,
+				"hadithnumber_last": 3925,
+				"arabicnumber_first": 3904,
+				"arabicnumber_last": 3925
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3905,
+			"arabicnumber": 3905,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Celui qui apprend l’astrologie apprend une branche de la magie, et plus il continue, plus il en acquiert. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 2
+			}
+		}
+	]
+}

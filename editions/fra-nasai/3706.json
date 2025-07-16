@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"33": "The Book of ar-Ruqba"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3706,
+				"hadithnumber_last": 3719,
+				"arabicnumber_first": 3706,
+				"arabicnumber_last": 3719
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3706,
+			"arabicnumber": 3706,
+			"text": "Rapporté par Hilal bin Al-'Ala' : Mon père nous a rapporté : Ubaidullah – c'est Ibn 'Amr – nous a rapporté, de Sufyan, d'Ibn Abi Najih, de Tawus, de Zaid bin Thabit, que le Prophète ﷺ a dit : « Ar-Ruqba est permise. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 1
+			}
+		}
+	]
+}

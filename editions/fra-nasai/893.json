@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 893,
+			"arabicnumber": 893,
+			"text": "Rapporté par Abdullah : Il a vu un homme prier les pieds joints. Il a dit : « Il ne suit pas la Sunna. S’il déplaçait son poids d’un pied à l’autre, je préférerais cela. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 18
+			}
+		}
+	]
+}

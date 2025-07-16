@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 376,
+			"arabicnumber": 376,
+			"text": "Rapporté par Maimunah : \"Le Messager d'Allah (ﷺ) caressait l'une de ses femmes quand elle avait ses règles, si elle portait un Izar (pagne) qui descendait jusqu'à mi-cuisse ou jusqu'aux genoux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 28
+			}
+		}
+	]
+}

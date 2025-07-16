@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3185,
+			"arabicnumber": 3185,
+			"text": "Rapporté par Sa’sa’ah bin Mu’awiyah : \"J’ai rencontré Abu Dharr et je lui ai dit : 'Raconte-moi un hadith.' Il a dit : Oui, le Messager d’Allah (ﷺ) a dit : Il n’y a aucun musulman qui adore Allah et qui dépense, pour chaque type de ses biens, une paire (de choses) dans la cause d’Allah, sans que les gardiens du Paradis ne l’accueillent, tous l’appelant vers ce qu’ils ont (comme récompense).' J’ai demandé : 'Comment cela ?' Il a dit : 'S’il s’agit de chameaux, il en donne deux, et s’il s’agit de vaches, il en donne deux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 101
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4376,
+			"arabicnumber": 4376,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-'As : Le Prophète ﷺ a dit : « Pardonnez les peines légales entre vous, car toute peine légale dont j’entends parler doit être appliquée. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 26
+			}
+		}
+	]
+}

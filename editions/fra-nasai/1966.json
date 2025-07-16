@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1966,
+			"arabicnumber": 1966,
+			"text": "Rapporté par ‘Umar bin Al-Khattab : Quand ‘Abdullah bin Ubayy bin Salul est mort, on a demandé au Messager d’Allah ﷺ de faire la prière funéraire pour lui. Quand le Messager d’Allah ﷺ s’est levé pour prier, je me suis levé rapidement et j’ai dit : « Ô Messager d’Allah, vas-tu prier pour Ibn Ubayy alors qu’il a dit ceci et cela à telle occasion ? » Et j’ai commencé à énumérer tout ce qu’il avait dit. Le Messager d’Allah ﷺ a souri et a dit : « Laisse-moi, ô ‘Umar. » Quand j’ai trop insisté, il a dit : « J’ai reçu le choix et j’ai choisi (de prier pour lui). Si je savais qu’il pouvait être pardonné en demandant le pardon d’Allah plus de soixante-dix fois, je le ferais. » Le Messager d’Allah ﷺ a fait la prière funéraire pour lui, puis il est parti. Peu après, deux versets de la sourate Bara’a ont été révélés : « Et ne prie jamais pour aucun d’eux (hypocrites) qui meurt, et ne te tiens pas sur sa tombe. Ils ont certes mécru en Allah et en Son Messager, et sont morts rebelles. » Plus tard, j’ai été étonné de mon audace envers le Messager d’Allah ce jour-là. Et Allah et Son Messager savent mieux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 149
+			}
+		}
+	]
+}

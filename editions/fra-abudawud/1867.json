@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1867,
+			"arabicnumber": 1867,
+			"text": "Ibn ‘Umar a dit : Le Messager d’Allah ﷺ sortait (de Médine) par la route d’Al Shajarah et entrait (à La Mecque) par la route d’Al Mu’arras",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 147
+			}
+		}
+	]
+}

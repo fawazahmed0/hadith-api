@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3090,
+			"arabicnumber": 3090,
+			"text": "Rapporté par Sa'eed bin Al-Musayyab, d'après Abu Hurairah : Le Messager d'Allah a dit : \"J'ai reçu l'ordre de combattre les gens jusqu'à ce qu'ils disent La ilaha illallah (il n'y a de divinité digne d'adoration qu'Allah). Celui qui dit La ilaha illallah, sa vie et ses biens sont préservés de ma part, sauf dans les cas prévus par la loi, et son jugement appartient à Allah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Mutawatir"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Mutawatir"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 6
+			}
+		}
+	]
+}

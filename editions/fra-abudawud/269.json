@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 269,
+			"arabicnumber": 269,
+			"text": "Rapporté par Aishah, la mère des croyants رضي الله عنها : Khallas al-Hujari rapporte qu’Aishah a dit : Le Messager d’Allah ﷺ et moi passions la nuit sous le même drap alors que j’avais beaucoup de pertes de sang. Si du sang me salissait et touchait son corps, il lavait juste cette partie et ne lavait pas plus. Ensuite, il priait avec ce vêtement",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 269
+			}
+		}
+	]
+}

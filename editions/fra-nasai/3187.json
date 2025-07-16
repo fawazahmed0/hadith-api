@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3187,
+			"arabicnumber": 3187,
+			"text": "Rapporté par Abu Mas’ud : Un homme a donné un chameau bridé en aumône pour la cause d’Allah. Le Messager d’Allah (ﷺ) a dit : \"Le Jour de la Résurrection, sept cents chameaux bridés viendront à toi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 103
+			}
+		}
+	]
+}

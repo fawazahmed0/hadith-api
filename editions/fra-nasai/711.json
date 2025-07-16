@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 711,
+			"arabicnumber": 711,
+			"text": "Rapporté par 'Amr bin Sulaim Az-Zuraqi, d’après Abu Qatadah : Alors que nous étions assis dans la mosquée, le Messager d’Allah (ﷺ) est sorti vers nous en portant Umamah bint Abi Al-‘As bin Ar-Rabi’, dont la mère était Zaynab, la fille du Messager d’Allah (ﷺ). C’était une petite fille et il la portait. Le Messager d’Allah (ﷺ) a prié avec elle sur son épaule, la posant quand il s’inclinait et la reprenant quand il se relevait, jusqu’à la fin de la prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 24
+			}
+		}
+	]
+}

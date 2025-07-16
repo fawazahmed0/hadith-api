@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"34": "Supplication"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3827,
+				"hadithnumber_last": 3892,
+				"arabicnumber_first": 3827,
+				"arabicnumber_last": 3892
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3881,
+			"arabicnumber": 3881,
+			"text": "Rapporté par Mu’adh bin Jabal : Le Messager d’Allah (ﷺ) a dit : « Toute personne qui se couche en étant en état de pureté, puis se réveille la nuit et demande quelque chose à Allah, que ce soit pour cette vie ou pour l’au-delà, Allah le lui accordera. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 55
+			}
+		}
+	]
+}

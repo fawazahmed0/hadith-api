@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1255,
+			"arabicnumber": 1255,
+			"text": "Rapporté par 'Abdullah : Le Prophète (ﷺ) a dirigé la prière du Zuhr avec cinq rak'ahs. Ils ont dit : \"Tu as prié cinq rak'ahs.\" Alors il a fait deux prosternations après avoir prononcé le taslim, alors qu'il était assis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 77
+			}
+		}
+	]
+}

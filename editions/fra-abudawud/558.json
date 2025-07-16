@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 558,
+			"arabicnumber": 558,
+			"text": "Rapporté par Abu Umamah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui sort de chez lui après avoir fait ses ablutions pour accomplir la prière obligatoire en groupe à la mosquée, aura une récompense comme celle de celui qui part en pèlerinage après avoir mis l’ihram. Celui qui sort pour prier la prière du matin (duha) et fait l’effort pour cela, aura la récompense de celui qui fait la ‘umrah. Et une prière suivie d’une autre prière, sans paroles inutiles entre les deux, sera inscrite dans Illiyyun. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 168
+			}
+		}
+	]
+}

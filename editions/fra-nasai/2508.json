@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2508,
+			"arabicnumber": 2508,
+			"text": "Rapporté par Ibn 'Abbas : Lorsqu’il était gouverneur de Bassorah, à la fin du mois, Ibn 'Abbas a dit : \"Donnez la Zakat de votre jeûne.\" Les gens se sont regardés, alors il a dit : \"Que ceux qui viennent de Médine se lèvent et enseignent à leurs frères, car ils ne savent pas que cette Zakat a été prescrite par le Messager d’Allah pour chaque homme et femme, libre ou esclave : un Sa' d’orge ou de dattes, ou un demi-Sa' de blé.\" Alors ils se sont levés. (Da'if) Hisham l’a contredit, il a dit : \"De Muhammad bin Sirin",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 74
+			}
+		}
+	]
+}

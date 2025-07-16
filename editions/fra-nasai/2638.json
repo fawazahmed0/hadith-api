@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2638,
+			"arabicnumber": 2638,
+			"text": "Rapporté par 'Abdullah bin Az-Zubair رضي الله عنه : Un homme de Khath'am est venu voir le Messager d'Allah ﷺ et a dit : « Mon père est un vieil homme qui ne peut pas monter à cheval, et l'ordre d'Allah d'accomplir le Hajj est arrivé. Est-ce suffisant si j'accomplis le Hajj à sa place ? » Il a demandé : « Es-tu le fils aîné ? » Il a répondu : « Oui. » Il a dit : « Ne penses-tu pas que s'il avait une dette, tu la paierais ? » Il a répondu : « Oui. » Il a dit : « Alors accomplis le Hajj à sa place. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 20
+			}
+		}
+	]
+}

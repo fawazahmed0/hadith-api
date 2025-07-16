@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 574,
+			"arabicnumber": 574,
+			"text": "Rapporté par Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a vu une personne prier seule. Il a dit : « Y a-t-il un homme qui pourrait faire une bonne action pour lui et prier avec lui ? »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 184
+			}
+		}
+	]
+}

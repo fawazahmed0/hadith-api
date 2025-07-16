@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3724,
+			"arabicnumber": 3724,
+			"text": "Rapporté par Jabir ibn Abd Allah رضي الله عنه : « Le Prophète ﷺ est allé rendre visite à un homme des Ansar, accompagné d’un de ses compagnons qui arrosait son jardin. Le Messager d’Allah ﷺ a dit : “Si tu as de l’eau qui est restée dans une outre pendant la nuit, nous en voudrions bien, sinon nous boirons à la source.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5621)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 56
+			}
+		}
+	]
+}

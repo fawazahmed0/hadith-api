@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1063,
+			"arabicnumber": 1063,
+			"text": "Nafi’ a dit : Ibn ‘Umar a fait l’appel à la prière par une nuit froide et venteuse. Il a ensuite dit : “Priez dans les maisons.” Après cela, il a ajouté : Chaque fois qu’il faisait froid ou qu’il pleuvait la nuit, le Messager d’Allah ﷺ ordonnait au muezzin d’annoncer : “Priez dans les maisons.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (666) Sahih Muslim (697)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 674
+			}
+		}
+	]
+}

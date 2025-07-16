@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4334,
+			"arabicnumber": 4334,
+			"text": "Rapporté par Ibn ‘Umar : Le Messager d’Allah (ﷺ) a dit : « Al-Kawthar est une rivière au Paradis dont les berges sont en or et le lit en rubis et en perles. Son sol sent meilleur que le musc, son eau est plus douce que le miel et plus blanche que la neige. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 235
+			}
+		}
+	]
+}

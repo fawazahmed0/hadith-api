@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"16": "The Chapters on Pawning"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2436,
+				"hadithnumber_last": 2491,
+				"arabicnumber_first": 2436,
+				"arabicnumber_last": 2491
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2479,
+			"arabicnumber": 2479,
+			"text": "Rapporté par Aishah : Le Messager d'Allah (ﷺ) a dit : \"Il ne faut pas retenir l'eau excédentaire, ni l'eau excédentaire d'un puits",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 44
+			}
+		}
+	]
+}

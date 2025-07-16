@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 795,
+			"arabicnumber": 795,
+			"text": "Rapporté par Abu Sa'eed : Le Messager d'Allah (ﷺ) a vu que ses compagnons avaient tendance à rester à l'arrière, alors il a dit : \"Avancez et suivez-moi, et que ceux qui sont derrière vous suivent votre exemple. Si les gens continuent à rester en arrière, Allah, le Puissant et le Sublime, les mettra en arrière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 19
+			}
+		}
+	]
+}

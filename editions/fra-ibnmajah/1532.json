@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1532,
+			"arabicnumber": 1532,
+			"text": "Rapporté par Ibn Buraidah, d’après son père : Le Prophète (ﷺ) a accompli la prière funéraire pour une personne décédée après qu’elle ait été enterrée",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 100
+			}
+		}
+	]
+}

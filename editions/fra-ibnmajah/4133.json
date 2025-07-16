@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4133,
+			"arabicnumber": 4133,
+			"text": "Rapporté par ‘Amr bin Ghailan Ath-Thaqafi : Le Messager d’Allah (ﷺ) a dit : « Ô Allah, celui qui croit en moi et sait que ce que j’ai apporté vient de Toi, diminue sa richesse et ses enfants, rends la rencontre avec Toi précieuse à ses yeux, et hâte sa mort. Celui qui ne croit pas en moi et ne sait pas que ce que j’ai apporté vient de Toi, augmente sa richesse et ses enfants et prolonge sa vie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 34
+			}
+		}
+	]
+}

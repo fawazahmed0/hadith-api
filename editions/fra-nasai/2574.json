@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2574,
+			"arabicnumber": 2574,
+			"text": "Rapporté par 'Abdur-Rahman bin Bujaid, d'après sa grand-mère Umm Bujaid – qui a prêté serment d'allégeance au Messager d'Allah – elle a dit au Messager d'Allah : \"Un pauvre se tient à ma porte, et je ne trouve rien à lui donner.\" Le Messager d'Allah lui a dit : \"Si tu ne trouves rien à lui donner sauf un pied de mouton brûlé, alors donne-le-lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 140
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4400,
+			"arabicnumber": 4400,
+			"text": "Une tradition similaire a aussi été rapportée par al-A’mash par une autre chaîne de transmetteurs. Il a aussi dit : « … jusqu’à ce qu’il atteigne la puberté, et le fou jusqu’à ce qu’il retrouve la conscience. » ‘Umar s’est alors mis à dire : « Allah est le plus grand. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 50
+			}
+		}
+	]
+}

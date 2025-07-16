@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2499,
+			"arabicnumber": 2499,
+			"text": "Rapporté par 'Amr bin Shu'aib, de son père, de son grand-père : Hilal est venu voir le Messager d’Allah ﷺ avec un dixième de son miel et lui a demandé de protéger une vallée appelée Salabah. Le Messager d’Allah ﷺ a protégé cette vallée pour lui. Quand 'Umar bin Al-Khattab est devenu calife, Sufyan bin Wahb a écrit à 'Umar pour lui demander à ce sujet, et 'Umar a répondu : \"S’il me donne ce qu’il donnait au Messager d’Allah, c’est-à-dire un dixième de son miel, je protégerai Salabah pour lui, sinon ce ne sont que des abeilles et chacun peut en manger s’il le souhaite",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 65
+			}
+		}
+	]
+}

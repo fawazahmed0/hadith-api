@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 228,
+			"arabicnumber": 228,
+			"text": "Rapporté par Abu Umamah : Le Messager d’Allah ﷺ a dit : « Vous devez acquérir cette connaissance avant qu’elle ne disparaisse, et sa disparition signifie qu’elle sera enlevée. » Il a joint son majeur et l’index près du pouce ainsi, puis il a dit : « Le savant et celui qui cherche la connaissance partageront la récompense, et il n’y a rien de bon dans le reste des gens. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 228
+			}
+		}
+	]
+}

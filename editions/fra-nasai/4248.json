@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4248,
+			"arabicnumber": 4248,
+			"text": "Rapporté par Maimunah, l’épouse du Prophète ﷺ : Des hommes de Quraish passèrent devant le Messager d’Allah ﷺ en traînant une brebis de la taille d’un âne. Il leur dit : « Pourquoi ne prenez-vous pas sa peau ? » Ils répondirent : « C’est une bête morte. » Le Messager d’Allah ﷺ dit : « Purifiez-la avec de l’eau et du qaraz. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 27
+			}
+		}
+	]
+}

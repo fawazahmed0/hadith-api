@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 505,
+			"arabicnumber": 505,
+			"text": "Abu Mahdhurah a dit que le Messager d’Allah ﷺ lui a enseigné l’appel à la prière (adhan), en disant : « Allah est le plus Grand, Allah est le plus Grand ; j’atteste qu’il n’y a pas d’autre divinité qu’Allah. » Il a ensuite rapporté l’adhan comme dans la tradition transmise par Ibn Juraij d’après ‘Abd al-Aziz ibn ‘Abd al-Malik avec le même sens. Dans la version de Malik ibn Dinar, j’ai demandé au fils d’Abu Mahdhurah : « Raconte-moi l’adhan de ton père transmis du Messager d’Allah ﷺ. » Il a dit : « Allah est le plus Grand, Allah est le plus Grand, c’est tout. » Il en est de même dans la version rapportée par Ja’far ibn Sulaiman du fils d’Abd Mahdhurah d’après son oncle, d’après son grand-père, sauf qu’il a dit : « Ensuite, répète et élève la voix : Allah est le plus Grand, Allah est le plus Grand. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 115
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4130,
+			"arabicnumber": 4130,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Les anges n’accompagnent pas les voyageurs qui possèdent une peau de panthère. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 111
+			}
+		}
+	]
+}

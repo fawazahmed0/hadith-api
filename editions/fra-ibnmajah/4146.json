@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4146,
+			"arabicnumber": 4146,
+			"text": "Rapporté par Nu’man bin Bashir : J’ai entendu ‘Umar bin Khattab dire : « J’ai vu le Messager d’Allah (ﷺ) se tordre de faim pendant la journée, et il ne trouvait même pas les pires dattes pour remplir son estomac. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 47
+			}
+		}
+	]
+}

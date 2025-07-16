@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2369,
+			"arabicnumber": 2369,
+			"text": "Rapporté par Abu Hurairah رضي الله عنه : Le Messager d’Allah m’a ordonné de prier deux unités de prière du Duha, de ne pas dormir avant d’avoir prié le Witr, et de jeûner trois jours chaque mois",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 280
+			}
+		}
+	]
+}

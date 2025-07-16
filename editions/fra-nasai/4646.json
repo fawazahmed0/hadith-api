@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4646,
+			"arabicnumber": 4646,
+			"text": "Rapporté par Jabir : \"Le Messager d'Allah a dit : 'Le droit de préemption doit être accordé dans tout ce qui est partagé, que ce soit une maison ou un jardin. Il n'est pas correct de le vendre sans en informer son associé, et s'il le vend, l'associé a plus de droit sur le bien, sauf s'il donne la permission de le vendre à quelqu'un d'autre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 198
+			}
+		}
+	]
+}

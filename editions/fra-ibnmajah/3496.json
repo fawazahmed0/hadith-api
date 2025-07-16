@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3496,
+			"arabicnumber": 3496,
+			"text": "Rapporté par Jabir : J’ai entendu le Messager d’Allah (ﷺ) dire : « Utilisez l’antimoine avant de dormir, car il améliore la vue et fait pousser les cils. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 61
+			}
+		}
+	]
+}

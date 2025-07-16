@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 329,
+			"arabicnumber": 329,
+			"text": "Rapporté par Umair, l’affranchi d’Ibn 'Abbas : Je l’ai entendu dire : Moi et 'Abd Allah b. Yasar, l’affranchi de Maymouna, épouse du Prophète ﷺ, sommes allés chez Abu al-Juhaim b. al-Harith b. al-Simmat al-Ansari. Abu al-Juhaim a dit : Le Messager d’Allah ﷺ revenait de Bir Jamal (un endroit près de Médine) et un homme l’a rencontré et l’a salué. Le Messager d’Allah ﷺ n’a pas répondu à la salutation jusqu’à ce qu’il atteigne un mur, puis il s’est essuyé le visage et les mains, puis il a répondu à la salutation (c’est-à-dire après avoir fait le tayammum)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (337) Sahih Muslim (369)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 329
+			}
+		}
+	]
+}

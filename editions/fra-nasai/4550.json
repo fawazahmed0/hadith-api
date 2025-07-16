@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4550,
+			"arabicnumber": 4550,
+			"text": "Rapporté par Jabir : Le Messager d’Allah ﷺ a interdit la Mukhabarah, la Muzâbanah, la Muhaqalah, la vente de dattes avant qu’elles soient bonnes à manger, et de les vendre contre autre chose que des Dinars ou des Dirhams",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 102
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 674,
+			"arabicnumber": 674,
+			"text": "Rapporté par Abu Mas’ud رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Que ceux d’entre vous qui sont calmes et réfléchis soient près de moi, puis ceux qui viennent après eux, puis ceux qui viennent après eux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (432)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 284
+			}
+		}
+	]
+}

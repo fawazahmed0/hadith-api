@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"10": "The Book of Lost and Found Items"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 1701,
+				"hadithnumber_last": 1720,
+				"arabicnumber_first": 1701,
+				"arabicnumber_last": 1720
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1711,
+			"arabicnumber": 1711,
+			"text": "Ce même récit a aussi été rapporté par ‘Amr bin Shu’aib par une autre chaîne. Cette version ajoute : À propos de la brebis égarée, il a dit : « Prends-la. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 11
+			}
+		}
+	]
+}

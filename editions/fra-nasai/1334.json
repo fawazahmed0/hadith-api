@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1334,
+			"arabicnumber": 1334,
+			"text": "Rapporté par Jabir bin Yazid bin Al-Aswad, d’après son père : Il a prié la prière du subh avec le Messager d’Allah (ﷺ), et quand il a terminé la prière, il s’est détourné de la Qibla vers les gens",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 156
+			}
+		}
+	]
+}

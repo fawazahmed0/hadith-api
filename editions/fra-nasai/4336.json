@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4336,
+			"arabicnumber": 4336,
+			"text": "Rapporté par Ibn ‘Umar : Le Messager d’Allah a interdit (la consommation de) la viande des ânes domestiques le jour de Khaybar",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 74
+			}
+		}
+	]
+}

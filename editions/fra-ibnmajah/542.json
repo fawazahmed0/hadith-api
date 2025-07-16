@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 542,
+			"arabicnumber": 542,
+			"text": "Rapporté par Jabir bin Samurah : Un homme a demandé au Prophète s’il pouvait prier dans un vêtement où il avait eu un rapport avec sa femme. Il a répondu : « Oui, sauf s’il voit quelque chose dessus, dans ce cas il doit le laver. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 276
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 146,
+			"arabicnumber": 146,
+			"text": "Rapporté par 'Ali bin Abu Talib : J’étais assis avec le Prophète ﷺ, et 'Ammar bin Yasir a demandé la permission d’entrer. Le Prophète ﷺ a dit : \"Faites-le entrer, bienvenue au bon et au pur",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 146
+			}
+		}
+	]
+}

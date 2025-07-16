@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 478,
+			"arabicnumber": 478,
+			"text": "Rapporté par Abdullah al-Muharibi : Le Messager d’Allah ﷺ a dit : « Quand un homme se lève avec l’intention de prier, ou si l’un de vous prie, il ne doit pas cracher devant lui, ni à sa droite ; mais il peut le faire à sa gauche, s’il y a de la place ; ou il doit cracher sous son pied gauche puis l’essuyer. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 88
+			}
+		}
+	]
+}

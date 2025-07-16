@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"30": "Chapters on Drinks"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3371,
+				"hadithnumber_last": 3435,
+				"arabicnumber_first": 3371,
+				"arabicnumber_last": 3435
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3409,
+			"arabicnumber": 3409,
+			"text": "Rapporté par Abu Hurairah : On a apporté au Messager d’Allah (ﷺ) du Nabidh provenant d’une jarre en terre cuite, et il bouillonnait. Il a dit : “Jetez cela contre le mur, car c’est la boisson de celui qui ne croit pas en Allah et au Jour dernier.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 39
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2588,
+			"arabicnumber": 2588,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Certains Ansar ont demandé de l’aide au Messager d’Allah et il leur a donné. Puis ils lui ont encore demandé et il leur a donné, puis, quand il n’avait plus rien, il a dit : “Tout ce que j’ai de bien, je ne vous le cacherai jamais, mais celui qui veut s’abstenir de demander, Allah, le Puissant et Majestueux, l’y aidera, et celui qui veut être patient, Allah l’aidera à être patient. Personne ne reçoit un don meilleur et plus vaste que la patience.”",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 154
+			}
+		}
+	]
+}

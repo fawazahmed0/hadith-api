@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4221,
+			"arabicnumber": 4221,
+			"text": "Anas ibn Malik رضي الله عنه a dit qu’il n’a vu une bague-sceau en argent à la main du Prophète ﷺ qu’un seul jour. Les gens en firent alors et les portèrent aussi. Le Prophète ﷺ la jeta ensuite et les gens firent de même. Abu Dawud a dit : Ziyad ibn Sa’d, Shu’aib et Ibn Musafir l’ont transmis d’al-Zuhri. ‘Ali a dit dans leurs versions : « en argent »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2094) Sahih Muslim (5868)"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 8
+			}
+		}
+	]
+}

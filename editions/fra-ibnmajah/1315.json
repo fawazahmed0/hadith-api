@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"5": "Establishing the Prayer and the Sunnah Regarding Them"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 803,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 803,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1315,
+			"arabicnumber": 1315,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) avait l’habitude de se laver le jour de la Fitr et le jour de l’Adha",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 513
+			}
+		}
+	]
+}

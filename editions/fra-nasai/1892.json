@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1892,
+			"arabicnumber": 1892,
+			"text": "Rapporté par Hammad, d’après Ayyub : Et Hafsah a dit, d’après Umm 'Atiyyah : « Nous avons mis ses cheveux en trois tresses. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 75
+			}
+		}
+	]
+}

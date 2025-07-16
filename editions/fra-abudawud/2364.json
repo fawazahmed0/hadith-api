@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2364,
+			"arabicnumber": 2364,
+			"text": "Rapporté par Amir ibn Rabi'ah رضي الله عنه : J’ai vu le Messager d’Allah ﷺ utiliser un siwak (bâtonnet pour les dents) alors qu’il jeûnait. Musaddad a ajouté dans sa version : « plus souvent que je ne saurais le compter. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 52
+			}
+		}
+	]
+}

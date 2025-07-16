@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4335,
+			"arabicnumber": 4335,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Au Paradis, il y a un arbre dont l’ombre pourrait couvrir un cavalier qui voyagerait cent ans sans en sortir. » Il ajouta : « Récitez, si vous voulez : “Et dans une ombre étendue...” (56:) »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 236
+			}
+		}
+	]
+}

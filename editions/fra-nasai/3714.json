@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"33": "The Book of ar-Ruqba"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3706,
+				"hadithnumber_last": 3719,
+				"arabicnumber_first": 3706,
+				"arabicnumber_last": 3719
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3714,
+			"arabicnumber": 3714,
+			"text": "Rapporté par Hanzalah : Il a entendu Tawus dire : Le Messager d'Allah ﷺ a dit : « La Ruqba n'est pas permise. Celui à qui on donne quelque chose sous forme de Ruqba, cela fait partie de son héritage. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 9
+			}
+		}
+	]
+}

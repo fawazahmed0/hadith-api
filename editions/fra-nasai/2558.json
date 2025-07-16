@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2558,
+			"arabicnumber": 2558,
+			"text": "Rapporté par Ibn Jabir, d'après son père : Le Messager d'Allah a dit : \"Il y a une forme de jalousie protectrice qu'Allah, le Puissant et Majestueux, aime et une qu'Il déteste, et une forme de fierté qu'Allah aime et une qu'Il déteste. La jalousie protectrice qu'Allah aime, c'est celle qui existe quand il y a des raisons de soupçonner. Celle qu'Allah déteste, c'est quand il n'y a aucune raison de soupçonner. Quant à la fierté qu'Allah aime, c'est quand un homme est fier de lui-même en combattant ou en faisant l'aumône. Et la fierté qu'Allah déteste, c'est d'être fier en faisant le mal",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 124
+			}
+		}
+	]
+}

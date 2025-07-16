@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3044,
+			"arabicnumber": 3044,
+			"text": "Rapporté par Abdur Rahman bin Yamur Ad-Daili : \"J’ai vu le Prophète à Arafat quand des gens du Najd sont venus vers lui. Ils ont demandé à un homme de l’interroger sur le Hajj. Il a dit : 'Le Hajj, c’est Arafat. Celui qui arrive la nuit de Jam (Al-Muzdalifah) avant la prière du Subh, alors il a accompli le Hajj. Et les jours de Mina sont trois jours. Mais celui qui part en deux jours, il n’y a pas de faute pour lui, et celui qui reste, il n’y a pas de faute non plus.' Ensuite, il a fait monter un homme derrière lui et il a commencé à proclamer cela au peuple",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 427
+			}
+		}
+	]
+}

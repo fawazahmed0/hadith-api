@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 618,
+			"arabicnumber": 618,
+			"text": "Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Prophète ﷺ a dit : « La clé de la prière, c’est la purification ; le takbir (“Allah est le plus Grand”) rend interdits (les actes qui annulent la prière), et le taslim (la salutation finale) les rend de nouveau permis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 228
+			}
+		}
+	]
+}

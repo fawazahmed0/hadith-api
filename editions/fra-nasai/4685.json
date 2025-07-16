@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4685,
+			"arabicnumber": 4685,
+			"text": "Rapporté par Sammurah : Nous étions avec le Prophète ﷺ lors d’un enterrement, et il a dit : \"Y a-t-il quelqu’un des Banu Untel ici ?\" Il l’a répété trois fois. Puis un homme s’est levé, et il lui a dit : \"Pourquoi n’as-tu pas répondu les deux premières fois ? Je ne vais te dire que du bien : Untel (en citant le nom d’un homme parmi eux) est décédé et il est retenu (hors du Paradis) à cause de sa dette",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 237
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4150,
+			"arabicnumber": 4150,
+			"text": "Rapporté par Abu Hurairah : Un jour, on a apporté un plat chaud au Messager d’Allah (ﷺ), et il en a mangé. Puis, quand il eut fini, il a dit : « Louange à Allah, aucun plat chaud n’est entré dans mon estomac depuis tel ou tel moment. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 51
+			}
+		}
+	]
+}

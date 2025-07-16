@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2491,
+			"arabicnumber": 2491,
+			"text": "Rapporté par 'Abdur-Rahman bin Mas'ud bin Niyar : Sahl bin Abi Hathmah est venu nous voir au marché et a dit : \"Le Messager d’Allah ﷺ a dit : Lorsque vous faites une estimation, prenez les deux tiers de la part estimée pour la Zakat et laissez un tiers, et si vous ne prenez pas (les deux tiers) ou ne laissez pas un tiers...\" (Un des rapporteurs, Shu'bah, avait un doute – il a dit : laissez un quart)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 57
+			}
+		}
+	]
+}

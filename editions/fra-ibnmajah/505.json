@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 505,
+			"arabicnumber": 505,
+			"text": "Rapporté par Miqdad bin Aswad : Il a interrogé le Prophète au sujet d’un homme qui s’approche de sa femme sans éjaculer. Il a dit : \"Si cela arrive à l’un de vous, il doit asperger d’eau sa partie intime (c’est-à-dire la laver) et faire les ablutions",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 239
+			}
+		}
+	]
+}

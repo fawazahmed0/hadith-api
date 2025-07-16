@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1080,
+			"arabicnumber": 1080,
+			"text": "Rapporté par Abu Malik Al-Ashja'i, d’après son père : \"J’ai prié derrière le Messager d’Allah (ﷺ) et il n’a pas fait le Qunut, j’ai prié derrière Abu Bakr et il n’a pas fait le Qunut, j’ai prié derrière Umar et il n’a pas fait le Qunut, j’ai prié derrière Uthman et il n’a pas fait le Qunut, et j’ai prié derrière Ali et il n’a pas fait le Qunut.\" Puis il a dit : \"Ô mon fils, ceci est une innovation",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 52
+			}
+		}
+	]
+}

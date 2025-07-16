@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3127,
+			"arabicnumber": 3127,
+			"text": "Rapporté par Abu Hurairah : J’ai entendu le Messager d’Allah (ﷺ) dire : « L’exemple d’un Mujahid qui lutte pour la cause d’Allah – et Allah sait mieux que quiconque qui lutte pour Sa cause – est comme celui qui jeûne, prie la nuit, se concentre avec humilité, s’incline et se prosterne. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 43
+			}
+		}
+	]
+}

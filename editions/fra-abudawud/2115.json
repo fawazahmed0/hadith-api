@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2115,
+			"arabicnumber": 2115,
+			"text": "Ce même récit a également été transmis par ‘Alqamah d’après ‘Abd Allah. ‘Uthman ibn Abi Shaibah a rapporté un récit similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 70
+			}
+		}
+	]
+}

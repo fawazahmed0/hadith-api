@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2761,
+			"arabicnumber": 2761,
+			"text": "Rapporté par Nu’aym ibn Mas’ud رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire, lorsque les messagers envoyés par Musaylimah ont lu la lettre de Musaylimah : « En quoi croyez-vous ? » Ils ont répondu : « Nous croyons comme il croit. » Il a dit : « Par Allah, si les messagers n’étaient pas protégés, je vous aurais tranché la tête. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 285
+			}
+		}
+	]
+}

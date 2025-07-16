@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2597,
+			"arabicnumber": 2597,
+			"text": "Rapporté par un homme qui a entendu le Prophète ﷺ : Al-Muhallab ibn Abu Sufrah a dit : Un homme qui a entendu le Prophète ﷺ a dit : « Si l’ennemi vous attaque la nuit, que votre cri de guerre soit “Ha-Mim”. Ils ne seront pas aidés. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 121
+			}
+		}
+	]
+}

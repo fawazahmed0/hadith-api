@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3519,
+			"arabicnumber": 3519,
+			"text": "Rapporté par ‘Amr bin Hazm : J’ai récité la Ruqyah contre la morsure de serpent au Messager d’Allah (ﷺ), ou elle lui a été récitée, et il a ordonné de l’utiliser",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 84
+			}
+		}
+	]
+}

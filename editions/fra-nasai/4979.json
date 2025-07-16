@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"46": "The Book of Cutting off the Hand of the Thief"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 4870,
+				"hadithnumber_last": 4984,
+				"arabicnumber_first": 4870,
+				"arabicnumber_last": 4984
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4979,
+			"arabicnumber": 4979,
+			"text": "Rapporté par Junadah bin Abi Umayyah : « J'ai entendu Busr bin Abi Artah dire : “J'ai entendu le Messager d'Allah ﷺ dire : On ne doit pas couper la main pendant un voyage.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 46,
+				"hadith": 109
+			}
+		}
+	]
+}

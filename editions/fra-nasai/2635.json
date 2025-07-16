@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2635,
+			"arabicnumber": 2635,
+			"text": "Rapporté par Ibn 'Abbas رضي الله عنهما : Une femme de Khath'am a demandé au Prophète ﷺ, le matin du jour du sacrifice : « Ô Messager d'Allah ! L'ordre d'Allah d'accomplir le Hajj est arrivé, mais mon père est un vieil homme qui ne peut pas rester assis solidement sur la monture. Puis-je accomplir le Hajj à sa place ? » Il a répondu : « Oui. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 17
+			}
+		}
+	]
+}

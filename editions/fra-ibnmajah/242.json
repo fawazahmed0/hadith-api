@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 242,
+			"arabicnumber": 242,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Les récompenses des bonnes actions qui atteignent un croyant après sa mort sont : le savoir qu’il a enseigné et transmis, un fils pieux qu’il laisse derrière lui, un exemplaire du Coran qu’il lègue, une mosquée qu’il a construite, une maison qu’il a bâtie pour les voyageurs, un canal qu’il a creusé, ou une aumône qu’il a donnée de son vivant alors qu’il était en bonne santé. Ces actions continueront à lui profiter après sa mort. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 242
+			}
+		}
+	]
+}

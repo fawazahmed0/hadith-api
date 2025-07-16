@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 834,
+			"arabicnumber": 834,
+			"text": "La tradition mentionnée ci-dessus a aussi été transmise par une autre chaîne de narrateurs par Humaid, mais il n’a pas mentionné le mot « prière surérogatoire ». Cette version précise : Al-Hasan (al-Basri) récitait la Fatiha dans les prières du midi et de l’après-midi, qu’il dirigeât la prière ou qu’il soit derrière l’imam, et il glorifiait Allah, répétant souvent : « Allah est le plus grand » et « Il n’y a de dieu qu’Allah » (c’est-à-dire le takbir et le tahlil), autant de fois que l’on récite les sourates Qaf (sourate 50) et Adh-Dhariyat",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 444
+			}
+		}
+	]
+}

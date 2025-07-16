@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3524,
+			"arabicnumber": 3524,
+			"text": "Rapporté par Ibn Mas'ud : On lui a demandé à propos d’un homme qui épouse une femme, sans fixer de dot ni consommer le mariage avant de mourir. Ibn Mas'ud a dit : \"Elle doit recevoir une dot équivalente à celle des femmes de son rang, ni plus ni moins ; elle doit observer la 'Idda et elle a droit à l’héritage.\" Ma'qil bin Sinan Al-Ashja'i s’est levé et a dit : \"Le Messager d’Allah ﷺ a rendu un jugement similaire parmi nous concernant Birwa' bint Washiq.\" Et Ibn Mas'ud s’en est réjoui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 136
+			}
+		}
+	]
+}

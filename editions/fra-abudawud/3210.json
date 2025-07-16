@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3210,
+			"arabicnumber": 3210,
+			"text": "Rapporté par Abu Marhab : AbdurRahman ibn Awf est descendu dans la tombe du Prophète ﷺ. Il a dit : « J’ai encore l’impression de voir les quatre ensemble. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 122
+			}
+		}
+	]
+}

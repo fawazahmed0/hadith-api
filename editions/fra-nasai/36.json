@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 36,
+			"arabicnumber": 36,
+			"text": "Rapporté par 'Abdullah bin Mughaffal : Le Prophète (ﷺ) a dit : \"Aucun de vous ne doit uriner à l’endroit où il se lave, car la plupart des murmures diaboliques viennent de là",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 36
+			}
+		}
+	]
+}

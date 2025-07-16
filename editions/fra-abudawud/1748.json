@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1748,
+			"arabicnumber": 1748,
+			"text": "Rapporté par Ibn `Umar رضي الله عنه : Le Prophète ﷺ a enduit ses cheveux de miel pour les maintenir emmêlés",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 28
+			}
+		}
+	]
+}

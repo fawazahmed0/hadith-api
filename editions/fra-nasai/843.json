@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 843,
+			"arabicnumber": 843,
+			"text": "Rapporté par Ubay bin Ka'b : Un jour, le Messager d'Allah (ﷺ) a prié la prière de l'aube, puis il a dit : \"Untel était-il présent à la prière ?\" Ils ont répondu : \"Non.\" Il a dit : \"Et untel ?\" Ils ont répondu : \"Non.\" Il a dit : \"Ces deux prières sont les plus lourdes pour les hypocrites. S'ils savaient quelle récompense elles apportent, ils viendraient, même en rampant. La valeur du premier rang est comme celle du rang des anges. Si vous connaissiez sa valeur, vous rivaliseriez pour y être. La prière d'un homme avec un autre homme vaut mieux que sa prière seul. Et la prière d'un homme avec deux autres vaut mieux que sa prière avec un seul ; plus il y a de gens, plus cela est aimé d'Allah, le Puissant et Majestueux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 67
+			}
+		}
+	]
+}

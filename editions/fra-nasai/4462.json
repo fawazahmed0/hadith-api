@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4462,
+			"arabicnumber": 4462,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah a dit : « Il y a trois personnes à qui Allah ne parlera pas le Jour de la Résurrection, Il ne les regardera pas, Il ne les purifiera pas, et ils auront un châtiment douloureux : un homme qui a de l’eau en surplus en voyage mais la refuse à un voyageur ; un homme qui prête allégeance à un chef pour des intérêts matériels, et s’il obtient ce qu’il veut il lui reste fidèle, sinon il ne l’est pas ; et un homme qui vend sa marchandise après ‘Asr en jurant par Allah qu’il l’a achetée à tel prix, et l’autre le croit. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 14
+			}
+		}
+	]
+}

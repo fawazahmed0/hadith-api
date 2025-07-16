@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"35": "Combing the Hair (Kitab Al-Tarajjul)"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 4159,
+				"hadithnumber_last": 4213,
+				"arabicnumber_first": 4159,
+				"arabicnumber_last": 4213
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4178,
+			"arabicnumber": 4178,
+			"text": "Rapporté par Al-Rabi’ ibn Anas, citant ses deux grands-pères : Nous avons entendu Abu Musa dire : Le Messager d’Allah ﷺ a dit : « Allah n’accepte pas la prière d’un homme qui a du khaluq (un parfum à base de safran) sur le corps. » Abu Dawud a précisé : Ses deux grands-pères étaient Zaid et Ziyad",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 20
+			}
+		}
+	]
+}

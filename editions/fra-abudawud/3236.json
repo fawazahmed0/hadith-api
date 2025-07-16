@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3236,
+			"arabicnumber": 3236,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a maudit les femmes qui visitent les tombes, celles qui construisent des mosquées dessus et qui y installent des lampes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 148
+			}
+		}
+	]
+}

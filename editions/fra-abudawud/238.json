@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 238,
+			"arabicnumber": 238,
+			"text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ prenait un bain rituel avec un récipient contenant sept à huit sâ‘ (soit environ quinze à seize livres) d’eau après un rapport intime. Abu Dawud a dit : La version rapportée par Mu’ammar d’après al-Zuhri précise : Elle (Aishah) a dit : « Le Messager d’Allah ﷺ et moi prenions un bain avec un récipient équivalent à al-faraq (environ sept ou huit sâ‘ d’eau). » Abu Dawud a dit : Ibn ‘Uyainah a aussi rapporté comme la version de Malik. Abu Dawud a dit : J’ai entendu Ahmad b. Hanbal dire : Al-Faraq contient seize rotls (d’eau). J’ai aussi entendu dire que le sâ‘ d’Ibn Abi Dhi’b contenait cinq rotls (d’eau). L’avis selon lequel un sâ‘ contient huit rotls (d’eau) n’est pas sûr. Abu Dawud a dit : J’ai entendu Ahmad (b. Hanbal) dire : Celui qui donne cinq et un tiers de rotls (mesurés avec notre rotl) comme aumône de rupture du jeûne (sadaqat al-fitr), a donné en totalité. On lui a alors demandé : Les dattes appelées al-saihani sont-elles plus lourdes (peut-on donner un sâ‘ de ces dattes en aumône de fitr) ? Il a répondu : Les dattes al-saihani sont bonnes. Mais je ne sais pas (si l’eau est plus lourde ou les dattes)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (250) Sahih Muslim (319)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 238
+			}
+		}
+	]
+}

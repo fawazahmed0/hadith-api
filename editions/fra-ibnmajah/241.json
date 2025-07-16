@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 241,
+			"arabicnumber": 241,
+			"text": "Rapporté par Abdullah bin Abu Qatadah, d’après son père : Le Messager d’Allah ﷺ a dit : « Les meilleures choses qu’un homme peut laisser derrière lui sont trois : un fils pieux qui prie pour lui, une aumône continue dont la récompense lui parvient, et un savoir qui continue d’être utilisé après sa mort. » (Hasan) Une autre chaîne rapporte des paroles similaires",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 241
+			}
+		}
+	]
+}

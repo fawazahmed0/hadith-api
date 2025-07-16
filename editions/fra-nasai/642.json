@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 642,
+			"arabicnumber": 642,
+			"text": "Rapporté par Anas : Quelqu’un a demandé au Messager d’Allah (ﷺ) à propos de l’heure du Subh. Le Messager d’Allah (ﷺ) a ordonné à Bilal de faire l’Adhan quand l’aube est apparue. Le lendemain, il a retardé le Fajr jusqu’à ce qu’il fasse bien jour, puis il lui a dit de faire l’Adhan et il a prié. Ensuite, il a dit : « Voilà le moment de la prière. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 17
+			}
+		}
+	]
+}

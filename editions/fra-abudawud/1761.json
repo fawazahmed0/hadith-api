@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1761,
+			"arabicnumber": 1761,
+			"text": "Abu al-Zubair a dit : J’ai demandé à Jabir bin `Abdallah رضي الله عنه au sujet du fait de monter sur les chameaux destinés au sacrifice. Il a dit : J’ai entendu le Messager d’Allah ﷺ dire : « Montez-les doucement quand vous n’avez rien d’autre, jusqu’à ce que vous trouviez une monture. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1324)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 41
+			}
+		}
+	]
+}

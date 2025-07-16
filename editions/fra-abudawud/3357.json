@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3357,
+			"arabicnumber": 3357,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As : Le Messager d’Allah ﷺ lui ordonna de préparer une armée, mais les chameaux étaient insuffisants. Alors il lui ordonna de garder les jeunes chameaux de la sadaqah, et il prenait un chameau qui serait remplacé par deux lorsque les chameaux de la sadaqah arriveraient",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 32
+			}
+		}
+	]
+}

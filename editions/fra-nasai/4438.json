@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4438,
+			"arabicnumber": 4438,
+			"text": "Rapporté par Abu Tha‘labah : « Le Messager d’Allah ﷺ a dit : Un animal qui a été pris comme cible n’est pas licite. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 78
+			}
+		}
+	]
+}

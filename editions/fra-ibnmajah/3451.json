@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3451,
+			"arabicnumber": 3451,
+			"text": "Rapporté par Jabir bin ‘Abdullah : Du miel a été offert en cadeau au Prophète (ﷺ), et il l’a partagé entre nous, une cuillerée à la fois. J’ai pris ma cuillerée puis j’ai dit : “Ô Messager d’Allah, puis-je en avoir une autre ?” Il a dit : “Oui.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 16
+			}
+		}
+	]
+}

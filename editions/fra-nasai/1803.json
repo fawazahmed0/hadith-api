@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1803,
+			"arabicnumber": 1803,
+			"text": "Rapporté par Umm Habibah : \"Celui qui prie douze rak'ahs durant la nuit et le jour, en plus des prières obligatoires, une maison lui sera construite au Paradis : quatre avant la prière de Zuhr et deux après, deux avant Asr, deux après Maghrib et deux avant Fajr",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 206
+			}
+		}
+	]
+}

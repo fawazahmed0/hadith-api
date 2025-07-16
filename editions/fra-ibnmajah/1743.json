@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1743,
+			"arabicnumber": 1743,
+			"text": "Rapporté par Ibn ‘Abbas : Le Prophète (ﷺ) a interdit de jeûner le mois de Rajab",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 106
+			}
+		}
+	]
+}

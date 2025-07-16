@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2019,
+			"arabicnumber": 2019,
+			"text": "Rapporté par Aisha, la mère des croyants رضي الله عنها : J’ai dit : « Messager d’Allah, ne devrions-nous pas construire une maison ou un abri pour t’ombrager du soleil ? » Il a répondu : « Non, c’est un endroit réservé à celui qui arrive le premier. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 299
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"19": "The Chapters on Manumission (of Slaves)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2512,
+				"hadithnumber_last": 2532,
+				"arabicnumber_first": 2512,
+				"arabicnumber_last": 2532
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2529,
+			"arabicnumber": 2529,
+			"text": "Rapporté par Ibn `Umar : Le Messager d’Allah (ﷺ) a dit : “Celui qui affranchit un esclave qui possède des biens, ces biens lui appartiennent, sauf si le maître précise qu’ils lui reviendront.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 18
+			}
+		}
+	]
+}

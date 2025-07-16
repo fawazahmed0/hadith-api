@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"38": "The Book of Distribution of Al-Fay'"
+		},
+		"section_detail": {
+			"38": {
+				"hadithnumber_first": 4133,
+				"hadithnumber_last": 4148,
+				"arabicnumber_first": 4133,
+				"arabicnumber_last": 4148
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4145,
+			"arabicnumber": 4145,
+			"text": "Rapporté par Mutarrif : On a demandé à Ash-Shabi au sujet de la part du Prophète et de ce qu'il choisissait pour lui-même. Il a dit : \"La part du Prophète était comme celle de tout homme musulman, et ce qu'il choisissait pour lui-même était quelque chose de précieux ; il prenait ce qu'il voulait",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Mursal"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Mursal"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 38,
+				"hadith": 13
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5249,
+			"arabicnumber": 5249,
+			"text": "Rapporté par Abdullah ibn Mas‘ud رضي الله عنه : Le Prophète ﷺ a dit : « Tuez tous les serpents, et celui qui craint leur vengeance ne fait pas partie de moi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 477
+			}
+		}
+	]
+}

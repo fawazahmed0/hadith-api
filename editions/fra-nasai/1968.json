@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1968,
+			"arabicnumber": 1968,
+			"text": "Rapporté par ‘Abdul-Wahid bin Hamzah, selon ‘Abbad bin ‘Abdullah bin Az-Zubair, d’après ‘Aishah : Le Messager d’Allah ﷺ n’a fait la prière funéraire pour Suhail bin Baida qu’à l’intérieur de la mosquée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 151
+			}
+		}
+	]
+}

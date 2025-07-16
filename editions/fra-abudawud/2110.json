@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2110,
+			"arabicnumber": 2110,
+			"text": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un donne à sa femme comme dot deux poignées de farine ou de dattes, elle lui est permise. » Abu Dawud a précisé : Ce récit a aussi été rapporté par Abdur Rahman ibn Mahdi, de Salih ibn Ruman, d’Abu al-Zubayr, de la part de Jabir, comme étant sa propre parole (et non celle du Prophète). Il a aussi été transmis par Abu Asim, de Salih ibn Ruman, d’Abu al-Zubayr, de la part de Jabir, qui a dit : « Du vivant du Messager d’Allah ﷺ, nous contractons un mariage temporaire pour une poignée de grains. » Abu Dawud a ajouté : Ce récit a aussi été transmis par Ibn Juraij, d’Abu al-Zubayr, de la part de Jabir, de façon similaire à celui rapporté par Abu Asim",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 65
+			}
+		}
+	]
+}

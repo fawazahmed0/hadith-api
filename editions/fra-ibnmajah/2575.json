@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"20": "The Chapters on Legal Punishments"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2533,
+				"hadithnumber_last": 2614,
+				"arabicnumber_first": 2533,
+				"arabicnumber_last": 2614
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2575,
+			"arabicnumber": 2575,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : “Celui qui porte les armes contre nous n’est pas des nôtres.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 43
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4339,
+			"arabicnumber": 4339,
+			"text": "Rapporté par ‘Abdullah ibn Awfa : « Le jour de Khaybar, nous avons attrapé des ânes à l’extérieur du village et nous les avons cuisinés. Ensuite, le crieur du Prophète a annoncé : ‘Le Messager d’Allah a interdit la viande des ânes, alors renversez vos marmites avec ce qu’il y a dedans.’ Nous les avons donc renversées. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 77
+			}
+		}
+	]
+}

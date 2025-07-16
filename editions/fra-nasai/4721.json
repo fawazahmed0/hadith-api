@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"45": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+		},
+		"section_detail": {
+			"45": {
+				"hadithnumber_first": 4706,
+				"hadithnumber_last": 4869,
+				"arabicnumber_first": 4706,
+				"arabicnumber_last": 4869
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4721,
+			"arabicnumber": 4721,
+			"text": "Rapporté par ‘Abdullah : Le Messager d’Allah ﷺ a dit : « Il n’est pas permis de verser le sang d’un musulman sauf dans trois cas : en cas de meurtre, pour l’adultère d’une personne mariée, et pour celui qui quitte sa religion et se sépare du groupe. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 45,
+				"hadith": 16
+			}
+		}
+	]
+}

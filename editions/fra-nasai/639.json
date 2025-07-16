@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 639,
+			"arabicnumber": 639,
+			"text": "Rapporté par 'Aïsha رضي الله عنها : Le Messager d’Allah (ﷺ) a dit : « Bilal fait l’Adhan pendant la nuit, alors mangez et buvez jusqu’à ce qu’Ibn Umm Maktum fasse l’Adhan. » Elle a dit : « Et il n’y avait entre eux que le temps qu’il faut à l’un pour descendre et à l’autre pour monter. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 14
+			}
+		}
+	]
+}

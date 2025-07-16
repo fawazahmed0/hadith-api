@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 344,
+			"arabicnumber": 344,
+			"text": "Rapporté par Abd al-Rahman b. Abi Sa’id al-Khudri, citant son père رضي الله عنه : Le Prophète ﷺ a dit : « Le lavage et l’utilisation du siwak sont nécessaires pour tout adulte le vendredi ; et chacun doit mettre du parfum, quel qu’il soit. » Le narrateur Bukair n’a pas mentionné Abd al-Rahman ; et à propos du parfum, il a dit que même s’il s’agit de celui utilisé par les femmes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (846)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 344
+			}
+		}
+	]
+}

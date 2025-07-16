@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"46": "The Book of Cutting off the Hand of the Thief"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 4870,
+				"hadithnumber_last": 4984,
+				"arabicnumber_first": 4870,
+				"arabicnumber_last": 4984
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4888,
+			"arabicnumber": 4888,
+			"text": "Rapporté par Ibn 'Umar, que Allah soit satisfait d'eux : Il y avait une femme de la tribu Makhzoum qui empruntait des objets en disant que ses voisins en avaient besoin, puis elle niait les avoir empruntés. Le Messager d'Allah a alors ordonné qu'on lui coupe la main",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 46,
+				"hadith": 19
+			}
+		}
+	]
+}

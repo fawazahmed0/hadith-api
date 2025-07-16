@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3343,
+			"arabicnumber": 3343,
+			"text": "Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ ne faisait pas la prière funéraire pour une personne morte avec des dettes impayées. Un musulman décédé a été amené devant lui et il a demandé : « A-t-il des dettes ? » Ils ont répondu : « Oui, deux dirhams. » Il a dit : « Priez vous-mêmes sur votre compagnon. » Puis Abu Qatadah al-Ansari a dit : « Je les paierai, Messager d’Allah. » Le Messager d’Allah ﷺ a alors prié sur lui. Quand Allah a accordé des conquêtes au Messager d’Allah ﷺ, il a dit : « Je suis plus proche de chaque croyant que lui-même. Donc, si quelqu’un meurt et laisse une dette, j’en serai responsable ; et si quelqu’un laisse des biens, ils iront à ses héritiers. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 18
+			}
+		}
+	]
+}

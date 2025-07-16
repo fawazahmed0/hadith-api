@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3942,
+			"arabicnumber": 3942,
+			"text": "Le récit mentionné ci-dessus a aussi été rapporté par Ibn ‘Umar رضي الله عنه du Prophète ﷺ. Le rapporteur Ayyub a dit : « Je ne sais pas si les mots suivants font partie du hadith du Prophète ﷺ ou si Nafi‘ les a ajoutés lui-même : “Sinon, il sera affranchi à hauteur de la part du premier homme.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2524) Sahih Muslim (1501)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 17
+			}
+		}
+	]
+}

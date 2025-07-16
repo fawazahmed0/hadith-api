@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1822,
+			"arabicnumber": 1822,
+			"text": "Rapporté par Anas : Le Messager d'Allah a dit : \"Ne priez pas pour la mort et ne la souhaitez pas. Celui qui insiste pour le faire, qu'il dise : Allahumma ahini ma kanatil-hayatu khairanli wa tawaffani idha kanatil-wafatu khairanli (Ô Allah, fais-moi vivre tant que la vie est meilleure pour moi, et fais-moi mourir quand la mort est meilleure pour moi)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 5
+			}
+		}
+	]
+}

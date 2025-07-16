@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"34": "Supplication"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3827,
+				"hadithnumber_last": 3892,
+				"arabicnumber_first": 3827,
+				"arabicnumber_last": 3892
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3853,
+			"arabicnumber": 3853,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Il est important de ne pas être pressé. » On a demandé : « Que signifie être pressé, ô Messager d’Allah ? » Il a répondu : « C’est quand on dit : “J’ai invoqué Allah mais Allah ne m’a pas répondu.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 27
+			}
+		}
+	]
+}

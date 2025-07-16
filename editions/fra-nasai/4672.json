@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4672,
+			"arabicnumber": 4672,
+			"text": "Rapporté par Anas bin Malik : Un homme des Banu As-Sa'q, de Banu Kilab, est venu voir le Messager d’Allah ﷺ et l’a interrogé sur le paiement pour la saillie d’un étalon. Il lui a interdit de le faire, mais il a dit : « Nous donnons un paiement pour cela. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 224
+			}
+		}
+	]
+}

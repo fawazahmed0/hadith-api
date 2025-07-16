@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"15": "The Chapters on Charity"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2390,
+				"hadithnumber_last": 2528,
+				"arabicnumber_first": 2390,
+				"arabicnumber_last": 2528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2416,
+			"arabicnumber": 2416,
+			"text": "Rapporté par Jabir : Le Messager d’Allah (ﷺ) a dit : “Celui qui laisse de l’argent, il est pour ses héritiers, et celui qui laisse une dette, je suis plus proche des croyants.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 27
+			}
+		}
+	]
+}

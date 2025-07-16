@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3053,
+			"arabicnumber": 3053,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « La jizyah ne doit pas être imposée à un musulman. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 126
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"5": "Establishing the Prayer and the Sunnah Regarding Them"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 803,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 803,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1117,
+			"arabicnumber": 1117,
+			"text": "Rapporté par Anas bin Malik : Les gens parlaient au Prophète (ﷺ) de leurs besoins quand il descendait de la chaire le vendredi",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 315
+			}
+		}
+	]
+}

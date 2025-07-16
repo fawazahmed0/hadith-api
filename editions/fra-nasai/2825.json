@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2825,
+			"arabicnumber": 2825,
+			"text": "Rapporté par Yahya bin Abi Kathir : Abdullah bin Abu Qatadah رضي الله عنه a dit que son père lui a raconté qu’il était parti avec le Messager d’Allah ﷺ lors de la campagne d’Al-Hudaybiyah. Il a dit : \"Ils sont entrés en Ihram pour la ‘Umrah sauf moi. J’ai chassé un onagre et j’en ai nourri mes compagnons alors qu’ils étaient en Ihram. Ensuite, je suis allé voir le Messager d’Allah ﷺ et je lui ai dit qu’il nous restait de la viande. Il a dit : \"Mangez-en\", alors qu’ils étaient en Ihram",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 208
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3566,
+			"arabicnumber": 3566,
+			"text": "Rapporté par Ya'la ibn Umayyah رضي الله عنه : Le Messager d’Allah ﷺ m’a dit : « Quand mes envoyés viendront chez toi, donne-leur trente cottes de mailles et trente chameaux. » J’ai demandé : « Messager d’Allah, est-ce un prêt avec garantie de restitution, ou un prêt à rembourser ? » Il a répondu : « C’est un prêt à rembourser. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 151
+			}
+		}
+	]
+}

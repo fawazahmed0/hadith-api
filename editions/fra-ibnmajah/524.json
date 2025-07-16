@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 524,
+			"arabicnumber": 524,
+			"text": "Rapporté par Umm Qais bint Mihsan : Je suis venue voir le Messager d’Allah avec mon fils qui ne mangeait pas encore de nourriture solide, et il (le bébé) a uriné sur lui. Il a demandé de l’eau et a aspergé l’endroit (touché par l’urine)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 258
+			}
+		}
+	]
+}

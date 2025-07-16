@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 765,
+			"arabicnumber": 765,
+			"text": "Rapporté par Salamah bin Al-Akwa : J’ai dit : \"Ô Messager d’Allah (ﷺ), je pars chasser en ne portant qu’une seule chemise. Puis-je prier avec ?\" Il a répondu : \"Attache-la sur toi, même avec une épine",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 24
+			}
+		}
+	]
+}

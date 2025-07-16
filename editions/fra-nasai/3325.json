@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3325,
+			"arabicnumber": 3325,
+			"text": "Rapporté par Zainab bint Abu Salamah : Sa mère, Umm Salamah, l’épouse du Prophète ﷺ, disait : « Les autres épouses du Prophète ﷺ ont refusé que quiconque entre chez elles sur la base de ce type d’allaitement, c’est-à-dire l’allaitement d’un adulte. Elles ont dit à 'Aishah : ‘Par Allah, nous pensons que c’est une dérogation que le Messager d’Allah ﷺ a accordée uniquement à Salim. Personne n’entrera chez nous, ni ne nous verra sur la base de ce type d’allaitement.’ »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 130
+			}
+		}
+	]
+}

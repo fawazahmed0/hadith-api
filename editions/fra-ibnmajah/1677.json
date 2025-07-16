@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1677,
+			"arabicnumber": 1677,
+			"text": "Rapporté par ‘Aishah : Le Messager d’Allah (ﷺ) a dit : \"L’une des meilleures actions pour la personne qui jeûne, c’est d’utiliser le siwak (bâtonnet pour les dents)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 40
+			}
+		}
+	]
+}

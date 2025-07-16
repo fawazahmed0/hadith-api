@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1453,
+			"arabicnumber": 1453,
+			"text": "Rapporté par Abu Musa : J’ai demandé au Messager d’Allah (ﷺ) : « À quel moment une personne cesse-t-elle de reconnaître les gens ? » Il a dit : « Quand elle voit. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 21
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1251,
+			"arabicnumber": 1251,
+			"text": "Rapporté par Abd Allah b. Shaqiq : J’ai interrogé Aïcha رضي الله عنها au sujet des prières surérogatoires que faisait le Messager d’Allah ﷺ. Elle a répondu : Avant la prière du midi, il priait quatre unités de prière chez moi, puis il sortait pour diriger la prière en commun, puis il revenait chez moi et priait deux unités. Il dirigeait la prière du coucher du soleil, puis revenait chez moi et priait deux unités. Ensuite, il dirigeait la prière du soir, entrait chez moi et priait deux unités. Il priait neuf unités pendant la nuit, y compris la prière du witr. La nuit, il priait longtemps debout et longtemps assis. Quand il récitait le Coran debout, il s’inclinait et se prosternait depuis la position debout, et quand il récitait assis, il s’inclinait et se prosternait depuis la position assise. Quand l’aube arrivait, il priait deux unités, puis il sortait pour diriger la prière de l’aube",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (730)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 2
+			}
+		}
+	]
+}

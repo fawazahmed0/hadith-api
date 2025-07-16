@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"13": "The Chapters on Rulings"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2308,
+				"hadithnumber_last": 2374,
+				"arabicnumber_first": 2308,
+				"arabicnumber_last": 2374
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2359,
+			"arabicnumber": 2359,
+			"text": "Rapporté par Abu Hurairah : Le Prophète (ﷺ) a dit : “Si un homme vend un produit à quelqu’un qui devient insolvable et qu’il n’a pas reçu de paiement, le produit lui appartient. Mais s’il a reçu une partie du paiement, il devient comme les autres créanciers.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 52
+			}
+		}
+	]
+}

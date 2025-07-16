@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4378,
+			"arabicnumber": 4378,
+			"text": "Ibn al-Muakadir a dit : Huzzal avait conseillé à Ma’iz d’aller voir le Prophète ﷺ et de lui avouer qu’il avait commis l’adultère",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 28
+			}
+		}
+	]
+}

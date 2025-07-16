@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1316,
+			"arabicnumber": 1316,
+			"text": "Rapporté par Aïcha رضي الله عنها : Allah, le Très-Haut, réveillait le Messager d’Allah ﷺ la nuit. Quand l’aube arrivait, il terminait sa récitation quotidienne",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 67
+			}
+		}
+	]
+}

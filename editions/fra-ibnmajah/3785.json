@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3785,
+			"arabicnumber": 3785,
+			"text": "Rapporté par Abu Sa’eed bin Mu’alla : Le Messager d’Allah (ﷺ) m’a dit : « Veux-tu que je t’enseigne la plus grande sourate du Coran avant que je quitte la mosquée ? » Puis le Prophète (ﷺ) s’est dirigé vers la sortie, alors je lui ai rappelé, et il a dit : « Al-hamdulillahi Rabbil-Alamin (Louange à Allah, Seigneur de l’univers). Ce sont les sept versets répétés, et c’est le Grand Coran qui m’a été donné. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 129
+			}
+		}
+	]
+}

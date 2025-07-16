@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3159,
+			"arabicnumber": 3159,
+			"text": "Rapporté par Kathir bin Murrah : Le Messager d’Allah (ﷺ) a dit : « Il n’y a aucune âme sur Terre qui meurt et qui soit dans une bonne position auprès d’Allah, qui souhaiterait revenir vers vous, même si elle possédait tout ce monde, sauf celui qui est tué (dans la voie d’Allah) ; il souhaite pouvoir revenir et être tué à nouveau. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 75
+			}
+		}
+	]
+}

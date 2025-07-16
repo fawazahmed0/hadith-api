@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"24": "The Chapters on Jihad"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2753,
+				"hadithnumber_last": 2881,
+				"arabicnumber_first": 2753,
+				"arabicnumber_last": 2881
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2868,
+			"arabicnumber": 2868,
+			"text": "Rapporté par ‘Attab, l’esclave affranchi de Hurmuz : J’ai entendu Anas bin Malik dire : « Nous avons prêté serment au Messager d’Allah (ﷺ) d’écouter et d’obéir. Il (ﷺ) a dit : “Autant que vous pouvez.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 116
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1724,
+			"arabicnumber": 1724,
+			"text": "Rapporté par Muhammad bin ‘Abbad bin Ja’far : Pendant que je faisais le tour de la Ka’bah, j’ai demandé à Jabir bin ‘Abdullah : “Le Prophète (ﷺ) a-t-il interdit de jeûner un vendredi ?” Il a répondu : “Oui, par le Seigneur de cette Maison.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 87
+			}
+		}
+	]
+}

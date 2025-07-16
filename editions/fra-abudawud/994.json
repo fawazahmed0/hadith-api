@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 994,
+			"arabicnumber": 994,
+			"text": "Rapporté par Nafi’ : Ibn ‘Umar vit un homme appuyé sur sa main gauche alors qu’il était assis pendant la prière. Selon la version de Harun b. Zaid, il était allongé sur le côté gauche. Selon la version commune, il lui dit : « Ne t’assieds pas ainsi, car ceux qui sont punis s’assoient de cette façon. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 605
+			}
+		}
+	]
+}

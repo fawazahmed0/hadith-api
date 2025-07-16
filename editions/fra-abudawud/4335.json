@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"39": "Battles (Kitab Al-Malahim)"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4291,
+				"hadithnumber_last": 4350,
+				"arabicnumber_first": 4291,
+				"arabicnumber_last": 4350
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4335,
+			"arabicnumber": 4335,
+			"text": "Une tradition similaire a aussi été rapportée par Ibrahim (al-Nakha’i) par une autre chaîne de transmetteurs. J’ai demandé à ‘Ubaidat al-Salmani : « Penses-tu qu’il soit l’un d’eux, c’est-à-dire al-Mukhtar (al-Thaqafi) ? » Il a répondu : « Il fait partie des chefs. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 45
+			}
+		}
+	]
+}

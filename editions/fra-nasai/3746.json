@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3746,
+			"arabicnumber": 3746,
+			"text": "Rapporté par Shua'ib, d'après Az-Zuhri, qui a dit : \"Abu Salamah bin 'Abdur-Rahman m'a rapporté que Jabir lui a dit : Le Messager d'Allah ﷺ a jugé que celui qui fait un don à vie à un homme, cela lui appartient ainsi qu'à ses héritiers. Cela appartient à celui à qui cela a été donné, selon l''Umra. Cela sera hérité de son bénéficiaire selon les règles d'héritage et les droits établis par Allah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 28
+			}
+		}
+	]
+}

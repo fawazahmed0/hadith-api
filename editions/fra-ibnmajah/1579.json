@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1579,
+			"arabicnumber": 1579,
+			"text": "Rapporté par Umm Salamah, d’après le Prophète (ﷺ), à propos du verset : « Et qu’elles ne te désobéissent pas dans ce qui est convenable (Ma’ruf) » : Il a dit : « Cela concerne les lamentations. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 147
+			}
+		}
+	]
+}

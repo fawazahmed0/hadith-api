@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1157,
+			"arabicnumber": 1157,
+			"text": "Rapporté par Abu Umayr ibn Anas : Abu Umayr a rapporté de la part de certains de ses oncles paternels, qui étaient des Compagnons du Prophète ﷺ : Des hommes sont venus à cheval vers le Prophète ﷺ et ont témoigné avoir vu le nouveau croissant de lune la veille. Le Prophète a donc ordonné aux gens de rompre le jeûne et de sortir à leur lieu de prière le matin",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 768
+			}
+		}
+	]
+}

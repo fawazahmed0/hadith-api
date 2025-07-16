@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 157,
+			"arabicnumber": 157,
+			"text": "Rapporté par Khuzaymah ibn Thabit رضي الله عنه : Le Prophète ﷺ a dit : « La durée autorisée pour passer la main mouillée sur les chaussettes pour un voyageur est de trois jours et trois nuits, et pour une personne qui réside, c’est un jour et une nuit. » Abu Dawud a dit : Une autre version ajoute : « Si nous lui avions demandé de prolonger cette durée, il l’aurait fait. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 157
+			}
+		}
+	]
+}

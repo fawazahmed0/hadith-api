@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1626,
+			"arabicnumber": 1626,
+			"text": "Rapporté par Abdullah ibn Mas'ud رضي الله عنه : Le Prophète ﷺ a dit : « Celui qui mendie alors qu’il est aisé viendra le Jour de la Résurrection avec des égratignures, des griffures ou des blessures sur le visage. » On lui demanda : « Qu’est-ce que l’aisance, Messager d’Allah ? » Il répondit : « C’est cinquante dirhams ou leur valeur en or. » Le rapporteur Yahya a dit : Abdullah ibn Sufyan a dit à Sufyan : « Je me souviens que Shu'bah ne rapporte pas de Hakim ibn Jubayr. » Sufyan a dit : « Zubayr nous a transmis ce récit de Muhammad ibn AbdurRahman ibn Yazid. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 71
+			}
+		}
+	]
+}

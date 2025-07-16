@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4992,
+			"arabicnumber": 4992,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Il suffit d’un seul mensonge pour qu’un homme rapporte tout ce qu’il entend. » Abu Dawud a dit : Hafs n’a pas mentionné Abu Huraira dans sa version. Abu Dawud a dit : Aucun autre transmetteur, à part ce vieil homme, c’est-à-dire ‘Ali ibn Hafs al-Mada’ini, n’a rapporté la chaîne complète de cette tradition",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 220
+			}
+		}
+	]
+}

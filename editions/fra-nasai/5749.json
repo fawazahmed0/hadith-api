@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5749,
+			"arabicnumber": 5749,
+			"text": "Rapporté par Abu Al-Miskin : J'ai demandé à Ibrahim : \"Nous prenons les résidus de Khamr ou de Tila' (jus de raisin épaissi) et nous les nettoyons, puis nous les faisons tremper avec des raisins secs pendant trois jours, ensuite nous les filtrons et nous les laissons mûrir, puis nous les buvons.\" Il a dit : \"C'est réprouvé",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 211
+			}
+		}
+	]
+}

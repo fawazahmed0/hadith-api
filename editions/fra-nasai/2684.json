@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2684,
+			"arabicnumber": 2684,
+			"text": "Rapporté par 'Aishah : J'ai mis du parfum sur le Messager d'Allah ﷺ quand il a décidé d'entrer en état d'Ihram, et aussi quand il est sorti de l'état d'Ihram, avant qu'il ne sorte de l'état d'Ihram, de ma propre main",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 66
+			}
+		}
+	]
+}

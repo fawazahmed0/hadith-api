@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1826,
+			"arabicnumber": 1826,
+			"text": "Rapporté par Ibn ‘Umar رضي الله عنه : Le Prophète ﷺ a dit : « Une femme en état de sacralisation (portant l’ihram) ne doit ni se voiler ni porter de gants. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 106
+			}
+		}
+	]
+}

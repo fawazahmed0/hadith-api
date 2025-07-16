@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4704,
+			"arabicnumber": 4704,
+			"text": "Rapporté par Abu Salamah : Le Messager d’Allah ﷺ a dit : \"Le droit de préemption s’applique dans tous les cas où le terrain n’a pas été divisé. Mais si les limites sont fixées et les routes tracées, alors il n’y a plus de préemption",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 256
+			}
+		}
+	]
+}

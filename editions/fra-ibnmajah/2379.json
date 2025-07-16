@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"14": "The Chapters on Gifts"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2375,
+				"hadithnumber_last": 2389,
+				"arabicnumber_first": 2375,
+				"arabicnumber_last": 2389
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2379,
+			"arabicnumber": 2379,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Il n’y a pas de don à vie. Celui à qui on donne quelque chose comme don à vie, cela lui appartient. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 5
+			}
+		}
+	]
+}

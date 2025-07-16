@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 366,
+			"arabicnumber": 366,
+			"text": "Rapporté par Umm Habibah رضي الله عنها : Mu‘awiyah ibn Abu Sufyan a demandé à sa sœur Umm Habibah, l’épouse du Prophète ﷺ : « Le Messager d’Allah ﷺ priait-il dans le vêtement avec lequel il avait eu un rapport intime ? » Elle a répondu : « Oui, tant qu’il n’y voyait pas d’impureté. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 366
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3362,
+			"arabicnumber": 3362,
+			"text": "Rapporté par An-Nu’man bin Bashir : Le Messager d’Allah ﷺ a dit, à propos d’un homme qui a eu des rapports avec la servante de sa femme : « Si elle l’a laissé faire, je le fouetterai de cent coups de fouet ; si elle ne l’a pas laissé faire, je le lapiderai (jusqu’à la mort). »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 167
+			}
+		}
+	]
+}

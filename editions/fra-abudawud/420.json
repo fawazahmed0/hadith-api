@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 420,
+			"arabicnumber": 420,
+			"text": "Rapporté par Abd Allah b. ‘Umar : « Une nuit, nous avons attendu que le Messager d’Allah ﷺ fasse la prière du ‘Isha. Il est venu vers nous alors qu’un tiers de la nuit était passé, ou même plus. Nous ne savions pas s’il avait été occupé ou si c’était pour une autre raison. Lorsqu’il est sorti, il a dit : “Attendez-vous cette prière ? Si cela ne devait pas être difficile pour ma communauté, je la ferais toujours à ce moment-là avec eux.” Puis il a demandé au muezzin d’annoncer que la prière était arrivée. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (639)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 30
+			}
+		}
+	]
+}

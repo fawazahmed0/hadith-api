@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2837,
+			"arabicnumber": 2837,
+			"text": "Rapporté par Ibn Abbas : Le Prophète ﷺ a épousé Maymouna alors qu’il était en état d’ihram",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 220
+			}
+		}
+	]
+}

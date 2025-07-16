@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"47": "The Book Of Faith and its Signs"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 4985,
+				"hadithnumber_last": 5039,
+				"arabicnumber_first": 4985,
+				"arabicnumber_last": 5039
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5000,
+			"arabicnumber": 5000,
+			"text": "Rapporté par 'Abdullah bin 'Amr : Un homme a demandé au Messager d'Allah [SAW] : \"Quelle qualité de l'islam est la meilleure ?\" Il a répondu : \"Donner à manger (aux pauvres) et saluer ceux que tu connais et ceux que tu ne connais pas",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 16
+			}
+		}
+	]
+}

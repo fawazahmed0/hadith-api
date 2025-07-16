@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"26": "Chapters on Sacrifices"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3120,
+				"hadithnumber_last": 3161,
+				"arabicnumber_first": 3120,
+				"arabicnumber_last": 3161
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3142,
+			"arabicnumber": 3142,
+			"text": "Rapporté par ‘Ali : Le Messager d’Allah (ﷺ) a interdit de sacrifier le Muqabalah, le Mudabarah, le Sharqa’, le Kharqa’ et le Jad’a’. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 23
+			}
+		}
+	]
+}

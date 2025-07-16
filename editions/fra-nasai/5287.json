@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5287,
+			"arabicnumber": 5287,
+			"text": "Rapporté par ‘Ali : Le Messager d’Allah ﷺ m’a interdit de porter une bague sur ce doigt-ci, en parlant du majeur et de celui juste à côté",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 248
+			}
+		}
+	]
+}

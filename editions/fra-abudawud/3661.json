@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3661,
+			"arabicnumber": 3661,
+			"text": "Rapporté par Sahl ibn Sa’d : Le Prophète ﷺ a dit : « Par Allah, il vaut mieux pour toi qu’Allah guide une seule personne par ton intermédiaire que de posséder les plus précieuses des chamelles rouges. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (3701) Sahih Muslim (2406)"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 21
+			}
+		}
+	]
+}

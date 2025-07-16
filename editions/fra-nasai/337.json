@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"2": "The Book of Water"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 325,
+				"hadithnumber_last": 347,
+				"arabicnumber_first": 325,
+				"arabicnumber_last": 347
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 337,
+			"arabicnumber": 337,
+			"text": "Rapporté par 'Abdullah bin Mughaffal : Le Messager d’Allah (ﷺ) a ordonné de tuer les chiens. Il a dit : \"Pourquoi s’en prendre aux chiens ?\" Puis il a accordé une exception pour les chiens de chasse et de berger. Il a aussi dit : \"Si un chien lèche un récipient, lavez-le sept fois et frottez-le une huitième fois avec de la terre.\" Abu Hurairah a eu un avis différent et a dit : \"Frottez-le une fois avec de la terre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 13
+			}
+		}
+	]
+}

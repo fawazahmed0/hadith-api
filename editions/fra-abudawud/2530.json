@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2530,
+			"arabicnumber": 2530,
+			"text": "Rapporté par Abu Sa’id al-Khudri : Un homme a émigré du Yémen vers le Messager d’Allah ﷺ. Il lui a demandé : « As-tu de la famille au Yémen ? » Il a répondu : « Mes parents. » Le Prophète ﷺ a demandé : « T’ont-ils donné la permission ? » Il a répondu : « Non. » Le Prophète ﷺ a dit : « Retourne auprès d’eux et demande-leur la permission. S’ils te permettent, alors combats dans le sentier d’Allah. Sinon, consacre-toi à eux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 54
+			}
+		}
+	]
+}

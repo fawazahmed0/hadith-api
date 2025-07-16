@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2582,
+			"arabicnumber": 2582,
+			"text": "Qatadah a dit : « Faire courir un autre cheval derrière le sien pour le stimuler ou à côté du sien, cela se fait lors des courses de chevaux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 106
+			}
+		}
+	]
+}

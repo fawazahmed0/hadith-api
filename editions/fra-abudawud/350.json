@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 350,
+			"arabicnumber": 350,
+			"text": "Pour expliquer le sens des mots « ghassala » et « ightasala » (qui apparaissent dans le hadith 345), Sa’id b. ‘Abd al-‘Aziz a dit : « Il faut bien laver sa tête et son corps (et non pas faire laver sa femme). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 350
+			}
+		}
+	]
+}

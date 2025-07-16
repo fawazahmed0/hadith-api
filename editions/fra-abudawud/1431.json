@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1416,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1416,
+				"arabicnumber_last": 1555
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1431,
+			"arabicnumber": 1431,
+			"text": "Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un s’endort et manque le witr, ou l’oublie, qu’il le prie dès qu’il s’en souvient. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 16
+			}
+		}
+	]
+}

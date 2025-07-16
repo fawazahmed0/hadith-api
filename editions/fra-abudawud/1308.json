@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1308,
+			"arabicnumber": 1308,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Qu’Allah fasse miséricorde à un homme qui se lève la nuit pour prier et réveille sa femme ; si elle refuse, il lui asperge le visage d’eau. Qu’Allah fasse miséricorde à une femme qui se lève la nuit pour prier et réveille son mari ; s’il refuse, elle lui asperge le visage d’eau. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 59
+			}
+		}
+	]
+}

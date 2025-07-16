@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 164,
+			"arabicnumber": 164,
+			"text": "Un ‘mash a transmis ce récit en disant : Si la religion était basée sur l’opinion, il serait plus logique de passer la main mouillée sous les pieds que sur le dessus. Le Prophète ﷺ a passé la main mouillée sur le dessus de ses chaussures. Le narrateur Waki’ a dit : J’ai vu ‘Ali faire ses ablutions, laver le dessus de ses pieds, et dire : « Si je n’avais pas vu le Messager d’Allah ﷺ faire ainsi… » puis il a raconté le récit en entier",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 164
+			}
+		}
+	]
+}

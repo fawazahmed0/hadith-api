@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3535,
+			"arabicnumber": 3535,
+			"text": "Rapporté par Salim, d’après son père : Le Messager d’Allah (ﷺ) a dit : \"Tuez les serpents, tuez Dhit-Tufytain* et l’Abtar**, car ils font perdre la vue et provoquent des fausses couches.\" (*Un serpent avec deux bandes blanches sur le dos. **Un serpent à la queue courte ou mutilée)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 100
+			}
+		}
+	]
+}

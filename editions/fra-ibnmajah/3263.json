@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3263,
+			"arabicnumber": 3263,
+			"text": "Rapporté par ‘Abdullah bin Busr : J’ai offert un mouton en cadeau au Prophète (ﷺ), et le Messager d’Allah (ﷺ) s’est assis sur ses genoux pour manger. Un Bédouin a dit : « Quelle est cette façon de s’asseoir ? » Il a répondu : « Allah m’a rendu humble et généreux, et Il ne m’a pas rendu orgueilleux et dur. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 13
+			}
+		}
+	]
+}

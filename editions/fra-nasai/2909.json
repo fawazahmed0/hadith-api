@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2909,
+			"arabicnumber": 2909,
+			"text": "Rapporté par Usamah bin Zaid : Le Messager d’Allah ﷺ est entré dans la Kaaba et a récité le tasbih et le takbir dans ses coins, mais il n’a pas prié. Ensuite, il est sorti et a prié deux rak‘as derrière le Maqam, puis il a dit : \"Voici la Qiblah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 292
+			}
+		}
+	]
+}

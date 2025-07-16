@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2507,
+			"arabicnumber": 2507,
+			"text": "Rapporté par Qais bin Sa'd : Le Messager d’Allah nous a ordonné de donner la Sadaqat al-Fitr avant que l’obligation de la Zakat ne soit révélée. Quand l’ordre de donner la Zakat a été révélé, il ne nous a ni demandé de continuer, ni interdit de le faire, alors nous avons continué. (Sahih) Abu 'Abdur-Rahman (An-Nasa'i) a dit : Le nom d’Abu 'Ammar est 'Arib bin Humaid, et la Kunya de 'Amr bin Shurabbil est Abu Maisarah, et Salamah bin Kuhail a contredit Al-Hakam dans sa chaîne, et Al-Hakam est plus fiable que Salamah bin Kuhail",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 73
+			}
+		}
+	]
+}

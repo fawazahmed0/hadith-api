@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1317,
+			"arabicnumber": 1317,
+			"text": "Rapporté par Sa’d : Je voyais le Messager d’Allah (ﷺ) faire le taslim à droite et à gauche, au point que l’on voyait la blancheur de sa joue",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 139
+			}
+		}
+	]
+}

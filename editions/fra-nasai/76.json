@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 76,
+			"arabicnumber": 76,
+			"text": "Rapporté par Anas : J'ai vu le Messager d'Allah (ﷺ) au moment de la prière d'Asr. Les gens cherchaient de l'eau pour faire les ablutions, mais ils n'en trouvaient pas. Ensuite, un peu d'eau a été apporté au Messager d'Allah (ﷺ). Il a mis sa main dans ce récipient et a dit aux gens de faire leurs ablutions. J'ai vu l'eau jaillir d'entre ses doigts, jusqu'à ce qu'ils aient tous pu faire leurs ablutions",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 76
+			}
+		}
+	]
+}

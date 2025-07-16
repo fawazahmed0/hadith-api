@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1000,
+			"arabicnumber": 1000,
+			"text": "Rapporté par Al-Bara' bin Azib : J'ai prié Al-'Atamah (isha) avec le Messager d'Allah (ﷺ) et il a récité : \"Par le figuier et l'olivier\" pendant cette prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 125
+			}
+		}
+	]
+}

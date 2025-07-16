@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"36": "Tribulations"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3927,
+				"hadithnumber_last": 4099,
+				"arabicnumber_first": 3927,
+				"arabicnumber_last": 4099
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4016,
+			"arabicnumber": 4016,
+			"text": "Rapporté par Hudhaifah : Le Messager d’Allah (ﷺ) a dit : « Le croyant ne doit pas s’humilier lui-même. » Ils ont demandé : « Comment pourrait-il s’humilier ? » Il a répondu : « En s’exposant à une épreuve qu’il ne peut pas supporter. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 91
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3171,
+			"arabicnumber": 3171,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Un cercueil ne doit pas être suivi par des cris de lamentation ni par du feu. » Abu Dawud a ajouté : Harun (un des narrateurs) a précisé : « Et il ne doit pas non plus être précédé par cela. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 83
+			}
+		}
+	]
+}

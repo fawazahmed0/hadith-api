@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"13": "The Chapters on Rulings"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2308,
+				"hadithnumber_last": 2374,
+				"arabicnumber_first": 2308,
+				"arabicnumber_last": 2374
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2341,
+			"arabicnumber": 2341,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d’Allah (ﷺ) a dit : “Il ne doit y avoir ni préjudice ni riposte au préjudice.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 34
+			}
+		}
+	]
+}

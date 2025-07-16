@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3028,
+			"arabicnumber": 3028,
+			"text": "Rapporté par Salim, d’après son père : Le Messager d’Allah a regroupé les prières du Maghrib et de l’Isha à Jam (Al-Muzdalifah) avec un seul appel à la prière (Iqamah), et il n’a pas accompli de prières surérogatoires entre les deux ni après",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 411
+			}
+		}
+	]
+}

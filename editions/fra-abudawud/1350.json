@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1350,
+			"arabicnumber": 1350,
+			"text": "Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ priait treize rak‘as pendant la nuit, accomplissant la prière du witr avec neuf (ou comme elle a dit). Il priait deux rak‘as en étant assis et deux rak‘as de la prière de l’aube entre l’adhan et l’iqamah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 101
+			}
+		}
+	]
+}

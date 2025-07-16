@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2895,
+			"arabicnumber": 2895,
+			"text": "Rapporté par Al-Muhajir Al-Makki : On a demandé à Jabir bin Abdullah si un homme devait lever les mains en voyant la Maison. Il a répondu : \"Je ne pense pas que quelqu’un fasse cela à part les Juifs. Nous avons accompli le Hajj avec le Messager d’Allah et nous ne l’avons pas fait.\" (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 278
+			}
+		}
+	]
+}

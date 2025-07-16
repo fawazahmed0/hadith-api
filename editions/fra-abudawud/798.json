@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 798,
+			"arabicnumber": 798,
+			"text": "Rapporté par Abu Qatadah رضي الله عنه : Le Messager d’Allah ﷺ nous dirigeait dans la prière et récitait, dans les deux premières rak‘a de la prière du midi, la Fatiha et deux sourates, et parfois il récitait assez fort pour que nous entendions un verset. Il allongeait la première rak‘a du midi et raccourcissait la seconde ; il faisait de même pour la prière du matin. Abu Dawud a dit : Musaddad n’a pas mentionné les mots Fatiha et sourate",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (762) Sahih Muslim (451)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 408
+			}
+		}
+	]
+}

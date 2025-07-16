@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2791,
+			"arabicnumber": 2791,
+			"text": "Rapporté par Ibn Abbas رضي الله عنهما : Lorsque le Messager d’Allah ﷺ est arrivé à Dhul-Hulaifah, il a marqué l’animal destiné au sacrifice du côté droit de sa bosse, puis il a nettoyé le sang, lui a mis deux chaussures comme collier et est monté sur sa chamelle. Quand elle s’est levée avec lui à Al-Baida, il a commencé la Talbiyah pour le Hajj et est entré en ihram à midi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 173
+			}
+		}
+	]
+}

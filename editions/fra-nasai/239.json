@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 239,
+			"arabicnumber": 239,
+			"text": "Rapporté par 'Aïcha : Je faisais le Ghusl – le Messager d'Allah (ﷺ) et moi – à partir d'un seul récipient. Il essayait de prendre plus d'eau que moi et moi aussi, jusqu'à ce qu'il dise : \"Laisse-m'en un peu\" et je disais : \"Laisse-m'en un peu",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 240
+			}
+		}
+	]
+}

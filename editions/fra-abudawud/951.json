@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 951,
+			"arabicnumber": 951,
+			"text": "Rapporté par ‘Abd Allah ibn Buraidah رضي الله عنه : ‘Imran ibn Husayn a interrogé le Prophète ﷺ au sujet de la prière faite assis. Il a répondu : « La prière debout est meilleure que la prière assise, et la prière assise vaut la moitié de celle faite debout, et la prière allongée vaut la moitié de celle faite assis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1115)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 562
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4696,
+			"arabicnumber": 4696,
+			"text": "Rapporté par ‘Uthman bin ‘Affan : Le Messager d’Allah ﷺ a dit : \"Allah, le Puissant et Majestueux, a fait entrer au Paradis un homme qui était facile dans ses achats et ses ventes, pour rembourser ses dettes et pour réclamer ce qu’on lui devait.\" (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 248
+			}
+		}
+	]
+}

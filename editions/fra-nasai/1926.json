@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1926,
+			"arabicnumber": 1926,
+			"text": "Rapporté par Ibn ‘Abbas et Al-Hasan bin ‘Ali : Un cortège funéraire est passé devant eux et l’un s’est levé, l’autre est resté assis. Celui qui s’est levé a dit : \"Par Allah, je sais que le Messager d’Allah ﷺ s’est levé.\" Celui qui est resté assis a dit : \"Je sais que le Messager d’Allah ﷺ s’est assis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 109
+			}
+		}
+	]
+}

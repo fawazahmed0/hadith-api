@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3776,
+			"arabicnumber": 3776,
+			"text": "Rapporté par Ibn ‘Umar رضي الله عنه : Le Prophète ﷺ a dit : « Lorsque l’un de vous mange, qu’il mange avec sa main droite, et lorsqu’il boit, qu’il boive avec sa main droite, car le diable mange et boit avec sa main gauche. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (2020)"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 41
+			}
+		}
+	]
+}

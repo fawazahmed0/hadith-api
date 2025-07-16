@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2052,
+			"arabicnumber": 2052,
+			"text": "Rapporté par Abdullah bin Yasar : J’étais assis avec Sulaiman bin Sard et Khalid bin 'Urfutah, et ils ont dit qu’un homme était mort d’une maladie du ventre. Ils voulaient assister à ses funérailles, et l’un d’eux a dit à l’autre : \"Le Messager d’Allah n’a-t-il pas dit : Celui qui meurt d’une maladie du ventre ne sera pas puni dans sa tombe ?\" L’autre a répondu : \"Oui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 235
+			}
+		}
+	]
+}

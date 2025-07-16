@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1465,
+			"arabicnumber": 1465,
+			"text": "Rapporté par 'Aishah : \"Le soleil s'est éclipsé à l'époque du Messager d'Allah (ﷺ), et le Prophète (ﷺ) a ordonné à un crieur d'annoncer que la prière allait commencer en groupe. Les gens se sont rassemblés et se sont mis en rangs, et il les a dirigés en prière, s'inclinant quatre fois en deux unités et se prosternant quatre fois",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 7
+			}
+		}
+	]
+}

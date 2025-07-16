@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3628,
+			"arabicnumber": 3628,
+			"text": "Rapporté par Ash-Sharid : Le Prophète ﷺ a dit : « Le retard de paiement de la part de quelqu’un qui en a les moyens rend licite de l’humilier et de le punir. » Ibn al-Mubarak a expliqué que « l’humilier » signifie qu’on peut lui parler durement et « le punir » signifie qu’il peut être emprisonné pour cela",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 58
+			}
+		}
+	]
+}

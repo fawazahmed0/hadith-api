@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 186,
+			"arabicnumber": 186,
+			"text": "Rapporté par Abu Bakr bin Qais Al-Ash'ari, de la part de son père : Le Messager d'Allah ﷺ a dit : « Deux jardins d'argent, leurs ustensiles et tout ce qu'ils contiennent ; et deux jardins d'or, leurs ustensiles et tout ce qu'ils contiennent, et rien ne séparera les gens de la vision de leur Seigneur, le Béni et l'Exalté, si ce n'est le Voile de Majesté couvrant Son Visage dans le Jardin d'Éden (Jannat 'Adn). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 186
+			}
+		}
+	]
+}

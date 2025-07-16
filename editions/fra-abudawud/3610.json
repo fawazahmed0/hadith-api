@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3610,
+			"arabicnumber": 3610,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a rendu un jugement sur la base d’un serment et d’un seul témoin. Abu Dawud a dit : Al-Rabi’ ibn Sulaiman al-Mu’adhdhin m’a rapporté quelques mots supplémentaires dans ce récit : Al-Shafi’i m’a rapporté cela de ‘Abd al-‘Aziz. Je l’ai ensuite mentionné à Suhail qui a dit : « Rabi’ah m’a rapporté cela — et il est fiable à mes yeux — que je lui ai transmis ce récit, mais je ne m’en souviens pas. » ‘Abd al-‘Aziz a dit : « Suhail a souffert d’une maladie qui lui a fait perdre un peu de sa mémoire, et il a oublié certains de ses récits. Par la suite, Suhail rapportait des récits de Rabi’ah au nom de son père. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 40
+			}
+		}
+	]
+}

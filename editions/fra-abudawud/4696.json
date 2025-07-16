@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4696,
+			"arabicnumber": 4696,
+			"text": "La tradition ci-dessus a aussi été transmise par Yahya b. Yamur et Humaid b. ‘Abd al-Rahman par une autre chaîne de rapporteurs. Cette version dit : Nous avons rencontré ‘Abd Allah b. ‘Umar. Nous lui avons parlé du destin et de ce qu’ils en disaient. Il a alors raconté quelque chose de similaire. Il a ajouté : Un homme de Muzainah ou de Juhainah a demandé : « O Messager d’Allah, quelle est l’utilité d’agir ? Devons-nous penser que tout est déjà passé et terminé, ou que cela arrive maintenant sans prédestination ? » Il a répondu : « C’est à propos de ce qui est déjà passé et terminé (c’est-à-dire prédestiné). » Un homme ou des gens ont demandé : « Alors, pourquoi agir ? » Il a répondu : « Ceux qui sont destinés au Paradis seront aidés à faire les actions des gens du Paradis, et ceux qui sont destinés à l’Enfer seront aidés à faire les actions des gens de l’Enfer. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 101
+			}
+		}
+	]
+}

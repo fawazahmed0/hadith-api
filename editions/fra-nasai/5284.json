@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5284,
+			"arabicnumber": 5284,
+			"text": "Rapporté par Anas : C’est comme si je voyais la blancheur de la bague du Prophète ﷺ sur son doigt de la main gauche",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 245
+			}
+		}
+	]
+}

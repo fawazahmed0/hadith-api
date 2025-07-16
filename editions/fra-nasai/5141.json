@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5141,
+			"arabicnumber": 5141,
+			"text": "Rapporté par Thawban : La fille de Hubairah est venue voir le Messager d’Allah ﷺ et portait de grosses bagues en or à la main. – Un récit similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 102
+			}
+		}
+	]
+}

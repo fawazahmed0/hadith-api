@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"47": "The Book Of Faith and its Signs"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 4985,
+				"hadithnumber_last": 5039,
+				"arabicnumber_first": 4985,
+				"arabicnumber_last": 5039
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5021,
+			"arabicnumber": 5021,
+			"text": "Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Les signes de l’hypocrite sont au nombre de trois : Quand il parle, il ment ; quand il promet, il ne tient pas sa promesse ; et quand on lui confie quelque chose, il trahit la confiance. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 37
+			}
+		}
+	]
+}

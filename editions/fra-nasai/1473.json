@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1473,
+			"arabicnumber": 1473,
+			"text": "Rapporté par Az-Zuhri, d'après 'Urwah, d'après 'Aishah : \"Le soleil s'est éclipsé du vivant du Messager d'Allah (ﷺ) et on a annoncé : 'As-salatu jam'iah (la prière va commencer en groupe).' Les gens se sont rassemblés et le Messager d'Allah (ﷺ) les a dirigés en prière, s'inclinant quatre fois en deux unités et se prosternant quatre fois",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 15
+			}
+		}
+	]
+}

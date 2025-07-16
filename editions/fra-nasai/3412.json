@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3412,
+			"arabicnumber": 3412,
+			"text": "Rapporté par 'Aishah : Un homme a divorcé de sa femme trois fois et elle s'est mariée avec un autre homme qui l'a divorcée avant d'avoir eu des rapports avec elle. On a demandé au Messager d'Allah : \"Est-elle permise pour le premier (pour qu'il la remarie) ?\" Il a dit : \"Non, pas avant qu'il ait goûté à sa douceur comme le premier a goûté à sa douceur",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 24
+			}
+		}
+	]
+}

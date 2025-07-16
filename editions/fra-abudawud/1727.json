@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1727,
+			"arabicnumber": 1727,
+			"text": "Rapporté par Ibn `Umar رضي الله عنه : Le Prophète ﷺ a dit : « Une femme ne doit pas voyager pendant trois jours sans être accompagnée par un homme avec qui le mariage est interdit. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1087) Sahih Muslim (1338)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 7
+			}
+		}
+	]
+}

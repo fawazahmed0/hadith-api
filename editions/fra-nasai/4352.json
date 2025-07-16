@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4352,
+			"arabicnumber": 4352,
+			"text": "Rapporté par ‘Amr : « J’ai entendu Jabir dire : ‘Le Messager d’Allah nous a envoyés, trois cents cavaliers dirigés par Abu ‘Ubaidah ibn al-Jarrah, pour guetter la caravane des Quraysh. Nous sommes restés sur la côte et nous avons eu très faim, au point de manger du khabat. Puis la mer a rejeté une bête appelée (Al-‘Anbar), et nous en avons mangé pendant une quinzaine de jours, et nous nous sommes enduits de sa graisse, ce qui nous a redonné la santé. Abu ‘Ubaidah a pris une de ses côtes et a cherché le plus grand chameau et le plus grand homme de l’armée, et il est passé dessous. Ensuite, ils ont eu de nouveau faim et un homme a abattu trois chameaux, puis encore trois, et ainsi de suite. Puis Abu ‘Ubaidah lui a dit d’arrêter. » (Un des narrateurs), Sufyan, a dit : « Abu Az-Zubair, rapportant de Jabir : Nous avons demandé au Prophète et il a dit : ‘Est-ce qu’il vous en reste ?’ » Il a dit : « Nous avons extrait une certaine quantité de graisse de ses yeux, et quatre hommes pouvaient tenir dans son orbite. Abu ‘Ubaidah avait un sac de dattes et il les distribuait à la poignée, puis il a commencé à donner une datte à la fois, et quand nous avons manqué de dattes, cela est devenu très difficile pour nous. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 90
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3532,
+			"arabicnumber": 3532,
+			"text": "Rapporté par Furai'ah bint Malik, la sœur d’Abu Sa’eed Al-Khudri : « Mon mari est mort à Al-Qadum, alors je suis allée voir le Prophète ﷺ et je lui ai dit que notre maison était isolée. » Il lui a donné la permission puis l’a rappelée et a dit : « Reste dans ta maison pendant quatre mois et dix jours, jusqu’à ce que le délai prescrit soit accompli. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 144
+			}
+		}
+	]
+}

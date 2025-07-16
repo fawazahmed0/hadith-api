@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 614,
+			"arabicnumber": 614,
+			"text": "Rapporté par Anas : On a demandé au Messager d'Allah (ﷺ) à propos d'un homme qui a dormi et manqué la prière, ou qui l'a oubliée. Il a dit : \"L'expiation pour cela est de la prier dès qu'il s'en souvient",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 121
+			}
+		}
+	]
+}

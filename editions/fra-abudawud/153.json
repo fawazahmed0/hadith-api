@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 153,
+			"arabicnumber": 153,
+			"text": "Abu ‘Abd al-Rahman al-Sulami a dit qu’il a vu ‘Abd al-Rahman b. ‘Awf demander à Bilal رضي الله عنه comment le Prophète ﷺ faisait ses ablutions. Bilal a dit : Il est sorti pour ses besoins. Ensuite, j’ai apporté de l’eau et il a fait ses ablutions, essuyant son turban et ses chaussettes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 153
+			}
+		}
+	]
+}

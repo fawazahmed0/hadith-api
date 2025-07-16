@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1852,
+			"arabicnumber": 1852,
+			"text": "Rapporté par Anas : Lorsque le Messager d’Allah ﷺ acceptait l’allégeance des femmes, il leur demandait de promettre de ne pas se lamenter (après un décès). Elles ont dit : \"Ô Messager d’Allah, il y a des femmes qui nous aidaient à pleurer à l’époque de l’ignorance, devons-nous les aider à pleurer ?\" Le Messager d’Allah ﷺ a dit : \"Il n’y a pas d’aide au deuil en Islam",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 35
+			}
+		}
+	]
+}

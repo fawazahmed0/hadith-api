@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4342,
+			"arabicnumber": 4342,
+			"text": "Rapporté par Abu Tha’labah Al-Khushani : Le Messager d’Allah a interdit de manger tout prédateur ayant des crocs, ainsi que la viande des ânes domestiques",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 80
+			}
+		}
+	]
+}

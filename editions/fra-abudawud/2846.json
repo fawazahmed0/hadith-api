@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"17": "Game (Kitab Al-Said)"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 2844,
+				"hadithnumber_last": 2861,
+				"arabicnumber_first": 2844,
+				"arabicnumber_last": 2861
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2846,
+			"arabicnumber": 2846,
+			"text": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Prophète d’Allah ﷺ a ordonné de tuer les chiens, et nous tuions même un chien qu’une femme avait amené du désert. Ensuite, il a interdit de les tuer, disant : « Ne tuez que ceux qui sont entièrement noirs. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1572)"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 3
+			}
+		}
+	]
+}

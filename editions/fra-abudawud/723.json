@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 723,
+			"arabicnumber": 723,
+			"text": "Rapporté par ‘Abd al-Jabbar ibn Wa’il (fils de Hujr) : J’étais un petit garçon et je ne comprenais pas la prière de mon père. Alors Wa’il ibn ‘Alqamah a rapporté que Wa’il ibn Hujr a dit : J’ai prié avec le Messager d’Allah ﷺ. Il levait les mains en prononçant le takbir (Allah est le plus grand), puis il tirait son vêtement autour de lui, puis posait sa main droite sur la gauche et mettait ses mains dans son vêtement. Quand il allait s’incliner, il sortait ses mains de son vêtement et les levait. Et quand il relevait la tête après l’inclinaison, il levait les mains. Ensuite, il se prosternait et posait son front entre ses mains. Et quand il relevait la tête après la prosternation, il levait aussi les mains jusqu’à la fin de la prière. Muhammad (un narrateur) a dit : J’en ai parlé à al-Hasan ibn Abu al-Hasan qui a dit : « C’est ainsi que le Messager d’Allah ﷺ priait ; certains le faisaient et d’autres non. » Abu Dawud a dit : Cette tradition a été rapportée par Hammam d’après ibn Juhadah, mais il n’a pas mentionné le fait de lever les mains après avoir relevé la tête à la fin de la prosternation",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 333
+			}
+		}
+	]
+}

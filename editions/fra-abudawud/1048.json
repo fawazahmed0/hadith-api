@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1048,
+			"arabicnumber": 1048,
+			"text": "Rapporté par Jabir ibn Abdullah : Le Prophète ﷺ a dit : « Le vendredi est divisé en douze heures. Parmi elles, il y a une heure où un musulman ne demande rien à Allah sans qu’Il ne le lui accorde. Cherchez-la dans la dernière heure après la prière de l’après-midi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 659
+			}
+		}
+	]
+}

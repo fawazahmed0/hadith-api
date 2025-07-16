@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3671,
+			"arabicnumber": 3671,
+			"text": "Rapporté par Ali ibn Abu Talib : Un homme des Ansar l’a invité, lui et AbdurRahman ibn Awf, et leur a servi du vin avant qu’il ne soit interdit. Ali a alors dirigé la prière du soir et a récité : « Dis : Ô vous qui rejetez la foi. » Il s’est trompé dans sa récitation. Ensuite, ce verset a été révélé : « Ô vous qui croyez ! N’approchez pas de la prière alors que vous êtes ivres, jusqu’à ce que vous compreniez ce que vous dites. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 3
+			}
+		}
+	]
+}

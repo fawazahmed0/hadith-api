@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3585,
+			"arabicnumber": 3585,
+			"text": "Umm Salamah a rapporté que le Prophète ﷺ a dit, alors que deux hommes se disputaient au sujet d’un héritage et de vieilles affaires : « Je juge entre vous selon mon opinion dans les cas où je n’ai reçu aucune révélation. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 15
+			}
+		}
+	]
+}

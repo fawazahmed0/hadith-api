@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3144,
+			"arabicnumber": 3144,
+			"text": "Rapporté par Shurahbil bin As-Simt : Il a dit à Ka’b bin Murrah : « Ô Ka’b ! Raconte-nous un hadith du Messager d’Allah (ﷺ) et fais attention. » Il a dit : « Je l’ai entendu dire : “Celui qui a un cheveu blanc dans l’Islam, dans la cause d’Allah, ce sera une lumière pour lui le Jour de la Résurrection.” » Il lui a dit : « Raconte-nous à propos du Prophète (ﷺ) et fais attention. » Il a dit : « Je l’ai entendu dire : “Tirez, et celui qui touche l’ennemi avec une flèche, Allah l’élèvera d’un degré.” » Ibn An-Nahhan a dit : « Ô Messager d’Allah, qu’est-ce qu’un degré ? » Il a dit : « Ce n’est pas comme le seuil de la porte de ta mère ; [1] la distance entre deux degrés est (telle que) cent ans. » [1] Comme expliqué ensuite ; le degré de distance est bien plus grand que ce que l’on connaît dans ce monde",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 60
+			}
+		}
+	]
+}

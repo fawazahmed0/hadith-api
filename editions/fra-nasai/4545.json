@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4545,
+			"arabicnumber": 4545,
+			"text": "Rapporté par Sa’d : On a demandé au Messager d’Allah ﷺ s’il était permis d’acheter des dattes fraîches avec des dattes sèches, et il a dit à ceux qui étaient autour de lui : « Est-ce que les dattes fraîches diminuent en poids ou en volume quand elles sèchent ? » Ils ont répondu : « Oui. » Alors il a interdit cela",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 97
+			}
+		}
+	]
+}

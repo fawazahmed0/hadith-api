@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3897,
+			"arabicnumber": 3897,
+			"text": "Rapporté par Kharijah ibn al-Salt رضي الله عنه, citant son oncle paternel : Il est passé devant des gens et a récité la sourate al-Fatiha sur un malade pendant trois jours, matin et soir. À chaque fois qu’il terminait, il recueillait un peu de sa salive et la recrachait, et il semblait que la personne était libérée de ses liens. Ils lui ont donné une récompense. Il est ensuite allé voir le Prophète ﷺ. Il a raconté le reste du récit comme Musaddad l’a rapporté",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 43
+			}
+		}
+	]
+}

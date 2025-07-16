@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"32": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3969,
+				"hadithnumber_last": 4008,
+				"arabicnumber_first": 3969,
+				"arabicnumber_last": 4008
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3983,
+			"arabicnumber": 3983,
+			"text": "Rapporté par Umm Salamah (la mère des croyants) رضي الله عنها : Shahr ibn Hawshab a dit : J’ai demandé à Umm Salamah : Comment le Messager d’Allah ﷺ récitait-il ce verset : « Car sa conduite est mauvaise (innahu ‘amalun ghayru salih) » ? Elle a répondu : Il le récitait : « Il a mal agi » (innahu ‘amila ghayra salih). Abu Dawud a dit : Ce hadith a été transmis par Harun al-Nahwi et Musa b. Khalaf d’après Thabit, comme l’a rapporté le narrateur ‘Abd al-Aziz",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 15
+			}
+		}
+	]
+}

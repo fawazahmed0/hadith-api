@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 111,
+			"arabicnumber": 111,
+			"text": "Rapporté par 'Abdullah bin 'Amr : Le Messager d'Allah (ﷺ) a vu des gens dont les talons étaient encore secs, alors il a dit : \"Malheur aux talons à cause du Feu ! Faites bien vos ablutions",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 111
+			}
+		}
+	]
+}

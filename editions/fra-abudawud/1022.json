@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1022,
+			"arabicnumber": 1022,
+			"text": "‘Abd Allah (b. Mas‘ud) رضي الله عنه a dit : Le Messager d’Allah ﷺ nous a dirigés dans cinq rak‘as de prière. Lorsqu’il a terminé (sa prière), les gens ont chuchoté entre eux. Il a demandé : « Qu’avez-vous ? » Ils ont dit : « Messager d’Allah, le nombre de rak‘as de la prière a-t-il augmenté ? » Il a dit : « Non. » Ils ont dit : « Tu as prié cinq rak‘as. » Il s’est alors détourné et a fait deux prosternations, puis a salué. Ensuite, il a dit : « Je ne suis qu’un être humain, j’oublie comme vous oubliez. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (572)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 633
+			}
+		}
+	]
+}

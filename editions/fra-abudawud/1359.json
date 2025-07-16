@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1359,
+			"arabicnumber": 1359,
+			"text": "Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ priait treize rak‘at, en faisant six rak‘at par deux, y compris les deux rak‘at de la prière de l’aube. Il accomplissait le witr avec cinq rak‘at, et il ne s’asseyait qu’à la dernière d’entre elles",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 110
+			}
+		}
+	]
+}

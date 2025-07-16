@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5295,
+			"arabicnumber": 5295,
+			"text": "Rapporté par ‘Umar ibn Al-Khattab : Il a vu une Hullah de soie Sira’ en vente à la porte de la mosquée. J’ai dit : « Ô Messager d’Allah, pourquoi ne l’achètes-tu pas pour la porter le vendredi et quand les délégations viennent te voir ? » Le Messager d’Allah ﷺ a dit : « Cela n’est porté que par celui qui n’aura rien dans l’au-delà. » Plus tard, d’autres Hullahs ont été apportées au Messager d’Allah ﷺ et il m’en a donné une. J’ai dit : « Ô Messager d’Allah, tu m’as donné cela alors que tu as dit ce que tu as dit à son sujet ! » Le Prophète ﷺ a dit : « Je ne te l’ai pas donnée pour que tu la portes ! Je te l’ai donnée pour que tu la donnes ou la vendes. » Alors ‘Umar l’a donnée à un frère de son fils du côté de sa mère, qui était idolâtre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 256
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3340,
+			"arabicnumber": 3340,
+			"text": "Rapporté par Abdullah ibn Umar : Le Prophète ﷺ a dit : « Le poids de référence est celui des gens de La Mecque, et la mesure de référence est celle des gens de Médine. » Abu Dawud a dit : Al-Firyabi et Abu Ahmad l’ont aussi transmis de Sufyan de façon similaire, et (Ibn Dukain) est d’accord avec eux sur le texte. La version de Abu Ahmad dit : « d’après Ibn ‘Abbas » au lieu de Ibn ‘Umar. Cela a aussi été transmis par al-Walid ibn Muslim d’après Hanzalah. Cette version dit : « le poids de Médine et la mesure de La Mecque. » Abu Dawud a dit : Il y a une variation dans le texte de la version rapportée par Malik ibn Dinar d’après ‘Ata’ du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 15
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5125,
+			"arabicnumber": 5125,
+			"text": "Rapporté par Ya'la : Je suis passé devant le Messager d'Allah ﷺ alors que je portais du Khaluq. Il a dit : \"Ô Ya'la, as-tu une femme ?\" J'ai répondu : \"Non.\" Il a dit : \"Va le laver, puis lave-le encore, puis lave-le encore, et ne le remets plus.\" Alors je suis allé le laver, puis je l'ai lavé encore, puis je l'ai lavé encore, et je ne l'ai plus remis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 86
+			}
+		}
+	]
+}

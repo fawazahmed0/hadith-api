@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4945,
+			"arabicnumber": 4945,
+			"text": "Rapporté par Jarir رضي الله عنه : J’ai prêté serment d’allégeance au Messager d’Allah ﷺ en promettant d’écouter et d’obéir, et d’être sincère envers chaque musulman. Abu Zur‘ah a dit : Chaque fois qu’il vendait ou achetait quelque chose, il disait : « Ce que nous avons pris de toi nous est plus cher que ce que nous t’avons donné. Choisis donc comme tu veux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 173
+			}
+		}
+	]
+}

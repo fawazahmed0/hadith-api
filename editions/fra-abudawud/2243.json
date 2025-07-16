@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2243,
+			"arabicnumber": 2243,
+			"text": "Al-Dahhak b. Firuz a rapporté d’après son père : J’ai dit : « Messager d’Allah, j’ai embrassé l’islam et j’ai pour épouses deux sœurs. » Il dit : « Divorce celle que tu veux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 69
+			}
+		}
+	]
+}

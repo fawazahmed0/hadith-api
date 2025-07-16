@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"10": "The Chapters on Divorce"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 2016,
+				"hadithnumber_last": 2477,
+				"arabicnumber_first": 2016,
+				"arabicnumber_last": 2477
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2079,
+			"arabicnumber": 2079,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) a dit : \"Le divorce d’une femme esclave est de deux fois, et sa période d’attente est de deux cycles menstruels",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 64
+			}
+		}
+	]
+}

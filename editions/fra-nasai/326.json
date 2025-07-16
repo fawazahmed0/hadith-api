@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"2": "The Book of Water"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 325,
+				"hadithnumber_last": 347,
+				"arabicnumber_first": 325,
+				"arabicnumber_last": 347
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 326,
+			"arabicnumber": 326,
+			"text": "Rapporté par Abu Sa‘id Al-Khudri : On a dit : \"Ô Messager d’Allah, tu fais les ablutions avec l’eau du puits où l’on jette les cadavres de chiens, des chiffons menstruels et des ordures ?\" Il a dit : \"L’eau est pure et rien ne la rend impure",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 2
+			}
+		}
+	]
+}

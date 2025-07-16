@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1862,
+			"arabicnumber": 1862,
+			"text": "Al Hajjaj bin ‘Amr Al Ansari a rapporté que le Messager d’Allah ﷺ a dit : « Si quelqu’un se casse un os (ou une jambe) ou devient boiteux, il sort de l’état sacré et doit accomplir le Hajj l’année suivante. » ‘Ikrimah a dit : J’ai interrogé Ibn ‘Abbas et Abu Huraira à ce sujet. Ils ont répondu : « Il a dit la vérité. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 142
+			}
+		}
+	]
+}

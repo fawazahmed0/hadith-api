@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"19": "Shares of Inheritance (Kitab Al-Fara'id)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2885,
+				"hadithnumber_last": 2927,
+				"arabicnumber_first": 2885,
+				"arabicnumber_last": 2927
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2920,
+			"arabicnumber": 2920,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Quand un nourrisson a poussé un cri (et meurt ensuite), il est considéré comme héritier. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 36
+			}
+		}
+	]
+}

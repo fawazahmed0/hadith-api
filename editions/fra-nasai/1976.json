@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1976,
+			"arabicnumber": 1976,
+			"text": "Rapporté par Samurah : J’ai fait la prière funéraire avec le Messager d’Allah ﷺ pour Umm Kab, qui était morte en couches, et le Messager d’Allah ﷺ s’est tenu au niveau de son milieu pour prier",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 159
+			}
+		}
+	]
+}

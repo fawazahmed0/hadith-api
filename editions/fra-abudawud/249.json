@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 249,
+			"arabicnumber": 249,
+			"text": "Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un en état d’impureté majeure laisse une partie de la taille d’un cheveu sans la laver, il devra subir une telle quantité du feu de l’Enfer pour cela. » Ali a dit : « C’est pour cette raison que je traitais mes cheveux comme un ennemi, c’est-à-dire que je les coupais. » Il avait l’habitude de se couper les cheveux. Qu’Allah soit satisfait de lui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 249
+			}
+		}
+	]
+}

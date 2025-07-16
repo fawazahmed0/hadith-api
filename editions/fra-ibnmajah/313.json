@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 313,
+			"arabicnumber": 313,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : \"Je suis pour vous comme un père pour son fils, et je vous enseigne. Donc, quand vous allez aux toilettes, ne faites pas face à la Qiblah et ne lui tournez pas le dos.\" Il nous a ordonné d’utiliser trois cailloux, et il nous a interdit d’utiliser des excréments ou des os, et il a interdit de se nettoyer avec la main droite",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 47
+			}
+		}
+	]
+}

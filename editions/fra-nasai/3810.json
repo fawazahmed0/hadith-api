@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3810,
+			"arabicnumber": 3810,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d’Allah est passé devant un homme qui en menait un autre avec une corde. Le Prophète l’a prise, l’a coupée et a dit : \"C’est un vœu",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 50
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5181,
+			"arabicnumber": 5181,
+			"text": "Rapporté par Abu Musa : Il est allé voir ‘Umar et a demandé la permission trois fois en disant : « Abu Musa demande la permission, al-Ash’ari demande la permission, et ‘Abd Allah b. Qais demande la permission », mais elle ne lui a pas été accordée. Il est donc reparti et ‘Umar l’a fait appeler en disant : « Pourquoi es-tu reparti ? » Il a répondu : « Le Messager d’Allah ﷺ a dit : “Lorsque l’un de vous demande la permission trois fois et qu’elle ne lui est pas accordée, il doit s’en aller.” » Il a dit : « Apporte une preuve de cela. » Il est parti, est revenu, et a dit : « Voici Ubayy. » Ubayy a dit : « ‘Umar, ne sois pas une épreuve pour les compagnons du Messager d’Allah ﷺ. » ‘Umar a dit : « Je ne serai pas une épreuve pour les compagnons du Messager d’Allah ﷺ. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (2154)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 409
+			}
+		}
+	]
+}

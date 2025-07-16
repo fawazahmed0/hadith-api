@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 324,
+			"arabicnumber": 324,
+			"text": "Rapporté par ‘Aishah رضي الله عنها : On a parlé, en présence du Messager d’Allah ﷺ, de certaines personnes qui n’aimaient pas se tourner vers la Qiblah avec leurs parties intimes. Il a dit : \"Je pense qu’ils font cela. Tournez mon siège (dans les toilettes) vers la Qiblah.\" (Da’if) Une autre chaîne rapporte des paroles similaires",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 58
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1262,
+			"arabicnumber": 1262,
+			"text": "Rapporté par Abu Humaid As-Sa'idi : À la fin des deux dernières rak'ahs de la prière, le Prophète (ﷺ) avançait son pied gauche et s'asseyait sur sa hanche gauche, en position mutawarrik, puis il prononçait le taslim",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 84
+			}
+		}
+	]
+}

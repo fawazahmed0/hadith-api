@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"24": "The Chapters on Jihad"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2753,
+				"hadithnumber_last": 2881,
+				"arabicnumber_first": 2753,
+				"arabicnumber_last": 2881
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2762,
+			"arabicnumber": 2762,
+			"text": "Rapporté par Abu Umamah : Le Prophète (ﷺ) a dit : « Celui qui ne combat pas, n’équipe pas un combattant, ou ne reste pas pour s’occuper de la famille d’un combattant, Allah l’éprouvera par un malheur avant le Jour de la Résurrection. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 10
+			}
+		}
+	]
+}

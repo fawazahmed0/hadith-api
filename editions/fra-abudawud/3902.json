@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3902,
+			"arabicnumber": 3902,
+			"text": "Rapporté par Aïshah, l’épouse du Prophète ﷺ : Quand le Messager d’Allah ﷺ souffrait d’une douleur, il récitait les mu’awwidhat dans son cœur et les soufflait sur lui-même. Quand la douleur devenait plus forte, je les récitais sur lui et je le frottais avec sa propre main, espérant la bénédiction de celle-ci",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5016) Sahih Muslim (2192)"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 48
+			}
+		}
+	]
+}

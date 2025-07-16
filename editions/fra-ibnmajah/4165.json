@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4165,
+			"arabicnumber": 4165,
+			"text": "Rapporté par Habbah et Sawa’, les deux filles de Khalid : Nous sommes entrées chez le Prophète (ﷺ) alors qu’il faisait quelque chose, alors nous l’avons aidé. Puis il a dit : “Ne perdez pas espoir dans la subsistance tant que vos têtes bougent encore, car la mère d’une personne le met au monde rouge et sans peau, puis Allah pourvoit à ses besoins.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 66
+			}
+		}
+	]
+}

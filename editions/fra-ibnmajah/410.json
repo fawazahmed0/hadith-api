@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 410,
+			"arabicnumber": 410,
+			"text": "Rapporté par Thabit bin Abi Safiyyah Ath-Thumali : J’ai demandé à Abu Ja'far : \"T’a-t-on rapporté de Jabir bin 'Abdullah que le Prophète ﷺ faisait ses ablutions en lavant chaque membre une seule fois ?\" Il a répondu : \"Oui.\" J’ai dit : \"Et chaque membre deux fois, et chaque membre trois fois ?\" Il a dit : \"Oui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 144
+			}
+		}
+	]
+}

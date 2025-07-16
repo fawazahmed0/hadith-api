@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 230,
+			"arabicnumber": 230,
+			"text": "Rapporté par Hudhayfa رضي الله عنه : Le Prophète ﷺ lui a rendu visite et s’est penché vers lui pour lui serrer la main. Il a dit : « Je suis en état d’impureté majeure. » Le Prophète ﷺ a répondu : « Un musulman n’est pas impur. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (372)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 230
+			}
+		}
+	]
+}

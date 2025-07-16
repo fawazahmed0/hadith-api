@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1851,
+			"arabicnumber": 1851,
+			"text": "Rapporté par Jabir ibn Abdullah : J’ai entendu le Messager d’Allah ﷺ dire : « La chasse terrestre vous est permise (quand vous portez l’ihram) tant que vous ne la chassez pas vous-même et que vous ne demandez pas à quelqu’un de le faire pour vous. » Abu Dawud a dit : « Quand deux traditions du Prophète ﷺ semblent en contradiction, il faut regarder laquelle a été suivie par ses Compagnons. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 131
+			}
+		}
+	]
+}

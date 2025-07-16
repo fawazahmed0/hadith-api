@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4262,
+			"arabicnumber": 4262,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri : Le Prophète ﷺ a dit : \"Si une mouche tombe dans le récipient de l’un d’entre vous, qu’il la plonge complètement dedans",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 41
+			}
+		}
+	]
+}

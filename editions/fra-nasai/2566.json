@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2566,
+			"arabicnumber": 2566,
+			"text": "Rapporté par Bahz bin Hakim, d'après son père, d'après son grand-père : \"Aucun homme ne vient voir son Mawla pour lui demander quelque chose du surplus qu'il possède, et qu'il lui refuse, sans qu'au Jour de la Résurrection un serpent chauve ne soit appelé vers lui et lèche le surplus qu'il a gardé",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 132
+			}
+		}
+	]
+}

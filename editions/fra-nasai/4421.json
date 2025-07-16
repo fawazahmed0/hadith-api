@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4421,
+			"arabicnumber": 4421,
+			"text": "Rapporté par Asma : Nous avons abattu un cheval à l’époque du Messager d’Allah ﷺ alors que nous étions à Médine, et nous en avons mangé. (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 61
+			}
+		}
+	]
+}

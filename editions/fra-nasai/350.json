@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 350,
+			"arabicnumber": 350,
+			"text": "Rapporté par 'Aishah : Le Prophète (ﷺ) a dit : \"Quand la période des règles arrive, arrête de prier, et quand elle se termine, fais le Ghusl",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 3
+			}
+		}
+	]
+}

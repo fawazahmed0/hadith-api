@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4075,
+			"arabicnumber": 4075,
+			"text": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Quand je suis venu voir le Prophète ﷺ, il était assis, les mains autour des genoux, portant un manteau dont la bordure recouvrait ses pieds",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 56
+			}
+		}
+	]
+}

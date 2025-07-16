@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 95,
+			"arabicnumber": 95,
+			"text": "Anas رضي الله عنه a rapporté : Le Prophète ﷺ a fait ses ablutions avec un récipient contenant deux rotls d’eau et a pris un bain rituel avec un sa‘ d’eau. Abu Dawud a dit : Ce hadith a été rapporté de la part d’Anas par une autre chaîne. Cette version mentionne : « Il a fait ses ablutions avec un makkuk. » Elle ne mentionne pas les deux rotls. Abu Dawud a aussi dit : Ce hadith a été rapporté par Yahya ibn Adam d’après Sharik. Mais cette chaîne mentionne Ibn Jabr ibn ‘Atik au lieu de ‘Abd Allah ibn Jabr. Abu Dawud a dit : Ce hadith a aussi été rapporté par Sufyan d’après ‘Abd Allah ibn ‘Isa. Cette chaîne mentionne le nom de Jabr ibn ‘Abd Allah au lieu de ‘Abd Allah ibn Jabr. Abu Dawud a dit : J’ai entendu Ahmad ibn Hanbal dire : un sa‘ équivaut à cinq rotls. C’était le sa‘ d’Ibn Abi Dhi‘b et aussi celui du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 95
+			}
+		}
+	]
+}

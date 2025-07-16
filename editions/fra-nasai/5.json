@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5,
+			"arabicnumber": 5,
+			"text": "Rapporté par Abdur-Rahman bin Abu 'Atiq : Mon père m’a dit : \"J’ai entendu 'Aishah dire, rapportant du Prophète (ﷺ) : 'Le siwak purifie la bouche et plaît au Seigneur",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 5
+			}
+		}
+	]
+}

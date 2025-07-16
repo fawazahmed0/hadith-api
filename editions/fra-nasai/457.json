@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 457,
+			"arabicnumber": 457,
+			"text": "Rapporté par Umayyah bin ‘Abdullah bin Khalid bin Asid : Il a dit à Ibn ‘Umar : \"Comment la prière peut-elle être raccourcie alors qu’Allah dit : Il n’y a pas de péché à raccourcir la prière si vous craignez un danger ?\" Ibn ‘Umar a répondu : \"Ô fils de mon frère ! Le Messager d’Allah (ﷺ) est venu à nous alors que nous étions égarés, et il nous a enseigné. Parmi ce qu’il nous a appris, il y a qu’Allah, le Puissant et le Sublime, nous a ordonné de prier deux Rak‘a en voyage",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 10
+			}
+		}
+	]
+}

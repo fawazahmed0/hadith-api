@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3725,
+			"arabicnumber": 3725,
+			"text": "Rapporté par Abu Umamah : Le Prophète ﷺ est passé près d’un homme qui dormait sur le visage dans la mosquée. Il l’a frappé du pied et a dit : « Lève-toi » ou « Assieds-toi, car c’est une façon de dormir propre à l’Enfer. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 69
+			}
+		}
+	]
+}

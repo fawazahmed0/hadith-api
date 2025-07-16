@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3643,
+			"arabicnumber": 3643,
+			"text": "Abu Hurairah رضي الله عنه rapporte que le Prophète ﷺ a dit : « Celui qui suit un chemin pour rechercher la connaissance, Allah lui facilitera un chemin vers le Paradis ; et celui dont les actes sont lents ne sera pas rattrapé par sa lignée. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 3
+			}
+		}
+	]
+}

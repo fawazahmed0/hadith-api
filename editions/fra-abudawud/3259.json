@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 3242,
+				"hadithnumber_last": 3325,
+				"arabicnumber_first": 3242,
+				"arabicnumber_last": 3325
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3259,
+			"arabicnumber": 3259,
+			"text": "Rapporté par Yusuf ibn Abdullah ibn Salam : J’ai vu que le Prophète ﷺ posait une datte sur un morceau de pain et disait : « Ceci est un aliment que l’on mange avec le pain (comme accompagnement). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 18
+			}
+		}
+	]
+}

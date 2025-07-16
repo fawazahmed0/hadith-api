@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5598,
+			"arabicnumber": 5598,
+			"text": "Rapporté par Al-Aswad bin Shaiban As-Sadusi : « J’ai entendu ‘Ata’ être interrogé par un homme : “Nous voyageons et on nous propose des boissons dans les marchés, et nous ne savons pas dans quels récipients elles ont été préparées.” Il a répondu : “Toute boisson enivrante est interdite.” L’homme a répété la question et il a dit : “Toute boisson enivrante est interdite.” Il a encore répété la question et il a dit : “C’est comme je te l’ai dit.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 60
+			}
+		}
+	]
+}

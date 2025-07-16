@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2939,
+			"arabicnumber": 2939,
+			"text": "Rapporté par Jabir : Quand le Messager d’Allah est arrivé à La Mecque, il est entré dans la mosquée et a touché la Pierre, puis il est parti sur sa droite et a marché rapidement pendant trois tours, puis a marché normalement pendant quatre. Ensuite, il est venu au Maqam et a dit : « Et prenez le Maqam d’Ibrahim comme lieu de prière », puis il a prié deux unités de prière avec le Maqam entre lui et la Maison. Après avoir prié ces deux unités, il est revenu vers la Maison et a touché la Pierre, puis il est sorti vers As-Safa. (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 322
+			}
+		}
+	]
+}

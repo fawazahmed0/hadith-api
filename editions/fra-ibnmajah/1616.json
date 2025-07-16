@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1616,
+			"arabicnumber": 1616,
+			"text": "Rapporté par ‘Aishah : Le Messager d'Allah (ﷺ) a dit : « Briser les os d'un défunt, c'est comme briser ses os de son vivant. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 184
+			}
+		}
+	]
+}

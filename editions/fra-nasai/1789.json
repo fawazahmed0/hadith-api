@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1789,
+			"arabicnumber": 1789,
+			"text": "Rapporté par Aïcha : Quand le Messager d’Allah (ﷺ) ne priait pas la nuit parce qu’il était empêché par le sommeil – c’est-à-dire qu’il s’endormait profondément – ou par la douleur, il priait douze rak‘a pendant la journée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 192
+			}
+		}
+	]
+}

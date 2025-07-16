@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3110,
+			"arabicnumber": 3110,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « La poussière dans la cause d’Allah et la fumée de l’Enfer ne se retrouveront jamais ensemble dans les poumons d’un serviteur, et l’avarice et la foi ne peuvent jamais être réunies dans le cœur d’un serviteur. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 26
+			}
+		}
+	]
+}

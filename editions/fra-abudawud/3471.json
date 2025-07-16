@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3471,
+			"arabicnumber": 3471,
+			"text": "Ata a dit : Le fléau, c’est tout ce qui endommage manifestement la récolte, comme la pluie, la grêle, les sauterelles, une rafale de vent ou le feu",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 56
+			}
+		}
+	]
+}

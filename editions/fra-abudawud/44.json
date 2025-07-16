@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 44,
+			"arabicnumber": 44,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : Le verset suivant a été révélé au sujet des gens de Quba’ : « En son sein se trouvent des hommes qui aiment se purifier » (sourate 9, verset 108). Abu Hurayrah a expliqué : Ils se nettoyaient avec de l’eau après s’être soulagés. C’est donc à leur sujet que le verset a été révélé",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 44
+			}
+		}
+	]
+}

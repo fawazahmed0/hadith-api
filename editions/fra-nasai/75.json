@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 75,
+			"arabicnumber": 75,
+			"text": "Rapporté par 'Umar bin Al-Khattab, رضي الله عنه : Le Messager d'Allah a dit : « Les actions ne valent que par les intentions, et chacun aura ce qu'il a eu l'intention de faire. Ainsi, celui dont l'émigration était pour Allah et Son Messager, alors son émigration était pour Allah et Son Messager ; et celui dont l'émigration était pour obtenir un avantage matériel ou pour épouser une femme, alors son émigration était pour ce qu'il visait. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 75
+			}
+		}
+	]
+}

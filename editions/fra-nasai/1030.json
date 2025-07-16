@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1030,
+			"arabicnumber": 1030,
+			"text": "Rapporté par 'Alqamah et Al-Aswad : « Nous avons prié avec Abdullah bin Mas'ud chez lui. Il s’est placé entre nous et nous avons posé nos mains sur nos genoux, mais il les a retirées et nous a fait entrelacer les doigts, puis il a dit : “J’ai vu le Messager d’Allah (ﷺ) faire ainsi.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 2
+			}
+		}
+	]
+}

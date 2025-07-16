@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"26": "Chapters on Sacrifices"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3120,
+				"hadithnumber_last": 3161,
+				"arabicnumber_first": 3120,
+				"arabicnumber_last": 3161
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3130,
+			"arabicnumber": 3130,
+			"text": "Rapporté par Abu Umamah Al-Bahili : Le Messager d’Allah (ﷺ) a dit : « Le meilleur linceul est un vêtement Najrani en deux pièces, et le meilleur sacrifice est un bélier cornu. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sanad Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 11
+			}
+		}
+	]
+}

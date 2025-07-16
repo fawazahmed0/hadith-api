@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3206,
+			"arabicnumber": 3206,
+			"text": "Rapporté par 'Alqamah : Il a été rapporté que 'Alqamah a dit : \"J'étais avec Ibn Mas'ud alors qu'il était avec 'Uthman, رضي الله عنه, et 'Uthman a dit : 'Le Messager d'Allah est sorti vers quelques jeunes hommes – Abu 'AbdurRahman a dit : 'Je n'ai pas bien compris le mot utilisé pour jeunes hommes' – et il a dit : 'Que celui d'entre vous qui en a les moyens se marie, car cela aide à baisser le regard et à préserver la chasteté. Et celui qui ne le peut pas, alors le jeûne sera une protection pour lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 11
+			}
+		}
+	]
+}

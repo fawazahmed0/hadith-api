@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4151,
+			"arabicnumber": 4151,
+			"text": "Rapporté par 'Ubadah : Nous avons prêté serment au Messager d'Allah ﷺ d'écouter et d'obéir, aussi bien dans la difficulté que dans la facilité, quand nous étions pleins d'énergie ou fatigués, de ne pas contester les ordres de celui à qui cela était confié, de dire la vérité ou de rester fermes dans la voie de la vérité où que nous soyons, et de ne pas craindre le blâme de ceux qui blâment",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 3
+			}
+		}
+	]
+}

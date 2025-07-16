@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 3242,
+				"hadithnumber_last": 3325,
+				"arabicnumber_first": 3242,
+				"arabicnumber_last": 3325
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3293,
+			"arabicnumber": 3293,
+			"text": "Rapporté par Uqbah ibn Amir : Uqbah a consulté le Prophète ﷺ au sujet de sa sœur qui avait fait le vœu d’accomplir le hajj pieds nus et tête découverte. Il a dit : « Ordonne-lui de couvrir sa tête, de monter à dos de monture et de jeûner trois jours. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 52
+			}
+		}
+	]
+}

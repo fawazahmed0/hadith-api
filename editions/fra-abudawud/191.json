@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 191,
+			"arabicnumber": 191,
+			"text": "Muhammad ibn al-Munkadir a dit : J’ai entendu Jabir ibn Abd Allah رضي الله عنه dire : J’ai présenté du pain et de la viande au Prophète ﷺ. Il en a mangé, puis il a demandé de l’eau pour faire ses ablutions et il a prié la prière du midi (Dhuhr). Ensuite, il a redemandé le reste de la nourriture et il en a mangé. Puis il s’est levé et a prié sans refaire ses ablutions",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 191
+			}
+		}
+	]
+}

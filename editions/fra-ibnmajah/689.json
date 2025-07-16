@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 689,
+			"arabicnumber": 689,
+			"text": "Rapporté par 'Abbas bin 'Abdul-Muttalib : Le Messager d'Allah ﷺ a dit : \"Ma communauté restera sur la nature saine tant qu'ils ne retardent pas la prière du Maghrib jusqu'à l'apparition des étoiles.\" (Hasan) Abu 'Abdullah bin Majah a dit : J'ai entendu Muhammed bin Yahya dire : \"Les gens de Bagdad étaient confus en rapportant ce hadith. Abu Bakr Al-A'yan et moi sommes allés voir 'Awwam bin 'Abbad bin 'Awwam et il nous a montré le livre de son père, et ce hadith s'y trouvait",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 23
+			}
+		}
+	]
+}

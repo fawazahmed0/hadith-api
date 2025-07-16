@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1617,
+			"arabicnumber": 1617,
+			"text": "La tradition précédente a aussi été rapportée par Abu Sa’id à travers une autre chaîne. Cette version ajoute : « Un demi-sa’ de blé. » Mais c’est une erreur de la part de Mu’awiya ibn Hisham et de ceux qui l’ont rapportée de lui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 62
+			}
+		}
+	]
+}

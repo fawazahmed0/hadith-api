@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"28": "The Book of Horses, Races and Shooting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3561,
+				"hadithnumber_last": 3593,
+				"arabicnumber_first": 3561,
+				"arabicnumber_last": 3593
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3579,
+			"arabicnumber": 3579,
+			"text": "Rapporté par Abu Dharr : Le Messager d'Allah ﷺ a dit : \"Il n'y a pas de cheval arabe sans qu'il lui soit permis de faire deux invocations chaque fin de nuit : Ô Allah, Tu as voulu que je sois possédé par celui que Tu as choisi parmi les fils d'Adam, et Tu m'as fait lui appartenir. Fais que je sois ce qu'il a de plus cher dans sa famille et ses biens, ou parmi ce qu'il a de plus cher dans sa famille et ses biens",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 19
+			}
+		}
+	]
+}

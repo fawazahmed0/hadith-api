@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"47": "The Book Of Faith and its Signs"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 4985,
+				"hadithnumber_last": 5039,
+				"arabicnumber_first": 4985,
+				"arabicnumber_last": 5039
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5023,
+			"arabicnumber": 5023,
+			"text": "Rapporté par Abu Wa’il : Abdullah a dit : « Il y a trois traits ; celui qui les possède est un hypocrite : Quand il parle, il ment ; quand on lui confie quelque chose, il trahit la confiance ; et quand il promet, il ne tient pas sa promesse. Celui qui possède l’un de ces traits, alors un trait d’hypocrisie subsiste en lui jusqu’à ce qu’il l’abandonne. » (Sahih Mawquf)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 39
+			}
+		}
+	]
+}

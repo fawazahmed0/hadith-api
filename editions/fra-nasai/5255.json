@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5255,
+			"arabicnumber": 5255,
+			"text": "Rapporté par Ibrahim : 'Abdullah disait : \"Qu'Allah maudisse les femmes qui se font tatouer, les Al-Mutanammisat et celles qui se font limer les dents. Ne devrais-je pas maudire celles que le Messager d'Allah ﷺ a maudites ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 216
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"39": "Battles (Kitab Al-Malahim)"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4291,
+				"hadithnumber_last": 4350,
+				"arabicnumber_first": 4291,
+				"arabicnumber_last": 4350
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4334,
+			"arabicnumber": 4334,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « L’Heure ne viendra pas avant que n’apparaissent trente grands menteurs (Dajjals), qui mentiront au sujet d’Allah et de Son Messager. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 44
+			}
+		}
+	]
+}

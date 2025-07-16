@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1895,
+			"arabicnumber": 1895,
+			"text": "Rapporté par Jabir ibn ‘Abdallah رضي الله عنه : Ni le Prophète ﷺ ni ses compagnons n’ont couru entre Al Safa et Al Marwah, sauf une seule fois, lors de leur premier passage",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1215)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 175
+			}
+		}
+	]
+}

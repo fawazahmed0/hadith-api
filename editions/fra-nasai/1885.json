@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1885,
+			"arabicnumber": 1885,
+			"text": "Rapporté par Umm 'Atiyyah : Une des filles du Prophète est décédée, et il nous a envoyé un message disant : « Lavez-la avec de l’eau et des feuilles de lotus, et lavez-la un nombre impair de fois, trois, cinq ou sept si vous le jugez nécessaire, et mettez du camphre la dernière fois. Quand vous aurez terminé, informez-moi. » Quand nous avons fini, nous l’avons informé, il nous a donné son pagne et a dit : « Enveloppez-la dedans. » Nous avons peigné ses cheveux, les avons mis en trois tresses et les avons placés derrière elle",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 68
+			}
+		}
+	]
+}

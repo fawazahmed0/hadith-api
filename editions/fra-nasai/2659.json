@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2659,
+			"arabicnumber": 2659,
+			"text": "Rapporté par Ubaidullah bin 'Abdullah bin 'Umar : Son père a dit : \"Le Messager d'Allah ﷺ a passé la nuit à Dhul-Hulaifah, où il a commencé son Hajj de cette façon, et il a prié dans la mosquée qui s'y trouve.\" (authentique)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 41
+			}
+		}
+	]
+}

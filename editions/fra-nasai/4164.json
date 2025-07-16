@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4164,
+			"arabicnumber": 4164,
+			"text": "Rapporté par Abu Sa'eed : Un bédouin a demandé au Messager d’Allah au sujet de l’émigration (Hijrah). Il a dit : \"Malheur à toi, l’émigration est très importante. As-tu des chameaux ?\" Il a répondu : \"Oui.\" Il a dit : \"Donnes-tu la Sadaqah sur eux ?\" Il a répondu : \"Oui.\" Il a dit : \"Fais de bonnes actions, même si tu es loin des musulmans, car Allah, le Puissant et Majestueux, ne perdra jamais aucune de tes actions",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 16
+			}
+		}
+	]
+}

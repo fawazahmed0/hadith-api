@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 999,
+			"arabicnumber": 999,
+			"text": "La tradition précédente a aussi été rapportée par Mis’ar à travers une autre chaîne de transmetteurs avec le même sens. Cette version ajoute : « N’est-il pas suffisant pour l’un de vous, ou pour l’un d’eux, de poser sa main sur sa cuisse, puis de saluer son frère à sa droite et à sa gauche ? »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 610
+			}
+		}
+	]
+}

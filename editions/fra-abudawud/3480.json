@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3480,
+			"arabicnumber": 3480,
+			"text": "Rapporté par Jabir : Le Prophète ﷺ a interdit de recevoir un paiement pour un chat",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 65
+			}
+		}
+	]
+}

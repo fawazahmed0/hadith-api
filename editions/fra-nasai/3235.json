@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3235,
+			"arabicnumber": 3235,
+			"text": "Rapporté par Al-Mughirah bin Shu'bah : J'ai demandé une femme en mariage à l'époque du Messager d'Allah, et le Prophète m'a dit : \"L'as-tu vue ?\" J'ai répondu : \"Non.\" Il a dit : \"Regarde-la, car cela est plus à même de créer de l'affection entre vous",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 40
+			}
+		}
+	]
+}

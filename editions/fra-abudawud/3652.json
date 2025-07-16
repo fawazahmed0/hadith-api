@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3652,
+			"arabicnumber": 3652,
+			"text": "Rapporté par Jundub : Le Prophète ﷺ a dit : « Si quelqu’un interprète le Livre d’Allah selon sa propre opinion, même s’il a raison, il s’est trompé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 12
+			}
+		}
+	]
+}

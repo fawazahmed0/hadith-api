@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2065,
+			"arabicnumber": 2065,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Une femme ne doit pas être mariée à un homme qui a épousé sa tante paternelle, ni une tante paternelle à un homme qui a épousé la fille de son frère, ni une femme à un homme qui a épousé sa tante maternelle, ni une tante maternelle à un homme qui a épousé la fille de sa sœur. Une femme plus âgée dans la parenté ne doit pas être mariée à un homme qui a épousé une femme plus jeune dans la parenté, et inversement. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 20
+			}
+		}
+	]
+}

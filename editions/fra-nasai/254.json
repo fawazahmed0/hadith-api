@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 254,
+			"arabicnumber": 254,
+			"text": "Rapporté par Ibn 'Abbas : Le Prophète (ﷺ) a fait le Ghusl et on lui a apporté un tissu, mais il ne l’a pas touché et il a commencé à essuyer l’eau sur son corps avec ses mains",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 255
+			}
+		}
+	]
+}

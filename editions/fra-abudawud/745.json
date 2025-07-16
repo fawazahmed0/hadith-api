@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 745,
+			"arabicnumber": 745,
+			"text": "Rapporté par Malik b. al-Huwairith رضي الله عنه : J’ai vu le Prophète ﷺ lever les mains lorsqu’il prononçait le takbir (Allah est le plus grand), quand il s’inclinait et quand il relevait la tête après s’être incliné, jusqu’à ce qu’il les amène aux lobes de ses oreilles",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (391)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 355
+			}
+		}
+	]
+}

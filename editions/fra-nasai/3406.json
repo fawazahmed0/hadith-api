@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3406,
+			"arabicnumber": 3406,
+			"text": "Rapporté par Ibn Tawus, de son père : Abu As-Sahba' est venu voir Ibn 'Abbas et lui a dit : \"Ô Ibn 'Abbas ! Ne sais-tu pas que, du temps du Messager d'Allah, d'Abu Bakr et au début du califat de 'Umar, le triple divorce était compté comme un seul divorce ?\" Il a dit : \"Oui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 18
+			}
+		}
+	]
+}

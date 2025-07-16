@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2078,
+			"arabicnumber": 2078,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Allah, le Puissant et le Sublime, dit : “Le fils d’Adam m’a renié et il n’en avait pas le droit, et le fils d’Adam m’a offensé et il n’en avait pas le droit. Quant à son reniement, c’est quand il dit que Je ne le ressusciterai pas comme Je l’ai créé la première fois, alors que Me ressusciter n’est pas plus difficile que de le créer au départ. Quant à son offense, c’est quand il dit qu’Allah a pris un fils, alors que Je suis Allah, l’Unique, le Maître absolu, Je n’engendre pas et Je ne suis pas engendré, et nul n’est égal ou comparable à Moi.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 261
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2326,
+			"arabicnumber": 2326,
+			"text": "Rapporté par Hudhayfah رضي الله عنه : Le Prophète ﷺ a dit : « Ne commencez pas le jeûne (du Ramadan) avant l’arrivée du mois, sauf si vous voyez la lune ou que vous ayez complété le compte (de trente jours) ; puis jeûnez jusqu’à ce que vous voyiez la lune ou que vous complétiez le compte (de trente jours). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 14
+			}
+		}
+	]
+}

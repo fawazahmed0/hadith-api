@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"17": "The Book of Praying for Rain (Al-Istisqa')"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 1504,
+				"hadithnumber_last": 1528,
+				"arabicnumber_first": 1504,
+				"arabicnumber_last": 1528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1514,
+			"arabicnumber": 1514,
+			"text": "Rapporté par Abi Al-Lahm : Il a vu le Messager d’Allah à Ahjar Az-Zait prier pour la pluie et lever les mains en faisant des invocations",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 11
+			}
+		}
+	]
+}

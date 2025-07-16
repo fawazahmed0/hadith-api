@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3580,
+			"arabicnumber": 3580,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-'As : Le Messager d’Allah ﷺ a maudit celui qui donne un pot-de-vin et celui qui le reçoit",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 10
+			}
+		}
+	]
+}

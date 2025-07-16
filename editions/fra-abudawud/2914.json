@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"19": "Shares of Inheritance (Kitab Al-Fara'id)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2885,
+				"hadithnumber_last": 2927,
+				"arabicnumber_first": 2885,
+				"arabicnumber_last": 2927
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2914,
+			"arabicnumber": 2914,
+			"text": "Rapporté par Abdullah ibn Abbas : Le Prophète ﷺ a dit : « Un héritage partagé à l’époque préislamique suit la répartition d’alors, mais tout héritage à l’époque islamique doit suivre la répartition fixée par l’islam. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 30
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3014,
+			"arabicnumber": 3014,
+			"text": "Rapporté par Amr bin Abdullah bin Safwan, d'après Yazid bin Shaiban : Nous étions à Arafat, à un endroit éloigné du lieu de station, et Ibn Mirba Al-Ansari est venu et a dit : \"Je suis le messager du Messager d'Allah ﷺ pour vous ; il dit : 'Restez où vous êtes (car c'est un lieu de rite), car vous suivez la tradition de votre père Ibrahim, paix sur lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 397
+			}
+		}
+	]
+}

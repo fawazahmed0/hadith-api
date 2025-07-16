@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3207,
+			"arabicnumber": 3207,
+			"text": "Rapporté par Aisha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Briser l’os d’un mort, c’est comme le briser de son vivant. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 119
+			}
+		}
+	]
+}

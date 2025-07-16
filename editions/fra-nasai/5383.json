@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"49": "The Book of the Etiquette of Judges"
+		},
+		"section_detail": {
+			"49": {
+				"hadithnumber_first": 5379,
+				"hadithnumber_last": 5427,
+				"arabicnumber_first": 5379,
+				"arabicnumber_last": 5427
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5383,
+			"arabicnumber": 5383,
+			"text": "Rapporté par Usaid bin Hudair : Un homme parmi les Ansar est venu voir le Messager d’Allah ﷺ et a dit : « Ne veux-tu pas me nommer comme tu as nommé untel ? » Il a répondu : « Après moi, vous verrez de l’égoïsme, alors soyez patients jusqu’à ce que vous me retrouviez près du bassin (Al-Hawd). »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 49,
+				"hadith": 5
+			}
+		}
+	]
+}

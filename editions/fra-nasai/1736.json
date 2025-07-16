@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1736,
+			"arabicnumber": 1736,
+			"text": "Rapporté par Muhammad bin Juhadah, de Zubaid, Sa'eed bin 'Abdur-Rahman bin Abza, de la part de son père, qui a dit : \"Le Messager d'Allah (ﷺ) récitait dans la prière du witr : 'Glorifie le nom de ton Seigneur, le Très-Haut', puis 'Dis : Ô vous les mécréants !', et 'Dis : Il est Allah, l'Unique'. Et lorsqu'il avait terminé la prière, il disait : 'Subhanal-Malikil-Quddus' (Gloire au Souverain, le Très-Saint) trois fois",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 139
+			}
+		}
+	]
+}

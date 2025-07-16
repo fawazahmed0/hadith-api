@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2742,
+			"arabicnumber": 2742,
+			"text": "Al Walid ibn Muslim a dit : J’ai raconté cette tradition (mentionnée ci-dessus) à Ibn Al Mubarak et j’ai dit : « De même, Ibn Abi Farwah nous l’a transmise de la part de Nafi’ (comme l’a rapporté Shu’aib). » Il (Ibn Al Mubarak) a répondu : « Ceux que tu as cités ne peuvent pas être comparés à Malik, c’est-à-dire Malik ibn Anas. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 266
+			}
+		}
+	]
+}

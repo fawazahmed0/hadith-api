@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2346,
+			"arabicnumber": 2346,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d'Allah ﷺ jeûnait au point que nous pensions qu'il ne romprait pas son jeûne, et il ne jeûnait pas au point que nous pensions qu'il ne voulait plus jeûner. Et il n'a jamais jeûné un mois entier à part Ramadan, depuis qu'il est arrivé à Al-Madinah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 257
+			}
+		}
+	]
+}

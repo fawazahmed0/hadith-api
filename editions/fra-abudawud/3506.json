@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3506,
+			"arabicnumber": 3506,
+			"text": "Rapporté par Uqbah ibn Amir : Le Prophète ﷺ a dit : « L’engagement contractuel concernant un esclave dure trois jours. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 91
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 848,
+			"arabicnumber": 848,
+			"text": "Rapporté par Abu Huraira رضي الله عنه du Messager d’Allah ﷺ : « Lorsque l’imam dit : “Allah entend celui qui Le loue”, dites : “Ô Allah, notre Seigneur, à Toi la louange”, car si ce que l’un de vous dit correspond à ce que disent les anges, il lui sera pardonné ses péchés passés. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (796) Sahih Muslim (409)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 458
+			}
+		}
+	]
+}

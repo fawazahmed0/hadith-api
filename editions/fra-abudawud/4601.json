@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4601,
+			"arabicnumber": 4601,
+			"text": "Rapporté par ‘Ammar b. Yasir : Je suis rentré chez moi alors que j’avais les mains crevassées. Ma famille m’a enduit de safran. Ensuite, je suis allé voir le Prophète ﷺ et je l’ai salué, mais il ne m’a pas rendu le salut. Il m’a dit : « Va te laver et enlève cela de toi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 6
+			}
+		}
+	]
+}

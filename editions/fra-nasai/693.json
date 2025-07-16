@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 693,
+			"arabicnumber": 693,
+			"text": "Rapporté par 'Abdullah bin 'Amr : Le Messager d'Allah (ﷺ) a dit : \"Quand Sulayman bin Dawud a terminé la construction de Bayt Al-Maqdis, il a demandé à Allah trois choses : un jugement conforme à celui d'Allah, et il l'a obtenu ; un royaume que personne après lui n'aurait, et il l'a obtenu ; et quand il a fini de construire la mosquée, il a demandé à Allah, le Puissant et Majestueux, que personne ne vienne là-bas, avec l'intention d'y prier, sans ressortir pur de tout péché comme le jour où sa mère l'a mis au monde",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 6
+			}
+		}
+	]
+}

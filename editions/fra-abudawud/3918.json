@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"30": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3904,
+				"hadithnumber_last": 3925,
+				"arabicnumber_first": 3904,
+				"arabicnumber_last": 3925
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3918,
+			"arabicnumber": 3918,
+			"text": "Rapporté par ‘Ata : Les gens disaient : safar est une douleur dans le ventre. J’ai demandé : Qu’est-ce que hamah ? Il a répondu : Les gens disaient (croyaient) que hamah, qui est un hibou ou un oiseau nocturne qui hulule, est l’esprit des hommes. Ce n’est pas l’esprit des hommes, c’est un animal",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 15
+			}
+		}
+	]
+}

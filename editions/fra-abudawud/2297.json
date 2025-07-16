@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2297,
+			"arabicnumber": 2297,
+			"text": "Jabir رضي الله عنه a dit : « Ma tante maternelle a été divorcée par trois prononcés et elle est sortie pour cueillir des fruits de ses palmiers. Un homme l’a rencontrée et lui a interdit de sortir. Elle est donc allée voir le Prophète ﷺ et lui a raconté cela. Il a dit : “Sors et cueille les fruits de tes palmiers, car peut-être pourras-tu donner l’aumône ou faire une bonne action.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1483)"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 123
+			}
+		}
+	]
+}

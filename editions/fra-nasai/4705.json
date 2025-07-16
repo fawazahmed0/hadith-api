@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4705,
+			"arabicnumber": 4705,
+			"text": "Rapporté par Jabir : Le Messager d’Allah ﷺ a établi le principe de la préemption et les droits des voisins",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 257
+			}
+		}
+	]
+}

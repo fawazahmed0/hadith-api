@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1193,
+			"arabicnumber": 1193,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a dit : \"Pourquoi certaines personnes lèvent-elles les yeux vers le ciel pendant la prière ?\" Il a parlé sévèrement à ce sujet jusqu’à dire : \"Ils doivent arrêter, sinon ils perdront sûrement la vue",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 15
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4179,
+			"arabicnumber": 4179,
+			"text": "Rapporté par Umm 'Atiyyah : Quand j’ai voulu prêter serment au Messager d’Allah, j’ai dit : \"Ô Messager d’Allah, des femmes m’ont aidée à pleurer les morts pendant la période d’ignorance ; dois-je aller l’aider (à pleurer) puis revenir te donner mon serment ?\" Il a dit : \"Va l’aider.\" Alors j’y suis allée, puis je suis revenue et j’ai prêté serment au Messager d’Allah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 31
+			}
+		}
+	]
+}

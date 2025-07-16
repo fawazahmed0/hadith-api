@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3726,
+			"arabicnumber": 3726,
+			"text": "Rapporté par Anas b. Malik : Le Prophète ﷺ a reçu du lait mélangé avec de l’eau. Un Bédouin était à sa droite et Abu Bakr à sa gauche. Il a bu lui-même, puis il a donné la boisson au Bédouin, et il a dit : « Celui qui est à droite, puis celui qui est à sa droite, puis celui qui est à sa droite. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5619) Sahih Muslim (2029)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 58
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3826,
+			"arabicnumber": 3826,
+			"text": "Rapporté par Hazim bin Harmalah : Je suis passé devant le Prophète (ﷺ) et il m'a dit : « Ô Hazim, répète souvent : \"La hawla wa la quwwata illa billah\" (\"Il n'y a de force ni de puissance qu'en Allah\"), car c'est un des trésors du Paradis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 170
+			}
+		}
+	]
+}

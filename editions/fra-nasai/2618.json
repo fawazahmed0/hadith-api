@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2618,
+			"arabicnumber": 2618,
+			"text": "Rapporté par Sa’eed bin Al-Musayyab : Le Messager d’Allah a dit à ‘Attab bin Usaid d’estimer la récolte des raisins, et de payer la Zakat en raisins secs, tout comme la Zakat sur les dattes est donnée en dattes sèches",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 184
+			}
+		}
+	]
+}

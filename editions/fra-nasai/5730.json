@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5730,
+			"arabicnumber": 5730,
+			"text": "Rapporté par Ata' : J'ai entendu Ibn 'Abbas dire : \"Par Allah, le feu ne rend rien licite ou illicite.\" Puis il a expliqué que ce qu'il voulait dire par \"il ne rend pas licite\" faisait référence à ce qu'ils disaient à propos de l'At-Tila' (jus de raisin épaissi), et il a expliqué que ce qu'il disait sur \"il ne rend pas illicite\" concernait le fait de faire les ablutions après avoir mangé quelque chose qui a été touché par le feu",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 192
+			}
+		}
+	]
+}

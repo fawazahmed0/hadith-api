@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"31": "The Book of Presents"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3672,
+				"hadithnumber_last": 3687,
+				"arabicnumber_first": 3672,
+				"arabicnumber_last": 3687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3680,
+			"arabicnumber": 3680,
+			"text": "Rapporté par An-Nu'man : Son père l'a amené auprès du Prophète pour qu'il soit témoin d'un cadeau qu'il lui avait donné. Le Prophète a dit : \"As-tu offert à tous tes enfants un cadeau comme celui que tu lui as donné ?\" Il a répondu : \"Non.\" Le Prophète a dit : \"Je ne témoignerai de rien. Cela ne te plairait-il pas qu'ils te respectent tous de la même façon ?\" Il a répondu : \"Bien sûr.\" Le Prophète a dit : \"Alors non, je ne le ferai pas",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 9
+			}
+		}
+	]
+}

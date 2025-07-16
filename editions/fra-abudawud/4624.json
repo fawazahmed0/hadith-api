@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4624,
+			"arabicnumber": 4624,
+			"text": "Rapporté par Ibn ‘Awn : Si nous avions su que la remarque d’al-Hasan aurait autant d’impact, nous aurions écrit un livre pour qu’il la retire et nous aurions pris des témoins contre lui ; mais nous avons pensé : « C’est une parole qui lui a échappé, et elle ne se répandra pas. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 29
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"24": "The Chapters on Jihad"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2753,
+				"hadithnumber_last": 2881,
+				"arabicnumber_first": 2753,
+				"arabicnumber_last": 2881
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2754,
+			"arabicnumber": 2754,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri : Le Prophète (ﷺ) a dit : « Celui qui combat pour la cause d’Allah a une garantie de la part d’Allah : soit Il l’élève vers Son pardon et Sa miséricorde, soit Il le ramène avec une récompense et des butins. Celui qui combat pour la cause d’Allah est comme quelqu’un qui jeûne et prie la nuit sans s’arrêter, jusqu’à son retour. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 2
+			}
+		}
+	]
+}

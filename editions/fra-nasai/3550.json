@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3550,
+			"arabicnumber": 3550,
+			"text": "Rapporté par Jabir : Sa tante maternelle avait été divorcée et voulait sortir pour aller à ses palmiers-dattiers, mais elle rencontra un homme qui lui dit de ne pas le faire. Elle alla voir le Messager d’Allah et il lui dit : \"Sors et récolte tes dattes, car peut-être donneras-tu la Zakat ou feras-tu une bonne action (comme donner une aumône volontaire)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 164
+			}
+		}
+	]
+}

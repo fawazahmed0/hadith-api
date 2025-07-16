@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5089,
+			"arabicnumber": 5089,
+			"text": "Rapporté par 'Aishah رضي الله عنها : Une femme a tendu la main pour donner une lettre au Prophète ﷺ, et il a retiré sa main. Elle a dit : « Ô Messager d'Allah, j'ai tendu la main pour te donner une lettre et tu ne l'as pas prise. » Il a répondu : « Je ne savais pas si c'était la main d'une femme ou d'un homme. » Elle a dit : « C'est la main d'une femme. » Il a dit : « Si tu étais une femme, tu aurais changé la couleur de tes ongles avec du henné. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 50
+			}
+		}
+	]
+}

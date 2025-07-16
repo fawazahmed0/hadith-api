@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1728,
+			"arabicnumber": 1728,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Il n’y a pas de jours dans ce monde où l’adoration est plus aimée d’Allah, le Glorieux, que pendant les dix premiers jours (de Dhul-Hijjah). Jeûner un de ces jours équivaut à jeûner une année entière, et une nuit de ces jours vaut comme la nuit d’Al-Qadr. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 91
+			}
+		}
+	]
+}

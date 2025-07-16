@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1069,
+			"arabicnumber": 1069,
+			"text": "Rapporté par Ka'b ibn Malik : AbdurRahman ibn Ka'b ibn Malik a dit : Quand Ka'b ibn Malik entendait l’appel à la prière du vendredi, il priait pour As‘ad ibn Zurarah. Je lui ai demandé pourquoi il faisait cela. Il répondit : « C’est parce qu’il a dirigé pour la première fois la prière du vendredi pour nous à Hazm an-Nabit, dans le quartier de Harrah appartenant à Banu Bayadah à Naqi‘, appelé Naqi‘ al-Khadumat. » Je lui ai demandé combien ils étaient à ce moment-là. Il répondit : « Quarante. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 680
+			}
+		}
+	]
+}

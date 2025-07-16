@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4226,
+			"arabicnumber": 4226,
+			"text": "Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Prophète ﷺ portait sa bague à la main droite",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 13
+			}
+		}
+	]
+}

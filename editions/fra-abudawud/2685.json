@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2685,
+			"arabicnumber": 2685,
+			"text": "Anas ibn Malik رضي الله عنه a dit : Le Messager d’Allah ﷺ entra à La Mecque l’année de la conquête, portant un casque sur la tête. Lorsqu’il l’enleva, un homme vint lui dire : « Ibn Akhtal est accroché aux rideaux de la Ka’bah. » Il dit : « Tuez-le. » Abu Dawud a dit : Le nom d’Ibn Akhtal est ‘Abd Allah, et Abu Barzat Al Aslami l’a tué",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (3044) Sahih Muslim (1357)"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 209
+			}
+		}
+	]
+}

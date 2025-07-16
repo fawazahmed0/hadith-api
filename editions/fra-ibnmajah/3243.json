@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"28": "Chapters on Hunting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3200,
+				"hadithnumber_last": 3250,
+				"arabicnumber_first": 3200,
+				"arabicnumber_last": 3250
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3243,
+			"arabicnumber": 3243,
+			"text": "Rapporté par Anas bin Malik : Nous sommes passés par Marr Az-Zahran et avons effrayé un lapin. Ils l’ont poursuivi mais se sont fatigués, alors je l’ai poursuivi et attrapé. Je l’ai apporté à Abu Talhah qui l’a égorgé et a envoyé la croupe et la cuisse au Prophète (ﷺ), qui les a acceptées",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 44
+			}
+		}
+	]
+}

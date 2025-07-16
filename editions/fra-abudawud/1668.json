@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1668,
+			"arabicnumber": 1668,
+			"text": "Rapporté par Asma’ رضي الله عنها : Ma mère est venue me demander une faveur pendant le traité des Quraysh (à Hudaibiyyah), alors qu’elle détestait l’Islam et était polythéiste. J’ai dit : « Messager d’Allah ﷺ, ma mère est venue vers moi alors qu’elle déteste l’Islam et qu’elle est mécréante. Puis-je lui faire une faveur ? » Il a répondu : « Oui, fais-lui une faveur. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2620) Sahih Muslim (1003)"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 113
+			}
+		}
+	]
+}

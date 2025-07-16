@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3401,
+			"arabicnumber": 3401,
+			"text": "Rapporté par Makhramah, d’après son père : J’ai entendu Mahmud bin Labid dire : “On a parlé au Messager d’Allah d’un homme qui avait divorcé de sa femme trois fois en une seule fois. Il s’est levé en colère et a dit : Est-ce qu’on se moque du Livre d’Allah alors que je suis encore parmi vous ?” Un homme s’est alors levé et a dit : “Ô Messager d’Allah, dois-je le tuer ?”",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 13
+			}
+		}
+	]
+}

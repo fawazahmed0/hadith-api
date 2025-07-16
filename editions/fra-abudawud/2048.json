@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2048,
+			"arabicnumber": 2048,
+			"text": "Rapporté par Jabir bin ‘Abd Allah : Le Messager d’Allah ﷺ m’a dit : « T’es-tu marié ? » J’ai répondu : « Oui. » Il a demandé : « Avec une vierge ou une non-vierge ? » J’ai dit : « Une non-vierge. » Il a dit : « Pourquoi n’as-tu pas épousé une vierge avec qui tu aurais pu t’amuser et qui aurait pu s’amuser avec toi ? »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 3
+			}
+		}
+	]
+}

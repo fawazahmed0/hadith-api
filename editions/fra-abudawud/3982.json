@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"32": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3969,
+				"hadithnumber_last": 4008,
+				"arabicnumber_first": 3969,
+				"arabicnumber_last": 4008
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3982,
+			"arabicnumber": 3982,
+			"text": "Rapporté par Asma, fille de Yazid : Elle a entendu le Prophète ﷺ réciter le verset : « Il a mal agi. » (innahu ‘amila ghayra salih)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 14
+			}
+		}
+	]
+}

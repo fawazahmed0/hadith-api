@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3066,
+			"arabicnumber": 3066,
+			"text": "Rapporté par Ibn ‘Abbas : Le Prophète (ﷺ) n’a permis à personne de passer la nuit à La Mecque, sauf à ‘Abbas, pour donner de l’eau aux pèlerins",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 185
+			}
+		}
+	]
+}

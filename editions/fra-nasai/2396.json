@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2396,
+			"arabicnumber": 2396,
+			"text": "Rapporté par Shuaib bin 'Abdullah bin 'Amr, d'après son père : Le Messager d'Allah ﷺ m'a dit : \"Jeûne un jour et tu auras la récompense de dix.\" J'ai dit : \"Laisse-moi jeûner plus.\" Il a dit : \"Jeûne deux jours et tu auras la récompense de neuf.\" J'ai dit : \"Laisse-moi jeûner plus.\" Il a dit : \"Jeûne trois jours et tu auras la récompense de huit.\" (Un des rapporteurs) Thabit a dit : \"J'ai raconté cela à Mutarrif et il a dit : Je vois qu'il fait plus d'efforts pour moins de récompense",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 307
+			}
+		}
+	]
+}

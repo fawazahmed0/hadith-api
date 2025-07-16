@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"24": "The Chapters on Jihad"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2753,
+				"hadithnumber_last": 2881,
+				"arabicnumber_first": 2753,
+				"arabicnumber_last": 2881
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2791,
+			"arabicnumber": 2791,
+			"text": "Rapporté par Tamim Ad-Dari : J’ai entendu le Messager d’Allah (ﷺ) dire : « Celui qui attache un cheval pour la cause d’Allah, puis le nourrit de sa propre main, aura une bonne action pour chaque grain. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 39
+			}
+		}
+	]
+}

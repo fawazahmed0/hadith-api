@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2904,
+			"arabicnumber": 2904,
+			"text": "Rapporté par Ibn ‘Abbas : Un homme est venu voir le Prophète (ﷺ) et a dit : “Dois-je accomplir le Hajj à la place de mon père ?” Il a répondu : “Oui, accomplis le Hajj pour ton père, car si tu ne peux pas ajouter de bonnes actions à son compte, au moins tu ne lui ajouteras rien de mauvais.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 23
+			}
+		}
+	]
+}

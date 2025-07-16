@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4799,
+			"arabicnumber": 4799,
+			"text": "Rapporté par Abud Darda’ رضي الله عنه : Le Prophète ﷺ a dit : « Rien n’est plus lourd dans la balance du croyant au Jour de la Résurrection que le bon caractère. » Abu al-Walid a dit : J’ai entendu ‘Ata al-Kaikharani dire : Abu Dawud a dit : Son nom est ‘Ata b. Ya‘qub. C’est l’oncle maternel d’Ibrahim b. Nafi’. On l’appelle Kaikharani ou Kukharani",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 27
+			}
+		}
+	]
+}

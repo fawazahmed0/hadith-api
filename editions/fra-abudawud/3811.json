@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3811,
+			"arabicnumber": 3811,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-'As : Le jour de Khaybar, le Messager d’Allah ﷺ a interdit (de manger) la chair des ânes domestiques et des animaux qui se nourrissent d’ordures : il a interdit de les monter et de manger leur chair",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 76
+			}
+		}
+	]
+}

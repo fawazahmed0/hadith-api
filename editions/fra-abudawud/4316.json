@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"39": "Battles (Kitab Al-Malahim)"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4291,
+				"hadithnumber_last": 4350,
+				"arabicnumber_first": 4291,
+				"arabicnumber_last": 4350
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4316,
+			"arabicnumber": 4316,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : Le Prophète ﷺ a dit : « Aucun prophète n’a été envoyé sans avoir mis en garde son peuple contre le borgne. Entre ses yeux sera écrit “infidèle” (kafir). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (7131) Sahih Muslim (2933)"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 26
+			}
+		}
+	]
+}

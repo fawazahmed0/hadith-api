@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 19,
+			"arabicnumber": 19,
+			"text": "Rapporté par Anas ibn Malik : Lorsque le Prophète ﷺ entrait aux toilettes, il retirait sa bague. Abu Dawud a dit : Ceci est une tradition munkar, c’est-à-dire qu’elle contredit la version bien connue rapportée par des narrateurs fiables. Selon la version bien connue d’Anas : Le Prophète ﷺ s’était fait faire une bague en argent, puis il l’a retirée. L’erreur vient de Hammam (le narrateur de la première tradition citée). Cette version n’est rapportée que par Hammam",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 19
+			}
+		}
+	]
+}

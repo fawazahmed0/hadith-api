@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 108,
+			"arabicnumber": 108,
+			"text": "Rapporté par ‘Abd al-Rahman al-TamiI : On a demandé à Ibn Abi Mulaikah au sujet des ablutions. Il a dit : J’ai vu ‘Uthman b. ‘Affan à qui on a posé la même question. Il a demandé de l’eau. Un récipient lui a été apporté. Il l’a incliné vers sa main droite (et y a versé de l’eau). Il y a plongé la main trois fois, puis il s’est lavé le visage trois fois. Ensuite, il a plongé sa main dans l’eau et l’a retirée ; puis il a essuyé sa tête et ses oreilles, à l’intérieur et à l’extérieur, une seule fois. Ensuite, il a lavé ses pieds, puis a dit : « Où sont ceux qui m’ont demandé de faire mes ablutions ? J’ai vu le Messager d’Allah ﷺ faire ses ablutions ainsi. » Abu Dawud a dit : Toutes les versions authentiques rapportées de ‘Uthman indiquent que la tête doit être essuyée une fois, car elles mentionnent le lavage de chaque membre trois fois. Dans ces versions, il est dit : « il a essuyé sa tête », sans préciser de nombre, contrairement aux autres membres",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 108
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2241,
+			"arabicnumber": 2241,
+			"text": "Rapporté par Al-Harith ibn Qays al-Asadi رضي الله عنه : J’ai embrassé l’islam alors que j’avais huit femmes. J’en ai parlé au Prophète ﷺ. Le Prophète ﷺ m’a dit : « Choisis-en quatre. » Abu Dawud a dit : Cette tradition nous a aussi été rapportée par Ahmad b. Ibrahim, de Hushaim, qui a dit : Qais b. al-Harith au lieu de al-Harith b. Qais. Ahmad b. Ibrahim a dit : C’est bien Qais b. al-Harith",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 67
+			}
+		}
+	]
+}

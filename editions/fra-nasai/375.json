@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 375,
+			"arabicnumber": 375,
+			"text": "Rapporté par Jumai' bin 'Umair : \"Je suis entré chez 'Aishah avec ma mère et ma tante maternelle, et nous lui avons demandé ce que le Prophète (ﷺ) faisait quand l'une de ses femmes avait ses règles. Elle a dit : Quand l'une de nous avait ses règles, il nous disait d'enrouler un large Izar autour de nous, puis il nous serrait contre lui, au niveau de la poitrine et des seins",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 27
+			}
+		}
+	]
+}

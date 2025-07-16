@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"19": "The Chapters on Manumission (of Slaves)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2512,
+				"hadithnumber_last": 2532,
+				"arabicnumber_first": 2512,
+				"arabicnumber_last": 2532
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2525,
+			"arabicnumber": 2525,
+			"text": "Rapporté par Ibn `Umar : Le Messager d’Allah (ﷺ) a dit : « Celui qui devient le maître d’un parent mahram, il devient libre. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 14
+			}
+		}
+	]
+}

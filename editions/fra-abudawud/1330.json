@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1330,
+			"arabicnumber": 1330,
+			"text": "Ce récit a également été rapporté par Abu Huraira رضي الله عنه selon une autre chaîne de transmetteurs. Cette version ne mentionne pas que le Prophète ﷺ a dit à Abu Bakr : « Lève un peu la voix », ni qu’il a dit à Omar : « Baisse un peu la voix. » Mais cette version ajoute : (Le Prophète ﷺ a dit :) « Je t’ai entendu, Bilal, réciter ; tu récitais en partie de cette sourate et en partie de cette autre sourate. » Il dit : « Tout cela est une bonne parole ; Allah a réuni une partie avec l’autre. » Le Prophète ﷺ a dit : « Vous aviez tous raison. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 81
+			}
+		}
+	]
+}

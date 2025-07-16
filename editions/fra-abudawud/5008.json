@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5008,
+			"arabicnumber": 5008,
+			"text": "Rapporté par Amr ibn al-'As : Un jour, alors qu’un homme s’est levé et a parlé longuement, Amr ibn al-'As a dit : « S’il avait été plus bref, cela aurait été mieux pour lui. J’ai entendu le Messager d’Allah ﷺ dire : “Je pense (ou, j’ai reçu l’ordre) d’être bref dans mes paroles, car la concision est meilleure.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 236
+			}
+		}
+	]
+}

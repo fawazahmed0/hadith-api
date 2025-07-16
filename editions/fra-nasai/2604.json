@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2604,
+			"arabicnumber": 2604,
+			"text": "Rapporté par Ibn As-Sa'idi Al-Maliki : ‘Umar bin Al-Khattab, رضي الله عنه, m’a nommé responsable de la Sadaqah. Quand j’ai fini de la collecter et que je la lui ai remise, il a ordonné qu’on me donne une part. Je lui ai dit : « Je l’ai fait uniquement pour Allah, le Puissant et Majestueux, et ma récompense sera auprès d’Allah. » Il a dit : « Prends ce que je t’ai donné. J’ai fait la même chose à l’époque du Messager d’Allah, et j’ai dit ce que tu viens de dire, mais le Messager d’Allah m’a dit : “Si on te donne quelque chose sans que tu l’aies demandé, alors garde-en une partie et donne l’autre en aumône.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 170
+			}
+		}
+	]
+}

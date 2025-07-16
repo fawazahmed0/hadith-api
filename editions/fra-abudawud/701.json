@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 701,
+			"arabicnumber": 701,
+			"text": "Rapporté par Abu Juhaim رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si celui qui passe devant une personne en prière savait la faute qu’il commet, il préférerait rester immobile quarante… plutôt que de passer devant elle. » Abu al-Nadr a dit : Je ne sais pas s’il a dit quarante jours, ou mois, ou années. Abu Dawud : Sufyan al-Thawri a dit : « Si un homme passe fièrement devant moi pendant que je prie, je l’arrête, mais si c’est une personne faible, je ne l’arrête pas. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (510) Sahih Muslim (507)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 311
+			}
+		}
+	]
+}

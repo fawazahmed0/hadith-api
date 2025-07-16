@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 461,
+			"arabicnumber": 461,
+			"text": "Rapporté par Anas ibn Malik : Le Prophète ﷺ a dit : « Les récompenses de ma communauté m’ont été présentées, jusqu’à la récompense pour avoir retiré une poussière de la mosquée. Les péchés de ma communauté m’ont aussi été présentés. Je n’ai pas trouvé de péché plus grave que celui d’oublier une sourate ou un verset du Coran qu’on avait mémorisé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 71
+			}
+		}
+	]
+}

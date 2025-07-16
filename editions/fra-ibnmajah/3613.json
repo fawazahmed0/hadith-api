@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"32": "Chapters on Dress"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3550,
+				"hadithnumber_last": 3656,
+				"arabicnumber_first": 3550,
+				"arabicnumber_last": 3656
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3613,
+			"arabicnumber": 3613,
+			"text": "Rapporté par ‘Abdullah bin ‘Ukaym : Nous avons reçu une lettre du Prophète ﷺ disant : “N’utilisez pas la peau ni les tendons d’animaux morts s’ils ne sont pas tannés.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 64
+			}
+		}
+	]
+}

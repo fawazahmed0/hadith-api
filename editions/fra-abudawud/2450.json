@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2450,
+			"arabicnumber": 2450,
+			"text": "Rapporté par Abdullah ibn Mas’ud رضي الله عنه : Le Messager d’Allah ﷺ jeûnait trois jours chaque mois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 138
+			}
+		}
+	]
+}

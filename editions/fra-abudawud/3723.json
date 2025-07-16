@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3723,
+			"arabicnumber": 3723,
+			"text": "Rapporté par Ibn Abi Laila رضي الله عنه : Lorsque Hudhayfah était à al-Mada’in, il a demandé de l’eau. Un paysan lui a apporté un récipient en argent. Il l’a jeté et a dit : « Je l’ai jeté parce que je lui avais interdit, mais il n’a pas arrêté. Le Messager d’Allah ﷺ a interdit de porter de la soie ou du brocart, et de boire dans des récipients en or ou en argent. Il a dit : “D’autres les auront dans cette vie, et vous les aurez dans l’au-delà.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5632) Sahih Muslim (2067)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 55
+			}
+		}
+	]
+}

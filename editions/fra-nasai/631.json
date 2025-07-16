@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 631,
+			"arabicnumber": 631,
+			"text": "Rapporté par Abu Mahdhurah : Le Messager d’Allah (ﷺ) m’a appris l’Adhan et a dit : « Allahu Akbar, Allahu Akbar, Allahu Akbar, Allahu Akbar ; Ashhadu an la ilaha illallah, Ashhadu an la ilaha illallah ; Ashhadu anna Muhammadan Rasulallah, Ashhadu anna Muhammadan Rasulallah (Allah est le plus Grand, Allah est le plus Grand, Allah est le plus Grand, Allah est le plus Grand ; J’atteste qu’il n’y a pas d’autre divinité qu’Allah, J’atteste qu’il n’y a pas d’autre divinité qu’Allah ; J’atteste que Muhammad est le Messager d’Allah, J’atteste que Muhammad est le Messager d’Allah). » Puis il a répété et dit : « Ashhadu an la ilaha illallah, Ashhadu an la ilaha illallah ; Ashhadu anna Muhammadan Rasulallah, Ashhadu anna Muhammadan Rasulallah ; Hayya 'alas-salah, Hayya 'ala-salah ; Hayya 'alal-falah, Hayya 'alal-falah ; Allahu Akbar, Allahu Akbar ; La ilaha ill-Allah (J’atteste qu’il n’y a pas d’autre divinité qu’Allah, J’atteste qu’il n’y a pas d’autre divinité qu’Allah ; J’atteste que Muhammad est le Messager d’Allah, J’atteste que Muhammad est le Messager d’Allah ; Venez à la prière, venez à la prière ; venez au succès, venez au succès ; Allah est le plus Grand, Allah est le plus Grand ; il n’y a pas d’autre divinité qu’Allah). »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 6
+			}
+		}
+	]
+}

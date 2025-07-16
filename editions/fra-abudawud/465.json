@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 465,
+			"arabicnumber": 465,
+			"text": "Rapporté par Abu Usaid al-Ansari : Le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous entre dans la mosquée, qu’il invoque la bénédiction sur le Prophète ﷺ, puis qu’il dise : “Ô Allah, ouvre-moi les portes de Ta miséricorde.” Et quand il sort, qu’il dise : “Ô Allah, je Te demande de Ta générosité.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih Sahih Muslim (713)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 75
+			}
+		}
+	]
+}

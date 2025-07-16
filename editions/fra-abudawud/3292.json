@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 3242,
+				"hadithnumber_last": 3325,
+				"arabicnumber_first": 3242,
+				"arabicnumber_last": 3325
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3292,
+			"arabicnumber": 3292,
+			"text": "Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Il ne faut pas faire de vœu pour un acte de désobéissance, et l’expiation pour cela est la même que pour un serment. » Ahmad b. Muhammad al-Marwazi a dit : La chaîne correcte de cette tradition est : ‘Ali b. al-Mubarak, de Yahya b. Abi Kathir, de Muhammad b. al-Zubair, de son père, d’après ‘Imran b. Husain, du Prophète ﷺ. Abu Dawud a dit : Par cela, il (al-Marwazi) veut dire que le narrateur Sulaiman b. Arqam s’est trompé à propos de cette tradition. Al-Zuhri l’a rapportée de lui puis l’a transmise (en omettant son nom) d’Abu Salamah, d’après Aishah. Abu Dawud a dit : Baqiyyah l’a transmise d’al-Awza’i, de Yahya, de Muhammad b. al-Zubair avec une chaîne similaire à celle d’Ibn al-Mubarak",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 51
+			}
+		}
+	]
+}

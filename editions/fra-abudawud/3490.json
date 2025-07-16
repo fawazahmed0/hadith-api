@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3490,
+			"arabicnumber": 3490,
+			"text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Lorsque les derniers versets de la sourate al-Baqarah ont été révélés, le Messager d’Allah ﷺ est sorti et nous les a récités, puis il a dit : « Le commerce du vin a été interdit. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2226) Sahih Muslim (1580)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 75
+			}
+		}
+	]
+}

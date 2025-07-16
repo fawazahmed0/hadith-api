@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4565,
+			"arabicnumber": 4565,
+			"text": "Rapporté par Sulaiman bin Ali : Abu Al-Mutawakkil est passé près d'eux au marché et certaines personnes, dont moi, se sont levées pour le saluer. Nous lui avons dit : \"Nous sommes venus te demander au sujet des transactions.\" Il a dit : \"J'ai entendu un homme dire à Abu Saeed Al-Khudri : 'Y a-t-il quelqu'un entre toi et le Messager d'Allah ﷺ (dans la chaîne des rapporteurs) à part Abu Saeed Al-Khudri ?' Il a répondu : 'Il n'y a personne d'autre entre lui et moi.' Il a dit : Or contre or, argent contre argent, blé contre blé, orge contre orge, dattes contre dattes, sel contre sel, quantités égales. Celui qui donne plus ou prend plus a pratiqué le riba, et celui qui donne et celui qui prend sont pareils",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 117
+			}
+		}
+	]
+}

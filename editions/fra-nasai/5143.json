@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5143,
+			"arabicnumber": 5143,
+			"text": "Rapporté par ‘Aishah : Le Messager d’Allah ﷺ l’a vue porter deux bracelets en or. Le Messager d’Allah ﷺ a dit : « Veux-tu que je te dise quelque chose de meilleur que cela ? Pourquoi ne retires-tu pas ceux-ci pour porter deux bracelets en argent, que tu pourras teindre en jaune avec du safran ? Ils seront tout aussi jolis. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 104
+			}
+		}
+	]
+}

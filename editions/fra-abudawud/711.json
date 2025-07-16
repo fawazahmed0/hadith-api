@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 711,
+			"arabicnumber": 711,
+			"text": "Rapporté par ‘Urwah d’après ‘Aisha رضي الله عنها : Le Messager d’Allah ﷺ priait la nuit et elle (‘Aisha) était allongée entre lui et la qiblah, dormant sur le lit où il dormait. Quand il voulait accomplir la prière du witr, il la réveillait et elle priait le witr",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (512) Sahih Muslim (512)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 321
+			}
+		}
+	]
+}

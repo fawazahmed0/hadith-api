@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"13": "The Chapters on Rulings"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2308,
+				"hadithnumber_last": 2374,
+				"arabicnumber_first": 2308,
+				"arabicnumber_last": 2374
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2366,
+			"arabicnumber": 2366,
+			"text": "Rapporté par 'Amr bin Shuaib, d’après son père, de la part de son grand-père : “Le témoignage d’un homme ou d’une femme qui est traître, ou de quelqu’un qui a subi une des peines prévues par l’islam, ou de quelqu’un qui a de la rancune envers son frère, n’est pas accepté.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 59
+			}
+		}
+	]
+}

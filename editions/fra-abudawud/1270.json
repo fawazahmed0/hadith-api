@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1270,
+			"arabicnumber": 1270,
+			"text": "Rapporté par Abu Ayyub رضي الله عنه : Le Prophète ﷺ a dit : « Les portes du ciel s’ouvrent pour quatre unités sans salutation finale avant la prière du midi. » Abu Dawud a dit : Yahya b. Sa’id al-Qattan a dit : Si je devais rapporter une tradition de ‘Ubaidah, ce serait celle-ci. Abu Dawud a dit : ‘Ubaidah est faible. Abu Dawud a dit : Le nom du rapporteur Ibn Minjab est Sahm",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 21
+			}
+		}
+	]
+}

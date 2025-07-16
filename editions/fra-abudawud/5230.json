@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5230,
+			"arabicnumber": 5230,
+			"text": "Rapporté par Abu Umamah رضي الله عنه : Le Messager d’Allah ﷺ est sorti vers nous en s’appuyant sur un bâton. Nous nous sommes levés pour lui montrer du respect. Il a dit : « Ne vous levez pas comme le font les étrangers pour se montrer du respect les uns aux autres. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 458
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2158,
+			"arabicnumber": 2158,
+			"text": "Rapporté par Ubayy bin Ka'b : J’ai enseigné le Coran à un homme, et il m’a donné un arc. J’en ai parlé au Messager d’Allah (ﷺ) et il a dit : \"Si tu l’acceptes, tu acceptes un arc de feu.\" Alors je l’ai rendu",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 22
+			}
+		}
+	]
+}

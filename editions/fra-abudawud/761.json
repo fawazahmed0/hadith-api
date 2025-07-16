@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 761,
+			"arabicnumber": 761,
+			"text": "Rapporté par Ali b. Ali Talib رضي الله عنه : Lorsque le Messager d’Allah ﷺ se levait pour accomplir la prière obligatoire, il prononçait le takbir (Allah est le plus grand) et levait les mains à hauteur des épaules. Il faisait de même à la fin de la récitation (du Coran) et au moment de s’incliner, et il levait aussi les mains quand il se relevait de l’inclinaison. Il ne levait pas les mains pendant la prière quand il était assis. Quand il se relevait après deux rak‘as, il levait les mains de la même manière, prononçait le takbir et faisait des invocations similaires à celles rapportées dans la version de ‘Abd al-‘Aziz. Cette version ne mentionne pas les mots : « Tout le bien est entre Tes mains et le mal ne vient pas de Toi. » Et elle ajoute : Quand il terminait la prière, il disait : « Ô Allah, pardonne-moi mes péchés passés et futurs, mes péchés cachés et apparents ; Tu es ma divinité, il n’y a de dieu que Toi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 371
+			}
+		}
+	]
+}

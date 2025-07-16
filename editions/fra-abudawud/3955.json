@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3955,
+			"arabicnumber": 3955,
+			"text": "Jabir ibn Abd Allah a dit : « Un homme a déclaré que son esclave serait libre après sa mort, mais il n’avait pas d’autre bien. Le Prophète ﷺ a donc ordonné de le vendre. Il a été vendu pour sept cents ou neuf cents (dirhams). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2230) Sahih Muslim (997 After 1668)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 30
+			}
+		}
+	]
+}

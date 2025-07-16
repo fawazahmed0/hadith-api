@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1577,
+			"arabicnumber": 1577,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Si tu dis à ton compagnon : “Tais-toi et écoute” pendant que l’imam prononce le sermon, tu as commis une parole inutile. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 22
+			}
+		}
+	]
+}

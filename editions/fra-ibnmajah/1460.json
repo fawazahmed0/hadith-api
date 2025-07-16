@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1460,
+			"arabicnumber": 1460,
+			"text": "Rapporté par ‘Ali : Le Prophète (ﷺ) m’a dit : « Ne montre pas ta cuisse, et ne regarde pas la cuisse de qui que ce soit, vivant ou mort. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 28
+			}
+		}
+	]
+}

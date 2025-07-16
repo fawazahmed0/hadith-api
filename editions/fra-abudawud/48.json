@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 48,
+			"arabicnumber": 48,
+			"text": "Rapporté par Abdullah ibn Abdullah ibn Umar : Muhammad ibn Yahya ibn Habban a demandé à Abdullah ibn Abdullah ibn Umar pourquoi Ibn Umar faisait ses ablutions avant chaque prière, qu’il ait ou non déjà les ablutions. Il a répondu : Asma’, fille de Zayd ibn al-Khattab, m’a rapporté qu’Abdullah ibn Hanzalah ibn Abu Amir lui avait dit que le Messager d’Allah ﷺ avait d’abord reçu l’ordre de faire les ablutions avant chaque prière, qu’il les ait ou non. Quand cela est devenu difficile pour lui, il a reçu l’ordre d’utiliser le siwak à chaque prière. Comme Ibn Umar pensait avoir la force de faire les ablutions avant chaque prière, il n’a jamais abandonné cette pratique. Abu Dawud a dit : Ibrahim ibn Sa’d a rapporté ce hadith d’après Muhammad ibn Ishaq, et il y mentionne le nom de ‘Ubaid Allah ibn Abdullah (au lieu de ‘Abd Allah ibn ‘Abd Allah ibn Umar)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 48
+			}
+		}
+	]
+}

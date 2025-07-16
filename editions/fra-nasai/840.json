@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 840,
+			"arabicnumber": 840,
+			"text": "Rapporté par Abu Sa'eed : Le Messager d'Allah (ﷺ) a dit : \"S'il y a trois personnes, que l'une d'elles dirige la prière, et celui qui connaît le mieux le Coran a le plus de droit de diriger la prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 64
+			}
+		}
+	]
+}

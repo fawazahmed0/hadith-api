@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"27": "Chapters on Slaughtering"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3162,
+				"hadithnumber_last": 3199,
+				"arabicnumber_first": 3162,
+				"arabicnumber_last": 3199
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3182,
+			"arabicnumber": 3182,
+			"text": "Rapporté par un fils de Ka’b bin Malik, de la part de son père : Une femme a abattu une brebis avec une pierre, et cela a été rapporté au Messager d’Allah (ﷺ), mais il n’a rien trouvé à redire à cela",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 21
+			}
+		}
+	]
+}

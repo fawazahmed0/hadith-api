@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"30": "Chapters on Drinks"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3371,
+				"hadithnumber_last": 3435,
+				"arabicnumber_first": 3371,
+				"arabicnumber_last": 3435
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3389,
+			"arabicnumber": 3389,
+			"text": "Rapporté par Mu’awiyah : J’ai entendu le Messager d’Allah (ﷺ) dire : « Toute substance enivrante est interdite à tout croyant. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 19
+			}
+		}
+	]
+}

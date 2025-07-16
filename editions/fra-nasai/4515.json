@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4515,
+			"arabicnumber": 4515,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri : Le Messager d’Allah ﷺ a interdit deux types de vêtements et deux types de transactions. Quant aux deux types de transactions, ce sont Mulamash et Munabadha. Munabadha, c’est quand un homme dit : \"Je lance ce vêtement, et la vente devient définitive\", et Mulamasah, c’est quand un homme touche le vêtement sans l’étaler ni le vérifier, et dès qu’il le touche, la vente est conclue",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 67
+			}
+		}
+	]
+}

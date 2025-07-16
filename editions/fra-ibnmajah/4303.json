@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4303,
+			"arabicnumber": 4303,
+			"text": "Rapporté par Abu Sallam Al-Habashi : ‘Umar ibn ‘Abdul-‘Aziz m’a fait venir, et je suis venu à lui sur l’animal utilisé pour le courrier rapide. Quand je suis arrivé, il m’a dit : “Nous t’avons causé des désagréments, ô Abu Sallam.” J’ai répondu : “Oui, par Allah, ô Commandeur des Croyants !” Il a dit : “Par Allah, nous ne voulions pas te causer de peine, mais il y a un hadith que j’ai entendu dire que tu rapportes de Thawban, l’affranchi du Messager d’Allah (ﷺ), à propos du bassin, et je voulais l’entendre directement de toi.” J’ai dit : “Thawban, l’affranchi du Messager d’Allah (ﷺ), m’a raconté que le Messager d’Allah (ﷺ) a dit : ‘Mon bassin est (plus large que) la distance entre Aïlah et Aden. Il est plus blanc que le lait et plus doux que le miel, et ses coupes sont aussi nombreuses que les étoiles dans le ciel. Celui qui en boira n’aura plus jamais soif. Les premiers à venir y boire seront les pauvres Mouhajirines, avec des vêtements sales et les cheveux ébouriffés, qui n’épousent pas de femmes raffinées et à qui aucune porte n’est ouverte.’” ‘Umar a pleuré jusqu’à ce que sa barbe soit mouillée, puis il a dit : “Mais moi, j’ai épousé des femmes raffinées et des portes me sont ouvertes. Je ne laverai donc pas les vêtements que je porte jusqu’à ce qu’ils soient sales, et je ne peignerai pas mes cheveux jusqu’à ce qu’ils soient ébouriffés.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 204
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4614,
+			"arabicnumber": 4614,
+			"text": "Rapporté par 'Abdullah Ibn Abi Awfa à propos du paiement anticipé. Il a dit : \"Nous payions à l'avance à l'époque du Messager d'Allah, d'Abu Bakr et de 'Umar, pour du blé, de l'orge et des dattes, à des personnes dont nous ne savions pas si elles possédaient ces produits ou non.\" Ibn Abza a dit quelque chose de similaire",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 166
+			}
+		}
+	]
+}

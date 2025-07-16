@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3069,
+			"arabicnumber": 3069,
+			"text": "Rapporté par Asma’ bint Abu Bakr رضي الله عنها : Le Messager d’Allah ﷺ a accordé à az-Zubayr des palmiers comme fief",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 142
+			}
+		}
+	]
+}

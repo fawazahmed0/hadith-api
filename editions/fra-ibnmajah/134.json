@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 134,
+			"arabicnumber": 134,
+			"text": "Rapporté par Sa'eed bin Zaid : Je témoigne avoir entendu le Messager d’Allah ﷺ dire : \"Tiens bon, ô (montagne de) Hira, car il n’y a sur toi que des Prophètes, des véridiques ou des martyrs.\" Puis il les a cités : \"Le Messager d’Allah ﷺ, Abu Bakr, 'Umar, 'Uthman, 'Ali, Talhah, Zubair, Sa’d, Ibn 'Awf et Sa'eed bin Zaid",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 134
+			}
+		}
+	]
+}

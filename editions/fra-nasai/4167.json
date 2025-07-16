@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4167,
+			"arabicnumber": 4167,
+			"text": "Rapporté par Kathir bin Murrah : Abu Fatimah lui a dit qu’il avait demandé : \"Ô Messager d’Allah, indique-moi une action que je pourrais faire et poursuivre.\" Le Messager d’Allah lui a dit : \"Fais l’émigration, car il n’y a rien de comparable",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 19
+			}
+		}
+	]
+}

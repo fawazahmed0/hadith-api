@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3944,
+			"arabicnumber": 3944,
+			"text": "Le récit mentionné ci-dessus a aussi été transmis par Ibn ‘Umar رضي الله عنه du Prophète ﷺ, avec le même sens que celui rapporté par Ibrahim ibn Musa, mais par une autre chaîne",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2525) Sahih Muslim (1501)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 19
+			}
+		}
+	]
+}

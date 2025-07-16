@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 467,
+			"arabicnumber": 467,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : \"La première chose pour laquelle une personne sera jugée sera sa prière. Si elle est complète, tant mieux, sinon Allah dira : 'Regardez si Mon serviteur a fait des prières volontaires.' S’il en a fait, ses prières obligatoires seront complétées avec elles",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 20
+			}
+		}
+	]
+}

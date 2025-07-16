@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 694,
+			"arabicnumber": 694,
+			"text": "Rapporté par Buraidah Al-Aslami : Nous étions avec le Messager d'Allah ﷺ lors d'une expédition, et il a dit : \"Dépêchez-vous de faire la prière un jour nuageux, car celui qui manque la prière du 'Asr, toutes ses bonnes actions seront perdues",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 28
+			}
+		}
+	]
+}

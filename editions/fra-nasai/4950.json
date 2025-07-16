@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"46": "The Book of Cutting off the Hand of the Thief"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 4870,
+				"hadithnumber_last": 4984,
+				"arabicnumber_first": 4870,
+				"arabicnumber_last": 4984
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4950,
+			"arabicnumber": 4950,
+			"text": "Rapporté par 'Ata bin Abi Rabah : 'Abdullah bin 'Abbas disait : \"Son prix à cette époque était de dix dirhams",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 46,
+				"hadith": 80
+			}
+		}
+	]
+}

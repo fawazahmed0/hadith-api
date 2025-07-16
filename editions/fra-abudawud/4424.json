@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4424,
+			"arabicnumber": 4424,
+			"text": "Shu’bah a dit : J’ai demandé à Simak la signification de KUTHBAH. Il a dit : « Une petite quantité de lait. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 74
+			}
+		}
+	]
+}

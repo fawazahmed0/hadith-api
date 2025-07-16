@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"34": "Supplication"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3827,
+				"hadithnumber_last": 3892,
+				"arabicnumber_first": 3827,
+				"arabicnumber_last": 3892
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3827,
+			"arabicnumber": 3827,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah (ﷺ) a dit : « Celui qui n'invoque pas Allah, Il se met en colère contre lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 1
+			}
+		}
+	]
+}

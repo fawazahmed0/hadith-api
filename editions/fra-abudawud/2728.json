@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2728,
+			"arabicnumber": 2728,
+			"text": "Yazid ibn Hurmuz a dit : « Najdah Al Hururi a écrit à Ibn Abbas pour lui demander si les femmes participaient aux batailles avec le Messager d’Allah ﷺ et si elles recevaient une part du butin. J’ai écrit une lettre à Najdah au nom d’Ibn Abbas : elles participaient effectivement aux batailles avec le Messager d’Allah ﷺ, mais aucune part ne leur était attribuée ; elles recevaient seulement un petit quelque chose. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 252
+			}
+		}
+	]
+}

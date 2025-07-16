@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2381,
+			"arabicnumber": 2381,
+			"text": "Rapporté par Mutarrif bin 'Abdullah bin Ash-Shikhkhir, d'après son père : Le Messager d'Allah ﷺ a dit, à propos de celui qui jeûnait toute sa vie : \"Il n'a ni jeûné ni rompu son jeûne.\" 'Ata a ajouté : \"Quelqu'un qui l'a entendu m'a dit qu'Ibn 'Umar a rapporté que le Prophète ﷺ a dit : Celui qui jeûne tous les jours de sa vie, alors il n'a pas vraiment jeûné",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 292
+			}
+		}
+	]
+}

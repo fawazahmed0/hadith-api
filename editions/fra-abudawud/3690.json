@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3690,
+			"arabicnumber": 3690,
+			"text": "Ibn ‘Umar et Ibn ‘Abbas ont dit : « Nous attestons que le Messager d’Allah ﷺ a interdit l’utilisation des gourdes, des jarres vertes, des récipients enduits de poix et des troncs de palmier évidés. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1997)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 22
+			}
+		}
+	]
+}

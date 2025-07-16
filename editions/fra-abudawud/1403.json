@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"7": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1401,
+				"hadithnumber_last": 1415,
+				"arabicnumber_first": 1401,
+				"arabicnumber_last": 1415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1403,
+			"arabicnumber": 1403,
+			"text": "Rapporté par Abdullah ibn Abbas : Le Messager d’Allah ﷺ ne faisait aucune prosternation à aucun verset dans al-Mufassal depuis son arrivée à Médine",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 3
+			}
+		}
+	]
+}

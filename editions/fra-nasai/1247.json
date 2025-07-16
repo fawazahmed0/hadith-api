@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1247,
+			"arabicnumber": 1247,
+			"text": "Rapporté par Ibrahim : Ils disaient : \"Si on n’est pas sûr de ce qu’on estime correct, alors qu’on se prosterne deux fois",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 69
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2950,
+			"arabicnumber": 2950,
+			"text": "Rapporté par Ubaid ibn Juraij : J’ai dit à Ibn Umar : « Je vois que tu touches seulement ces deux coins yéménites. » Il a répondu : « Je n’ai vu le Messager d’Allah toucher que ces deux coins. » Ceci en est un résumé",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 333
+			}
+		}
+	]
+}

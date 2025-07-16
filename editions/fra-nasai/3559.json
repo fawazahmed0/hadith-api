@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3559,
+			"arabicnumber": 3559,
+			"text": "Rapporté par Ibn Tawus, d’après son père : Il a entendu 'Abdullah bin 'Umar interrogé sur un homme qui divorce de sa femme pendant ses règles. Il a dit : \"Connais-tu 'Abdullah bin 'Umar ?\" Il a répondu : \"Oui.\" Il a dit : \"Il a divorcé de sa femme pendant ses règles, et 'Umar est allé voir le Prophète pour lui raconter cela. Le Prophète lui a ordonné de la reprendre jusqu’à ce qu’elle soit purifiée,\" et je ne l’ai pas entendu ajouter autre chose",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 173
+			}
+		}
+	]
+}

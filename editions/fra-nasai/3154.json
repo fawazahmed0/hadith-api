@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3154,
+			"arabicnumber": 3154,
+			"text": "Rapporté par 'Amr : J’ai entendu Jabir dire : Un homme a dit le jour de Uhud : « Si je suis tué dans la voie d’Allah, où penses-tu que j’irai ? » Il répondit : « Au Paradis. » Il jeta alors les dattes qu’il avait dans la main et se battit jusqu’à être tué",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 70
+			}
+		}
+	]
+}

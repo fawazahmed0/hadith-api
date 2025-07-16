@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 919,
+			"arabicnumber": 919,
+			"text": "Rapporté par Abu Qatadah al-Ansari رضي الله عنه : J’ai vu le Messager d’Allah ﷺ diriger la prière en portant Umamah, la fille d’Abu al-‘As, sur son cou (épaule). Quand il se prosternait, il la posait. Abu Dawud a précisé : Le rapporteur Makhramah n’a entendu de son père qu’un seul hadith",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (543)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 530
+			}
+		}
+	]
+}

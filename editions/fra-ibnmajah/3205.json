@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"28": "Chapters on Hunting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3200,
+				"hadithnumber_last": 3250,
+				"arabicnumber_first": 3200,
+				"arabicnumber_last": 3250
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3205,
+			"arabicnumber": 3205,
+			"text": "Rapporté par ‘Abdullah bin Mughaffal : Le Messager d’Allah (ﷺ) a dit : « Si les chiens n’étaient pas une communauté parmi les créatures, j’aurais ordonné qu’on les tue. Mais tuez ceux qui sont entièrement noirs. Il n’y a pas de gens qui gardent un chien, sauf pour garder les troupeaux, la chasse ou l’agriculture, sans que deux Qirat ne soient retirées de leur récompense chaque jour. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 6
+			}
+		}
+	]
+}

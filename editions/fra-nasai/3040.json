@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3040,
+			"arabicnumber": 3040,
+			"text": "Rapporté par Urwah bin Mudarris : Le Messager d’Allah a dit : \"Celui qui rattrape la prière du Fajr à Jam (Al-Muzdalifah) avec l’imam et les gens (et reste là) jusqu’à ce qu’ils partent, alors il a accompli le Hajj. Celui qui ne rejoint pas l’imam et les gens, alors il ne l’a pas accompli",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 423
+			}
+		}
+	]
+}

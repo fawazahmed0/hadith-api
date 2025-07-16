@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"45": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+		},
+		"section_detail": {
+			"45": {
+				"hadithnumber_first": 4706,
+				"hadithnumber_last": 4869,
+				"arabicnumber_first": 4706,
+				"arabicnumber_last": 4869
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4848,
+			"arabicnumber": 4848,
+			"text": "Rapporté par Ibn 'Abbas : \"Celui-ci et celui-là sont égaux : le petit doigt et le pouce.\" (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 45,
+				"hadith": 143
+			}
+		}
+	]
+}

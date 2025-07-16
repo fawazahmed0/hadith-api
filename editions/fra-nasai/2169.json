@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2169,
+			"arabicnumber": 2169,
+			"text": "Rapporté par ‘Adiyy bin Hatim : Il a interrogé le Messager d’Allah ﷺ au sujet du verset : \"Jusqu’à ce que le fil blanc de l’aube vous apparaisse distinct du fil noir de la nuit.\" Il a dit : \"C’est la noirceur de la nuit et la blancheur du jour",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 80
+			}
+		}
+	]
+}

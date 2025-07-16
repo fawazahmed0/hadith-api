@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 677,
+			"arabicnumber": 677,
+			"text": "Rapporté par 'Alqamah bin Waqqas : J'étais avec Mu'awiyah quand le muezzin a appelé à la prière. Mu'awiyah répétait ce que disait le muezzin, mais quand il disait : \"Hayya 'alas-salah\" (Venez à la prière), il répondait : \"La hawla wa la quwwata illa Billah\" (Il n'y a de force ni de puissance qu'en Allah) ; et quand il disait : \"Hayya 'alal-falah\" (Venez au succès), il répondait aussi : \"La hawla wa la quwwata illa Billah\". Après cela, il répétait ce que disait le muezzin, puis il a dit : \"J'ai entendu le Messager d'Allah (ﷺ) faire exactement ainsi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 52
+			}
+		}
+	]
+}

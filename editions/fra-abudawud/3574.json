@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3574,
+			"arabicnumber": 3574,
+			"text": "Il a été rapporté que ‘Amr bin Al-‘As رضي الله عنه a dit : Le Messager d’Allah ﷺ a dit : « Si un juge rend un jugement après avoir fait des efforts pour trouver la vérité et qu’il a raison, il aura deux récompenses. S’il rend un jugement après avoir fait des efforts mais se trompe, il aura une seule récompense. » Je l’ai rapporté à Abu Bakr bin Hazm et il a dit : « C’est ce qu’Abu Salamah m’a rapporté de la part d’Abu Hurairah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (7352) Sahih Muslim (1716)"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 4
+			}
+		}
+	]
+}

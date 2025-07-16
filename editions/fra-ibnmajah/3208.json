@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"28": "Chapters on Hunting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3200,
+				"hadithnumber_last": 3250,
+				"arabicnumber_first": 3200,
+				"arabicnumber_last": 3250
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3208,
+			"arabicnumber": 3208,
+			"text": "Rapporté par ‘Adi bin Hatim : J’ai demandé au Messager d’Allah (ﷺ) : « Nous sommes des gens qui chassent avec ces chiens. » Il a dit : « Si tu envoies tes chiens dressés et que tu prononces le nom d’Allah sur eux, alors mange ce qu’ils attrapent, même s’ils le tuent, sauf si le chien en a mangé. Si le chien en a mangé, ne le mange pas, car je crains qu’il ne l’ait attrapé pour lui-même. Et si un autre chien s’en mêle, ne le mange pas. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 9
+			}
+		}
+	]
+}

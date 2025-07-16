@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 798,
+			"arabicnumber": 798,
+			"text": "Rapporté par 'Umar bin Khattab : Le Prophète ﷺ disait : « Celui qui prie en groupe à la mosquée pendant quarante nuits sans manquer la première unité de la prière du ‘Isha, Allah lui accordera le salut contre le Feu. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Mawdu"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 64
+			}
+		}
+	]
+}

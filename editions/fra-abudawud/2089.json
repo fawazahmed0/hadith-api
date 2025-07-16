@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2089,
+			"arabicnumber": 2089,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : À propos du verset coranique : « Il ne vous est pas permis d’hériter des femmes contre leur gré, ni de leur faire du tort. » Lorsqu’un homme mourait, ses proches avaient plus de droits sur sa femme que son propre tuteur. Si l’un d’eux voulait l’épouser, il le faisait ; ou ils la mariaient à quelqu’un d’autre, et s’ils ne voulaient pas, ils la laissaient ainsi. Ce verset a donc été révélé à ce sujet",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (4579، 6948)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 44
+			}
+		}
+	]
+}

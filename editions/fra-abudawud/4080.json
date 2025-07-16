@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4080,
+			"arabicnumber": 4080,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Messager d’Allah ﷺ a interdit deux façons de porter un vêtement : qu’un homme s’assoie dans un seul habit en entourant ses genoux avec ses mains, exposant ainsi ses parties intimes vers le ciel, et qu’il porte son vêtement en laissant un côté découvert, en le posant seulement sur ses épaules",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 61
+			}
+		}
+	]
+}

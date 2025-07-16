@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2510,
+			"arabicnumber": 2510,
+			"text": "Abu Sa’id Al Khudri رضي الله عنه a dit : « Le Messager d’Allah ﷺ a envoyé une expédition contre les Banu Lihyan et a dit : “Que l’un de deux parte.” Puis il a dit à ceux qui restaient : “Si l’un d’entre vous prend soin de la famille et des biens d’un combattant, il recevra la moitié de la récompense de celui qui part (au jihad).” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1896)"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 34
+			}
+		}
+	]
+}

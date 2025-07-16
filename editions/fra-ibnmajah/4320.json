@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4320,
+			"arabicnumber": 4320,
+			"text": "Rapporté par Abu Hurayrah : Le Prophète (ﷺ) a dit : “Le Feu de l’Enfer a été allumé pendant mille ans jusqu’à devenir blanc. Puis il a été allumé pendant mille ans de plus et il est devenu rouge. Ensuite, il a encore été allumé pendant mille ans et il est devenu noir. Il est donc noir comme la nuit la plus sombre.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 221
+			}
+		}
+	]
+}

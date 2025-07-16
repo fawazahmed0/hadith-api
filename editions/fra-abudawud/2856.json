@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"17": "Game (Kitab Al-Said)"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 2844,
+				"hadithnumber_last": 2861,
+				"arabicnumber_first": 2844,
+				"arabicnumber_last": 2861
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2856,
+			"arabicnumber": 2856,
+			"text": "Rapporté par Abu Tha'labah al-Khushani : Le Messager d’Allah ﷺ m’a dit : « Abu Tha'labah, mange ce que ton arc ou ton chien te rapporte. » Selon la version d’Ibn Harb : « Le chien dressé, et ta main, alors mange, qu’il ait été égorgé ou non. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 13
+			}
+		}
+	]
+}

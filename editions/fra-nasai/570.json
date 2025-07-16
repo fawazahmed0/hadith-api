@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 570,
+			"arabicnumber": 570,
+			"text": "Rapporté par Ibn Tawus, d’après son père : ‘Aishah, رضي الله عنها, a dit : \"'Umar, رضي الله عنه, n’a pas raison ; en réalité, le Messager d’Allah (ﷺ) n’a interdit que ceci, comme il l’a dit : 'Ne cherchez pas intentionnellement à prier pendant que le soleil se lève ou pendant qu’il se couche, car il se lève entre les cornes d’un diable",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 77
+			}
+		}
+	]
+}

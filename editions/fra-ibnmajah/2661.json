@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"21": "The Chapters on Blood Money"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 2615,
+				"hadithnumber_last": 2694,
+				"arabicnumber_first": 2615,
+				"arabicnumber_last": 2694
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2661,
+			"arabicnumber": 2661,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d’Allah (ﷺ) a dit : \"Un père ne doit pas être tué à cause de son fils",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 47
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 196,
+			"arabicnumber": 196,
+			"text": "Rapporté par Abu Musa : Le Messager d'Allah ﷺ a dit : « Allah ne dort pas, et il ne convient pas qu'Il dorme. Il abaisse la Balance et la relève. Son Voile est la Lumière, et s'Il l'enlevait, la splendeur de Son Visage brûlerait toute Sa création, aussi loin que Son regard porte. » Puis Abu 'Ubaidah a récité le verset : « Béni soit celui qui est dans le feu (c'est-à-dire la lumière d'Allah) et ceux qui sont autour ! Et Gloire à Allah, le Seigneur de tout ce qui existe. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 196
+			}
+		}
+	]
+}

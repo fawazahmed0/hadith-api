@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 936,
+			"arabicnumber": 936,
+			"text": "Abu Huraira رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Quand l’imam dit “Amin”, dites aussi “Amin”, car si quelqu’un dit “Amin” en même temps que les anges, ses péchés passés lui seront pardonnés. » Ibn Shihab (al-Zuhri) a dit : Le Messager d’Allah ﷺ avait l’habitude de dire “Amin” (à la fin de la Fatiha)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (780) Sahih Muslim (410)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 547
+			}
+		}
+	]
+}

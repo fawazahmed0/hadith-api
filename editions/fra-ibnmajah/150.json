@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 150,
+			"arabicnumber": 150,
+			"text": "Rapporté par 'Abdullah bin Mas'ud : Les premiers à avoir déclaré publiquement leur islam étaient sept : Le Messager d’Allah ﷺ, Abu Bakr, 'Ammar et sa mère Sumayyah, Suhaib, Bilal et Miqdad. Pour le Messager d’Allah ﷺ, Allah l’a protégé grâce à son oncle paternel Abu Talib. Pour Abu Bakr, Allah l’a protégé grâce à son peuple. Quant aux autres, les idolâtres les ont capturés, leur ont fait porter des cottes de mailles et les ont exposés à la chaleur intense du soleil. Aucun d’eux n’a résisté à ce qu’on leur demandait, sauf Bilal. Il ne se souciait pas de ce qui lui arrivait pour Allah, et son peuple ne se souciait pas non plus de lui. Ensuite, ils l’ont donné aux enfants qui l’ont promené dans les rues de La Mecque pendant qu’il disait : \"Ahad, Ahad (Unique, Unique)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 150
+			}
+		}
+	]
+}

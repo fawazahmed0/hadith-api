@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 692,
+			"arabicnumber": 692,
+			"text": "Rapporté par Salim, d'après son père : Le Messager d'Allah (ﷺ) est entré dans la Maison (la Ka'bah) avec Usamah bin Zaid, Bilal et 'Uthman bin Talhah, et ils ont fermé la porte derrière eux. Quand le Messager d'Allah (ﷺ) a ouvert la porte, j'ai été le premier à entrer. J'ai rencontré Bilal et je lui ai demandé : \"Le Messager d'Allah (ﷺ) a-t-il prié à l'intérieur ?\" Il a répondu : \"Oui, il a prié entre les deux colonnes yéménites",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 5
+			}
+		}
+	]
+}

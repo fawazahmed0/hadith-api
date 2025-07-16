@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4125,
+			"arabicnumber": 4125,
+			"text": "Rapporté par Salamah ibn al-Muhabbaq رضي الله عنه : Lors de l’expédition de Tabuk, le Messager d’Allah ﷺ est arrivé dans une maison et, voyant un seau suspendu, a demandé de l’eau. Ils ont dit : « Messager d’Allah, l’animal est mort de mort naturelle. » Il répondit : « Son tannage est sa purification. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 106
+			}
+		}
+	]
+}

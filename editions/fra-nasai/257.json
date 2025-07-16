@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 257,
+			"arabicnumber": 257,
+			"text": "Rapporté par Abu Salamah d’après 'Aishah : Si le Messager d’Allah (ﷺ) voulait dormir alors qu’il était en état de grande impureté, il faisait les ablutions, et s’il voulait manger ou boire, elle a dit : \"il se lavait les mains puis mangeait ou buvait",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 258
+			}
+		}
+	]
+}

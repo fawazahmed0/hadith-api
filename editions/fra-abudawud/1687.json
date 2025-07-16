@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1687,
+			"arabicnumber": 1687,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand une femme donne quelque chose des biens gagnés par son mari sans qu’il le lui ait demandé, elle a la moitié de sa récompense. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5360) Sahih Muslim (1026)"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 132
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2437,
+			"arabicnumber": 2437,
+			"text": "Rapporté par ‘Abdur-Rahman ibn Ghanm, d’après Abou Malik Al-Ash‘ari : Le Messager d’Allah a dit : \"Compléter les ablutions est la moitié de la foi ; ‘Alhamdu lillah’ (louange à Allah) remplit la balance ; le Tasbih et le Takbir remplissent les cieux et la terre ; la prière est une lumière ; la Zakat est un signe (de sincérité) ; la patience est une torche lumineuse ; et le Coran est une preuve, soit pour toi, soit contre toi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 3
+			}
+		}
+	]
+}

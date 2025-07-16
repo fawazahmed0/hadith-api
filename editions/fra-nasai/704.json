@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 704,
+			"arabicnumber": 704,
+			"text": "Rapporté par 'Aishah : Umm Habibah et Umm Salamah ont parlé d’une église qu’elles avaient vue en Éthiopie, où il y avait des images. Le Messager d’Allah (ﷺ) a dit : \"Ces gens-là, quand un homme pieux mourait parmi eux, ils construisaient un lieu de culte sur sa tombe et y plaçaient des images. Ils seront les pires créatures devant Allah au Jour de la Résurrection",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 17
+			}
+		}
+	]
+}

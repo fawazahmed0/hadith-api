@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2959,
+			"arabicnumber": 2959,
+			"text": "Rapporté par Al-Muttalib bin Wadaah : « J’ai vu le Prophète ﷺ, lorsqu’il avait terminé ses sept tours de Tawaf ; il est venu au bord du Mataf et a prié deux unités de prière, sans rien entre lui et les gens qui faisaient le tour. » (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 342
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 190,
+			"arabicnumber": 190,
+			"text": "Rapporté par Talhah bin Khirash : J'ai entendu Jabir bin 'Abdullah dire : « Quand 'Abdullah bin 'Amr bin Haram a été tué le jour de Uhud, le Messager d'Allah ﷺ m'a rencontré et a dit : “Ô Jabir, veux-tu que je te dise ce qu'Allah a dit à ton père ?” Yahya a dit dans son hadith : “Et il a dit : ‘Ô Jabir, pourquoi te vois-je si triste ?’ J'ai dit : ‘Ô Messager d'Allah, mon père a été martyrisé et il a laissé des enfants et des dettes.’ Il a dit : ‘Veux-tu que je t'annonce la bonne nouvelle de ce qu'Allah a réservé à ton père ?’ J'ai dit : ‘Oui, ô Messager d'Allah.’ Il a dit : ‘Allah n'a jamais parlé à personne sauf derrière un voile, mais Il a parlé directement à ton père, et Il a dit : “Ô Mon serviteur ! Demande-Moi ce que tu veux, Je te l'accorderai.” Il a dit : “Ô Seigneur, fais-moi revenir à la vie pour que je sois tué une seconde fois dans Ta voie.” Le Seigneur, Glorifié soit-Il, a dit : “J'ai déjà décrété qu'ils ne retourneront pas à la vie.” Il a dit : “Mon Seigneur, alors transmets cette nouvelle à ceux que j'ai laissés derrière moi.” Allah a dit : “Ne pense pas que ceux qui sont tués dans la voie d'Allah sont morts. Non, ils sont vivants, auprès de leur Seigneur, et ils reçoivent leur subsistance.” » »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 190
+			}
+		}
+	]
+}

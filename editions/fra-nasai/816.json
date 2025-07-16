@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 816,
+			"arabicnumber": 816,
+			"text": "Rapporté par Jabir bin Samurah : Le Messager d’Allah (ﷺ) est venu vers nous et a dit : « Ne voulez-vous pas former des rangs comme les anges forment des rangs devant leur Seigneur ? » Ils ont demandé : « Comment les anges forment-ils des rangs devant leur Seigneur ? » Il a répondu : « Ils complètent le premier rang et comblent les espaces dans les rangs. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 40
+			}
+		}
+	]
+}

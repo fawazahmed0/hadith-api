@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4524,
+			"arabicnumber": 4524,
+			"text": "Rapporté par Jabir : Le Prophète ﷺ a interdit Mukhabarah, Muzabanah et Muhaqalah, ainsi que la vente des fruits avant qu’ils ne soient bons à manger, sauf dans le cas d’Araya",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 76
+			}
+		}
+	]
+}

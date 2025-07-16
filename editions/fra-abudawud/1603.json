@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1603,
+			"arabicnumber": 1603,
+			"text": "Rapporté par Attab ibn Usayd : Le Messager d’Allah ﷺ a ordonné d’estimer les vignes (pour la zakat) comme on estime les palmiers. La zakat doit être payée en raisins secs, comme la zakat des palmiers est payée en dattes sèches",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 48
+			}
+		}
+	]
+}

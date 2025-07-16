@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2506,
+			"arabicnumber": 2506,
+			"text": "Rapporté par Qais bin Sa'd bin 'Ubadah : Nous jeûnions le jour de ‘Ashura et nous donnions la Zakat al-Fitr. Quand l’ordre de jeûner le Ramadan et de donner la Zakat a été révélé, on ne nous a ni ordonné de continuer, ni interdit de le faire, alors nous avons continué à le faire",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 72
+			}
+		}
+	]
+}

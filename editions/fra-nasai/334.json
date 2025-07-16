@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"2": "The Book of Water"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 325,
+				"hadithnumber_last": 347,
+				"arabicnumber_first": 325,
+				"arabicnumber_last": 347
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 334,
+			"arabicnumber": 334,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) disait : \"Allahumma, lave mes fautes avec l’eau de la neige et de la grêle.\" [Cela se dit au début de la prière, comme cela est clair dans la suite du récit mentionné précédemment]",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 10
+			}
+		}
+	]
+}

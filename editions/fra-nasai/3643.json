@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3643,
+			"arabicnumber": 3643,
+			"text": "Rapporté par 'Amr bin Kharijah : Le Messager d'Allah a dit : \"Allah, Puissant est Son Nom, a donné à chaque personne qui a des droits ce qui lui revient, et il n'y a pas de legs pour un héritier",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 33
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 357,
+			"arabicnumber": 357,
+			"text": "Rapporté par Mu‘adhah : On a demandé à Aishah رضي الله عنها au sujet des vêtements d’une femme qui a ses règles et qui sont tachés de sang. Elle a répondu : « Elle doit les laver ; si la tache ne part pas, elle peut la recouvrir avec un peu de couleur jaune. J’ai eu trois menstruations d’affilée alors que je vivais avec le Messager d’Allah ﷺ, et je n’ai pas lavé mes vêtements. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 357
+			}
+		}
+	]
+}

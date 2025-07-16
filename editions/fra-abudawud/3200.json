@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3200,
+			"arabicnumber": 3200,
+			"text": "Ali ibn Shammakh a dit : J’étais présent avec Marwan qui a demandé à Abou Hourayra : « As-tu entendu comment le Messager d’Allah ﷺ priait sur les morts ? » Il a répondu : « Même avec les paroles que tu as dites. » (Le narrateur précise : Ils s’étaient disputés avant cela.) Abou Hourayra a dit : « Ô Allah, Tu es son Seigneur. Tu l’as créé, Tu l’as guidé vers l’islam, Tu as repris son âme et Tu connais mieux son intérieur et son extérieur. Nous sommes venus intercéder pour lui, alors pardonne-lui. » Abou Dawud a dit : Shu’bah s’est trompé sur le nom de Ali ibn Shammakh. Dans sa version, il a dit : Uthman ibn Shammas. Abou Dawud a dit : J’ai entendu Ahmad ibn Ibrahim al-Mawsili dire qu’Ahmad ibn Hanbal disait : À chaque réunion à laquelle j’ai assisté avec Hammad ibn Zayd, il interdisait de rapporter ce hadith de Abd al-Warith et Ja’far ibn Sulayman",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 112
+			}
+		}
+	]
+}

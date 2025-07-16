@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 56,
+			"arabicnumber": 56,
+			"text": "Rapporté par Abu Hurairah : Un bédouin s'est levé et a uriné dans la mosquée, et les gens ont commencé à crier. Le Messager d'Allah (ﷺ) leur a dit : « Laissez-le, et versez un seau d'eau sur son urine. Car vous avez été envoyés pour faciliter les choses aux gens, pas pour les rendre difficiles. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 56
+			}
+		}
+	]
+}

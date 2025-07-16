@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3500,
+			"arabicnumber": 3500,
+			"text": "Rapporté par Zainab bint Umm Salamah : Umm Habibah a dit : \"J’ai entendu le Messager d’Allah dire : Il n’est pas permis à une femme qui croit en Allah et au Jour dernier de porter le deuil pour quelqu’un qui meurt plus de trois jours, sauf pour son mari ; (elle porte le deuil pour lui) pendant quatre mois et dix jours",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 112
+			}
+		}
+	]
+}

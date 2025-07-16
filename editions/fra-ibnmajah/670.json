@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 670,
+			"arabicnumber": 670,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah a récité : \"Et récite le Coran à l'aube. En vérité, la récitation du Coran à l'aube est toujours assistée.\" Il a dit : \"Elle est assistée par les anges de la nuit et du jour",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 4
+			}
+		}
+	]
+}

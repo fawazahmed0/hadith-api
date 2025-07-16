@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2312,
+			"arabicnumber": 2312,
+			"text": "Mu’tamir a rapporté d’après son père Sa’id bin Al Hassan, expliquant le verset du Coran : « Mais si quelqu’un les y contraint, Allah est certes Pardonneur et Miséricordieux envers elles. » Il a dit : « Allah pardonne à celles (les esclaves) qui ont été forcées (à la prostitution). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 138
+			}
+		}
+	]
+}

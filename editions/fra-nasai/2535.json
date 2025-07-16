@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2535,
+			"arabicnumber": 2535,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : \"Donne en aumône.\" Un homme a dit : \"Ô Messager d’Allah, j’ai un dinar.\" Il a dit : \"Dépense-le pour toi-même.\" Il a dit : \"J’en ai un autre.\" Il a dit : \"Dépense-le pour ta femme.\" Il a dit : \"J’en ai un autre.\" Il a dit : \"Dépense-le pour ton fils.\" Il a dit : \"J’en ai un autre.\" Il a dit : \"Dépense-le pour ton serviteur.\" Il a dit : \"J’en ai un autre.\" Il a dit : \"Tu sais mieux quoi en faire",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 101
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"13": "The Chapters on Rulings"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2308,
+				"hadithnumber_last": 2374,
+				"arabicnumber_first": 2308,
+				"arabicnumber_last": 2374
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2337,
+			"arabicnumber": 2337,
+			"text": "Rapporté par Ibn 'Abbas : Le Prophète (ﷺ) a dit : “Aucun de vous ne doit refuser à son voisin de fixer une pièce de bois à son mur.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 30
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 163,
+			"arabicnumber": 163,
+			"text": "Ce récit a été transmis par une chaîne différente. Cette version ajoute : « J’ai toujours préféré laver le dessous des pieds jusqu’à ce que je voie le Messager d’Allah ﷺ passer la main mouillée sur le dessus. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 163
+			}
+		}
+	]
+}

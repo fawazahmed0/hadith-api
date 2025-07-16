@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2317,
+			"arabicnumber": 2317,
+			"text": "Rapporté par 'Ata d’après Ibn 'Abbas : À propos de ce verset : « Quant à ceux qui peuvent jeûner avec difficulté, (ils ont le choix soit de jeûner, soit de nourrir un pauvre chaque jour). » Cela signifie que ceux qui ont du mal à jeûner doivent nourrir un pauvre pour chaque jour. Mais celui qui fait plus de bien de son propre gré, cela signifie nourrir un autre pauvre. Ce verset n’est pas abrogé, et c’est mieux pour lui. Et : « Jeûner est meilleur pour vous » signifie qu’il n’y a de facilité à ce sujet que pour ceux qui ne peuvent pas jeûner ou qui sont incurablement malades",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 228
+			}
+		}
+	]
+}

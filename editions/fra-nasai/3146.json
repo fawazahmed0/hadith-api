@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3146,
+			"arabicnumber": 3146,
+			"text": "Rapporté par ‘Uqbah bin ‘Amir : Le Prophète (ﷺ) a dit : « Allah, le Tout-Puissant et Majestueux, fera entrer trois personnes au Paradis pour une seule flèche : celui qui la fabrique en ayant l’intention de faire le bien, celui qui la tire, et celui qui la passe à l’archer. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 62
+			}
+		}
+	]
+}

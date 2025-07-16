@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1699,
+			"arabicnumber": 1699,
+			"text": "Rapporté par Salman bin ‘Amr : Le Messager d’Allah (ﷺ) a dit : \"Quand l’un de vous rompt son jeûne, qu’il le fasse avec des dattes. S’il n’en trouve pas, alors qu’il rompe avec de l’eau, car c’est purifiant",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 62
+			}
+		}
+	]
+}

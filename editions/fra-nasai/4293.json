@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4293,
+			"arabicnumber": 4293,
+			"text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : « Le prix d’un chien, les honoraires d’un devin et le don d’une fornicatrice ne sont pas permis. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 31
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3192,
+			"arabicnumber": 3192,
+			"text": "Rapporté par Uqbah ibn Amir : Il y avait trois moments où le Messager d’Allah ﷺ nous interdisait de prier ou d’enterrer nos morts : lorsque le soleil commence à se lever jusqu’à ce qu’il soit bien haut, quand le soleil est à son zénith jusqu’à ce qu’il commence à décliner, et quand le soleil approche du coucher jusqu’à ce qu’il se couche, ou comme il l’a dit",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (831)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 104
+			}
+		}
+	]
+}

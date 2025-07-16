@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 56,
+			"arabicnumber": 56,
+			"text": "Rapporté par 'Abdullah bin 'Amr bin 'As : J’ai entendu le Messager d’Allah (ﷺ) dire : \"Les affaires des Enfants d’Israël sont restées justes jusqu’à ce que des Muwalladun apparaissent parmi eux – les enfants d’esclaves venues d’autres peuples. Ils ont commencé à donner leurs propres avis (dans les questions religieuses), alors ils se sont égarés et ont égaré les autres",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 56
+			}
+		}
+	]
+}

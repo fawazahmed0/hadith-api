@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"35": "Combing the Hair (Kitab Al-Tarajjul)"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 4159,
+				"hadithnumber_last": 4213,
+				"arabicnumber_first": 4159,
+				"arabicnumber_last": 4213
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4180,
+			"arabicnumber": 4180,
+			"text": "Rapporté par Ammar ibn Yasir رضي الله عنه : Le Prophète ﷺ a dit : « Les anges ne s’approchent pas de trois catégories : le corps d’un mécréant, celui qui s’enduit de khaluq, et celui qui est en état d’impureté majeure, sauf s’il fait les ablutions. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 22
+			}
+		}
+	]
+}

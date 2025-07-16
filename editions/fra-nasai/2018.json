@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2018,
+			"arabicnumber": 2018,
+			"text": "Rapporté par Hisham bin 'Amir : Mon père a été tué le jour de Uhud, et le Prophète a dit : \"Creusez des tombes bien faites et larges, et enterrez deux ou trois personnes dans une même tombe, en mettant en premier celui qui connaissait le plus le Coran.\" Mon père était le troisième de trois, et celui qui connaissait le plus le Coran a été placé en premier dans la tombe",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 201
+			}
+		}
+	]
+}

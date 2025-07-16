@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2190,
+			"arabicnumber": 2190,
+			"text": "Rapporté par Abou Hourayra رضي الله عنه : Le Messager d’Allah ﷺ disait : « Ne jeûnez pas un ou deux jours avant le début du mois, sauf pour celui qui a l’habitude de jeûner régulièrement. Dans ce cas, qu’il jeûne. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 101
+			}
+		}
+	]
+}

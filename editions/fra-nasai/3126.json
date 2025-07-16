@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3126,
+			"arabicnumber": 3126,
+			"text": "Rapporté par Ibn 'Umar, du Prophète (ﷺ), qui rapporte de son Seigneur, le Tout-Puissant et Majestueux : « Parmi Mes serviteurs, celui qui part comme Mujahid pour lutter dans la cause d’Allah, cherchant Mon agrément, Je garantis de le ramener avec la récompense ou le butin qu’il aura obtenu, et si Je prends son âme, Je lui pardonnerai et lui ferai miséricorde. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 42
+			}
+		}
+	]
+}

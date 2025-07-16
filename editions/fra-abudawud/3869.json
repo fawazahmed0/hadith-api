@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3869,
+			"arabicnumber": 3869,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Si je bois un antidote, ou porte un talisman, ou compose de la poésie, je fais partie de ceux qui ne se soucient pas de ce qu’ils font. » Abu Dawud a dit : Cela était propre au Prophète ﷺ, mais certains ont autorisé l’usage de l’antidote",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 15
+			}
+		}
+	]
+}

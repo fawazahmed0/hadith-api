@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 157,
+			"arabicnumber": 157,
+			"text": "Rapporté par Ali : « J’avais trop honte de demander au Messager d’Allah (ﷺ) au sujet du liquide prostatique à cause de Fatimah, alors j’ai demandé à Al-Miqdad bin Al-Aswad de le faire, et il (le Prophète (ﷺ)) a dit : “Faites les ablutions pour cela.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 158
+			}
+		}
+	]
+}

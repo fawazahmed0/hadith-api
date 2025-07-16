@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5145,
+			"arabicnumber": 5145,
+			"text": "Rapporté par Umar ibn as-Sa’ib رضي الله عنه : Un jour, alors que le Messager d’Allah ﷺ était assis, son père nourricier s’approcha. Il étendit une partie de son vêtement pour qu’il s’y assoie. Puis sa mère arriva, il étendit l’autre côté de son vêtement et elle s’y assit. Ensuite, son frère de lait s’approcha. Le Messager d’Allah ﷺ se leva pour lui et le fit asseoir devant lui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 373
+			}
+		}
+	]
+}

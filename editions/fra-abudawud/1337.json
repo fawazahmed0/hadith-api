@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1337,
+			"arabicnumber": 1337,
+			"text": "Ce récit a été transmis par Ibn Shihab selon une autre chaîne de transmetteurs avec le même sens. Cette version ajoute : Il faisait le witr avec une seule rak‘a et faisait une prosternation aussi longue que le temps qu’il vous faudrait pour réciter cinquante versets avant de relever la tête. Quand le muezzin avait fini son appel à la prière de l’aube et que l’aube lui était devenue claire… Ensuite, le narrateur a transmis le reste du récit avec le même sens. Certains transmetteurs ont ajouté des détails dans leur version",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (736)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 88
+			}
+		}
+	]
+}

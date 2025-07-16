@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 544,
+			"arabicnumber": 544,
+			"text": "Rapporté par Humaid, d’après Anas : Un homme est venu voir le Prophète (ﷺ) et lui a demandé à quelle heure prier le Subh. Le lendemain matin, il a ordonné que l’on fasse l’Iqamah pour la prière dès l’apparition de l’aube, et il nous a dirigés dans la prière. Le jour suivant, quand il faisait clair, il a ordonné que l’on fasse l’Iqamah et il nous a dirigés dans la prière. Puis il a dit : « Où est celui qui demandait à quelle heure prier ? (C’est) entre ces deux moments. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 51
+			}
+		}
+	]
+}

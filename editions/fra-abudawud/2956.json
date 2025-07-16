@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2956,
+			"arabicnumber": 2956,
+			"text": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Prophète ﷺ a dit : « Je suis plus proche de chaque croyant que lui-même, et si quelqu’un laisse des biens, ils vont à ses héritiers. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 29
+			}
+		}
+	]
+}

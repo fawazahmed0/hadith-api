@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2478,
+			"arabicnumber": 2478,
+			"text": "Rapporté par 'Ali, رضي الله عنه : Le Messager d'Allah ﷺ a dit : \"Je vous ai dispensés de payer la Zakat sur les maisons et les esclaves, et il n’y a pas de Zakat sur moins de deux cents dirhams",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 44
+			}
+		}
+	]
+}

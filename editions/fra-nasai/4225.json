@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4225,
+			"arabicnumber": 4225,
+			"text": "Rapporté par Amr bin Shu'aib bin Muhammad bin 'Abdullah bin 'Amr, d’après son père et Zaid bin Aslam : \"Ô Messager d’Allah ! (Qu’en est-il) du Fara’ ?\" Il a répondu : \"C’est une obligation, mais si tu laisses l’animal jusqu’à ce qu’il soit à moitié adulte et que tu l’utilises pour le jihad dans le sentier d’Allah ou que tu le donnes à une veuve, c’est mieux que de l’abattre alors qu’il vient de naître et que sa chair est difficile à séparer de la peau, puis tu retournes ton récipient (car tu ne pourras plus tirer de lait de la mère) et tu fais pleurer ta chamelle (à cause de la perte de son petit).\" Ils ont dit : \"Ô Messager d’Allah, (qu’en est-il) de la ‘Atirah ?\" Il a répondu : \"La ‘Atirah est une obligation.\" (Hasan) Abu 'Abdur-Rahman (An-Nasa’i) a dit : Abu ‘Ali Al-Hanafi (un des rapporteurs) ; ils sont quatre frères : l’un d’eux est Abu Bakr, puis Bishr, Sharik, et l’autre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 4
+			}
+		}
+	]
+}

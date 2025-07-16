@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2219,
+			"arabicnumber": 2219,
+			"text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit (qu’Allah a dit) : \"Pour chaque bonne action que fait le fils d’Adam, il recevra dix fois la même chose, sauf pour le jeûne. Il est pour Moi et c’est Moi qui en donne la récompense",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 130
+			}
+		}
+	]
+}

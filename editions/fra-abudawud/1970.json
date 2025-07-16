@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1970,
+			"arabicnumber": 1970,
+			"text": "Rapporté par Jabir ibn ‘Abdullah : J’ai vu le Messager d’Allah ﷺ lancer des cailloux le jour du sacrifice alors qu’il était sur sa monture, et il disait : « Apprenez vos rites, car je ne sais pas si je pourrai encore accomplir le hajj après cette fois. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1297)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 250
+			}
+		}
+	]
+}

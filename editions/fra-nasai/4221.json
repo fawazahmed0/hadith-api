@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"40": "The Book of al-'Aqiqah"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4212,
+				"hadithnumber_last": 4221,
+				"arabicnumber_first": 4212,
+				"arabicnumber_last": 4221
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4221,
+			"arabicnumber": 4221,
+			"text": "Rapporté par Habib bin Ash-Shahid : Muhammad bin Sirin m’a dit : \"Demande à Al-Hasan (Al-Basri) de qui il a entendu ce hadith sur l’Aqiqah.\" Je l’ai interrogé à ce sujet et il a dit : \"Je l’ai entendu de Samurh",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 10
+			}
+		}
+	]
+}

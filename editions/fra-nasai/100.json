@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 100,
+			"arabicnumber": 100,
+			"text": "Rapporté par Abu 'Abdullah Salim Sabalan : 'Aishah aimait mon honnêteté et m'a engagé, et elle m'a montré comment le Messager d'Allah (ﷺ) faisait les ablutions. Elle s'est rincé la bouche, a inspiré de l'eau dans son nez et l'a rejetée trois fois, et a lavé son visage trois fois. Ensuite, elle a lavé sa main droite trois fois et sa main gauche trois fois. Ensuite, elle a posé sa main sur le devant de sa tête et a essuyé sa tête une fois, de l'avant vers l'arrière. Ensuite, elle a frotté ses oreilles avec ses mains, puis elle a passé ses mains sur ses joues. Salim a dit : \"Je suis venu à elle comme esclave avec un contrat d'affranchissement, et elle ne se cachait pas de moi. Elle s'asseyait devant moi et me parlait, jusqu'au jour où je suis venu la voir et lui ai dit : 'Prie pour que je sois béni, ô Mère des croyants.' Elle a dit : 'Pourquoi cela ?' J'ai répondu : 'Allah m'a affranchi.' Elle a dit : 'Qu'Allah te bénisse.' Ensuite, elle a baissé le voile devant moi, et je ne l'ai plus jamais vue après ce jour",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 100
+			}
+		}
+	]
+}

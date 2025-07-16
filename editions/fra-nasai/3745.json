@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3745,
+			"arabicnumber": 3745,
+			"text": "Rapporté par Malik, d'après Ibn Shihab, d'après Abu Salamah, de Jabir, que le Messager d'Allah ﷺ a dit : \"Tout homme à qui l'on fait un don selon l''Umra, cela lui appartient ainsi qu'à ses descendants. Cela appartient à celui à qui il l'a donné, et cela ne peut pas être repris par celui qui l'a donné, car il s'agit d'un don, et cela revient aux héritiers de celui à qui cela a été donné",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 27
+			}
+		}
+	]
+}

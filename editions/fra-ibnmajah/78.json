@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 78,
+			"arabicnumber": 78,
+			"text": "Rapporté par 'Ali : Nous étions assis avec le Prophète (ﷺ) et il tenait un bâton dans la main. Il a tracé des traits sur le sol avec, puis il a levé la tête et a dit : \"Il n'y a personne parmi vous dont la place au Paradis ou en Enfer n'a pas déjà été décrétée.\" On lui a demandé : \"Ô Messager d'Allah, ne devrions-nous pas alors nous reposer sur cela ?\" Il a répondu : \"Non, efforcez-vous et ne vous reposez pas uniquement sur cela, car chacun sera facilité vers ce pour quoi il a été créé.\" Puis il a récité : \"Quant à celui qui donne (en aumône), craint Allah et croit en la meilleure récompense, Nous lui faciliterons la voie vers le bien. Mais celui qui est avare, se croit autosuffisant et nie la meilleure récompense, Nous lui faciliterons la voie vers le mal",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 78
+			}
+		}
+	]
+}

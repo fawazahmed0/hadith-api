@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5191,
+			"arabicnumber": 5191,
+			"text": "Rapporté par Abu Idris Al-Khawlani : Un homme, parmi ceux qui ont rencontré le Prophète ﷺ, portait une bague en or. Un récit similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 152
+			}
+		}
+	]
+}

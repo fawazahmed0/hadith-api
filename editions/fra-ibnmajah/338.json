@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 338,
+			"arabicnumber": 338,
+			"text": "Rapporté par 'Abdul-Malik bin As-Sabbah : Un récit similaire a été rapporté avec la même chaîne, avec en plus : \"Celui qui met du khôl sur ses yeux, qu’il le fasse un nombre impair de fois. Celui qui le fait a bien agi, et celui qui ne le fait pas, il n’y a pas de mal. Et celui qui enlève un morceau de nourriture entre ses dents avec sa langue, qu’il l’avale",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 72
+			}
+		}
+	]
+}

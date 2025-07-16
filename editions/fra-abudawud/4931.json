@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4931,
+			"arabicnumber": 4931,
+			"text": "Rapporté par ‘A’ishah رضي الله عنها : Je jouais avec des poupées. Parfois, le Messager d’Allah ﷺ entrait chez moi alors que des filles étaient avec moi. Quand il entrait, elles sortaient, et quand il repartait, elles revenaient",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6130) Sahih Muslim (2440)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 159
+			}
+		}
+	]
+}

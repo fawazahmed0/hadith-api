@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1320,
+			"arabicnumber": 1320,
+			"text": "Rapporté par Wasi’ bin Habban : Il demanda à ‘Abdullah bin ‘Umar comment le Messager d’Allah (ﷺ) priait. Il répondit : “Allahu Akbar” chaque fois qu’il descendait et “Allahu Akbar” chaque fois qu’il se relevait, puis il disait : “As-salamu ‘alaykum wa rahmatullah” (que la paix et la miséricorde d’Allah soient sur vous) à droite et : “As-salamu ‘alaykum wa rahmatullah” à gauche",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 142
+			}
+		}
+	]
+}

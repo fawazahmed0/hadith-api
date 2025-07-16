@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 64,
+			"arabicnumber": 64,
+			"text": "Rapporté par Abu Hurairah : Un jour, le Prophète (ﷺ) est apparu parmi les gens. Un homme est venu à lui et a dit : \"Ô Messager d’Allah, qu’est-ce que la foi ?\" Il a répondu : \"C’est croire en Allah, en Ses anges, en Ses livres, en Ses Messagers, à la rencontre avec Lui et croire à la Résurrection.\" Il a dit : \"Ô Messager d’Allah, qu’est-ce que l’Islam ?\" Il a répondu : \"C’est adorer Allah seul sans rien Lui associer, accomplir les prières prescrites, donner la Zakat obligatoire et jeûner pendant Ramadan.\" Il a dit : \"Ô Messager d’Allah, qu’est-ce que l’Ihsan ?\" Il a répondu : \"C’est adorer Allah comme si tu Le voyais, car même si tu ne Le vois pas, Lui te voit.\" Il a dit : \"Ô Messager d’Allah, quand viendra l’Heure ?\" Il a répondu : \"Celui qui est interrogé n’en sait pas plus que celui qui interroge. Mais je vais te parler de ses signes : quand la servante donnera naissance à sa maîtresse, c’est un de ses signes. Quand les bergers rivaliseront pour construire de hauts bâtiments, c’est un de ses signes. Et il y a cinq choses que seul Allah connaît.\" Puis le Messager d’Allah (ﷺ) a récité le verset : \"C’est Allah seul qui connaît l’Heure, Il fait descendre la pluie, Il sait ce qu’il y a dans les ventres. Nul ne sait ce qu’il gagnera demain, et nul ne sait dans quelle terre il mourra. Allah est certes Omniscient et Parfaitement Connaisseur",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 64
+			}
+		}
+	]
+}

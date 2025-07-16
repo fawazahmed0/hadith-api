@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1655,
+			"arabicnumber": 1655,
+			"text": "Rapporté par Anas رضي الله عنه : Lorsque de la viande a été apportée au Prophète ﷺ, il a demandé : « Qu’est-ce que c’est ? » On lui a répondu : « C’est de la viande donnée en sadaqah à Barirah. » Il a alors dit : « C’est une sadaqah pour elle et un cadeau pour nous. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1495) Sahih Muslim (1074)"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 100
+			}
+		}
+	]
+}

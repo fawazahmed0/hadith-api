@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4444,
+			"arabicnumber": 4444,
+			"text": "Rapporté par Ibn 'Abbas : « Le Messager d’Allah ﷺ nous a interdit d’utiliser comme cible tout être vivant. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 84
+			}
+		}
+	]
+}

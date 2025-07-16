@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 477,
+			"arabicnumber": 477,
+			"text": "Rapporté par Anas bin Malik : Le Prophète (ﷺ) a prié le Zuhr à Médine, quatre unités de prière, et il a prié le 'Asr à Dhul-Hulaifah, deux unités",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 30
+			}
+		}
+	]
+}

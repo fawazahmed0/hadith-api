@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3748,
+			"arabicnumber": 3748,
+			"text": "Rapporté par Salih, d'après Ibn Shihab, qu'Abu Salamah lui a rapporté de la part de Jabir, que le Messager d'Allah ﷺ a dit : \"Tout homme qui fait un don à vie à un autre homme, cela appartient à celui qui le reçoit et à ses descendants.\" Il a dit : \"Je te l'ai donné à toi et à tes descendants tant qu'il y en aura un en vie.\" Ainsi, cela appartient à celui à qui cela a été donné, et cela ne peut pas revenir au premier propriétaire, puisqu'il l'a donné en don, et à ce titre, cela est soumis à la même règle que l'héritage",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 30
+			}
+		}
+	]
+}

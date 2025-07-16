@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2331,
+			"arabicnumber": 2331,
+			"text": "Rapporté par Ahmad ibn ‘Abd al-Wahid : D’après Abu Mushir. Il a dit : Sa‘id, c’est-à-dire Ibn ‘Abd al-‘Aziz, a dit : Le sens du mot « sirraha » est « au début du mois »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 19
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4285,
+			"arabicnumber": 4285,
+			"text": "Rapporté par Rifa’ah Al-Juhani : Nous sommes revenus (d’une expédition) avec le Messager d’Allah (ﷺ) et il a dit : « Par Celui qui détient l’âme de Muhammad, toute personne qui croit puis reste ferme entrera au Paradis. J’espère qu’ils n’y entreront pas avant que vous et les justes parmi vos descendants y entriez et preniez vos places. Et mon Seigneur m’a promis que soixante-dix mille membres de ma communauté entreront au Paradis sans être jugés. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 186
+			}
+		}
+	]
+}

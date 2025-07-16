@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"36": "Tribulations"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3927,
+				"hadithnumber_last": 4099,
+				"arabicnumber_first": 3927,
+				"arabicnumber_last": 4099
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3946,
+			"arabicnumber": 3946,
+			"text": "Rapporté par Samurah bin Jundab : Le Prophète (ﷺ) a dit : « Celui qui accomplit la prière du matin est sous la protection d’Allah, le Tout-Puissant et le Majestueux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 21
+			}
+		}
+	]
+}

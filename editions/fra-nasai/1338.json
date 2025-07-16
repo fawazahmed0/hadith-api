@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1338,
+			"arabicnumber": 1338,
+			"text": "Rapporté par 'Aïcha رضي الله عنها : Après avoir dit le taslim, le Messager d’Allah (ﷺ) disait : \"Allahumma anta as-salam wa minka as-salam, tabarakta ya dhal-jalali wal-ikram\" (Ô Allah, Tu es la source de la paix et de Toi vient la paix, béni sois-Tu, Ô Détenteur de majesté et de générosité)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 160
+			}
+		}
+	]
+}

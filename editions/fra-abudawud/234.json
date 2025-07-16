@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 234,
+			"arabicnumber": 234,
+			"text": "Cette tradition a été rapportée par Hammad b. Salamah avec la même chaîne de transmetteurs et un sens similaire. Cette version ajoute au début : Il a prononcé le TAKBIR (« Allahu akbar »), et à la fin : lorsqu’il a terminé la prière, il a dit : « Je suis un être humain ; j’étais en état d’impureté majeure. » Abu Dawud a dit : Cette tradition a été rapportée par al-Zuhri de la part d’Abu Salamah b. ‘Abd al-Rahman, selon Abu Hurairah. Elle dit : Lorsqu’il s’est tenu à la place de la prière, nous avons attendu qu’il prononce le takbir (« Allahu akbar »). Il est parti et a dit : « Restez comme vous êtes. » Une autre version, rapportée par Muhammad du Prophète ﷺ, dit : Il a prononcé le takbir (« Allahu Akbar ») puis a fait un signe aux gens, voulant dire « asseyez-vous ». Il est ensuite parti prendre un bain rituel. Cette tradition a aussi été rapportée par une autre chaîne. Elle dit : Le Messager d’Allah ﷺ a prononcé le takbir (« Allahu akbar ») lors d’une prière. Abu Dawud a dit : Une autre version par une chaîne différente dit : Le Prophète ﷺ a prononcé le takbir (« Allahu akbar »)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Mursal"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 234
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 270,
+			"arabicnumber": 270,
+			"text": "Rapporté par Abdullah bin Muhammed bin 'Aqil bin Abu Talib, d’après son père, que son grand-père a dit : Le Messager d’Allah a dit : « Un mudd suffit pour les ablutions et un sa’ suffit pour le lavage. » Un homme a dit : « Ce n’est pas suffisant pour nous. » Il (le rapporteur) a répondu : « Cela suffisait à quelqu’un de meilleur que toi et qui avait plus de cheveux », en parlant du Prophète",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 4
+			}
+		}
+	]
+}

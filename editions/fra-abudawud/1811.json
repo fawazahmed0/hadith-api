@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1811,
+			"arabicnumber": 1811,
+			"text": "Rapporté par Abdullah ibn Abbas : Le Prophète ﷺ a entendu un homme dire : « Labbayk (me voici, prêt à obéir) pour Shubrumah. » Il demanda : « Qui est Shubrumah ? » Il répondit : « Un frère ou un parent à moi. » Il demanda : « As-tu accompli le hajj pour toi-même ? » Il répondit : « Non. » Il dit : « Accomplis d’abord le hajj pour toi-même, puis fais-le pour Shubrumah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 91
+			}
+		}
+	]
+}

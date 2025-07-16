@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5722,
+			"arabicnumber": 5722,
+			"text": "Rapporté par Ya'la bin 'Ata' : \"J'ai entendu Sa'eed bin Al-Musayyab dire, lorsqu'un bédouin lui a demandé au sujet d'une boisson qui avait été cuite et réduite de moitié : 'Non, pas avant que deux tiers soient partis et qu'il ne reste qu'un tiers",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 184
+			}
+		}
+	]
+}

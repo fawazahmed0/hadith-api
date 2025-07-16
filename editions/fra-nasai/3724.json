@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3724,
+			"arabicnumber": 3724,
+			"text": "Rapporté par 'Abdullah bin 'Abbas : Le Prophète ﷺ a dit : \"L''Umra est permise",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 6
+			}
+		}
+	]
+}

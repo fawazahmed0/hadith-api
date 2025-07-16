@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3009,
+			"arabicnumber": 3009,
+			"text": "Rapporté par Salim bin Abdullah : Abdullah bin Umar est venu voir Al-Hajjaj bin Yusuf le jour d'Arafat, après le zénith du soleil, et j'étais avec lui. Il a dit : \"Nous devons avancer si tu veux suivre la Sunna.\" Al-Hajjaj lui a dit : \"À cette heure-ci ?\" Il a répondu : \"Oui.\" Salim a dit : \"J'ai dit à Al-Hajjaj : 'Si tu veux suivre la Sunna, alors fais un sermon court et dépêche-toi de prier.' Abdullah bin Umar a dit : 'Il dit la vérité",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 392
+			}
+		}
+	]
+}

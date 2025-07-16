@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 498,
+			"arabicnumber": 498,
+			"text": "Rapporté par Hamzah Al-'A'idhi : J'ai entendu Anas bin Malik dire : \"Quand le Prophète (ﷺ) faisait une halte, il ne repartait pas avant d'avoir prié le Zuhr.\" Un homme a demandé : \"Même si c'était en plein milieu de la journée ?\" Il a répondu : \"Même si c'était en plein milieu de la journée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 5
+			}
+		}
+	]
+}

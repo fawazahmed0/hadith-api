@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 523,
+			"arabicnumber": 523,
+			"text": "Rapporté par Abu Bakr bin Abi Musa, d’après son père : Un homme est venu demander au Prophète (ﷺ) à propos des horaires de prière, et il ne lui a pas répondu. Il a demandé à Bilal de faire l’Iqamah quand l’aube est apparue, puis il lui a demandé de faire l’Iqamah pour Zuhr quand le soleil avait passé son zénith et qu’on aurait pu dire : « Il est midi », mais le Prophète (ﷺ) savait mieux. Ensuite, il lui a demandé de faire l’Iqamah pour ‘Asr alors que le soleil était encore haut. Ensuite, il lui a demandé de faire l’Iqamah pour Maghrib quand le soleil s’était couché. Ensuite, il lui a demandé de faire l’Iqamah pour ‘Isha’ quand le crépuscule avait disparu. Le lendemain, il lui a demandé de faire l’Iqamah pour Fajr à un moment où, après avoir terminé, on aurait pu dire : « Le soleil s’est levé. » Ensuite, il a retardé Zuhr jusqu’à ce qu’il soit presque l’heure de ‘Asr par rapport au jour précédent. Ensuite, il a retardé ‘Asr à un moment où, après avoir terminé, on aurait pu dire : « Le soleil est devenu rouge. » Ensuite, il a retardé Maghrib jusqu’à ce que le crépuscule soit sur le point de disparaître. Ensuite, il a retardé ‘Isha’ jusqu’à ce qu’un tiers de la nuit soit passé. Puis il a dit : « Le temps (de la prière) est entre ces moments. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 30
+			}
+		}
+	]
+}

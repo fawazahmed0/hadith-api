@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3845,
+			"arabicnumber": 3845,
+			"text": "Rapporté par Muhammad bin Az-Zubair, de son père, d'un homme des habitants de Basrah, qui a dit : « J'ai accompagné 'Imran bin Husain, qui a dit : 'J'ai entendu le Messager d'Allah dire : Les vœux sont de deux types : un vœu fait pour accomplir un acte d'obéissance à Allah ; celui-là est pour Allah et doit être accompli, et un vœu fait pour accomplir un acte de désobéissance à Allah ; celui-là est pour le diable et ne doit pas être accompli, et son expiation est la même que pour un serment.' »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 85
+			}
+		}
+	]
+}

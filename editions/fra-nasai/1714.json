@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1714,
+			"arabicnumber": 1714,
+			"text": "Rapporté par Mansur : Al-Hakam rapporte de Miqsam, qu'Umm Salamah a dit : \"Le Messager d'Allah (ﷺ) priait le witr en cinq ou sept rak'ahs sans séparer les unités par un taslim ni parler entre elles",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 117
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2602,
+			"arabicnumber": 2602,
+			"text": "Rapporté par Hakim bin Hizam : J’ai demandé au Messager d’Allah et il m’a donné, puis j’ai redemandé et il m’a donné, puis j’ai encore demandé et il m’a donné. Ensuite, il a dit : “Ô Hakim ! Cette richesse est attirante et douce. Celui qui la prend sans être avide, elle sera bénie pour lui, et celui qui la prend avec avidité, elle ne sera pas bénie pour lui. Il est comme quelqu’un qui mange sans jamais être rassasié. Et la main qui donne est meilleure que celle qui reçoit.”",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 168
+			}
+		}
+	]
+}

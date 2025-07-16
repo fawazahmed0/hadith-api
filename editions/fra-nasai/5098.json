@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5098,
+			"arabicnumber": 5098,
+			"text": "Rapporté par Masruq : Une femme est venue voir 'Abdullah bin Mas'ud et a dit : « Je suis une femme qui a peu de cheveux, puis-je mettre des extensions ? » Il a répondu : « Non. » Elle a demandé : « Est-ce quelque chose que tu as entendu du Messager d'Allah ﷺ ou que tu trouves dans le Livre d'Allah ? » Il a dit : « Non, je l'ai entendu du Messager d'Allah ﷺ et je le trouve dans le Livre d'Allah. » Puis il a cité le hadith",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 59
+			}
+		}
+	]
+}

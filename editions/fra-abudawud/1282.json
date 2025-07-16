@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1282,
+			"arabicnumber": 1282,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : J’ai accompli deux rak‘as avant la prière du Maghrib à l’époque du Messager d’Allah ﷺ. (Le narrateur, al-Mukhtar ibn Fulful, a demandé à Anas :) « Le Messager d’Allah ﷺ t’a-t-il vu ? » Il a répondu : « Oui, mais il ne nous a ni ordonné ni interdit de le faire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (836)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 33
+			}
+		}
+	]
+}

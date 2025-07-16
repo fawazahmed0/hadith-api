@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1686,
+			"arabicnumber": 1686,
+			"text": "Rapporté par Maymouna, l’ancienne esclave affranchie du Messager d’Allah (ﷺ) : Le Prophète (ﷺ) a été interrogé au sujet d’un homme qui embrassait sa femme alors qu’ils jeûnaient tous les deux. Il a dit : \"Ils ont rompu leur jeûne",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 49
+			}
+		}
+	]
+}

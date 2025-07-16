@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4263,
+			"arabicnumber": 4263,
+			"text": "Rapporté par 'Adiyy bin Hatim : Il a interrogé le Messager d’Allah ﷺ au sujet de la chasse. Il a dit : \"Quand tu lâches ton chien, prononce le nom d’Allah sur lui, et si tu arrives avant qu’il n’ait tué la proie, alors égorge-la en prononçant le nom d’Allah. Si tu arrives et qu’il l’a tuée sans en avoir mangé, alors mange, car il l’a attrapée pour toi. Si tu vois qu’il en a mangé, alors ne mange pas, car il l’a attrapée pour lui-même. Si d’autres chiens sont avec le tien et qu’ils ont tué la proie sans en avoir mangé, alors ne mange pas, car tu ne sais pas lequel l’a tuée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 1
+			}
+		}
+	]
+}

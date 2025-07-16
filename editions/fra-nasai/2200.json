@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2200,
+			"arabicnumber": 2200,
+			"text": "Rapporté par Abou Hourayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui passe les nuits du Ramadan en prière (Qiyam) avec foi et en espérant une récompense, ses péchés passés lui seront pardonnés. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 111
+			}
+		}
+	]
+}

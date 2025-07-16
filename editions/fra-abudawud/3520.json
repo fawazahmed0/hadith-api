@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3520,
+			"arabicnumber": 3520,
+			"text": "Rapporté par Abu Bakr ibn AbdurRahman ibn al-Harith ibn Hisham : Le Prophète ﷺ a dit : « Si un homme vend son bien et que l’acheteur devient insolvable, et que le vendeur n’a pas reçu le prix de ce bien, mais retrouve son bien chez l’acheteur, il est plus en droit de le reprendre que les autres. Si l’acheteur meurt, alors le propriétaire du bien est à égalité avec les autres créanciers. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 105
+			}
+		}
+	]
+}

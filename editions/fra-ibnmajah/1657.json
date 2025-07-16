@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1657,
+			"arabicnumber": 1657,
+			"text": "Rapporté par Muhammad bin Sa’d bin Abu Waqqas, d’après son père : Le Messager d’Allah (ﷺ) a dit : « Le mois est comme ceci, comme ceci et comme ceci, » et il a montré neuf doigts la troisième fois pour indiquer vingt-neuf jours",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 20
+			}
+		}
+	]
+}

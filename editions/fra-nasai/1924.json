@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1924,
+			"arabicnumber": 1924,
+			"text": "Rapporté par Muhammad : Un cortège funéraire est passé devant Al-Hasan bin ‘Ali et Ibn ‘Abbas. Al-Hasan s’est levé mais Ibn ‘Abbas est resté assis. Al-Hasan a dit : \"Le Messager d’Allah ﷺ ne s’est-il pas levé pour le cortège d’un Juif ?\" Ibn ‘Abbas a dit : \"Oui, puis il s’est assis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 107
+			}
+		}
+	]
+}

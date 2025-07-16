@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4800,
+			"arabicnumber": 4800,
+			"text": "Rapporté par Abu Umamah رضي الله عنه : Le Prophète ﷺ a dit : « Je garantis une maison à la périphérie du Paradis à celui qui évite la dispute même s’il a raison, une maison au centre du Paradis à celui qui évite le mensonge même en plaisantant, et une maison dans la partie la plus élevée du Paradis à celui qui améliore son caractère. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 28
+			}
+		}
+	]
+}

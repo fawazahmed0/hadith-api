@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"13": "The Chapters on Rulings"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2308,
+				"hadithnumber_last": 2374,
+				"arabicnumber_first": 2308,
+				"arabicnumber_last": 2374
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2318,
+			"arabicnumber": 2318,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah (ﷺ) a dit : \"Je ne suis qu'un homme, et certains d'entre vous sont plus éloquents que d'autres pour présenter leur cause. Si je rends un jugement en faveur de l'un d'entre vous qui enlève un droit à son frère, je lui donne un morceau de feu",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 11
+			}
+		}
+	]
+}

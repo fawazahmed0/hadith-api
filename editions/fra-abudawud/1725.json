@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1725,
+			"arabicnumber": 1725,
+			"text": "Abu Huraira رضي الله عنه a rapporté du Messager d’Allah ﷺ : Il a ensuite rapporté le même récit que ci-dessus, mais il a mentionné dans cette version le mot « poste »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 5
+			}
+		}
+	]
+}

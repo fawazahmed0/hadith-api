@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3464,
+			"arabicnumber": 3464,
+			"text": "Muhammad ou ‘Abd Allah b. Mujahid a dit : ‘Abd Allah b. Shaddad et Abu Burdah se sont disputés au sujet du salaf (paiement à l’avance). Ils m’ont envoyé voir Ibn Abi Awfa et je l’ai interrogé à ce sujet. Il a répondu : « Nous payions à l’avance (salaf) à l’époque du Messager d’Allah ﷺ, d’Abu Bakr et de ‘Umar pour du blé, de l’orge, des dattes et des raisins secs. » Ibn Kathir a ajouté : « à ceux qui ne possédaient pas ces choses. » La version convenue continue : J’ai ensuite interrogé Ibn Abza qui a donné une réponse similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2243)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 49
+			}
+		}
+	]
+}

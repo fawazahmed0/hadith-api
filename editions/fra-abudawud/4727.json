@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4727,
+			"arabicnumber": 4727,
+			"text": "Rapporté par Jabir b. ‘Abd Allah : Le Prophète ﷺ a dit : « J’ai reçu la permission de parler d’un des anges d’Allah qui porte le Trône : la distance entre le lobe de son oreille et son épaule équivaut à un voyage de sept cents ans. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 132
+			}
+		}
+	]
+}

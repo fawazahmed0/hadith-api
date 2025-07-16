@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 861,
+			"arabicnumber": 861,
+			"text": "Rifa’ah b. Rafi’ a aussi rapporté cette tradition à travers une autre chaîne du Messager d’Allah ﷺ. Cette version dit : « Fais les ablutions comme Allah, le Très-Haut, te l’a ordonné, puis prononce la shahada et lève-toi en disant le takbir. Ensuite, si tu connais une partie du Coran, récite-la ; sinon, dis : “Louange à Allah” ; “Allah est le plus grand” ; “Il n’y a de dieu qu’Allah.” » Il (le narrateur) a aussi dit dans cette version : « S’il reste un défaut dans cela, ce défaut restera dans ta prière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 471
+			}
+		}
+	]
+}

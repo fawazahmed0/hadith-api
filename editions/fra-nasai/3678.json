@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"31": "The Book of Presents"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3672,
+				"hadithnumber_last": 3687,
+				"arabicnumber_first": 3672,
+				"arabicnumber_last": 3687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3678,
+			"arabicnumber": 3678,
+			"text": "Rapporté par Hisham bin 'Urwah, d'après son père : Bashir est venu voir le Prophète et a dit : \"Ô Prophète d'Allah, j'ai offert un cadeau à An-Nu'man.\" Le Prophète a demandé : \"As-tu donné quelque chose à ses frères ?\" Il a répondu : \"Non.\" Le Prophète a dit : \"Alors reprends-le",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 7
+			}
+		}
+	]
+}

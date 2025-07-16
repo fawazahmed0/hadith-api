@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 815,
+			"arabicnumber": 815,
+			"text": "Rapporté par Anas : Le Prophète (ﷺ) a dit : « Rendez vos rangs solides et rapprochés, et alignez vos cous. Par Celui qui tient l’âme de Muhammad dans Sa main ! Je vois le diable entrer dans les espaces entre les rangs comme s’il s’agissait de petites brebis. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 39
+			}
+		}
+	]
+}

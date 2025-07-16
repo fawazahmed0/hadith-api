@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 695,
+			"arabicnumber": 695,
+			"text": "Rapporté par Sahl ibn Abu Hathmah رضي الله عنه : Le Prophète ﷺ a dit : « Quand l’un de vous prie face à une sutrah, qu’il s’en approche et ne laisse pas le diable interrompre sa prière. » Abu Dawud a dit : Cette tradition a aussi été rapportée par Waqid b. Muhammad de Safwan, de Muhammad b. Sahl, d’après son père, ou de Muhammad b. Sahl du Prophète ﷺ. Certains l’ont rapportée de Nafi’ b. Jubair, d’après Sahl b. Sa’d. Il y a une variation dans la chaîne des rapporteurs",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 305
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"2": "The Book of Water"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 325,
+				"hadithnumber_last": 347,
+				"arabicnumber_first": 325,
+				"arabicnumber_last": 347
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 327,
+			"arabicnumber": 327,
+			"text": "Rapporté par Ibn Abi Sa'eed Al-Khudri : Mon père a dit : \"Je suis passé devant le Prophète (ﷺ) alors qu’il faisait ses ablutions avec l’eau du puits de Buda’ah. J’ai dit : 'Tu fais tes ablutions avec cette eau alors qu’on y jette des déchets ?' Il a répondu : 'L’eau ne devient pas impure à cause de quoi que ce soit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 3
+			}
+		}
+	]
+}

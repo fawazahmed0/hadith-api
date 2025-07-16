@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 458,
+			"arabicnumber": 458,
+			"text": "Abu al-Walid a dit : J’ai interrogé Ibn 'Umar au sujet du gravier étalé dans la mosquée. Il a répondu : « Une nuit, il a plu et la terre était humide. Un homme apportait du gravier (des petits cailloux) dans son vêtement et les étalait sous lui. Quand le Messager d’Allah ﷺ a terminé sa prière, il a dit : “Comme c’est bien.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 68
+			}
+		}
+	]
+}

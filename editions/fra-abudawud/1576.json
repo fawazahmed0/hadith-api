@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1576,
+			"arabicnumber": 1576,
+			"text": "Rapporté par Mu'adh ibn Jabal رضي الله عنه : Lorsque le Prophète ﷺ l’a envoyé au Yémen, il lui a ordonné de prendre un veau ou une génisse d’un an pour chaque groupe de trente bovins, et une vache de trois ans pour chaque groupe de quarante. Il devait aussi prendre un dinar pour chaque adulte non-croyant comme impôt de capitation, ou des vêtements de valeur équivalente fabriqués au Yémen",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 21
+			}
+		}
+	]
+}

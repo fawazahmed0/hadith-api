@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3940,
+			"arabicnumber": 3940,
+			"text": "Rapporté par Abd Allah ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un affranchit sa part dans un esclave, on doit fixer un prix équitable pour l’esclave, donner à ses partenaires leur part, et l’esclave sera ainsi affranchi. Sinon, il sera affranchi à hauteur de la part qui a été libérée. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2522) Sahih Muslim (1501)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 15
+			}
+		}
+	]
+}

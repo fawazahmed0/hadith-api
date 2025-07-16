@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 214,
+			"arabicnumber": 214,
+			"text": "Rapporté par Abu Musa Al-Ash'ari : Le Prophète a dit : \"Le croyant qui récite le Coran ressemble à un citron : son goût et son odeur sont agréables. Le croyant qui ne lit pas le Coran ressemble à une datte : son goût est bon mais elle n’a pas d’odeur. L’hypocrite qui lit le Coran ressemble à un basilic : son odeur est bonne mais son goût est amer. Et l’hypocrite qui ne lit pas le Coran ressemble à une coloquinte : son goût est amer et elle n’a pas d’odeur",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 214
+			}
+		}
+	]
+}

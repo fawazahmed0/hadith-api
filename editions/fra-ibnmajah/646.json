@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 646,
+			"arabicnumber": 646,
+			"text": "Rapporté par Umm Bakr : On lui a dit que 'Aïcha a dit : \"Le Messager d’Allah ﷺ a dit à propos d’une femme qui voit quelque chose qui la fait douter (c’est-à-dire du sang) après être devenue pure : 'C’est une veine ou des veines.'\" (Ce que l’on entend par 'après être devenue pure', c’est après avoir pris un bain à la fin de ses règles)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 380
+			}
+		}
+	]
+}

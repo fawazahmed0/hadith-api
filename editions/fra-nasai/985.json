@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 985,
+			"arabicnumber": 985,
+			"text": "Rapporté par Anas d’après Umm Al-Fadl bint Al-Harith : Le Messager d’Allah (ﷺ) nous a dirigés dans la prière du maghrib chez lui et il a récité Al-Mursalat. Après cela, il n’a plus jamais accompli de prière jusqu’à sa mort",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 110
+			}
+		}
+	]
+}

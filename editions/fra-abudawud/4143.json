@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4143,
+			"arabicnumber": 4143,
+			"text": "Rapporté par Jabir ibn Samurah : Quand je suis allé voir le Prophète ﷺ chez lui, je l’ai vu assis, appuyé sur un coussin. Le rapporteur Ibn al-Jarrah a ajouté : “du côté gauche”. Abu Dawud a dit : Ishaq b. Mansur l’a transmis d’Isra’il, en mentionnant aussi les mots “du côté gauche”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 124
+			}
+		}
+	]
+}

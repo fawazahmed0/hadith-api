@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1838,
+			"arabicnumber": 1838,
+			"text": "Rapporté par 'Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : \"Celui qui aime rencontrer Allah, Allah aime Le rencontrer, et celui qui déteste rencontrer Allah, Allah déteste Le rencontrer.\" Amr (un des rapporteurs) a ajouté dans son récit : \"On a demandé : 'Ô Messager d’Allah, est-ce que cela veut dire détester la mort ? Car nous détestons tous la mort.' Il a répondu : 'C’est au moment de mourir ; si on lui annonce la miséricorde et le pardon d’Allah, il aime rencontrer Allah et Allah aime Le rencontrer. Mais si on lui annonce le châtiment d’Allah, il déteste rencontrer Allah et Allah déteste Le rencontrer",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 21
+			}
+		}
+	]
+}

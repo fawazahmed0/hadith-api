@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3557,
+			"arabicnumber": 3557,
+			"text": "Rapporté par Ibn 'Umar : Quand on lui demandait ce qu’il fallait faire si un homme divorçait de sa femme pendant ses règles, il disait : \"Si c’est le premier ou le deuxième divorce, le Messager d’Allah lui ordonnerait de la reprendre et de la garder jusqu’à ce qu’elle ait de nouveau ses règles et qu’elle soit purifiée, puis de la divorcer avant d’avoir des rapports avec elle. Mais si c’est trois divorces en même temps, alors tu as désobéi à Allah concernant la manière de divorcer, et ta femme est définitivement divorcée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 171
+			}
+		}
+	]
+}

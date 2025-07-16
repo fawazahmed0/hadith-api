@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3091,
+			"arabicnumber": 3091,
+			"text": "Rapporté par ‘Ali bin Abu Talib : Le Prophète (ﷺ) a apporté de la viande de gibier alors qu’il était en état d’Ihram, et il n’en a pas mangé",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 210
+			}
+		}
+	]
+}

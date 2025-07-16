@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 589,
+			"arabicnumber": 589,
+			"text": "Rapporté par Malik b. al-Huwairith : Le Prophète ﷺ lui a dit, ou à certains de ses compagnons : « Quand le moment de la prière arrive, faites l’adhan, puis l’iqama, puis que le plus âgé d’entre vous soit votre imam. » La version rapportée par Maslamah dit : « Ce jour-là, nous étions presque égaux en connaissance. » La version rapportée par Isma’il dit : Khalid a demandé à Abu Qilabah : « Et le Coran (pourquoi le Prophète ﷺ n’a-t-il pas dit : Que celui qui connaît le mieux le Coran soit imam) ? » Il a répondu : « Ils étaient tous deux égaux dans la connaissance du Coran. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (630) Sahih Muslim (674)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 199
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1023,
+			"arabicnumber": 1023,
+			"text": "Rapporté par Abu Salamah bin Abdur-Rahman : Marwan a nommé Abu Hurairah gouverneur de Médine. Quand il se levait pour accomplir une prière obligatoire, il disait le takbir, puis il disait le takbir en s'inclinant, et quand il se relevait de l'inclinaison, il disait : \"Sami' Allahu liman hamidah, Rabbana wa lakal-hamd (Allah entend ceux qui Le louent ; notre Seigneur, à Toi la louange).\" Ensuite, il disait le takbir en se prosternant, puis il disait le takbir en se relevant après deux rak'ahs, après avoir dit le Tashahhud, et il faisait cela jusqu'à la fin de la prière. Quand il terminait sa prière et disait le Salam, il se tournait vers les gens dans la mosquée et disait : \"Par Celui qui tient mon âme dans Sa main, je suis celui parmi vous dont la prière ressemble le plus à celle du Messager d'Allah (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 148
+			}
+		}
+	]
+}

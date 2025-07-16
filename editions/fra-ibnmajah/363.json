@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 363,
+			"arabicnumber": 363,
+			"text": "Rapporté par Abu Razin : J’ai vu Abu Hurairah se frapper le front avec la main et dire : \"Ô gens d’Irak ! Pensez-vous que je mentirais sur le Messager d’Allah ﷺ pour que cela vous arrange et que ce soit un péché pour moi ? Je témoigne que j’ai entendu le Messager d’Allah ﷺ dire : 'Si un chien lèche le récipient de l’un d’entre vous, qu’il le lave sept fois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 97
+			}
+		}
+	]
+}

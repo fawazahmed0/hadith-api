@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4183,
+			"arabicnumber": 4183,
+			"text": "Rapporté par Al-Hirmas bin Ziyad : J’ai tendu la main au Prophète ﷺ pour qu’il accepte mon engagement alors que j’étais enfant, mais il n’a pas accepté",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 35
+			}
+		}
+	]
+}

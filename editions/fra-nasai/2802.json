@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2802,
+			"arabicnumber": 2802,
+			"text": "Rapporté par Abou Az-Zuhair رضي الله عنه : J’ai entendu Jabir ibn Abdallah رضي الله عنه être interrogé sur le fait de monter une chamelle destinée au sacrifice. Il a dit : « J’ai entendu le Messager d’Allah ﷺ dire : Monte dessus raisonnablement si nécessaire, jusqu’à ce que tu trouves une autre monture. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 184
+			}
+		}
+	]
+}

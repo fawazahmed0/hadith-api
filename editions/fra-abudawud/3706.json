@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3706,
+			"arabicnumber": 3706,
+			"text": "Rapporté par Umm Salamah, la mère des croyants رضي الله عنها : Kabshah, fille d’Abu Maryam, a demandé à Umm Salamah رضي الله عنها : « Qu’est-ce que le Prophète ﷺ a interdit ? » Elle a répondu : « Il nous a interdit de faire bouillir les dattes au point que les noyaux soient abîmés, et de mélanger des raisins secs avec des dattes sèches. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 38
+			}
+		}
+	]
+}

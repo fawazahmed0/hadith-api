@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"45": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+		},
+		"section_detail": {
+			"45": {
+				"hadithnumber_first": 4706,
+				"hadithnumber_last": 4869,
+				"arabicnumber_first": 4706,
+				"arabicnumber_last": 4869
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4805,
+			"arabicnumber": 4805,
+			"text": "Rapporté par 'Amr bin Shu'aib, d’après son père, que son grand-père a dit : Le Messager d’Allah ﷺ a dit : « La compensation pour une femme (en cas de blessure) est la même que celle d’un homme, jusqu’au tiers de la Diyah (pour sa vie). »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 45,
+				"hadith": 100
+			}
+		}
+	]
+}

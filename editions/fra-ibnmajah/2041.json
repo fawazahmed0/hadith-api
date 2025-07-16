@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"10": "The Chapters on Divorce"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 2016,
+				"hadithnumber_last": 2477,
+				"arabicnumber_first": 2016,
+				"arabicnumber_last": 2477
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2041,
+			"arabicnumber": 2041,
+			"text": "Rapporté par Aishah : Le Messager d'Allah a dit : \"La plume est levée pour trois personnes : pour celui qui dort jusqu'à ce qu'il se réveille, pour le mineur jusqu'à ce qu'il grandisse, et pour la personne atteinte de folie jusqu'à ce qu'elle retrouve la raison.\" Dans son récit, (l'un des rapporteurs, Abu Bakr (Ibn Abu Shaibah), a ajouté : \"Et pour la personne malade jusqu'à ce qu'elle guérisse",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 26
+			}
+		}
+	]
+}

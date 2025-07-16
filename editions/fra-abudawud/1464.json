@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1416,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1416,
+				"arabicnumber_last": 1555
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1464,
+			"arabicnumber": 1464,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui était attaché au Coran se verra dire : “Récite, élève-toi et récite avec soin comme tu récitais avec soin dans le monde, car tu atteindras ta place au dernier verset que tu réciteras.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 49
+			}
+		}
+	]
+}

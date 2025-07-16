@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4243,
+			"arabicnumber": 4243,
+			"text": "Rapporté par Salamah bin Al-Muhabbaq : Lors de la campagne de Tabuk, le Prophète d’Allah ﷺ demanda de l’eau à une femme. Elle dit : « Je n’ai qu’une outre faite d’une bête morte (non abattue). » Il demanda : « Ne l’as-tu pas tannée ? » Elle répondit : « Bien sûr. » Il dit : « Son tannage équivaut à son abattage. » (Faible)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 22
+			}
+		}
+	]
+}

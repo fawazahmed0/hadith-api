@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4008,
+			"arabicnumber": 4008,
+			"text": "Rapporté par Mujalid bin 'Awf : J'ai entendu Kharijah bin Zaid bin Thabit rapporter que son père a dit : (Le verset) « Et quiconque tue intentionnellement un croyant, sa rétribution sera l'Enfer » a été révélé et cela nous a inquiétés. Ensuite, le verset dans Al-Furqan : « Et ceux qui n'invoquent pas d'autre divinité avec Allah, et ne tuent pas la personne qu'Allah a interdite, sauf avec droit. » a été révélé",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 43
+			}
+		}
+	]
+}

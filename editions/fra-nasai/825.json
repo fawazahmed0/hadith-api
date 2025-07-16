@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 825,
+			"arabicnumber": 825,
+			"text": "Rapporté par 'Abdullah bin Abi Qatadah, d'après son père : Le Prophète (ﷺ) a dit : \"Je me lève pour prier, puis j'entends un enfant pleurer, alors j'abrège ma prière car je ne veux pas causer de difficulté à sa mère",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 49
+			}
+		}
+	]
+}

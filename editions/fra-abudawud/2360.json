@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2360,
+			"arabicnumber": 2360,
+			"text": "Rapporté par Ibn 'Umar رضي الله عنه : Le Messager d’Allah ﷺ a interdit le jeûne continu (sans interruption). Les gens dirent : « Mais toi, tu pratiques le jeûne continu, ô Messager d’Allah. » Il répondit : « Ma situation n’est pas comme la vôtre. Je reçois de la nourriture et de la boisson. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1962) Sahih Muslim (1102)"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 48
+			}
+		}
+	]
+}

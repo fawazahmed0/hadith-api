@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4112,
+			"arabicnumber": 4112,
+			"text": "Rapporté par Abu Hurairah : J’ai entendu le Messager d’Allah (ﷺ) dire : « Ce monde est maudit et tout ce qu’il contient est maudit, sauf le rappel d’Allah (dhikr) et ce qui y conduit, ou une personne qui possède le savoir ou qui l’acquiert. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 13
+			}
+		}
+	]
+}

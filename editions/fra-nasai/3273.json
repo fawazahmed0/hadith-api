@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3273,
+			"arabicnumber": 3273,
+			"text": "Rapporté par Ibn 'Abbas : Le Prophète ﷺ a épousé Maymouna alors qu’il était en état de sacralisation (Muhrim), et elle a désigné Al-'Abbas pour s’occuper de son mariage, et il l’a mariée au Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 78
+			}
+		}
+	]
+}

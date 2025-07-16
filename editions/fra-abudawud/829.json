@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 829,
+			"arabicnumber": 829,
+			"text": "‘Imran ibn Husayn a rapporté que le Prophète d’Allah ﷺ les a dirigés dans la prière du midi. Lorsqu’il l’a terminée, il a dit : Qui parmi vous a récité la sourate « Glorifie le nom de ton Seigneur, le Très-Haut » (sourate 87) ? Un homme a dit : Moi. Il a dit : Je savais que l’un d’entre vous m’a troublé dans la récitation du Coran",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 439
+			}
+		}
+	]
+}

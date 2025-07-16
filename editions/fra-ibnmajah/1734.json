@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1734,
+			"arabicnumber": 1734,
+			"text": "Rapporté par Ibn ‘Abbas : « Le Prophète (ﷺ) est arrivé à Médine et il a trouvé les Juifs en train de jeûner. Il a dit : ‘Qu’est-ce que c’est ?’ Ils ont répondu : ‘C’est le jour où Allah a sauvé Moussa et noyé Pharaon, alors Moussa a jeûné ce jour-là en remerciement.’ Le Messager d’Allah (ﷺ) a dit : ‘Nous avons plus de droits sur Moussa que vous.’ Il a donc jeûné ce jour-là et a ordonné aussi de le jeûner. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 97
+			}
+		}
+	]
+}

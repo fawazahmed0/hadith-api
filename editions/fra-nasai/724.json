@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 724,
+			"arabicnumber": 724,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) a vu des crachats sur le mur de la Qiblah. Il les a grattés, puis il s’est tourné vers les gens et a dit : \"Quand l’un de vous prie, qu’il ne crache pas devant lui, car Allah est devant lui pendant la prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 37
+			}
+		}
+	]
+}

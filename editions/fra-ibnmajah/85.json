@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 85,
+			"arabicnumber": 85,
+			"text": "Rapporté par Amr ibn Shu'aib d'après son père, d'après son grand-père : Le Messager d'Allah (ﷺ) est sorti vers ses Compagnons alors qu'ils discutaient du décret divin, et son visage était rouge comme si des graines de grenade avaient éclaté dessus à cause de la colère. Il a dit : \"Vous a-t-on ordonné de faire cela, ou avez-vous été créés pour cela ? Vous utilisez une partie du Coran contre une autre, et c'est ce qui a causé la perte des nations avant vous.\" 'Abdullah bin 'Amr a dit : \"Je n'ai jamais été aussi content d'avoir manqué une réunion avec le Messager d'Allah (ﷺ) que d'avoir manqué celle-ci",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 85
+			}
+		}
+	]
+}

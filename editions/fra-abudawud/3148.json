@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3148,
+			"arabicnumber": 3148,
+			"text": "Rapporté par Jabir ibn Abdullah : Le Prophète ﷺ a fait un discours un jour et a parlé d’un homme parmi ses compagnons qui est mort, enveloppé dans un linceul de mauvaise qualité, et enterré la nuit. Le Prophète ﷺ a blâmé le fait d’enterrer quelqu’un la nuit avant que la prière ne soit faite sur lui, sauf si c’est par nécessité. Le Prophète ﷺ a dit : « Quand l’un de vous enveloppe son frère, qu’il utilise un linceul de bonne qualité. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (943)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 60
+			}
+		}
+	]
+}

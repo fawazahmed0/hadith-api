@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1160,
+			"arabicnumber": 1160,
+			"text": "Rapporté par 'Abdullah bin 'Umar : Il a vu un homme bouger des cailloux avec sa main pendant la prière. Quand il a terminé, 'Abdullah lui a dit : \"Ne bouge pas les cailloux pendant la prière, car cela vient de Shaytan. Fais plutôt ce que faisait le Messager d’Allah (ﷺ).\" Il a demandé : \"Que faisait-il ?\" Il a répondu : \"Il posait sa main droite sur sa cuisse droite, et pointait le doigt à côté du pouce vers la Qibla, et il la regardait, ou à peu près. Voilà ce que j’ai vu faire le Messager d’Allah (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 132
+			}
+		}
+	]
+}

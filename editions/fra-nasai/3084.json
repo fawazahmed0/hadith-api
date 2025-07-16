@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3084,
+			"arabicnumber": 3084,
+			"text": "Rapporté par Ibn 'Abbas : \"Quand le pèlerin a lancé les pierres sur la Jamrat, tout lui devient permis sauf les femmes.\" On lui a demandé : \"Et le parfum ?\" Il a répondu : \"J'ai vu le Messager d'Allah sentir fortement le musc – n'est-ce pas un parfum ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 467
+			}
+		}
+	]
+}

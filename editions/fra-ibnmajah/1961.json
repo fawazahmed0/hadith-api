@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"9": "The Chapters on Marriage"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1845,
+				"hadithnumber_last": 2015,
+				"arabicnumber_first": 1845,
+				"arabicnumber_last": 2015
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1961,
+			"arabicnumber": 1961,
+			"text": "Rapporté par 'Ali bin Abu Talib : Le Messager d’Allah a interdit, le jour de Khaybar, le mariage temporaire avec des femmes ainsi que la consommation de la viande d’ânes domestiques",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 117
+			}
+		}
+	]
+}

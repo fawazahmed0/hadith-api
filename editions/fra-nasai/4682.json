@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4682,
+			"arabicnumber": 4682,
+			"text": "Rapporté par Sammurah : Le Messager d’Allah ﷺ a dit : \"Si une femme est mariée par deux tuteurs, c’est le premier mariage qui est valable. Et si un homme vend quelque chose à deux personnes, cela revient au premier",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 234
+			}
+		}
+	]
+}

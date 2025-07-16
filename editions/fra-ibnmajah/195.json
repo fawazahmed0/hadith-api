@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 195,
+			"arabicnumber": 195,
+			"text": "Rapporté par Abu Musa : Le Messager d'Allah ﷺ s'est levé parmi nous et a dit cinq choses. Il a dit : « Allah ne dort pas, et il ne convient pas qu'Il dorme. Il abaisse la Balance et la relève. Les actions faites pendant le jour Lui sont présentées avant celles de la nuit, et celles de la nuit avant celles du jour. Son Voile est la Lumière, et s'Il l'enlevait, la splendeur de Son Visage brûlerait toute Sa création, aussi loin que Son regard porte. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 195
+			}
+		}
+	]
+}

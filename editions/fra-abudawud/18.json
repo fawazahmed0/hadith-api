@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 18,
+			"arabicnumber": 18,
+			"text": "Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ se rappelait Allah, le Grand et Majestueux, à tout moment",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (373)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 18
+			}
+		}
+	]
+}

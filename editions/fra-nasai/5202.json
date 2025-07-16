@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5202,
+			"arabicnumber": 5202,
+			"text": "Rapporté par Anas : Le Messager d'Allah ﷺ a retardé la prière de 'Isha une nuit, jusqu'à ce que la moitié de la nuit soit passée, puis il est sorti et nous a dirigés dans la prière. Et c'est comme si je voyais la blancheur de sa bague en argent sur sa main",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 163
+			}
+		}
+	]
+}

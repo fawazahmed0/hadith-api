@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3343,
+			"arabicnumber": 3343,
+			"text": "Rapporté par Abu Hurairah : Par Celui qui tient mon âme dans Sa main, le Prophète d’Allah (ﷺ) n’a jamais mangé à sa faim du pain de blé trois jours de suite, jusqu’à ce qu’Allah prenne son âme",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 93
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4787,
+			"arabicnumber": 4787,
+			"text": "En expliquant le verset coranique « Tiens-toi au pardon », Abd Allah b. Al-Zubair رضي الله عنه a dit : Le Prophète d’Allah ﷺ a reçu l’ordre de pardonner le comportement des gens",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (4644)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 15
+			}
+		}
+	]
+}

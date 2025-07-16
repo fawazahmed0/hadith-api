@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2619,
+			"arabicnumber": 2619,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah a parlé aux gens et a dit : « Allah, le Puissant et Majestueux, vous a prescrit le Hajj. » Un homme a demandé : « Chaque année ? » Il est resté silencieux jusqu’à ce que la question soit répétée trois fois. Puis il a dit : « Si j’avais dit oui, cela serait devenu obligatoire, et si cela l’était, vous n’auriez pas pu le faire. Laissez-moi tant que je vous laisse tranquilles. Ceux qui vous ont précédés ont été détruits parce qu’ils posaient trop de questions et contredisaient leurs prophètes. Si je vous ordonne quelque chose, faites-le autant que vous le pouvez, et si je vous l’interdis, alors évitez-le. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 1
+			}
+		}
+	]
+}

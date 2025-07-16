@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 578,
+			"arabicnumber": 578,
+			"text": "Rapporté par Abu Hurairah : Un homme lui a demandé : \"Combien d'eau dois-je verser sur ma tête quand je suis impur ?\" Il a répondu : \"Le Messager d'Allah versait trois poignées d'eau sur sa tête.\" L'homme a dit : \"Mes cheveux sont longs.\" Il a répondu : \"Le Messager d'Allah avait plus de cheveux que toi et il était plus propre",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 312
+			}
+		}
+	]
+}

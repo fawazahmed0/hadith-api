@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4090,
+			"arabicnumber": 4090,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Allah, le Très-Haut, dit : “L’orgueil est Mon manteau et la majesté Mon vêtement. Celui qui cherche à rivaliser avec Moi pour l’un d’eux, Je le jetterai en Enfer.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 71
+			}
+		}
+	]
+}

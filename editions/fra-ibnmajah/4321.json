@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4321,
+			"arabicnumber": 4321,
+			"text": "Rapporté par Anas ibn Malik : Le Messager d’Allah (ﷺ) a dit : “Le Jour de la Résurrection, le mécréant qui a vécu le plus dans le luxe sera amené, et on dira : ‘Plonge-le une fois dans l’Enfer.’ Il y sera plongé, puis on lui demandera : ‘Ô untel, as-tu déjà connu un plaisir ?’ Il répondra : ‘Non, je n’ai jamais connu de plaisir.’ Ensuite, le croyant qui a le plus souffert et connu de difficultés sera amené et on dira : ‘Plonge-le une fois au Paradis.’ Il y sera plongé, puis on lui demandera : ‘Ô untel, as-tu déjà souffert ou connu des difficultés ?’ Il répondra : ‘Je n’ai jamais souffert ni connu de difficultés.’”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 222
+			}
+		}
+	]
+}

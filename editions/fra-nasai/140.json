@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 140,
+			"arabicnumber": 140,
+			"text": "Rapporté par 'Amr bin Shu'aib, d'après son père, d'après son grand-père : Un bédouin est venu voir le Prophète (ﷺ) pour lui demander comment faire les ablutions. Il lui a montré comment faire, en lavant chaque partie trois fois, puis il a dit : \"Voici comment on fait les ablutions. Celui qui fait plus que cela a mal agi, a exagéré et a commis une erreur",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 141
+			}
+		}
+	]
+}

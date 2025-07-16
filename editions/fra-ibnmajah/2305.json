@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2305,
+			"arabicnumber": 2305,
+			"text": "Rapporté par 'Urwah Al-Bariqi : Selon un hadith Marfu’, \"Les chameaux sont la fierté de leurs propriétaires, les moutons sont une bénédiction, et le bien est attaché à la crinière des chevaux jusqu'au Jour de la Résurrection",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 169
+			}
+		}
+	]
+}

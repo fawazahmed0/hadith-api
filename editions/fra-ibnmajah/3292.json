@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3292,
+			"arabicnumber": 3292,
+			"text": "Rapporté par Qatadah, d’Anas bin Malik : Le Prophète (ﷺ) ne mangeait jamais dans un plat ou une assiette individuelle. On lui demanda : « D’où mangeait-il alors ? » Il répondit : « Sur une nappe posée au sol. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 42
+			}
+		}
+	]
+}

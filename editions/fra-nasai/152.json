@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 152,
+			"arabicnumber": 152,
+			"text": "Rapporté par Ali : « J’étais un homme qui avait beaucoup de pertes prostatiques, et la fille du Prophète (ﷺ) était mariée avec moi, alors j’avais honte de lui poser la question à ce sujet. J’ai dit à un homme assis à côté de moi : “Demande-lui”, alors il lui a demandé et il a dit : “Fais les ablutions pour cela.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 153
+			}
+		}
+	]
+}

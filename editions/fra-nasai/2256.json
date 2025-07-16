@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2256,
+			"arabicnumber": 2256,
+			"text": "Rapporté par Saeed bin Al-Musayyab : Le Messager d'Allah ﷺ a dit : \"Ce n'est pas un acte de piété de jeûner en voyage.\" (Sahih) Abu 'Abdur-Rahman (An-Nasai) a dit : Ceci est une erreur, et ce qui est correct est le hadith précédent. Nous ne connaissons personne qui ait suivi Ibn Kathir",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 167
+			}
+		}
+	]
+}

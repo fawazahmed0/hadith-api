@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1846,
+			"arabicnumber": 1846,
+			"text": "Rapporté par Ibn ‘Umar رضي الله عنه : Le Prophète ﷺ a été interrogé sur les créatures qu’un pèlerin peut tuer en état de sacralisation. Il a dit : « Il y a cinq créatures qu’il n’est pas interdit de tuer, que ce soit à l’intérieur ou à l’extérieur du territoire sacré : le scorpion, le corbeau, le rat, la buse et le chien agressif. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1199)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 126
+			}
+		}
+	]
+}

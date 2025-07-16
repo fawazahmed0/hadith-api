@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 616,
+			"arabicnumber": 616,
+			"text": "Rapporté par Mughirah ibn Shu‘bah رضي الله عنه : Le Prophète ﷺ a dit : « L’imam ne doit pas prier à l’endroit où il a dirigé la prière tant qu’il ne s’est pas déplacé. » Abu Dawud a précisé : ‘Ata’ al-Khurasani n’a pas vu Mughirah ibn Shu‘bah (ce récit est donc munqati‘, c’est-à-dire qu’il manque un maillon dans la chaîne)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 226
+			}
+		}
+	]
+}

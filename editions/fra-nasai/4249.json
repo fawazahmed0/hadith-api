@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4249,
+			"arabicnumber": 4249,
+			"text": "Rapporté par 'Abdullah bin 'Ukaim : On nous a lu la lettre du Messager d’Allah ﷺ alors que j’étais encore jeune : « N’utilisez pas les peaux et les tendons des animaux morts. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 28
+			}
+		}
+	]
+}

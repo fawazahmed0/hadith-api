@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5581,
+			"arabicnumber": 5581,
+			"text": "Rapporté par Ibn Sirin : « Un homme est venu voir Ibn 'Umar et a dit : “Nos familles préparent des boissons pour nous en faisant tremper des fruits le soir, et le matin nous les buvons.” Il a répondu : “Je vous interdis de boire des boissons enivrantes, que ce soit en petite ou grande quantité. Qu’Allah en soit témoin, je vous interdis de boire des boissons enivrantes, que ce soit en petite ou grande quantité. Qu’Allah en soit témoin, les gens de Khaybar préparaient des boissons en faisant tremper telle ou telle chose, ils l’appelaient d’un certain nom mais c’était du khamr. Les gens de Fadak faisaient de même, ils l’appelaient autrement mais c’était du khamr.” Et il a cité quatre choses, dont le miel. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 43
+			}
+		}
+	]
+}

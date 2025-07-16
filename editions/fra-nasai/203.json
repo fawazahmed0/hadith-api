@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 203,
+			"arabicnumber": 203,
+			"text": "Rapporté par 'Aïcha : Umm Habibah bint Jahsh a eu des saignements hors règles (Istihadah) pendant sept ans. Elle s’en est plainte au Messager d’Allah (ﷺ) et le Messager d’Allah (ﷺ) a dit : « Ce n’est pas les règles, c’est un saignement d’une veine. Alors fais le Ghusl puis prie. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 204
+			}
+		}
+	]
+}

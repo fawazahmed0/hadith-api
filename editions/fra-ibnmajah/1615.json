@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1615,
+			"arabicnumber": 1615,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah (ﷺ) a dit : « Celui qui meurt d'une maladie meurt en martyr. Il est protégé du châtiment de la tombe et il reçoit sa subsistance du Paradis matin et soir. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sanad Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 183
+			}
+		}
+	]
+}

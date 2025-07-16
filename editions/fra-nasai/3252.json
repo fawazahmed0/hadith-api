@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3252,
+			"arabicnumber": 3252,
+			"text": "Rapporté par Anas bin Malik : Zainab bint Jahsh se vantait auprès des autres épouses du Prophète ﷺ et disait : \"Allah m’a mariée à lui depuis au-dessus des cieux.\" Et le verset du hijab a été révélé à son sujet",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 57
+			}
+		}
+	]
+}

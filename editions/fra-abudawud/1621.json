@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1621,
+			"arabicnumber": 1621,
+			"text": "Abd Allah ibn Tha’labah a dit (le narrateur Ahmad ibn Salih a précisé : Il, c’est-à-dire “Abd al-Razzaq, a dit : Il est ‘Adawl. Abu Dawud a dit : Ahmed ibn Salih a dit : Il est ‘Adhri) : Le Messager d’Allah ﷺ a prononcé un discours deux jours avant la fin du jeûne (‘Id). Il a ensuite transmis la tradition comme celle d’al Muqri (‘Abd Allah ibn Yazid)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 66
+			}
+		}
+	]
+}

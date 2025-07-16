@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1598,
+			"arabicnumber": 1598,
+			"text": "Waki’ a dit : « Ba’l » désigne la récolte agricole qui pousse grâce à l’eau de pluie. Ibn Al Aswad a dit, et Yahya, c’est-à-dire Ibn Adam, a dit : J’ai demandé à Abu Iyas al Asadi à propos du mot « ba’l ». Il a répondu : « C’est ce qui est arrosé par la pluie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 43
+			}
+		}
+	]
+}

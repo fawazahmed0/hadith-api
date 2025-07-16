@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3688,
+			"arabicnumber": 3688,
+			"text": "Rapporté par AbdurRahman ibn Ghanam : Malik ibn AbuMaryam a dit : AbdurRahman ibn Ghanam est venu chez nous et nous avons discuté du tila’. Il a dit : AbuMalik al-Ash’ari m’a raconté qu’il avait entendu le Messager d’Allah ﷺ dire : « Certains de mes compagnons boiront sûrement du vin en lui donnant un autre nom. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 20
+			}
+		}
+	]
+}

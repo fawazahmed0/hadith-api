@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 3242,
+				"hadithnumber_last": 3325,
+				"arabicnumber_first": 3242,
+				"arabicnumber_last": 3325
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3291,
+			"arabicnumber": 3291,
+			"text": "La tradition mentionnée ci-dessus a aussi été transmise par al-Zuhri par une autre chaîne de transmetteurs avec le même sens. Abu Dawud a dit : J’ai entendu Ahmad b. Shabbuyah dire : Ibn al-Mubarak a dit à propos de cette tradition qu’Abu Salamah l’a transmise. Cela indique qu’al-Zuhri ne l’a pas entendue d’Abu Salamah. Ahmad b. Muhammad a dit : Ceci est confirmé par ce qu’Ayyub b. Sulaiman nous a rapporté. Abu Dawud a dit : J’ai entendu Ahmad b. Hanbal dire : J’ai corrompu cette tradition pour nous. On lui a demandé : Penses-tu que cette tradition a été corrompue ? Est-ce qu’une autre personne qu’Ibn Abi Uwais l’a transmise ? Il a répondu : Ayyub était aussi fiable que lui, et Ayyub l’a transmise",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 50
+			}
+		}
+	]
+}

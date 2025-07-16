@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4640,
+			"arabicnumber": 4640,
+			"text": "Rapporté par Jabir : \"Le Messager d'Allah m'a rejoint alors que je montais un de nos mauvais chameaux, et j'ai dit : 'Nous avons un mauvais chameau, il est dans le trou !' Le Prophète a dit : 'Veux-tu me le vendre, ô Jabir ?' J'ai dit : 'Non, il est à toi, ô Messager d'Allah.' Il a dit : 'Ô Allah, pardonne-lui ; ô Allah, fais-lui miséricorde. Je l'achèterai pour telle somme, et je te le prêterai pour que tu le montes jusqu'à (notre arrivée) à Médine.' Quand nous sommes arrivés à Médine, je l'ai préparé et amené au Prophète, et il a dit : 'Ô Bilal, donne-lui son prix.' Quand je me suis retourné pour partir, il m'a rappelé, et j'ai eu peur qu'il me le rende, mais il a dit : 'Il est à toi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 192
+			}
+		}
+	]
+}

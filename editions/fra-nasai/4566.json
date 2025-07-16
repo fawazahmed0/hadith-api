@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4566,
+			"arabicnumber": 4566,
+			"text": "Rapporté par 'Ubadah bin As-Samit : J'ai entendu le Messager d'Allah ﷺ dire : \"Or, même quantité.\" (Un des rapporteurs, Yaqub, n'a pas mentionné : \"Même quantité.\") Muawiyah a dit : \"Cela ne veut rien dire.\" Ubadah a dit : \"Par Allah, cela m'est égal d'être dans un pays où Muawiyah n'est pas présent. J'atteste que j'ai entendu le Messager d'Allah ﷺ dire cela",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 118
+			}
+		}
+	]
+}

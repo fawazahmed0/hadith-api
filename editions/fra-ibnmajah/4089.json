@@ -1,0 +1,51 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"36": "Tribulations"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3927,
+				"hadithnumber_last": 4099,
+				"arabicnumber_first": 3927,
+				"arabicnumber_last": 4099
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4089,
+			"arabicnumber": 4089,
+			"text": "Rapporté par Jubair bin Nufair : Jubair m’a dit : \"Allons voir Dhu Mikhmar, qui était un compagnon du Prophète (ﷺ).\" Je suis donc allé avec eux et il lui a demandé au sujet du traité de paix avec les Romains. Il a dit : \"J’ai entendu le Prophète (ﷺ) dire : ‘Les Romains concluront un traité de paix avec vous, puis vous vous combattrez comme ennemis, et vous serez victorieux ; vous prendrez le butin et serez en sécurité. Ensuite, vous reviendrez jusqu’à vous arrêter dans une prairie avec de nombreuses collines. Un homme parmi les gens de la Croix lèvera la Croix et dira : “La Croix a triomphé.” Alors un musulman se mettra en colère, ira briser la Croix. Les Romains trahiront alors le traité et se rassembleront pour la grande bataille.’",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 164
+			}
+		},
+		{
+			"hadithnumber": 4089.2,
+			"arabicnumber": 4089.2,
+			"text": "Rapporté par un autre transmetteur : Un autre récit similaire ajoute : \"Ils se rassembleront pour la grande bataille, et à ce moment-là, ils viendront avec quatre-vingts bannières, chacune menée par douze mille soldats",
+			"grades": [],
+			"reference": {
+				"book": 36,
+				"hadith": 165
+			}
+		}
+	]
+}

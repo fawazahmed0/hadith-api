@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5541,
+			"arabicnumber": 5541,
+			"text": "Rapporté par Anas bin Malik : Alors que je m’occupais d’un groupe de personnes, dont mes oncles paternels, et que j’étais le plus jeune parmi eux, un homme est venu et a dit : \"Le khamr a été interdit.\" Je m’occupais d’eux et je leur servais du Fadikh (vin de dattes). Ils ont dit : \"Jette-le.\" Alors je l’ai jeté. J’ai demandé à Anas : \"Qu’est-ce que c’est ?\" Il a répondu : \"Des dattes fraîches et des dattes sèches.\" Abu Bakr bin Anas a dit : \"C’était leur vin à cette époque.\" Et Anas ne l’a pas nié",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 2
+			}
+		}
+	]
+}

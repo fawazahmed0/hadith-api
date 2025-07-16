@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"16": "The Chapters on Pawning"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2436,
+				"hadithnumber_last": 2491,
+				"arabicnumber_first": 2436,
+				"arabicnumber_last": 2491
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2486,
+			"arabicnumber": 2486,
+			"text": "Rapporté par 'Abdullah bin Mughaffal : Le Prophète (ﷺ) a dit : \"Celui qui creuse un puits a droit à une zone de quarante coudées autour de celui-ci comme lieu de repos pour ses troupeaux",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 51
+			}
+		}
+	]
+}

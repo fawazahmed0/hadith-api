@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 684,
+			"arabicnumber": 684,
+			"text": "Rapporté par 'Ali bin Abu Talib : Le jour de Khandaq, le Messager d'Allah ﷺ a dit : \"Qu'Allah remplisse de feu leurs maisons et leurs tombes, car ils nous ont détournés de la prière du milieu",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 18
+			}
+		}
+	]
+}

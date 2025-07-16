@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 327,
+			"arabicnumber": 327,
+			"text": "Rapporté par 'Aishah رضي الله عنها : \"Le Prophète est sorti pour uriner, et 'Umar l’a suivi avec de l’eau. Il lui a dit : « Qu’est-ce que c’est, ô 'Umar ? » Il a répondu : « De l’eau. » Il a dit : « Je n’ai pas reçu l’ordre de faire les ablutions chaque fois que j’urine. Si je faisais cela, cela deviendrait une Sunna. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 61
+			}
+		}
+	]
+}

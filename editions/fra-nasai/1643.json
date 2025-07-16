@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1643,
+			"arabicnumber": 1643,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) est entré dans la mosquée et a vu une corde attachée entre deux piliers. Il a dit : \"Qu’est-ce que c’est ?\" Ils ont répondu : \"C’est pour Zaynab quand elle prie ; si elle se fatigue, elle s’y tient.\" Le Prophète (ﷺ) a dit : \"Détachez-la. Que chacun prie tant qu’il a de l’énergie, et s’il se fatigue, qu’il s’asseye",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 46
+			}
+		}
+	]
+}

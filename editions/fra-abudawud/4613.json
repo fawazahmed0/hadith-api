@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4613,
+			"arabicnumber": 4613,
+			"text": "Rapporté par Nafi’ : Ibn ‘Umar avait un ami parmi les gens de Syrie avec qui il correspondait. ‘Abd Allah b. ‘Umar lui a écrit : « J’ai appris que tu as parlé au sujet du décret divin. Écris-le-moi, car j’ai entendu le Messager d’Allah ﷺ dire : “Il y aura dans ma communauté des gens qui nieront le décret divin.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 18
+			}
+		}
+	]
+}

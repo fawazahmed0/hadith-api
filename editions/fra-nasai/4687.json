@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4687,
+			"arabicnumber": 4687,
+			"text": "Rapporté par ‘Ubaidullah bin ‘Abdullah bin ‘Utbah : Maimouna, l’épouse du Prophète ﷺ, avait contracté un prêt, et on lui a dit : \"Ô Mère des Croyants, pourquoi as-tu pris un prêt alors que tu n’as pas de quoi le rembourser ?\" Elle a répondu : \"J’ai entendu le Messager d’Allah ﷺ dire : 'Celui qui prend un prêt avec l’intention de le rembourser, Allah, le Puissant et Majestueux, l’aidera",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 239
+			}
+		}
+	]
+}

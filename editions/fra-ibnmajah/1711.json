@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1711,
+			"arabicnumber": 1711,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) jeûnait au point qu’on pensait qu’il ne s’arrêterait jamais, et il arrêtait de jeûner au point qu’on pensait qu’il ne jeûnerait plus. Et il n’a jamais jeûné un mois complet sauf Ramadan, depuis qu’il est arrivé à Médine",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 74
+			}
+		}
+	]
+}

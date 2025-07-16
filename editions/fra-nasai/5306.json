@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5306,
+			"arabicnumber": 5306,
+			"text": "Rapporté par Imran bin Hittan : Il a interrogé 'Abdullah bin 'Abbas à propos du port de la soie. Il lui a dit : « Demande à 'Aishah. » Je suis donc allé demander à 'Aishah, qui m'a dit : « Demande à 'Abdullah bin 'Umar. » Je suis alors allé voir Ibn 'Umar, qui a dit : « Abu Hafs m'a rapporté que le Messager d'Allah ﷺ a dit : “Celui qui porte de la soie dans ce monde n'aura aucune part dans l'au-delà.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 267
+			}
+		}
+	]
+}

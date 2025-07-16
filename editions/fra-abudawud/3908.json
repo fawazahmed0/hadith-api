@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"30": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3904,
+				"hadithnumber_last": 3925,
+				"arabicnumber_first": 3904,
+				"arabicnumber_last": 3925
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3908,
+			"arabicnumber": 3908,
+			"text": "Rapporté par Muhammad b. Ja’far, d’après ‘Awf : ‘Iyafah signifie faire s’envoler les oiseaux en les effrayant. Tarq signifie tracer des lignes sur la terre",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 5
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3114,
+			"arabicnumber": 3114,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Celui qui souhaite du mal aux habitants d’Al-Madinah, Allah le fera fondre comme le sel fond dans l’eau. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 233
+			}
+		}
+	]
+}

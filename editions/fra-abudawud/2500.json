@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2500,
+			"arabicnumber": 2500,
+			"text": "Rapporté par Fadalah ibn Ubayd رضي الله عنه : « Le Prophète ﷺ a dit : “Toute personne qui meurt aura terminé ses actions, sauf celui qui est en poste à la frontière (dans le chemin d’Allah), car ses œuvres continueront d’augmenter jusqu’au Jour de la Résurrection, et il sera protégé de l’épreuve de la tombe.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 24
+			}
+		}
+	]
+}

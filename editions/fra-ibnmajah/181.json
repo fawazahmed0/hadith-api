@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 181,
+			"arabicnumber": 181,
+			"text": "Rapporté par Waki' bin Hudus, de la part de son oncle paternel Abu Razin : Le Messager d'Allah ﷺ a dit : « Allah rit du désespoir de Ses serviteurs alors qu'Il change bientôt leur situation. » J'ai dit : « Ô Messager d'Allah, est-ce que le Seigneur rit ? » Il a répondu : « Oui. » J'ai dit : « Nous ne serons jamais privés de bien d'un Seigneur qui rit. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 181
+			}
+		}
+	]
+}

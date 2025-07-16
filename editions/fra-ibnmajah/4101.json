@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4101,
+			"arabicnumber": 4101,
+			"text": "Rapporté par Abu Khallad, qui était un des compagnons du Prophète (ﷺ) : Le Messager d’Allah (ﷺ) a dit : \"Si tu vois un homme qui se détache de ce monde et parle peu, rapproche-toi de lui car il t’apportera sûrement de la sagesse",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 2
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 131,
+			"arabicnumber": 131,
+			"text": "Rapporté par 'Amr bin 'Amir, d'après Anas : Le Messager d'Allah (ﷺ) a reçu un petit récipient d'eau et il a fait ses ablutions. J'ai demandé : \"Le Messager d'Allah (ﷺ) faisait-il ses ablutions pour chaque prière ?\" Il a répondu : \"Oui.\" J'ai demandé : \"Et vous ?\" Il a dit : \"Nous faisions toutes les prières tant que nous n'avions pas perdu notre état de pureté.\" Il a ajouté : \"Nous faisions toutes les prières avec une seule ablution",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 132
+			}
+		}
+	]
+}

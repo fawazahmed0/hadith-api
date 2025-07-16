@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"9": "The Chapters on Marriage"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1845,
+				"hadithnumber_last": 2015,
+				"arabicnumber_first": 1845,
+				"arabicnumber_last": 2015
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1978,
+			"arabicnumber": 1978,
+			"text": "Rapporté par 'Abdullah bin 'Amr : Le Messager d’Allah a dit : \"Les meilleurs d’entre vous sont ceux qui sont les meilleurs envers leurs femmes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 134
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1815,
+			"arabicnumber": 1815,
+			"text": "Rapporté par Al-Fadl ibn Abbas : L’Envoyé d’Allah ﷺ a prononcé la talbiyah jusqu’à ce qu’il jette les cailloux à Jamrat al-‘Aqabah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1685) Sahih Muslim (1280)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 95
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 456,
+			"arabicnumber": 456,
+			"text": "Rapporté par Ibn ‘Abbas : La prière a été prescrite par la bouche du Prophète (ﷺ), quatre Rak‘a pour les résidents, deux en voyage, et une Rak‘a en temps de peur",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 9
+			}
+		}
+	]
+}

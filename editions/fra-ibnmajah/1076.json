@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"5": "Establishing the Prayer and the Sunnah Regarding Them"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 803,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 803,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1076,
+			"arabicnumber": 1076,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) est resté à La Mecque pendant quinze nuits l’année de la Conquête, durant lesquelles il a raccourci sa prière",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 274
+			}
+		}
+	]
+}

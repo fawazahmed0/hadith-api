@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1638,
+			"arabicnumber": 1638,
+			"text": "Basheer ibn Yasar a dit qu’un homme des Ansar appelé Sahi ibn abu-Hatmah lui a raconté que le Messager d’Allah ﷺ lui a donné cent chameaux en compensation, pris parmi les chameaux de la sadaqah, c’est-à-dire en réparation pour l’Ansari qui avait été tué à Khaybar",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 83
+			}
+		}
+	]
+}

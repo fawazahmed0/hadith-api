@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1129,
+			"arabicnumber": 1129,
+			"text": "Rapporté par Aïcha رضي الله عنها : Le Prophète (ﷺ) disait, lorsqu’il faisait une prosternation requise lors de la récitation du Coran la nuit : \"Sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam’ahu wa basarahu bihawlihi wa quwwatih\" (\"Mon visage s’est prosterné devant Celui qui l’a créé et formé, qui lui a donné l’ouïe et la vue par Sa puissance et Sa force)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 101
+			}
+		}
+	]
+}

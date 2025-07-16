@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 751,
+			"arabicnumber": 751,
+			"text": "Rapporté par Qatadah : J’ai dit à Jabir bin Zaid : \"Qu’est-ce qui annule la prière ?\" Il a répondu : \"Ibn Abbas disait : Une femme en période de menstruation et un chien.\" Yahya (un des rapporteurs) a dit : \"Shubah a dit que c’était un hadith marfu",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 10
+			}
+		}
+	]
+}

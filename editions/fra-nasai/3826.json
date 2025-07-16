@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3826,
+			"arabicnumber": 3826,
+			"text": "Rapporté par 'Ubaydullah bin Ka'b : « J'ai entendu mon père Ka'b bin Malik raconter : 'J'ai dit : Ô Messager d'Allah, Allah, le Tout-Puissant et Majestueux, m'a sauvé grâce à ma sincérité, et dans le cadre de mon repentir, je veux donner mes biens en aumône à Allah et à Son Messager.' Il a dit : \"Garde une partie de tes biens pour toi ; c'est mieux pour toi.\" J'ai dit : \"Je garderai ma part qui se trouve à Khaibar.\" »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 66
+			}
+		}
+	]
+}

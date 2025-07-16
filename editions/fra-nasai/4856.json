@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"45": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+		},
+		"section_detail": {
+			"45": {
+				"hadithnumber_first": 4706,
+				"hadithnumber_last": 4869,
+				"arabicnumber_first": 4706,
+				"arabicnumber_last": 4869
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4856,
+			"arabicnumber": 4856,
+			"text": "Rapporté par Az-Zuhri : Abou Bakr ibn Hazm m’a apporté une lettre écrite sur un morceau de cuir venant du Messager d’Allah : « Ceci est une déclaration d’Allah et de Son Messager : “Ô vous qui croyez ! Remplissez vos engagements.” » Il a ensuite cité quelques versets de cette lettre, puis il a dit : « Pour une vie, cent chameaux ; pour un œil, cinquante chameaux ; pour une main, cinquante ; pour un pied, cinquante ; pour un coup à la tête qui atteint le cerveau, un tiers du diyah ; pour une main, cinquante ; pour une blessure profonde, un tiers du diyah ; pour un coup qui casse un os, quinze chameaux ; pour chaque doigt, dix ; pour chaque dent, cinq ; et pour une blessure qui met l’os à nu, cinq. » (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 45,
+				"hadith": 151
+			}
+		}
+	]
+}

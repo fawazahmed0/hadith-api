@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3941,
+			"arabicnumber": 3941,
+			"text": "Le récit mentionné ci-dessus a aussi été transmis par Ibn ‘Umar رضي الله عنه avec le même sens, mais par une autre chaîne de transmetteurs. Nafi‘ disait parfois : « Il sera affranchi à hauteur de la part qui a été libérée », et parfois il ne disait pas ces mots",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1501)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 16
+			}
+		}
+	]
+}

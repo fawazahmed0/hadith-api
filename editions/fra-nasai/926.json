@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 926,
+			"arabicnumber": 926,
+			"text": "Rapporté par Abu Hurairah : Le Prophète (ﷺ) a dit : \"Quand le récitant dit Amin, dites aussi : « Amin », car les anges disent Amin, et si le Amin d’une personne coïncide avec celui des anges, Allah lui pardonnera ses péchés passés",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 51
+			}
+		}
+	]
+}

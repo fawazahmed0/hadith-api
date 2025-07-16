@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 242,
+			"arabicnumber": 242,
+			"text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Lorsque le Messager d’Allah ﷺ prenait un bain rituel après une impureté majeure, selon la version de Sulaiman, il commençait par verser de l’eau avec sa main droite (sur sa main gauche) ; et selon la version de Musaddad, il lavait les deux mains en versant de l’eau du récipient sur sa main droite. Selon la version commune, il lavait ensuite la partie intime. Puis il faisait les ablutions comme pour la prière, puis mettait ses mains dans le récipient et faisait passer l’eau dans ses cheveux. Lorsqu’il savait que l’eau avait atteint toute la surface de son corps et qu’il l’avait bien nettoyé, il versait de l’eau sur sa tête trois fois. S’il restait de l’eau, il s’en versait aussi sur lui-même",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (248) Sahih Muslim (316)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 242
+			}
+		}
+	]
+}

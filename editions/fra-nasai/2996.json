@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2996,
+			"arabicnumber": 2996,
+			"text": "Rapporté par Muhammad bin Ibrahim At-Taimi, d’après un homme parmi eux appelé Abdulrahman bin Muadh : Le Messager d’Allah ﷺ nous a adressé un discours à Mina, et Allah nous a permis d’entendre ce qu’il disait alors que nous étions dans nos campements. Le Prophète ﷺ a commencé à nous enseigner les rites jusqu’à ce qu’il arrive au Himar (le jet des cailloux), et il a dit : « Cherchez des cailloux de la taille de noyaux de dattes ou du bout des doigts. » Et il a dit aux Mouhajiroun de camper devant la mosquée et aux Ansar de camper derrière la mosquée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 379
+			}
+		}
+	]
+}

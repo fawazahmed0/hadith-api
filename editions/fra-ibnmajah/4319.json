@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4319,
+			"arabicnumber": 4319,
+			"text": "Rapporté par Abu Hurayrah : Le Messager d’Allah (ﷺ) a dit : “Le Feu s’est plaint à son Seigneur et a dit : ‘Ô Seigneur, une partie de moi a consumé une autre partie.’ Alors Il lui a accordé deux moments pour souffler, un en hiver et un en été. Le froid intense que vous ressentez (en hiver) vient de son gel extrême (Zamharir) et la chaleur intense que vous ressentez en été vient de son vent brûlant (Samum).”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 220
+			}
+		}
+	]
+}

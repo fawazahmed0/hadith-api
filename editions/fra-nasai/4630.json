@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4630,
+			"arabicnumber": 4630,
+			"text": "Rapporté par 'Amr bin Shu'aib : Mon père m'a raconté, rapportant de son père, de son père (et il a mentionné 'Abdullah bin 'Amr) qu'il a dit : \"Le Messager d'Allah a dit : 'Il n'est pas permis de prêter à condition de vendre, ni de poser deux conditions dans une seule transaction, ni de tirer profit de ce que vous ne possédez pas",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 182
+			}
+		}
+	]
+}

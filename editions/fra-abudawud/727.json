@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 727,
+			"arabicnumber": 727,
+			"text": "La tradition ci-dessus a aussi été transmise par ‘Asim ibn Kulaib avec une chaîne différente et dans le même sens. Cette version précise : « Il a ensuite posé sa main droite sur le dos de la main gauche, sur le poignet et l’avant-bras. » Elle ajoute aussi : « Je suis revenu plus tard, pendant une saison de grand froid. J’ai vu les gens porter des vêtements épais et lever les mains sous leurs habits (c’est-à-dire lever les mains avant et après l’inclinaison). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 337
+			}
+		}
+	]
+}

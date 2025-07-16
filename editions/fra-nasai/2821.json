@@ -1,0 +1,51 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2821,
+			"arabicnumber": 2821,
+			"text": "Rapporté par ‘Ata’ رضي الله عنه que Ibn ‘Abbas رضي الله عنه a dit à Zaid bin Arqam رضي الله عنه : \"Ne sais-tu pas que le Prophète ﷺ a reçu un morceau de viande de gibier alors qu’il était en Ihram et qu’il ne l’a pas accepté ?\" Il a répondu : \"Oui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 203
+			}
+		},
+		{
+			"hadithnumber": 2821.2,
+			"arabicnumber": 2821.2,
+			"text": "Rapporté par Ibn ‘Abbas رضي الله عنه : Zaid bin Arqam رضي الله عنه est venu et Ibn Abbas رضي الله عنه lui a rappelé : \"Que m’as-tu dit à propos de la viande de gibier qui a été donnée au Messager d’Allah ﷺ alors qu’il était en Ihram ?\" Il a répondu : \"Oui, un homme lui a donné un morceau de viande de gibier mais il l’a refusé et a dit : \"Nous ne pouvons pas en manger, nous sommes en Ihram",
+			"grades": [],
+			"reference": {
+				"book": 24,
+				"hadith": 204
+			}
+		}
+	]
+}

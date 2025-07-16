@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 722,
+			"arabicnumber": 722,
+			"text": "Rapporté par ‘Abd Allah ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ levait les mains à hauteur des épaules quand il commençait la prière, puis il prononçait le takbir (Allah est le plus grand) dans cette position, puis il s’inclinait. Et quand il relevait le dos (la tête) après l’inclinaison, il levait les mains à hauteur des épaules et disait : « Allah entend celui qui Le loue. » Mais il ne levait pas les mains en se prosternant ; il les levait plutôt lorsqu’il prononçait le takbir avant l’inclinaison, jusqu’à la fin de sa prière",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 332
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3899,
+			"arabicnumber": 3899,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Un homme piqué par un scorpion a été amené au Prophète ﷺ. Il a dit : « S’il avait dit : ‘Je me réfugie dans les paroles parfaites d’Allah contre le mal de ce qu’Il a créé’, il n’aurait pas été piqué, ou bien cela ne lui aurait pas fait de mal. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 45
+			}
+		}
+	]
+}

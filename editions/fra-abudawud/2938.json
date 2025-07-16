@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2938,
+			"arabicnumber": 2938,
+			"text": "Rapporté par Ibn Ishaq : Sahib maks désigne celui qui prélève la dîme sur les gens",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 11
+			}
+		}
+	]
+}

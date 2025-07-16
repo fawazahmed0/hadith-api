@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"46": "The Book of Cutting off the Hand of the Thief"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 4870,
+				"hadithnumber_last": 4984,
+				"arabicnumber_first": 4870,
+				"arabicnumber_last": 4984
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4876,
+			"arabicnumber": 4876,
+			"text": "Rapporté par Bahz ibn Hakim, d’après son père, d’après son grand-père : Le Messager d’Allah ﷺ a retenu un homme qui était soupçonné, puis il l’a relâché. (Hassan)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 46,
+				"hadith": 7
+			}
+		}
+	]
+}

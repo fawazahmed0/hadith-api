@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"17": "The Book of Praying for Rain (Al-Istisqa')"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 1504,
+				"hadithnumber_last": 1528,
+				"arabicnumber_first": 1504,
+				"arabicnumber_last": 1528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1519,
+			"arabicnumber": 1519,
+			"text": "Rapporté par Ibn Shihab : 'Abbad bin Tamim m’a dit qu’il avait entendu son oncle paternel, qui était l’un des compagnons du Messager d’Allah (ﷺ), dire : « Le Messager d’Allah (ﷺ) est sorti un jour pour prier pour la pluie. Il a tourné le dos aux gens, priant Allah (SWT), puis il s’est tourné vers la Qibla. Il a retourné son rida’, puis il a prié deux rak‘as. » (Un des rapporteurs) Ibn Abi Dhi’b a dit dans le hadith : « Et il a récité dans les deux. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 16
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3241,
+			"arabicnumber": 3241,
+			"text": "Rapporté par Ibn ‘Abbas رضي الله عنه : Un homme en état d’ihram a été jeté à terre par sa chamelle, il s’est brisé le cou et il est mort. On l’a amené au Messager d’Allah ﷺ, qui a dit : « Lavez-le et enveloppez-le, mais ne couvrez pas sa tête et ne mettez aucun parfum sur lui, car il sera ressuscité le Jour de la Résurrection en récitant la talbiyah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1839)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 153
+			}
+		}
+	]
+}

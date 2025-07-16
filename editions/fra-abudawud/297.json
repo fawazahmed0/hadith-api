@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 297,
+			"arabicnumber": 297,
+			"text": "Rapporté par le grand-père d’Adi ibn Thabit : Le Prophète ﷺ a dit à propos de la femme ayant un écoulement de sang prolongé : « Elle doit s’abstenir de prier pendant sa période menstruelle ; ensuite, elle doit prendre un bain et prier. Elle doit faire les ablutions pour chaque prière. » Abu Dawud a dit : 'Uthman a ajouté : « Elle doit jeûner et prier. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 297
+			}
+		}
+	]
+}

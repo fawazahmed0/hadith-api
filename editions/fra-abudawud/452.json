@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 452,
+			"arabicnumber": 452,
+			"text": "Rapporté par Ibn 'Umar رضي الله عنه : Les piliers de la mosquée du Prophète ﷺ, du temps du Messager d’Allah ﷺ, étaient faits de troncs de palmier ; ils étaient recouverts au-dessus de branches de palmier ; ils se sont détériorés sous le califat d’Abu Bakr. Il l’a reconstruite avec des troncs et des branches de palmier. Mais ils se sont à nouveau abîmés sous le califat de ‘Uthman. Il l’a donc reconstruite en briques. Cela existe encore aujourd’hui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 62
+			}
+		}
+	]
+}

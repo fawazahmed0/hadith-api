@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"21": "The Chapters on Blood Money"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 2615,
+				"hadithnumber_last": 2694,
+				"arabicnumber_first": 2615,
+				"arabicnumber_last": 2694
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2650,
+			"arabicnumber": 2650,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d’Allah (ﷺ) a dit : “Toutes les dents sont égales ; l’incisive et la molaire sont pareilles.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 36
+			}
+		}
+	]
+}

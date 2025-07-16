@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2670,
+			"arabicnumber": 2670,
+			"text": "Rapporté par Ibn 'Umar : Un homme a dit : \"Ô Messager d'Allah, quels vêtements devons-nous porter quand nous entrons en état d'Ihram ?\" Il a dit : \"Ne portez pas de chemise, ni de turban, ni de pantalon, ni de chaussures fermées sauf si quelqu'un ne trouve pas de sandales, dans ce cas il doit couper les chaussures pour qu'elles soient en dessous des chevilles, ni aucun vêtement qui a été touché (ou teint) par du Wars ou du safran",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 52
+			}
+		}
+	]
+}

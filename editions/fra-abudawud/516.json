@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 516,
+			"arabicnumber": 516,
+			"text": "Abu Huraira رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Lorsque l’appel à la prière est lancé, le diable tourne le dos et s’enfuit en faisant du bruit pour ne pas entendre l’appel. Mais quand l’appel est terminé, il revient. Lorsque l’iqamah est faite, il tourne de nouveau le dos, puis revient une fois l’iqamah terminée et insuffle des pensées à la personne en prière pour la distraire, lui disant : “Souviens-toi de ceci ou de cela”, évoquant quelque chose auquel la personne ne pensait pas, si bien qu’elle ne sait plus combien elle a prié. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (608) Sahih Muslim (389)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 126
+			}
+		}
+	]
+}

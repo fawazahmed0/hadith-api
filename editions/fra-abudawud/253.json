@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 253,
+			"arabicnumber": 253,
+			"text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Quand l’une d’entre nous était en état d’impureté majeure, elle prenait trois poignées d’eau de cette façon, c’est-à-dire avec les deux mains ensemble, et versait l’eau sur sa tête. Elle prenait une poignée et la jetait d’un côté, puis l’autre de l’autre côté",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (277)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 253
+			}
+		}
+	]
+}

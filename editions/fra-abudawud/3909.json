@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"30": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3904,
+				"hadithnumber_last": 3925,
+				"arabicnumber_first": 3904,
+				"arabicnumber_last": 3925
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3909,
+			"arabicnumber": 3909,
+			"text": "Rapporté par Mu‘awiyah b. al-Hakam al-Sulami رضي الله عنه : J’ai dit : « Messager d’Allah ! Parmi nous, il y a des hommes qui pratiquent la divination en traçant des lignes. » Il a répondu : « Il y avait un Prophète qui traçait des lignes, donc si quelqu’un le fait comme il le faisait, cela est juste. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (537)"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 6
+			}
+		}
+	]
+}

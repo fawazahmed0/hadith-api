@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"8": "The Chapters Regarding Zakat"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1783,
+				"hadithnumber_last": 1844,
+				"arabicnumber_first": 1783,
+				"arabicnumber_last": 1844
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1819,
+			"arabicnumber": 1819,
+			"text": "Rapporté par Attab bin Asid : Le Prophète envoyait quelqu’un chez les gens pour évaluer leurs vignes et leurs fruits",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 37
+			}
+		}
+	]
+}

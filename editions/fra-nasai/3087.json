@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3087,
+			"arabicnumber": 3087,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah a dit : \"J'ai été envoyé avec des paroles concises et j'ai été soutenu par la crainte. Pendant que je dormais, les clés des trésors de la Terre m'ont été apportées et placées dans mes mains.\" Abu Hurairah a dit : \"Le Messager d'Allah est parti et vous êtes en train de les acquérir",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 3
+			}
+		}
+	]
+}

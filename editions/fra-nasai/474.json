@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 474,
+			"arabicnumber": 474,
+			"text": "Rapporté par Abu Qilabah : Abu Al-Malih m’a raconté : \"Nous étions avec Buraidah un jour nuageux et il a dit : 'Priez tôt, car le Messager d’Allah (ﷺ) a dit : \"Celui qui abandonne la prière du ‘Asr, ses bonnes actions seront perdues",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 27
+			}
+		}
+	]
+}

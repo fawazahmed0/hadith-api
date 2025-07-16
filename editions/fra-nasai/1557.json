@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1557,
+			"arabicnumber": 1557,
+			"text": "Rapporté par 'Umair bin Anas, par ses oncles paternels : Des gens ont vu le croissant de lune et sont venus voir le Prophète (ﷺ). Il leur a dit de rompre leur jeûne après le lever du soleil et de sortir pour l’Aïd le matin du jour suivant",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 2
+			}
+		}
+	]
+}

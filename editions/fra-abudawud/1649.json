@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1649,
+			"arabicnumber": 1649,
+			"text": "Rapporté par Malik ibn Nadlah رضي الله عنه : Le Prophète ﷺ a dit : « Il y a trois types de mains : la main d’Allah est la plus haute, la main de celui qui donne est juste en dessous, et la main de celui qui mendie est la plus basse. Donne donc ce qui est en surplus, et ne te laisse pas dominer par tes désirs. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 94
+			}
+		}
+	]
+}

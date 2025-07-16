@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 703,
+			"arabicnumber": 703,
+			"text": "Rapporté par ‘Abdullah bin Mas’ud : Le Messager d’Allah nous a réprimandés parce que nous restions éveillés à discuter après la prière de ‘Isha",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 37
+			}
+		}
+	]
+}

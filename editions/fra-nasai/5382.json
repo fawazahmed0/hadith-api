@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"49": "The Book of the Etiquette of Judges"
+		},
+		"section_detail": {
+			"49": {
+				"hadithnumber_first": 5379,
+				"hadithnumber_last": 5427,
+				"arabicnumber_first": 5379,
+				"arabicnumber_last": 5427
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5382,
+			"arabicnumber": 5382,
+			"text": "Rapporté par Abu Musa : Des gens parmi les Ash‘aris sont venus me voir et m’ont dit : « Viens avec nous voir le Messager d’Allah ﷺ, car nous avons quelque chose à lui demander. » Je suis donc allé avec eux, et ils ont dit : « Ô Messager d’Allah, confie-nous une mission. » Abu Musa dit : J’ai présenté des excuses pour ce qu’ils avaient dit, en expliquant que je ne savais pas ce qu’ils allaient demander. Il m’a cru et m’a excusé, puis il a dit : « Nous ne confions pas nos responsabilités à ceux qui les demandent. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 49,
+				"hadith": 4
+			}
+		}
+	]
+}

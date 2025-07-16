@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3384,
+			"arabicnumber": 3384,
+			"text": "Rapporté par Urwah ibn Abul Ja’d al-Bariqi رضي الله عنه : Le Prophète ﷺ lui a donné un dinar pour acheter un animal de sacrifice ou un mouton. Il a acheté deux moutons, en a vendu un pour un dinar, puis a rapporté au Prophète ﷺ un mouton et un dinar. Le Prophète ﷺ a invoqué la bénédiction sur son commerce, si bien que s’il avait acheté de la poussière, il en aurait tiré profit",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (3642)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 59
+			}
+		}
+	]
+}

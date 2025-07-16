@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 101,
+			"arabicnumber": 101,
+			"text": "Rapporté par Ibn 'Abbas : J'ai vu le Messager d'Allah (ﷺ) faire les ablutions. Il a lavé ses mains, puis il a rincé sa bouche et son nez avec une seule poignée d'eau, il a lavé son visage, il a lavé chaque main une fois, et il a passé une fois ses mains mouillées sur sa tête et ses oreilles. (Un des rapporteurs), 'Abdul-'Aziz, a dit : Quelqu'un qui a entendu Ibn 'Ajlan m'a dit qu'il a ajouté à ce sujet : \"Et il a lavé ses pieds",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 101
+			}
+		}
+	]
+}

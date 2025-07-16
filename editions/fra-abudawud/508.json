@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 508,
+			"arabicnumber": 508,
+			"text": "Rapporté par Anas : Bilal a reçu l’ordre de prononcer l’Adhan en répétant chaque phrase deux fois, et l’IQAMAH en ne répétant chaque phrase qu’une seule fois. Hammam a ajouté dans sa version : « sauf pour l’IQAMAH »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (605) Sahih Muslim (378)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 118
+			}
+		}
+	]
+}

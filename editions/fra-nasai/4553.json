@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4553,
+			"arabicnumber": 4553,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri et Abu Hurairah : Le Messager d’Allah ﷺ a nommé un homme responsable de Khaybar et il a apporté des dattes Janib. Le Messager d’Allah ﷺ a dit : « Toutes les dattes de Khaybar sont-elles comme cela ? » Il a répondu : « Non (par Allah, ô Messager d’Allah), nous prenons un Sa de celles-ci contre deux ou trois Sas d’autres types de dattes. » Le Messager d’Allah ﷺ a dit : « Ne faites pas cela. Vendez les dattes mélangées contre des Dirhams, puis achetez les dattes Janib avec ces Dirhams. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 105
+			}
+		}
+	]
+}

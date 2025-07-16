@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2279,
+			"arabicnumber": 2279,
+			"text": "Rapporté par Ibn Mas'ud : Le Prophète (ﷺ) a dit : \"Personne ne traite beaucoup dans l'usure pour augmenter sa richesse sans finir par avoir peu (c'est-à-dire que sa richesse diminuera)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 143
+			}
+		}
+	]
+}

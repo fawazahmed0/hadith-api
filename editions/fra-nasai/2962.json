@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2962,
+			"arabicnumber": 2962,
+			"text": "Rapporté par Jabir : Le Messager d’Allah ﷺ a effectué le Tawaf, marchant rapidement (Raml) pendant trois tours, et marchant normalement pendant quatre. Ensuite, il a récité : « Et prenez le Maqam (place) d’Ibrahim comme lieu de prière. » Il a prié deux unités avec le Maqam entre lui et la Kaaba. Ensuite, il a touché le Coin, puis il est sorti et a dit : « As-Safa et Al-Marwah sont deux des symboles d’Allah. Nous commençons par ce qu’Allah a commencé. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 345
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 623,
+			"arabicnumber": 623,
+			"text": "Abu Huraira رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Celui qui relève la tête pendant que l’imam est en prosternation ne craint-il pas qu’Allah transforme sa tête en tête d’âne ou son visage en visage d’âne ? »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (427)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 233
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"28": "Chapters on Hunting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3200,
+				"hadithnumber_last": 3250,
+				"arabicnumber_first": 3200,
+				"arabicnumber_last": 3250
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3206,
+			"arabicnumber": 3206,
+			"text": "Rapporté par Sufyan bin Abu Zuhair : J’ai entendu le Prophète (ﷺ) dire : « Celui qui garde un chien dont il n’a pas besoin pour l’agriculture ou pour garder les troupeaux verra une Qirat retirée de ses bonnes actions chaque jour. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 7
+			}
+		}
+	]
+}

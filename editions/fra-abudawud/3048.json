@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3048,
+			"arabicnumber": 3048,
+			"text": "Un homme a rapporté de Bakr ibn Wa’il, d’après son oncle maternel, qu’il a dit : « Envoyé d’Allah ﷺ, puis-je prélever la dîme sur mon peuple ? » Il a répondu : « La dîme doit être prélevée sur les Juifs et les Chrétiens. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 121
+			}
+		}
+	]
+}

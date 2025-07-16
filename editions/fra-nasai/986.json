@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 986,
+			"arabicnumber": 986,
+			"text": "Rapporté par Ibn Abbas d’après sa mère : Elle a entendu le Prophète (ﷺ) réciter Al-Mursalat lors du maghrib",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "-"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 111
+			}
+		}
+	]
+}

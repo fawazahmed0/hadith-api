@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1317,
+			"arabicnumber": 1317,
+			"text": "Masruq a dit : J’ai demandé à Aïcha رضي الله عنها au sujet de la prière du Messager d’Allah ﷺ, et je lui ai dit : « À quel moment priait-il la nuit ? » Elle a répondu : « Quand il entendait le chant du coq, il se levait et priait. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1132) Sahih Muslim (741)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 68
+			}
+		}
+	]
+}

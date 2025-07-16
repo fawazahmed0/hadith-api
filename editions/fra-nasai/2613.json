@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2613,
+			"arabicnumber": 2613,
+			"text": "Rapporté par Bahz bin Hakim, d’après son père, d’après son grand-père : Quand on apportait quelque chose au Prophète, il demandait si c’était un cadeau ou une aumône. Si on disait que c’était une aumône, il n’en mangeait pas, et si c’était un cadeau, il tendait la main pour le prendre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 179
+			}
+		}
+	]
+}

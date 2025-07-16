@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3640,
+			"arabicnumber": 3640,
+			"text": "Rapporté par Abu Sa’id al-Khudri : Deux hommes ont porté leur différend au sujet des abords d’un palmier devant le Messager d’Allah ﷺ. Selon une version, il ordonna de mesurer et on trouva sept coudées. Selon une autre version, on trouva cinq coudées. Il a jugé en fonction de cette mesure. AbdulAziz a dit : Il ordonna de mesurer avec une branche du palmier, et cela fut fait",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 70
+			}
+		}
+	]
+}

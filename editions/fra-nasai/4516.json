@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4516,
+			"arabicnumber": 4516,
+			"text": "Rapporté par Salim, de la part de son père : Le Messager d’Allah ﷺ a interdit deux types de vêtements, et il nous a interdit deux types de transactions : Munabadhah et Mulamasah, qui étaient courantes à l’époque de la Jahiliyyah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 68
+			}
+		}
+	]
+}

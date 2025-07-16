@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3308,
+			"arabicnumber": 3308,
+			"text": "Rapporté par ‘Abdullah bin Ja’far : Il a raconté à Ibn Zubair, qui avait sacrifié un chameau pour eux, qu'il avait entendu le Messager d'Allah ﷺ dire : \"Des gens apportaient de la viande au Messager d'Allah ﷺ et il disait : 'La meilleure viande, c'est celle du dos",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 58
+			}
+		}
+	]
+}

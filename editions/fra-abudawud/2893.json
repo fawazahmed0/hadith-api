@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"19": "Shares of Inheritance (Kitab Al-Fara'id)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2885,
+				"hadithnumber_last": 2927,
+				"arabicnumber_first": 2885,
+				"arabicnumber_last": 2927
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2893,
+			"arabicnumber": 2893,
+			"text": "Rapporté par Al-Aswad ibn Yazid : Mu'adh ibn Jabal a attribué une part d’héritage à une sœur et à une fille. Il a donné à chacune la moitié. Il était au Yémen alors que le Prophète ﷺ était encore en vie",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6734)"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 9
+			}
+		}
+	]
+}

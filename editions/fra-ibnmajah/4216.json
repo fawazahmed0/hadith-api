@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4216,
+			"arabicnumber": 4216,
+			"text": "Rapporté par ‘Abdullah bin ‘Amr : On a demandé au Messager d’Allah (ﷺ) : « Qui est la meilleure personne ? » Il a répondu : « Celui qui a le cœur pur et la parole sincère. » Ils ont dit : « Nous savons ce qu’est la parole sincère, mais qu’est-ce qu’un cœur pur ? » Il a dit : « C’est un cœur pieux et pur, sans péché, ni injustice, ni rancune, ni envie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 117
+			}
+		}
+	]
+}

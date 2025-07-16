@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3470,
+			"arabicnumber": 3470,
+			"text": "Rapporté par Jabir ibn ‘Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si tu vends des dattes sèches à ton frère et qu’elles sont frappées par un fléau, il ne t’est pas permis de prendre injustement le bien de ton frère. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1554)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 55
+			}
+		}
+	]
+}

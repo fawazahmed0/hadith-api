@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2600,
+			"arabicnumber": 2600,
+			"text": "Rapporté par Samurah bin Jundab : Le Messager d’Allah a dit : “Mendier ne sera que des marques sur le visage d’un homme (le Jour de la Résurrection), sauf s’il demande à un homme en position d’autorité ou s’il n’a pas d’autre choix.”",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 166
+			}
+		}
+	]
+}

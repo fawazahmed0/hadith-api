@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3626,
+			"arabicnumber": 3626,
+			"text": "Rapporté par 'Amir bin Sa'd, d'après son père : Je suis tombé malade d'une maladie dont j'ai guéri plus tard. Le Messager d'Allah est venu me rendre visite, et j'ai dit : \"Ô Messager d'Allah, j'ai beaucoup de biens et je n'ai pas d'héritier à part ma fille. Puis-je donner les deux tiers de mes biens en aumône ?\" Il a dit : \"Non.\" J'ai dit : \"La moitié ?\" Il a dit : \"Non.\" J'ai dit : \"Le tiers ?\" Il a dit : \"Donne un tiers, et un tiers c'est beaucoup. Il vaut mieux laisser tes héritiers à l'abri du besoin que de les laisser pauvres à tendre la main aux gens",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 16
+			}
+		}
+	]
+}

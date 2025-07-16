@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 773,
+			"arabicnumber": 773,
+			"text": "Rapporté par Abu Huraira : Le Messager d'Allah ﷺ a dit : \"Quand l'un de vous entre dans la mosquée, qu'il adresse la paix au Prophète, puis qu'il dise : 'Allahumma aftahli abwaba rahmatik' (Ô Allah, ouvre-moi les portes de Ta miséricorde). Et quand il sort, qu'il adresse la paix au Prophète et dise : 'Allahumma- simni minash-shaitanir-rajim' (Ô Allah, protège-moi du diable maudit)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 39
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 320,
+			"arabicnumber": 320,
+			"text": "Rapporté par Shaqiq : J’étais assis avec ‘Abdullah et Abu Musa, et Abu Musa a dit : \"N’as-tu pas entendu ce qu’‘Ammar a dit à ‘Umar : 'Le Messager d’Allah (ﷺ) m’a envoyé en mission et je suis devenu en état de Janabah, et je n’ai pas trouvé d’eau, alors je me suis roulé dans la terre puis je suis allé voir le Prophète (ﷺ) et je lui ai raconté cela.' Il a dit : 'Cela t’aurait suffi de faire ainsi,' et il a frappé la terre avec ses mains, puis s’est essuyé les mains, puis les a frappées l’une contre l’autre pour enlever la poussière, puis il a essuyé sa main droite avec la gauche et la gauche avec la droite, paume contre paume, et il s’est essuyé le visage.\" Puis ‘Abdullah a dit : \"N’as-tu pas vu que ‘Umar n’était pas convaincu par ce qu’‘Ammar a dit ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 321
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 692,
+			"arabicnumber": 692,
+			"text": "Rapporté par Humaid : On a demandé à Anas bin Malik : \"Le Prophète portait-il une bague ?\" Il a répondu : \"Oui.\" Une nuit, il a retardé la prière de 'Isha jusqu'à presque la moitié de la nuit. Quand il a terminé la prière, il s'est tourné vers nous et a dit : \"Les gens ont prié et sont allés dormir, mais vous êtes encore en prière tant que vous attendez la prochaine prière.\" (Sahih) Anas a dit : \"C'est comme si je voyais encore l'éclat de sa bague",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 26
+			}
+		}
+	]
+}

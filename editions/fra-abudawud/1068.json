@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1068,
+			"arabicnumber": 1068,
+			"text": "Ibn ‘Abbas a dit : La première prière du vendredi célébrée en Islam après celle de la mosquée du Messager d’Allah ﷺ a eu lieu à Juwatha, un village parmi les villages d’al-Bahrayn. Le rapporteur ‘Uthman a précisé : c’est un village de la tribu de ‘Abd al-Qais",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (892)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 679
+			}
+		}
+	]
+}

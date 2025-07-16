@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4280,
+			"arabicnumber": 4280,
+			"text": "Rapporté par 'Abdullah bin Mughaffal : Le Messager d’Allah ﷺ a dit : \"Si les chiens ne formaient pas une des communautés (ou espèces) de créatures, j’aurais ordonné qu’ils soient tous tués. Mais tuez ceux qui sont entièrement noirs. Toute personne qui garde un chien, sauf pour l’agriculture, la chasse ou la garde du bétail, verra une Qirat de sa récompense diminuée chaque jour",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 18
+			}
+		}
+	]
+}

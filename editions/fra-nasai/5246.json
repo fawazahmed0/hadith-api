@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5246,
+			"arabicnumber": 5246,
+			"text": "Rapporté par Sa'eed bin Al-Musayyab : Mu'awiyah est venu à Médine et nous a adressé un discours. Il a pris une perruque et a dit : \"Je ne voyais personne faire cela à part les Juifs. Le Messager d'Allah ﷺ en a entendu parler et il a appelé cela 'donner une fausse impression",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 207
+			}
+		}
+	]
+}

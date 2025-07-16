@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3731,
+			"arabicnumber": 3731,
+			"text": "Rapporté par Sufyan, d'après Ibn Juraij, de 'Ata', de Jabir : Le Messager d'Allah ﷺ a dit : \"Ne donnez pas des biens selon la Ruqba ou l''Umra. Celui à qui l'on donne quelque chose selon la Ruqba ou l''Umra, cela revient à ses héritiers",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 13
+			}
+		}
+	]
+}

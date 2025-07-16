@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4314,
+			"arabicnumber": 4314,
+			"text": "Rapporté par Ubayy ibn Ka‘b, de son père : Le Messager d’Allah (ﷺ) a dit : “Quand viendra le Jour de la Résurrection, je serai le chef des Prophètes, celui qui leur parlera, et celui parmi eux qui acceptera d’intercéder, et ce n’est pas de l’orgueil.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 215
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3528,
+			"arabicnumber": 3528,
+			"text": "Rapporté par Al-Fari'ah bint Malik : Son mari est parti à la poursuite de certains esclaves et ils l’ont tué. Shu'bah et Ibn Juraij ont dit : « Elle habitait dans une maison isolée. Elle est venue avec ses frères voir le Messager d’Allah ﷺ et lui a expliqué la situation, et il lui a accordé une permission. Quand elle s’apprêtait à partir, il l’a rappelée et lui a dit : “Reste dans ta maison jusqu’à ce que le délai prescrit soit accompli.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 140
+			}
+		}
+	]
+}

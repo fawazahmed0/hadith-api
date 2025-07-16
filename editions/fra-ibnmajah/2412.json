@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"15": "The Chapters on Charity"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2390,
+				"hadithnumber_last": 2528,
+				"arabicnumber_first": 2390,
+				"arabicnumber_last": 2528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2412,
+			"arabicnumber": 2412,
+			"text": "Rapporté par Thawban, l’esclave affranchi du Messager d’Allah (ﷺ) : Le Messager d’Allah (ﷺ) a dit : “Quiconque meurt et est exempt de trois choses entrera au Paradis : l’arrogance, le vol dans les butins de guerre et la dette.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 23
+			}
+		}
+	]
+}

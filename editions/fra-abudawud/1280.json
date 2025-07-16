@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1280,
+			"arabicnumber": 1280,
+			"text": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Dhakwan, l’affranchi d’Aisha, a rapporté d’elle : Le Messager d’Allah ﷺ priait après la prière de l’après-midi, mais il l’a interdit aux autres ; et il jeûnait sans interruption, mais il a interdit cela aux autres",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 31
+			}
+		}
+	]
+}

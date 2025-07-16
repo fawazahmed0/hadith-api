@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"28": "The Book of Horses, Races and Shooting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3561,
+				"hadithnumber_last": 3593,
+				"arabicnumber_first": 3561,
+				"arabicnumber_last": 3593
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3578,
+			"arabicnumber": 3578,
+			"text": "Rapporté par Khalid bin Yazid Al-Juhani : 'Uqbah bin 'Amir passait près de moi et disait : \"Ô Khalid, allons tirer des flèches.\" Un jour, je suis arrivé en retard et il m'a dit : \"Ô Khalid, viens, je vais te raconter ce qu'a dit le Messager d'Allah ﷺ.\" Je suis donc allé vers lui et il a dit : \"Le Messager d'Allah ﷺ a dit : Allah fera entrer trois personnes au Paradis grâce à une seule flèche : celui qui la fabrique en cherchant le bien, celui qui la tire et celui qui la lui donne. Alors tirez et montez à cheval, mais si tu tires, c'est plus cher à mes yeux que si tu montes. On ne joue qu'à trois choses : un homme qui entraîne son cheval, qui joue avec sa femme, et qui tire à l'arc. Celui qui arrête de tirer après avoir appris, simplement parce qu'il n'en a plus envie, c'est une bénédiction dont il ne reconnaît pas la valeur – ou qu'il a rejetée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 18
+			}
+		}
+	]
+}

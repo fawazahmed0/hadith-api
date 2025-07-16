@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5299,
+			"arabicnumber": 5299,
+			"text": "Rapporté par Ibn ‘Umar : ‘Umar est sorti et a vu une Hullah d’Al-Istabraq en vente sur le marché. Il est allé voir le Messager d’Allah ﷺ et a dit : « Ô Messager d’Allah, achète cela pour la porter le vendredi et quand les délégations viennent te voir. » Le Messager d’Allah ﷺ a dit : « Cela n’est porté que par celui qui n’aura rien (dans l’au-delà). » Ensuite, trois Hullahs du même tissu ont été apportées au Messager d’Allah ﷺ et il en a donné une à ‘Umar, une à ‘Ali et une à Usamah. ‘Umar est venu le voir et a dit : « Ô Messager d’Allah, tu as dit ce que tu as dit à son sujet, puis tu m’en as envoyé une ! » Il a dit : « Vends-la et utilise l’argent pour tes besoins, ou découpe-la pour que les femmes de ta famille s’en servent comme foulards. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 260
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2101,
+			"arabicnumber": 2101,
+			"text": "Rapporté par Khansa’, fille de Khidham al-Ansariyyah : Lorsque son père la maria alors qu’elle avait déjà été mariée auparavant et qu’elle n’était pas d’accord, elle alla voir le Messager d’Allah ﷺ et lui en parla. Le Prophète ﷺ annula alors son mariage",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5138)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 56
+			}
+		}
+	]
+}

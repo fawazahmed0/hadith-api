@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3757,
+			"arabicnumber": 3757,
+			"text": "Rapporté par Ibn ‘Umar : Le Prophète ﷺ a dit : « Quand le repas du soir est servi à l’un d’entre vous et que la prière en groupe est aussi prête, il ne doit pas se lever avant d’avoir terminé de manger. » Dans la version de Musaddad : Quand le repas du soir était servi à ‘Abd Allah b. ‘Umar, ou qu’on le lui apportait, il ne se levait pas avant d’avoir fini, même s’il entendait l’appel à la prière ou la récitation du Coran par l’imam",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih Sahih Bukhari (677) Sahih Muslim (559)"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 22
+			}
+		}
+	]
+}

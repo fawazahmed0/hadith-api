@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 211,
+			"arabicnumber": 211,
+			"text": "Rapporté par 'Uthman bin 'Affan : Le Messager d’Allah a dit : (Selon l’un des rapporteurs) Shu'bah a dit : \"Le meilleur d’entre vous\" (et selon) Sufyan a dit : \"Le plus excellent d’entre vous est celui qui apprend le Coran et l’enseigne",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 211
+			}
+		}
+	]
+}

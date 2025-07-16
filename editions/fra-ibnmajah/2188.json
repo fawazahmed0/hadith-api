@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2188,
+			"arabicnumber": 2188,
+			"text": "Rapporté par 'Amr bin Shu'aib, de son père, de son grand-père : Le Messager d’Allah (ﷺ) a dit : « Il n’est pas permis de vendre ce que tu ne possèdes pas, ni de tirer profit de ce que tu ne détiens pas. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 52
+			}
+		}
+	]
+}

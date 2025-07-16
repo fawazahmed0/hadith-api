@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2621,
+			"arabicnumber": 2621,
+			"text": "Rapporté par Abu Razin : Il a dit : « Ô Messager d’Allah, mon père est un vieil homme et il ne peut pas accomplir le Hajj ni la ‘Umrah, et il ne peut pas voyager. » Il a dit : « Accomplis le Hajj et la ‘Umrah pour ton père. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 3
+			}
+		}
+	]
+}

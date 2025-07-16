@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4685,
+			"arabicnumber": 4685,
+			"text": "Rapporté par Sa’d رضي الله عنه : Le Prophète ﷺ a distribué des butins parmi les gens. J’ai dit : « Donne à untel, car il est croyant. » Il a dit : « Ou bien il est musulman. » Je donne à un homme alors qu’un autre m’est plus cher que lui, de peur qu’il ne tombe la tête la première en Enfer. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (27) Sahih Muslim (150)"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 90
+			}
+		}
+	]
+}

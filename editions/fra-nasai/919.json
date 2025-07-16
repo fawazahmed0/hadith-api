@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 919,
+			"arabicnumber": 919,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a terminé une prière où il récitait à voix haute, puis il a dit : \"Est-ce que l’un de vous a récité avec moi à l’instant ?\" Un homme a dit : \"Oui, ô Messager d’Allah.\" Il a dit : \"Je me demandais ce qui me distrayait dans la récitation du Coran.\" Après cela, les gens ont cessé de réciter dans les prières où le Messager d’Allah (ﷺ) récitait à voix haute, après avoir entendu cela",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 44
+			}
+		}
+	]
+}

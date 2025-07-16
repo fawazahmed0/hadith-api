@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5681,
+			"arabicnumber": 5681,
+			"text": "Rapporté par 'Ali bin Al-Mubarak : Karimah bint Hammam lui a raconté qu'elle avait entendu 'Aishah, la Mère des Croyants, dire : « On vous a interdit Ad-Dubba' (les courges), on vous a interdit Al-Hantam, on vous a interdit Al-Muzaffat. » Puis elle s'est tournée vers les femmes et a dit : « Méfiez-vous des jarres en terre cuite verte, et si l'eau dans vos récipients en argile vous enivre, ne la buvez pas. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 143
+			}
+		}
+	]
+}

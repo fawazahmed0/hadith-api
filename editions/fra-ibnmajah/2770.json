@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"24": "The Chapters on Jihad"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2753,
+				"hadithnumber_last": 2881,
+				"arabicnumber_first": 2753,
+				"arabicnumber_last": 2881
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2770,
+			"arabicnumber": 2770,
+			"text": "Rapporté par Sa’eed bin Khalid bin Abu Tuwail : J’ai entendu Anas bin Malik dire : J’ai entendu le Messager d’Allah (ﷺ) dire : « Monter la garde une nuit pour la cause d’Allah est meilleur qu’un homme qui jeûne et prie parmi sa famille pendant mille ans. L’année compte trois cent soixante jours et un jour équivaut à mille ans. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Mawdu"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Mawdu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 18
+			}
+		}
+	]
+}

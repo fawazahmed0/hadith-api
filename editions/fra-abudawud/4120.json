@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4120,
+			"arabicnumber": 4120,
+			"text": "Ibn ‘Abbas رضي الله عنه a dit – (Musaddad et Wahb l’ont transmis de Maymunah) Maymunah a dit : Une brebis a été donnée en aumône à l’une de nos clientes, mais elle est morte. Le Prophète ﷺ est passé et a dit : « Pourquoi n’avez-vous pas tanné sa peau pour en tirer profit ? » Ils ont répondu : « Messager d’Allah, elle est morte de mort naturelle. » Il a dit : « Seule la consommation de sa chair est interdite. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1492) Sahih Muslim (363)"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 101
+			}
+		}
+	]
+}

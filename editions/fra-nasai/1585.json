@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1585,
+			"arabicnumber": 1585,
+			"text": "Rapporté par Ibn Buraidah, de la part de son père : Pendant que le Messager d’Allah (ﷺ) était sur le minbar, Al-Hasan et Al-Husain sont venus, portant des chemises rouges, marchant et trébuchant. Il est descendu et les a pris dans ses bras, puis il a dit : \"Allah a dit la vérité : Vos biens et vos enfants ne sont qu’une épreuve.\" J’ai vu ces deux-là marcher et trébucher dans leurs chemises, et je n’ai pas pu patienter jusqu’à ce que je descende pour les prendre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 30
+			}
+		}
+	]
+}

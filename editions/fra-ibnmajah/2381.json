@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"14": "The Chapters on Gifts"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2375,
+				"hadithnumber_last": 2389,
+				"arabicnumber_first": 2375,
+				"arabicnumber_last": 2389
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2381,
+			"arabicnumber": 2381,
+			"text": "Rapporté par Zaid bin Thabit : Le Prophète (ﷺ) a jugé qu’un cadeau offert pour la vie appartient aux héritiers du bénéficiaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 7
+			}
+		}
+	]
+}

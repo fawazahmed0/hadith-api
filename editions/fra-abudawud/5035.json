@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5035,
+			"arabicnumber": 5035,
+			"text": "Le même enseignement a aussi été transmis par Abu Hurairah à travers une autre chaîne, du Prophète ﷺ. Un transmetteur, Sa’id b. Sa’id, a dit : « Je sais qu’il a bien rapporté ce hadith jusqu’au Prophète ﷺ. » Abu Dawud a dit : Abu Nu’aim l’a transmis de Musa b. Qais, de Muhammad b. Ajlan, de Sa’id, d’après Abu Hurairah, du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 263
+			}
+		}
+	]
+}

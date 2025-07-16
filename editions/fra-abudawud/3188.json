@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3188,
+			"arabicnumber": 3188,
+			"text": "Rapporté par Al-Bahiyy : Lorsque Ibrahim, le fils du Prophète ﷺ, est décédé, il a prié sur lui à l’endroit où il avait l’habitude de s’asseoir. Abou Dawud a dit : J’ai récité à Sa’id b. Ya'qub al-Taliqani en disant : Ibn al-Mubarak t’a transmis de Ya'qub b. al-Qa'qa' d’après 'Ata que le Prophète ﷺ a prié sur son fils Ibrahim alors qu’il avait dix-sept jours",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Munkar"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 100
+			}
+		}
+	]
+}

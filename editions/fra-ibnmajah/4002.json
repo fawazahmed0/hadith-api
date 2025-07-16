@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"36": "Tribulations"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3927,
+				"hadithnumber_last": 4099,
+				"arabicnumber_first": 3927,
+				"arabicnumber_last": 4099
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4002,
+			"arabicnumber": 4002,
+			"text": "Rapporté par Abu Hurairah : Il a rencontré une femme qui portait du parfum et se dirigeait vers la mosquée. Il lui a dit : “Ô servante du Contraignant, où vas-tu ?” Elle a répondu : “À la mosquée.” Il a dit : “Et tu t’es parfumée pour cela ?” Elle a répondu : “Oui.” Il a dit : “J’ai entendu le Messager d’Allah (ﷺ) dire : ‘Toute femme qui met du parfum puis sort à la mosquée, aucune prière ne sera acceptée d’elle tant qu’elle ne se sera pas lavée.’”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 77
+			}
+		}
+	]
+}

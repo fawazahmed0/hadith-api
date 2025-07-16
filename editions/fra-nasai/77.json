@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 77,
+			"arabicnumber": 77,
+			"text": "Rapporté par 'Abdullah : Nous étions avec le Prophète (ﷺ) et ils ne trouvaient pas d'eau. Un récipient lui a été apporté, il y a mis sa main, et j'ai vu l'eau jaillir d'entre ses doigts. Il a dit : \"Venez vers un moyen de purification et une bénédiction d'Allah, qu'Il soit glorifié.\" (Un des rapporteurs) Al-A'mash a dit : Salim bin Abi Al-Ja'd m'a dit : J'ai demandé à Jabir : \"Combien étiez-vous ce jour-là ?\" Il a répondu : \"Mille cinq cents",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 77
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 3242,
+				"hadithnumber_last": 3325,
+				"arabicnumber_first": 3242,
+				"arabicnumber_last": 3325
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3274,
+			"arabicnumber": 3274,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As : Le Messager d’Allah ﷺ a dit : « Un serment ou un vœu concernant quelque chose sur laquelle une personne n’a aucun contrôle, ou qui consiste à désobéir à Allah, ou à rompre les liens de parenté, n’est pas obligatoire. Si quelqu’un fait un serment puis estime qu’autre chose est meilleure, il doit l’abandonner et faire ce qui est mieux, car abandonner ce serment en est l’expiation. » Abu Dawud a dit : Toutes les traditions authentiques du Prophète ﷺ disent : « Il doit faire l’expiation de son serment », sauf celles qui ne sont pas fiables. Abu Dawud a dit : J’ai dit à Ahmad : Yahya ibn Sa’id (al-Qattan) a rapporté cette tradition de Yahya ibn Ubaid Allah. Il (Ahmad ibn Hanbal) a dit : Mais il l’a abandonnée après cela, et il était capable de le faire. Ahmad a dit : Les traditions de Yahya ibn Ubaid Allah sont rejetées (munkar) et son père n’est pas connu",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 33
+			}
+		}
+	]
+}

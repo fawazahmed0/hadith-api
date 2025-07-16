@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5141,
+			"arabicnumber": 5141,
+			"text": "Rapporté par ‘Abd Allah b. ‘Amr b. al-As رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Insulter ses parents fait partie des grands péchés. » On lui demanda : « Messager d’Allah ! Comment un homme insulte-t-il ses parents ? » Il répondit : « Il insulte le père d’un autre, alors celui-ci insulte son père ; il insulte la mère d’un autre, alors celui-ci insulte sa mère. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5973) Sahih Muslim (90)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 369
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 792,
+			"arabicnumber": 792,
+			"text": "Rapporté par certains compagnons du Prophète ﷺ : Abu Salih a rapporté d’après certains compagnons du Prophète ﷺ : Le Prophète ﷺ a dit à une personne : « Que dis-tu dans la prière ? » Il a répondu : « Je récite d’abord le tashahhud (l’invocation récitée en position assise), puis je dis : “Ô Allah, je Te demande le Paradis et je cherche refuge auprès de Toi contre l’Enfer.” Mais je ne comprends pas bien ta récitation ni celle de Mu‘adh (ce que tu dis ou ce qu’il dit dans la prière). » Le Prophète ﷺ a dit : « Nous aussi, nous tournons autour de cela (le Paradis et l’Enfer). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 402
+			}
+		}
+	]
+}

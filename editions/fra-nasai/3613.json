@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3613,
+			"arabicnumber": 3613,
+			"text": "Rapporté par Mutarrif, d’après son père : « Le Prophète ﷺ a dit : “La rivalité pour accumuler les biens vous distrait, jusqu’à ce que vous visitiez les tombes (c’est-à-dire jusqu’à la mort). Le fils d’Adam dit : ‘Ma richesse, ma richesse,’ mais ta richesse, c’est ce que tu manges et consommes, ce que tu portes et qui s’use, ou ce que tu donnes en aumône et que tu envoies en avance (pour l’au-delà).” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 3
+			}
+		}
+	]
+}

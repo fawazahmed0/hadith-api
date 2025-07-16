@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"47": "The Book Of Faith and its Signs"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 4985,
+				"hadithnumber_last": 5039,
+				"arabicnumber_first": 4985,
+				"arabicnumber_last": 5039
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5005,
+			"arabicnumber": 5005,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah [SAW] a dit : \"La foi a plus de soixante-dix branches, la plus vertueuse étant 'La ilaha illallah' (il n'y a de divinité digne d'adoration qu'Allah) et la moindre est d'enlever quelque chose de nuisible du chemin. Et la pudeur (Al-Haya') est une branche de la foi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 21
+			}
+		}
+	]
+}

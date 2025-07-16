@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2103,
+			"arabicnumber": 2103,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah ﷺ a dit : « Voici que le mois de Ramadan est arrivé. Pendant ce mois, les portes du Paradis sont ouvertes, les portes de l’Enfer sont fermées et les démons sont enchaînés. » (Sahih) Abu 'Abdur-Rahman a dit : cette narration comporte une erreur",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 14
+			}
+		}
+	]
+}

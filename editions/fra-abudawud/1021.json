@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1021,
+			"arabicnumber": 1021,
+			"text": "Cette tradition a aussi été transmise par ‘Abd Allah (b. Mas‘ud) رضي الله عنه par une autre chaîne de rapporteurs. Cette version dit : Lorsque l’un de vous oublie (dans sa prière), il doit faire deux prosternations. Puis il s’est détourné et a fait deux prosternations (pour l’oubli). Abu Dawud a dit : Le rapporteur Husain l’a aussi rapporté comme al-A‘mash",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (572)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 632
+			}
+		}
+	]
+}

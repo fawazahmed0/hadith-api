@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"38": "The Promised Deliverer (Kitab Al-Mahdi)"
+		},
+		"section_detail": {
+			"38": {
+				"hadithnumber_first": 4279,
+				"hadithnumber_last": 4290,
+				"arabicnumber_first": 4279,
+				"arabicnumber_last": 4290
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4281,
+			"arabicnumber": 4281,
+			"text": "Le hadith mentionné ci-dessus a aussi été transmis par Jabir ibn Samurah par une autre chaîne de rapporteurs. Cette version ajoute : Lorsqu’il est rentré chez lui, les Quraysh sont venus le voir et ont dit : « Que se passera-t-il ensuite ? » Il a répondu : « Alors, le désordre régnera. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 38,
+				"hadith": 3
+			}
+		}
+	]
+}

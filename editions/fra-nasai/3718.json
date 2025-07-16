@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"33": "The Book of ar-Ruqba"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3706,
+				"hadithnumber_last": 3719,
+				"arabicnumber_first": 3706,
+				"arabicnumber_last": 3719
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3718,
+			"arabicnumber": 3718,
+			"text": "Rapporté par Ma'mar, de 'Amr bin Dinar, de Tawus, de Zaid bin Thabit : Le Prophète ﷺ a dit : « L'Umra (don à vie) revient à l'héritier. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 13
+			}
+		}
+	]
+}

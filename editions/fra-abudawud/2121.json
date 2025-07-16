@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2121,
+			"arabicnumber": 2121,
+			"text": "Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ m’a épousée alors que j’avais sept ans. Le rapporteur Sulaiman a dit : ou six ans. Il a eu des rapports avec moi quand j’avais neuf ans",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (3896) Sahih Muslim (1422)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 76
+			}
+		}
+	]
+}

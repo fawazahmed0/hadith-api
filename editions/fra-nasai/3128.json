@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3128,
+			"arabicnumber": 3128,
+			"text": "Rapporté par Abu Hurairah : Un homme est venu voir le Messager d’Allah (ﷺ) et a dit : « Dis-moi une action qui soit équivalente au Jihad. » Il a répondu : « Je ne peux pas. Quand le Mujahid part, peux-tu entrer dans la mosquée, rester debout en prière sans jamais te reposer, et jeûner sans jamais rompre ton jeûne ? » L’homme a dit : « Qui peut faire cela ? »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 44
+			}
+		}
+	]
+}

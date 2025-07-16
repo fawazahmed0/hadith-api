@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1722,
+			"arabicnumber": 1722,
+			"text": "Rapporté par Abu ‘Ubaid : J’ai assisté à l’Aïd avec ‘Umar bin Khattab. Il a commencé par la prière avant le sermon et a dit : “Le Messager d’Allah (ﷺ) a interdit de jeûner ces deux jours, le jour de la rupture du jeûne et le jour du sacrifice. Quant au jour de la rupture, c’est le jour où vous rompez le jeûne, et le jour du sacrifice, vous mangez la viande de vos sacrifices.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 85
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 210,
+			"arabicnumber": 210,
+			"text": "Rapporté par 'Aïcha : Umm Habibah bint Jahsh avait des saignements hors règles (Istihadah) pendant sept ans. Elle a interrogé le Prophète (ﷺ) et il a dit : « Ce n’est pas les règles, c’est une veine. Dis-lui de ne pas prier pendant la durée habituelle de ses règles, puis qu’elle fasse le Ghusl et prie. » Elle faisait le Ghusl pour chaque prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 211
+			}
+		}
+	]
+}

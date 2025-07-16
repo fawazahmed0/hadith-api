@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1087,
+			"arabicnumber": 1087,
+			"text": "Rapporté par Malik bin Al-Huwairith : Il a vu le Prophète d’Allah (ﷺ) lever les mains au début de la prière, et il a rapporté un récit similaire en ajoutant : \"Quand il s’inclinait, il faisait de même, quand il relevait la tête de l’inclinaison, il faisait de même, et quand il relevait la tête de la prosternation, il faisait de même",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 59
+			}
+		}
+	]
+}

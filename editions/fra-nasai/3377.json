@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3377,
+			"arabicnumber": 3377,
+			"text": "Rapporté par 'Aishah : Le Prophète m’a épousée au mois de Shawwal, et il a consommé le mariage avec moi au mois de Shawwal. Parmi ses épouses, laquelle a eu plus de faveur auprès de lui que moi ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 182
+			}
+		}
+	]
+}

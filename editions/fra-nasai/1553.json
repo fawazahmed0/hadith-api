@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"18": "The Book of the Fear Prayer"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 1529,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1529,
+				"arabicnumber_last": 1555
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1553,
+			"arabicnumber": 1553,
+			"text": "Rapporté par Sahl bin Abi Hathmah : Concernant la prière de la peur : l’imam doit se tenir debout face à la Qibla avec une partie des fidèles, tandis que les autres restent face à l’ennemi. Il prie une rak‘a avec eux, puis ils accomplissent une autre rak‘a seuls et font deux prosternations là où ils sont. Ensuite, ils rejoignent l’autre groupe, qui vient à son tour, et l’imam les dirige dans une inclinaison et deux prosternations. Ainsi, cela fait deux rak‘as pour l’imam et une pour chaque groupe. Ensuite, ils font une inclinaison et deux prosternations seuls pour compléter leur prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 25
+			}
+		}
+	]
+}

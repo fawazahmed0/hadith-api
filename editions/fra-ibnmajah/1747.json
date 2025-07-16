@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1747,
+			"arabicnumber": 1747,
+			"text": "Rapporté par ‘Abdullah bin Zubair : Le Messager d’Allah (ﷺ) a rompu son jeûne chez Sa’d bin Mu’adh et a dit : « Aftara ‘indakumus-saimun, wa akala ta’amakumul-abrar, wa sallat ‘alaikumul-mala’ikah (Que des jeûneurs rompent leur jeûne chez vous, que les gens pieux mangent votre nourriture, et que les anges prient pour vous). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 110
+			}
+		}
+	]
+}

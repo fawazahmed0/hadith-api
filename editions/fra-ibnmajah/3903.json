@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"35": "Interpretation of Dreams"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3893,
+				"hadithnumber_last": 3926,
+				"arabicnumber_first": 3893,
+				"arabicnumber_last": 3926
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3903,
+			"arabicnumber": 3903,
+			"text": "Rapporté par Abu Sa’eed : Le Prophète (ﷺ) a dit : « Celui qui me voit en rêve m’a vraiment vu, car le diable ne peut pas m’imiter. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 11
+			}
+		}
+	]
+}

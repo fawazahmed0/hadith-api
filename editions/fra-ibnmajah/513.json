@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 513,
+			"arabicnumber": 513,
+			"text": "Rapporté par ‘Abbad bin Tamim d’après son oncle paternel : On a fait une plainte au Prophète au sujet d’un homme qui ressentait un doute (concernant ses ablutions) pendant la prière. Il a dit : \"Non (il n’a pas à refaire ses ablutions) à moins qu’il ne sente une odeur ou n’entende un son",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 247
+			}
+		}
+	]
+}

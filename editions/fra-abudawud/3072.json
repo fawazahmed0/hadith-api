@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3072,
+			"arabicnumber": 3072,
+			"text": "Rapporté par Abdullah ibn Umar رضي الله عنه : Le Prophète ﷺ a donné à az-Zubayr une terre en fief jusqu’à la distance atteinte par son cheval au galop. Il a donc fait courir son cheval jusqu’à ce qu’il s’arrête, puis il a lancé son fouet. Le Prophète ﷺ a alors dit : « Donnez-lui (la terre) jusqu’à l’endroit où son fouet est tombé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 145
+			}
+		}
+	]
+}

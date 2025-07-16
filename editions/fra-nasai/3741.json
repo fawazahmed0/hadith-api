@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3741,
+			"arabicnumber": 3741,
+			"text": "Rapporté par une autre chaîne, d'après Abu 'Amr, d'après Ibn Shihab, d'après Abu Salamah, de Jabir, qui a dit : Le Messager d'Allah ﷺ a dit : \"L''Umra (un don à vie) appartient à celui à qui elle a été donnée ; cela lui appartient ainsi qu'à ses héritiers, et cela est hérité par ceux de ses descendants qui héritent de lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 23
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2492,
+			"arabicnumber": 2492,
+			"text": "Rapporté par Abu Umamah bin Sahl bin Hunaif : À propos du verset où Allah, le Tout-Puissant et Sublime, dit : \"Et ne cherchez pas à donner ce qui est mauvais à dépenser.\" Cela concerne les dattes de mauvaise qualité. Le Messager d’Allah ﷺ a interdit de prendre des dattes de mauvaise qualité comme Sadaqa",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 58
+			}
+		}
+	]
+}

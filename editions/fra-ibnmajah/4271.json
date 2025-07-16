@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4271,
+			"arabicnumber": 4271,
+			"text": "Rapporté par ‘Abdur-Rahman bin Ka’b Al-Ansari, selon ce que son père racontait : Le Messager d’Allah (ﷺ) a dit : “L’âme du croyant est un oiseau qui mange des arbres du Paradis, jusqu’à ce qu’elle soit rendue à son corps le jour où il sera ressuscité.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 172
+			}
+		}
+	]
+}

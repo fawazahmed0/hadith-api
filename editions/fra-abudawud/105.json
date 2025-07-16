@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 105,
+			"arabicnumber": 105,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Quand l’un d’entre vous se réveille, qu’il ne mette pas sa main dans le récipient avant de l’avoir lavée trois fois, car aucun de vous ne sait où sa main est restée ou ce qu’elle a touché pendant la nuit. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 105
+			}
+		}
+	]
+}

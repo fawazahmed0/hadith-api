@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5072,
+			"arabicnumber": 5072,
+			"text": "Un homme a rapporté : Abu Sallam a raconté qu’il était dans la mosquée de Hims. Un homme passa, et les gens dirent de lui qu’il avait servi le Prophète ﷺ. Abu Sallam alla le voir et lui dit : « Raconte-moi une tradition que tu as entendue du Messager d’Allah ﷺ, sans intermédiaire. » Il répondit : « J’ai entendu le Messager d’Allah ﷺ dire : “Si quelqu’un dit le matin et le soir : ‘Je suis satisfait d’Allah comme Seigneur, de l’Islam comme religion, et de Muhammad comme Prophète’, Allah le comblera assurément de satisfaction.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 300
+			}
+		}
+	]
+}

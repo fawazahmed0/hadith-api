@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2958,
+			"arabicnumber": 2958,
+			"text": "Rapporté par Muharrar bin Abi Hurairah : Son père a dit : « Je suis venu avec Ali bin Abi Talib lorsque le Messager d’Allah ﷺ l’a envoyé aux gens de La Mecque pour leur annoncer la fin des engagements de traité. » Il a dit : « Comment avez-vous annoncé que personne n’entrerait au Paradis sauf une âme croyante, que personne ne devait faire le tour de la Maison nu : que celui qui avait un traité avec le Messager d’Allah ﷺ, il durerait pour sa période, ou jusqu’à quatre mois, puis après quatre mois, et qu’Allah se désengage des idolâtres, tout comme Son Messager. Aucun idolâtre ne devait accomplir le Hajj après cette année. J’ai continué à l’annoncer jusqu’à ce que ma voix devienne rauque. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 341
+			}
+		}
+	]
+}

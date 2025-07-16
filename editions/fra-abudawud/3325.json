@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 3242,
+				"hadithnumber_last": 3325,
+				"arabicnumber_first": 3242,
+				"arabicnumber_last": 3325
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3325,
+			"arabicnumber": 3325,
+			"text": "Rapporté par Ibn ‘Umar : ‘Umar a dit : « Messager d’Allah, j’ai fait un vœu à l’époque préislamique de rester en retraite spirituelle (i‘tikaf) dans la mosquée sacrée (Masjid al-Haram). » Le Prophète ﷺ a dit : « Accomplis ton vœu. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2032) Sahih Muslim (1656)"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 84
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5094,
+			"arabicnumber": 5094,
+			"text": "Rapporté par Hisham bin 'Urwah, de son épouse Fatimah, d'Asma' bint Abi Bakr رضي الله عنها : Le Messager d'Allah ﷺ a maudit la femme qui pose des extensions de cheveux et celle qui les fait poser",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 55
+			}
+		}
+	]
+}

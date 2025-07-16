@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2781,
+			"arabicnumber": 2781,
+			"text": "Rapporté par Ka’ab bin Malik : Le Prophète ﷺ rentrait de voyage dans la journée. Al Hasan a précisé : « Dans la matinée. » À son retour, il allait d’abord à la mosquée, y priait deux rak’ahs, puis s’asseyait pour recevoir les gens",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih Sahih Bukhari (3088) Sahih Muslim (3769)"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 305
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2193,
+			"arabicnumber": 2193,
+			"text": "Rapporté par Az-Zouhir : ‘Urwah ibn Az-Zoubaïr m’a raconté que Aïcha رضي الله عنها lui a dit : « Le Messager d’Allah ﷺ est sorti au milieu de la nuit pour prier à la mosquée, et il a dirigé les gens en prière. » Puis il a cité le même hadith où elle disait : « Il encourageait les gens à prier le Qiyam pendant le Ramadan, sans l’imposer. » Il disait : « Celui qui passe la nuit de Laylat Al-Qadr en prière avec foi et en espérant une récompense, ses péchés passés lui seront pardonnés. » Il a ajouté : « Et le Messager d’Allah ﷺ est décédé alors que cela était en vigueur. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 104
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2410,
+			"arabicnumber": 2410,
+			"text": "Rapporté par Abu ‘Uthman, d’un homme, qu’Abu Dharr a dit : J’ai entendu le Messager d’Allah dire : « Celui qui jeûne trois jours chaque mois a jeûné le mois entier » ou « aura la récompense du jeûne du mois. » ‘Asim avait un doute",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 321
+			}
+		}
+	]
+}

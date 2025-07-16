@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 266,
+			"arabicnumber": 266,
+			"text": "Rapporté par Ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Quand un homme a un rapport avec sa femme pendant ses règles, il doit donner un demi-dinar en aumône. » Abu Dawud a dit : ‘Ali ibn Budhaimah a rapporté de façon similaire d’après Miqsam, du Prophète ﷺ. Al-Awza’i a rapporté de Yazid ibn Abi Malik, de ‘Abd al-Hamid ibn ‘Abd al-Rahman, du Prophète ﷺ : Il lui a ordonné de donner deux cinquièmes de dinar en aumône. Mais dans cette chaîne, deux rapporteurs (Miqsam et Ibn Abbas) manquent",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 266
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 328,
+			"arabicnumber": 328,
+			"text": "Rapporté par Aban : On a demandé à Qatadah au sujet du tayammum lors d’un voyage. Il a dit : Un rapporteur m’a transmis d’après al-Sha'bi, d’après 'Abd al-Rahman b. Abza, d’après 'Ammar b. Yasir, qui a rapporté que le Messager d’Allah ﷺ a dit : (Il doit s’essuyer) jusqu’aux coudes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 328
+			}
+		}
+	]
+}

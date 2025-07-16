@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"11": "The Chapters on Expiation"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2136,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2136
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2095,
+			"arabicnumber": 2095,
+			"text": "Rapporté par 'Abdur-Rahman bin Samurah : Le Messager d’Allah (ﷺ) a dit : \"Ne jurez ni par les idoles ni par vos ancêtres",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 6
+			}
+		}
+	]
+}

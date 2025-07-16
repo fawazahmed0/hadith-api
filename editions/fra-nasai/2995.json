@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2995,
+			"arabicnumber": 2995,
+			"text": "Rapporté par Muhammad ibn Imran Al-Ansari, d’après son père : Abdullah bin Umar est venu me voir alors que j’étais arrêté sous un grand arbre sur la route de La Mecque. Il m’a dit : « Pourquoi t’es-tu arrêté sous cet arbre ? » J’ai répondu : « Pour son ombre. » Abdullah a dit : « Le Messager d’Allah ﷺ a dit : Si vous êtes entre les deux montagnes de Mina – et il a montré de la main vers l’est – il y a une vallée là-bas appelée As-Surrabah, selon le récit d’Al-Harith : appelée As-Surar – où soixante-dix prophètes sont nés sous un grand arbre. » (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 378
+			}
+		}
+	]
+}

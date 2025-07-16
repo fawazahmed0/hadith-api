@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 579,
+			"arabicnumber": 579,
+			"text": "Rapporté par Abdullah ibn Umar رضي الله عنه : Sulayman, l’esclave affranchi de Maymunah, a dit : Je suis allé voir Ibn Umar à Bilat (un endroit à Médine) pendant que les gens priaient. Je lui ai dit : « Ne veux-tu pas prier avec eux ? » Il a répondu : « J’ai entendu le Messager d’Allah ﷺ dire : Ne faites pas la même prière deux fois dans la même journée. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 189
+			}
+		}
+	]
+}

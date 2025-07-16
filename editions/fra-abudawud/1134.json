@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1134,
+			"arabicnumber": 1134,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : Quand le Messager d’Allah ﷺ est arrivé à Médine, les gens avaient deux jours pendant lesquels ils jouaient. Il a demandé : « Quels sont ces deux jours (quelle est leur signification) ? » Ils ont répondu : « Nous avions l’habitude de nous divertir ces jours-là à l’époque préislamique. » Le Messager d’Allah ﷺ a dit : « Allah vous a donné à la place quelque chose de meilleur : le jour du sacrifice et le jour de la rupture du jeûne. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 745
+			}
+		}
+	]
+}

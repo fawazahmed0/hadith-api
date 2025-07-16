@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"11": "The Chapters on Expiation"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2136,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2136
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2129,
+			"arabicnumber": 2129,
+			"text": "Rapporté par 'Umar bin Khattab : \"J'ai fait un vœu à l'époque de l'Ignorance et j'ai interrogé le Prophète (ﷺ) à ce sujet après être devenu musulman. Il m'a dit de remplir mon vœu",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 40
+			}
+		}
+	]
+}

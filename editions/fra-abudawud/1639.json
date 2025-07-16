@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1639,
+			"arabicnumber": 1639,
+			"text": "Rapporté par Samurah ibn Jundub رضي الله عنه : Le Prophète ﷺ a dit : « La mendicité est comme des blessures qui défigurent le visage d’un homme. Celui qui veut préserver sa dignité le peut, et celui qui veut l’abandonner le peut aussi. Mais cela ne concerne pas celui qui demande à un dirigeant ou dans une situation de nécessité. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 84
+			}
+		}
+	]
+}

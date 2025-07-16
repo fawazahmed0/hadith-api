@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"35": "Interpretation of Dreams"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3893,
+				"hadithnumber_last": 3926,
+				"arabicnumber_first": 3893,
+				"arabicnumber_last": 3926
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3893,
+			"arabicnumber": 3893,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a dit : « Un bon rêve venant d’un homme pieux fait partie des quarante-six parties de la prophétie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 1
+			}
+		}
+	]
+}

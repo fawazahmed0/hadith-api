@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 886,
+			"arabicnumber": 886,
+			"text": "Rapporté par Abdullah ibn Mas’ud رضي الله عنه : Le Prophète ﷺ a dit : Lorsque l’un d’entre vous s’incline, qu’il dise trois fois : « Gloire à mon Seigneur le Tout-Puissant », et lorsqu’il se prosterne, qu’il dise : « Gloire à mon Seigneur le Très-Haut » trois fois. C’est le minimum. Abu Dawud a dit : La chaîne de ce récit est interrompue. Le rapporteur ‘Awn n’a pas rencontré ‘Abd Allah (b. Mas’ud)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 496
+			}
+		}
+	]
+}

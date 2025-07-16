@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3003,
+			"arabicnumber": 3003,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a accompli la ‘Umrah quatre fois : la ‘Umrah de Hudaibiyah, la ‘Umrah de rattrapage (pour celle qui n’avait pas été achevée), la troisième depuis Ji’ranah et la quatrième qu’il a faite avec son Hajj",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 122
+			}
+		}
+	]
+}

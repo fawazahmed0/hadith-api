@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 737,
+			"arabicnumber": 737,
+			"text": "Rapporté par 'Ali bin Abu Talib : Le Messager d'Allah a dit : « Celui qui construit une mosquée pour Allah (avec ses propres biens), Allah lui construira une maison au Paradis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 3
+			}
+		}
+	]
+}

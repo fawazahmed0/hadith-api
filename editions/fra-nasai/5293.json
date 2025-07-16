@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5293,
+			"arabicnumber": 5293,
+			"text": "Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a mis une bague en or et il portait sa pierre (Fass) contre la paume de sa main. Ensuite, les gens ont commencé à porter des bagues aussi. Puis le Messager d’Allah ﷺ l’a jetée en disant : « Je ne la porterai plus jamais. » Ensuite, le Messager d’Allah ﷺ a pris une bague en argent et l’a portée à la main. Après, elle est passée à la main de Abu Bakr, puis à celle de ‘Umar, puis à celle de ‘Uthman, jusqu’à ce qu’elle soit perdue dans le puits d’Aris",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 254
+			}
+		}
+	]
+}

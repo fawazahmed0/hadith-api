@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4439,
+			"arabicnumber": 4439,
+			"text": "Rapporté par Hisham bin Zaid : « Ans et moi sommes entrés chez Al-Hakam – c’est-à-dire Ibn Ayyub – et il y avait des gens qui tiraient sur une poule dans la maison du gouverneur. Il a dit : “Le Messager d’Allah ﷺ a interdit d’utiliser les animaux comme cibles.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 79
+			}
+		}
+	]
+}

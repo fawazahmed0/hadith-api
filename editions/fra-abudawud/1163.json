@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"3": "The Book Of The Prayer For Rain (Kitab al-Istisqa')"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 1161,
+				"hadithnumber_last": 1197,
+				"arabicnumber_first": 1161,
+				"arabicnumber_last": 1197
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1163,
+			"arabicnumber": 1163,
+			"text": "La tradition mentionnée ci-dessus a aussi été transmise par Muhammad b. Muslim par une autre chaîne de rapporteurs. Mais cette version ne mentionne pas la prière. Elle ajoute : « Il a retourné son manteau, mettant le côté droit sur son épaule gauche et le côté gauche sur son épaule droite. Ensuite, il a invoqué Allah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 3
+			}
+		}
+	]
+}

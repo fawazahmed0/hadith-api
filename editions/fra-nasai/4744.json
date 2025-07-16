@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"45": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+		},
+		"section_detail": {
+			"45": {
+				"hadithnumber_first": 4706,
+				"hadithnumber_last": 4869,
+				"arabicnumber_first": 4706,
+				"arabicnumber_last": 4869
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4744,
+			"arabicnumber": 4744,
+			"text": "Rapporté par Ash-Sha'bi : J’ai entendu Abu Juhaifah dire : Nous avons demandé à 'Ali : \"As-tu quelque chose du Messager d’Allah ﷺ en dehors du Coran ?\" Il a répondu : \"Non, par Celui qui fend la graine et crée l’âme, sauf si Allah donne à un serviteur la compréhension de Son Livre, ou sauf ce feuillet.\" J’ai demandé : \"Qu’y a-t-il dans ce feuillet ?\" Il a répondu : \"Il y a (les règles concernant) la Diyah, la libération des captifs et (la règle) qu’aucun musulman ne doit être tué pour avoir tué un non-croyant",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 45,
+				"hadith": 39
+			}
+		}
+	]
+}

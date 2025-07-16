@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"11": "The Chapters on Expiation"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2136,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2136
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2126,
+			"arabicnumber": 2126,
+			"text": "Rapporté par 'Aishah : Le Messager d’Allah (ﷺ) a dit : \"Celui qui fait le vœu d’obéir à Allah, qu’il Lui obéisse, et celui qui fait le vœu de Lui désobéir, qu’il ne Lui désobéisse pas",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 37
+			}
+		}
+	]
+}

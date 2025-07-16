@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 832,
+			"arabicnumber": 832,
+			"text": "Rapporté par Anas bin Malik : Le Messager d'Allah (ﷺ) est monté à cheval et est tombé, se blessant au côté droit. Il a dirigé une prière assis, et nous avons prié derrière lui en étant assis. Quand il a terminé, il a dit : \"L'Imam est là pour être suivi. S'il prie debout, priez debout ; quand il s'incline, inclinez-vous ; quand il dit : 'Sami' Allahu liman hamidah (Allah entend ceux qui Le louent)', dites : 'Rabbana lakal-hamd (Notre Seigneur, à Toi la louange)' ; et s'il prie assis, priez tous assis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 56
+			}
+		}
+	]
+}

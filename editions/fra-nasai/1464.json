@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1464,
+			"arabicnumber": 1464,
+			"text": "Rapporté par Abu Bakrah : \"Nous étions assis avec le Prophète (ﷺ) lorsque le soleil s'est éclipsé. Il s'est levé rapidement, traînant son vêtement, et a prié deux unités jusqu'à la fin de l'éclipse",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 6
+			}
+		}
+	]
+}

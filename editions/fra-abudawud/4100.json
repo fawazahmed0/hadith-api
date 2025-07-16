@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4100,
+			"arabicnumber": 4100,
+			"text": "Safiyyah, fille de Shaybah, rapporte qu’Aisha رضي الله عنها a parlé des femmes des Ansar, les a louées et a dit du bien d’elles. Puis elle a ajouté : « Lorsque la sourate an-Nur est descendue, elles ont pris leurs rideaux, les ont déchirés et en ont fait des voiles pour la tête. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 81
+			}
+		}
+	]
+}

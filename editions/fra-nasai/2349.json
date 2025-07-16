@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2349,
+			"arabicnumber": 2349,
+			"text": "Rapporté par 'Abdullah bin Shaqiq : J'ai demandé à 'Aishah au sujet du jeûne du Messager d'Allah ﷺ. Elle a dit : « Le Messager d'Allah ﷺ jeûnait au point que nous disions : Il va continuer à jeûner, et il ne jeûnait pas au point que nous disions : Il ne va pas jeûner, et il n'a pas jeûné un mois entier depuis qu'il est arrivé à Al-Madinah, sauf Ramadan. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 260
+			}
+		}
+	]
+}

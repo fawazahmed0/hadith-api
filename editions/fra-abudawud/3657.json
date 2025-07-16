@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3657,
+			"arabicnumber": 3657,
+			"text": "Rapporté par Abu Hurayrah : Le Prophète ﷺ a dit : « Si quelqu’un rend un jugement religieux sans connaissance, le péché retombe sur celui qui l’a donné. » Sulayman al-Mahri a ajouté dans sa version : « Si quelqu’un conseille son frère alors qu’il sait que la bonne direction est ailleurs, il l’a trompé. » Ce sont les paroles de Sulayman",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 17
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2104,
+			"arabicnumber": 2104,
+			"text": "Rapporté par Az-Zuhri, d’après Abu Salamah, d’après Abu Hurairah : Le Prophète ﷺ encourageait à prier le Qiyam Al-Lail pendant le Ramadan, mais sans l’imposer. Il a dit : « Quand le Ramadan commence, les portes du Paradis sont ouvertes, les portes de l’Enfer sont fermées et les démons sont enchaînés. » Ibn Al-Mubarak l’a rapporté en Mursal",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 15
+			}
+		}
+	]
+}

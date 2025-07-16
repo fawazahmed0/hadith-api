@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3514,
+			"arabicnumber": 3514,
+			"text": "Rapporté par Jabir ibn ‘Abdullah : Le Messager d’Allah ﷺ a établi le droit d’acheter le bien voisin pour tout ce qui n’est pas encore séparé, mais quand les limites sont fixées et que des chemins distincts sont tracés, il n’y a plus d’option",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6976)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 99
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 753,
+			"arabicnumber": 753,
+			"text": "Rapporté par Abu Dharr Al-Ghifari : J'ai dit : \"Ô Messager d'Allah ! Quelle mosquée a été construite en premier ?\" Il a répondu : \"Al-Masjid Al-Haram (à La Mecque).\" J'ai dit : \"Et ensuite ?\" Il a dit : \"Ensuite, Al-Masjid Al-Aqsa (à Jérusalem).\" J'ai demandé : \"Combien d'années les séparent ?\" Il a répondu : \"Quarante ans, mais toute la terre est une mosquée pour vous, alors priez où que vous soyez quand l'heure de la prière arrive",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 19
+			}
+		}
+	]
+}

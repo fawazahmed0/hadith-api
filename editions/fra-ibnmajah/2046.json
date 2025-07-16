@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"10": "The Chapters on Divorce"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 2016,
+				"hadithnumber_last": 2477,
+				"arabicnumber_first": 2016,
+				"arabicnumber_last": 2477
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2046,
+			"arabicnumber": 2046,
+			"text": "Rapporté par Safiyyah bint Shaibah : 'Aishah m'a dit que le Messager d'Allah (ﷺ) a dit : \"Il n'y a pas de divorce ni d'affranchissement en cas de contrainte",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 31
+			}
+		}
+	]
+}

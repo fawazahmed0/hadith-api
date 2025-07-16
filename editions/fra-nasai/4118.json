@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4118,
+			"arabicnumber": 4118,
+			"text": "Rapporté par Abu Musa : Le Prophète [SAW] a dit : \"Si deux musulmans s'affrontent avec des épées et que l'un tue l'autre, ils seront tous deux en Enfer.\" On demanda : \"Ô Messager d'Allah, pour le tueur on comprend, mais pourquoi celui qui est tué ?\" Il répondit : \"Il voulait tuer son compagnon",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 153
+			}
+		}
+	]
+}

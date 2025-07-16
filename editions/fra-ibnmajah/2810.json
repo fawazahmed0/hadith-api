@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"24": "The Chapters on Jihad"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2753,
+				"hadithnumber_last": 2881,
+				"arabicnumber_first": 2753,
+				"arabicnumber_last": 2881
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2810,
+			"arabicnumber": 2810,
+			"text": "Rapporté par ‘Ali : Le Messager d’Allah (ﷺ) avait un arc arabe dans la main et il a vu un homme qui tenait un arc perse. Il a dit : « Qu’est-ce que c’est ? Jette-le. Utilise celui-ci et d’autres comme lui, ainsi que des lances Qana. Peut-être qu’Allah soutiendra Sa religion grâce à cela et vous permettra de conquérir des terres. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 58
+			}
+		}
+	]
+}

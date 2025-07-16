@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1460,
+			"arabicnumber": 1460,
+			"text": "Rapporté par Abdur-Rahman bin Samurah : \"Alors que je m'exerçais au tir à l'arc à Médine, le soleil s'est éclipsé. J'ai ramassé mes flèches et j'ai dit : 'Je veux voir ce que le Messager d'Allah (ﷺ) dira à propos de cette éclipse.' Je suis donc allé derrière lui alors qu'il était à la mosquée, et il a commencé à dire le tasbih et le takbir et à invoquer jusqu'à la fin de l'éclipse. Ensuite, il s'est levé et a prié deux unités avec quatre prosternations",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 2
+			}
+		}
+	]
+}

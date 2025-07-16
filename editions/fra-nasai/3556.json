@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3556,
+			"arabicnumber": 3556,
+			"text": "Rapporté par Ibn 'Umar : Il a divorcé de sa femme alors qu’elle avait ses règles. 'Umar, que Allah l’agrée, en a parlé au Prophète et il a dit : \"Dis-lui de la reprendre jusqu’à ce qu’elle ait de nouveau ses règles, puis quand elle sera pure, s’il veut, il pourra la divorcer, sinon il peut la garder. C’est ainsi que le divorce doit être fait selon Allah. Allah, le Puissant et Majestueux, dit : 'Le divorce est permis deux fois, après quoi, soit on la garde convenablement, soit on la libère avec bonté",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 170
+			}
+		}
+	]
+}

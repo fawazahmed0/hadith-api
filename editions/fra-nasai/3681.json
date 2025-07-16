@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"31": "The Book of Presents"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3672,
+				"hadithnumber_last": 3687,
+				"arabicnumber_first": 3672,
+				"arabicnumber_last": 3687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3681,
+			"arabicnumber": 3681,
+			"text": "Rapporté par An-Nu'man bin Bashir Al-Ansari : Sa mère, la fille de Rawahah, a demandé à son père de donner une partie de ses biens à son fils. Il a repoussé cela pendant un an, puis il a décidé de lui donner. Elle a dit : \"Je ne serai pas satisfaite tant que tu n'auras pas demandé au Messager d'Allah d'en être témoin.\" Il a dit : \"Ô Messager d'Allah, la mère de ce garçon, la fille de Rawahah, a insisté pour que je lui fasse un cadeau.\" Le Messager d'Allah a dit : \"Ô Bashir, as-tu d'autres enfants que celui-ci ?\" Il a répondu : \"Oui.\" Le Messager d'Allah a dit : \"Leur as-tu donné un cadeau comme celui que tu as donné à ce fils ?\" Il a répondu : \"Non.\" Le Messager d'Allah a dit : \"Alors ne me demande pas d'en être témoin, car je ne témoignerai pas d'une injustice",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 10
+			}
+		}
+	]
+}

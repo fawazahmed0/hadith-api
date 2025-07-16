@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2361,
+			"arabicnumber": 2361,
+			"text": "Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « N’observez pas le jeûne continu. Si l’un de vous veut le faire, qu’il jeûne jusqu’à l’aube seulement. » Les gens demandèrent : « Toi, tu observes le jeûne continu ? » Il répondit : « Ma situation n’est pas comme la vôtre. Il y a Quelqu’un qui me nourrit et me donne à boire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1963)"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 49
+			}
+		}
+	]
+}

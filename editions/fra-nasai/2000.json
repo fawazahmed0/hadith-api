@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2000,
+			"arabicnumber": 2000,
+			"text": "Rapporté par ‘Ali bin Abi Talib : On a parlé du fait de rester debout lors des funérailles jusqu’à ce que le corps soit placé dans la tombe. ‘Ali bin Abi Talib a dit : \"Le Messager d’Allah ﷺ s’est levé, puis il s’est assis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 183
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4186,
+			"arabicnumber": 4186,
+			"text": "Rapporté par Sahl bin Mu’adh bin Anas, de son père : Le Messager d’Allah (ﷺ) a dit : \"Celui qui retient sa colère alors qu’il pourrait l’exprimer, Allah l’appellera devant toute la création le Jour de la Résurrection et lui donnera le choix de n’importe quelle houri qu’il souhaite",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 87
+			}
+		}
+	]
+}

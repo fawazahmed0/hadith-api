@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1026,
+			"arabicnumber": 1026,
+			"text": "Rapporté par Ata' ibn Yasar : Le Prophète ﷺ a dit : « Lorsque l’un d’entre vous doute au sujet de sa prière et ne sait pas combien de rak‘ah il a accomplies, trois ou quatre, il doit ajouter une rak‘ah, puis faire deux prosternations assis avant de saluer. Si la rak‘ah supplémentaire qu’il a faite est en réalité la cinquième, ces deux prosternations rendront le nombre pair. Si c’est la quatrième, ces deux prosternations seront une humiliation pour le diable. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 637
+			}
+		}
+	]
+}

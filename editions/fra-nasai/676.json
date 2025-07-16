@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 676,
+			"arabicnumber": 676,
+			"text": "Rapporté par Abu Umamah bin Sahl : J'ai entendu Mu'awiyah dire : \"J'ai entendu le Messager d'Allah (ﷺ), quand il entendait le muezzin, répéter ce qu'il disait",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "-"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 51
+			}
+		}
+	]
+}

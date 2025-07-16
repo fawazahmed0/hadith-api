@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5200,
+			"arabicnumber": 5200,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Lorsque l’un de vous rencontre son frère, il doit le saluer. Puis, s’il le rencontre à nouveau après qu’un arbre, un mur ou une pierre se soit trouvé entre eux, il doit aussi le saluer",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 428
+			}
+		}
+	]
+}

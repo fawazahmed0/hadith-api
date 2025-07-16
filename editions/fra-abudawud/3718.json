@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3718,
+			"arabicnumber": 3718,
+			"text": "Rapporté par Nazzal ibn Samurah رضي الله عنه : « Ali رضي الله عنه a demandé de l’eau et il en a bu debout. Puis il a dit : “Certaines personnes désapprouvent cela (boire debout), mais j’ai vu le Messager d’Allah ﷺ faire comme je viens de le faire.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5615)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 50
+			}
+		}
+	]
+}

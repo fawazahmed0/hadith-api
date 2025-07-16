@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3653,
+			"arabicnumber": 3653,
+			"text": "Abu Sallam a rapporté d’un homme qui servait le Prophète ﷺ que chaque fois qu’il parlait, il répétait ses paroles trois fois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 13
+			}
+		}
+	]
+}

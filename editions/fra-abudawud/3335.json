@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3335,
+			"arabicnumber": 3335,
+			"text": "Rapporté par Abu Hurairah رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Jurer facilite la vente d’un produit mais fait disparaître la bénédiction. » Le rapporteur Ibn al-Sarh a dit : « … pour le gain. » Il a aussi rapporté ce hadith de Sa‘id ibn al-Musayyab, d’après Abu Hurairah, du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2087) Sahih Muslim (1606)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 10
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4,
+			"arabicnumber": 4,
+			"text": "Rapporté par Abu Burdah qu'Abu Musa a dit : Je suis allé voir le Prophète (ﷺ) alors qu’il utilisait le siwak. Deux hommes des Ash'aris m’accompagnaient, l’un à ma droite et l’autre à ma gauche, et ils cherchaient à être nommés à un poste. J’ai dit : \"Par Celui qui t’a envoyé comme Prophète avec la vérité, ils ne m’ont pas dit pourquoi ils voulaient venir avec moi et je ne savais pas qu’ils cherchaient à être nommés.\" Je voyais son siwak sous sa lèvre, puis il est tombé et il a dit : \"Nous ne\" – ou : \"Nous ne nommerons jamais à un poste quelqu’un qui le demande. Allez plutôt.\" Ensuite, il a envoyé Abu Musa au Yémen, puis il a envoyé Mu'adh bin Jabal pour le rejoindre – qu’Allah les agrée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 4
+			}
+		}
+	]
+}

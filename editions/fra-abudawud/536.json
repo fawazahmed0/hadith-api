@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 536,
+			"arabicnumber": 536,
+			"text": "Abu al-Sha’tha a dit : Nous étions assis avec Abu Huraira رضي الله عنه dans la mosquée. Un homme est sorti de la mosquée après que l’adhan de la prière de l’après-midi ait été appelé. Abu Huraira a dit : « Quant à cet homme, il a désobéi à Abu al-Qasim, le Prophète ﷺ. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (655)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 146
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3935,
+			"arabicnumber": 3935,
+			"text": "Qatadah rapporte avec sa chaîne de transmetteurs : Le Prophète ﷺ a dit : « Si un homme affranchit un esclave qu’il possède en commun avec un autre, l’affranchissement ne concerne que sa part. » Ceci est la version d’Ibn Suwaid",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1502)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 10
+			}
+		}
+	]
+}

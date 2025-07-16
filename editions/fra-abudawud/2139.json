@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2139,
+			"arabicnumber": 2139,
+			"text": "Rapporté par ‘Uqbah bin ‘Amir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La condition la plus digne d’être respectée par vous est celle par laquelle vous avez rendu licites les parties intimes (de votre épouse). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2721) Sahih Muslim (1418)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 94
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 629,
+			"arabicnumber": 629,
+			"text": "Rapporté par Abu Mahdhurah : Le Prophète (ﷺ) m’a fait asseoir et m’a appris l’Adhan, mot par mot. (Un des rapporteurs), Ibrahim, a dit : « C’est comme notre Adhan. » J’ai dit : « Récite-le-moi. » Il a dit : « Allahu Akbar, Allahu Akbar (Allah est le plus Grand, Allah est le plus Grand), Ashhadu an la ilaha illallah (J’atteste qu’il n’y a pas d’autre divinité qu’Allah) » – deux fois. « Ashhadu anna Muhammadan Rasulallah (J’atteste que Muhammad est le messager d’Allah) » – deux fois. Puis il a dit à voix plus basse, que ceux autour de lui pouvaient entendre : « Ashhadu an la ilaha illallah » – deux fois. « Ashhadu anna Muhammadan Rasulallah » – deux fois, « Hayya'ala as-salah » (Venez à la prière) – deux fois, « Hayya alal-falah » (Venez au succès) – deux fois, « Allahu Akbar Allahu Akbar la ilaha illallah » (Allah est le plus Grand, Allah est le plus Grand, il n’y a pas d’autre divinité qu’Allah)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 4
+			}
+		}
+	]
+}

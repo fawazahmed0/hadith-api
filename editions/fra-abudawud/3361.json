@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3361,
+			"arabicnumber": 3361,
+			"text": "Rapporté par Ibn ‘Umar : Le Prophète ﷺ a interdit la vente de fruits sur l’arbre contre des fruits mesurés, la vente de raisins contre des raisins secs mesurés, et la vente de récoltes contre du blé mesuré",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2171، 2205) Sahih Muslim (1542)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 36
+			}
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1165,
+			"arabicnumber": 1165,
+			"text": "Rapporté par Yahya-Ibn Adam : J’ai entendu Sufyan réciter ce tashahhud dans les prières obligatoires et surérogatoires, et il a dit : \"Abu Ishaq nous a rapporté d’Abu Al-Ahwas, d’Abdullah, du Prophète (ﷺ).\" Et Mansur et Hammad nous ont rapporté d’Abu Wa’il, d’Abdullah, du Prophète (ﷺ)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 137
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4110,
+			"arabicnumber": 4110,
+			"text": "Rapporté par Sahl bin Sa’d : Nous étions avec le Messager d’Allah (ﷺ) à Dhul-Hulaifah, quand nous avons vu une brebis morte qui levait la patte (à cause du gonflement). Il a dit : « Ne pensez-vous pas que cela ne vaut rien pour son propriétaire ? Par Celui qui tient mon âme dans Sa main, ce monde est plus insignifiant aux yeux d’Allah que cette brebis morte ne l’est pour son propriétaire. Si ce monde valait ne serait-ce que l’aile d’un moustique pour Allah, le mécréant n’y aurait même pas une goutte à boire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sanad Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 11
+			}
+		}
+	]
+}

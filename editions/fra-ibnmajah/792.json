@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 792,
+			"arabicnumber": 792,
+			"text": "Rapporté par Ibn Umm Maktum : J’ai dit au Prophète ﷺ : « Je suis un vieil homme et je suis aveugle ; ma maison est loin et je n’ai personne pour me guider. Y a-t-il une dispense pour moi de ne pas venir à la mosquée ? » Il a dit : « Entends-tu l’appel ? » J’ai répondu : « Oui. » Il a dit : « Alors je ne trouve aucune dispense pour toi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 58
+			}
+		}
+	]
+}

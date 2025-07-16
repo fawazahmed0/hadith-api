@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2459,
+			"arabicnumber": 2459,
+			"text": "Rapporté par Abdullah ibn Abi Awfa : Quand les gens apportaient leur Zakah au Messager d’Allah, il disait : \"Ô Allah, envoie tes prières sur la famille d’untel.\" Mon père lui a apporté sa Sadaqah et il a dit : \"Ô Allah, envoie tes prières sur la famille d’Abu Awfa",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 25
+			}
+		}
+	]
+}

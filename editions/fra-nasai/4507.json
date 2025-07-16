@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4507,
+			"arabicnumber": 4507,
+			"text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : \"Aucun citadin ne doit vendre pour un bédouin, aucun homme ne doit surenchérir contre son frère ; et qu’aucune femme ne demande le divorce de sa sœur (en religion) pour prendre ce qu’elle reçoit (et la priver de sa part d’entretien)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 59
+			}
+		}
+	]
+}

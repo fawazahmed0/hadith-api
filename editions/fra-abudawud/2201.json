@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2201,
+			"arabicnumber": 2201,
+			"text": "Rapporté par ‘Umar ibn Al-Khattab رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les actions ne valent que par les intentions, et chacun sera récompensé selon son intention. Celui qui émigre pour Allah et Son Messager, son émigration sera pour Allah et Son Messager. Mais celui qui émigre pour obtenir un avantage matériel ou pour épouser une femme, son émigration sera pour ce pour quoi il a émigré. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1) Sahih Muslim (1907)"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 27
+			}
+		}
+	]
+}

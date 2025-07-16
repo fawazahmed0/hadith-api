@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3193,
+			"arabicnumber": 3193,
+			"text": "Yahya ibn Subayh a dit : Ammar, affranchi d’al-Harith ibn Nawfal, m’a raconté qu’il avait assisté aux funérailles de Umm Kulthum et de son fils. Le corps du garçon a été placé près de l’imam. Je m’y suis opposé. Parmi les gens présents, il y avait Ibn Abbas, Abou Sa’id al-Khudri, Abou Qatadah et Abou Hourayra. Ils ont dit : « C’est la sunna (la pratique établie du Prophète). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 105
+			}
+		}
+	]
+}

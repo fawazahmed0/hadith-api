@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3540,
+			"arabicnumber": 3540,
+			"text": "Rapporté par Zainab bint Abi Salamah, d’après Umm Salamah : Une femme des Quraish est venue voir le Messager d’Allah ﷺ et a dit : « Le mari de ma fille est décédé, et je m’inquiète pour ses yeux ; elle a besoin de khôl. » Il a dit : « L’une d’entre vous jetait un morceau de fumier après qu’un an soit passé. Maintenant, la période de deuil est de quatre mois et dix jours. » J’ai demandé à Zainab : « Que signifie “après qu’un an soit passé” ? » Elle a répondu : « À l’époque de la Jahiliyyah, si le mari d’une femme mourait, elle allait dans la pire pièce qu’elle avait et y restait, puis, quand un an était passé, elle sortait et jetait un morceau de fumier derrière elle. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 154
+			}
+		}
+	]
+}

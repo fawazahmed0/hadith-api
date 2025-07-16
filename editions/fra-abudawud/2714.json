@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2714,
+			"arabicnumber": 2714,
+			"text": "Salih bin Muhammad a dit : « Nous sommes partis en expédition avec Al Walid bin Hisham, et Salim bin ‘Abd Allah bin ‘Umar et ‘Umar bin ‘Abd Al Aziz étaient avec nous. Un homme avait été malhonnête avec le butin. Al Walid a ordonné de brûler ses biens, et cela a été diffusé parmi les gens. Il ne lui a pas donné sa part. » Abu Dawud a dit : « Ceci est la version la plus authentique des deux traditions. D’autres ont rapporté qu’Al Walid bin Hashim a brûlé la selle de chameau de Ziyad bin Sa’d. Il avait été malhonnête avec le butin et il l’a frappé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 238
+			}
+		}
+	]
+}

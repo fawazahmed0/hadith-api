@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3353,
+			"arabicnumber": 3353,
+			"text": "Rapporté par ‘Aishah : Le Messager d’Allah (ﷺ) est entré dans la maison et a vu un morceau de pain jeté (par terre). Il l’a ramassé, essuyé et mangé, puis il a dit : “Ô ‘Aishah, respecte ce qui est précieux (c’est-à-dire la nourriture), car si la bénédiction de la nourriture quitte un peuple, elle ne revient jamais.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 103
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4231,
+			"arabicnumber": 4231,
+			"text": "Rapporté par ‘Abdullah bin Mas’ud : Le Prophète (ﷺ) a tracé un carré, une ligne au milieu du carré, des lignes de chaque côté de la ligne du milieu, et une ligne à l’extérieur du carré, puis il a dit : “Savez-vous ce que c’est ?” Ils ont répondu : “Allah et Son Messager savent mieux.” Il a dit : “L’homme est la ligne au milieu, et ces lignes à ses côtés sont les maladies et les problèmes qui l’atteignent de partout. Si l’un le rate, un autre l’atteint. Le carré, c’est sa durée de vie, à son cou ; et la ligne à l’extérieur, c’est son espoir.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 132
+			}
+		}
+	]
+}

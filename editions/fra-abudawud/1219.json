@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"4": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 1198,
+				"hadithnumber_last": 1249,
+				"arabicnumber_first": 1198,
+				"arabicnumber_last": 1249
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1219,
+			"arabicnumber": 1219,
+			"text": "Le récit mentionné ci-dessus a aussi été rapporté par 'Uqail avec une chaîne différente. Il a dit : Il retardait la prière du coucher du soleil jusqu’à ce qu’il regroupe la prière du coucher du soleil et celle de la nuit, lorsque le crépuscule disparaissait",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1112) Sahih Muslim (704)"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 22
+			}
+		}
+	]
+}

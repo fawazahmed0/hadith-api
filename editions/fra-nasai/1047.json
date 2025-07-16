@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1047,
+			"arabicnumber": 1047,
+			"text": "Rapporté par 'Aishah : « Le Messager d’Allah (ﷺ) disait souvent pendant l’inclinaison et la prosternation : “Subhanaka Rabbana wa bi Hamdika, Allahumm aghfirli (Gloire et louange à Toi, notre Seigneur. Ô Allah, pardonne-moi).” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 19
+			}
+		}
+	]
+}

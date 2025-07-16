@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 23,
+			"arabicnumber": 23,
+			"text": "Rapporté par Hudhayfah : Le Messager d’Allah ﷺ est allé sur un tas d’ordures appartenant à des gens et a uriné debout. Il a ensuite demandé de l’eau et a essuyé ses chaussures. Abu Dawud a dit : Musaddad, un narrateur, a rapporté : Je me suis éloigné de lui. Il m’a alors appelé et je suis revenu jusqu’à ses talons",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (224) Sahih Muslim (273)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 23
+			}
+		}
+	]
+}

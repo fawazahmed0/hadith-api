@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4150,
+			"arabicnumber": 4150,
+			"text": "Rapporté par 'Ubadah bin As-Samit : Nous avons prêté serment au Messager d'Allah ﷺ d'écouter et d'obéir, aussi bien dans la difficulté que dans la facilité.\" Et il a mentionné des paroles similaires",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 2
+			}
+		}
+	]
+}

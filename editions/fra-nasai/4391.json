@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4391,
+			"arabicnumber": 4391,
+			"text": "Rapporté par Rafi bin Khadij : Lors de la distribution du butin, le Messager d'Allah considérait dix moutons comme équivalant à un chameau. Shu'bah a dit : \"Je connais la plupart de cela de ce que j'ai entendu de Sa'eed bin Masruq, et Sufyan me l'a rapporté.\" (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 31
+			}
+		}
+	]
+}

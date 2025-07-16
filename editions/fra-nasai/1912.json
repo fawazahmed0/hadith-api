@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1912,
+			"arabicnumber": 1912,
+			"text": "Rapporté par Uyaynah bin ‘Abdur-Rahman bin Jawsh : Mon père m’a raconté : J’ai assisté aux funérailles de ‘Abdur-Rahman bin Samurah. Ziyad marchait devant le cercueil, et des membres de la famille de ‘Abdur-Rahman et leurs affranchis marchaient à reculons devant le cercueil en disant : \"Doucement, doucement, qu’Allah vous bénisse.\" Ils avançaient lentement. Alors qu’ils étaient en route vers Al-Mirbad, Abu Bakrah nous a rejoints sur sa mule. Voyant ce qu’ils faisaient, il s’est précipité vers eux avec sa mule, brandissant son fouet, et a dit : \"Avancez, car par Celui qui a honoré le visage d’Abu Al-Qasim, je me souviens qu’avec le Messager d’Allah ﷺ, nous marchions vite, alors les gens ont accéléré",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 95
+			}
+		}
+	]
+}

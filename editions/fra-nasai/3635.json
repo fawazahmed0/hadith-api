@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3635,
+			"arabicnumber": 3635,
+			"text": "Rapporté par Muhammad bin Sa'd, d'après son père Sa'd bin Malik : Le Prophète est venu le voir alors qu'il était malade et il a dit : \"Je n'ai pas d'enfants à part une fille. Puis-je léguer toute ma richesse ?\" Le Prophète a dit : \"Non.\" Il a dit : \"La moitié ?\" Le Prophète a dit : \"Non.\" Il a dit : \"Le tiers ?\" Il a dit : \"Un tiers, et un tiers c'est beaucoup",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 25
+			}
+		}
+	]
+}

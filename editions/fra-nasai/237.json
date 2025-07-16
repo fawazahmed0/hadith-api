@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 237,
+			"arabicnumber": 237,
+			"text": "Rapporté par Abdur-Rahman bin Hurmuz Al-A'raj : Na'im, l'affranchi d'Umm Salamah, m'a raconté qu'on a demandé à Umm Salamah : \"Une femme peut-elle faire le Ghusl avec un homme ?\" Elle a répondu : \"Oui, si elle se comporte bien. Je me souviens que le Messager d'Allah (ﷺ) et moi faisions le Ghusl à partir d'une seule bassine. Nous nous versions de l'eau sur les mains jusqu'à ce qu'elles soient propres, puis nous nous versions de l'eau dessus.\" Al-A'raj a précisé : \"Sans mentionner la partie intime ni y prêter attention",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 238
+			}
+		}
+	]
+}

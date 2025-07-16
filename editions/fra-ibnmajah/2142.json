@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2142,
+			"arabicnumber": 2142,
+			"text": "Rapporté par Abu Humaid As-Sa'idi : Le Messager d'Allah (ﷺ) a dit : \"Soyez modérés dans la recherche des biens de ce monde, car chacun sera facilité pour ce pour quoi il a été créé",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 6
+			}
+		}
+	]
+}

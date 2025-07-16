@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"15": "The Chapters on Charity"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2390,
+				"hadithnumber_last": 2528,
+				"arabicnumber_first": 2390,
+				"arabicnumber_last": 2528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2393,
+			"arabicnumber": 2393,
+			"text": "Rapporté par Zubair bin 'Awwam : Il a donné un cheval nommé Ghamr ou Ghamrah à quelqu’un, puis il a vu un de ses poulains ou pouliches, issu de son cheval, être vendu, mais il s’est abstenu de l’acheter",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 4
+			}
+		}
+	]
+}

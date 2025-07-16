@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3151,
+			"arabicnumber": 3151,
+			"text": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Le Messager d’Allah ﷺ a été enveloppé dans trois vêtements en tissu blanc du Yémen, sans chemise ni turban",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1272) Sahih Muslim (941)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 63
+			}
+		}
+	]
+}

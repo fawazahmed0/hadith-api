@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 487,
+			"arabicnumber": 487,
+			"text": "Rapporté par Abu Bakr bin 'Umarah bin Ruwaibah : Son père a dit : \"J'ai entendu le Messager d'Allah (ﷺ) dire : 'Personne n'entrera en Enfer s'il prie avant le lever du soleil et avant son coucher",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 40
+			}
+		}
+	]
+}

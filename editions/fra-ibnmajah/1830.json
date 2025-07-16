@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"8": "The Chapters Regarding Zakat"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1783,
+				"hadithnumber_last": 1844,
+				"arabicnumber_first": 1783,
+				"arabicnumber_last": 1844
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1830,
+			"arabicnumber": 1830,
+			"text": "Rapporté par Ammar bin Sa'eed, le muezzin du Messager d’Allah, de la part de son père : Le Messager d’Allah a prescrit la Sadaqatul-Fitr : un Sa de dattes, un Sa d’orge, ou un Sa de Sult (une sorte d’orge sans peau, qui ressemble au blé)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 48
+			}
+		}
+	]
+}

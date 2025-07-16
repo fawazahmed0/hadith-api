@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"31": "The Book of Presents"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3672,
+				"hadithnumber_last": 3687,
+				"arabicnumber_first": 3672,
+				"arabicnumber_last": 3687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3686,
+			"arabicnumber": 3686,
+			"text": "Rapporté par An-Nu'man : Alors qu'il faisait un sermon, il a dit : \"Mon père m'a emmené voir le Messager d'Allah pour lui demander d'être témoin d'un cadeau qu'il m'avait fait. Le Prophète a dit : 'As-tu d'autres enfants que lui ?' Il a répondu : 'Oui.' Le Prophète a dit : 'Traite-les tous de la même façon",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 15
+			}
+		}
+	]
+}

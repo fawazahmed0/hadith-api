@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4523,
+			"arabicnumber": 4523,
+			"text": "Rapporté par ‘Ata : J’ai entendu Jabir bin ‘Abdullah rapporter du Prophète ﷺ qu’il a interdit Mukhabarah, Muzabanah et Muhaqalah, et (il a interdit) de vendre les fruits tant que leur état n’est pas connu, et qu’ils ne doivent être vendus qu’en Dinars ou Dirhams, mais il a accordé une dérogation pour la vente d’Araya",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 75
+			}
+		}
+	]
+}

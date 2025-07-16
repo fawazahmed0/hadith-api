@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"33": "Hot Baths (Kitab Al-Hammam)"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 4009,
+				"hadithnumber_last": 4019,
+				"arabicnumber_first": 4009,
+				"arabicnumber_last": 4019
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4015,
+			"arabicnumber": 4015,
+			"text": "Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Prophète ﷺ a dit : « Ne découvre pas ta cuisse, et ne regarde pas la cuisse d’une personne vivante ou morte. » Abu Dawud a dit : Cette tradition diffère des traditions généralement rapportées (nakarah)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 7
+			}
+		}
+	]
+}

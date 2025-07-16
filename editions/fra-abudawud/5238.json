@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5238,
+			"arabicnumber": 5238,
+			"text": "Rapporté par Dukayn ibn Sa’id al-Muzani رضي الله عنه : Nous sommes venus voir le Prophète ﷺ et lui avons demandé un peu de blé. Il a dit : « Va, Umar, et donne-leur. » Il est monté avec nous à l’étage, a pris une clé dans son appartement et a ouvert la pièce",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 466
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2033,
+			"arabicnumber": 2033,
+			"text": "Abu Huraira رضي الله عنه a rapporté que le Prophète ﷺ a dit : « On ne doit entreprendre un voyage (pour visiter une mosquée) que vers trois mosquées : la Mosquée sacrée (de La Mecque), cette mosquée-ci (la mienne) et la mosquée Al-Aqsa (à Jérusalem). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1189) Sahih Muslim (1397)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 313
+			}
+		}
+	]
+}

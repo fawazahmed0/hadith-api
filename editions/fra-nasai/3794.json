@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3794,
+			"arabicnumber": 3794,
+			"text": "Rapporté par 'Umar bin Al-Khattab : Le Prophète ﷺ a dit : « Les actions ne valent que par les intentions, et chacun aura ce qu’il a eu l’intention de faire. Ainsi, celui dont l’émigration était pour Allah et Son Messager, alors son émigration était pour Allah et Son Messager. Mais celui dont l’émigration était pour obtenir un avantage matériel ou pour épouser une femme, alors son émigration était pour ce pour quoi il a émigré. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 34
+			}
+		}
+	]
+}

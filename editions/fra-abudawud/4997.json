@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4997,
+			"arabicnumber": 4997,
+			"text": "Asma’, fille d’Abu Bakr رضي الله عنها, a rapporté qu’une femme a dit : « Ô Messager d’Allah ! J’ai une coépouse ; est-ce mal si je me vante de recevoir de mon mari ce qu’il ne me donne pas ? » Il a répondu : « Celle qui se vante de recevoir ce qu’on ne lui a pas donné est comme celle qui porte deux vêtements de mensonge. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5219) Sahih Muslim (2130)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 225
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4116,
+			"arabicnumber": 4116,
+			"text": "Rapporté par Abu Bakrah : Le Messager d'Allah [SAW] a dit : \"Si un musulman pointe une arme sur un autre musulman, ils sont tous deux au bord de l'Enfer, et s'il le tue, ils y tomberont tous les deux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 151
+			}
+		}
+	]
+}

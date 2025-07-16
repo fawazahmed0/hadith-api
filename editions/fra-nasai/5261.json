@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5261,
+			"arabicnumber": 5261,
+			"text": "Rapporté par Busr ibn Sa‘id, que Zaynab, l’épouse de ‘Abdullah, lui a raconté que : Le Messager d’Allah ﷺ lui a dit : \"Si tu sors pour la prière de ‘Isha, ne mets pas de parfum",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 222
+			}
+		}
+	]
+}

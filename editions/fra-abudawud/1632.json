@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1632,
+			"arabicnumber": 1632,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit quelque chose de semblable à ce qui est mentionné dans le récit précédent. Cette version ajoute : Mais le pauvre (miskin) qui s’abstient de mendier auprès des gens est celui (selon la version de Musaddad) qui n’a pas assez pour éviter de demander aux autres, et dont les besoins ne sont pas connus des gens, si bien qu’on ne lui donne pas l’aumône. C’est lui qui est vraiment privé. Musaddad n’a pas mentionné les mots « celui qui évite de mendier auprès des gens ». Abu Dawud a dit : Ce récit a été transmis par Muhammad bin Thawr et 'Abd al-Razzaq d’après Ma’mar. Ils ont précisé que le mot « privé » est une parole de al-Zuhri, et cette version est plus authentique",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 77
+			}
+		}
+	]
+}

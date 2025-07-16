@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2756,
+			"arabicnumber": 2756,
+			"text": "Ibn ‘Umar رضي الله عنه rapporte que le Messager d’Allah ﷺ a dit : « Un étendard sera dressé pour l’homme traître le Jour du Jugement, puis il sera annoncé : “Voici la trahison d’untel, fils d’untel.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6178) Sahih Muslim (Through Last 1735)"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 280
+			}
+		}
+	]
+}

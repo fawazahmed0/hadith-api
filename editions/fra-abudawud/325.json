@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 325,
+			"arabicnumber": 325,
+			"text": "Ce hadith est aussi transmis par Shu'bah à travers une autre chaîne de transmetteurs. Cette version ajoute : ('Ammar) a dit : Il (le Prophète) a ensuite soufflé dessus et s’est essuyé le visage et les mains jusqu’aux coudes ou jusqu’aux avant-bras. Shu'bah a dit : Salamah avait l’habitude de rapporter les mots « les mains, le visage et les avant-bras ». Un jour, Mansur lui a dit : « Fais attention à ce que tu dis, car personne d’autre que toi ne mentionne le mot “avant-bras”. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 325
+			}
+		}
+	]
+}

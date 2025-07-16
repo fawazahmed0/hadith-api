@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4232,
+			"arabicnumber": 4232,
+			"text": "Rapporté par Nubaishah Al-Hudhaili : Un homme demanda : « Ô Messager d’Allah, nous avions l’habitude de sacrifier l’‘Atirah pendant la période de l’Ignorance au mois de Rajab ; que nous ordonnes-tu de faire ? » Il répondit : « Sacrifiez pour Allah, le Puissant et Majestueux, quel que soit le mois, faites le bien pour Allah, le Puissant et Majestueux, et nourrissez les pauvres. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 11
+			}
+		}
+	]
+}

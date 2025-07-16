@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3856,
+			"arabicnumber": 3856,
+			"text": "Rapporté par Abu Hurairah, qui l’attribue au Prophète : \"Soulayman a dit : 'Je passerai la nuit auprès de quatre-vingt-dix femmes ce soir, chacune d’elles mettra au monde un enfant qui combattra dans la voie d’Allah.' On lui a dit : 'Dis : Si Allah le veut', mais il ne l’a pas dit. Il est allé auprès d’elles, mais aucune n’a eu d’enfant sauf une femme qui a mis au monde un demi-enfant.\" Le Messager d'Allah a dit : \"S’il avait dit : 'Si Allah le veut', il n’aurait pas rompu son vœu, et cela l’aurait aidé à obtenir ce qu’il voulait",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 96
+			}
+		}
+	]
+}

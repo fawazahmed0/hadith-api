@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 102,
+			"arabicnumber": 102,
+			"text": "En expliquant le hadith du Prophète ﷺ selon lequel les ablutions de celui qui ne mentionne pas le nom d’Allah sont valables, Rabi’ah a dit : « Ce hadith signifie que si quelqu’un fait ses ablutions ou prend un bain sans avoir l’intention de le faire pour la prière ou pour se purifier d’une impureté majeure, ses ablutions ou son bain ne sont pas valables. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 102
+			}
+		}
+	]
+}

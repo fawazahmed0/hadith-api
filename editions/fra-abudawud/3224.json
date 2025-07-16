@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3224,
+			"arabicnumber": 3224,
+			"text": "Rapporté par Yazid ibn Habib : Le Prophète ﷺ a prié sur les martyrs de Uhud huit ans après, comme un homme qui fait ses adieux aux vivants et aux morts",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (4042)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 136
+			}
+		}
+	]
+}

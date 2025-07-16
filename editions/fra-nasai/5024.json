@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"47": "The Book Of Faith and its Signs"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 4985,
+				"hadithnumber_last": 5039,
+				"arabicnumber_first": 4985,
+				"arabicnumber_last": 5039
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5024,
+			"arabicnumber": 5024,
+			"text": "Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Celui qui accomplit la prière nocturne surérogatoire pendant le Ramadan par foi et dans l’espoir de la récompense, ses péchés passés seront pardonnés. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 40
+			}
+		}
+	]
+}

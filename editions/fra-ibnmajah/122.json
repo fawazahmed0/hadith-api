@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 122,
+			"arabicnumber": 122,
+			"text": "Rapporté par Jabir : Le Messager d’Allah a dit le jour de Quraizah : « Qui nous rapportera des nouvelles du peuple ? » Zubair a dit : « Moi. » Le Prophète a dit : « Qui nous rapportera des nouvelles du peuple ? » Zubair a dit : « Moi », trois fois. Chaque Prophète a un Hawari (soutien sincère ou disciple) et mon Hawari est Zubair",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 122
+			}
+		}
+	]
+}

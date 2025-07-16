@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 675,
+			"arabicnumber": 675,
+			"text": "Rapporté par Mujammi' bin Yahya Al-Ansari : J'étais assis avec Abu Umamah bin Sahl bin Hunaif quand le muezzin a appelé à la prière. Il a dit : \"Allahu akbar, Allahu akbar\" (Allah est le Plus Grand, Allah est le Plus Grand), et il a aussi prononcé le takbir deux fois. Ensuite, il a dit : \"Ashhadu an la ilaha ill-Allah\" (Je témoigne qu'il n'y a pas d'autre divinité qu'Allah), et il a aussi répété ce témoignage deux fois. Puis il a dit : \"Ashhadu anna Muhammadan Rasul-Allah\" (Je témoigne que Muhammad est le Messager d'Allah), et il a aussi répété ce témoignage deux fois. Ensuite, il a dit : \"C'est ce que Mu'awiyah bin Abi Sufyan m'a rapporté, citant la parole du Messager d'Allah (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 50
+			}
+		}
+	]
+}

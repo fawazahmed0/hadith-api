@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"0": ""
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 0,
+				"hadithnumber_last": 0,
+				"arabicnumber_first": 0,
+				"arabicnumber_last": 0
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3865,
+			"arabicnumber": 3865,
+			"text": "",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 0
+			}
+		}
+	]
+}

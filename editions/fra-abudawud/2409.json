@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2409,
+			"arabicnumber": 2409,
+			"text": "Rapporté par Abu al-Darda رضي الله عنه : Nous sommes partis avec le Messager d’Allah ﷺ pour une expédition par une chaleur intense, au point que l’un de nous mettait sa main sur sa tête à cause de la chaleur. Aucun de nous ne jeûnait, sauf le Messager d’Allah ﷺ et ‘Abd Allah ibn Rawahah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1945) Sahih Muslim (1122)"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 97
+			}
+		}
+	]
+}

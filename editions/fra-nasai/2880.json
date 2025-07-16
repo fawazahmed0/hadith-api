@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2880,
+			"arabicnumber": 2880,
+			"text": "Rapporté par Hafsah : Il a dit : \"Une armée d’envahisseurs viendra vers cette Maison, et lorsqu’ils seront à Al-Baida, le milieu d’entre eux sera englouti par la terre. Les premiers appelleront les derniers, et ils seront engloutis, jusqu’à ce qu’il ne reste d’eux qu’un fugitif qui racontera ce qui leur est arrivé.\" Un homme (entendant ce récit) a dit : \"Je témoigne que tu n’as pas attribué de mensonge à ton grand-père, et je témoigne que ton grand-père n’a pas attribué de mensonge à Hafsah, et je témoigne que Hafsah n’a pas attribué de mensonge au Prophète",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 263
+			}
+		}
+	]
+}

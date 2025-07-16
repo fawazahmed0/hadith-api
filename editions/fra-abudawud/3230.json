@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3230,
+			"arabicnumber": 3230,
+			"text": "Rapporté par Bashir, le client du Messager d’Allah ﷺ : Avant l’islam, Bashir s’appelait Zahm ibn Ma’bad. Quand il a émigré vers le Messager d’Allah ﷺ, celui-ci lui a demandé : « Comment t’appelles-tu ? » Il a répondu : « Zahm. » Il a dit : « Non, tu es Bashir. » Bashir raconte : « Alors que je marchais avec le Messager d’Allah ﷺ, il est passé devant les tombes des polythéistes et a dit : “Ils ont vécu avant une période de grand bien.” Il l’a répété trois fois. Puis il est passé devant les tombes des musulmans et a dit : “Ils ont reçu beaucoup de bien.” Le Messager d’Allah ﷺ a soudain vu un homme marcher avec des chaussures entre les tombes. Il a dit : “Ô toi qui portes des chaussures ! Malheur à toi ! Enlève tes chaussures.” L’homme a regardé autour de lui, et quand il a reconnu le Messager d’Allah ﷺ, il les a enlevées et jetées. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 142
+			}
+		}
+	]
+}

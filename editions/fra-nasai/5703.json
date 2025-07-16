@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5703,
+			"arabicnumber": 5703,
+			"text": "Rapporté par Abu Mas'ud : « Le Prophète ﷺ a eu soif près de la Ka'bah, alors il a demandé à boire. On lui a apporté du Nabidh dans une outre, il l'a senti et a fait la grimace. Il a dit : “Apportez-moi un seau d'eau de Zamzam.” Il en a versé dessus et en a bu un peu. Un homme a dit : “Est-ce interdit, ô Messager d'Allah ?” Il a dit : “Non.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 165
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2075,
+			"arabicnumber": 2075,
+			"text": "Abdur Rahman ibn Hurmuz al-A’raj a dit : Al-Abbas ibn Abdullah ibn al-Abbas a marié sa fille à Abdur Rahman ibn al-Hakam, et Abdur Rahman a marié sa fille à Al-Abbas. Ils ont fait de cet échange leur dot. Mu’awiyah a écrit à Marwan pour lui ordonner de les séparer. Il a écrit dans sa lettre : « Ceci est le shighar que le Messager d’Allah ﷺ a interdit. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 30
+			}
+		}
+	]
+}

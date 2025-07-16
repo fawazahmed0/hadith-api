@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 49,
+			"arabicnumber": 49,
+			"text": "Rapporté par Salman : \"Les idolâtres ont dit : 'Nous voyons que ton compagnon t’apprend même comment aller aux toilettes.' Il a répondu : 'Oui, il nous a interdit de nous nettoyer avec la main droite, de nous tourner vers la Qibla, et il a dit : 'Aucun de vous ne doit se nettoyer avec moins de trois pierres",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 49
+			}
+		}
+	]
+}

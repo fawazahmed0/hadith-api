@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2564,
+			"arabicnumber": 2564,
+			"text": "Rapporté par Abu Dharr : Le Messager d'Allah a dit : \"Il y a trois personnes à qui Allah ne parlera pas le Jour de la Résurrection, Il ne les regardera pas, Il ne les purifiera pas, et ils auront un châtiment douloureux : celui qui rappelle aux autres ce qu'il leur a donné, celui qui laisse son vêtement traîner sous les chevilles, et un vendeur qui essaie de vendre sa marchandise en jurant faussement",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 130
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3255,
+			"arabicnumber": 3255,
+			"text": "Rapporté par ‘Umar bin Khattab : Le Messager d’Allah (ﷺ) a dit : « La nourriture d’une personne suffit pour deux, celle de deux suffit pour trois ou quatre, et celle de quatre suffit pour cinq ou six. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 5
+			}
+		}
+	]
+}

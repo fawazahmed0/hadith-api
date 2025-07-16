@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1260,
+			"arabicnumber": 1260,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Il a entendu le Prophète ﷺ réciter dans les deux unités de la prière de l’aube : « Dis : Nous croyons en Allah et en ce qui nous a été révélé » (3:84) dans la première unité. Dans la seconde, il récitait ce verset : « Notre Seigneur, nous avons cru en ce que Tu as révélé, et nous suivons le Messager, alors inscris-nous parmi ceux qui témoignent. » Ou bien il récitait : « Certes, Nous t’avons envoyé avec la vérité, comme annonciateur et avertisseur. Et tu ne seras pas interrogé au sujet des gens de la Fournaise » (2:119). Al-Darawardi avait un doute sur lequel des deux versets il récitait",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 11
+			}
+		}
+	]
+}

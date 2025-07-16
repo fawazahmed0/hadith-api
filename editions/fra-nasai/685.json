@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 685,
+			"arabicnumber": 685,
+			"text": "Rapporté par 'Aishah رضي الله عنها : Entre la fin de la prière d'Isha et celle de Fajr, le Prophète (ﷺ) priait onze unités de prière, en disant le salut après chaque deux unités, puis il faisait le Witr en une unité. Il se prosternait aussi longtemps qu'il faut à l'un d'entre vous pour réciter cinquante versets, puis il relevait la tête. Quand le muezzin terminait l'appel à la prière de Fajr et qu'il voyait l'aube, il priait deux unités courtes, puis il sortait avec lui.\" Certains de ces rapporteurs (Ibn Abi Dhi'b, Yunus et 'Amr bin Al-Harith) ont ajouté des détails que les autres n'ont pas mentionnés dans ce hadith",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 60
+			}
+		}
+	]
+}

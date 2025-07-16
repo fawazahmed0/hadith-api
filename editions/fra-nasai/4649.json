@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4649,
+			"arabicnumber": 4649,
+			"text": "Rapporté par 'Abdul-Malik bin 'Ubaid : \"Nous étions avec Abu 'Ubaidah bin 'Abdullah bin Mas'ud quand deux hommes impliqués dans une transaction sont venus le voir. L'un a dit : 'Je l'ai acheté pour telle somme', et l'autre a dit : 'Je le lui ai vendu pour telle somme.' Abu 'Ubaidah a dit : 'Quelque chose de similaire a été présenté à Ibn Mas'ud, et il a dit ; j'étais avec lui quand cela s'est produit. Il a demandé au vendeur de prêter serment, puis il a donné le choix à l'acheteur : s'il le voulait, il pouvait acheter, et s'il le voulait, il pouvait annuler la transaction",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 201
+			}
+		}
+	]
+}

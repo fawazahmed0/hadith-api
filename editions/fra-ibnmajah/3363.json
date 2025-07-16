@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3363,
+			"arabicnumber": 3363,
+			"text": "Rapporté par Ma’dan bin Abu Talhah Al-Ya’muri : ‘Umar bin Khattab s’est levé un vendredi pour faire un sermon. Il a loué et glorifié Allah, puis il a dit : « Ô gens, vous mangez deux plantes que je ne considère que comme désagréables : l’ail et l’oignon. Du temps du Messager d’Allah (ﷺ), je voyais un homme, si on sentait l’odeur de ces légumes sur lui, être pris par la main et conduit jusqu’à Baqi’ (le cimetière). Celui qui doit en manger, qu’il les fasse bien cuire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 113
+			}
+		}
+	]
+}

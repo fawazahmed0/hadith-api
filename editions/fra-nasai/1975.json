@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1975,
+			"arabicnumber": 1975,
+			"text": "Rapporté par ‘Imran bin Husain : Le Messager d’Allah ﷺ nous a dit : « Votre frère An-Najashi est décédé, alors levez-vous et faites la prière funéraire pour lui. » Nous nous sommes donc levés et avons formé des rangs pour prier pour lui, comme on le fait pour les morts, et il nous a dirigés dans la prière funéraire",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 158
+			}
+		}
+	]
+}

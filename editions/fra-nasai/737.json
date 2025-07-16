@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 737,
+			"arabicnumber": 737,
+			"text": "Rapporté par Anas bin Malik : Umm Sulaim a demandé au Messager d’Allah (ﷺ) de venir prier chez elle afin qu’elle puisse prendre l’endroit où il a prié comme lieu de prière. Il est donc venu chez elle, elle a pris un tapis en roseau, l’a aspergé d’eau, et il a prié dessus, et ils ont prié avec lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 50
+			}
+		}
+	]
+}

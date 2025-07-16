@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2876,
+			"arabicnumber": 2876,
+			"text": "Rapporté par Abu Shuraih : Il a dit à Amr bin Saïd, alors qu’il envoyait des troupes par groupes à La Mecque : \"Ô Commandant ! Permets-moi de te rapporter une parole que le Messager d’Allah ﷺ a dite le lendemain de la Conquête de La Mecque, que mes oreilles ont entendue, que mon cœur a comprise et que mes yeux ont vue lorsqu’il l’a dite. Le Prophète ﷺ a loué Allah, puis il a dit : 'La Mecque a été rendue sacrée par Allah, non par les gens. Il n’est pas permis à quiconque croit en Allah et au Jour dernier d’y verser du sang ou d’y couper des arbres. Si quelqu’un demande la permission de combattre à La Mecque parce que le Messager d’Allah ﷺ y a combattu, dis-lui : Allah a permis à Son Messager (d’y combattre), mais Il ne t’a pas permis à toi. En fait, la permission m’a été donnée (d’y combattre) pour une courte période d’un jour, et maintenant sa sainteté a été restaurée comme avant. Que ceux qui sont présents transmettent (cette information) à ceux qui sont absents",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 259
+			}
+		}
+	]
+}

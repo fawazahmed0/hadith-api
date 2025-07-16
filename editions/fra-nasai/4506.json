@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4506,
+			"arabicnumber": 4506,
+			"text": "Rapporté par Abu Hurairah : J’ai entendu le Messager d’Allah ﷺ dire : \"Aucun homme ne doit inciter quelqu’un à annuler une vente déjà conclue avec son frère pour lui vendre ses propres biens ; aucun citadin ne doit vendre pour un bédouin ; n’augmentez pas artificiellement les prix ; qu’aucun homme ne surenchérisse contre son frère ; et qu’aucune femme ne demande le divorce de sa sœur (en religion) afin de prendre ce qu’il y a dans son récipient (c’est-à-dire la priver de sa part de subsistance)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 58
+			}
+		}
+	]
+}

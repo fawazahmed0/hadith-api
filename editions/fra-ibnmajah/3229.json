@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"28": "Chapters on Hunting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3200,
+				"hadithnumber_last": 3250,
+				"arabicnumber_first": 3200,
+				"arabicnumber_last": 3250
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3229,
+			"arabicnumber": 3229,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : “Celui qui tue un lézard des maisons d’un seul coup aura telle ou telle récompense. Celui qui le tue en deux coups aura telle ou telle récompense”, moins que la première. “Et celui qui le tue en trois coups aura telle ou telle récompense”, moins que celle mentionnée la deuxième fois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 30
+			}
+		}
+	]
+}

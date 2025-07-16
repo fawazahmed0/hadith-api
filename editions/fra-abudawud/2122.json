@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2122,
+			"arabicnumber": 2122,
+			"text": "Rapporté par Abd al-Malik ibn Abi Bakr, d’après son père, de la part d’Umm Salamah رضي الله عنها : Lorsque le Messager d’Allah ﷺ épousa Umm Salamah, il resta avec elle trois nuits et dit : « Ton clan n’est pas rabaissé à mes yeux à cause de toi. Si tu veux, je resterai avec toi sept nuits ; et si je reste avec toi sept nuits, je resterai aussi sept nuits avec mes autres épouses. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1460)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 77
+			}
+		}
+	]
+}

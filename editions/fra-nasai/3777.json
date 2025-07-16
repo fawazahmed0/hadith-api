@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3777,
+			"arabicnumber": 3777,
+			"text": "Rapporté par Mus'ab bin Sa'd, d’après son père : J’ai juré par Al-Lat et Al-'Uzza, et mes compagnons m’ont dit : « Quelle mauvaise chose tu as dite ! Tu as dit quelque chose de grave. » Je suis donc allé voir le Messager d’Allah ﷺ et je lui ai raconté cela. Il a dit : « Dis : “La ilaha illallah wahdahu la sharika lah, lahul-mulk wa lahul-hamd wa huwa ‘ala kulli shay’in qadir” (Il n’y a de divinité digne d’adoration qu’Allah, sans associé ; à Lui la royauté, à Lui la louange, et Il est capable de toute chose). Crache à ta gauche trois fois, demande la protection d’Allah contre le diable, et ne redis plus cela. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 17
+			}
+		}
+	]
+}

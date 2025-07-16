@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"19": "Shares of Inheritance (Kitab Al-Fara'id)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2885,
+				"hadithnumber_last": 2927,
+				"arabicnumber_first": 2885,
+				"arabicnumber_last": 2927
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2921,
+			"arabicnumber": 2921,
+			"text": "Rapporté par Ibn ‘Abbas : « À ceux aussi à qui votre main droite était liée, donnez leur part due. » Un homme avait conclu un accord avec un autre homme (au début de l’islam), sans lien de parenté, et l’un héritait de l’autre. Le verset suivant de la sourate Al-Anfal l’a abrogé : « Mais les proches parents ont plus de droits les uns sur les autres. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 37
+			}
+		}
+	]
+}

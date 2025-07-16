@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2186,
+			"arabicnumber": 2186,
+			"text": "Rapporté par Qasim bin 'Abdur Rahman, de son père : 'Abdullah ibn Mas'ud a vendu un esclave de l’État à Ash'ath bin Qais, et ils n’étaient pas d’accord sur le prix. Ibn Mas'ud a dit : « Je te l’ai vendu pour vingt mille », mais Ash'ath bin Qais a dit : « Je l’ai acheté pour dix mille. » 'Abdullah a dit : « Si tu veux, je vais te raconter un hadith que j’ai entendu du Messager d’Allah (ﷺ). » Il a dit : « Dis-le-moi. » Il a dit : « J’ai entendu le Messager d’Allah (ﷺ) dire : “Si deux personnes ne sont pas d’accord sur une transaction, qu’elles n’ont pas de preuve, et que l’objet de la vente est encore là, alors c’est la parole du vendeur qui prévaut. Ou bien elles peuvent annuler la transaction.” » Il a dit : « Je veux annuler la transaction. » Et il l’a annulée",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 50
+			}
+		}
+	]
+}

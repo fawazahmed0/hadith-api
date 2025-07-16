@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4185,
+			"arabicnumber": 4185,
+			"text": "Rapporté par Jabir bin ‘Abdullah : Un bédouin a fait allégeance à l’Islam auprès du Messager d’Allah ﷺ, puis il a été frappé par la fièvre à Al-Madinah. Il est venu voir le Messager d’Allah ﷺ et a dit : « Ô Messager d’Allah, annule mon engagement », mais il a refusé. Il est revenu plusieurs fois avec la même demande, et le Prophète a refusé à chaque fois. Puis le bédouin a quitté Al-Madinah et le Messager d’Allah ﷺ a dit : « Al-Madinah est comme un soufflet de forgeron : elle rejette ce qui est mauvais et garde ce qui est bon. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 37
+			}
+		}
+	]
+}

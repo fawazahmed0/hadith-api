@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2163,
+			"arabicnumber": 2163,
+			"text": "Rapporté par Muhammad ibn Al Munkadir : « J’ai entendu Jabir رضي الله عنه dire : Les Juifs disaient : “Quand un homme a des rapports avec sa femme par le vagin, mais en étant sur son dos, l’enfant aura un strabisme.” Alors le verset est descendu : “Vos femmes sont un champ pour vous, allez à votre champ comme vous le voulez.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (4528) Sahih Muslim (1435)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 118
+			}
+		}
+	]
+}

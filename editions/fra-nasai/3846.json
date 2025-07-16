@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3846,
+			"arabicnumber": 3846,
+			"text": "Rapporté par Muhammad bin Az-Zubayr Hanzali : Mon père m'a dit qu'un homme lui a dit qu'il a interrogé 'Imran bin Husain au sujet d'un homme qui a fait le vœu de ne pas assister aux prières dans la mosquée de son peuple. 'Imran a dit : J'ai entendu le Messager d'Allah dire : « Il n'y a pas de vœu fait sous la colère et son expiation est la même que pour un serment. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 86
+			}
+		}
+	]
+}

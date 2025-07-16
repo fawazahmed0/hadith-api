@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4455,
+			"arabicnumber": 4455,
+			"text": "Rapporté par Jabir ibn Abd Allah رضي الله عنه : Le Prophète ﷺ a fait lapider à mort un homme et une femme juifs qui avaient commis la fornication",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1701)"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 105
+			}
+		}
+	]
+}

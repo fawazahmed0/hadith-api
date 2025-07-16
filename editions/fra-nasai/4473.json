@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4473,
+			"arabicnumber": 4473,
+			"text": "Rapporté par Yahya bin Sa‘eed qui a dit : J’ai entendu Nafi‘ rapporter de Ibn ‘Umar, du Messager d’Allah : « Les deux parties à une transaction ont le choix tant qu’elles ne se sont pas séparées, sauf si elles ont décidé de conclure la transaction. » Nafi‘ a dit : « Quand ‘Abdullah achetait quelque chose qui lui plaisait, il partait tout de suite. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 25
+			}
+		}
+	]
+}

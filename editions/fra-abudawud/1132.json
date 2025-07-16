@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1132,
+			"arabicnumber": 1132,
+			"text": "Rapporté par Abdullah ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ priait deux rak‘as chez lui après la prière du vendredi. Abu Dawud a dit : Cette tradition a aussi été rapportée de façon similaire par ‘Abd Allah b. Dinar d’après Ibn ‘Umar",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 743
+			}
+		}
+	]
+}

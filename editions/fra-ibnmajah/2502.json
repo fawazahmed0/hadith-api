@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"18": "The Chapters on Lost Property"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 2502,
+				"hadithnumber_last": 2511,
+				"arabicnumber_first": 2502,
+				"arabicnumber_last": 2511
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2502,
+			"arabicnumber": 2502,
+			"text": "Rapporté par Mutarrif bin 'Abdullah bin Shikhkhir, son père a dit : Le Messager d'Allah (ﷺ) a dit : \"L'animal perdu du musulman peut conduire à la flamme ardente de l'Enfer",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 1
+			}
+		}
+	]
+}

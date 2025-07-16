@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2836,
+			"arabicnumber": 2836,
+			"text": "Rapporté par Ibn Abi Ammar : J’ai demandé à Jabir ibn Abdallah au sujet des hyènes, et il m’a dit qu’on pouvait les manger. J’ai dit : « N’est-ce pas du gibier ? » Il a répondu : « Oui. » J’ai demandé : « As-tu entendu cela du Messager d’Allah ? » Il a répondu : « Oui. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 219
+			}
+		}
+	]
+}

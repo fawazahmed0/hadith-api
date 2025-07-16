@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 812,
+			"arabicnumber": 812,
+			"text": "Rapporté par Abu Mas'ad Al-Ansari : Le Messager d’Allah (ﷺ) avait l’habitude de tapoter doucement nos épaules (pour vérifier que le rang était droit) au moment de la prière, et il disait : « Gardez les rangs droits ; ne soyez pas en désaccord les uns avec les autres, sinon vos cœurs risqueraient de souffrir de discorde. Que ceux qui sont matures et sages se tiennent le plus près de moi, puis ceux qui viennent après eux, puis ceux qui viennent après. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 36
+			}
+		}
+	]
+}

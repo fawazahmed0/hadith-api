@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1338,
+			"arabicnumber": 1338,
+			"text": "Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ priait treize rak‘as pendant la nuit, dont cinq pour le witr, sans s’asseoir pendant les cinq sauf à la dernière, puis il saluait. Abu Dawud a dit : Ibn Numair l’a rapporté récemment de Hisham",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (737)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 89
+			}
+		}
+	]
+}

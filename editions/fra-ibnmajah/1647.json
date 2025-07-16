@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1647,
+			"arabicnumber": 1647,
+			"text": "Rapporté par Qasim Abu ‘Abdur-Rahman : Il a entendu Mu’awiyah bin Abu Sufyan sur le minbar dire : « Le Messager d’Allah (ﷺ) disait depuis le minbar, avant le mois de Ramadan : “Le jeûne commencera tel jour, mais nous allons commencer à jeûner plus tôt, donc celui qui veut commencer à jeûner plus tôt (c’est-à-dire en Sha’ban), qu’il le fasse, et celui qui veut attendre le début du Ramadan, qu’il le fasse.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 10
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3765,
+			"arabicnumber": 3765,
+			"text": "Rapporté par Yahya bin Abi Ishaq : « Un homme des Banu Ghifar m’a raconté, lors d’une réunion de Salim bin ‘Abdullah, que Salim bin ‘Abdullah a dit : J’ai entendu ‘Abdullah — c’est-à-dire Ibn ‘Umar — dire : Le Messager d’Allah ﷺ a dit : “Allah vous interdit de jurer par vos ancêtres.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 5
+			}
+		}
+	]
+}

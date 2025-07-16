@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 292,
+			"arabicnumber": 292,
+			"text": "Rapporté par 'Adi bin Dinar : J'ai entendu Umm Qais bint Mihsan dire qu'elle avait demandé au Messager d'Allah (ﷺ) au sujet du sang des règles qui tache les vêtements. Il a dit : \"Gratte-le avec un bâton, puis lave-le avec de l'eau et des feuilles de lotus",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 293
+			}
+		}
+	]
+}

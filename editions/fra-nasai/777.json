@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 777,
+			"arabicnumber": 777,
+			"text": "Rapporté par 'Abdullah : Lorsque le Messager d'Allah (ﷺ) est décédé, les Ansar ont dit : \"Qu'il y ait un chef parmi nous et un chef parmi vous.\" Alors 'Umar est venu vers eux et a dit : \"Ne savez-vous pas que le Messager d'Allah (ﷺ) a ordonné à Abu Bakr de diriger la prière ? Qui parmi vous accepterait de passer avant Abu Bakr ?\" Ils ont répondu : \"Nous cherchons refuge auprès d'Allah contre le fait de nous placer avant Abu Bakr",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 1
+			}
+		}
+	]
+}

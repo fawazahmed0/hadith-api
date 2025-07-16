@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 211,
+			"arabicnumber": 211,
+			"text": "Rapporté par Abdullah ibn Sa’d al-Ansari رضي الله عنه : « J’ai demandé au Messager d’Allah ﷺ ce qui rendait obligatoire le bain rituel, et à propos du liquide qui s’écoule après le bain. Il a répondu : “Cela s’appelle le madhi (liquide prostatique). Cela arrive à tout homme. Tu dois laver tes parties intimes et tes testicules à cause de cela, puis faire les ablutions comme pour la prière.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 211
+			}
+		}
+	]
+}

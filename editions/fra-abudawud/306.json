@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 306,
+			"arabicnumber": 306,
+			"text": "Rapporté par Rabi'ah : Umm Habibah, fille de Jahsh, avait des saignements prolongés. Le Prophète ﷺ lui a ordonné de s’abstenir de prier pendant sa période menstruelle, puis de se laver et de prier. Si elle voyait quelque chose qui annule les ablutions, elle devait refaire ses ablutions et prier. Abu Dawud a dit : C’est l’avis de Malik b. Anas",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 306
+			}
+		}
+	]
+}

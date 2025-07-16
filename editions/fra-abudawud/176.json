@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 176,
+			"arabicnumber": 176,
+			"text": "Rapporté par Abbad b. Tamim, de la part de son oncle رضي الله عنه : Un homme s’est plaint au Prophète ﷺ en disant qu’il avait un doute, pensant que quelque chose avait annulé ses ablutions. Le Prophète ﷺ a dit : « Qu’il ne cesse pas de prier à moins d’entendre un son ou de sentir une odeur. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (137) Sahih Muslim (361)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 176
+			}
+		}
+	]
+}

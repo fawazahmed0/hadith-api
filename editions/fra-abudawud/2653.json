@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2653,
+			"arabicnumber": 2653,
+			"text": "Ibn Salamah bin Al Akwa’ a rapporté d’après son père رضي الله عنه : Un espion des polythéistes est venu voir le Prophète ﷺ alors qu’il était en voyage. Il s’est assis près de ses compagnons puis s’est éclipsé discrètement. Le Prophète ﷺ a dit : « Cherchez-le et tuez-le. » Il a dit : « Je me suis précipité vers lui et je l’ai tué. J’ai pris ses affaires, que le Prophète m’a données. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (3051)"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 177
+			}
+		}
+	]
+}

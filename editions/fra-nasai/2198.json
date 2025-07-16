@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2198,
+			"arabicnumber": 2198,
+			"text": "Rapporté par Abou Hourayra رضي الله عنه : Le Messager d’Allah ﷺ nous encourageait à prier le Qiyam pendant le Ramadan, sans l’imposer, et il disait : « Celui qui passe les nuits du Ramadan en prière (Qiyam) avec foi et en espérant une récompense, ses péchés passés lui seront pardonnés. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 109
+			}
+		}
+	]
+}

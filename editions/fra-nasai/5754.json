@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5754,
+			"arabicnumber": 5754,
+			"text": "Rapporté par Sa'eed bin 'Abdur-Rahman bin Abza que son père a dit : J'ai demandé à Ubayy bin Ka'b au sujet du Nabidh, et il a dit : \"Bois de l'eau, bois du miel, bois du Sawiq (bouillie d'orge) et bois du lait dont tu as été nourri depuis l'enfance.\" J'ai reposé la question et il a dit : \"Est-ce du vin que tu veux ? Est-ce du vin que tu veux ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 216
+			}
+		}
+	]
+}

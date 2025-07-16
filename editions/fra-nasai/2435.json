@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2435,
+			"arabicnumber": 2435,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah dit à Mu‘adh lorsqu’il l’envoya au Yémen : \"Tu vas aller vers des gens du Livre. Quand tu arriveras chez eux, appelle-les à témoigner qu’il n’y a de divinité digne d’adoration qu’Allah et que Muhammad est le Messager d’Allah. S’ils t’obéissent à cela, informe-les qu’Allah, le Puissant et Sublime, leur a imposé une aumône (Zakat) à prélever sur leurs riches et à donner à leurs pauvres. S’ils t’obéissent à cela, prends garde à l’invocation de la personne opprimée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 1
+			}
+		}
+	]
+}

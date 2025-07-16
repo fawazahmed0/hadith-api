@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2519,
+			"arabicnumber": 2519,
+			"text": "Rapporté par Al-Ju'aid : J’ai entendu As-Sa'ib bin Yazid dire : \"À l’époque du Messager d’Allah, le Sa' équivalait à un Mudd et un tiers du Mudd que vous utilisez aujourd’hui, et le Sa' d’aujourd’hui est devenu plus grand.\" (Sahih) Abu 'Abdur-Rahman (An-Nasa'i) a dit : Et Ziyad bin Ayyub me l’a rapporté",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 85
+			}
+		}
+	]
+}

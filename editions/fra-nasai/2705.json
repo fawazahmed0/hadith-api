@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2705,
+			"arabicnumber": 2705,
+			"text": "Rapporté par Muhammad bin Ibrahim bin Al-Muntashir : Mon père a dit : \"J'ai entendu Ibn 'Umar dire : 'Je préférerais me réveiller couvert de goudron plutôt que de me réveiller en état d'Ihram en sentant fort le parfum.' Je suis allé voir 'Aishah et je lui ai raconté ce qu'il avait dit. Elle a répondu : 'Je mettais du parfum sur le Messager d'Allah, il passait chez ses épouses, puis le lendemain matin il entrait en état d'Ihram",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 87
+			}
+		}
+	]
+}

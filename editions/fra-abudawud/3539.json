@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3539,
+			"arabicnumber": 3539,
+			"text": "Rapporté par Abdullah Ibn Umar رضي الله عنه et Abdullah Ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Il n’est pas permis à un homme de faire un don ou d’offrir un cadeau puis de le reprendre, sauf pour un père concernant ce qu’il donne à son enfant. Celui qui reprend un cadeau est comme un chien qui mange à satiété, vomit, puis revient à son vomi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 124
+			}
+		}
+	]
+}

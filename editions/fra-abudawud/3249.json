@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 3242,
+				"hadithnumber_last": 3325,
+				"arabicnumber_first": 3242,
+				"arabicnumber_last": 3325
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3249,
+			"arabicnumber": 3249,
+			"text": "Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a trouvé ‘Umar al-Khattab dans une caravane alors qu’il jurait par son père. Il a dit : « Allah vous interdit de jurer par vos ancêtres. Si quelqu’un doit jurer, qu’il jure par Allah ou qu’il se taise. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6108) Sahih Muslim (1646)"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 8
+			}
+		}
+	]
+}

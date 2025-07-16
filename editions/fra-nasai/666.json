@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 666,
+			"arabicnumber": 666,
+			"text": "Rapporté par 'Uqbah bin 'Amir : J’ai entendu le Messager d’Allah (ﷺ) dire : « Votre Seigneur est satisfait d’un berger, isolé dans les montagnes, qui fait l’Adhan pour la prière et prie. Allah dit : “Regardez Mon serviteur ; il fait l’Adhan et l’Iqamah pour la prière et Me craint. Je lui ai pardonné et Je l’ai fait entrer au Paradis.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 41
+			}
+		}
+	]
+}

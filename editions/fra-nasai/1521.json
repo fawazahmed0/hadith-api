@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"17": "The Book of Praying for Rain (Al-Istisqa')"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 1504,
+				"hadithnumber_last": 1528,
+				"arabicnumber_first": 1504,
+				"arabicnumber_last": 1528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1521,
+			"arabicnumber": 1521,
+			"text": "Rapporté par Hisham bin Ishaq bin Abdullah bin Kinanah : Son père a dit : « Un des gouverneurs m’a envoyé demander à Ibn Abbas au sujet de la prière pour la pluie. Il a dit : « Pourquoi ne m’a-t-il pas demandé ? Le Messager d’Allah (ﷺ) est sorti humblement, dans un état d’humilité, de soumission et de supplication, et il a prié deux rak‘as comme pour la prière de l’Aïd, mais il n’a pas fait de prêche comme le vôtre. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 18
+			}
+		}
+	]
+}

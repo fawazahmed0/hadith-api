@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4104,
+			"arabicnumber": 4104,
+			"text": "Rapporté par Thabit d’après Anas : Salman est tombé malade et Sa’d est venu lui rendre visite. En le voyant, il s’est mis à pleurer. Sa’d lui a dit : « Pourquoi pleures-tu, mon frère ? N’es-tu pas un compagnon du Messager d’Allah (ﷺ) ? N’est-ce pas le cas ? » Salman a répondu : « Je ne pleure que pour une seule raison : ce n’est pas par regret pour ce monde ni par peur de l’Au-delà. Mais le Messager d’Allah (ﷺ) m’a donné un conseil et je pense l’avoir dépassé. » Il lui a demandé : « Quel était ce conseil ? » Il a répondu : « Il m’a conseillé que la provision d’un cavalier suffit à chacun de vous, et je pense avoir dépassé cela. Quant à toi, ô Sa’d, crains Allah lorsque tu rends un jugement, lorsque tu distribues (les butins), et lorsque tu prends une décision. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 5
+			}
+		}
+	]
+}

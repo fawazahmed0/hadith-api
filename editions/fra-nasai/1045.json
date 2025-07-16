@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1045,
+			"arabicnumber": 1045,
+			"text": "Rapporté par Ibn 'Abbas : « Le Prophète (ﷺ) a tiré le rideau alors que les gens étaient en rangs derrière Abu Bakr, qu’Allah l’agrée, et a dit : “Ô gens, il ne reste rien des signes de la Prophétie sauf un bon rêve qu’un musulman fait ou qu’on fait pour lui.” Puis il a dit : “En vérité, il m’a été interdit de réciter le Coran en m’inclinant ou en me prosternant. Quant à l’inclinaison, glorifiez-y le Seigneur, et pour la prosternation, multipliez les invocations, car c’est plus digne d’être exaucé.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 17
+			}
+		}
+	]
+}

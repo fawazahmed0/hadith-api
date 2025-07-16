@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 466,
+			"arabicnumber": 466,
+			"text": "Rapporté par Haiwah ibn Shuraih : J’ai rencontré ‘Uqbah ibn Muslim et je lui ai dit : « On m’a rapporté que quelqu’un t’a dit que le Prophète ﷺ, quand il entrait dans la mosquée, disait : ‘Je cherche protection auprès d’Allah, le Magnifique, de Son noble visage et de Son royaume éternel, contre le Diable maudit.’ » Il demanda : « C’est tout ? » Je répondis : « Oui. » Il dit : « Quand quelqu’un dit cela, le diable dit : “Il est protégé de moi toute la journée.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 76
+			}
+		}
+	]
+}

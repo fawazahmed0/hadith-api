@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 542,
+			"arabicnumber": 542,
+			"text": "Rapporté par Humaid : J’ai demandé à Thabit al-Bunani s’il était permis de parler après que l’iqama ait été prononcée. Il a rapporté une tradition d’Anas : (une fois) l’iqama a été prononcée, et une personne est venue voir l’Envoyé d’Allah ﷺ et l’a retenu après l’iqama",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (643)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 152
+			}
+		}
+	]
+}

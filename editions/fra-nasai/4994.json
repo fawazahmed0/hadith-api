@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"47": "The Book Of Faith and its Signs"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 4985,
+				"hadithnumber_last": 5039,
+				"arabicnumber_first": 4985,
+				"arabicnumber_last": 5039
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4994,
+			"arabicnumber": 4994,
+			"text": "Rapporté par Bishr bin Suhaim : Le Prophète [SAW] lui a ordonné d'annoncer pendant les jours de At-Tashriq que personne n'entrera au Paradis sauf un croyant, et que ce sont des jours de nourriture et de boisson",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 10
+			}
+		}
+	]
+}

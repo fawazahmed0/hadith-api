@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3311,
+			"arabicnumber": 3311,
+			"text": "Rapporté par Sa'eed d’après Qatadah : Nous avons écrit à Ibrahim bin Yazid An-Nakha'i pour lui demander au sujet de l’allaitement. Il a répondu que Shuraih avait rapporté que 'Ali et Ibn Mas'ud disaient : « Un peu ou beaucoup d’allaitement rend le mariage interdit. » Dans son livre, il est écrit qu’Abu Ash-Sha'tha' Al-Muharibi a rapporté que 'Aishah lui avait dit que le Prophète d’Allah ﷺ disait : « Une ou deux tétées ne rendent pas (le mariage) interdit. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 116
+			}
+		}
+	]
+}

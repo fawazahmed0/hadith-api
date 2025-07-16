@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1459,
+			"arabicnumber": 1459,
+			"text": "Rapporté par Abu Bakrah : Le Messager d'Allah (ﷺ) a dit : \"Le soleil et la lune sont deux signes d'Allah (SWT), le Très-Haut, et ils ne s'éclipsent pas à cause de la mort ou de la naissance de quelqu'un. Mais Allah (SWT), le Puissant et le Sublime, inspire la crainte à Ses serviteurs à travers eux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 1
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3814,
+			"arabicnumber": 3814,
+			"text": "Rapporté par 'Uqbah bin 'Amir : Ma sœur avait fait le vœu d’aller à la Maison d’Allah à pied, et elle m’a demandé d’interroger le Messager d’Allah à ce sujet. Je l’ai donc interrogé pour elle et il a dit : \"Qu’elle marche, et qu’elle monte aussi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 54
+			}
+		}
+	]
+}

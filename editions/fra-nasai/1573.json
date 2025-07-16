@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1573,
+			"arabicnumber": 1573,
+			"text": "Rapporté par Abu Khalil Al-Ahmasi : J’ai vu le Prophète (ﷺ) prononcer un sermon sur une chamelle, pendant qu’un Éthiopien tenait la bride de la chamelle",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 18
+			}
+		}
+	]
+}

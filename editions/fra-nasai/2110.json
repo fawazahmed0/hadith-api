@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2110,
+			"arabicnumber": 2110,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ a dit à une femme parmi les Ansar : « Quand vient le Ramadan, fais la ‘Umrah, car la ‘Umrah pendant ce mois équivaut au Hajj. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 21
+			}
+		}
+	]
+}

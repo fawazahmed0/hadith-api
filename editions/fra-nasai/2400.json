@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2400,
+			"arabicnumber": 2400,
+			"text": "Rapporté par 'Abdullah bin 'Amr : Le Messager d'Allah ﷺ m'a dit : \"Lis le Coran en un mois.\" J'ai dit : \"Je peux faire plus.\" Et j'ai continué à demander jusqu'à ce qu'il dise : \"En cinq jours.\" Et il a dit : \"Jeûne trois jours par mois.\" J'ai dit : \"Je peux faire plus.\" Et il a dit : \"Pratique le jeûne le plus aimé d'Allah, le Puissant et Sublime, le jeûne un jour et pas le suivant.\" (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 311
+			}
+		}
+	]
+}

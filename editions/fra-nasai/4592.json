@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4592,
+			"arabicnumber": 4592,
+			"text": "Rapporté par Suwaid bin Qais : « Makhrafah Al-Abdi et moi avons apporté des tissus de Hajar, et le Messager d’Allah est venu vers nous alors que nous étions à Mina, où il y avait un homme qui pesait (des marchandises) contre paiement. Il a acheté un pantalon chez nous, et il a dit à l’homme qui pesait : “Pèse-le, et sois généreux.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 144
+			}
+		}
+	]
+}

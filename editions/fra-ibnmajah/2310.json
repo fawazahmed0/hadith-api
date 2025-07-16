@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"13": "The Chapters on Rulings"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2308,
+				"hadithnumber_last": 2374,
+				"arabicnumber_first": 2308,
+				"arabicnumber_last": 2374
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2310,
+			"arabicnumber": 2310,
+			"text": "Rapporté par 'Ali : \"Le Messager d'Allah (ﷺ) m'a envoyé au Yémen. J'ai dit : 'Ô Messager d'Allah, tu m'envoies juger entre eux alors que je suis jeune et que je ne sais pas juger.' Il m'a frappé la poitrine de sa main et a dit : 'Ô Allah, guide son cœur et rends sa langue ferme.' Après cela, je n'ai jamais douté en rendant un jugement entre deux personnes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 3
+			}
+		}
+	]
+}

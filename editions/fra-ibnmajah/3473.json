@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3473,
+			"arabicnumber": 3473,
+			"text": "Rapporté par Rafi’ bin Khadij : J’ai entendu le Prophète (ﷺ) dire : « La fièvre vient de la chaleur du feu de l’Enfer, alors rafraîchissez-la avec de l’eau. » Il est entré chez un fils de ‘Ammar et a dit : « Éloigne le mal, Seigneur des hommes, Ô Dieu des hommes. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 38
+			}
+		}
+	]
+}

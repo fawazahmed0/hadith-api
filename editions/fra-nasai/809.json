@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 809,
+			"arabicnumber": 809,
+			"text": "Rapporté par Abu Salamah bin 'Abdur Rahman : Il a entendu Abu Hurairah dire : « L’iqama pour la prière a été prononcée, et nous nous sommes levés et avons aligné les rangs, avant que le Messager d’Allah (ﷺ) ne sorte vers nous. Ensuite, le Messager d’Allah (ﷺ) est venu à l’endroit où il priait, et avant de dire le takbir, il s’est arrêté et nous a dit : « Restez où vous êtes. » Nous sommes donc restés là, à l’attendre, jusqu’à ce qu’il revienne vers nous ; il avait fait le ghusl et sa tête dégoulinait d’eau. Puis il a dit le takbir et a prié",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 33
+			}
+		}
+	]
+}

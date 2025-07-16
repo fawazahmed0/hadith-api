@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"16": "The Chapters on Pawning"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2436,
+				"hadithnumber_last": 2491,
+				"arabicnumber_first": 2436,
+				"arabicnumber_last": 2491
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2483,
+			"arabicnumber": 2483,
+			"text": "Rapporté par 'Ubadah bin Samit : Le Messager d'Allah (ﷺ) a statué concernant l'irrigation des palmiers à partir des ruisseaux que les terrains en hauteur devaient être irrigués avant ceux en contrebas, et que l'eau devait atteindre les chevilles avant d'être relâchée vers le terrain le plus proche en contrebas, et ainsi de suite, jusqu'à ce que tous les champs soient irrigués ou que l'eau soit épuisée",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 48
+			}
+		}
+	]
+}

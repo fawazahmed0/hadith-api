@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5620,
+			"arabicnumber": 5620,
+			"text": "Rapporté par Sa'eed bin Jubair : J'étais avec Ibn 'Umar quand on lui a demandé au sujet du nabidh fait dans une jarre en terre cuite. Il a dit : « Le Messager d'Allah ﷺ l'a interdit. » J'ai été contrarié en entendant cela, alors je suis allé voir Ibn 'Abbas et j'ai dit : « On a posé une question à Ibn 'Umar et cela m'a dérangé. » Il a dit : « Qu'est-ce que c'était ? » J'ai dit : « On lui a demandé au sujet du nabidh fait dans une jarre en terre cuite. » Il a dit : « Il a dit vrai ; le Messager d'Allah ﷺ l'a interdit. » J'ai demandé : « Qu'est-ce qu'une jarre en terre cuite ? » Il a répondu : « Tout ce qui est fait d'argile. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 82
+			}
+		}
+	]
+}

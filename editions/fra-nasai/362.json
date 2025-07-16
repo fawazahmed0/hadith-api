@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 362,
+			"arabicnumber": 362,
+			"text": "Rapporté par Fatimah bint Abi Hubaish : Elle avait des saignements persistants et le Messager d'Allah (ﷺ) lui a dit : \"Si c'est du sang menstruel, il est noir et reconnaissable, alors arrête de prier, et si ce n'est pas cela, fais le Wudu', car ce n'est qu'une veine",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 14
+			}
+		}
+	]
+}

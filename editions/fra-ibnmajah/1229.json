@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"5": "Establishing the Prayer and the Sunnah Regarding Them"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 803,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 803,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1229,
+			"arabicnumber": 1229,
+			"text": "Rapporté par ‘Abdullah bin ‘Amr : Le Prophète (ﷺ) est passé près de moi alors que je priais assis. Il a dit : “La prière de celui qui prie assis équivaut à la moitié de la prière de celui qui prie debout.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 427
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 230,
+			"arabicnumber": 230,
+			"text": "Rapporté par Abu Ja'far : Nous avons discuté du Ghusl en présence de Jabir ibn 'Abdullah, et Jabir a dit : \"Un Sa' d'eau suffit pour le Ghusl après une souillure majeure.\" Nous avons dit : \"Un Sa' ne suffit pas, ni même deux.\" Jabir a répondu : \"Cela suffisait à quelqu'un de meilleur que vous et qui avait plus de cheveux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 231
+			}
+		}
+	]
+}

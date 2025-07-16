@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3500,
+			"arabicnumber": 3500,
+			"text": "Rapporté par Tariq bin Suwaid Al-Hadrami : J’ai dit : « Ô Messager d’Allah, dans notre région il y a des raisins que nous pressons (pour faire du vin). Pouvons-nous en boire ? » Il a dit : « Non. » J’ai répété la question et dit : « Nous soignons les malades avec. » Il a dit : « Ce n’est pas un remède, c’est une maladie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 65
+			}
+		}
+	]
+}

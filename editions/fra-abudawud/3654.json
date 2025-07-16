@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3654,
+			"arabicnumber": 3654,
+			"text": "Rapporté par Urwah : Abu Huraira s’est assis près de l’appartement de `A’ishah pendant qu’elle priait. Il s’est alors mis à dire : « Écoute, ô dame de l’appartement », et il l’a répété deux fois rapidement. Quand elle a terminé sa prière, elle a dit : « N’es-tu pas étonné de lui et de la façon dont il rapporte les traditions du Messager d’Allah ﷺ ? Quand le Messager d’Allah ﷺ parlait, on pouvait compter ses paroles si on voulait. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (3567) Sahih Muslim (2493)"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 14
+			}
+		}
+	]
+}

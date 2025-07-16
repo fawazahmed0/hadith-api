@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 12,
+			"arabicnumber": 12,
+			"text": "Rapporté par ‘Abd Allah b. ‘Umar : Je suis monté sur le toit de la maison et j’ai vu le Messager d’Allah ﷺ assis sur deux briques, tourné vers Jérusalem (Bayt al-Maqdis), pour satisfaire ses besoins",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (145) Sahih Muslim (266)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 12
+			}
+		}
+	]
+}

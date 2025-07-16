@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3006,
+			"arabicnumber": 3006,
+			"text": "Rapporté par Saeed bin Jubair : J'étais avec Ibn Abbas à Arafat et il a dit : \"Pourquoi n'entends-je pas les gens réciter la Talbiyah ?\" J'ai répondu : \"Ils ont peur de Muawiyah.\" Alors Ibn Abbas est sorti de sa tente et a dit : \"Labbaik Allahumma Labbaik, Labbaik ! Ils abandonnent la Sunna uniquement par hostilité envers Ali",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 389
+			}
+		}
+	]
+}

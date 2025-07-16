@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"30": "Chapters on Drinks"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3371,
+				"hadithnumber_last": 3435,
+				"arabicnumber_first": 3371,
+				"arabicnumber_last": 3435
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3405,
+			"arabicnumber": 3405,
+			"text": "Rapporté par Ibn Buraidah, d’après son père : Le Prophète (ﷺ) a dit : “Je vous interdisais d’utiliser certains récipients, mais maintenant, préparez du Nabidh dedans, tout en évitant tout ce qui enivre.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 35
+			}
+		}
+	]
+}

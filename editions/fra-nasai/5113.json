@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5113,
+			"arabicnumber": 5113,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d'Allah ﷺ a dit : \"L'un des meilleurs types de khôl que vous pouvez utiliser est l'ithmid (antimoine) ; il rend la vue plus claire et fait pousser les cils",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 74
+			}
+		}
+	]
+}

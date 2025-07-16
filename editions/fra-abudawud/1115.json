@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1115,
+			"arabicnumber": 1115,
+			"text": "Rapporté par Jabir : Un homme est entré (à la mosquée) pendant que le Prophète ﷺ prononçait le sermon du vendredi. Il lui a demandé : « As-tu prié, untel ? » Il a répondu : « Non. » Il ﷺ a dit : « Lève-toi et prie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (930) Sahih Muslim (875)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 726
+			}
+		}
+	]
+}

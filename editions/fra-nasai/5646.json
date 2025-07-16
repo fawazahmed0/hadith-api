@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5646,
+			"arabicnumber": 5646,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a interdit à la délégation de ‘Abdul-Qais, lorsqu’ils sont venus le voir, d’utiliser les gourdes (Ad-Dubba’), An-Naqir, Al-Muzaffat et les grandes outres dont le haut est coupé et qui ne peuvent plus être fermées. Il a dit : \"Préparez le Nabidh dans vos outres, fermez-les et buvez-le tant qu’il est doux.\" L’un d’eux a dit : \"Ô Messager d’Allah, permets-moi quelque chose comme cela.\" Il a répondu : \"Si tu le fais ainsi,\" et il a fait un geste de la main pour lui montrer comment",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 108
+			}
+		}
+	]
+}

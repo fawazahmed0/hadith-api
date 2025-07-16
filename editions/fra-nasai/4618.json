@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4618,
+			"arabicnumber": 4618,
+			"text": "Rapporté par Abu Hurairah : \"Un homme avait prêté un chameau d'un certain âge au Prophète et il est venu le récupérer. Il a dit : 'Donne-le-lui.' Mais ils n'ont trouvé qu'un chameau plus âgé. Il a dit : 'Donne-le-lui.' Il a dit : 'Tu m'as bien remboursé.' Le Messager d'Allah a dit : 'Le meilleur d'entre vous est celui qui rembourse le mieux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 170
+			}
+		}
+	]
+}

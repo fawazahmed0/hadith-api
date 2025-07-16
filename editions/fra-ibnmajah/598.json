@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 598,
+			"arabicnumber": 598,
+			"text": "Rapporté par Abu Ayyub Al-Ansari : Le Prophète a dit : \"Les cinq prières quotidiennes, d'un vendredi à l'autre, et accomplir la confiance sont toutes des expiations pour les péchés commis entre elles.\" J'ai demandé : \"Qu'est-ce qu'accomplir la confiance ?\" Il a répondu : \"Se laver pour se purifier après une relation intime, car sous chaque cheveu se trouve l'état d'impureté",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 332
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1074,
+			"arabicnumber": 1074,
+			"text": "Ibn ‘Abbas a dit : Le Messager d’Allah ﷺ récitait, lors de la prière du matin du vendredi, la sourate « Tanzil al-Sajdah » (XXXII) et la sourate « al-Dahr » (LXXI)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (879)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 685
+			}
+		}
+	]
+}

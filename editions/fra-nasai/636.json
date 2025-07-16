@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 636,
+			"arabicnumber": 636,
+			"text": "Rapporté par Ayyub, d’après Abu Qilabah, d’après 'Amr bin Salamah : Abu Qilabah m’a dit (à Ayyub) : « Il ('Amr) est encore vivant, veux-tu le rencontrer ? » Je l’ai rencontré et je lui ai demandé, et il a dit : « Quand La Mecque a été conquise, tout le monde s’est empressé d’annoncer son islam. Mon père est parti annoncer l’islam des gens de notre village, et quand il est revenu, nous sommes allés le voir et il a dit : “Par Allah, je viens de la part du Messager d’Allah (ﷺ).” Il a dit : “Priez telle prière à telle heure, priez telle prière à telle heure. Quand l’heure de la prière arrive, que l’un de vous fasse l’Adhan et que celui qui connaît le plus de Coran dirige la prière.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 11
+			}
+		}
+	]
+}

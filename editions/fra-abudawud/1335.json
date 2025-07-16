@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1335,
+			"arabicnumber": 1335,
+			"text": "Rapporté par Aishah, l’épouse du Prophète ﷺ رضي الله عنها : Le Messager d’Allah ﷺ priait onze rak‘as (la nuit, en terminant par une rak‘a de witr). Lorsqu’il avait terminé la prière, il s’allongeait sur son côté droit",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (736)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 86
+			}
+		}
+	]
+}

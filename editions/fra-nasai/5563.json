@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5563,
+			"arabicnumber": 5563,
+			"text": "Rapporté par Anas bin Malik : \"Le Messager d’Allah ﷺ nous a interdit de faire tremper deux choses ensemble quand l’une est plus forte que l’autre. Je lui ai demandé au sujet du Fadikh (une boisson faite avec des dattes fraîches coupées), et il l’a interdite. Il n’aimait pas la partie en trop sur Al-Busr, de peur que cela ne fasse deux choses, alors nous avions l’habitude de la couper",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 24
+			}
+		}
+	]
+}

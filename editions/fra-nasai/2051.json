@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2051,
+			"arabicnumber": 2051,
+			"text": "Rapporté par Anas : Le Prophète a dit : \"Quand une personne est mise dans sa tombe et que ses compagnons la quittent, elle entend le bruit de leurs sandales. Deux anges viennent à elle, la font asseoir et lui demandent : 'Qu’as-tu dit à propos de cet homme (Muhammad) ?' Quant au croyant, il répond : 'Je témoigne qu’il est le serviteur d’Allah et Son Messager.' On lui dit : 'Regarde ta place en Enfer ; Allah l’a remplacée pour toi par une place meilleure.' Le Messager d’Allah a dit : 'Alors il voit les deux.' Quant au mécréant ou à l’hypocrite, on lui demande : 'Qu’as-tu dit à propos de cet homme ?' Il répond : 'Je ne sais pas ; je disais ce que disaient les gens.' On lui dit : 'Tu n’as pas compris et tu n’as pas suivi ceux qui comprenaient.' Ensuite, il reçoit un coup entre les oreilles et il pousse un cri que tout ce qui est près de lui entend, sauf les deux espèces",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 234
+			}
+		}
+	]
+}

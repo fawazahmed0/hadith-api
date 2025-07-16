@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2235,
+			"arabicnumber": 2235,
+			"text": "Rapporté par Salim bin 'Abdullah bin 'Umar, de son père, que son grand-père a rapporté que le Messager d’Allah (ﷺ) a dit : \"Celui qui dit, en entrant au marché : 'La ilaha illallah wahdahu la sharika lahu, lahul-mulk wa lahul-hamdu, yuhyi wa yumitu, wa Huwa hayyun la yamutu, bi yadihil-khairu kulluhu, wa Huwa ala kulli shay’in Qadir' (Nul n’a le droit d’être adoré en dehors d’Allah, seul, sans associé, à Lui la royauté et la louange, Il donne la vie et la mort, Il est le Vivant qui ne meurt jamais, tout le bien est entre Ses mains, et Il est capable de toute chose), Allah inscrira pour lui un million de bonnes actions, effacera un million de mauvaises actions et lui construira une maison au Paradis",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 99
+			}
+		}
+	]
+}

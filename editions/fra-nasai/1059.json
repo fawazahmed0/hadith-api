@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1059,
+			"arabicnumber": 1059,
+			"text": "Rapporté par Ibn 'Umar : Quand le Messager d’Allah (ﷺ) commençait la prière, il levait les mains jusqu’à la hauteur de ses épaules, puis il le faisait aussi quand il prononçait le takbir avant de s’incliner, et quand il relevait la tête de l’inclinaison, il levait aussi les mains et disait : « Sami Allahu liman hamidah, Rabbana wa lakal-hamd (Allah entend celui qui Le loue ; Notre Seigneur, à Toi la louange) », et il ne le faisait pas lors de la prosternation",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 31
+			}
+		}
+	]
+}

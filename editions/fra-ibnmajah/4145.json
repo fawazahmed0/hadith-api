@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4145,
+			"arabicnumber": 4145,
+			"text": "Rapporté par Abu Salamah, d’après ‘Aishah : Il arrivait qu’un mois entier passe sans qu’aucune fumée ne soit vue dans aucune des maisons de la famille de Muhammad (ﷺ). J’ai demandé : « Que mangiez-vous ? » Elle a répondu : « Les deux noirs – les dattes et l’eau. » Mais nous avions des voisins parmi les Ansar, des voisins sincères, qui avaient des brebis et nous envoyaient parfois un peu de leur lait. (Un des rapporteurs) Muhammad a dit : « Et il y avait neuf maisons. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 46
+			}
+		}
+	]
+}

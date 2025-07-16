@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 140,
+			"arabicnumber": 140,
+			"text": "Rapporté par 'Abbas bin 'Abdul-Muttalib : Nous passions devant des groupes de Quraish qui discutaient, mais ils s’arrêtaient de parler quand nous arrivions. Nous en avons parlé au Messager d’Allah ﷺ et il a dit : \"Pourquoi des gens parlent-ils, puis quand ils voient un homme de ma famille, ils se taisent ? Par Allah, la foi n’entrera pas dans le cœur d’une personne tant qu’il n’aimera pas ma famille pour Allah et à cause de leur lien avec moi",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 140
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"16": "Sacrifice (Kitab Al-Dahaya)"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2788,
+				"hadithnumber_last": 2843,
+				"arabicnumber_first": 2788,
+				"arabicnumber_last": 2843
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2806,
+			"arabicnumber": 2806,
+			"text": "Rapporté par Qatadah : J’ai demandé à Sa’id b. al-Musayyab : « Que veut-on dire par animal à l’oreille fendue et à la corne cassée ? » Il a répondu : « La moitié ou plus de la moitié. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 19
+			}
+		}
+	]
+}

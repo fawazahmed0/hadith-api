@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3519,
+			"arabicnumber": 3519,
+			"text": "Rapporté par Yazid bin Abi Habib : Muhammad bin Muslim Az-Zuhri lui a écrit pour lui rapporter que 'Ubaidullah bin 'Abdullah lui avait dit que Zufar bin Aws bin Al-Hadathan An-Nasri lui avait raconté qu’Abu As-Sanabil bin Ba'kak bin As-Sabbaq avait dit à Subai'ah Al-Aslamiyyah : \"Il ne t’est pas permis de te remarier avant que quatre mois et dix jours, la plus longue des deux périodes, soient passés.\" Elle est allée voir le Messager d’Allah ﷺ pour lui demander à ce sujet. Elle a dit que le Messager d’Allah ﷺ a jugé qu’elle pouvait se remarier dès qu’elle avait accouché. Elle était enceinte de neuf mois quand son mari est mort, et elle était mariée à Sa'd bin Khawlah, qui est décédé pendant le Pèlerinage d’Adieu avec le Messager d’Allah ﷺ. Elle a épousé un jeune homme de son peuple après avoir accouché",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 131
+			}
+		}
+	]
+}

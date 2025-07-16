@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3529,
+			"arabicnumber": 3529,
+			"text": "Rapporté par Al-Furai'ah bint Malik : Son mari avait embauché des esclaves pour travailler pour lui et ils l’ont tué. Elle en a parlé au Messager d’Allah ﷺ et a dit : « Je ne vis pas dans une maison qui lui appartient, et je ne reçois pas de pension de sa part ; dois-je aller chez ma famille avec mes deux orphelins et rester avec eux ? » Il a dit : « Fais-le. » Puis il a demandé : « Qu’as-tu dit ? » Elle a répété, et il a dit : « Observe ta ‘Idda là où tu as appris la nouvelle. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 141
+			}
+		}
+	]
+}

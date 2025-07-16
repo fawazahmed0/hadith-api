@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1029,
+			"arabicnumber": 1029,
+			"text": "Rapporté par Abu Sa‘id al-Khudri : Le Prophète ﷺ a dit : « Lorsque l’un d’entre vous prie et qu’il ne sait pas s’il a fait plus ou moins de rak‘ah que ce qui est prescrit, il doit faire deux prosternations assis. Si le diable vient à lui et lui dit : “Tu as perdu ta pureté”, il doit répondre : “Tu mens”, sauf s’il sent une odeur avec son nez ou entend un son avec ses oreilles (alors son ablution sera annulée). » Telles sont les paroles rapportées par Aban. Abu Dawud a dit : Ma‘mar et ‘Abi b. al-Mubarak ont mentionné le nom de “Iyad b. Hilal” et al-Awza‘i a mentionné le nom de “Iyad b. Abi Zuhair”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 640
+			}
+		}
+	]
+}

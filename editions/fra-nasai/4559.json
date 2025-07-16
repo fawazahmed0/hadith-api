@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4559,
+			"arabicnumber": 4559,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah ﷺ a dit : \"Dattes contre dattes, blé contre blé, orge contre orge, sel contre sel, doivent être échangés de main à main. Celui qui donne plus ou prend plus a pratiqué le riba, sauf si ce sont des produits différents",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 111
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5205,
+			"arabicnumber": 5205,
+			"text": "Rapporté par Iyas bin Al-Harith bin Al-Mu'aiqib, d'après son grand-père Mu'aiqib : \"La bague du Prophète ﷺ était en fer entourée d'argent.\" Il a dit : \"Et parfois elle était à ma main.\" Et Mu'aiqib était le gardien de la bague du Messager d'Allah ﷺ",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 166
+			}
+		}
+	]
+}

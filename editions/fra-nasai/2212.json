@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2212,
+			"arabicnumber": 2212,
+			"text": "Rapporté par Abu Al-Ahwas : 'Abdullah a dit : \"Allah, qu’Il soit exalté, a dit : 'Le jeûne est pour Moi et c’est Moi qui en donne la récompense. Le jeûneur a deux moments de joie : lorsqu’il rompt son jeûne et lorsqu’il rencontre son Seigneur. Et l’odeur qui sort de la bouche du jeûneur est meilleure auprès d’Allah que le parfum du musc",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Mauquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 123
+			}
+		}
+	]
+}

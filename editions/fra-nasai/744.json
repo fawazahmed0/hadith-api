@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 744,
+			"arabicnumber": 744,
+			"text": "Rapporté par Abdullah : Le Messager d’Allah (ﷺ) priait sur sa monture pendant ses voyages, dans la direction où elle se trouvait, et il faisait la prière du Witr dessus, mais il ne faisait pas les prières obligatoires dessus",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 3
+			}
+		}
+	]
+}

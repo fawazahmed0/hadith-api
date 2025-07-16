@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3661,
+			"arabicnumber": 3661,
+			"text": "Rapporté par Muhammad bin 'Abdullah bin Yazid : Sufyan nous a rapporté d'Az-Zuhri, de 'Ubaidullah bin 'Abdullah, d'Ibn 'Abbas, que Sa'd a dit : « Ma mère est morte et il y avait un vœu qu'elle devait accomplir. J'ai demandé au Prophète ﷺ et il m'a dit de l'accomplir pour elle. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 51
+			}
+		}
+	]
+}

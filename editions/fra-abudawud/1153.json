@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1153,
+			"arabicnumber": 1153,
+			"text": "Rapporté par Abu 'Aishah : Sa‘id b. al-‘As a demandé à Abu Musa al-Ash‘ari et Hudhayfah b. al-Yaman : « Comment le Messager d’Allah ﷺ prononçait-il le takbir dans la prière du jour du sacrifice et de la rupture du jeûne ? » Abu Musa a répondu : « Il disait le takbir quatre fois, comme lors des funérailles. » Hudhayfah a confirmé : « C’est exact. » Puis Abu Musa a ajouté : « Je faisais de même quand j’étais gouverneur de Bassora. » Abu 'Aishah a dit : « J’étais présent lorsque Sa‘id b. al-‘As a posé la question. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 764
+			}
+		}
+	]
+}

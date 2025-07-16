@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 62,
+			"arabicnumber": 62,
+			"text": "Rapporté par Abdullah ibn Umar رضي الله عنه : Abu Ghutayf al-Hudhali a rapporté : J’étais avec Ibn Umar. Quand l’appel à la prière du zuhr fut lancé, il fit ses ablutions et pria. Lorsqu’on appela à la prière du ‘asr, il refit ses ablutions. Je lui ai alors demandé pourquoi il refaisait ses ablutions. Il répondit : Le Messager d’Allah ﷺ a dit : « Pour celui qui fait ses ablutions alors qu’il est déjà pur, dix bonnes actions seront inscrites pour lui. » Abu Dawud a dit : C’est la version rapportée par Musaddad, et elle est plus complète",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 62
+			}
+		}
+	]
+}

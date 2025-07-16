@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3461,
+			"arabicnumber": 3461,
+			"text": "Rapporté par Asma’ bint ‘Umais : Le Messager d’Allah (ﷺ) m’a dit : « Qu’utilises-tu comme laxatif ? » J’ai répondu : « Le shubrum (euphorbe). » Il a dit : « C’est fort et puissant. » Ensuite, j’ai utilisé le séné comme laxatif et il a dit : « Si quelque chose pouvait guérir la mort, ce serait le séné. Le séné est un remède contre la mort. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 26
+			}
+		}
+	]
+}

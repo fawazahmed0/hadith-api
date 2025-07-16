@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 483,
+			"arabicnumber": 483,
+			"text": "Rapporté par Qais bin Talq Al-Hanafi, d'après son père : J'ai entendu le Messager d'Allah ﷺ qu'on interrogeait au sujet du fait de toucher le sexe masculin. Il a dit : \"Cela ne nécessite pas les ablutions, car c'est une partie de toi (de ton corps)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 217
+			}
+		}
+	]
+}

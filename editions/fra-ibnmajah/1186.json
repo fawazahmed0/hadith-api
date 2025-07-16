@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"5": "Establishing the Prayer and the Sunnah Regarding Them"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 803,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 803,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1186,
+			"arabicnumber": 1186,
+			"text": "Rapporté par ‘Ali : À tous les moments de la nuit, le Messager d’Allah (ﷺ) priait le Witr, au début, au milieu, et finalement son Witr était juste avant l’aube",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 384
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2795,
+			"arabicnumber": 2795,
+			"text": "Rapporté par Aïcha رضي الله عنها : Je tressais les colliers pour les animaux offerts en sacrifice du Messager d’Allah ﷺ. Ensuite, il ne s’abstenait de rien. Elle a dit : « Nous ne savons pas que le pèlerin peut sortir complètement de l’ihram sauf après avoir fait le Tawaf. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 177
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3445,
+			"arabicnumber": 3445,
+			"text": "Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : Si quelqu’un achète une brebis ou une chèvre dont les pis ont été ligotés et qu’il la trait, il peut la garder s’il en est satisfait, ou la rendre s’il ne l’est pas. Il doit alors donner un sa’ de dattes (au vendeur) pour le lait trait",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2151)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 30
+			}
+		}
+	]
+}

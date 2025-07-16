@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3740,
+			"arabicnumber": 3740,
+			"text": "Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « Quand l’un de vous est invité à un repas, il doit accepter. S’il veut, il peut manger ; s’il veut, il peut s’en aller. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1430)"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 5
+			}
+		}
+	]
+}

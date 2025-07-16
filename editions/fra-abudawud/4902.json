@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4902,
+			"arabicnumber": 4902,
+			"text": "Rapporté par Abu Bakrah رضي الله عنه : Le Prophète ﷺ a dit : « Il n’y a pas de péché qui mérite davantage qu’Allah punisse son auteur dans ce monde, en plus de ce qui l’attend dans l’au-delà, que l’injustice et la rupture des liens familiaux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 130
+			}
+		}
+	]
+}

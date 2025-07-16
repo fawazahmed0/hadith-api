@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 210,
+			"arabicnumber": 210,
+			"text": "Rapporté par Kathir bin 'Abdullah, d’après son père, d’après son grand-père : J’ai entendu le Messager d’Allah dire : \"Celui qui fait revivre une de mes traditions qui disparaît après moi recevra une récompense équivalente à celle de ceux parmi les gens qui la mettent en pratique, sans que cela ne diminue leur récompense le moins du monde. Celui qui introduit une innovation (Bid‘ah) qui ne plaît pas à Allah et à Son Messager portera un fardeau de péché équivalent à celui de ceux parmi les gens qui la suivent, sans que cela ne diminue leurs péchés le moins du monde",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 210
+			}
+		}
+	]
+}

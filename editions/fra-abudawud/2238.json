@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2238,
+			"arabicnumber": 2238,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Un homme est venu après avoir embrassé l’islam du vivant du Messager d’Allah ﷺ. Plus tard, sa femme est venue après s’être convertie à l’islam. Il dit : « Messager d’Allah, elle s’est convertie en même temps que moi ; rends-la-moi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 64
+			}
+		}
+	]
+}

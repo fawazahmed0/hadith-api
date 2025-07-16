@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3854,
+			"arabicnumber": 3854,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : Le Prophète ﷺ vint rendre visite à Sa’d ibn Ubaydah, qui lui servit du pain et de l’huile d’olive, et il en mangea. Ensuite, le Prophète ﷺ dit : « Que les jeûneurs rompent leur jeûne avec toi, que les pieux mangent ta nourriture, et que les anges prient pour toi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 119
+			}
+		}
+	]
+}

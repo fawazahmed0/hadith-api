@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4017,
+			"arabicnumber": 4017,
+			"text": "Rapporté par 'Amr bin Ghalib : 'Aishah رضي الله عنها a dit : « Ne sais-tu pas que le Messager d'Allah ﷺ a dit : Il n'est pas permis de verser le sang d'un musulman, sauf pour un homme qui a commis l'adultère après avoir été marié, ou celui qui est revenu à la mécréance après avoir été musulman, ou la loi du talion (une vie pour une vie). »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 52
+			}
+		}
+	]
+}

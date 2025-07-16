@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2595,
+			"arabicnumber": 2595,
+			"text": "Rapporté par 'Abdur-Rahman bin Abu Sa'eed Al-Khudri, d’après son père : Ma mère m’a envoyé vers le Messager d’Allah, je suis allé m’asseoir près de lui. Il s’est tourné vers moi et a dit : “Celui qui veut être indépendant, Allah, le Puissant et Majestueux, le rendra indépendant. Celui qui veut s’abstenir de demander, Allah l’y aidera. Celui qui veut se contenter de ce qu’il a, Allah, le Puissant et Majestueux, lui suffira. Celui qui demande alors qu’il possède quelque chose d’une valeur d’une Uqiyah, il est trop exigeant. J’ai dit : Ma chamelle Al-Yaqutah vaut plus qu’une Uqiyah.” Je suis donc reparti et je n’ai rien demandé",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 161
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 732,
+			"arabicnumber": 732,
+			"text": "Ce même récit a aussi été rapporté par Muhammad b. ‘Amr b. ‘Ata’ à travers une autre chaîne de transmetteurs. Cette version ajoute : « Quand il se prosternait, il ne posait pas ses bras au sol ni ne les serrait contre lui ; il dirigeait ses doigts vers la qibla. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (828)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 342
+			}
+		}
+	]
+}

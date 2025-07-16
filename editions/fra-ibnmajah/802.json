@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 802,
+			"arabicnumber": 802,
+			"text": "Rapporté par Abu Sa’eed : Le Messager d’Allah a dit : « Si vous voyez un homme fréquenter régulièrement les mosquées, alors témoignez de sa foi. Allah dit : “Les mosquées d’Allah ne sont entretenues que par ceux qui croient en Allah et au Jour dernier.” [At-Tawbah :] »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 68
+			}
+		}
+	]
+}

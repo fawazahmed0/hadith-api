@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4437,
+			"arabicnumber": 4437,
+			"text": "Rapporté par Harun bin Abi Walki (qui est Harun bin 'Antarah), de la part de son père, d’Ibn 'Abbas, à propos de la parole d’Allah, le Puissant et Majestueux : “Ne mangez pas de ce sur quoi le nom d’Allah n’a pas été prononcé” – il a dit : « Les idolâtres discutaient avec eux et disaient : “Ce qu’Allah tue, vous ne le mangez pas, et ce que vous tuez, vous le mangez ?” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 77
+			}
+		}
+	]
+}

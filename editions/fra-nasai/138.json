@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 138,
+			"arabicnumber": 138,
+			"text": "Rapporté par Ibn Al-Munkadir : J'ai entendu Jabir dire : \"Je suis tombé malade, et le Messager d'Allah (ﷺ) et Abu Bakr sont venus me rendre visite. Ils m'ont trouvé inconscient, alors le Messager d'Allah (ﷺ) a fait ses ablutions et a versé l'eau de ses ablutions sur moi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 139
+			}
+		}
+	]
+}

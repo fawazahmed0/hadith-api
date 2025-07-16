@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 83,
+			"arabicnumber": 83,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Un homme a demandé au Messager d’Allah ﷺ : « Ô Messager d’Allah, nous voyageons en mer et nous n’avons qu’une petite quantité d’eau. Si nous l’utilisons pour les ablutions, nous aurons soif. Pouvons-nous faire les ablutions avec l’eau de mer ? » Le Messager ﷺ a répondu : « Son eau est pure et ce qui y meurt est une nourriture licite. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 83
+			}
+		}
+	]
+}

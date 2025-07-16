@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 213,
+			"arabicnumber": 213,
+			"text": "Rapporté par Mu’adh ibn Jabal رضي الله عنه : « J’ai demandé au Messager d’Allah ﷺ : “Qu’est-ce qui est permis à un homme avec son épouse lorsqu’elle a ses règles ?” Il a répondu : “Ce qui est au-dessus du pagne, mais il vaut mieux s’en abstenir aussi.” » Abu Dawud a dit : Cette tradition n’est pas solide",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 213
+			}
+		}
+	]
+}

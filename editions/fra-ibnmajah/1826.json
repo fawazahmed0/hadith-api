@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"8": "The Chapters Regarding Zakat"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1783,
+				"hadithnumber_last": 1844,
+				"arabicnumber_first": 1783,
+				"arabicnumber_last": 1844
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1826,
+			"arabicnumber": 1826,
+			"text": "Rapporté par Umar : Le Messager d’Allah a prescrit la Sadaqatul-Fitr : un Sa de blé ou un Sa de dattes pour chaque musulman, qu’il soit libre ou esclave, homme ou femme",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 44
+			}
+		}
+	]
+}

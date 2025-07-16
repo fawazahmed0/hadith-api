@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"38": "The Promised Deliverer (Kitab Al-Mahdi)"
+		},
+		"section_detail": {
+			"38": {
+				"hadithnumber_first": 4279,
+				"hadithnumber_last": 4290,
+				"arabicnumber_first": 4279,
+				"arabicnumber_last": 4290
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4283,
+			"arabicnumber": 4283,
+			"text": "Rapporté par Ali ibn Abu Talib : Le Prophète ﷺ a dit : « Même s’il ne restait qu’un seul jour à ce monde, Allah ferait venir un homme de ma famille qui remplira la terre de justice comme elle a été remplie d’oppression. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 38,
+				"hadith": 5
+			}
+		}
+	]
+}

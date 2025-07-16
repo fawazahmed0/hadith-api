@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"35": "Combing the Hair (Kitab Al-Tarajjul)"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 4159,
+				"hadithnumber_last": 4213,
+				"arabicnumber_first": 4159,
+				"arabicnumber_last": 4213
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4189,
+			"arabicnumber": 4189,
+			"text": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Quand je séparais les cheveux du Messager d’Allah ﷺ, je faisais une raie depuis le sommet de sa tête et laissais sa mèche tomber entre ses yeux",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 31
+			}
+		}
+	]
+}

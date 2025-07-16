@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"9": "The Chapters on Marriage"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1845,
+				"hadithnumber_last": 2015,
+				"arabicnumber_first": 1845,
+				"arabicnumber_last": 2015
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1890,
+			"arabicnumber": 1890,
+			"text": "Rapporté par Abou Saïd Al-Khoudri : Le Prophète (ﷺ) a épousé Aïcha avec des biens ménagers d’une valeur de cinquante dirhams",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 46
+			}
+		}
+	]
+}

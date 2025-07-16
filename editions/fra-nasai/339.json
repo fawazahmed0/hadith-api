@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"2": "The Book of Water"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 325,
+				"hadithnumber_last": 347,
+				"arabicnumber_first": 325,
+				"arabicnumber_last": 347
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 339,
+			"arabicnumber": 339,
+			"text": "Rapporté par Abu Hurairah : Le Prophète (ﷺ) a dit : \"Si un chien lèche le récipient de l’un d’entre vous, qu’il le lave sept fois, la première fois avec de la terre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 15
+			}
+		}
+	]
+}

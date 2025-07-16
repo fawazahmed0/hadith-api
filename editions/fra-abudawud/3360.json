@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3360,
+			"arabicnumber": 3360,
+			"text": "Rapporté par Sa’d ibn Abi Waqqas : Le Messager d’Allah ﷺ a interdit de vendre des dattes fraîches contre des dattes sèches si le paiement est différé. Abu Dawud a dit : La tradition mentionnée ci-dessus a aussi été transmise par Sa’d (b. Abi Waqqas) du Prophète ﷺ par une autre chaîne de rapporteurs de façon similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 35
+			}
+		}
+	]
+}

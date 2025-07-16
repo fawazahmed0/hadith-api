@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"36": "The Book of the Kind Treatment of Women"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3939,
+				"hadithnumber_last": 3965,
+				"arabicnumber_first": 3939,
+				"arabicnumber_last": 3965
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3942,
+			"arabicnumber": 3942,
+			"text": "Rapporté par Abu Hurairah : Le Prophète a dit : \"Celui qui a deux femmes et penche en faveur de l’une d’elles par rapport à l’autre viendra le Jour de la Résurrection avec la moitié de son corps penchée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 4
+			}
+		}
+	]
+}

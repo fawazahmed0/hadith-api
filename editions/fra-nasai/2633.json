@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2633,
+			"arabicnumber": 2633,
+			"text": "Rapporté par Ibn 'Abbas رضي الله عنهما : L'épouse de Sinan bin Salamah Al-Juhani a demandé qu'on interroge le Messager d'Allah ﷺ au sujet de sa mère décédée sans avoir accompli le Hajj ; serait-il valable qu'elle fasse le Hajj pour sa mère ? Il a répondu : « Oui. Si sa mère avait une dette et qu'elle la payait, cela ne serait-il pas suffisant ? Qu'elle fasse donc le Hajj pour sa mère. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 15
+			}
+		}
+	]
+}

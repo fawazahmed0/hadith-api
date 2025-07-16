@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3547,
+			"arabicnumber": 3547,
+			"text": "Rapporté par Khawlah bint Hakim : Le Prophète (ﷺ) a dit : \"Si l’un de vous, lorsqu’il s’arrête quelque part en voyage, dit : A’udhu bi kalimatil-lahit-tammati min sharri ma khalaq (Je cherche protection auprès des paroles parfaites d’Allah contre le mal de ce qu’Il a créé), alors rien ne lui fera de mal à cet endroit jusqu’à ce qu’il reparte",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 112
+			}
+		}
+	]
+}

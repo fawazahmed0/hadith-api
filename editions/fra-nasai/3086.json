@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3086,
+			"arabicnumber": 3086,
+			"text": "Rapporté par Ibn 'Abbas : Abdur-Rahman bin Awf et certains de ses compagnons sont venus voir le Prophète à La Mecque et ont dit : \"Ô Messager d'Allah ! Nous étions respectés quand nous étions polythéistes, et depuis que nous avons cru, nous sommes humiliés.\" Il a répondu : \"J'ai reçu l'ordre de pardonner, donc ne combattez pas.\" Puis, quand Allah nous a permis d'émigrer à Médine, Il nous a ordonné de combattre, mais ils ont hésité. Ensuite, Allah, le Puissant et Majestueux, a révélé : Avez-vous vu ceux à qui il a été dit de retenir leurs mains (de combattre) et d'accomplir la prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 2
+			}
+		}
+	]
+}

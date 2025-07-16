@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4643,
+			"arabicnumber": 4643,
+			"text": "Rapporté par 'Aishah : Elle voulait acheter Barirah pour l'affranchir, mais ses maîtres ont posé la condition que sa loyauté (Wala) leur revienne. Elle en a parlé au Messager d'Allah et le Messager d'Allah a dit : \"Achète-la et affranchis-la, et la loyauté revient à celui qui affranchit l'esclave.\" De la viande a été apportée au Messager d'Allah et on lui a dit que cela avait été donné en aumône à Barirah. Il a dit : \"C'est une aumône pour elle, et un cadeau pour nous.\" Et elle a eu le choix",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 195
+			}
+		}
+	]
+}

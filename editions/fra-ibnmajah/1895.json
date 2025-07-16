@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"9": "The Chapters on Marriage"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1845,
+				"hadithnumber_last": 2015,
+				"arabicnumber_first": 1845,
+				"arabicnumber_last": 2015
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1895,
+			"arabicnumber": 1895,
+			"text": "Rapporté par Aïcha رضي الله عنها : Le Prophète a dit : « Annoncez ce mariage et frappez le tamis pour lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 51
+			}
+		}
+	]
+}

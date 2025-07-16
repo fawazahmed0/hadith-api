@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1634,
+			"arabicnumber": 1634,
+			"text": "Rapporté par Abdullah ibn Amr رضي الله عنه : Le Prophète ﷺ a dit : « La sadaqah ne doit pas être donnée à un homme riche ni à quelqu’un qui est fort et en bonne santé. » Abu Dawud a dit : Ce récit a été transmis par Sufyan d’après Sa'd bin Ibrahim, comme le récit rapporté par Ibrahim. La version de Shu'bah d’après Sa'd dit : « pour un homme qui est fort et robuste. » D’autres versions de ce récit du Prophète ﷺ contiennent les mots « pour un homme qui est fort et robuste ». D’autres encore disent « pour un homme qui est fort et en bonne santé ». ‘Ata bin Zuhair a dit qu’il avait rencontré ‘Abd Allah bin ‘Amr qui a dit : « La sadaqah n’est pas permise à un homme fort ni à un homme qui est fort et en bonne santé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 79
+			}
+		}
+	]
+}

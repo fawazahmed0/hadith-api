@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4273,
+			"arabicnumber": 4273,
+			"text": "Rapporté par 'Adiyy bin Hatim : J’ai demandé au Messager d’Allah ﷺ : \"Je lâche mon chien, et je trouve un autre chien avec le mien, et je ne sais pas lequel a attrapé la proie.\" Il a dit : \"Ne la mange pas, car tu as prononcé le nom d’Allah sur ton chien, mais pas sur un autre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 11
+			}
+		}
+	]
+}

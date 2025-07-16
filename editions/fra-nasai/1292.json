@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1292,
+			"arabicnumber": 1292,
+			"text": "Rapporté par Musa bin Talha : J'ai demandé à Zaid bin Kharijah qui a dit : \"J'ai demandé au Messager d'Allah (ﷺ) et il a dit : Adressez des prières sur moi et faites des invocations avec ferveur, et dites : Allahumma salli 'ala Muhammad wa 'ala ali Muhammad (Ô Allah, adresse Tes prières sur Muhammad et sur la famille de Muhammad)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 114
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4164,
+			"arabicnumber": 4164,
+			"text": "Rapporté par ‘Umar : J’ai entendu le Messager d’Allah (ﷺ) dire : “Si vous placiez votre confiance en Allah comme il se doit, Il vous accorderait votre subsistance comme Il la donne aux oiseaux : ils sortent le matin affamés et reviennent le soir rassasiés.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 65
+			}
+		}
+	]
+}

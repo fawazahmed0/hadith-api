@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4493,
+			"arabicnumber": 4493,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Lorsque l’un de vous donne une correction, qu’il évite de frapper le visage. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 143
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2639,
+			"arabicnumber": 2639,
+			"text": "Rapporté par Ibn 'Abbas رضي الله عنهما : Un homme a dit : « Ô Messager d'Allah ! Mon père est décédé sans avoir accompli le Hajj ; dois-je le faire à sa place ? » Il a dit : « Ne penses-tu pas que si ton père avait une dette, tu la paierais ? » L'homme a répondu : « Oui. » Il a dit : « La dette envers Allah est plus digne d'être acquittée. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 21
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"18": "Wills (Kitab Al-Wasaya)"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 2862,
+				"hadithnumber_last": 2884,
+				"arabicnumber_first": 2862,
+				"arabicnumber_last": 2884
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2873,
+			"arabicnumber": 2873,
+			"text": "Rapporté par Ali ibn Abu Talib : J’ai retenu du Messager d’Allah ﷺ : « Il n’y a plus d’orphelin après la puberté, et il n’est pas permis de garder le silence toute la journée jusqu’au soir. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 12
+			}
+		}
+	]
+}

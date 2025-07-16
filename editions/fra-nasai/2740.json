@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2740,
+			"arabicnumber": 2740,
+			"text": "Rapporté par Ja`far bin Muhammad : Mon père m’a raconté : « Nous sommes allés voir Jabir bin `Abdullah et nous lui avons demandé comment le Prophète (ﷺ) avait accompli le Hajj. Il nous a dit : Le Messager d’Allah (ﷺ) est resté à Médine pendant neuf ans sans faire le Hajj, puis on a annoncé aux gens que le Messager d’Allah (ﷺ) allait accomplir le Hajj cette année-là. Beaucoup de gens sont venus à Médine, tous espérant apprendre du Messager d’Allah (ﷺ) et faire comme lui. Le Messager d’Allah (ﷺ) est parti cinq jours avant la fin de Dhul-Qa`dah, et nous sommes partis avec lui : Jabir a dit : « Et le Messager d’Allah était parmi nous ; le Coran lui était révélé, et il en connaissait le sens. Tout ce qu’il faisait en se basant sur le Coran, nous le faisions aussi, et nous sommes partis avec l’intention unique de faire le Hajj. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 122
+			}
+		}
+	]
+}

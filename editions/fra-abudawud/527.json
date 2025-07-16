@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 527,
+			"arabicnumber": 527,
+			"text": "Rapporté par Omar ibn al-Khattab رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand le muezzin dit : “Allah est le plus grand, Allah est le plus grand”, et que l’un de vous répond : “Allah est le plus grand, Allah est le plus grand” ; puis il dit : “J’atteste qu’il n’y a de dieu qu’Allah”, et il répond : “J’atteste qu’il n’y a de dieu qu’Allah” ; puis il dit : “J’atteste que Muhammad est le Messager d’Allah”, et il répond : “J’atteste que Muhammad est le Messager d’Allah” ; puis il dit : “Venez à la prière”, et il répond : “Il n’y a de force ni de puissance qu’en Allah” ; puis il dit : “Allah est le plus grand, Allah est le plus grand”, et il répond : “Allah est le plus grand, Allah est le plus grand” ; puis il dit : “Il n’y a de dieu qu’Allah”, s’il dit cela sincèrement, il entrera au Paradis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (385)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 137
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"39": "Battles (Kitab Al-Malahim)"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4291,
+				"hadithnumber_last": 4350,
+				"arabicnumber_first": 4291,
+				"arabicnumber_last": 4350
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4318,
+			"arabicnumber": 4318,
+			"text": "Le récit mentionné ci-dessus a aussi été rapporté par Anas ibn Malik رضي الله عنه par une autre chaîne de transmetteurs. Cette version ajoute : « Tout musulman pourra le lire. »",
+			"grades": [
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (2933)"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 28
+			}
+		}
+	]
+}

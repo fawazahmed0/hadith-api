@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1416,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1416,
+				"arabicnumber_last": 1555
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1476,
+			"arabicnumber": 1476,
+			"text": "Rapporté par Al-Zuhri : Ces différentes façons de réciter visaient le même objectif et ne différaient pas concernant ce qui est licite ou illicite",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 61
+			}
+		}
+	]
+}

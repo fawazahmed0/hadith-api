@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 293,
+			"arabicnumber": 293,
+			"text": "Rapporté par Zaynab, fille d’AbuSalamah رضي الله عنها : AbuSalamah a dit : Zaynab, fille d’AbuSalamah, m’a rapporté qu’une femme avait un écoulement de sang abondant. Elle était l’épouse d’AbdurRahman ibn Awf. Le Messager d’Allah ﷺ lui a ordonné de prendre un bain à chaque prière, puis de prier. Il m’a rapporté qu’Umm Bakr lui a dit qu’Aisha a dit : Le Messager d’Allah ﷺ a dit à propos d’une femme qui doutait de ses règles après purification que c’était une veine ou des veines. Abu Dawud a dit : Les deux solutions (entre lesquelles le Prophète a laissé le choix) étaient les suivantes dans la version rapportée par Ibn 'Aqil : Il a dit : « Si tu en es capable, alors prends un bain pour chaque prière ; sinon, regroupe les deux prières, comme al-Qasim l’a rapporté dans sa version. » Cette parole a aussi été rapportée par Sa'id b. Jubair d’Ali et d’Ibn 'Abbas",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 293
+			}
+		}
+	]
+}

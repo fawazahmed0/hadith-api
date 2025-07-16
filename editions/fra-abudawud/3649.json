@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3649,
+			"arabicnumber": 3649,
+			"text": "Abu Hurairah رضي الله عنه a dit : Lorsque La Mecque fut conquise, le Prophète ﷺ se leva. Il (Abu Hurairah) mentionna alors le sermon du Prophète ﷺ. Un homme du Yémen, appelé Abu Shah, se leva et dit : « Ô Messager d’Allah ! Écris-le pour moi. » Il dit : « Écrivez-le pour Abu Shah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2434) Sahih Muslim (1355)"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 8
+			}
+		}
+	]
+}

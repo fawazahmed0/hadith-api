@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3145,
+			"arabicnumber": 3145,
+			"text": "Rapporté par Shurahbil bin As-Simt : J’ai dit : « Ô ‘Amr bin ‘Abasah ! Raconte-nous un hadith que tu as entendu du Messager d’Allah (ﷺ) sans rien oublier ni omettre. » Il a dit : « J’ai entendu le Messager d’Allah (ﷺ) dire : Celui qui tire une flèche dans la cause d’Allah, et qu’elle atteint l’ennemi, qu’elle le touche ou non, c’est comme s’il avait affranchi un esclave. Celui qui affranchit un esclave croyant, cela sera pour lui une rançon, membre par membre, contre le Feu de l’Enfer. Celui qui a un cheveu blanc dans la cause d’Allah, ce sera une lumière pour lui le Jour de la Résurrection. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 61
+			}
+		}
+	]
+}

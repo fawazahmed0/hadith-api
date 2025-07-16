@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 176,
+			"arabicnumber": 176,
+			"text": "Rapporté par Abu Ghalib : Abu Umamah a dit : « (Les Khawarij) sont les pires tués sous le ciel, et les meilleurs tués sont ceux qui ont été tués par eux. Ces (Khawarij) sont les chiens de l'Enfer. Ces gens étaient musulmans mais ils sont devenus mécréants. » J'ai dit : « Ô Abu Umamah, est-ce ton avis ? » Il a répondu : « Non, je l'ai entendu du Messager d'Allah ﷺ. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 176
+			}
+		}
+	]
+}

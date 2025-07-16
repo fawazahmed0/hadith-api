@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1012,
+			"arabicnumber": 1012,
+			"text": "Rapporté par Ibn Abbas : Le Prophète (ﷺ) avait l'habitude d'élever la voix en récitant le Coran, et quand les idolâtres entendaient sa voix, ils insultaient le Coran et celui qui l'avait apporté. Alors le Prophète (ﷺ) a commencé à baisser la voix au point que ses compagnons ne l'entendaient plus. Puis Allah (SWT), le Tout-Puissant, a révélé : \"Et accomplis la prière sans élever la voix ni la baisser trop, mais suis une voie intermédiaire",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 137
+			}
+		}
+	]
+}

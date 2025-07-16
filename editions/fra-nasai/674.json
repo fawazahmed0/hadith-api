@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 674,
+			"arabicnumber": 674,
+			"text": "Rapporté par An-Nasr bin Sufyan : Il a entendu Abu Hurairah dire : Nous étions avec le Messager d’Allah (ﷺ) et Bilal s’est levé pour faire l’appel. Quand il s’est tu, le Messager d’Allah (ﷺ) a dit : « Celui qui répète avec certitude ce que dit le muezzin, il entrera au Paradis. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 49
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 221,
+			"arabicnumber": 221,
+			"text": "Rapporté par ‘Abd Allah ibn ‘Umar رضي الله عنه : ‘Umar ibn al-Khattab رضي الله عنه a dit au Messager d’Allah ﷺ qu’il était devenu impur la nuit (et lui a demandé ce qu’il devait faire). Le Messager d’Allah ﷺ a dit : « Fais les ablutions, lave ton sexe, puis dors. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (290) Sahih Muslim (306)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 221
+			}
+		}
+	]
+}

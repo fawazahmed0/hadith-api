@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3009,
+			"arabicnumber": 3009,
+			"text": "Rapporté par Anas bin Malik رضي الله عنه : « Le Messager d’Allah ﷺ a attaqué Khaybar et nous l’avons conquise. Il a ensuite rassemblé les prisonniers de guerre. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (371) Sahih Muslim (1365 After  1427)"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 82
+			}
+		}
+	]
+}

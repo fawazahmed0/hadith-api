@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4269,
+			"arabicnumber": 4269,
+			"text": "Rapporté par 'Adiyy bin Hatim : J’ai demandé au Messager d’Allah ﷺ au sujet des chiens et il a dit : \"Si tu lâches ton chien et que tu prononces le nom d’Allah, alors mange, mais si tu trouves un autre chien avec le tien, alors ne mange pas, car tu n’as prononcé le nom d’Allah que sur ton chien, pas sur l’autre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 7
+			}
+		}
+	]
+}

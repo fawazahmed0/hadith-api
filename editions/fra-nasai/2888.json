@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2888,
+			"arabicnumber": 2888,
+			"text": "Rapporté par Urwah, d’après Aishah رضي الله عنها : Le Messager d’Allah a dit : \"Il y a cinq animaux qui sont tous des nuisibles et qu’on peut tuer dans le sanctuaire : le corbeau, le milan, les chiens dangereux, les souris et les scorpions",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 271
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3029,
+			"arabicnumber": 3029,
+			"text": "Rapporté par Ibn Shihab, qu’Ubaidullah bin Abdullah lui a rapporté que son père a dit : \"Le Messager d’Allah a regroupé les prières du Maghrib et de l’Isha sans prière surérogatoire entre les deux. Il a prié le Maghrib en trois unités et l’Isha en deux.\" Et Abdullah bin Umar faisait de même jusqu’à ce qu’il rencontre Allah, Le Puissant et Majestueux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 412
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4472,
+			"arabicnumber": 4472,
+			"text": "Rapporté par Al-Laith, de Nafi‘, de Ibn ‘Umar que le Messager d’Allah a dit : « Quand deux hommes concluent une transaction, chacun d’eux a le choix jusqu’à ce qu’ils se séparent. » Une fois, il a dit : « Tant qu’ils ne se sont pas séparés et que l’un n’a pas dit à l’autre de décider. Si l’un dit à l’autre de décider et qu’ils se mettent d’accord, alors la transaction est définitive. S’ils se séparent après avoir conclu une transaction et qu’aucun des deux ne l’a annulée, alors la transaction est définitive. » (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 24
+			}
+		}
+	]
+}

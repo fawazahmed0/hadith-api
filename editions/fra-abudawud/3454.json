@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3454,
+			"arabicnumber": 3454,
+			"text": "Rapporté par Abdullah ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Chacune des deux parties dans une transaction commerciale a le choix (d’annuler la vente) tant qu’elles ne se sont pas séparées, sauf en cas de vente conditionnelle. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2111) Sahih Muslim (1531)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 39
+			}
+		}
+	]
+}

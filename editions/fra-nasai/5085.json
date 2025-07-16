@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5085,
+			"arabicnumber": 5085,
+			"text": "Rapporté par Zaid bin Aslam : J'ai vu Ibn 'Umar teindre sa barbe en jaune avec du khaluq et je lui ai dit : « Ô Abu 'Abdur-Rahman, tu teins ta barbe en jaune avec du khaluq ? » Il a répondu : « J'ai vu le Messager d'Allah ﷺ teindre sa barbe en jaune avec cela, et il n'y avait pas de teinture qu'il aimait plus que celle-ci. Il teignait même tous ses vêtements avec, même son turban. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 46
+			}
+		}
+	]
+}

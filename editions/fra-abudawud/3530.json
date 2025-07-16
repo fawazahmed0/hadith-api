@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3530,
+			"arabicnumber": 3530,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Un homme vint voir le Prophète ﷺ et dit : « Messager d’Allah, j’ai des biens et des enfants, mais mon père dépense tout mon argent. » Il répondit : « Toi et tes biens appartenez à ton père ; tes enfants sont ce qu’il y a de plus agréable dans ce que tu gagnes ; alors profite des gains de tes enfants. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 115
+			}
+		}
+	]
+}

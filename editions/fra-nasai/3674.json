@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"31": "The Book of Presents"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3672,
+				"hadithnumber_last": 3687,
+				"arabicnumber_first": 3672,
+				"arabicnumber_last": 3687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3674,
+			"arabicnumber": 3674,
+			"text": "Rapporté par An-Nu'man bin Bashir : Son père Bashir bin Sa'd l'a amené avec lui et a dit : « Ô Messager d'Allah, j'ai donné à ce fils un esclave qui m'appartenait en cadeau. » Le Messager d'Allah ﷺ a dit : « As-tu offert un cadeau à tous tes enfants ? » Il a répondu : « Non. » Il a dit : « Alors reprends ton cadeau. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 3
+			}
+		}
+	]
+}

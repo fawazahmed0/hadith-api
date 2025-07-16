@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1416,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1416,
+				"arabicnumber_last": 1555
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1433,
+			"arabicnumber": 1433,
+			"text": "Abu Al-Darda’ رضي الله عنه a dit : Mon ami (c’est-à-dire le Prophète ﷺ) m’a recommandé trois choses que je n’abandonne jamais : il m’a recommandé de jeûner trois jours chaque mois, de ne pas dormir sans avoir accompli le witr, et de faire la prière surérogatoire du matin, que je sois en voyage ou chez moi",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 18
+			}
+		}
+	]
+}

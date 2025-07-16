@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5217,
+			"arabicnumber": 5217,
+			"text": "Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a porté une bague en or pendant trois jours, et quand ses compagnons l’ont vu, les bagues en or sont devenues populaires. Puis il l’a jetée et nous n’avons pas compris ce qu’il avait fait. Ensuite, il a ordonné qu’on lui fasse une bague en argent et qu’on y grave : \"Muhammad Rasul Allah.\" Elle est restée sur la main du Messager d’Allah ﷺ jusqu’à sa mort, puis sur la main d’Abu Bakr jusqu’à sa mort, puis sur la main de ‘Umar jusqu’à sa mort. Ensuite, elle est restée sur la main de ‘Uthman pendant les six premières années de sa fonction, mais quand il a eu beaucoup de lettres à écrire, il l’a donnée à un homme des Ansar qui scellait les lettres avec. Puis cet Ansari est allé près d’un puits appartenant à ‘Uthman et la bague est tombée. Ils l’ont cherchée mais ne l’ont pas retrouvée. Il a alors ordonné qu’on fasse une bague similaire et qu’on y grave : \"Muhammad Rasul Allah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 178
+			}
+		}
+	]
+}

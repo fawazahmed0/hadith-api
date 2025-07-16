@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"15": "The Chapters on Charity"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2390,
+				"hadithnumber_last": 2528,
+				"arabicnumber_first": 2390,
+				"arabicnumber_last": 2528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2414,
+			"arabicnumber": 2414,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) a dit : “Celui qui meurt en devant un dinar ou un dirham, cela sera remboursé avec ses bonnes actions, car il n’y aura alors ni dinar ni dirham.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 25
+			}
+		}
+	]
+}

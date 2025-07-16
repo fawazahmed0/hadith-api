@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"10": "The Book of Lost and Found Items"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 1701,
+				"hadithnumber_last": 1720,
+				"arabicnumber_first": 1701,
+				"arabicnumber_last": 1720
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1709,
+			"arabicnumber": 1709,
+			"text": "Rapporté par Iyad ibn Himar : Le Prophète ﷺ a dit : « Celui qui trouve quelque chose doit appeler une ou deux personnes de confiance comme témoins et ne pas le cacher ni le dissimuler ; puis, s’il retrouve son propriétaire, il doit le lui rendre ; sinon, c’est un bien d’Allah qu’Il donne à qui Il veut. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 9
+			}
+		}
+	]
+}

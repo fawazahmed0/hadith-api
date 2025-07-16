@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"45": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+		},
+		"section_detail": {
+			"45": {
+				"hadithnumber_first": 4706,
+				"hadithnumber_last": 4869,
+				"arabicnumber_first": 4706,
+				"arabicnumber_last": 4869
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4829,
+			"arabicnumber": 4829,
+			"text": "Rapporté par Jabir : Le Messager d'Allah a jugé que chaque clan devait participer au paiement de la Diyah, et il n'est pas permis à un esclave affranchi de prendre un autre musulman (que celui qui l'a affranchi) comme Mawla (protecteur) sans la permission de son ancien maître",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 45,
+				"hadith": 124
+			}
+		}
+	]
+}

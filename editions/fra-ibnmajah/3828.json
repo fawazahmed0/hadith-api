@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"34": "Supplication"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3827,
+				"hadithnumber_last": 3892,
+				"arabicnumber_first": 3827,
+				"arabicnumber_last": 3892
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3828,
+			"arabicnumber": 3828,
+			"text": "Rapporté par Nu'man bin Bashir : Le Messager d'Allah (ﷺ) a dit : « L'invocation, c'est l'adoration. » Puis il a récité : « Et votre Seigneur a dit : Invoquez-Moi, Je vous répondrai. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 2
+			}
+		}
+	]
+}

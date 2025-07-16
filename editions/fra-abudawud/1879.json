@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1879,
+			"arabicnumber": 1879,
+			"text": "Abu Al Tufail a rapporté d’après Ibn ‘Abbas رضي الله عنه : J’ai vu le Prophète ﷺ faire le tawaf autour de la Ka’bah sur son chameau, toucher l’angle (de la Pierre Noire) avec un bâton recourbé et embrasser ce bâton. Le narrateur Muhammad bin Rafi’ a ajouté : « Ensuite, il est allé à Al Safa et Al Marwah et a parcouru les sept trajets sur son chameau. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1265)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 159
+			}
+		}
+	]
+}

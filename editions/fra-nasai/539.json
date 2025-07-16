@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 539,
+			"arabicnumber": 539,
+			"text": "Rapporté par Humaid : On a demandé à Anas : « Le Prophète (ﷺ) portait-il une bague ? » Il a répondu : « Oui. Une nuit, il a retardé la prière d’Isha la plus tardive, presque jusqu’à la moitié de la nuit. Quand il a prié, le Prophète (ﷺ) s’est tourné vers nous et a dit : “Vous êtes encore en état de prière tant que vous l’attendez.” » Anas a dit : « C’est comme si je voyais encore la brillance de sa bague. » Selon la version de ‘Ali – c’est-à-dire Ibn Hujr – « jusqu’à la moitié de la nuit. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 46
+			}
+		}
+	]
+}

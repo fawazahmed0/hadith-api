@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4606,
+			"arabicnumber": 4606,
+			"text": "Rapporté par A’ishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Si quelqu’un introduit dans notre affaire (la religion) quelque chose qui n’en fait pas partie, cela sera rejeté. » Ibn ‘Isa a dit : Le Prophète ﷺ a dit : « Si quelqu’un accomplit un acte qui n’est pas conforme à notre pratique, il sera rejeté. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2697) Sahih Muslim (1718)"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 11
+			}
+		}
+	]
+}

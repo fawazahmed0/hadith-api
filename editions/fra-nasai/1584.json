@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1584,
+			"arabicnumber": 1584,
+			"text": "Rapporté par Jabir bin Samurah : Le Prophète (ﷺ) faisait le sermon debout, puis il s’asseyait, puis il se relevait, récitait quelques versets et se rappelait Allah (SWT). Son sermon était d’une durée modérée, tout comme sa prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 29
+			}
+		}
+	]
+}

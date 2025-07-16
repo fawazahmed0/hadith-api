@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4715,
+			"arabicnumber": 4715,
+			"text": "Abu Dawud a dit : On a demandé à Malik : « Les hérétiques utilisent ce hadith contre nous. » Malik a répondu : « Réfutez-les avec la dernière partie du hadith qui dit : Les gens demandèrent : “Que dis-tu de celui qui meurt jeune ?” Il répondit : “Allah sait mieux ce qu’il allait faire.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 120
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2463,
+			"arabicnumber": 2463,
+			"text": "Rapporté par Ubayy ibn Ka'b رضي الله عنه : Le Prophète ﷺ faisait l’i’tikaf pendant les dix derniers jours de Ramadan. Une année, il ne l’a pas fait. L’année suivante, il a fait l’i’tikaf pendant vingt nuits (c’est-à-dire vingt jours)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 151
+			}
+		}
+	]
+}

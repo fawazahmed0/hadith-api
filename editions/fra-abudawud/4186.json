@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"35": "Combing the Hair (Kitab Al-Tarajjul)"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 4159,
+				"hadithnumber_last": 4213,
+				"arabicnumber_first": 4159,
+				"arabicnumber_last": 4213
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4186,
+			"arabicnumber": 4186,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : Les cheveux du Messager d’Allah ﷺ descendaient jusqu’au milieu de ses oreilles",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (2338)"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 28
+			}
+		}
+	]
+}

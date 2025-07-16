@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4176,
+			"arabicnumber": 4176,
+			"text": "Rapporté par Abu Sa’eed : Le Messager d’Allah (ﷺ) a dit : “Celui qui s’humilie d’un degré pour Allah, Allah l’élèvera d’un degré, et celui qui se montre arrogant envers Allah d’un degré, Allah l’abaissera d’un degré, jusqu’à ce qu’Il le place parmi les plus bas.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 77
+			}
+		}
+	]
+}

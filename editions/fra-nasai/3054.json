@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3054,
+			"arabicnumber": 3054,
+			"text": "Rapporté par Jafar bin Muhammad, d’après son père : Nous sommes allés voir Jabir bin Abdullah et j’ai dit : « Parle-moi du Hajj du Prophète. » Il a dit : « Le Messager d’Allah ﷺ est parti d’Al-Muzdalifah avant le lever du soleil, et Al-Fadl bin Abbas était assis derrière lui. Quand il est arrivé à Muhassir, il a accéléré un peu, puis il a suivi la route du milieu qui mène à la plus grande Jamrat. Arrivé à la Jamrat près de l’arbre, il a lancé sept cailloux en disant le Takbir à chaque fois, avec des cailloux de la taille de noyaux de dattes ou du bout des doigts, et il les a lancés depuis le bas de la vallée. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 437
+			}
+		}
+	]
+}

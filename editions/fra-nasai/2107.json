@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2107,
+			"arabicnumber": 2107,
+			"text": "Rapporté par 'Arfajah : Nous avons rendu visite à 'Utbah bin Farqad alors qu’il était malade et nous avons parlé du mois de Ramadan. Il a demandé : « De quoi parlez-vous ? » Nous avons répondu : « Du mois de Ramadan. » Il a dit : « J’ai entendu le Messager d’Allah ﷺ dire : Pendant ce mois, les portes du Paradis sont ouvertes, les portes du Feu sont fermées, les démons sont enchaînés et chaque nuit un appel retentit : Ô toi qui fais le bien, avance ; ô toi qui fais le mal, arrête. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 18
+			}
+		}
+	]
+}

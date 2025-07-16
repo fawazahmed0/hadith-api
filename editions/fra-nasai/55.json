@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 55,
+			"arabicnumber": 55,
+			"text": "Rapporté par Anas : Un bédouin est venu à la mosquée et a uriné, et les gens se sont mis à crier sur lui, mais le Messager d'Allah (ﷺ) a dit : « Laissez-le tranquille. » Alors ils l'ont laissé. Quand il a fini d'uriner, il a ordonné qu'on apporte un seau et qu'on le verse dessus",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 55
+			}
+		}
+	]
+}

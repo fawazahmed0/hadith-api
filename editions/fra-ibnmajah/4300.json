@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4300,
+			"arabicnumber": 4300,
+			"text": "Rapporté par ‘Abdullah bin ‘Amr : Le Messager d’Allah (ﷺ) a dit : « Un homme de ma communauté sera appelé devant toute la création le Jour de la Résurrection, et quatre-vingt-dix-neuf registres seront étalés pour lui, chacun s’étendant aussi loin que l’œil peut voir. Alors Allah dira : “Nies-tu quelque chose de cela ?” Il répondra : “Non, ô Seigneur.” Il dira : “Mes scribes ont-ils été injustes envers toi ?” Puis Il dira : “À part cela, as-tu de bonnes actions ?” L’homme, effrayé, dira : “Non.” (Allah) dira : “En vérité, tu as de bonnes actions auprès de Nous, et aujourd’hui tu ne seras pas traité injustement.” Alors une carte sera apportée, sur laquelle sera écrit : “Ash-hadu an la ilaha illallah wa anna Muhammadan ‘abduhu wa rasuluhu” (J’atteste qu’il n’y a de dieu qu’Allah, et que Muhammad est Son serviteur et Messager). Il dira : “Ô Seigneur, que vaut cette carte face à tous ces registres ?” Il dira : “Tu ne seras pas lésé.” Alors les registres seront placés d’un côté de la balance et la carte de l’autre. Les registres s’allégeront et la carte pèsera lourd. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 201
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3467,
+			"arabicnumber": 3467,
+			"text": "Rapporté par Abdullah ibn Umar رضي الله عنه : Un homme a payé d’avance pour un palmier. Cette année-là, il n’a pas donné de fruits. Ils ont porté leur affaire devant le Prophète ﷺ. Il a dit : « Pour quoi rendez-vous licite la propriété de cet homme ? » Puis il a dit : « Ne payez pas d’avance pour un palmier tant que les fruits ne sont pas clairement en bon état. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 52
+			}
+		}
+	]
+}

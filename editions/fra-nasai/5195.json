@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5195,
+			"arabicnumber": 5195,
+			"text": "Rapporté par Abdullah bin Buraidah, d'après son père : Un homme est venu voir le Prophète ﷺ en portant une bague en fer. Il a dit : \"Pourquoi je te vois porter le bijou des gens de l'Enfer ?\" Il l'a jetée, puis il est revenu avec une bague en laiton. Il a dit : \"Pourquoi je sens l'odeur des idoles venant de toi ?\" Alors il l'a jetée et a demandé : \"Ô Messager d'Allah, que dois-je porter ?\" Il a répondu : \"De l'argent, mais pas plus qu'un mithqal",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 156
+			}
+		}
+	]
+}

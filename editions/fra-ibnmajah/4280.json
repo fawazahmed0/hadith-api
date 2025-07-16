@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4280,
+			"arabicnumber": 4280,
+			"text": "Rapporté par Abu Sa’eed : Le Messager d’Allah (ﷺ) a dit : « Le Sirat sera placé au-dessus de l’Enfer, sur des épines semblables à celles de la plante Sa’dan. Ensuite, les gens le traverseront. Certains passeront sans encombre, d’autres seront retenus, et d’autres tomberont la tête la première. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 181
+			}
+		}
+	]
+}

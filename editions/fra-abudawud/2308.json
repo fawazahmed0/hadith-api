@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2308,
+			"arabicnumber": 2308,
+			"text": "Rapporté par Amr ibn al-‘As رضي الله عنه : « Ne nous embrouillez pas au sujet de sa Sunna. Ibn al-Muthanna a dit : La Sunna de notre Prophète ﷺ est que la période d’attente d’une esclave-mère dont le mari est décédé est de quatre mois et dix jours. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 134
+			}
+		}
+	]
+}

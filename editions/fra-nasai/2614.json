@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2614,
+			"arabicnumber": 2614,
+			"text": "Rapporté par ‘Aishah : Elle voulait acheter Barirah et l’affranchir, mais on a exigé que l’allégeance de Barirah (wala’) leur revienne. Elle en a parlé au Messager d’Allah et il a dit : « Achète-la et affranchis-la, car l’allégeance revient à celui qui affranchit l’esclave. » Barirah a eu le choix quand elle a été affranchie. On a apporté de la viande au Messager d’Allah et on a dit : « Ceci a été donné en aumône à Barirah. » Il a dit : « C’est une aumône pour elle et un cadeau pour nous. » Son mari était un homme libre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 180
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 218,
+			"arabicnumber": 218,
+			"text": "Rapporté par 'Aïcha : Fatimah bint Abi Hubaish a dit au Messager d’Allah (ﷺ) : « Ô Messager d’Allah (ﷺ), je ne deviens pas pure. Dois-je arrêter de prier ? » Le Messager d’Allah (ﷺ) a dit : « C’est une veine et ce n’est pas les règles. Quand tes règles arrivent, arrête de prier, et quand la même durée que ta période habituelle est passée, lave le sang de toi et prie. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 219
+			}
+		}
+	]
+}

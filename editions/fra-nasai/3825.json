@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3825,
+			"arabicnumber": 3825,
+			"text": "Rapporté par Abdullah bin Ka'b bin Malik : « J'ai entendu Ka'b bin Malik raconter l'histoire où il est resté en arrière et n'a pas rejoint le Messager d'Allah lors de l'expédition de Tabuk. (Il a dit :) J'ai dit : \"Dans le cadre de mon repentir, je veux donner mes biens en aumône pour Allah et Son Messager.\" Le Messager d'Allah a dit : \"Garde une partie de tes biens pour toi ; c'est mieux pour toi.\" J'ai dit : \"Je garderai pour moi ma part qui se trouve à Khaibar.\" »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 65
+			}
+		}
+	]
+}

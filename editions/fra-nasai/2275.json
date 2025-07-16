@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2275,
+			"arabicnumber": 2275,
+			"text": "Rapporté par Ayyub, d'après un cheikh de Qushair, d'après son oncle paternel ; puis nous l'avons rencontré à propos de certains de ses chameaux, et Abu Qilabah lui a dit : \"Raconte-le-nous.\" Le vieil homme a dit : \"Mon oncle paternel m'a dit qu'il était allé voir le Prophète ﷺ à propos de certains de ses chameaux, alors qu'il mangeait. Il a dit : 'Viens manger.' J'ai dit : 'Je jeûne.' Il a dit : 'Allah, le Puissant et le Sublime, a accordé la dispense de la moitié de la prière et du jeûne au voyageur, à la femme enceinte et au malade",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 186
+			}
+		}
+	]
+}

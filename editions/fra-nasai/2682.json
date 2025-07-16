@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2682,
+			"arabicnumber": 2682,
+			"text": "Rapporté par 'Abdullah bin 'Umar : Sa sœur Hafsah a dit : « J'ai demandé au Prophète ﷺ : \"Ô Messager d'Allah ! Pourquoi les gens sont-ils sortis de l'état d'Ihram alors que toi, tu n'es pas sorti de l'état d'Ihram après ta 'Umrah ?\" Il a répondu : \"J'ai attaché mes cheveux et mis un collier à mon animal de sacrifice, donc je ne sortirai de l'état d'Ihram qu'après le Hajj.\" »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 64
+			}
+		}
+	]
+}

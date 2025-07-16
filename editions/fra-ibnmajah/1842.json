@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"8": "The Chapters Regarding Zakat"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1783,
+				"hadithnumber_last": 1844,
+				"arabicnumber_first": 1783,
+				"arabicnumber_last": 1844
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1842,
+			"arabicnumber": 1842,
+			"text": "Rapporté par Sa'eed bin Yasar, qui a entendu Abu Hurairah dire : Le Messager d’Allah a dit : “Personne ne donne l’aumône provenant de biens licites – car Allah n’accepte que ce qui est bon – sans que Le Tout Miséricordieux ne la prenne dans Sa main droite, même si ce n’est qu’une datte, et elle grandit dans la Main du Tout Miséricordieux jusqu’à devenir plus grande qu’une montagne, et Il en prend soin comme l’un de vous prend soin de son poulain ou de son jeune chameau sevré.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 60
+			}
+		}
+	]
+}

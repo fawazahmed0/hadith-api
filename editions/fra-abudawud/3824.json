@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3824,
+			"arabicnumber": 3824,
+			"text": "Rapporté par Hudhayfah ibn al-Yaman : Zirr ibn Hubaysh a dit : Hudhayfah a attribué, je pense, au Messager d’Allah ﷺ cette parole : « Celui qui crache en direction de la qiblah viendra le Jour de la Résurrection avec sa salive entre les yeux ; et celui qui mange de ce légume malodorant ne doit pas s’approcher de notre mosquée. » Il l’a dit trois fois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 89
+			}
+		}
+	]
+}

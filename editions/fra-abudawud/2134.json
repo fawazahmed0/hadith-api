@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2134,
+			"arabicnumber": 2134,
+			"text": "Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ partageait son temps de façon équitable et disait : « Ô Allah, ceci est ma répartition concernant ce que je contrôle, alors ne me reproche pas ce que Tu contrôles et que je ne contrôle pas. » Abu Dawud a dit : Par cela, il voulait dire le cœur",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 89
+			}
+		}
+	]
+}

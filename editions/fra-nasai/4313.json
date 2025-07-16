@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4313,
+			"arabicnumber": 4313,
+			"text": "Rapporté par Ibn Safwan : J'ai attrapé deux lapins mais je n'ai rien trouvé pour les égorger, alors je les ai égorgés avec une pierre tranchante. J'ai interrogé le Prophète à ce sujet et il m'a ordonné de les manger",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 51
+			}
+		}
+	]
+}

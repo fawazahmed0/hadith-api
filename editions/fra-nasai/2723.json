@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2723,
+			"arabicnumber": 2723,
+			"text": "Rapporté par Al-Hakam : J'ai entendu 'Ali bin Husain rapporter de Marwan que 'Uthman avait interdit la Mut'ah et de joindre le Hajj et la 'Umrah. 'Ali a dit : \"Labbaika bi Hajjatin wa 'Umratin ma'an\" (Me voici, ô Allah, pour le Hajj et la 'Umrah ensemble). 'Uthman a dit : \"Tu fais cela alors que je l'ai interdit ?\" 'Ali a répondu : \"Je ne délaisserai pas la tradition du Messager d'Allah pour qui que ce soit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 105
+			}
+		}
+	]
+}

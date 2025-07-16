@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3399,
+			"arabicnumber": 3399,
+			"text": "Abu Ja’far al-Khatmi a dit : Mon oncle m’a envoyé, moi et son esclave, chez Sa’id ibn al-Musayyab. Nous lui avons dit qu’une information nous était parvenue au sujet du métayage. Il a répondu : « Ibn Umar ne voyait aucun mal à cela jusqu’à ce qu’un hadith de Rafi’ ibn Khadij lui parvienne. Il est alors allé le voir et Rafi’ lui a raconté que le Messager d’Allah ﷺ était venu chez Banu Harithah et avait vu une récolte sur la terre de Zuhayr. Il a dit : “Quelle belle récolte de Zuhayr !” Ils ont répondu : “Elle n’appartient pas à Zuhayr.” Il a demandé : “N’est-ce pas la terre de Zuhayr ?” Ils ont dit : “Oui, mais la récolte appartient à untel.” Il a dit : “Reprenez votre récolte et donnez-lui un salaire.” Rafi’ a dit : “Nous avons repris notre récolte et lui avons donné un salaire.” » Sa’id (ibn al-Musayyab) a dit : « Prêtez à votre frère ou employez-le pour des dirhams. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 74
+			}
+		}
+	]
+}

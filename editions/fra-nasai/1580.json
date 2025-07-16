@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1580,
+			"arabicnumber": 1580,
+			"text": "Rapporté par Al-Hasan : Ibn 'Abbas fit un sermon à Al-Basrah et dit : \"Payez la zakat de votre jeûne.\" Les gens se regardèrent entre eux. Il dit : \"Que ceux qui viennent de Médine se lèvent et enseignent à leurs frères, car ils ne savent pas que le Messager d’Allah (ﷺ) a rendu obligatoire la sadaqat al-fitr pour les jeunes et les vieux, les libres et les esclaves, les hommes et les femmes : un demi-sa‘ de blé ou un sa‘ de dattes sèches ou d’orge",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 25
+			}
+		}
+	]
+}

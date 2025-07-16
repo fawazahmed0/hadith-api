@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1070,
+			"arabicnumber": 1070,
+			"text": "Rapporté par Zayd ibn Arqam : Ilyas ibn AbuRamlah ash-Shami a dit : J’ai vu Mu‘awiyah ibn Abu Sufyan demander à Zayd ibn Arqam : « As-tu prié avec le Messager d’Allah ﷺ lorsque la prière du vendredi et celle de l’Aïd tombaient le même jour ? » Il répondit : « Oui. » Il demanda : « Qu’a-t-il fait ? » Il répondit : « Il a accompli la prière de l’Aïd, puis il a accordé une dispense pour la prière du vendredi, et a dit : “Celui qui veut prier peut le faire.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 681
+			}
+		}
+	]
+}

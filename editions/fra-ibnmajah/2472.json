@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"16": "The Chapters on Pawning"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2436,
+				"hadithnumber_last": 2491,
+				"arabicnumber_first": 2436,
+				"arabicnumber_last": 2491
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2472,
+			"arabicnumber": 2472,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d’Allah (ﷺ) a dit : “Les musulmans sont associés dans trois choses : l’eau, les pâturages et le feu, et il est interdit d’en faire commerce.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 37
+			}
+		}
+	]
+}

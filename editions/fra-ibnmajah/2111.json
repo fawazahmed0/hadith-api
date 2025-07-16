@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"11": "The Chapters on Expiation"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2136,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2136
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2111,
+			"arabicnumber": 2111,
+			"text": "Rapporté par 'Amr bin Shu'aib, de son père, que son grand-père a dit que le Prophète (ﷺ) a dit : \"Celui qui fait un serment puis voit qu’autre chose est meilleure, qu’il ne le fasse pas, et le fait de ne pas le faire est l’expiation pour ce serment",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 22
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3459,
+			"arabicnumber": 3459,
+			"text": "Rapporté par Hakim b. Hizam رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les deux parties d’une transaction commerciale ont le droit d’option (d’annuler la vente) tant qu’elles ne se sont pas séparées. S’ils disent la vérité et clarifient tout, leur transaction sera bénie. Mais s’ils cachent quelque chose et mentent, la bénédiction de leur transaction disparaîtra. » Abu Dawud a dit : Une tradition similaire a aussi été transmise par Sa’id b. Abi ‘Arubah et Hammad. Quant à Hammam, il a dit dans sa version : « Jusqu’à ce qu’ils se séparent ou exercent le droit d’option (d’annuler la transaction), en prononçant les mots d’option trois fois. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2079) Sahih Muslim (1532)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 44
+			}
+		}
+	]
+}

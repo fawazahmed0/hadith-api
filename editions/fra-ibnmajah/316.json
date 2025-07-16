@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 316,
+			"arabicnumber": 316,
+			"text": "Rapporté par Salman : Un idolâtre s’est moqué de lui en disant : \"Je vois que ton compagnon (le Prophète) vous enseigne même comment vous soulager ?\" Il a répondu : \"Oui, en effet. Il nous a ordonné de ne pas faire face à la Qiblah, de ne pas nous nettoyer avec la main droite, et de ne pas utiliser moins de trois pierres, qui ne doivent pas être des excréments ni des os",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 50
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 757,
+			"arabicnumber": 757,
+			"text": "Rapporté par Abu Saeed : Le Messager d’Allah (ﷺ) a dit : \"Si l’un de vous prie, il ne doit laisser personne passer devant lui, et si quelqu’un insiste pour passer, alors qu’il le repousse",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 16
+			}
+		}
+	]
+}

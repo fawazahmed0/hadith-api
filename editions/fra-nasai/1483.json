@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1483,
+			"arabicnumber": 1483,
+			"text": "Rapporté par Abu Hurairah : Le soleil s’est éclipsé à l’époque du Messager d’Allah (ﷺ). Il s’est levé et a dirigé la prière. Il est resté debout longtemps, puis il s’est incliné longtemps, puis il est resté debout longtemps, mais moins longtemps que la première fois, puis il s’est incliné longtemps, mais moins longtemps que la première fois. Ensuite, il s’est prosterné longtemps, puis il s’est relevé, puis il s’est prosterné longtemps, mais moins longtemps que la première fois. Ensuite, il s’est relevé et s’est incliné deux fois de nouveau, de la même façon. Ensuite, il s’est prosterné deux fois, de la même façon, jusqu’à ce qu’il termine sa prière. Ensuite, il a dit : \"Le soleil et la lune sont deux signes d’Allah (SWT), et ils ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un. Si vous voyez cela, empressez-vous de vous rappeler Allah (SWT) et de prier",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 25
+			}
+		}
+	]
+}

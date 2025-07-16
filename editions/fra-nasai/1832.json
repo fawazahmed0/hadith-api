@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1832,
+			"arabicnumber": 1832,
+			"text": "Rapporté par 'Abdullah bin 'Amr : \"Un homme qui était né à Médine est mort là-bas, et le Messager d’Allah ﷺ a prié pour lui, puis il a dit : 'Si seulement il était mort ailleurs que là où il est né.' Ils ont demandé : 'Pourquoi cela, ô Messager d’Allah ?' Il a répondu : 'Si un homme meurt ailleurs que là où il est né, une distance égale à celle entre le lieu de sa naissance et celui de sa mort sera mise entre lui et le Feu",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 15
+			}
+		}
+	]
+}

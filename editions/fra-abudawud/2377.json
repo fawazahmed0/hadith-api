@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2377,
+			"arabicnumber": 2377,
+			"text": "Rapporté par Ma'bad b. Hudhah : Le Prophète ﷺ a ordonné d’appliquer du khôl mélangé à du musc avant de dormir. Il a dit : « Celui qui jeûne doit s’en abstenir. » Abu Dawud a dit : Yahya b. Ma'in m’a dit : « Ce hadith sur l’utilisation du khôl est munkar (c’est-à-dire qu’il contredit les traditions authentiques sur ce sujet). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 65
+			}
+		}
+	]
+}

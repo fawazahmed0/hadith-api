@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"17": "Game (Kitab Al-Said)"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 2844,
+				"hadithnumber_last": 2861,
+				"arabicnumber_first": 2844,
+				"arabicnumber_last": 2861
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2853,
+			"arabicnumber": 2853,
+			"text": "Rapporté par Adi ibn Hatim : J’ai dit : « Messager d’Allah, l’un de nous tire une flèche sur un gibier, suit sa trace pendant deux ou trois jours, puis le trouve mort avec sa flèche plantée dedans. Peut-il le manger ? » Il a répondu : « Oui, s’il le souhaite. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 10
+			}
+		}
+	]
+}

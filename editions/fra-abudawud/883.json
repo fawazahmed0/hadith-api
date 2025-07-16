@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 883,
+			"arabicnumber": 883,
+			"text": "Rapporté par Ibn ‘Abbas رضي الله عنه : Lorsque le Prophète ﷺ récitait : « Glorifie le nom de ton Seigneur, le Très-Haut », il disait : « Gloire à Allah, le Très-Haut. » Abu Dawud a dit : Dans ce récit, les autres rapporteurs diffèrent de Wakl. Cela a été rapporté par Wakl et Shu’bah d’après Abu Ishaq, de Sa’îd b. Jubair, de la part d’Ibn ‘Abbas comme étant sa propre parole (et non celle du Prophète)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 493
+			}
+		}
+	]
+}

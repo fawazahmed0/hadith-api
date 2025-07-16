@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 356,
+			"arabicnumber": 356,
+			"text": "Rapporté par Uthaim ibn Kulaib, d’après son père (Kuthair), selon son grand-père (Kulaib) : Il est venu voir le Prophète ﷺ et lui a dit : « Je me suis converti à l’islam. » Le Prophète ﷺ lui a dit : « Enlève de toi les poils qui ont poussé pendant la période d’incroyance », puis il a ajouté : « Rase-les. » Il rapporte aussi qu’une autre personne (différente du grand-père d’Uthaim) lui a dit que le Prophète ﷺ a dit à un autre homme qui l’accompagnait : « Enlève de toi les poils qui ont poussé pendant la période d’incroyance et fais-toi circoncire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 356
+			}
+		}
+	]
+}

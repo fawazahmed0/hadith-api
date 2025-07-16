@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4119,
+			"arabicnumber": 4119,
+			"text": "Rapporté par Asma’ bint Yazid : Elle a entendu le Messager d’Allah (ﷺ) dire : « Voulez-vous que je vous dise qui sont les meilleurs d’entre vous ? » Ils ont dit : « Oui, ô Messager d’Allah. » Il a dit : « Les meilleurs d’entre vous sont ceux qui, lorsqu’on les voit, rappellent Allah le Tout-Puissant, le Majestueux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 20
+			}
+		}
+	]
+}

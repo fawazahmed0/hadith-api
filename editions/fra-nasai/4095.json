@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4095,
+			"arabicnumber": 4095,
+			"text": "Rapporté par Sa'eed bin Zaid : Le Messager d’Allah ﷺ a dit : \"Celui qui est tué en protégeant ses biens, c’est un martyr. Celui qui est tué en protégeant sa famille, c’est un martyr. Celui qui est tué en protégeant sa religion, c’est un martyr. Celui qui est tué en se protégeant lui-même, c’est un martyr",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 130
+			}
+		}
+	]
+}

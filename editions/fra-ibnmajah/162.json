@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 162,
+			"arabicnumber": 162,
+			"text": "Rapporté par Nusair bin Dhu’luq : Ibn ‘Umar avait l’habitude de dire : « Ne critiquez pas les Compagnons de Muhammad ﷺ, car le fait que l’un d’eux soit resté un court moment avec le Prophète est meilleur que toutes les bonnes actions que vous pourriez faire durant toute votre vie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 162
+			}
+		}
+	]
+}

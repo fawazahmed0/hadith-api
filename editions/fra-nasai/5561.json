@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5561,
+			"arabicnumber": 5561,
+			"text": "Rapporté par 'Abdullah bin Abi Qatadah, de la part de son père : Le Prophète ﷺ a dit : \"Ne faites pas tremper Az-Zahuw et des dattes mûres ensemble, et ne faites pas tremper des dattes mûres et des raisins secs ensemble",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 22
+			}
+		}
+	]
+}

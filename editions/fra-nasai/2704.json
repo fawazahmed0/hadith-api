@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2704,
+			"arabicnumber": 2704,
+			"text": "Rapporté par Ibrahim bin Al-Muntashir : Mon père a dit : \"J'ai demandé à Ibn 'Umar s'il était permis de se parfumer en entrant en état d'Ihram. Il a répondu : 'Je préférerais être enduit de goudron plutôt que de me parfumer.' J'ai rapporté cela à 'Aishah et elle a dit : 'Qu'Allah fasse miséricorde à Abou 'Abdur-Rahman. Je mettais du parfum sur le Messager d'Allah, puis il faisait le tour de ses épouses, et le matin il sentait encore fortement le parfum",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 86
+			}
+		}
+	]
+}

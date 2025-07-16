@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2076,
+			"arabicnumber": 2076,
+			"text": "Rapporté par Ibn 'Umar : Le Prophète s’est arrêté au puits de Badr et a dit : \"Avez-vous trouvé ce que votre Seigneur vous avait promis ?\" Il a dit : \"Ils entendent ce que je leur dis maintenant.\" On a rapporté cela à 'Aishah et elle a dit : \"Ibn 'Umar se trompe. En réalité, le Messager d’Allah a dit : 'Ibn 'Umar se trompe. En réalité, le Messager d’Allah a dit : Maintenant ils savent que ce que je leur disais est la vérité.' Puis elle a récité : Ainsi, tu ne peux pas faire entendre les morts., jusqu’à la fin du verset",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 259
+			}
+		}
+	]
+}

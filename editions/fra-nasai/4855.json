@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"45": "The Book of Oaths (qasamah), Retaliation and Blood Money"
+		},
+		"section_detail": {
+			"45": {
+				"hadithnumber_first": 4706,
+				"hadithnumber_last": 4869,
+				"arabicnumber_first": 4706,
+				"arabicnumber_last": 4869
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4855,
+			"arabicnumber": 4855,
+			"text": "Rapporté par Ibn Shihab : J’ai lu la lettre du Messager d’Allah qu’il avait écrite pour 'Amr bin Hazm quand il l’a envoyé gouverner Najran. La lettre était chez Abu Bakr bin Hazm. Le Messager d’Allah a écrit ceci : \"Un message d’Allah et de Son Messager : Ô vous qui croyez ! Respectez vos engagements\", et il a écrit les versets jusqu’à : \"En vérité, Allah est prompt à demander des comptes.\" Puis il a écrit : \"Voici le livre du talion : Pour une vie, cent chameaux,\" et ainsi de suite",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 45,
+				"hadith": 150
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4221,
+			"arabicnumber": 4221,
+			"text": "Rapporté par Abu Bakr bin Abu Zuhair Ath-Thaqafi, d’après son père : Le Messager d’Allah (ﷺ) nous a adressé un discours à Nabawah – ou Banawah (l’un des rapporteurs a précisé : “Nabawah est près de Ta’if”) – et a dit : « Bientôt, vous pourrez distinguer les gens du Paradis de ceux de l’Enfer. » Ils ont demandé : « Comment, ô Messager d’Allah ? » Il a dit : « Par les éloges et les critiques. Vous êtes les témoins d’Allah les uns sur les autres. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 122
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2239,
+			"arabicnumber": 2239,
+			"text": "Rapporté par 'Abdullah : Nous sommes sortis avec le Messager d’Allah alors que nous étions de jeunes hommes sans moyens. Il a dit : \"Ô jeunes gens, mariez-vous, car cela aide mieux à baisser le regard et à préserver la chasteté. Celui qui ne peut pas se marier doit jeûner, car le jeûne sera une protection pour lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 150
+			}
+		}
+	]
+}

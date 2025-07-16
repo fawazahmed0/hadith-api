@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4755,
+			"arabicnumber": 4755,
+			"text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Elle a dit qu’elle pensait à l’Enfer et s’est mise à pleurer. Le Messager d’Allah ﷺ lui demanda : « Qu’est-ce qui te fait pleurer ? » Elle répondit : « J’ai pensé à l’Enfer et j’ai pleuré. Est-ce que tu te souviendras de ta famille le Jour de la Résurrection ? » Le Messager d’Allah ﷺ répondit : « Il y a trois moments où personne ne pensera à personne : au moment de la pesée des actes, jusqu’à ce qu’on sache si son poids est lourd ou léger ; au moment où l’on reçoit le livre des actes, quand il sera dit : “Prends et lis le registre d’Allah”, jusqu’à ce qu’on sache si son livre sera remis dans sa main droite, sa main gauche ou derrière son dos ; et au moment où le pont sera placé au-dessus de JAHANNAM. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 160
+			}
+		}
+	]
+}

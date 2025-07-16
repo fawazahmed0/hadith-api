@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5210,
+			"arabicnumber": 5210,
+			"text": "Rapporté par Ali ibn Abu Talib رضي الله عنه : Abu Dawud a dit : Al-Hasan ibn Ali a attribué ce hadith au Prophète ﷺ : « Quand des gens passent devant d’autres, il suffit que l’un d’eux salue pour tous, et il suffit que l’un de ceux qui sont assis réponde pour tous. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 438
+			}
+		}
+	]
+}

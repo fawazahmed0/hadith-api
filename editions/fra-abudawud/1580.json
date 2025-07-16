@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1580,
+			"arabicnumber": 1580,
+			"text": "Rapporté par Suwaid ibn Ghaflah : Le collecteur du Prophète ﷺ est venu chez nous. Je lui ai pris la main et j’ai lu dans le document que les biens ne devaient ni être regroupés ni séparés pour éviter la zakat. Il n’est pas question d’animaux laitiers dans ce récit",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 25
+			}
+		}
+	]
+}

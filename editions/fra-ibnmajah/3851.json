@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"34": "Supplication"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3827,
+				"hadithnumber_last": 3892,
+				"arabicnumber_first": 3827,
+				"arabicnumber_last": 3892
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3851,
+			"arabicnumber": 3851,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Il n’y a pas d’invocation meilleure que celle-ci : Allahumma inni as’aluka al-mu’afah fid-dunya wal-akhirah (Ô Allah, je Te demande la protection dans ce monde et dans l’au-delà). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 25
+			}
+		}
+	]
+}

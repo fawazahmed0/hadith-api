@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1830,
+			"arabicnumber": 1830,
+			"text": "Rapporté par 'Aïsha رضي الله عنها : \"Le Messager d’Allah ﷺ est mort alors qu’il était entre ma poitrine et mon menton, et après avoir vu le Messager d’Allah ﷺ, je n’ai jamais détesté l’agonie de la mort pour qui que ce soit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 13
+			}
+		}
+	]
+}

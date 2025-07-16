@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2170,
+			"arabicnumber": 2170,
+			"text": "Rapporté par Ibn Mas‘ud : Le Prophète ﷺ a dit : \"Bilal fait l’adhan la nuit pour réveiller ceux d’entre vous qui dorment, et pour que ceux qui prient le qiyam puissent s’arrêter. L’aube n’est pas quand la lumière apparaît comme ceci\" – et il a fait un geste avec sa main – \"mais l’aube, c’est quand elle apparaît comme ceci\" – et il a fait un geste avec ses deux index",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 81
+			}
+		}
+	]
+}

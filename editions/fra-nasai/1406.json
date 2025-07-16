@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"14": "The Book of Jumu'ah (Friday Prayer)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 1367,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 1367,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1406,
+			"arabicnumber": 1406,
+			"text": "Rapporté par Ibrahim bin Nashit : Il a demandé à Ibn Shihab au sujet du ghusl le vendredi. Il a répondu : « C’est une sunna ; Salim bin 'Abdullah m’a rapporté, de la part de son père, que le Messager d’Allah (ﷺ) en a parlé depuis le minbar. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 43
+			}
+		}
+	]
+}

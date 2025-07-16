@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 949,
+			"arabicnumber": 949,
+			"text": "Rapporté par Zayd ibn Arqam رضي الله عنه : L’un d’entre nous parlait à l’homme qui se tenait à côté de lui pendant la prière. Puis le verset coranique : « Et tenez-vous debout avec dévotion devant Allah » a été révélé",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1200) Sahih Muslim (539)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 560
+			}
+		}
+	]
+}

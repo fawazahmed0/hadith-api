@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2751,
+			"arabicnumber": 2751,
+			"text": "Rapporté par 'Abdullah bin Masud : Une partie de la Talbiyah du Messager d’Allah était : « Labbaika Allahumma labbaik, Labbaika la sharika laka labbaik, Innal-hamda wan-ni’mata laka wal-mulk » (« Me voici, ô Allah, me voici. Me voici, Tu n’as pas d’associé, me voici. En vérité, la louange et les bienfaits T’appartiennent »)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 133
+			}
+		}
+	]
+}

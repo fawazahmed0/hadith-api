@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 20,
+			"arabicnumber": 20,
+			"text": "Rapporté par Rafi' bin Ishaq, qui a entendu Abu Ayyub Al-Ansari dire – alors qu’il était en Égypte : \"Par Allah, je ne sais pas quoi faire avec ces toilettes. Le Messager d’Allah (ﷺ) a dit : 'Quand l’un de vous va faire ses besoins, qu’il ne se tourne ni face à la Qiblah, ni ne lui tourne le dos",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 20
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2967,
+			"arabicnumber": 2967,
+			"text": "Rapporté par Omar ibn al-Khattab رضي الله عنه : Malik ibn Aws al-Hadthan a dit : L’un des arguments avancés par Omar était qu’il disait que le Messager d’Allah ﷺ avait reçu trois choses exclusivement pour lui : Banu an-Nadir, Khaybar et Fadak. Les biens de Banu an-Nadir étaient gardés entièrement pour ses besoins urgents, Fadak pour les voyageurs, et Khaybar a été divisé par le Messager d’Allah ﷺ en trois parts : deux pour les musulmans, et une comme contribution pour sa famille. S’il restait quelque chose après la part de sa famille, il le partageait entre les pauvres émigrés",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 40
+			}
+		}
+	]
+}

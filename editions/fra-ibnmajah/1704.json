@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1704,
+			"arabicnumber": 1704,
+			"text": "Rapporté par Nafi’ : J’ai demandé à Umm Salamah au sujet d’un homme qui se lève le matin en état d’impureté majeure et veut jeûner. Elle a répondu : “Le Messager d’Allah (ﷺ) se levait le matin en état d’impureté majeure après un rapport, pas après un rêve, puis il prenait un bain et complétait son jeûne.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 67
+			}
+		}
+	]
+}

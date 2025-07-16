@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"15": "The Book of Shortening the Prayer When Traveling"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1458,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1458
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1440,
+			"arabicnumber": 1440,
+			"text": "Rapporté par 'Umar : La prière du vendredi est de deux rak'ahs, celle de l'Aïd Al-Fitr est de deux rak'ahs, celle de l'Aïd An-Nahr est de deux rak'ahs, et celle du voyage est de deux rak'ahs, complètes et non raccourcies, selon la parole du Prophète (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 8
+			}
+		}
+	]
+}

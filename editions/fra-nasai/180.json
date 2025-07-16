@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 180,
+			"arabicnumber": 180,
+			"text": "Rapporté par Abu Sufyan bin Sa’eed bin Al-Akhnas bin Shariq : Il est entré chez Umm Habibah, l’épouse du Prophète (ﷺ), qui était sa tante maternelle, et elle lui a préparé du Sawiq. Puis elle lui a dit : « Fais les ablutions, ô fils de ma sœur ! Car le Messager d’Allah (ﷺ) a dit : “Faites les ablutions avec ce qui a été touché par le feu.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 181
+			}
+		}
+	]
+}

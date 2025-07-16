@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2903,
+			"arabicnumber": 2903,
+			"text": "Rapporté par Aisha رضي الله عنها : Le Messager d’Allah ﷺ lui a dit : \"Ô Aïcha, si ce n’était pas parce que ton peuple vient juste de quitter la période de l’ignorance, j’aurais ordonné que la Maison soit démolie, et j’y aurais inclus ce qui en a été laissé de côté. J’aurais mis sa porte au niveau du sol et je lui aurais donné deux portes, une à l’est et une à l’ouest. Car ils l’ont construite trop petite, et en faisant cela, elle aurait été bâtie sur les fondations d’Ibrahim, paix sur lui.\" Un des rapporteurs a dit : \"C’est ce qui a poussé Ibn Az-Zubair à la démolir.\" Yazid a dit : \"J’ai vu Ibn Az-Zubair quand il l’a démolie et reconstruite, et il a inclus une partie du Hijr dedans. Et j’ai vu les fondations d’Ibrahim, paix sur lui, des pierres comme des bosses de chameaux collées les unes aux autres",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 286
+			}
+		}
+	]
+}

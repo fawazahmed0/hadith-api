@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4857,
+			"arabicnumber": 4857,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Il y a certaines paroles qu’une personne dit trois fois en se levant d’une assemblée, et elle sera pardonnée pour ce qui s’est passé dans cette assemblée. Et personne ne les prononce dans une réunion pour une bonne cause ou pour le rappel d’Allah sans que cela ne soit scellé, comme un document avec un sceau. Ces paroles sont : « Gloire à Toi, ô Allah, et je commence par Te louer. Il n’y a de dieu que Toi. Je Te demande pardon et je me repens auprès de Toi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 85
+			}
+		}
+	]
+}

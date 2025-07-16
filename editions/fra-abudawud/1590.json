@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1590,
+			"arabicnumber": 1590,
+			"text": "Rapporté par ‘Abdallah ibn Abi Awfa رضي الله عنه : Mon père faisait partie de ceux qui ont prêté serment d’allégeance au Prophète ﷺ sous l’arbre. Le Prophète ﷺ disait, lorsque les gens lui apportaient leur zakat : « Ô Allah, bénis la famille d’untel. » Quand mon père lui a apporté sa zakat, il a dit : « Ô Allah, bénis la famille d’Abu Awfa. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1497) Sahih Muslim (1078)"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 35
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"28": "The Book of Horses, Races and Shooting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3561,
+				"hadithnumber_last": 3593,
+				"arabicnumber_first": 3561,
+				"arabicnumber_last": 3593
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3582,
+			"arabicnumber": 3582,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah ﷺ a dit : \"Celui qui garde un cheval pour la cause d'Allah, par foi en Allah et en croyant à Sa promesse, sa nourriture, son eau, son urine et son crottin seront comptés comme des bonnes actions dans la balance de ses œuvres",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 22
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1892,
+			"arabicnumber": 1892,
+			"text": "Rapporté par Abdullah ibn as-Sa'ib رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire entre les deux angles : « Ô Allah, accorde-nous une bénédiction dans cette vie et une bénédiction dans l’au-delà, et protège-nous du châtiment de l’Enfer. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 172
+			}
+		}
+	]
+}

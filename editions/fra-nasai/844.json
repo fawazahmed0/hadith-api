@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 844,
+			"arabicnumber": 844,
+			"text": "Rapporté par 'Itban bin Malik : Il a dit : \"Ô Messager d'Allah (ﷺ), les inondations m'empêchent de venir à la mosquée de mon peuple. J'aimerais que tu viennes prier dans un endroit de ma maison pour que je puisse en faire une mosquée.\" Le Messager d'Allah (ﷺ) a dit : \"Nous le ferons.\" Quand le Messager d'Allah (ﷺ) est entré, il a dit : \"Où veux-tu que je prie ?\" Je lui ai montré un coin de la maison, et le Messager d'Allah (ﷺ) s'est tenu là, et nous nous sommes alignés derrière lui, et il nous a dirigés dans deux unités de prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 68
+			}
+		}
+	]
+}

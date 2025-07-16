@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 576,
+			"arabicnumber": 576,
+			"text": "Rapporté par Abu Ishaq : \"J'ai entendu Masruq et Al-Aswad dire : Nous attestons que 'Aishah a dit : 'Quand le Messager d'Allah (ﷺ) était avec moi après 'Asr, il priait ces deux Rak'ah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 83
+			}
+		}
+	]
+}

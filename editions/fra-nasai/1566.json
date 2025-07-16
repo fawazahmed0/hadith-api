@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1566,
+			"arabicnumber": 1566,
+			"text": "Rapporté par ‘Umar bin Al-Khattab : La prière de l’Aïd al-Adha est de deux rak‘as, celle de l’Aïd al-Fitr est de deux rak‘as, la prière du voyageur est de deux rak‘as et la prière du vendredi est de deux rak‘as, complètes et non raccourcies, selon les paroles du Prophète (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 11
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 895,
+			"arabicnumber": 895,
+			"text": "Rapporté par Abu Hurairah : Quand le Messager d’Allah (ﷺ) commençait à prier, il faisait une courte pause. J’ai dit : « Que mon père et ma mère soient sacrifiés pour toi, ô Messager d’Allah, que dis-tu pendant cette courte pause entre le takbir et la récitation ? » Il a dit : « Je dis : Allahumma ba‘id bayni wa bayna khatayaya kama ba‘adta bayna al-mashriqi wal-maghrib ; Allahumma naqqini min khatayaya kama yunaqqa ath-thawb al-abyad min ad-danas ; Allahumma ighsilni min khatayaya bil ma’i wa ath-thalji wal-barad. (Ô Allah, éloigne-moi de mes péchés comme Tu as éloigné l’Orient de l’Occident ; Ô Allah, purifie-moi de mes péchés comme un vêtement blanc est purifié de la saleté ; Ô Allah, lave-moi de mes péchés avec de l’eau, de la neige et de la grêle.) »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 20
+			}
+		}
+	]
+}

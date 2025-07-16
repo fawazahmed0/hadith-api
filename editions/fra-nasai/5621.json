@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5621,
+			"arabicnumber": 5621,
+			"text": "Rapporté par Ash-Shaibani : J'ai entendu Ibn Abi Awfa dire : « Le Messager d'Allah ﷺ a interdit le nabidh fait dans des jarres en terre cuite verte. » J'ai demandé : « Et les blanches ? » Il a répondu : « Je ne sais pas. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 83
+			}
+		}
+	]
+}

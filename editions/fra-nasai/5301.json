@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5301,
+			"arabicnumber": 5301,
+			"text": "Rapporté par ‘Abdullah ibn ‘Ukaim : Hudhayfah a demandé de l’eau et le chef a apporté de l’eau dans un récipient en argent. Il l’a rejeté, puis il s’est excusé auprès d’eux pour ce qu’il avait fait, et a dit : « Je lui avais déjà dit de ne pas faire cela. J’ai entendu le Messager d’Allah ﷺ dire : Ne buvez pas dans des récipients en or ou en argent, et ne portez pas d’Ad-Dibaj ni de soie. Cela leur est réservé dans ce monde, et à vous dans l’au-delà. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 262
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2,
+			"arabicnumber": 2,
+			"text": "Rapporté par Abu Hurairah : Le Prophète a dit : \"Laissez-moi comme je vous ai laissés (ne me posez pas de questions sur les détails que j’ai choisi de ne pas expliquer). Ceux qui vous ont précédés ont été perdus à cause de leurs questions et de leurs divergences avec leurs Prophètes. Si je vous ordonne quelque chose, faites-en autant que vous le pouvez, et si je vous interdis quelque chose, abstenez-vous-en",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 2
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2265,
+			"arabicnumber": 2265,
+			"text": "Rapporté par Amr b. Shu’aib, d’après son père, d’après son grand-père رضي الله عنه : Le Prophète ﷺ a jugé, à propos d’un enfant reconnu comme membre d’une famille après la mort de son père, auquel il était attribué lorsque les héritiers disaient qu’il était des leurs, que s’il était l’enfant d’une esclave que le père possédait au moment du rapport, il était inclus parmi ceux qui demandaient son intégration, mais il ne recevait rien de l’héritage déjà partagé ; il recevait seulement la part de l’héritage qui n’avait pas encore été partagée. Mais si le père auquel il était attribué l’avait renié, il n’était pas inclus parmi les héritiers. Si c’était l’enfant d’une esclave que le père ne possédait pas ou d’une femme libre avec qui il avait eu des rapports illicites, il n’était pas inclus parmi les héritiers et n’héritait pas, même si celui à qui il était attribué réclamait la paternité, car il était un enfant de la fornication, que sa mère soit libre ou esclave",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 91
+			}
+		}
+	]
+}

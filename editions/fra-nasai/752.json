@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 752,
+			"arabicnumber": 752,
+			"text": "Rapporté par Ibn Abbas : Al-Fadl et moi sommes arrivés à Arafat en montant une ânesse qui nous appartenait, et le Messager d’Allah (ﷺ) dirigeait la prière pour les gens. Puis il a raconté quelque chose de similaire. \"Nous avons traversé une partie du rang, puis nous sommes descendus et avons laissé l’ânesse paître, et le Messager d’Allah (ﷺ) ne nous a rien dit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 11
+			}
+		}
+	]
+}

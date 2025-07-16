@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"32": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3969,
+				"hadithnumber_last": 4008,
+				"arabicnumber_first": 3969,
+				"arabicnumber_last": 4008
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4002,
+			"arabicnumber": 4002,
+			"text": "Rapporté par Abu Dharr رضي الله عنه : J’étais assis derrière le Messager d’Allah ﷺ qui montait un âne alors que le soleil se couchait. Il m’a demandé : « Sais-tu où il se couche ? » J’ai répondu : « Allah et Son Messager savent mieux. » Il a dit : « Il se couche dans une source d’eau chaude (Hamiyah). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (3199، 4802، 4803) Sahih Muslim (159)"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 34
+			}
+		}
+	]
+}

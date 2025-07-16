@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3395,
+			"arabicnumber": 3395,
+			"text": "Rapporté par Rafi’ b. Khadij رضي الله عنه : Nous avions l’habitude d’employer des gens pour cultiver la terre en échange d’une part de la récolte. Puis, un de ses oncles est venu lui dire : « Le Messager d’Allah ﷺ nous a interdit une pratique qui nous était bénéfique. Mais obéir à Allah et à Son Messager ﷺ est plus bénéfique pour nous. » Nous avons demandé : « Quelle est cette pratique ? » Il a dit : « Le Messager d’Allah ﷺ a dit : “Si quelqu’un possède une terre, qu’il la cultive lui-même, ou qu’il la prête à son frère pour qu’il la cultive. Il ne doit pas la louer contre un tiers ou un quart (de la récolte) ou contre une quantité déterminée de la production.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1548)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 70
+			}
+		}
+	]
+}

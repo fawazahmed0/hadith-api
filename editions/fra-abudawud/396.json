@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 396,
+			"arabicnumber": 396,
+			"text": "Rapporté par Abd Allah ibn ‘Amr رضي الله عنه : Le Prophète ﷺ a dit : « Le temps de la prière du zuhr dure tant que la prière du ‘asr n’a pas commencé ; le temps du ‘asr dure tant que le soleil n’a pas jauni ; le temps du maghrib dure tant que la lueur du soir n’a pas disparu ; le temps du ‘isha dure jusqu’à minuit ; et le temps du fajr dure tant que le soleil ne s’est pas levé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (612)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 6
+			}
+		}
+	]
+}

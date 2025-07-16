@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 385,
+			"arabicnumber": 385,
+			"text": "Rapporté par Maymouna : Le Messager d’Allah (ﷺ) posait sa tête sur les genoux de l’une d’entre nous et récitait le Coran alors qu’elle avait ses règles. L’une d’entre nous apportait aussi le tapis à la mosquée et l’étendait, même pendant ses règles",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 38
+			}
+		}
+	]
+}

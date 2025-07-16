@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 55,
+			"arabicnumber": 55,
+			"text": "Rapporté par Mu'adh bin Jabal : Lorsque le Messager d’Allah (ﷺ) m’a envoyé au Yémen, il a dit : \"Ne rends aucun jugement et ne prends aucune décision sauf selon ce que tu sais. Si tu as un doute sur une affaire, attends de bien la comprendre, ou écris-moi à ce sujet",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Mawdu"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Mawdu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Mawdu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 55
+			}
+		}
+	]
+}

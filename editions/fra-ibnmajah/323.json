@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 323,
+			"arabicnumber": 323,
+			"text": "Rapporté par Ibn ‘Umar : J’ai vu le Messager d’Allah ﷺ dans ses toilettes (construites), tourné vers la Qiblah. (Da’if) (‘Eisa, un des rapporteurs, a dit : \"J’ai raconté cela à Sha’bi, et il a dit : ‘Ibn ‘Umar a dit vrai. Quant aux paroles de Abu Hurairah, il a dit : ‘Dans le désert, il ne faut ni faire face à la Qiblah ni lui tourner le dos.’ Quant aux paroles de Ibn ‘Umar, il a dit : ‘Dans les toilettes (construites), il n’y a pas de Qiblah, alors tournez-vous comme vous voulez.’\" Une autre chaîne rapporte des paroles similaires",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 57
+			}
+		}
+	]
+}

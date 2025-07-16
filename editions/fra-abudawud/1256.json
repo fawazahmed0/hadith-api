@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1256,
+			"arabicnumber": 1256,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ récitait dans les deux unités surérogatoires de la prière de l’aube : « Dis : Ô vous les mécréants » [Sourate Al-Kafiroun : 1] et « Dis : Il est Allah, l’Unique » [Sourate Al-Ikhlas]",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (726)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 7
+			}
+		}
+	]
+}

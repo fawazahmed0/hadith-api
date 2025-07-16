@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4483,
+			"arabicnumber": 4483,
+			"text": "Rapporté par ‘Amr ibn Shu’aib, d’après son père, d’après son grand-père : Le Prophète a dit : « Les deux parties à une transaction ont le choix tant qu’elles ne se sont pas séparées, sauf si elles trouvent un accord avant de se quitter. Il n’est pas permis de se dépêcher de partir par peur que l’autre change d’avis. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 35
+			}
+		}
+	]
+}

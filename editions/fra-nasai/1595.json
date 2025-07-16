@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1595,
+			"arabicnumber": 1595,
+			"text": "Rapporté par 'Aishah : Je me souviens que le Messager d’Allah (ﷺ) me couvrait avec son manteau pendant que je regardais les Éthiopiens jouer dans la mosquée, jusqu’à ce que je me lasse. Vous devez donc comprendre l’enthousiasme des jeunes filles pour le jeu",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 40
+			}
+		}
+	]
+}

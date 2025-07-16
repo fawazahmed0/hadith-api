@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 436,
+			"arabicnumber": 436,
+			"text": "Abu Huraira رضي الله عنه a rapporté : Une autre version de ce récit ajoute : Le Messager d’Allah ﷺ a dit : « Éloignez-vous de cet endroit où l’inattention vous a gagnés. » Il a ensuite ordonné à Bilal d’appeler à la prière et d’annoncer que la prière en groupe était prête (c’est-à-dire qu’il a prononcé l’iqamah), puis il a accompli la prière. Abu Dawud a dit : Ce récit a été rapporté par Malik, Sufyan b. ‘Uyainah, al-Awza’i et ‘Abd al-Razzaq d’après Ma’mar et Ibn Ishaq, mais aucun d’eux n’a mentionné l’appel à la prière (adhan) dans cette version transmise par al-Zuhri, et seuls al-Awza’i et Aban al-‘Attar l’attribuent à Ma’mar",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 46
+			}
+		}
+	]
+}

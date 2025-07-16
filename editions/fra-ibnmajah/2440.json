@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"16": "The Chapters on Pawning"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2436,
+				"hadithnumber_last": 2491,
+				"arabicnumber_first": 2436,
+				"arabicnumber_last": 2491
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2440,
+			"arabicnumber": 2440,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Une monture peut être montée lorsqu’elle est mise en gage, et son lait peut être bu lorsqu’elle est en gage, mais celui qui la monte ou la trait doit payer pour son entretien. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 5
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3630,
+			"arabicnumber": 3630,
+			"text": "Rapporté par 'Amir bin Sa'd, d'après son père : Il est tombé malade à La Mecque et le Messager d'Allah est venu le voir. Quand Sa'd l'a vu, il a pleuré et a dit : \"Ô Messager d'Allah, vais-je mourir dans la terre d'où j'ai émigré ?\" Il a dit : \"Non, si Allah le veut.\" Il a dit : \"Ô Messager d'Allah, puis-je léguer toute ma richesse dans la voie d'Allah ?\" Il a dit : \"Non.\" Il a dit : \"Les deux tiers ?\" Il a dit : \"Non.\" Il a dit : \"La moitié ?\" Il a dit : \"Non.\" Il a dit : \"Le tiers ?\" Le Messager d'Allah a dit : \"Un tiers, et un tiers c'est beaucoup. Si tu laisses tes fils à l'abri du besoin, c'est mieux que de les laisser pauvres à tendre la main aux gens",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 20
+			}
+		}
+	]
+}

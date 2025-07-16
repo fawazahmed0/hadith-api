@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 996,
+			"arabicnumber": 996,
+			"text": "Rapporté par Abdullah ibn Mas'ud رضي الله عنه : Le Prophète ﷺ saluait à sa droite et à sa gauche jusqu’à ce que l’on voie la blancheur de sa joue, en disant : « Que la paix soit sur vous et la miséricorde d’Allah » deux fois. Abu Dawud a dit : Ceci est une version de la tradition rapportée par Abu Sufyan. La version d’Isra’il ne l’explique pas. Abu Dawud a dit : Cette tradition a été rapportée par Zubayr d’après Abu Ishaq et Yahya ibn Adam d’après Isra’il, d’après Abu Ishaq, d’après AbdurRahman ibn al-Aswad, d’après son père, d’après Alqamah, selon Abdullah ibn Mas'ud. Abu Dawud a dit : Shu'bah rejetait cette tradition, celle rapportée par Abu Ishaq comme venant du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 607
+			}
+		}
+	]
+}

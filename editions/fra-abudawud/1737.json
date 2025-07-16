@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1737,
+			"arabicnumber": 1737,
+			"text": "Ibn Umar رضي الله عنه a dit : Le Messager d’Allah ﷺ a désigné les lieux suivants pour mettre l’ihram : Dhul al-Hulaifah pour les gens de Médine, al-Juhfah pour les gens de Syrie, al-Qarn pour les gens de Najd, et j’ai appris qu’il a désigné Yalamlam pour les gens du Yémen",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1525) Sahih Muslim (1182)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 17
+			}
+		}
+	]
+}

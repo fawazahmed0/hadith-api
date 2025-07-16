@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"8": "The Chapters Regarding Zakat"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1783,
+				"hadithnumber_last": 1844,
+				"arabicnumber_first": 1783,
+				"arabicnumber_last": 1844
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1810,
+			"arabicnumber": 1810,
+			"text": "Rapporté par Abdullah bin Unais : Un jour, lui et Umar bin Khattab parlaient de la Sadaqah, et Umar bin Khattab a dit : « N’as-tu pas entendu le Messager d’Allah, quand il a parlé du Ghulul avec la Sadaqah, dire : “Celui qui vole un chameau ou un mouton de la Sadaqah, il sera amené en le portant le Jour de la Résurrection” ? » Abdullah bin Unais a dit : « Oui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 28
+			}
+		}
+	]
+}

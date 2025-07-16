@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 85,
+			"arabicnumber": 85,
+			"text": "Rapporté par ‘Alqamah : J’ai demandé à ‘Abd Allah ibn Mas'ud رضي الله عنه : « Lequel d’entre vous était avec le Messager d’Allah ﷺ la nuit où les djinns sont venus à lui ? » Il a répondu : « Aucun de nous n’était avec lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (450)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 85
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3440,
+			"arabicnumber": 3440,
+			"text": "Rapporté par Anas ibn Malik : Le Prophète ﷺ a dit : Un citadin ne doit pas vendre pour un homme du désert, même s’il est son frère ou son père. Abu Dawud a dit : Anas ibn Malik a dit : On disait : Un citadin ne doit pas vendre pour un homme du désert. Cette phrase a un sens large. Cela signifie que le citadin ne doit rien vendre ni rien acheter pour lui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 25
+			}
+		}
+	]
+}

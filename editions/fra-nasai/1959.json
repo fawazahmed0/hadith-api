@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1959,
+			"arabicnumber": 1959,
+			"text": "Rapporté par Zaid bin Khalid : Un homme est mort à Khaybar et le Messager d’Allah ﷺ a dit : « Priez pour votre compagnon ; il a volé dans le butin de guerre. » Nous avons fouillé ses affaires et trouvé quelques perles des Juifs qui ne valaient même pas deux dirhams",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 142
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3344,
+			"arabicnumber": 3344,
+			"text": "Rapporté par Abu Musa : Le Messager d’Allah ﷺ a dit : « Trois personnes recevront une double récompense : un homme qui a une esclave, l’éduque bien, lui enseigne bien, puis l’affranchit et l’épouse ; un esclave qui accomplit son devoir envers Allah et envers ses maîtres ; et un croyant parmi les Gens du Livre. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 149
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3859,
+			"arabicnumber": 3859,
+			"text": "Rapporté par Abu Kabshah al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de se faire saigner (cupping) sur le sommet de la tête et entre les épaules, et il disait : « Si quelqu’un fait sortir un peu de son sang, il ne souffrira pas même s’il ne prend aucun autre traitement. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 5
+			}
+		}
+	]
+}

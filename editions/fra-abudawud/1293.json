@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1293,
+			"arabicnumber": 1293,
+			"text": "Rapporté par ‘Aishah, épouse du Prophète ﷺ رضي الله عنها : Le Messager d’Allah ﷺ n’a jamais accompli la prière du Duha, mais moi je la fais. Le Messager d’Allah ﷺ renonçait à une action, même s’il aimait la faire, de peur que les gens ne la rendent obligatoire pour eux",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1128) Sahih Muslim (718)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 44
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"19": "Shares of Inheritance (Kitab Al-Fara'id)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2885,
+				"hadithnumber_last": 2927,
+				"arabicnumber_first": 2885,
+				"arabicnumber_last": 2927
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2898,
+			"arabicnumber": 2898,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Répartissez les biens entre ceux dont la part est fixée dans le Livre d’Allah, et ce qui reste après les parts prescrites revient au plus proche parent masculin. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6732) Sahih Muslim (1615)"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 14
+			}
+		}
+	]
+}

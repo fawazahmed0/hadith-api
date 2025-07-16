@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3085,
+			"arabicnumber": 3085,
+			"text": "Rapporté par Ibn 'Abbas : \"Quand le Prophète a été expulsé de La Mecque, Abu Bakr lui a dit : 'Ils ont chassé leur Prophète, certes, à Allah nous appartenons et à Lui nous retournons. Ils sont sûrement perdus.' Ensuite, il a été révélé : 'La permission de combattre est donnée à ceux qui sont attaqués, car ils ont été lésés ; et Allah est capable de leur donner la victoire.' C'est alors que j'ai compris qu'il y aurait des combats.\" Ibn 'Abbas a dit : \"C'est le premier verset révélé concernant le combat",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 1
+			}
+		}
+	]
+}

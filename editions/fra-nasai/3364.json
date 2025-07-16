@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3364,
+			"arabicnumber": 3364,
+			"text": "Rapporté par Salamah bin Al-Muhabbaq : Un homme a eu des rapports avec une esclave appartenant à sa femme, et il a été amené devant le Messager d’Allah ﷺ. Il a dit : « S’il l’a forcée, alors elle est libre à ses frais et il doit donner à sa maîtresse une autre esclave en remplacement. Si elle lui a obéi, alors elle appartient à sa maîtresse, et il doit aussi donner à sa maîtresse une autre esclave. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 169
+			}
+		}
+	]
+}

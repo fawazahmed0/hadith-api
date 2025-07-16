@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4463,
+			"arabicnumber": 4463,
+			"text": "Rapporté par Qays bin Abi Gharazah : Nous faisions du commerce sur les marchés de Médine et nous nous appelions les courtiers, et les gens nous appelaient ainsi. Mais le Messager d’Allah est venu vers nous et nous a appelés par un nom meilleur que celui que nous utilisions. Il a dit : « Ô commerçants ! La vente implique souvent des serments (faux) et des paroles inutiles, alors ajoutez-y un peu de charité. » (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 15
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 703,
+			"arabicnumber": 703,
+			"text": "Rapporté par Ubaidullah bin 'Abdullah, d’après 'Aishah et Ibn 'Abbas : Lorsque le Messager d’Allah (ﷺ) était sur son lit de mort, il avait un tissu (Khamisah) sur le visage. Quand la fièvre montait, il découvrait son visage. Dans cet état, il a dit : \"Qu’Allah maudisse les Juifs et les Chrétiens, car ils ont pris les tombes de leurs prophètes comme lieux de culte",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 16
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3646,
+			"arabicnumber": 3646,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As : J’écrivais tout ce que j’entendais du Messager d’Allah ﷺ, afin de le mémoriser. Les Quraysh m’ont interdit en disant : « Écris-tu tout ce que tu entends de lui alors que le Messager d’Allah ﷺ est un être humain : il parle dans la colère et dans la satisfaction ? » J’ai donc arrêté d’écrire, puis j’en ai parlé au Messager d’Allah ﷺ. Il a alors montré sa bouche du doigt et a dit : « Écris ! Par Celui qui détient mon âme dans Sa main, il n’en sort que la vérité. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 6
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 45,
+			"arabicnumber": 45,
+			"text": "Rapporté par Jabir bin 'Abdullah : Quand le Messager d'Allah (ﷺ) faisait un sermon, ses yeux devenaient rouges, il élevait la voix et parlait avec intensité, comme s'il avertissait d'une armée ennemie en disant : « Ils vont sûrement vous attaquer le matin, ou ils vont sûrement vous attaquer le soir ! » Il disait : « Moi et l'Heure avons été envoyés comme ces deux-là », et il montrait son index et son majeur. Puis il disait : « La meilleure des guidances est celle de Muhammad. Les choses les plus mauvaises sont celles qui sont inventées, et toute innovation (Bid'a) est un égarement. » Et il disait aussi : « Celui qui meurt en laissant des biens, ils sont pour sa famille, et celui qui laisse une dette ou des enfants à charge, alors ils sont sous ma responsabilité. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 45
+			}
+		}
+	]
+}

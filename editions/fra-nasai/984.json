@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 984,
+			"arabicnumber": 984,
+			"text": "Rapporté par Jabir : Un homme parmi les Ansar est passé devant Mu’adh qui dirigeait la prière du maghrib, alors qu’il commençait à réciter Al-Baqarah. Cet homme a donc prié puis est parti. La nouvelle est parvenue au Prophète (ﷺ) qui a dit : « Veux-tu rendre les choses difficiles pour les gens, ô Mu’adh ? Veux-tu rendre les choses difficiles pour les gens, ô Mu’adh ? Pourquoi ne récites-tu pas : “Glorifie le nom de ton Seigneur, le Très-Haut” et “Par le soleil et sa clarté” et des sourates semblables ? »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 109
+			}
+		}
+	]
+}

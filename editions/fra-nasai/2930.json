@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2930,
+			"arabicnumber": 2930,
+			"text": "Rapporté par Amr : J’ai entendu Ibn Umar dire – quand nous lui avons demandé au sujet d’un homme qui venait pour la Omra, faisait le Tawaf autour de la Maison, mais ne faisait pas le Sa’i entre As-Safa et Al-Marwah, pouvait-il avoir des rapports avec sa femme ? Il a répondu : « Lorsque le Messager d’Allah est venu, il a fait sept tours, a prié deux unités de prière derrière le Maqam, puis a fait le Sa’i entre As-Safa et Al-Marwah. Et vous avez le meilleur exemple dans le Messager d’Allah. » (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 313
+			}
+		}
+	]
+}

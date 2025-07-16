@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"10": "The Chapters on Divorce"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 2016,
+				"hadithnumber_last": 2477,
+				"arabicnumber_first": 2016,
+				"arabicnumber_last": 2477
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2073,
+			"arabicnumber": 2073,
+			"text": "Rapporté par Sa'id bin Jubair, d'après Ibn 'Abbas : \"Pour celui qui rend interdit, il s'agit d'un serment.\" (Sahih) Et Ibn 'Abbas disait : \"Vous avez le meilleur exemple dans le Messager d'Allah.\" (33:)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 58
+			}
+		}
+	]
+}

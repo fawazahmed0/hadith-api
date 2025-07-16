@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3338,
+			"arabicnumber": 3338,
+			"text": "Rapporté par Ibn Abi Rizmah : J’ai entendu mon père dire : Un homme a dit à Shu‘bah : « Sufyan t’a contredit (c’est-à-dire a rapporté un hadith différent du tien). » Il a répondu : « Tu m’as mis dans l’embarras. On m’a dit que Yahya ibn Ma‘in a dit : Si quelqu’un contredit Sufyan, la version de Sufyan sera acceptée. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 13
+			}
+		}
+	]
+}

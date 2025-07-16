@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 663,
+			"arabicnumber": 663,
+			"text": "Rapporté par Al-Nu’man ibn Bashir رضي الله عنه : Le Prophète ﷺ nous alignait dans les rangs de la prière comme on aligne une flèche, jusqu’à ce qu’il pense que nous avions appris et compris. Un jour, il s’est tourné vers nous, a mis les épaules en ordre et a dit : « Ne soyez pas désordonnés. » Et il disait : « Allah et Ses anges accordent leur bénédiction à ceux qui sont proches des premiers rangs. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (436)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 273
+			}
+		}
+	]
+}

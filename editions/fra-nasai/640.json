@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 640,
+			"arabicnumber": 640,
+			"text": "Rapporté par Khubaib bin 'Abdur-Rahman, d’après sa tante paternelle Unaisah : Le Messager d’Allah (ﷺ) a dit : « Quand Ibn Umm Maktum fait l’Adhan, mangez et buvez, et quand Bilal fait l’Adhan, ne mangez ni ne buvez. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 15
+			}
+		}
+	]
+}

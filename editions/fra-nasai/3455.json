@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3455,
+			"arabicnumber": 3455,
+			"text": "Rapporté par Ibn 'Abbas رضي الله عنه : Un matin, nous avons vu les épouses du Prophète ﷺ en train de pleurer, chacune accompagnée de sa famille. Je suis entré dans la mosquée et je l'ai trouvée remplie de gens. Puis 'Umar رضي الله عنه est arrivé et est allé voir le Prophète ﷺ qui était dans sa chambre. Il l'a salué, mais personne n'a répondu. Il a salué une deuxième fois, puis une troisième fois, sans réponse. Alors il est reparti et a appelé : \"Bilal !\" Il est allé voir le Prophète ﷺ et lui a demandé : \"As-tu divorcé de tes femmes ?\" Il répondit : \"Non, mais j'ai fait le serment de m'abstenir d'elles pendant un mois.\" Il s'est donc éloigné d'elles pendant vingt-neuf jours, puis il est revenu vers ses femmes",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 67
+			}
+		}
+	]
+}

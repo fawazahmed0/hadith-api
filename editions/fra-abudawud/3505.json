@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3505,
+			"arabicnumber": 3505,
+			"text": "Rapporté par Jabir ibn ‘Abdullah : J’ai vendu un chameau au Prophète ﷺ, mais j’ai posé la condition de pouvoir le monter jusqu’à chez moi. À la fin, le Prophète ﷺ m’a dit : « Penses-tu que j’ai conclu cette affaire avec toi pour te prendre ton chameau ? Prends ton chameau et son prix : les deux t’appartiennent. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2718) Sahih Muslim (715 After 1599)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 90
+			}
+		}
+	]
+}

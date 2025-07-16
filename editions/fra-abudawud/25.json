@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 25,
+			"arabicnumber": 25,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Prenez garde à deux choses qui provoquent les malédictions. » Ils ont demandé : « Ô Messager d’Allah ﷺ, quelles sont ces choses qui provoquent les malédictions ? » Il a répondu : « Faire ses besoins dans les points d’eau, sur les chemins, ou à l’ombre (des arbres) où les gens se reposent. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (269)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 25
+			}
+		}
+	]
+}

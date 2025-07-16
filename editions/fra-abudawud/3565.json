@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3565,
+			"arabicnumber": 3565,
+			"text": "Rapporté par Abu Umamah رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Allah, le Très-Haut, a attribué à chacun son droit, et il n’y a pas de testament pour un héritier. Une femme ne doit rien dépenser de sa maison sans la permission de son mari. » On lui demanda : « Même pour des céréales, Messager d’Allah ? » Il répondit : « C’est ce que nous avons de plus précieux. » Il ajouta : « Un prêt doit être remboursé, une chamelle prêtée pour la traite doit être rendue, une dette doit être acquittée, et celui qui se porte garant est responsable. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 150
+			}
+		}
+	]
+}

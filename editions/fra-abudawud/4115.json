@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4115,
+			"arabicnumber": 4115,
+			"text": "Rapporté par Umm Salamah (la mère des croyants) رضي الله عنها : Le Prophète ﷺ est venu lui rendre visite alors qu’elle était voilée, et il a dit : « Utilise un seul pan et non deux. » Abu Dawud a dit : « Utilise un seul pan et non deux » signifie : « Ne le plie pas comme le turban d’un homme. Ne le double pas en plusieurs épaisseurs. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 96
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3642,
+			"arabicnumber": 3642,
+			"text": "Rapporté par Shahr bin Hawshab, d'après Ibn Ghanm, qui a mentionné qu'Ibn Kharijah lui a dit qu'il avait vu le Messager d'Allah s'adresser aux gens du haut de sa monture, qui ruminait et dont la salive coulait. Le Messager d'Allah a dit dans son sermon : \"Allah a donné à chacun une part d'héritage, et il n'est pas permis de faire un legs à un héritier",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 32
+			}
+		}
+	]
+}

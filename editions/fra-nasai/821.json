@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 821,
+			"arabicnumber": 821,
+			"text": "Rapporté par 'Abdul Hamid bin Mahmud : Nous étions avec Anas et nous avons prié avec un des émirs. Ils nous ont poussés jusqu’à ce que nous nous retrouvions à prier entre deux rangs, et Anas a commencé à reculer en disant : « Nous évitions cela à l’époque du Messager d’Allah (ﷺ). »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 45
+			}
+		}
+	]
+}

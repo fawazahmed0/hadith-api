@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 246,
+			"arabicnumber": 246,
+			"text": "Rapporté par Abu Salamah bin 'Abdur-Rahman : 'Aïcha a décrit comment le Prophète (ﷺ) faisait le Ghusl après une souillure majeure. Elle a dit : \"Il se lavait les mains trois fois, puis versait de l'eau avec sa main droite sur sa main gauche et lavait sa partie intime et ce qu'il y avait dessus.\" – (Un des rapporteurs) 'Umar a dit : \"Je pense qu'il a dit : 'Il versait de l'eau avec sa main droite sur sa main gauche trois fois.'\" – \"Ensuite, il se rinçait la bouche trois fois et le nez trois fois, puis il se lavait le visage et les mains trois fois, puis il versait de l'eau sur sa tête trois fois, puis il versait de l'eau sur lui-même",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 247
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2303,
+			"arabicnumber": 2303,
+			"text": "Rapporté par Hamzah bin 'Amr : Il a dit au Messager d’Allah : « Je me sens capable de jeûner pendant le voyage ; est-ce un péché pour moi ? » Il a dit : « C’est une facilité accordée par Allah, le Puissant et le Sublime. Celui qui l’accepte fait bien, et celui qui veut jeûner, il n’y a pas de péché sur lui. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 214
+			}
+		}
+	]
+}

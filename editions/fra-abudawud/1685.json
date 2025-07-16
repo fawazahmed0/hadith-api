@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1685,
+			"arabicnumber": 1685,
+			"text": "Rapporté par A’ishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Quand une femme donne (une partie des biens) de la maison de son mari, sans gaspiller, elle aura la récompense de ce qu’elle a donné, et son mari aura la récompense de ce qu’il a gagné. Il en est de même pour un dépositaire. L’un ne diminue en rien la récompense de l’autre. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1425) Sahih Muslim (1024)"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 130
+			}
+		}
+	]
+}

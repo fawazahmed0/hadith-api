@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5188,
+			"arabicnumber": 5188,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Un homme est venu de Najran auprès du Messager d'Allah ﷺ. Il portait une bague en or, et le Messager d'Allah ﷺ s'est détourné de lui et a dit : \"Tu es venu à moi avec un morceau de braise sur ta main",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 149
+			}
+		}
+	]
+}

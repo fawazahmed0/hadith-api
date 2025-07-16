@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"30": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3904,
+				"hadithnumber_last": 3925,
+				"arabicnumber_first": 3904,
+				"arabicnumber_last": 3925
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3917,
+			"arabicnumber": 3917,
+			"text": "Rapporté par Abou Hourayra رضي الله عنه : Quand le Messager d’Allah ﷺ entendait une parole qui lui plaisait, il disait : « Nous avons pris ton présage de ta bouche. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 14
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3782,
+			"arabicnumber": 3782,
+			"text": "Rapporté par 'Abdur-Rahman bin Samurah : Le Messager d’Allah ﷺ a dit : « Si l’un de vous fait un serment, puis voit quelque chose de meilleur, qu’il offre une expiation pour son serment, regarde ce qui est meilleur et le fasse. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 22
+			}
+		}
+	]
+}

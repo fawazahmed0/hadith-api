@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4161,
+			"arabicnumber": 4161,
+			"text": "Rapporté par Anas : Le Messager d’Allah (ﷺ) est passé devant une construction en forme de dôme à la porte d’un homme parmi les Ansar et a dit : “Qu’est-ce que c’est ?” Ils ont répondu : “C’est un dôme construit par untel.” Le Messager d’Allah (ﷺ) a dit : “Toute richesse de ce genre (excessive) entraînera de mauvaises conséquences pour son propriétaire au Jour de la Résurrection.” La nouvelle est parvenue à l’Ansari, alors il l’a démolie. Plus tard, le Prophète (ﷺ) est repassé par là et ne l’a pas vue. Il a demandé ce qu’il était advenu et on lui a dit que son propriétaire l’avait démolie à cause de ce qu’il avait entendu de lui. Il a dit : “Qu’Allah lui fasse miséricorde, qu’Allah lui fasse miséricorde.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 62
+			}
+		}
+	]
+}

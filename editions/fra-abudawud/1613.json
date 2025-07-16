@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1613,
+			"arabicnumber": 1613,
+			"text": "Ibn ‘Umar a dit : Le Messager d’Allah ﷺ a prescrit la sadaqa à la fin du Ramadan : un sa’ d’orge ou de dattes sèches, à donner pour chaque jeune ou vieux, homme libre ou esclave. La version de Musa ajoute : « homme ou femme ». Abu Dawud a dit : Les mots « homme ou femme » ont été rapportés dans la version de Ayyub et ‘Abd Allah al-Umar, d’après Nafi’",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 58
+			}
+		}
+	]
+}

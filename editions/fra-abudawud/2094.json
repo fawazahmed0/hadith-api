@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2094,
+			"arabicnumber": 2094,
+			"text": "Ce même récit a aussi été transmis par Muhammad bin ‘Amr à travers une autre chaîne de rapporteurs. Cette version ajoute : « Si elle pleure ou garde le silence. » Le narrateur a ajouté le mot « pleure ». Abu Dawud a dit : « Le mot “pleure” n’est pas fiable. C’est une confusion du narrateur Ibn Idris ou Muhammad b. al-‘Ata. » Abu Dawud a dit : « Ce récit a aussi été rapporté par Abu ‘Amr Dhakwan d’après Aïcha رضي الله عنها qui a dit : “Une vierge a honte de parler, Messager d’Allah.” Il a dit : “Son silence est son acceptation.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 49
+			}
+		}
+	]
+}

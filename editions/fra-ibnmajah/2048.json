@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"10": "The Chapters on Divorce"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 2016,
+				"hadithnumber_last": 2477,
+				"arabicnumber_first": 2016,
+				"arabicnumber_last": 2477
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2048,
+			"arabicnumber": 2048,
+			"text": "Rapporté par Miswar bin Makharamah : Le Prophète (ﷺ) a dit : \"Il n'y a pas de divorce avant le mariage, ni d'affranchissement avant d'avoir la possession",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 33
+			}
+		}
+	]
+}

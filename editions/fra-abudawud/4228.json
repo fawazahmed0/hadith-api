@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4228,
+			"arabicnumber": 4228,
+			"text": "Nafi' a rapporté qu'Ibn 'Umar رضي الله عنه portait sa bague à la main gauche",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 15
+			}
+		}
+	]
+}

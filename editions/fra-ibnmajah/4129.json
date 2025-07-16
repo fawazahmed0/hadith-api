@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4129,
+			"arabicnumber": 4129,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri : Le Messager d’Allah (ﷺ) a dit : « Malheur aux plus riches, sauf à ceux qui utilisent leur argent de telle ou telle manière, et de telle ou telle manière » – en montrant à sa droite, à sa gauche, devant lui et derrière lui",
+			"grades": [
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 30
+			}
+		}
+	]
+}

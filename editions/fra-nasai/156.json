@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 156,
+			"arabicnumber": 156,
+			"text": "Rapporté par Al-Miqdad bin Al-Aswad que Ali lui a demandé de questionner le Messager d’Allah (ﷺ) au sujet d’un homme qui s’approche de sa femme et a une sécrétion prostatique : que doit-il faire ? (Ali a dit :) Sa fille est mariée avec moi et j’ai trop honte de lui demander. Alors j’ai posé la question au Messager d’Allah (ﷺ) et il a dit : « Si l’un d’entre vous vit cela, qu’il asperge d’eau sa partie intime et fasse les ablutions pour la prière. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 157
+			}
+		}
+	]
+}

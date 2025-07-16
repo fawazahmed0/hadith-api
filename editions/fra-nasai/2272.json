@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2272,
+			"arabicnumber": 2272,
+			"text": "Rapporté par Abu Qilabah, d'après Abu Umayyah Ad-Damri, qui lui a dit : Il est venu voir le Messager d'Allah ﷺ après un voyage et il jeûnait. Le Messager d'Allah ﷺ lui a dit : \"Ne veux-tu pas venir prendre un repas pour le petit-déjeuner ?\" Il a répondu : \"Je jeûne.\" Le Messager d'Allah ﷺ a dit : \"Viens, et je vais te parler du jeûne. Allah, le Puissant et le Sublime, a accordé la dispense du jeûne et de la moitié de la prière au voyageur",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 183
+			}
+		}
+	]
+}

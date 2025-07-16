@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1820,
+			"arabicnumber": 1820,
+			"text": "Cette tradition a aussi été rapportée par Ya‘la ibn Umayyah par une autre chaîne de transmetteurs. Cette version ajoute : Le Prophète ﷺ lui dit : « Enlève ta tunique. » Il l’a alors retirée par la tête. Le rapporteur a ensuite raconté le reste de la tradition",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 100
+			}
+		}
+	]
+}

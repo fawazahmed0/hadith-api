@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"32": "Chapters on Dress"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3550,
+				"hadithnumber_last": 3656,
+				"arabicnumber_first": 3550,
+				"arabicnumber_last": 3656
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3599,
+			"arabicnumber": 3599,
+			"text": "Rapporté par Bara’ : Je n’ai jamais vu quelqu’un de plus beau que le Messager d’Allah (ﷺ), avec ses cheveux coiffés, portant un ensemble rouge",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 50
+			}
+		}
+	]
+}

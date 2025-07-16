@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3209,
+			"arabicnumber": 3209,
+			"text": "Rapporté par Amir : Ali, Fadl et Usamah ibn Zayd ont lavé le Messager d’Allah ﷺ et l’ont mis dans sa tombe. Marhab ou Ibn Abu Marhab m’a dit qu’ils ont aussi fait participer AbdurRahman ibn Awf. Quand Ali eut terminé, il dit : « Les proches de la personne s’occupent de lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 121
+			}
+		}
+	]
+}

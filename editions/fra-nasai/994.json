@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 994,
+			"arabicnumber": 994,
+			"text": "Rapporté par Ubaid bin Hunain, l’affranchi de la famille de Zaib bin Al-Khattab : J’ai entendu Abu Hurairah dire : « Je suis revenu (d’un voyage) avec le Messager d’Allah (ﷺ) et il a entendu un homme réciter : “Dis : Il est Allah, l’Unique, Allah-us-Samad (Le Maître Absolu). Il n’a pas engendré et n’a pas été engendré. Et nul n’est égal à Lui.” Le Messager d’Allah (ﷺ) a dit : “C’est garanti.” Nous lui avons demandé : “Quoi, ô Messager d’Allah ?” Il a répondu : “Le Paradis.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 119
+			}
+		}
+	]
+}

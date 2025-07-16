@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3499,
+			"arabicnumber": 3499,
+			"text": "Rapporté par Ibn ‘Abbas au sujet de la parole d’Allah : \"Tout verset (révélation) que Nous abrogeons ou faisons oublier, Nous en apportons un meilleur ou un semblable.\" Et Il a dit : \"Et quand Nous remplaçons un verset par un autre – et Allah sait mieux ce qu’Il fait descendre.\" Et Il a dit : \"Allah efface ce qu’Il veut et confirme (ce qu’Il veut). Et auprès de Lui se trouve la Mère du Livre.\" \"La première chose qui a été abrogée dans le Coran était la Qiblah.\" Et Il a dit : \"Les femmes divorcées doivent attendre trois cycles menstruels.\" Et Il a dit : \"Et celles de vos femmes qui n’ont plus de règles, leur ‘iddah, si vous doutez, est de trois mois.\" Donc, une partie de cela a été abrogée, selon Sa parole, le Très-Haut : \"Et si vous divorcez d’elles avant d’avoir eu des rapports, alors il n’y a pas de ‘iddah à compter pour elles",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 111
+			}
+		}
+	]
+}

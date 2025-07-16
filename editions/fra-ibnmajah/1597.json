@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1597,
+			"arabicnumber": 1597,
+			"text": "Rapporté par Abu Umamah : Le Prophète (ﷺ) a dit : « Allah dit : “Ô fils d’Adam ! Si tu fais preuve de patience et cherches la récompense au moment du premier choc, Je ne t’accorderai pas de récompense moindre que le Paradis.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 165
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 728,
+			"arabicnumber": 728,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a vu de la salive dans la direction de la Qibla de la mosquée, et il est devenu si en colère que son visage est devenu rouge. Ensuite, une femme des Ansar est allée gratter la salive et a mis du parfum à cet endroit. Le Messager d’Allah (ﷺ) a dit : \"Comme c’est bien",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 41
+			}
+		}
+	]
+}

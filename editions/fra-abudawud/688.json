@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 688,
+			"arabicnumber": 688,
+			"text": "Abu Juhaifah رضي الله عنه a dit : Le Prophète ﷺ a dirigé la prière pour eux à al-Batha’, avec un bâton planté devant lui. Il a accompli deux unités de prière du zuhr et deux unités de l’asr. Les femmes et les ânes passaient devant le bâton",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (495) Sahih Muslim (503)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 298
+			}
+		}
+	]
+}

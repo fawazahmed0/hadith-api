@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2918,
+			"arabicnumber": 2918,
+			"text": "Rapporté par Muhammad bin Abdullah bin As-Saib, d’après son père : Il avait l’habitude de diriger Ibn Abbas et de le faire se tenir du côté de la Kaaba, près de l’angle qui est à côté de la pierre, entre la pierre et la porte. Ibn Abbas a dit : \"As-tu entendu que le Messager d’Allah ﷺ priait ici ?\" Il a répondu : \"Oui.\" Alors il s’est avancé et a prié",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 301
+			}
+		}
+	]
+}

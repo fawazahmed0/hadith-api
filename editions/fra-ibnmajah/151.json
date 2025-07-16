@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 151,
+			"arabicnumber": 151,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah ﷺ a dit : « J’ai été éprouvé pour Allah comme personne d’autre ne l’a été, et j’ai ressenti la peur pour Allah comme personne d’autre ne l’a ressentie. J’ai passé trois jours avec Bilal sans avoir de nourriture, à part ce que Bilal pouvait cacher sous son aisselle. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 151
+			}
+		}
+	]
+}

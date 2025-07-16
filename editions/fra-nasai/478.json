@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 478,
+			"arabicnumber": 478,
+			"text": "Rapporté par Irak bin Malik : Nawfal bin Mu'awiyah lui a dit qu'il avait entendu le Messager d'Allah (ﷺ) dire : \"Celui qui manque la prière du 'Asr, c'est comme s'il avait perdu sa famille et ses biens.\" 'Irak a dit : \"'Abdullah bin 'Umar m'a informé qu'il avait entendu le Messager d'Allah (ﷺ) dire : \"Celui qui manque la prière du 'Asr, c'est comme s'il avait perdu sa famille et ses biens.\" Yazid bin Abi Habib l'a contredit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 31
+			}
+		}
+	]
+}

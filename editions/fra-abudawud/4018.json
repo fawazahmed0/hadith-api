@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"33": "Hot Baths (Kitab Al-Hammam)"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 4009,
+				"hadithnumber_last": 4019,
+				"arabicnumber_first": 4009,
+				"arabicnumber_last": 4019
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4018,
+			"arabicnumber": 4018,
+			"text": "Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Prophète ﷺ a dit : « Un homme ne doit pas regarder l’intimité d’un autre homme, et une femme ne doit pas regarder l’intimité d’une autre femme. Un homme ne doit pas s’allonger avec un autre homme sous une même couverture sans porter de vêtement couvrant le bas du corps ; et une femme ne doit pas s’allonger avec une autre femme sous une même couverture sans porter de vêtement couvrant le bas du corps. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (338)"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 10
+			}
+		}
+	]
+}

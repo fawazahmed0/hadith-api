@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"47": "The Book Of Faith and its Signs"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 4985,
+				"hadithnumber_last": 5039,
+				"arabicnumber_first": 4985,
+				"arabicnumber_last": 5039
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5017,
+			"arabicnumber": 5017,
+			"text": "Rapporté par Anas : Le Messager d’Allah ﷺ a dit : « Par Celui qui détient l’âme de Muhammad dans Sa main, aucun de vous n’a la foi tant qu’il n’aime pas pour son frère ce qu’il aime pour lui-même en bien. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 33
+			}
+		}
+	]
+}

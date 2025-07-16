@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"17": "The Book of Praying for Rain (Al-Istisqa')"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 1504,
+				"hadithnumber_last": 1528,
+				"arabicnumber_first": 1504,
+				"arabicnumber_last": 1528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1522,
+			"arabicnumber": 1522,
+			"text": "Rapporté par 'Abbad bin Tamim, de son oncle paternel : Le Prophète (ﷺ) est sorti et a prié pour la pluie, puis il a prié deux rak‘as dans lesquelles il a récité à voix haute",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 19
+			}
+		}
+	]
+}

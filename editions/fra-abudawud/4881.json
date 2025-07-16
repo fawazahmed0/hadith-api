@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4881,
+			"arabicnumber": 4881,
+			"text": "Rapporté par Al-Mustawrid : Le Prophète ﷺ a dit : « Si quelqu’un mange une seule fois au détriment de l’honneur d’un musulman, Allah lui donnera à manger une part équivalente de l’Enfer. Si quelqu’un s’habille au détriment de l’honneur d’un musulman, Allah l’habillera d’une part équivalente de l’Enfer. Et si quelqu’un recherche la réputation et l’apparence, Allah l’humiliera publiquement le Jour de la Résurrection. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 109
+			}
+		}
+	]
+}

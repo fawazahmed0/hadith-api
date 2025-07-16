@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1277,
+			"arabicnumber": 1277,
+			"text": "Rapporté par Ibn Mas'ud : Avant que le tashahhud ne soit prescrit, lorsque nous priions, nous avions l'habitude de dire : \"Que la paix soit sur Allah (SWT), que la paix soit sur Jibril, que la paix soit sur Mika'il.\" Le Messager d'Allah (ﷺ) a dit : \"Ne dites pas cela, car en vérité Allah (SWT), le Puissant et Majestueux, est As-Salam. Dites plutôt : 'At-tahiyyatu lillahi wasalawatu wat-tayibaat, as-salamu 'alaika ayah-Nabiyyu wa rahmatAllahi wa baraktuhu. As-salamu 'alaina wa 'ala ibad illahis-salihin, ashadu an la ilaha ill Allah, wa ashhadu anna Muhammadan 'abduhu wa rasuluhu.' (Toutes les salutations, prières et bonnes paroles appartiennent à Allah. Que la paix soit sur toi, ô Prophète, ainsi que la miséricorde d'Allah et Ses bénédictions. Que la paix soit sur nous et sur les pieux serviteurs d'Allah. J'atteste qu'il n'y a pas d'autre divinité qu'Allah, et j'atteste que Muhammad est Son serviteur et Son messager)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 99
+			}
+		}
+	]
+}

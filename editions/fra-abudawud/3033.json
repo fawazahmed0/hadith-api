@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3033,
+			"arabicnumber": 3033,
+			"text": "Sa’id ibn Abd Al ‘Aziz a dit : « L’Arabie s’étend d’Al Wadi jusqu’aux confins du Yémen, jusqu’aux frontières de l’Irak et à la mer. » Abu Dawud a dit : « Cette tradition a été lue à Al Harith ibn Miskin en ma présence. » Ashhab ibn ‘Abd Al Aziz vous l’a rapportée d’après Malik, qui a dit que ‘Umar a expulsé les gens de Najran, mais pas ceux de Taima, car cette ville ne faisait pas partie du territoire de l’Arabie. Quant à Al Wadi, je pense que les Juifs n’en ont pas été expulsés. Ils ne considéraient pas cet endroit comme faisant partie de l’Arabie",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 106
+			}
+		}
+	]
+}

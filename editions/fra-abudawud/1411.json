@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"7": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1401,
+				"hadithnumber_last": 1415,
+				"arabicnumber_first": 1401,
+				"arabicnumber_last": 1415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1411,
+			"arabicnumber": 1411,
+			"text": "Rapporté par Abdullah ibn Umar : L’année de la Conquête, le Messager d’Allah ﷺ a récité un verset où il fallait se prosterner et tout le monde s’est prosterné. Certains étaient à cheval, d’autres au sol, et ceux qui étaient à cheval se sont prosternés sur leurs mains",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 11
+			}
+		}
+	]
+}

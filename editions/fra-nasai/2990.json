@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2990,
+			"arabicnumber": 2990,
+			"text": "Rapporté par Aïcha : Nous sommes sortis avec le Messager d’Allah ﷺ sans autre intention que le Hajj. Quand il eut fait le tour de la Maison et le Sa’i entre As-Safa et Al-Marwah, il a dit : « Celui qui a un Hadi avec lui, qu’il reste en état d’Ihram, et celui qui n’a pas de Hadi, qu’il sorte de l’Ihram. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 373
+			}
+		}
+	]
+}

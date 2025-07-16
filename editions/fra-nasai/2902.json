@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2902,
+			"arabicnumber": 2902,
+			"text": "Rapporté par Al-Aswad : La Mère des Croyants a dit : \"Le Messager d’Allah ﷺ a dit : 'Si ce n’était pas parce que mon peuple' – selon la version de Muhammad, il a dit : 'ton peuple' – 'vient juste de quitter la période de l’ignorance, j’aurais démoli la Maison et je lui aurais donné deux portes.'\" Quand Ibn Az-Zubair était au pouvoir, il lui a donné deux portes",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 285
+			}
+		}
+	]
+}

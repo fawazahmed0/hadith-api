@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3524,
+			"arabicnumber": 3524,
+			"text": "Rapporté par Amir ash-Sha’bi : Le Prophète ﷺ a dit : « Si quelqu’un trouve un animal dont les propriétaires n’avaient plus les moyens de le nourrir et l’ont donc abandonné, et qu’il le prend et s’en occupe, cet animal lui appartient. » Abu Dawud a dit : Ceci est la version de Hammad, elle est plus claire et plus complète",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 109
+			}
+		}
+	]
+}

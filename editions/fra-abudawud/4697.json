@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4697,
+			"arabicnumber": 4697,
+			"text": "La tradition ci-dessus a aussi été transmise par Ibn Ya’mur, avec des ajouts et des omissions, par une autre chaîne de rapporteurs. Cette version ajoute : Il a demandé : « Qu’est-ce que l’Islam ? » Il a répondu : « C’est accomplir la prière, donner la zakat, faire le Hajj, jeûner pendant Ramadan, et prendre un bain rituel en cas d’impureté majeure. » Abu Dawud a dit : « ‘Alqamah était un Murji’i. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 102
+			}
+		}
+	]
+}

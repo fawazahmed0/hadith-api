@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4220,
+			"arabicnumber": 4220,
+			"text": "Rapporté par Abu Dharr : Le Messager d’Allah (ﷺ) a dit : « Je connais une parole – (l’un des rapporteurs, ‘Uthman, a dit : “un verset”) – qui, si tout le monde la suivait, leur suffirait. » Ils ont demandé : « Ô Messager d’Allah, quel est ce verset ? » Il a dit : « Et quiconque craint Allah, Il lui donnera une issue. » [65:]",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 121
+			}
+		}
+	]
+}

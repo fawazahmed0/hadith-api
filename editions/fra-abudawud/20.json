@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 20,
+			"arabicnumber": 20,
+			"text": "Rapporté par Ibn ‘Abbas : Le Prophète ﷺ est passé devant deux tombes et a dit : « Les deux personnes qui sont là sont punies, mais pas pour un grand péché. L’une ne se protégeait pas de l’urine, l’autre colportait des propos. » Il a ensuite demandé une branche fraîche, l’a coupée en deux et a planté une moitié sur chaque tombe, puis a dit : « Peut-être que leur châtiment sera allégé tant que ces branches resteront fraîches. » Une autre version de Hannad dit : « L’un d’eux ne se couvrait pas en urinant. » Cette version ne contient pas les mots : « Il ne se protégeait pas de l’urine. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6052) Sahih Muslim (292)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 20
+			}
+		}
+	]
+}

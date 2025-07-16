@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3045,
+			"arabicnumber": 3045,
+			"text": "‘Urwa ibn Al Zubair a dit : « Hisham ibn Halim ibn Hizam a vu un gouverneur de Hims faire tenir debout des Coptes en plein soleil pour le paiement de la jizyah. Il a dit : “Qu’est-ce que c’est ? J’ai entendu l’Envoyé ﷺ dire : ‘Allah, le Très-Haut, punira ceux qui punissent les gens dans ce monde.’” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (2613)"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 118
+			}
+		}
+	]
+}

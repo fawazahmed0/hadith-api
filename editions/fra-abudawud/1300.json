@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1300,
+			"arabicnumber": 1300,
+			"text": "Rapporté par Ka‘b ibn Ujrah رضي الله عنه : Le Prophète ﷺ est venu à la mosquée des Banu AbdulAshhal. Il a accompli la prière du Maghrib là-bas. Lorsqu’ils ont terminé la prière, il les a vus accomplir la prière surérogatoire après celle-ci. Il a dit : « C’est la prière à accomplir dans les maisons. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 51
+			}
+		}
+	]
+}

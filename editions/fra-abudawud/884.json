@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 884,
+			"arabicnumber": 884,
+			"text": "Rapporté par Musa b. Abi ‘A’ishah : Un homme avait l’habitude de prier sur le toit de sa maison. Lorsqu’il récitait le verset : « N’est-Il pas capable de redonner la vie aux morts ? » [Sourate al-Qiyamah : 42], il disait : « Gloire à Toi, alors pourquoi pas ? » On l’a interrogé à ce sujet, et il a répondu : « Je l’ai entendu du Messager d’Allah ﷺ. » Abu Dawud a dit : Ahmad (b. Hanbal) a dit : J’aime que l’on récite dans la prière obligatoire les invocations qui se trouvent dans le Coran",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 494
+			}
+		}
+	]
+}

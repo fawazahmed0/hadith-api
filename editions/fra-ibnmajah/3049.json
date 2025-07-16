@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3049,
+			"arabicnumber": 3049,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) n’a jamais été interrogé sur quelqu’un qui aurait fait une chose avant une autre sans qu’il ne fasse un geste de la main pour dire : « Il n’y a pas de mal à cela. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 168
+			}
+		}
+	]
+}

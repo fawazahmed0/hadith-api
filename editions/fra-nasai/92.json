@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 92,
+			"arabicnumber": 92,
+			"text": "Rapporté par 'Abd Khair : Nous sommes venus voir 'Ali bin Abi Talib, que Allah l'agrée, et il avait déjà prié. Il a demandé de l'eau et nous avons dit : \"Pourquoi en a-t-il besoin alors qu'il a déjà prié ? Il veut seulement nous enseigner.\" Un récipient d'eau et une bassine lui ont été apportés. Il a versé un peu d'eau sur sa main et l'a lavée trois fois, puis il s'est rincé la bouche et le nez trois fois avec la main avec laquelle il avait pris l'eau. Ensuite, il a lavé son visage trois fois, puis sa main droite trois fois, puis la gauche trois fois, puis il a essuyé sa tête une fois, puis il a lavé son pied droit trois fois et le gauche trois fois. Ensuite, il a dit : \"Celui qui veut apprendre comment le Messager d'Allah (ﷺ) faisait les ablutions, c'est ainsi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 92
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3620,
+			"arabicnumber": 3620,
+			"text": "Rapporté par Talha : « J’ai demandé à Ibn Abi Awfa : “Le Messager d’Allah ﷺ a-t-il laissé un testament ?” Il répondit : “Non.” J’ai dit : “Comment se fait-il alors qu’il soit prescrit aux musulmans de faire un testament ?” Il répondit : “Il a laissé des recommandations pour que les musulmans s’attachent au Livre d’Allah.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 10
+			}
+		}
+	]
+}

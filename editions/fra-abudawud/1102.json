@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1102,
+			"arabicnumber": 1102,
+			"text": "Rapporté par Umrah d’après sa sœur : J’ai mémorisé la sourate Qaf en l’entendant de la bouche du Messager d’Allah ﷺ ; il la récitait chaque vendredi. Abu Dawud a dit : Ce récit a été transmis de façon similaire par Yahya ibn Ayyub, Ibn Abu Ar-Rijal, de Yahya ibn Sa’id, de ‘Umrah, de Umm Hisham bint Harithah ibn al-Nu’man",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (872)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 713
+			}
+		}
+	]
+}

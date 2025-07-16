@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 641,
+			"arabicnumber": 641,
+			"text": "Rapporté par Aishah, la mère des croyants رضي الله عنها : Le Prophète ﷺ a dit : « Allah n’accepte pas la prière d’une femme qui a atteint la puberté si elle ne porte pas de voile. » Abu Dawud a dit : Ce récit a aussi été rapporté par Sa’id ibn Abi ‘Arubah, d’après Qatadah, de la part d’al-Hasan, du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 251
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"20": "The Chapters on Legal Punishments"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2533,
+				"hadithnumber_last": 2614,
+				"arabicnumber_first": 2533,
+				"arabicnumber_last": 2614
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2542,
+			"arabicnumber": 2542,
+			"text": "Rapporté par 'Abdul-Malik bin 'Umair : J’ai entendu 'Atiyyah Al-Qurazi dire : “Je suis encore parmi vous.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 10
+			}
+		}
+	]
+}

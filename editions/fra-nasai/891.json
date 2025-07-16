@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 891,
+			"arabicnumber": 891,
+			"text": "Rapporté par Ziyad bin Subaih : J’ai prié à côté d’Ibn Umar et j’ai mis ma main sur ma taille, et il m’a frappé la main. Quand j’ai fini de prier, j’ai demandé à un homme : « Qui est-ce ? » Il a répondu : « Abdullah bin Umar. » J’ai dit : « Ô Abu Abdur-Rahman, pourquoi es-tu fâché contre moi ? » Il a dit : « C’est la posture de la crucifixion, et le Messager d’Allah (ﷺ) nous a interdit de faire cela. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 16
+			}
+		}
+	]
+}

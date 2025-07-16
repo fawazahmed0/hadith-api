@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"27": "Chapters on Slaughtering"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3162,
+				"hadithnumber_last": 3199,
+				"arabicnumber_first": 3162,
+				"arabicnumber_last": 3199
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3185,
+			"arabicnumber": 3185,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri : Le Messager d’Allah (ﷺ) a interdit de mutiler les animaux",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 24
+			}
+		}
+	]
+}

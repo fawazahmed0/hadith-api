@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4197,
+			"arabicnumber": 4197,
+			"text": "Rapporté par ‘Abdullah bin Mas’ud : Le Messager d’Allah (ﷺ) a dit : \"Il n’y a pas de croyant qui verse des larmes, même si elles sont aussi petites que la tête d’une mouche, par crainte d’Allah et qu’elles coulent sur ses joues, sans qu’Allah ne lui interdise l’Enfer",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 98
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1850,
+			"arabicnumber": 1850,
+			"text": "Rapporté par Ibn ‘Abbas رضي الله عنه : Il a dit à Zayd ibn ‘Arqam : « Sais-tu qu’un morceau de gibier a été présenté à l’Envoyé d’Allah ﷺ, mais il ne l’a pas accepté. » Il a dit : « Nous sommes en état de sacralisation (ihram). » Il a répondu : « Oui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 130
+			}
+		}
+	]
+}

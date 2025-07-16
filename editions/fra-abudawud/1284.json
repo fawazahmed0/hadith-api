@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1284,
+			"arabicnumber": 1284,
+			"text": "Rapporté par Tawus : On a demandé à Ibn ‘Umar رضي الله عنه au sujet de la prière de deux rak‘as avant la prière du Maghrib. Il a répondu : « Je n’ai vu personne les accomplir à l’époque du Messager d’Allah ﷺ. » (Ibn ‘Umar) a permis de prier deux rak‘as après la prière du ‘Asr. Abu Dawud a dit : J’ai entendu Yahya ibn Ma‘in dire : Le nom correct du rapporteur Abu Shu‘aib est Shu‘aib. Shu‘bah s’est trompé en rapportant son nom",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 35
+			}
+		}
+	]
+}

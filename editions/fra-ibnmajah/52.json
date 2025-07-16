@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 52,
+			"arabicnumber": 52,
+			"text": "Rapporté par 'Abdullah bin 'Amr bin 'As : Le Messager d’Allah (ﷺ) a dit : \"Allah ne retire pas la connaissance en l’enlevant des cœurs des gens, mais Il la retire en faisant disparaître les savants. Quand il ne restera plus de savants, les gens prendront des ignorants comme chefs. On leur posera des questions et ils donneront des avis sans connaissance, alors ils s’égareront et égareront les autres",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 52
+			}
+		}
+	]
+}

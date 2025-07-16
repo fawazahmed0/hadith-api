@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"16": "The Chapters on Pawning"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2436,
+				"hadithnumber_last": 2491,
+				"arabicnumber_first": 2436,
+				"arabicnumber_last": 2491
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2481,
+			"arabicnumber": 2481,
+			"text": "Rapporté par Tha'labah bin Abu Malik : Le Messager d'Allah (ﷺ) a statué au sujet du ruisseau de Mahzur que les terrains en hauteur devaient être irrigués avant ceux en contrebas, jusqu'à ce que l'eau atteigne les chevilles, puis elle devait être relâchée vers les terrains plus bas",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 46
+			}
+		}
+	]
+}

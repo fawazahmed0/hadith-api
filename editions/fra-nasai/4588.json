@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4588,
+			"arabicnumber": 4588,
+			"text": "Rapporté par Saeed bin Jubair : Un récit similaire a été rapporté de Saeed bin Jubair. Abu 'Abdur-Rehman (An-Nasai) a dit : « C’est ce que j’ai trouvé sur ce sujet. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 140
+			}
+		}
+	]
+}

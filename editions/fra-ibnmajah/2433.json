@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"15": "The Chapters on Charity"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2390,
+				"hadithnumber_last": 2528,
+				"arabicnumber_first": 2390,
+				"arabicnumber_last": 2528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2433,
+			"arabicnumber": 2433,
+			"text": "Rapporté par Sa'd bin Atwal : Son frère est décédé en laissant trois cents dirhams et des personnes à charge. « Je voulais utiliser (son argent) pour ses proches, mais le Prophète (ﷺ) a dit : “Ton frère est retenu à cause de sa dette, alors rembourse-la pour lui.” » Il a dit : « Ô Messager d’Allah (ﷺ), j’ai tout remboursé sauf deux dinars qu’une femme réclame sans preuve. » Il a dit : « Donne-les-lui, car elle dit la vérité. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 44
+			}
+		}
+	]
+}

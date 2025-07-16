@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3873,
+			"arabicnumber": 3873,
+			"text": "Rapporté par Tariq ibn Suwayd ou Suwayd ibn Tariq رضي الله عنه : Wa’il a dit : Tariq ibn Suwayd ou Suwayd ibn Tariq a interrogé le Prophète ﷺ au sujet du vin, mais il le lui a interdit. Il l’a questionné à nouveau, mais il le lui a encore interdit. Il lui dit : « Ô Prophète d’Allah, c’est un médicament. » Le Prophète ﷺ répondit : « Non, c’est une maladie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1984)"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 19
+			}
+		}
+	]
+}

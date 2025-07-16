@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1611,
+			"arabicnumber": 1611,
+			"text": "Ibn ‘Umar a dit : Le Messager d’Allah ﷺ a prescrit comme zakat, pour l’esclave et l’homme libre, l’homme et la femme parmi les musulmans, à la fin du jeûne de Ramadan, un sa’ de dattes sèches ou un sa’ d’orge. (Cette tradition a été lue par ‘Abd Allah ibn Maslamah à Malik)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1504) Sahih Muslim (984)"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 56
+			}
+		}
+	]
+}

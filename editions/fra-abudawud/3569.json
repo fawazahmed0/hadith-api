@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3569,
+			"arabicnumber": 3569,
+			"text": "Rapporté par Muhayyisah رضي الله عنه : La chamelle de Bara' ibn Azib est entrée dans le jardin d’un homme et y a causé des dégâts. Le Messager d’Allah ﷺ a jugé que les propriétaires de biens doivent les surveiller le jour, et les propriétaires d’animaux doivent surveiller leurs bêtes la nuit",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 154
+			}
+		}
+	]
+}

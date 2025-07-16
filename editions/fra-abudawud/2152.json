@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2152,
+			"arabicnumber": 2152,
+			"text": "Rapporté par Ibn ‘Abbas رضي الله عنه : « Je n’ai rien vu qui ressemble plus aux petits péchés que ce qu’Abu Huraira رضي الله عنه a rapporté du Prophète ﷺ, qui a dit : “Allah a décrété pour les enfants d’Adam une part d’adultère, qu’il atteindra d’une manière ou d’une autre. L’adultère des yeux, c’est le regard ; l’adultère de la langue, c’est la parole ; l’âme désire et a une passion ; les parties intimes confirment ou démentent cela.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6243) Sahih Muslim (2657)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 107
+			}
+		}
+	]
+}

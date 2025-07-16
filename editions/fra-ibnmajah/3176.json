@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"27": "Chapters on Slaughtering"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3162,
+				"hadithnumber_last": 3199,
+				"arabicnumber_first": 3162,
+				"arabicnumber_last": 3199
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3176,
+			"arabicnumber": 3176,
+			"text": "Rapporté par Zaid bin Thabit : Un loup a mordu une brebis, et ils l’ont sacrifiée avec une pierre tranchante, et le Messager d’Allah (ﷺ) leur a permis de la manger",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 15
+			}
+		}
+	]
+}

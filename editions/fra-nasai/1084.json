@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1084,
+			"arabicnumber": 1084,
+			"text": "Rapporté par Abu Bushr : \"J’ai entendu Yusuf – c’est-à-dire Ibn Mahak – raconter que Hakim a dit : 'J’ai donné mon allégeance au Messager d’Allah (ﷺ), en promettant que je ne me prosternerais qu’après m’être relevé de l’inclinaison",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 56
+			}
+		}
+	]
+}

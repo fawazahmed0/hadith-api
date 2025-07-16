@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 812,
+			"arabicnumber": 812,
+			"text": "Rapporté par Marwan ibn al-Hakam : Zayd ibn Thabit m’a demandé : Pourquoi récites-tu de courtes sourates pendant la prière du coucher du soleil ? J’ai vu le Messager d’Allah ﷺ réciter deux longues sourates à cette prière. Je lui ai demandé : Quelles sont ces deux longues sourates ? Il a répondu : Al-A’raf (sourate 7) et al-An’am (sourate 6). (Le narrateur Ibn Juraij) a demandé à Ibn Mulaikah à propos de ces sourates : Il a dit de lui-même : Al-Ma’idah (sourate 5) et al-A’raf (sourate)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (764)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 422
+			}
+		}
+	]
+}

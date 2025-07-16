@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4403,
+			"arabicnumber": 4403,
+			"text": "Rapporté par Ali ibn AbuTalib رضي الله عنه : Le Prophète ﷺ a dit : « Il y a trois personnes dont les actes ne sont pas inscrits : une personne qui dort jusqu’à son réveil, un garçon jusqu’à ce qu’il atteigne la puberté, et une personne folle jusqu’à ce qu’elle retrouve la raison. » Abu Dawud a dit : Ibn Juraij l’a transmis d’Al-Qasim b. Yazid d’après ‘Ali du Prophète ﷺ. Cette version ajoute : « et un vieil homme qui a perdu la raison. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 53
+			}
+		}
+	]
+}

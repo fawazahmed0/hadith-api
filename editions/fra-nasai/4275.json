@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4275,
+			"arabicnumber": 4275,
+			"text": "Rapporté par 'Adiyy bin Hatim At-Tai : Il a demandé au Messager d’Allah ﷺ au sujet de la chasse. Il a dit : \"Si tu lâches ton chien et que tu prononces le nom d’Allah sur lui, et qu’il tue la proie sans en avoir mangé, alors mange. Mais s’il en a mangé, alors ne mange pas, car il l’a attrapée pour lui-même, pas pour toi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 13
+			}
+		}
+	]
+}

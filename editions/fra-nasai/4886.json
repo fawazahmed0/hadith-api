@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"46": "The Book of Cutting off the Hand of the Thief"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 4870,
+				"hadithnumber_last": 4984,
+				"arabicnumber_first": 4870,
+				"arabicnumber_last": 4984
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4886,
+			"arabicnumber": 4886,
+			"text": "Rapporté par 'Amr bin Shu'aib, de son père, de 'Abdullah bin 'Amr : Le Messager d'Allah a dit : \"Pardonnez entre vous les affaires qui pourraient mériter une peine légale (Hadd), car une fois que cela m'est rapporté, la peine devient obligatoire.\" (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 46,
+				"hadith": 17
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"14": "The Book of Jumu'ah (Friday Prayer)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 1367,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 1367,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1384,
+			"arabicnumber": 1384,
+			"text": "Rapporté par Abu Al-Ash'ath : Il a entendu Aws bin Aws, compagnon du Messager d'Allah (ﷺ), dire : \"Le Messager d'Allah (ﷺ) a dit : 'Celui qui fait le ghusl le vendredi et lave (Ghassala), arrive tôt à la mosquée à pied, s'assoit près de l'imam, écoute attentivement et ne parle pas inutilement, aura pour chaque pas la récompense d'une année de bonnes actions",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 21
+			}
+		}
+	]
+}

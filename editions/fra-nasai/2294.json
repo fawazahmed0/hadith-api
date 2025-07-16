@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2294,
+			"arabicnumber": 2294,
+			"text": "Rapporté par Hamza bin 'Amr Al-Aslami : Il a interrogé le Messager d’Allah ﷺ au sujet du jeûne en voyage. Il a dit : \"Si...\" puis il a dit quelque chose qui signifie : \"Si tu veux, alors jeûne, et si tu veux, alors ne jeûne pas",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 205
+			}
+		}
+	]
+}

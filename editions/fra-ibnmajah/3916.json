@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"35": "Interpretation of Dreams"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3893,
+				"hadithnumber_last": 3926,
+				"arabicnumber_first": 3893,
+				"arabicnumber_last": 3926
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3916,
+			"arabicnumber": 3916,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a dit : “Celui qui raconte un faux rêve devra, au Jour de la Résurrection, attacher ensemble deux grains d’orge, et il sera puni pour cela.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 24
+			}
+		}
+	]
+}

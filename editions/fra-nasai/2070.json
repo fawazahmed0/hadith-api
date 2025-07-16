@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2070,
+			"arabicnumber": 2070,
+			"text": "Rapporté par Ibn 'Umar : Le Prophète a dit : \"Quand l’un d’entre vous meurt, on lui montre sa place matin et soir. S’il fait partie des gens du Paradis, alors il est parmi les gens du Paradis, et s’il fait partie des gens de l’Enfer, alors il est parmi les gens de l’Enfer, jusqu’à ce qu’Allah, le Puissant et Majestueux, le ressuscite le Jour de la Résurrection",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 253
+			}
+		}
+	]
+}

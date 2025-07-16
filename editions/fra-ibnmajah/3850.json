@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"34": "Supplication"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3827,
+				"hadithnumber_last": 3892,
+				"arabicnumber_first": 3827,
+				"arabicnumber_last": 3892
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3850,
+			"arabicnumber": 3850,
+			"text": "Rapporté par ‘Aishah : Elle a dit : « Ô Messager d’Allah, que dois-je dire dans mon invocation si je tombe sur la nuit du Destin (Laylatul-Qadr) ? » Il a dit : « Dis : Allahumma innaka ‘afuwwun tuhibbul-‘afwa, fa’fu ‘anni (Ô Allah, Tu es Pardonneur et Tu aimes le pardon, alors pardonne-moi). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 24
+			}
+		}
+	]
+}

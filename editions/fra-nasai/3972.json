@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3972,
+			"arabicnumber": 3972,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : \"On m’a ordonné de combattre les gens jusqu’à ce qu’ils disent La ilaha illallah (il n’y a pas de divinité en dehors d’Allah). Celui qui dit La ilaha illallah, ses biens et sa vie sont préservés de moi sauf pour un droit qui est dû, et son jugement sera avec Allah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Mutawatir"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Mutawatir"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 7
+			}
+		}
+	]
+}

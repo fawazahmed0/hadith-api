@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"4": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 1198,
+				"hadithnumber_last": 1249,
+				"arabicnumber_first": 1198,
+				"arabicnumber_last": 1249
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1216,
+			"arabicnumber": 1216,
+			"text": "Rapporté par Hisham b. Sa'd : Il y avait une distance de dix miles entre eux, c’est-à-dire entre La Mecque et Sarif",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 19
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 977,
+			"arabicnumber": 977,
+			"text": "Cette tradition a aussi été rapportée par Shu’bah par une autre chaîne de rapporteurs. Cette version ajoute : « Bénis Muhammad et la famille de Muhammad comme Tu as béni Abraham. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6357) Sahih Muslim (406)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 588
+			}
+		}
+	]
+}

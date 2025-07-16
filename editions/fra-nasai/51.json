@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 51,
+			"arabicnumber": 51,
+			"text": "Rapporté par Ibrahim bin Jarir : Mon père a dit : \"J'étais avec le Prophète (ﷺ) et il est allé aux toilettes pour se soulager, puis il a dit : « Ô Jarir, apporte-moi de quoi me purifier. » Je lui ai donc apporté de l'eau et il s'est nettoyé avec, puis il a frotté sa main sur le sol comme ceci. Abu 'Abdur-Rahman (An-Nasa'i) a dit : « Ceci ressemble plus à ce qui est correct que le récit précédent de Sharik, et Allah sait mieux. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 51
+			}
+		}
+	]
+}

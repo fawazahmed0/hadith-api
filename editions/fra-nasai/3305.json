@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3305,
+			"arabicnumber": 3305,
+			"text": "Rapporté par Ibn 'Abbas : On a parlé au Messager d’Allah ﷺ de la fille de Hamzah (comme éventuelle épouse). Il a dit : « C’est la fille de mon frère par l’allaitement. » (Un des rapporteurs, Shu'bah, a dit : « Qatadah a entendu cela de Jabir bin Zaid. »)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 110
+			}
+		}
+	]
+}

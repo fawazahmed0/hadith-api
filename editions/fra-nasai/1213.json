@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1213,
+			"arabicnumber": 1213,
+			"text": "Rapporté par Abdullah bin Nujayy : Son père a dit : ‘Ali m’a dit : \"J’étais très proche du Messager d’Allah (ﷺ), plus proche que quiconque. J’allais le voir à la fin de chaque nuit, avant l’aube, et je disais : 'As-salamu ‘alayka ya Nabiyy Allah (Que la paix soit sur toi, ô Prophète d’Allah).' S’il toussait légèrement, je repartais vers ma famille, sinon j’entrais chez lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 35
+			}
+		}
+	]
+}

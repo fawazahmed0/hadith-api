@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1605,
+			"arabicnumber": 1605,
+			"text": "AbdurRahman ibn Mas'ud a dit : Sahl ibn Abu Hathmah est venu à notre assemblée. Il a dit : Le Messager d’Allah ﷺ nous a ordonné : « Quand vous faites l’estimation, laissez un tiers, et si vous ne trouvez pas ou ne laissez pas un tiers, laissez un quart. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 50
+			}
+		}
+	]
+}

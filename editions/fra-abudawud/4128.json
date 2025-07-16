@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4128,
+			"arabicnumber": 4128,
+			"text": "Al-Hakam ibn Uyaynah a dit qu’il est allé avec quelques personnes chez Abdullah ibn Ukaym, un homme de Juhaynah. Al-Hakam a dit : Ils sont entrés et je me suis assis à la porte. Ensuite, ils sont sortis et m’ont dit qu’Abdullah ibn Ukaym leur avait appris que le Messager d’Allah ﷺ avait écrit à Juhaynah un mois avant sa mort : « N’utilisez pas la peau ni les tendons d’un animal mort de mort naturelle. » Abu Dawud a dit : Al-Nadr b. Shumail a dit : La peau s’appelle « ihab » quand elle n’est pas tannée, et une fois tannée, elle ne s’appelle plus « ihab » mais « shann » et « qirbah » (peau tannée ou cuir)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 109
+			}
+		}
+	]
+}

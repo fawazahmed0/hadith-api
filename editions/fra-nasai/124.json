@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 124,
+			"arabicnumber": 124,
+			"text": "Rapporté par Al-Mughirah bin Shu'bah : Le Messager d'Allah (ﷺ) est sorti pour faire ses besoins, et Al-Mughirah l'a suivi avec un récipient d'eau. Il lui a versé de l'eau quand il a fini, et il a fait les ablutions et a passé ses mains mouillées sur ses Khuffs",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 124
+			}
+		}
+	]
+}

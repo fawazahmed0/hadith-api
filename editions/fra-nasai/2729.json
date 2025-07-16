@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2729,
+			"arabicnumber": 2729,
+			"text": "Rapporté par Anas : J’ai entendu le Messager d’Allah dire : « Labbaika ‘Umratan wa Hajjan ma’an, Labbaika ‘Umratan wa Hajjan ma’an » (« Me voici, ô Allah, pour la ‘Umrah et le Hajj ensemble, me voici, ô Allah, pour la ‘Umrah et le Hajj ensemble »)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 111
+			}
+		}
+	]
+}

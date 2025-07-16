@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4666,
+			"arabicnumber": 4666,
+			"text": "Rapporté par Qais b. ‘Abbad : J’ai dit à Ali رضي الله عنه : « Parle-moi de cette marche que tu fais. Est-ce un ordre que le Messager d’Allah ﷺ t’a donné, ou est-ce ton propre avis ? » Il a répondu : « Le Messager d’Allah ﷺ ne m’a donné aucun ordre ; c’est mon opinion personnelle. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 71
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 973,
+			"arabicnumber": 973,
+			"text": "Cette tradition a aussi été transmise par Hittan b. ‘Abd Allah al-Ruqashi par une autre chaîne de rapporteurs. Cette version ajoute : Quand l’imam récite le Coran, gardez le silence (et écoutez attentivement). Et dans le tashahhud, cette version ajoute après les mots « J’atteste qu’il n’y a pas de divinité en dehors d’Allah » les mots « Il est Unique, Il n’a pas d’associé. » Abu Dawud a dit : Son expression « Et gardez le silence » n’est pas confirmée ; elle n’a été rapportée que par Sulaiman al-Taimi dans sa version",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (404)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 584
+			}
+		}
+	]
+}

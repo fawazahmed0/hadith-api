@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"18": "The Book of the Fear Prayer"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 1529,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1529,
+				"arabicnumber_last": 1555
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1531,
+			"arabicnumber": 1531,
+			"text": "Rapporté par Zaid bin Thabit : Une prière semblable à celle de Hudhaifah a été rapportée de Zaid bin Thabit, venant du Prophète (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 3
+			}
+		}
+	]
+}

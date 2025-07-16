@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4231,
+			"arabicnumber": 4231,
+			"text": "Bunanah, une femme cliente de 'Abd al-Rahman b. Hayyan al-Ansari, a rapporté que lorsqu’elle était avec Aishah رضي الله عنها, une fille portant de petits grelots a été amenée devant elle. Elle a ordonné qu’on ne l’amène plus tant qu’on ne lui avait pas retiré ses grelots. Elle a dit : « J’ai entendu le Messager d’Allah ﷺ dire : Les anges n’entrent pas dans une maison où il y a une cloche. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 18
+			}
+		}
+	]
+}

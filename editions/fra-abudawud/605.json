@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 605,
+			"arabicnumber": 605,
+			"text": "‘A’ishah رضي الله عنها a dit : Le Messager d’Allah ﷺ a prié chez lui assis, et les gens priaient derrière lui debout. Il leur a fait signe (pour leur demander) de s’asseoir. Quand il a terminé la prière, il a dit : « L’imam n’est là que pour être suivi ; donc quand il prie debout, priez debout ; et quand il se redresse, redressez-vous ; et quand il prie assis, priez assis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (688) Sahih Muslim (412)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 215
+			}
+		}
+	]
+}

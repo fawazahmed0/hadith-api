@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1368,
+			"arabicnumber": 1368,
+			"text": "Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Choisissez des actions que vous pouvez accomplir, car Allah ne se lasse pas tant que vous ne vous lassez pas. Les actes les plus aimés d’Allah sont ceux qui sont faits régulièrement, même s’ils sont peu nombreux. Quand il commençait une action, il la faisait de façon continue. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5861) Sahih Muslim (782)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 119
+			}
+		}
+	]
+}

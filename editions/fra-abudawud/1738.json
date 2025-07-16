@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1738,
+			"arabicnumber": 1738,
+			"text": "Ibn `Abbas رضي الله عنه et Tawus ont rapporté : Le Messager d’Allah ﷺ a désigné des lieux pour mettre l’ihram, et le reste du récit est semblable à ce qui précède. L’un d’eux a dit Yalamlam pour les gens du Yémen, l’autre a dit Alamlam. Ces lieux sont désignés pour ces régions et pour tous ceux qui viennent de ces régions avec l’intention de faire le hajj ou la `umrah. Ceux qui habitent plus près de La Mecque mettent l’ihram à partir de l’endroit d’où ils partent, jusqu’aux habitants de La Mecque qui mettent l’ihram dans la ville même. Ceci est la version d’Ibn Tawus",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1526) Sahih Muslim (1181)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 18
+			}
+		}
+	]
+}

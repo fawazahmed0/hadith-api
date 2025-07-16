@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1813,
+			"arabicnumber": 1813,
+			"text": "Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ a élevé la voix en prononçant la talbiyah, puis il a mentionné les paroles de la talbiyah comme dans la tradition rapportée par Ibn ‘Umar. Les gens ajoutaient les mots « dhal-ma‘arij » (le Possesseur des degrés) et d’autres mots semblables à la talbiyah, alors que le Prophète ﷺ les entendait, mais il ne leur disait rien",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 93
+			}
+		}
+	]
+}

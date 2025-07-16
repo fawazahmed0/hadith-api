@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 215,
+			"arabicnumber": 215,
+			"text": "Rapporté par Fatimah bint Abi Hubaish : Elle avait des saignements hors règles (Istihadah) et le Messager d’Allah (ﷺ) lui a dit : « Si c’est du sang de règles, alors c’est un sang noir et reconnaissable, donc arrête de prier. Si ce n’est pas cela, alors fais les ablutions, car ce n’est qu’une veine. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 216
+			}
+		}
+	]
+}

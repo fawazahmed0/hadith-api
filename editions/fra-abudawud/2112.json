@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2112,
+			"arabicnumber": 2112,
+			"text": "Abu Huraira رضي الله عنه a rapporté cela par une autre chaîne de transmetteurs. Cette version ne mentionne pas le pagne ni l’anneau de fer. Le Prophète ﷺ demanda : « Combien connais-tu du Coran ? » Il répondit : « Sourate al-Baqarah ou celle qui vient après. » Il dit : « Lève-toi et enseigne-lui vingt versets : elle est ton épouse. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 67
+			}
+		}
+	]
+}

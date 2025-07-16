@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 775,
+			"arabicnumber": 775,
+			"text": "Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Quand le Messager d’Allah ﷺ se levait pour prier la nuit (pour la prière du tahajjud), il prononçait le takbir puis disait : « Gloire à Toi, ô Allah », « Louange à Toi », « Béni soit Ton nom », « Exaltée soit Ta grandeur », et « Il n’y a de dieu que Toi ». Il disait ensuite : « Il n’y a de dieu qu’Allah » trois fois ; puis : « Allah est vraiment le plus grand » trois fois ; « Je cherche refuge auprès d’Allah, l’Audient et l’Omniscient, contre le diable maudit, contre ses mauvaises suggestions (hamz), contre son souffle (nafkh) et contre sa salive (nafth). » Ensuite, il récitait (le Coran). Abu Dawud a dit : On dit que ce récit a été rapporté par ‘Ali b. ‘Ali d’après al-Hasan sans mentionner le nom du Compagnon du Prophète ﷺ. L’erreur vient de Ja’far",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 385
+			}
+		}
+	]
+}

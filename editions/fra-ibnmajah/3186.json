@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"27": "Chapters on Slaughtering"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3162,
+				"hadithnumber_last": 3199,
+				"arabicnumber_first": 3162,
+				"arabicnumber_last": 3199
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3186,
+			"arabicnumber": 3186,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a interdit d’attacher les animaux",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 25
+			}
+		}
+	]
+}

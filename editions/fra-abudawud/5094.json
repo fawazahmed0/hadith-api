@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5094,
+			"arabicnumber": 5094,
+			"text": "Rapporté par Umm Salamah, la mère des croyants رضي الله عنها : Le Messager d’Allah ﷺ ne sortait jamais de ma maison sans lever les yeux vers le ciel et dire : « Ô Allah ! Je cherche refuge auprès de Toi de m’égarer ou d’être égaré, de glisser ou d’être entraîné à glisser, de commettre une injustice ou d’en subir une, de faire du mal ou d’en subir. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 322
+			}
+		}
+	]
+}

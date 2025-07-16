@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3266,
+			"arabicnumber": 3266,
+			"text": "Rapporté par 'Aishah : Le Prophète ﷺ a dit : \"Demandez l’accord des femmes pour le mariage.\" On a dit : \"Et si une vierge est trop timide et reste silencieuse ?\" Il a répondu : \"Son silence, c’est son accord",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 71
+			}
+		}
+	]
+}

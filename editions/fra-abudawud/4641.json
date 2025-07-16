@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4641,
+			"arabicnumber": 4641,
+			"text": "Rapporté par ‘Awf : J’ai entendu al-Hajjaj s’adresser au peuple et dire : « La ressemblance de ‘Uthman auprès d’Allah est comme celle de Jésus, fils de Marie. » Il a ensuite récité ce verset et l’a expliqué : « Rappelle-toi ! Allah a dit : Ô Jésus ! Je vais te reprendre et t’élever vers Moi, et te purifier de ceux qui ont mécru. » Il faisait un geste de la main vers nous et vers les gens de Syrie",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 46
+			}
+		}
+	]
+}

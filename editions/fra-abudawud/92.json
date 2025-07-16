@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 92,
+			"arabicnumber": 92,
+			"text": "Rapporté par Aisha (la mère des croyants) رضي الله عنها : Le Prophète ﷺ se lavait avec un sa‘ (de l’eau) et faisait ses ablutions avec un mudd (de l’eau). Abu Dawud a dit : Ce hadith a aussi été rapporté par Aban d’après Qatadah. Dans cette version, il a dit : « J’ai entendu Safiyyah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 92
+			}
+		}
+	]
+}

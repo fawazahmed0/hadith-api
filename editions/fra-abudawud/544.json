@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 544,
+			"arabicnumber": 544,
+			"text": "Rapporté par Anas : L’iqama a été prononcée (pour la prière du soir) et le Messager d’Allah ﷺ continuait de parler à une personne dans un coin de la mosquée. Il n’a pas commencé la prière jusqu’à ce que les gens s’endorment",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (642) Sahih Muslim (376)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 154
+			}
+		}
+	]
+}

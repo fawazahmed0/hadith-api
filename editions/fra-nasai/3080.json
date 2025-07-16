@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3080,
+			"arabicnumber": 3080,
+			"text": "Rapporté par Al-Fadl bin 'Abbas : \"J'étais derrière le Messager d'Allah à cheval et je l'entendais réciter la Talbiyah jusqu'à ce qu'il jette les pierres sur Jamratul 'Aqabah, puis, après avoir lancé les pierres, il a arrêté de réciter la Talbiyah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 463
+			}
+		}
+	]
+}

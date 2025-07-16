@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"20": "The Chapters on Legal Punishments"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2533,
+				"hadithnumber_last": 2614,
+				"arabicnumber_first": 2533,
+				"arabicnumber_last": 2614
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2546,
+			"arabicnumber": 2546,
+			"text": "Rapporté par Ibn `Abbas : Le Prophète (ﷺ) a dit : “Celui qui cache la faute cachée de son frère musulman, Allah (SWT) cachera ses fautes le Jour de la Résurrection. Celui qui dévoile la faute de son frère musulman, Allah dévoilera ses fautes, jusqu’à ce qu’Il l’humilie à cause de cela, même chez lui.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 14
+			}
+		}
+	]
+}

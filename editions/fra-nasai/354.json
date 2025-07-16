@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 354,
+			"arabicnumber": 354,
+			"text": "Rapporté par Umm Salamah : Une femme a demandé au Prophète (ﷺ) : \"J'ai des saignements persistants et je ne deviens jamais pure ; dois-je arrêter de prier ?\" Il a dit : \"Non. Arrête de prier pendant le nombre de jours et de nuits où tu avais tes règles, puis fais le Ghusl, mets un tissu autour de toi, et prie",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 6
+			}
+		}
+	]
+}

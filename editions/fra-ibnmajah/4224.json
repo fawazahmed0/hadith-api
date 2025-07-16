@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4224,
+			"arabicnumber": 4224,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a dit : « Les gens du Paradis sont ceux dont Allah remplit les oreilles d’éloges des gens pendant qu’ils écoutent, et les gens de l’Enfer sont ceux dont Il remplit les oreilles de critiques pendant qu’ils écoutent. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 125
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3363,
+			"arabicnumber": 3363,
+			"text": "Rapporté par Salamah bin Al-Muhabbaq : Le Prophète ﷺ a jugé, à propos d’un homme qui a eu des rapports avec la servante de sa femme : « S’il l’a forcée, alors elle est libre et il doit donner à sa maîtresse une autre esclave en remplacement ; si elle lui a obéi, alors elle lui appartient, et il doit aussi donner à sa maîtresse une autre esclave en remplacement. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 168
+			}
+		}
+	]
+}

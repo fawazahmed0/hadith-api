@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"34": "Supplication"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3827,
+				"hadithnumber_last": 3892,
+				"arabicnumber_first": 3827,
+				"arabicnumber_last": 3892
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3855,
+			"arabicnumber": 3855,
+			"text": "Rapporté par Asma' bint Yazid : Le Messager d'Allah (ﷺ) a dit : « Le plus grand Nom d’Allah se trouve dans ces deux versets : “Et votre Ilah (Dieu) est un Ilah unique (Allah), La Ilaha Illa Huwa (nul n’a le droit d’être adoré en dehors de Lui), le Tout Miséricordieux, le Très Miséricordieux.” Et au début de la sourate Al 'Imran. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 29
+			}
+		}
+	]
+}

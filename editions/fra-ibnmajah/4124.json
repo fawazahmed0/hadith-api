@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4124,
+			"arabicnumber": 4124,
+			"text": "Rapporté par ‘Abdullah bin ‘Umar : Les pauvres parmi les Muhajirun se sont plaints auprès du Messager d’Allah (ﷺ) de ce qu’Allah avait accordé aux riches. Il a dit : « Ô pauvres, voulez-vous que je vous annonce une bonne nouvelle ? Les croyants pauvres entreront au Paradis une demi-journée, soit cinq cents ans, avant les riches. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 25
+			}
+		}
+	]
+}

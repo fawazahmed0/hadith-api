@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1684,
+			"arabicnumber": 1684,
+			"text": "Rapporté par Abu Musa رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le dépositaire fidèle qui donne ce qu’on lui a confié complètement et de bon cœur, et qui le remet à la personne à qui il doit le donner, fait partie des deux qui donnent l’aumône. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1438) Sahih Muslim (1023)"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 129
+			}
+		}
+	]
+}

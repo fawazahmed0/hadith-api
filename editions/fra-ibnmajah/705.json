@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 705,
+			"arabicnumber": 705,
+			"text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : « Ne laissez pas les Bédouins vous faire changer le nom de votre prière. » Ibn Harmalah a ajouté : « En réalité, c’est la ‘Isha, mais eux l’appellent ‘Atamah parce qu’ils rentrent leurs chameaux pour les traire à ce moment-là, quand il fait sombre. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 39
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"33": "Hot Baths (Kitab Al-Hammam)"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 4009,
+				"hadithnumber_last": 4019,
+				"arabicnumber_first": 4009,
+				"arabicnumber_last": 4019
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4016,
+			"arabicnumber": 4016,
+			"text": "Rapporté par Al-Miswar b. Makhramah رضي الله عنه : J’ai soulevé une pierre lourde. En marchant, mon vêtement est tombé. Le Messager d’Allah ﷺ m’a dit : « Remets ton vêtement sur toi et ne marche pas nu. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (341)"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 8
+			}
+		}
+	]
+}

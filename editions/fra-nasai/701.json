@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 701,
+			"arabicnumber": 701,
+			"text": "Rapporté par Talq bin 'Ali : Nous sommes partis en délégation auprès du Prophète (ﷺ) ; nous lui avons prêté allégeance et prié avec lui. Nous lui avons dit que dans notre région il y avait une église qui nous appartenait. Nous lui avons demandé de nous donner l’eau restante de ses ablutions. Alors il a demandé de l’eau, a fait ses ablutions et s’est rincé la bouche, puis il a versé l’eau dans un récipient et nous a dit : \"Partez, et quand vous serez de retour chez vous, détruisez votre église, aspergez ce lieu avec cette eau et prenez-le comme mosquée.\" Nous avons dit : \"Notre terre est loin et il fait très chaud ; l’eau va s’évaporer.\" Il a dit : \"Ajoutez-y de l’eau, cela ne fera que l’améliorer.\" Nous sommes donc partis, et une fois arrivés, nous avons démoli notre église, aspergé le lieu avec l’eau et en avons fait une mosquée, puis nous y avons appelé à la prière. Le moine, qui était un homme de Tayy', en entendant l’appel à la prière, a dit : \"C’est un appel véridique.\" Ensuite, il est parti vers une colline et nous ne l’avons plus jamais revu",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 14
+			}
+		}
+	]
+}

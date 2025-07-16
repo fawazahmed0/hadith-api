@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2036,
+			"arabicnumber": 2036,
+			"text": "Rapporté par 'Ali : J’ai entendu un homme prier pour le pardon de ses parents qui étaient idolâtres, et je lui ai dit : \"Pries-tu pour eux alors qu’ils étaient idolâtres ?\" Il a répondu : \"N’est-ce pas qu’Ibrahim a prié pour le pardon de son père ?\" Je suis allé voir le Prophète et je lui ai raconté cela, puis ce verset a été révélé : Et l’invocation d’Ibrahim pour le pardon de son père n’était que pour honorer une promesse qu’il lui avait faite. (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 219
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 849,
+			"arabicnumber": 849,
+			"text": "Rapporté par 'Abdullah : Celui qui veut rencontrer Allah demain en tant que musulman, qu'il accomplisse régulièrement ces cinq prières chaque fois que l'appel est lancé (c'est-à-dire dans les mosquées), car Allah a prescrit à Son Prophète les voies de la guidance, et ces prières en font partie. Je ne pense pas qu'il y ait parmi vous quelqu'un qui n'ait pas un endroit où il prie chez lui. Mais si vous priez chez vous et délaissez les mosquées, vous abandonnez la tradition de votre Prophète, et si vous abandonnez la tradition de votre Prophète, vous vous égarerez. Aucun serviteur musulman ne fait les ablutions correctement, puis marche vers la prière, sans qu'Allah n'inscrive pour chaque pas une bonne action, ou n'élève d'un degré, ou n'efface un péché. Je me souviens comment nous faisions de petits pas, et je me souviens d'une époque où personne ne manquait la prière sauf un hypocrite dont l'hypocrisie était connue. J'ai vu un homme venir soutenu par deux autres jusqu'à ce qu'il soit placé dans le rang",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 73
+			}
+		}
+	]
+}

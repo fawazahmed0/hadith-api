@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4236,
+			"arabicnumber": 4236,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ vit une brebis morte appartenant à l’esclave affranchie de Maimunah, qui venait de la Sadaqah. Il dit : « Pourquoi ne retirez-vous pas sa peau pour l’utiliser ? » Ils dirent : « C’est une bête morte. » Il répondit : « Il est seulement interdit de la manger. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 15
+			}
+		}
+	]
+}

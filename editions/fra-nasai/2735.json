@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2735,
+			"arabicnumber": 2735,
+			"text": "Rapporté par Abu Musa : Il avait l’habitude de donner des avis religieux concernant le Tamattu’. Un homme lui a dit : « Modère certains de tes avis, car tu ne sais pas ce que le commandeur des croyants a changé dans les rites par la suite. » Quand je l’ai rencontré, je lui ai demandé. ‘Umar a dit : « Je sais que le Messager d’Allah et ses compagnons l’ont fait, mais je n’aimais pas que les gens s’allongent avec leurs épouses à l’ombre des arbres d’Arak, puis partent au Hajj avec les cheveux encore mouillés. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 117
+			}
+		}
+	]
+}

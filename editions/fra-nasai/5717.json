@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5717,
+			"arabicnumber": 5717,
+			"text": "Rapporté par 'Abdullah bin Yazid Al-Khatmi : \"'Umar ibn Al-Khattab, que Allah l'agrée, nous a écrit (en disant) : 'Faites cuire vos boissons jusqu'à ce que la part du Diable soit partie, car il a deux parts et vous en avez une",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 179
+			}
+		}
+	]
+}

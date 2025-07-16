@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4323,
+			"arabicnumber": 4323,
+			"text": "Rapporté par Ibn Abi 'Ammar : J'ai demandé à Jabir bin 'Abdullah au sujet des hyènes et il m'a dit d'en manger. J'ai demandé : \"Est-ce un gibier que l'on peut chasser ?\" Il a répondu : \"Oui.\" J'ai dit : \"As-tu entendu cela du Messager d'Allah ?\" Il a dit : \"Oui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 61
+			}
+		}
+	]
+}

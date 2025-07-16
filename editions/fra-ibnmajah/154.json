@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 154,
+			"arabicnumber": 154,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah ﷺ a dit : « Le plus miséricordieux de ma communauté envers elle est Abu Bakr ; celui qui s’attache le plus fermement à la religion d’Allah est ‘Umar ; le plus pudique et le plus réservé est ‘Uthman ; le meilleur juge est ‘Ali bin Abu Talib ; le meilleur dans la récitation du Livre d’Allah est Ubayy bin Ka’b ; le plus savant sur ce qui est permis et interdit est Mu’adh bin Jabal ; et le plus connaisseur des règles d’héritage est Zaid bin Thabit. Chaque peuple a un gardien digne de confiance, et celui de cette communauté est Abu ‘Ubaidah bin Jarrah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 154
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4577,
+			"arabicnumber": 4577,
+			"text": "Rapporté par Abu Al-Minhal : J'ai demandé à Al-Bara bin 'Azib au sujet de l'échange d'argent. Il a dit : \"Demande à Zaid bin Arqam, car il est meilleur que moi et plus savant.\" Alors je l'ai interrogé et il a dit : \"Demande à Al-Bara, car il est meilleur que moi et plus savant.\" Et ils ont tous les deux dit : \"Le Messager d'Allah ﷺ a interdit de vendre de l'argent contre de l'or à crédit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 129
+			}
+		}
+	]
+}

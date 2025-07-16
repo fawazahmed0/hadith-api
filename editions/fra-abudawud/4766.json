@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4766,
+			"arabicnumber": 4766,
+			"text": "Le même récit a aussi été transmis par Anas رضي الله عنه à travers une autre chaîne de rapporteurs, de façon similaire. Cette version ajoute : « Leur signe est de se raser la tête et d’arracher les cheveux. Si vous les voyez, tuez-les. » Abu Dawud a dit : « Tasmid signifie arracher les cheveux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 171
+			}
+		}
+	]
+}

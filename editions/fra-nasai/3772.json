@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3772,
+			"arabicnumber": 3772,
+			"text": "Rapporté par ‘Abdullah bin Buraidah, de son père : Le Messager d’Allah ﷺ a dit : « Celui qui dit : “Je n’ai rien à voir avec l’Islam”, s’il ment, il sera comme il l’a dit, et s’il dit la vérité, son Islam ne sera pas valable. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 12
+			}
+		}
+	]
+}

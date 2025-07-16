@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2040,
+			"arabicnumber": 2040,
+			"text": "Rapporté par Sulaiman bin Buraidah, d’après son père : Quand le Messager d’Allah arrivait au cimetière, il disait : \"As-salamu 'alaykum ahli ad-diyari min al-mu’minin wal-muslimin wa inna I sha’ Allahu bikum lana faratun wa nahnu lakum taba’un, as’alullahal-‘afiyata lana wa lakum.\" (Que la paix soit sur les habitants de ce lieu parmi les croyants et les musulmans. Bientôt nous vous rejoindrons, si Allah le veut. Vous nous avez précédés et nous vous suivrons. Je demande à Allah la sécurité pour nous et pour vous)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 223
+			}
+		}
+	]
+}

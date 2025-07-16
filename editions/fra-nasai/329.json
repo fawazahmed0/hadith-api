@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"2": "The Book of Water"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 325,
+				"hadithnumber_last": 347,
+				"arabicnumber_first": 325,
+				"arabicnumber_last": 347
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 329,
+			"arabicnumber": 329,
+			"text": "Rapporté par Anas : Un bédouin a uriné dans la mosquée, et certaines personnes se sont précipitées vers lui, mais le Messager d’Allah (ﷺ) a dit : \"Ne l’arrêtez pas.\" Quand il a fini, il a demandé un seau d’eau et l’a versé dessus",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 5
+			}
+		}
+	]
+}

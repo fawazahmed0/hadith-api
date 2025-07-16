@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4981,
+			"arabicnumber": 4981,
+			"text": "‘Adl ibn Hatim a dit : Un orateur fit un sermon devant le Prophète ﷺ et dit : « Celui qui obéit à Allah et à Son Prophète suivra le bon chemin, et celui qui leur désobéit… » Le Prophète ﷺ lui dit : « Lève-toi ; va-t’en, tu es un mauvais orateur. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (870)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 209
+			}
+		}
+	]
+}

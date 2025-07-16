@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5356,
+			"arabicnumber": 5356,
+			"text": "Rapporté par 'Aishah : Le Messager d'Allah ﷺ est revenu d’un voyage et j’avais accroché un rideau avec des images au-dessus d’une niche. Il l’a retiré et a dit : \"Les personnes qui seront le plus sévèrement punies au Jour de la Résurrection sont celles qui essaient d’imiter la création d’Allah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 317
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 617,
+			"arabicnumber": 617,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Le Prophète ﷺ a dit : « Lorsque l’imam termine la prière et s’assoit (pour réciter le tashahhud), puis que ses ablutions deviennent invalides avant qu’il ne parle à quelqu’un, sa prière est valable. Ceux qui ont prié derrière lui terminent aussi leur prière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 227
+			}
+		}
+	]
+}

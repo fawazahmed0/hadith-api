@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 603,
+			"arabicnumber": 603,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « L’imam n’est là que pour être suivi ; quand il dit “Allah est le plus grand”, dites “Allah est le plus grand” et ne le dites pas avant lui. Quand il s’incline, inclinez-vous, et n’inclinez-vous pas avant lui. Et quand il dit “Allah écoute celui qui Le loue”, dites “Ô Allah, notre Seigneur, à Toi la louange.” » La version rapportée par Muslim dit : « Et à Toi la louange. » Et quand il se prosterne, ne vous prosternez pas avant lui. Quand il prie debout, priez debout, et quand il prie assis, priez tous assis. Abu Dawud a dit : Les mots « Ô Allah, notre Seigneur, à Toi la louange » rapportés par Sulaiman m’ont été expliqués par certains de nos compagnons",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 213
+			}
+		}
+	]
+}

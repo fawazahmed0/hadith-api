@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1699,
+			"arabicnumber": 1699,
+			"text": "Asma, fille d’Abu Bakr رضي الله عنها, a dit : J’ai demandé : « Messager d’Allah ﷺ, je n’ai rien à moi sauf ce que al-Zubair (mon mari) m’apporte dans sa maison : puis-je en dépenser ? » Il a répondu : « Donne et ne garde pas tout, sinon ta subsistance sera aussi retenue. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 144
+			}
+		}
+	]
+}

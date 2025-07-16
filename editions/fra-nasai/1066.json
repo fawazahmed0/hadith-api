@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1066,
+			"arabicnumber": 1066,
+			"text": "Rapporté par Ibn 'Abbas : Quand le Prophète (ﷺ) disait : « Sami Allahu liman hamidah (Allah entend celui qui Le loue) », il disait : « Allahumma Rabbana wa lakal-hamd, mil’as-samawati wa mil’al-ardi wa mil’ama shi’ta min shay’in ba’d (Ô Allah, notre Seigneur, à Toi la louange, remplissant les cieux, remplissant la terre et tout ce que Tu veux d’autre après). »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 38
+			}
+		}
+	]
+}

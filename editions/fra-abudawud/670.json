@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 670,
+			"arabicnumber": 670,
+			"text": "Ce hadith a aussi été transmis par Anas رضي الله عنه par une autre chaîne de rapporteurs. Cette version dit : Lorsque le Messager d’Allah ﷺ se levait pour prier, il prenait ce bâton dans sa main droite et, se tournant vers la droite, disait : « Restez droits et alignez vos rangs. » Puis il le prenait dans sa main gauche et disait : « Restez droits et alignez vos rangs. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 280
+			}
+		}
+	]
+}

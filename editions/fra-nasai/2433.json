@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2433,
+			"arabicnumber": 2433,
+			"text": "Rapporté par Abou Nawfal ibn Abi ‘Aqrab, de la part de son père : J’ai demandé au Messager d’Allah au sujet du jeûne et il a dit : \"Jeûne un jour par mois.\" J’ai dit : \"Ô Messager d’Allah, permets-moi d’en faire plus, permets-moi d’en faire plus, j’en suis capable.\" Le Messager d’Allah est resté silencieux, au point que j’ai cru qu’il allait refuser ma demande. Puis il a dit : \"Jeûne trois jours chaque mois",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 344
+			}
+		}
+	]
+}

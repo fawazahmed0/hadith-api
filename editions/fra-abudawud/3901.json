@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3901,
+			"arabicnumber": 3901,
+			"text": "Rapporté par Alaqah ibn Sahar at-Tamimi : Nous sommes partis du Messager d’Allah ﷺ et nous sommes arrivés chez une tribu arabe. Ils nous ont dit : « On nous a dit que vous avez apporté du bien de la part de cet homme. Avez-vous un remède ou une incantation, car nous avons un fou enchaîné ? » Nous avons répondu : « Oui. » Ils ont alors amené le fou enchaîné. Il a dit : « J’ai récité la sourate Al-Fatiha sur lui pendant trois jours, matin et soir. À chaque fois que je terminais, je recueillais ma salive et la recrachais, et il semblait être libéré de ses liens. » Il a ajouté : « Ils m’ont donné une récompense, mais j’ai dit : “Non, pas avant de demander au Messager d’Allah ﷺ.” » Le Prophète ﷺ a dit : « Accepte-la, car, par ma vie, certains l’acceptent pour une incantation sans valeur, mais toi, tu l’as fait pour une vraie. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 47
+			}
+		}
+	]
+}

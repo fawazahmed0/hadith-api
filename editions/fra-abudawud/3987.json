@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"32": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3969,
+				"hadithnumber_last": 4008,
+				"arabicnumber_first": 3969,
+				"arabicnumber_last": 4008
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3987,
+			"arabicnumber": 3987,
+			"text": "Rapporté par Abu Sa’id al-Khudri : Le Prophète ﷺ a dit : Un homme parmi les Illiyyun regardera vers les gens du Paradis et le Paradis brillera comme une étoile éclatante. Le narrateur a précisé : Le mot « durri » (éclatante) est utilisé dans ce récit, c’est-à-dire que la lettre dal (d) porte une voyelle brève u et il n’y a pas de hamzah. Abu Bakr et Omar feront partie d’eux et auront des faveurs supplémentaires",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 19
+			}
+		}
+	]
+}

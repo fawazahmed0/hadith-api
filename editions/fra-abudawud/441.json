@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 441,
+			"arabicnumber": 441,
+			"text": "Rapporté par Abu Qatadah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de faute si l’on dort, la faute n’existe que lorsqu’on est éveillé et qu’on retarde la prière jusqu’à ce que l’heure de la suivante arrive. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (681)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 51
+			}
+		}
+	]
+}

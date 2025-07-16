@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4316,
+			"arabicnumber": 4316,
+			"text": "Rapporté par ‘Abdullah ibn Abi Jad‘a’ : Il a entendu le Prophète (ﷺ) dire : “Plus de personnes (que les membres de la tribu de) Banu Tamim entreront au Paradis grâce à l’intercession d’un homme de ma communauté.” Ils ont demandé : “Ô Messager d’Allah, à part toi ?” Il a répondu : “À part moi.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 217
+			}
+		}
+	]
+}

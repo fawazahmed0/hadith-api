@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4708,
+			"arabicnumber": 4708,
+			"text": "Rapporté par ‘Abd Allah b. Mas’ud رضي الله عنه : Le Messager d’Allah ﷺ, qui disait toujours la vérité et dont la parole était la foi, nous a dit : « Les éléments qui composent l’un d’entre vous sont rassemblés pendant quarante jours dans le ventre de sa mère, puis ils deviennent un caillot de sang pour une période similaire, puis un morceau de chair pour une période similaire. Ensuite, Allah envoie un ange avec quatre instructions : il écrit sa subsistance, la durée de sa vie, ses actions et s’il sera malheureux ou heureux ; ensuite, il insuffle l’âme en lui. L’un d’entre vous agira comme les gens du Paradis, au point qu’il ne restera plus qu’une coudée entre lui et le Paradis, ou qu’il sera à une coudée, puis ce qui a été décrété l’emportera, si bien qu’il agira comme les gens de l’Enfer et y entrera ; et l’un d’entre vous agira comme les gens de l’Enfer, au point qu’il ne restera plus qu’une coudée entre lui et l’Enfer, ou qu’il sera à une coudée, puis ce qui a été décrété l’emportera, si bien qu’il agira comme les gens du Paradis et y entrera. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6594) Sahih Muslim (2643)"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 113
+			}
+		}
+	]
+}

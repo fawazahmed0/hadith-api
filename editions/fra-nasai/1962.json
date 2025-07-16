@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1962,
+			"arabicnumber": 1962,
+			"text": "Rapporté par Jabir : Le Prophète ﷺ ne priait pas pour un homme qui avait une dette. Un défunt a été amené devant lui et il a demandé : « A-t-il une dette ? » Ils ont répondu : « Oui, il doit deux dinars. » Il a dit : « Priez pour votre compagnon. » Abu Qatadah a dit : « Je les paierai, ô Messager d’Allah. » Alors il a prié pour lui. Plus tard, quand Allah a enrichi Son Messager grâce aux conquêtes, il a dit : « Je suis plus proche de chaque croyant que lui-même. Celui qui laisse une dette, je la paierai, et celui qui laisse des biens, ils sont pour ses héritiers. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 145
+			}
+		}
+	]
+}

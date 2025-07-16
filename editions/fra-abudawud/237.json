@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 237,
+			"arabicnumber": 237,
+			"text": "Rapporté par ‘A’ishah رضي الله عنها d’après Umm Sulaim al-Ansariyah, la mère d’Anas b. Malik : Elle a dit : « Ô Messager d’Allah, Allah n’a pas honte de la vérité. Que penses-tu, si une femme voit dans un rêve ce que voit un homme, doit-elle prendre un bain rituel ou non ? » Le Prophète ﷺ a répondu : « Oui, elle doit prendre un bain si elle trouve du liquide (sécrétion vaginale). » ‘A’ishah a dit : « Je suis alors allée la voir et je lui ai dit : “Malheur à toi ! Est-ce qu’une femme voit cela (en rêve) ?” » À ce moment, le Messager d’Allah ﷺ est venu vers moi et a dit : « Que ta main droite soit couverte de poussière ! Comment pourrait-il y avoir une ressemblance (entre l’enfant et la mère) autrement ? »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (314)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 237
+			}
+		}
+	]
+}

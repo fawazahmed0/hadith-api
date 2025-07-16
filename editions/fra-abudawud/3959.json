@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3959,
+			"arabicnumber": 3959,
+			"text": "Le récit mentionné ci-dessus a aussi été transmis par Abu Qilabah par une autre chaîne de rapporteurs, d’après Imran ibn Husain, avec le même sens. Mais dans cette version, il n’est pas mentionné : « Il a parlé sévèrement d’eux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 34
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 484,
+			"arabicnumber": 484,
+			"text": "Rapporté par Salamah bin Kuhail : J'ai entendu Sa'eed bin Jubair dire : \"J'ai vu 'Abdullah bin 'Umar prier à Jam' ; il a fait l'Iqamah et a prié le Maghrib, trois unités, puis il a prié 'Isha', deux unités, puis il a dit : 'C'est ce que j'ai vu le Messager d'Allah (ﷺ) faire à cet endroit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 37
+			}
+		}
+	]
+}

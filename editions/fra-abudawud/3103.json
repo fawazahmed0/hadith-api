@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3103,
+			"arabicnumber": 3103,
+			"text": "Rapporté par Abd Allah ibn Abbas رضي الله عنه : Abd al-Rahman ibn Awf a dit : J’ai entendu le Messager d’Allah ﷺ dire : « Lorsque vous apprenez qu’une épidémie sévit dans un territoire, n’y allez pas. Si elle éclate là où vous êtes, ne partez pas en fuyant. » Par « épidémie », il parlait de la peste",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5729) Sahih Muslim (2219)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 15
+			}
+		}
+	]
+}

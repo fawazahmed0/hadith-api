@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2714,
+			"arabicnumber": 2714,
+			"text": "Rapporté par Ibn 'Abbas : Un homme est mort, et le Messager d'Allah a dit : Lavez-le avec de l'eau et des feuilles de lotus, et enveloppez-le dans ses vêtements, mais ne couvrez pas sa tête ni son visage, car il sera ressuscité le Jour de la Résurrection en récitant la Talbiyah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 96
+			}
+		}
+	]
+}

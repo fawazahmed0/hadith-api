@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5682,
+			"arabicnumber": 5682,
+			"text": "Rapporté par 'Aishah : On lui a posé des questions sur les boissons et elle a dit : « Le Messager d'Allah ﷺ interdisait tout ce qui enivre. » Et ils utilisent le récit de 'Abdullah bin Shaddad transmis par 'Abdullah bin 'Abbas",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 144
+			}
+		}
+	]
+}

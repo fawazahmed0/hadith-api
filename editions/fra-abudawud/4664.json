@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4664,
+			"arabicnumber": 4664,
+			"text": "Rapporté par Tha’labah b. Dubai’ah : Nous sommes allés voir Hudhayfah. Il a dit : « Je connais un homme que les épreuves ne toucheront pas. » Nous sommes sortis et avons vu une tente dressée. Nous sommes entrés et avons trouvé Muhammad b. Maslamah. Nous l’avons interrogé à ce sujet. Il a dit : « Je ne veux pas qu’aucune ville ne m’occupe tant que ce qui prévaut ne sera pas passé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 69
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 849,
+			"arabicnumber": 849,
+			"text": "Rapporté par ‘Amir : Les gens derrière l’imam ne doivent pas dire : « Allah entend celui qui Le loue. » Mais ils doivent dire : « Notre Seigneur, à Toi la louange. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 459
+			}
+		}
+	]
+}

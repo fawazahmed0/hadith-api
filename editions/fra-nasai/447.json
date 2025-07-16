@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"4": "The Book of Ghusl and Tayammum"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 396,
+				"hadithnumber_last": 447,
+				"arabicnumber_first": 396,
+				"arabicnumber_last": 447
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 447,
+			"arabicnumber": 447,
+			"text": "Rapporté par Busrah bin Safwan : Le Prophète (ﷺ) a dit : \"Celui qui touche son sexe ne doit pas prier avant d'avoir fait les ablutions.\" Abu 'Abdur-Rahman (An-Nasa'i) a dit : Hisham bin 'Urwah n'a pas entendu ce hadith de son père",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 53
+			}
+		}
+	]
+}

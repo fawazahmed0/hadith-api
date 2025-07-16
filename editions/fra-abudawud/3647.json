@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3647,
+			"arabicnumber": 3647,
+			"text": "Rapporté par Al-Muttalib ibn Abdullah ibn Hantab : Al-Muttalib ibn Abdullah ibn Hantab a dit : Zayd ibn Thabit est entré auprès de Mu’awiyah et lui a demandé une tradition. Il a ordonné à un homme de l’écrire. Zayd a dit : « Le Messager d’Allah ﷺ nous a ordonné de ne pas écrire ses traditions. » Alors il l’a effacée",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 7
+			}
+		}
+	]
+}

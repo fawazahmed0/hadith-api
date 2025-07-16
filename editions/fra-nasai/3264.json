@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3264,
+			"arabicnumber": 3264,
+			"text": "Rapporté par Ibn 'Abbas : Le Prophète ﷺ a dit : \"Une femme déjà mariée a plus de droit qu’on tienne compte de son avis pour son mariage, et une vierge doit être consultée par son père, et son accord, c’est son silence",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 69
+			}
+		}
+	]
+}

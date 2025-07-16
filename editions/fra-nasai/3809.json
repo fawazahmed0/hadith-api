@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3809,
+			"arabicnumber": 3809,
+			"text": "Rapporté par Imran bin Husain : Le Messager d’Allah a dit : \"Les meilleurs d’entre vous sont ceux de ma génération, puis ceux qui viennent après eux, puis ceux qui viennent après eux, puis ceux qui viennent après eux.\" – Je ne sais pas s’il a dit deux ou trois fois après lui. Ensuite, il a parlé de certaines personnes qui trahissent et à qui on ne peut pas faire confiance, qui témoignent sans qu’on le leur demande, qui font des vœux sans les accomplir, et où l’obésité deviendra courante parmi eux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 49
+			}
+		}
+	]
+}

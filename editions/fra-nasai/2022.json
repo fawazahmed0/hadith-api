@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2022,
+			"arabicnumber": 2022,
+			"text": "Rapporté par Yazid bin Thabit : Ils sont sortis un jour avec le Messager d'Allah et il a vu une nouvelle tombe. Il a demandé : \"Qu'est-ce que c'est ?\" Ils ont répondu : \"C'est untel, l'esclave affranchie des Banu untel\" - que le Messager d'Allah connaissait - \"Elle est morte à midi et nous n'avons pas voulu te réveiller alors que tu jeûnais et faisais la sieste.\" Le Messager d'Allah s'est levé (pour prier) et les gens se sont alignés derrière lui. Il a prononcé quatre Takbirs sur elle puis il a dit : \"Si l'un de vous meurt pendant que je suis encore parmi vous, informez-moi, car ma prière pour lui est une miséricorde",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 205
+			}
+		}
+	]
+}

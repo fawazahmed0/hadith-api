@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1143,
+			"arabicnumber": 1143,
+			"text": "La tradition mentionnée ci-dessus a aussi été rapportée par Ibn ‘Abbas رضي الله عنه avec le même sens par une autre chaîne de transmetteurs. Cette version ajoute : Le Prophète ﷺ a pensé que les femmes n’avaient pas entendu (son sermon). Il est donc allé vers elles, Bilal étant avec lui. Il leur a fait une exhortation et leur a ordonné de donner l’aumône. Certaines femmes ont mis leurs boucles d’oreilles et d’autres leurs bagues dans le vêtement de Bilal",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (98) Sahih Muslim (884)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 754
+			}
+		}
+	]
+}

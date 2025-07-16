@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2166,
+			"arabicnumber": 2166,
+			"text": "Rapporté par Aisha (la mère des croyants) رضي الله عنها : « Le Messager d’Allah ﷺ et moi, nous nous couchions sous le même drap la nuit alors que j’avais mes règles. Si quelque chose de moi le salissait, il lavait juste l’endroit touché et ne lavait pas au-delà. Si quelque chose de lui salissait son vêtement, il lavait juste l’endroit touché et ne lavait pas au-delà, puis il priait avec ce vêtement. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 121
+			}
+		}
+	]
+}

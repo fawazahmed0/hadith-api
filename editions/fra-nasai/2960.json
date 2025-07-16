@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2960,
+			"arabicnumber": 2960,
+			"text": "Rapporté par Amr (c’est-à-dire, bin Umar) : « Le Messager d’Allah ﷺ est venu et a fait le tour de la Maison sept fois, puis il a prié deux unités de prière derrière le Maqam et a fait le Sa’i entre As-Safa et Al-Marwah, et il a dit : “En effet, dans le Messager d’Allah vous avez un bel exemple à suivre.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 343
+			}
+		}
+	]
+}

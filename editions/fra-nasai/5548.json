@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5548,
+			"arabicnumber": 5548,
+			"text": "Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ a interdit Ad-Dubba', Al-Hantam, Al-Muzaffat, et An-Naqir, et il a aussi interdit de mélanger Al-Balh avec Az-Zahuw",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 9
+			}
+		}
+	]
+}

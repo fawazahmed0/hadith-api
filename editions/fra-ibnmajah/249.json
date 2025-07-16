@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 249,
+			"arabicnumber": 249,
+			"text": "Rapporté par Abu Harun Al-'Abdi : Quand nous allions voir Abu Sa'eed Al-Khudri, il disait : « Soyez les bienvenus, conformément à l’ordre du Messager d’Allah ﷺ, car le Messager d’Allah nous a dit : “Les gens viendront vers vous ; ils viendront de toutes les régions de la terre pour comprendre la religion. Alors, quand ils viendront vers vous, prenez soin d’eux.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 249
+			}
+		}
+	]
+}

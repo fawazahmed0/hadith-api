@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3077,
+			"arabicnumber": 3077,
+			"text": "Rapporté par ‘Ikrimah : Hajjaj bin ‘Amr Ansari m’a raconté, il a dit : J’ai entendu le Prophète (ﷺ) dire : “Celui qui se casse un os ou devient boiteux sort de l’Ihram, mais il doit accomplir un autre Hajj.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 196
+			}
+		}
+	]
+}

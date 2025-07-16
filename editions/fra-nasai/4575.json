@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4575,
+			"arabicnumber": 4575,
+			"text": "Rapporté par Abu Al-Minhal : Sharik m'a vendu de l'argent à crédit. Il est venu me le dire. J'ai répondu : \"Ce n'est pas correct.\" Il a dit : \"Par Allah, j'ai fait cette transaction au marché et personne ne m'a critiqué.\" Alors je suis allé voir Al-Bara bin Azib et je lui ai demandé à ce sujet. Il a dit : \"Le Prophète ﷺ est venu à nous à Médine et nous faisions ce genre de transaction, mais il a dit : Ce qui est de main à main, il n'y a pas de mal, mais ce qui est à crédit, c'est du riba.\" Puis il m'a dit : \"Va voir Zaid bin Arqam.\" Alors j'y suis allé et je lui ai demandé, et il a dit la même chose",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 127
+			}
+		}
+	]
+}

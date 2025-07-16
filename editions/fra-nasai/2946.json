@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2946,
+			"arabicnumber": 2946,
+			"text": "Rapporté par Az-Zubair ibn Adiyy : Un homme a demandé à Ibn Umar au sujet du fait de toucher la Pierre Noire et il a répondu : « J’ai vu le Messager d’Allah la toucher et l’embrasser. » L’homme a dit : « Et si c’est trop bondé et que je suis submergé ? » Ibn Umar, qu’Allah l’agrée, a dit : « Laisse tes “et si” au Yémen ! J’ai vu le Messager d’Allah la toucher et l’embrasser. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 329
+			}
+		}
+	]
+}

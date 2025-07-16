@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 204,
+			"arabicnumber": 204,
+			"text": "Rapporté par 'Aïcha : Umm Habibah bint Jahsh, l’épouse de 'Abdur-Rahman bin 'Awf et la sœur de Zainab bint Jahsh, a eu des saignements hors règles (Istihadah). Elle a consulté le Messager d’Allah (ﷺ) et le Messager d’Allah (ﷺ) lui a dit : « Ce n’est pas les règles, c’est une veine. Quand ta période se termine, fais le Ghusl et prie, et quand elle commence, arrête de prier pendant ce temps. » 'Aïcha a dit : « Elle faisait le Ghusl pour chaque prière et priait. Parfois, elle faisait le Ghusl dans une bassine dans la chambre de sa sœur Zainab alors qu’elle était avec le Messager d’Allah (ﷺ), et l’eau devenait rouge de sang, puis elle sortait et priait avec le Messager d’Allah (ﷺ). Cela ne l’empêchait pas de prier. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 205
+			}
+		}
+	]
+}

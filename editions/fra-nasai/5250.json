@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5250,
+			"arabicnumber": 5250,
+			"text": "Rapporté par Asma' : Une femme est venue voir le Messager d'Allah ﷺ et a dit : \"Ô Messager d'Allah ﷺ, une de mes filles va se marier. Elle est tombée malade et a perdu ses cheveux. Est-ce un péché si je lui mets des extensions ?\" Il a dit : \"Allah a maudit la femme qui pose des extensions de cheveux et celle qui en porte",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 211
+			}
+		}
+	]
+}

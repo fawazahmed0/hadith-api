@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 368,
+			"arabicnumber": 368,
+			"text": "Rapporté par Aishah رضي الله عنها : Le Prophète ﷺ ne priait pas dans nos couvertures. Hammad a dit : J’ai entendu Sa‘id ibn Abi Sadaqah dire : J’ai demandé à Muhammad ibn Sirin à ce sujet. Il ne me l’a pas rapporté mais a dit : « Je l’ai entendu il y a longtemps, mais je ne sais plus de qui. Je ne sais pas si c’était une personne fiable ou non. Renseigne-toi à ce sujet. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 368
+			}
+		}
+	]
+}

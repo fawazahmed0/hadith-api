@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1354,
+			"arabicnumber": 1354,
+			"text": "La tradition ci-dessus a aussi été transmise par Husain par une autre chaîne de rapporteurs de la même manière. Cette version contient les mots : « Et accorde-moi beaucoup de lumière. » Abu Dawud a dit : Cette tradition a été transmise par Abu Khalid al-Dalani, de Habib et Salamah b. Kuhail, de Abu Rishdin, de Ibn ‘Abbas, de façon similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 105
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2351,
+			"arabicnumber": 2351,
+			"text": "Rapporté par 'Aishah : Le Messager d'Allah ﷺ jeûnait au point que nous disions : « Il ne rompra pas son jeûne. » Et il ne jeûnait pas au point que nous disions : « Il ne jeûnera pas. » Et je n'ai jamais vu le Messager d'Allah ﷺ jeûner autant dans un mois que dans Sha'ban",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 262
+			}
+		}
+	]
+}

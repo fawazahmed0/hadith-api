@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 794,
+			"arabicnumber": 794,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Lorsque l’un de vous dirige les gens dans la prière, qu’il la fasse courte, car parmi eux se trouvent des faibles, des malades et des personnes âgées. Mais quand l’un de vous prie seul, il peut prier aussi longtemps qu’il le souhaite. »",
+			"grades": [
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (703)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 404
+			}
+		}
+	]
+}

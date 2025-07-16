@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 661,
+			"arabicnumber": 661,
+			"text": "Rapporté par 'Abdur-Rahman bin Abi Sa'eed, d’après son père : Le jour d’Al-Khandaq, les polythéistes nous ont empêchés de prier le Zuhr jusqu’à ce que le soleil se couche ; c’était avant la révélation concernant le combat. Puis Allah, le Tout-Puissant, a révélé : « Allah a suffi aux croyants dans le combat. » Le Messager d’Allah (ﷺ) a alors ordonné à Bilal de faire l’Iqamah pour la prière du Zuhr, et il l’a accomplie comme d’habitude. Ensuite, il a fait l’Iqamah pour le ‘Asr et l’a accomplie comme d’habitude. Puis il a fait l’Adhan pour le Maghrib et l’a accomplie à l’heure",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 36
+			}
+		}
+	]
+}

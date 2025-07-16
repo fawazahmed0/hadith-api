@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1574,
+			"arabicnumber": 1574,
+			"text": "Rapporté par Simak : J’ai demandé à Jabir : « Le Messager d’Allah (ﷺ) prononçait-il le sermon debout ? » Il a répondu : « Le Messager d’Allah (ﷺ) prononçait le sermon debout, puis il s’asseyait un moment, puis se relevait. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 19
+			}
+		}
+	]
+}

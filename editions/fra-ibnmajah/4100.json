@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4100,
+			"arabicnumber": 4100,
+			"text": "Rapporté par Abu Dharr Al-Ghifari : Le Messager d’Allah (ﷺ) a dit : \"Se détacher de ce monde ne veut pas dire interdire ce qui est permis ou gaspiller la richesse, mais cela signifie ne pas penser que ce que tu as en main est plus sûr que ce qu’il y a dans la Main d’Allah, et croire que la récompense pour une épreuve qui t’atteint est plus grande que ce que tu as perdu à cause de cette épreuve",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 1
+			}
+		}
+	]
+}

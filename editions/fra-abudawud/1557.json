@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1557,
+			"arabicnumber": 1557,
+			"text": "Ce récit a aussi été transmis par Al Zuhri à travers une autre chaîne de rapporteurs. Cette version dit : « Abu Bakr a dit que ce qui est dû, c’est le paiement de la zakat. » Il a utilisé l’expression « une corde de chamelle »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (7284، 7285) Sahih Muslim (20)"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 2
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"2": "The Book of Water"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 325,
+				"hadithnumber_last": 347,
+				"arabicnumber_first": 325,
+				"arabicnumber_last": 347
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 340,
+			"arabicnumber": 340,
+			"text": "Rapporté par Kabshah bint Ka'ab bin Malik : Abu Qatadah est entré chez elle, puis elle a raconté : \"Je lui ai versé de l’eau pour ses ablutions, et un chat est venu boire dedans, alors il a incliné le récipient pour qu’il puisse boire.\" Kabshah a dit : \"Il m’a vue le regarder et a dit : 'Es-tu étonnée, ô fille de mon frère ?' J’ai répondu : 'Oui.' Il a dit : 'Le Messager d’Allah (ﷺ) a dit : 'Ils ne sont pas impurs, ce sont des animaux qui vivent parmi vous",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 16
+			}
+		}
+	]
+}

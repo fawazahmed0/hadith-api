@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3488,
+			"arabicnumber": 3488,
+			"text": "Rapporté par Zaid bin Arqam : Trois hommes ont été amenés à ‘Ali alors qu’il était au Yémen ; ils avaient tous eu des rapports avec une femme pendant le même cycle menstruel. Il a demandé à deux d’entre eux : \"Reconnaissez-vous que cet enfant appartient (au troisième homme) ?\" Ils ont répondu : \"Non.\" Il a demandé à deux autres : \"Reconnaissez-vous que cet enfant appartient (au troisième homme) ?\" Ils ont répondu : \"Non.\" Alors il a tiré au sort entre eux, a attribué l’enfant à celui sur qui le sort est tombé, et l’a obligé à payer les deux tiers du diyah. Le Prophète en a été informé, et il a tellement ri que ses molaires étaient visibles",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 100
+			}
+		}
+	]
+}

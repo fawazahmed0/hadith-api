@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1701,
+			"arabicnumber": 1701,
+			"text": "Rapporté par ‘Aishah : Le Messager d’Allah (ﷺ) entrait chez moi et disait : “As-tu quelque chose à manger ?” Si nous répondions : “Non”, il disait : “Alors je jeûne.” Il continuait donc à jeûner, puis si on nous apportait de la nourriture, il rompait son jeûne. Elle a dit : “Parfois, il jeûnait puis rompait le jeûne dans la même journée.” J’ai demandé : “Comment cela ?” Elle a répondu : “Comme quelqu’un qui sort avec de l’argent pour donner en aumône, il en donne une partie et garde le reste.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 64
+			}
+		}
+	]
+}

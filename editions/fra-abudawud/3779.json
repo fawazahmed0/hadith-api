@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3779,
+			"arabicnumber": 3779,
+			"text": "Rapporté par Safwan ibn Umayyah رضي الله عنه : Je mangeais avec le Prophète ﷺ et j’arrachais la viande de l’os avec ma main. Il m’a dit : « Approche l’os de ta bouche, c’est meilleur et plus sain. » Abu Dawud a dit : ‘Uthman n’a pas entendu (ce récit) de Safwan. Ceci est une tradition mursal",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 44
+			}
+		}
+	]
+}

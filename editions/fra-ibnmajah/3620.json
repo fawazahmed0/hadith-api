@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"32": "Chapters on Dress"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3550,
+				"hadithnumber_last": 3656,
+				"arabicnumber_first": 3550,
+				"arabicnumber_last": 3656
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3620,
+			"arabicnumber": 3620,
+			"text": "Rapporté par Ibn Buraidah, d’après son père : An-Najashi a offert au Prophète ﷺ une paire de khuffs noirs purs, et il les a portés",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 71
+			}
+		}
+	]
+}

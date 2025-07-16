@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1558,
+			"arabicnumber": 1558,
+			"text": "Rapporté par Hafsah : Umm 'Atiyyah ne mentionnait jamais le Messager d’Allah (ﷺ) sans dire : « Que mon père soit sacrifié pour lui. » J’ai demandé : « As-tu entendu le Messager d’Allah (ﷺ) dire ceci ou cela ? » Elle a répondu : « Oui, que mon père soit sacrifié pour lui. » Il a dit : « Que les jeunes filles, les femmes en retrait et les femmes ayant leurs règles sortent pour assister à l’Aïd et aux invocations des musulmans, mais que celles qui ont leurs règles restent à l’écart du lieu de prière. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 3
+			}
+		}
+	]
+}

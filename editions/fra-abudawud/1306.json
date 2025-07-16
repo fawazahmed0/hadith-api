@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1306,
+			"arabicnumber": 1306,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Quand l’un de vous s’endort, le diable fait trois nœuds à l’arrière de son cou, en scellant chaque nœud par : “Tu as une longue nuit devant toi, alors dors.” Si la personne se réveille et mentionne Allah, un nœud se défait ; si elle fait les ablutions, un autre nœud se défait ; et si elle prie, le troisième nœud se défait. Ainsi, elle se lèvera le matin pleine d’énergie et de bonne humeur. Sinon, elle sera de mauvaise humeur et paresseuse. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1142) Sahih Muslim (776)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 57
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"30": "Chapters on Drinks"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3371,
+				"hadithnumber_last": 3435,
+				"arabicnumber_first": 3371,
+				"arabicnumber_last": 3435
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3417,
+			"arabicnumber": 3417,
+			"text": "Rapporté par Ibn ‘Abbas : Le Prophète (ﷺ) buvait en prenant deux respirations pendant qu’il buvait",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 47
+			}
+		}
+	]
+}

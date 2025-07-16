@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4649,
+			"arabicnumber": 4649,
+			"text": "Rapporté par Sa’id ibn Zayd : ‘Abd al-Rahman ibn al-Akhnas a dit que lorsqu’il était dans la mosquée, un homme a mentionné ‘Ali رضي الله عنه. Alors Sa’id ibn Zayd s’est levé et a dit : « Je témoigne devant le Messager d’Allah ﷺ que je l’ai entendu dire : “Dix personnes iront au Paradis : Le Prophète ﷺ ira au Paradis, Abu Bakr ira au Paradis, ‘Umar ira au Paradis, ‘Uthman ira au Paradis, ‘Ali ira au Paradis, Talhah ira au Paradis, az-Zubayr ibn al-Awwam ira au Paradis, Sa’d ibn Malik ira au Paradis, et ‘Abd al-Rahman ibn ‘Awf ira au Paradis. Si je veux, je peux mentionner le dixième.” Les gens ont demandé : “Qui est-ce ?” Il est resté silencieux. Ils ont redemandé : “Qui est-ce ?” Il a répondu : “C’est Sa’id ibn Zayd.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 54
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3713,
+			"arabicnumber": 3713,
+			"text": "Rapporté par Ibn Abbas رضي الله عنه : « On faisait tremper des raisins secs pour le Prophète ﷺ, et il en buvait le matin et la nuit suivante, puis le lendemain matin et la nuit suivante. Ensuite, il ordonnait qu’on en donne à boire aux serviteurs ou qu’on le jette. » Abu Dawud a dit : « Donner à boire aux serviteurs » signifie avant que la boisson ne se gâte",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (2004)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 45
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"46": "The Book of Cutting off the Hand of the Thief"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 4870,
+				"hadithnumber_last": 4984,
+				"arabicnumber_first": 4870,
+				"arabicnumber_last": 4984
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4915,
+			"arabicnumber": 4915,
+			"text": "Rapporté par 'Aishah : Le Messager d'Allah a dit : \"La main du voleur n’est coupée que pour le prix d’un bouclier, un tiers de dinar, un demi-dinar ou plus",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 46,
+				"hadith": 46
+			}
+		}
+	]
+}

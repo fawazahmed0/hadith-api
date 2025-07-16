@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 693,
+			"arabicnumber": 693,
+			"text": "Rapporté par Abu Sa'eed : Le Messager d'Allah ﷺ nous a dirigés pour la prière du Maghrib. Ensuite, il n'est pas sorti jusqu'à ce que la moitié de la nuit soit passée. Puis il est sorti et les a dirigés en prière, puis il a dit : \"Les gens ont prié et sont allés dormir, mais vous êtes encore en prière tant que vous attendez la prochaine prière. Si ce n'était pas pour les faibles et les malades, j'aurais voulu retarder cette prière jusqu'à la moitié de la nuit",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 27
+			}
+		}
+	]
+}

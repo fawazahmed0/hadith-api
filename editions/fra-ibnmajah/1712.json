@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1712,
+			"arabicnumber": 1712,
+			"text": "Rapporté par ‘Abdullah bin ‘Amr : Le Messager d’Allah (ﷺ) a dit : “Le jeûne le plus aimé d’Allah est celui de Dawud, car il jeûnait un jour et ne jeûnait pas le lendemain. Et la prière la plus aimée d’Allah est celle de Dawud ; il dormait la moitié de la nuit, priait un tiers de la nuit et dormait un sixième de la nuit.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 75
+			}
+		}
+	]
+}

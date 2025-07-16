@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1917,
+			"arabicnumber": 1917,
+			"text": "Rapporté par Al-Adda’ ibn Khalid ibn Hudhah : J’ai vu le Messager d’Allah ﷺ le 9 Dhu al-Hijjah sur une chamelle, debout aux étriers. Abu Dawud a dit : Ibn al-‘Ala a rapporté ce récit de Waki‘, comme l’a transmis Hammad",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 197
+			}
+		}
+	]
+}

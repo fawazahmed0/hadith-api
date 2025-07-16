@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"30": "Chapters on Drinks"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3371,
+				"hadithnumber_last": 3435,
+				"arabicnumber_first": 3371,
+				"arabicnumber_last": 3435
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3379,
+			"arabicnumber": 3379,
+			"text": "Rapporté par Nu’man bin Bashir : Le Messager d’Allah (ﷺ) a dit : « Le vin peut être fabriqué à partir de blé, d’orge, de raisins secs, de dattes et de miel. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 9
+			}
+		}
+	]
+}

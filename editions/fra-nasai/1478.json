@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1478,
+			"arabicnumber": 1478,
+			"text": "Rapporté par Jabir bin 'Abdullah : Le soleil s’est éclipsé à l’époque du Messager d’Allah (ﷺ), un jour de grande chaleur. Le Messager d’Allah (ﷺ) a dirigé la prière avec ses compagnons, et il est resté debout si longtemps que certains ont commencé à tomber. Ensuite, il s’est incliné longtemps, puis il s’est relevé et est resté debout longtemps. Il s’est encore incliné longtemps, puis il s’est relevé et est resté debout longtemps. Ensuite, il s’est prosterné deux fois, puis il s’est relevé et a recommencé la même chose. Il a avancé, puis reculé. Il s’est incliné quatre fois et s’est prosterné quatre fois. À l’époque, on disait que les éclipses du soleil et de la lune n’arrivaient que lorsqu’un grand homme mourait, mais ce sont deux signes d’Allah (SWT) qu’Il vous montre. Donc, quand une éclipse se produit, priez jusqu’à ce qu’elle se termine",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 20
+			}
+		}
+	]
+}

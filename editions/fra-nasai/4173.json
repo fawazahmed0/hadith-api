@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4173,
+			"arabicnumber": 4173,
+			"text": "Rapporté par 'Abdullah bin As-Sa'di : Nous sommes venus en délégation voir le Messager d’Allah et mes compagnons sont entrés et ont posé leurs questions. J’étais le dernier à entrer, et il m’a dit : \"Quelle est ta question ?\" J’ai dit : \"Ô Messager d’Allah, quand l’émigration prendra-t-elle fin ?\" Le Messager d’Allah a dit : \"L’émigration ne cessera pas tant que les mécréants seront combattus",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 25
+			}
+		}
+	]
+}

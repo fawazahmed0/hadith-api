@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"40": "The Book of al-'Aqiqah"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4212,
+				"hadithnumber_last": 4221,
+				"arabicnumber_first": 4212,
+				"arabicnumber_last": 4221
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4220,
+			"arabicnumber": 4220,
+			"text": "Rapporté par Qatadah, d’après Al-Hasan, d’après Samurh bin Jundab : Le Messager d’Allah ﷺ a dit : \"Chaque garçon est lié à son Aqiqah, alors sacrifiez un animal pour lui le septième jour, rasez-lui la tête et donnez-lui un nom",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 9
+			}
+		}
+	]
+}

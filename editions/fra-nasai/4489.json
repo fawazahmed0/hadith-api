@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4489,
+			"arabicnumber": 4489,
+			"text": "Rapporté par Abou Hourayra : Abou Al-Qasim a dit : « Celui qui achète une Musarraha a le choix (d’annuler l’affaire) pendant trois jours. S’il veut la garder, il la garde, et s’il veut la rendre, il la rend avec un Sâ’ de dattes, pas de blé. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 41
+			}
+		}
+	]
+}

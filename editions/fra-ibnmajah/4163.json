@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4163,
+			"arabicnumber": 4163,
+			"text": "Rapporté par Harithah bin Mudarrib : Nous sommes allés rendre visite à Khabbab (lorsqu’il était malade), et il a dit : “Je suis malade depuis longtemps, et si je n’avais pas entendu le Messager d’Allah (ﷺ) dire : ‘Ne souhaitez pas la mort’, je l’aurais souhaitée.” Et il a dit : “Une personne sera récompensée pour toutes ses dépenses, sauf pour ce qu’elle dépense dans la poussière,” ou il a dit, “dans la construction.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 64
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4278,
+			"arabicnumber": 4278,
+			"text": "Rapporté par Ibn ‘Umar : Le Prophète (ﷺ) a dit : « Le jour où toute l’humanité se tiendra devant le Seigneur de l’univers. » [83:6] L’un d’eux sera debout, plongé dans sa sueur jusqu’à la moitié de ses oreilles. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 179
+			}
+		}
+	]
+}

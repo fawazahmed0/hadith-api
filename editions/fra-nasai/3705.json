@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"32": "The Book of Gifts"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3688,
+				"hadithnumber_last": 3705,
+				"arabicnumber_first": 3688,
+				"arabicnumber_last": 3705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3705,
+			"arabicnumber": 3705,
+			"text": "Rapporté par Hanzalah : Il a entendu Tawus dire : « Certains de ceux qui ont rencontré le Prophète ﷺ nous ont dit qu'il a dit : “Celui qui donne quelque chose puis reprend son cadeau ressemble à un chien qui mange, vomit, puis mange son vomi.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 18
+			}
+		}
+	]
+}

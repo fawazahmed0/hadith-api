@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4645,
+			"arabicnumber": 4645,
+			"text": "Rapporté par Sulaiman al-A’mash : J’ai accompli la prière du vendredi avec al-Hajjaj et il a prononcé un discours. Il a ensuite transmis la tradition d’Abu Bakr b. ‘Ayyash. Il y a dit : « Écoutez et obéissez au calife d’Allah et à son élu ‘Abd al-Malik bin Marwan. » Il a ensuite transmis le reste de la tradition, et a dit : « Si je prends Rabi’ah pour Mudar. » Mais il n’a pas mentionné l’histoire des clients (c’est-à-dire des non-Arabes)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 50
+			}
+		}
+	]
+}

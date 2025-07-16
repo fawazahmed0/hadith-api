@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"10": "The Book of Lost and Found Items"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 1701,
+				"hadithnumber_last": 1720,
+				"arabicnumber_first": 1701,
+				"arabicnumber_last": 1720
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1714,
+			"arabicnumber": 1714,
+			"text": "Rapporté par Abu Sa’id al-Khudri : Ali ibn Abu Talib trouva un dinar et l’apporta à Fatimah. Elle interrogea le Messager d’Allah ﷺ à ce sujet. Il dit : « C’est une subsistance accordée par Allah. » Puis le Messager d’Allah ﷺ mangea de la nourriture achetée avec ce dinar, et Ali ainsi que Fatimah en mangèrent aussi. Mais ensuite, une femme vint en pleurant à propos du dinar. Le Prophète ﷺ dit : « Rends le dinar, Ali. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 14
+			}
+		}
+	]
+}

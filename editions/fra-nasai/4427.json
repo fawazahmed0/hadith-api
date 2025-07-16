@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4427,
+			"arabicnumber": 4427,
+			"text": "Rapporté par Ibn Khabbab – c’est-à-dire ‘Abdullah bin Khabbab : Abu Sa‘id Al-Khudri est revenu d’un voyage et sa famille lui a offert de la viande d’un animal de sacrifice. Il a dit : « Je ne vais pas en manger avant de me renseigner. » Il est donc allé voir son demi-frère par sa mère, Qatadah bin An-Nu‘man, qui avait été présent à Badr, et l’a interrogé à ce sujet. Il a dit : « C’est le contraire de ce qui t’avait été interdit, car ensuite il a été permis de manger la viande du sacrifice après trois jours. » (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 67
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"7": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1401,
+				"hadithnumber_last": 1415,
+				"arabicnumber_first": 1401,
+				"arabicnumber_last": 1415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1414,
+			"arabicnumber": 1414,
+			"text": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Le Messager d’Allah ﷺ se prosternait la nuit en récitant le Coran. Il répétait souvent : « Mon visage se prosterne devant Celui qui l’a créé et qui lui a donné l’ouïe et la vue par Sa puissance et Sa force. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 14
+			}
+		}
+	]
+}

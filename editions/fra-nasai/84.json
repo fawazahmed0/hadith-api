@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 84,
+			"arabicnumber": 84,
+			"text": "Rapporté par Humran bin Aban : J'ai vu 'Uthman bin 'Affan, que Allah l'agrée, faire les ablutions. Il a versé de l'eau sur ses mains trois fois et les a lavées, puis il s'est rincé la bouche et le nez, puis il a lavé son visage trois fois, puis il a lavé son bras droit jusqu'au coude trois fois, puis le gauche de la même façon. Ensuite, il a essuyé sa tête, puis il a lavé son pied droit trois fois, puis le gauche de la même façon. Ensuite, il a dit : \"J'ai vu le Messager d'Allah (ﷺ) faire les ablutions comme je viens de le faire.\" Puis il a ajouté : \"Celui qui fait les ablutions comme je viens de le faire, puis prie deux rak'ahs sans se laisser distraire, ses péchés passés seront pardonnés",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 84
+			}
+		}
+	]
+}

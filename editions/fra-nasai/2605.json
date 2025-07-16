@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2605,
+			"arabicnumber": 2605,
+			"text": "Rapporté par Abdullah bin As-Sa'di : Je suis venu voir ‘Umar bin Al-Khattab, رضي الله عنه, depuis Ash-Sham, et il m’a dit : « J’ai entendu dire que tu faisais un travail pour les musulmans et qu’on te payait pour cela, mais que tu refusais ce paiement. » J’ai répondu : « Oui, c’est vrai ; j’ai des chevaux, des esclaves et je suis à l’aise financièrement, et je voulais que mon travail soit une aumône pour les musulmans. » ‘Umar, رضي الله عنه, a dit : « J’ai voulu la même chose que toi. Le Prophète me donnait de l’argent, et je disais : “Donne-le à quelqu’un qui en a plus besoin que moi.” Une fois, il m’a donné de l’argent et j’ai dit : “Donne-le à quelqu’un qui en a plus besoin que moi.” Il a dit : “Tout ce qu’Allah, le Puissant et Majestueux, te donne de cette richesse sans que tu l’aies demandé ou espéré, prends-le et garde-le, ou bien donne-le en aumône. Et ce qu’Il ne te donne pas, ne le désire pas et ne l’espère pas.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 171
+			}
+		}
+	]
+}

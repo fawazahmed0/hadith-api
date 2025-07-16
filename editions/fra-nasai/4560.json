@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4560,
+			"arabicnumber": 4560,
+			"text": "Rapporté par Muslim bin Yasar et 'Abdullah bin 'Atik : Ubadah bin As-Samit et Muawiyah se sont rencontrés à un arrêt sur la route. Ubadah leur a dit : \"Le Messager d'Allah ﷺ a interdit de vendre or contre or, argent contre argent, blé contre blé, orge contre orge, dattes contre dattes\" – l'un d'eux a ajouté : \"sel contre sel\", mais l'autre ne l'a pas dit – \"sauf si c'est équivalent, de main à main. Et il nous a ordonné de vendre or contre argent, argent contre or, blé contre orge et orge contre blé, de main à main, comme nous le voulions.\" Et l'un d'eux a dit : \"Celui qui donne plus ou demande plus a pratiqué le riba",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 112
+			}
+		}
+	]
+}

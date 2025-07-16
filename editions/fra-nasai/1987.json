@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1987,
+			"arabicnumber": 1987,
+			"text": "Rapporté par Talhah bin ‘Abdullah bin ‘Awf : J’ai accompli la prière funéraire derrière Ibn ‘Abbas. Il a récité la Fatiha et une sourate, à voix haute, de sorte que nous l’avons entendu. Quand il a terminé, je l’ai pris par la main et je lui ai demandé. Il a dit : \"C’est la Sunna et la vérité",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 170
+			}
+		}
+	]
+}

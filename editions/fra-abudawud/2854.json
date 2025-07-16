@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"17": "Game (Kitab Al-Said)"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 2844,
+				"hadithnumber_last": 2861,
+				"arabicnumber_first": 2844,
+				"arabicnumber_last": 2861
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2854,
+			"arabicnumber": 2854,
+			"text": "Rapporté par Adi ibn Hatim : J’ai interrogé le Prophète ﷺ au sujet d’une flèche sans plumes. Il a dit : « Si elle frappe avec sa pointe, mange ; si elle frappe avec le côté, ne mange pas, car l’animal est mort d’un coup violent. » J’ai dit : « Et si j’envoie mon chien ? » Il a répondu : « Si tu mentionnes le nom d’Allah, mange ; sinon, ne mange pas. Si le chien en mange, ne mange pas, car il l’a attrapé pour lui-même. » J’ai demandé : « Si j’envoie mon chien et que j’en trouve un autre avec lui ? » Il a répondu : « Ne mange pas, car tu n’as mentionné le nom d’Allah que sur ton chien. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (175) Sahih Muslim (1929)"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 11
+			}
+		}
+	]
+}

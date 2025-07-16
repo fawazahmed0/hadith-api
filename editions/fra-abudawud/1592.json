@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1592,
+			"arabicnumber": 1592,
+			"text": "En expliquant le sens de « jalab » et « janab », Muhammad ibn Ishaq a dit : « Jalab » signifie que la zakat des animaux doit être collectée à l’endroit où ils se trouvent, et qu’ils ne doivent pas être amenés jusqu’au collecteur. « Janab » signifie que les animaux sont déplacés à distance (du collecteur). Ce sont les propriétaires qui doivent le faire. Le collecteur de zakat ne doit pas rester loin des lieux où les gens amènent leurs animaux. La zakat doit être collectée sur place",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 37
+			}
+		}
+	]
+}

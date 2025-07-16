@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3377,
+			"arabicnumber": 3377,
+			"text": "Rapporté par Abu Sa’id Al Khudri رضي الله عنه : Le Prophète ﷺ a interdit deux types de transactions commerciales et deux façons de s’habiller. Les deux types de transactions sont la mulamasah et la munabadhah. Quant aux deux façons de s’habiller, il s’agit d’enrouler le samma', et de s’asseoir en s’enveloppant dans un seul vêtement sans couvrir ses parties intimes ou sans rien porter sur ses parties intimes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6284) Sahih Muslim (1512)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 52
+			}
+		}
+	]
+}

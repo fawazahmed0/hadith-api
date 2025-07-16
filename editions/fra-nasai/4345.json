@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4345,
+			"arabicnumber": 4345,
+			"text": "Rapporté par Ibn Abi Qatadah, d’après Abu Qatadah : Il a attrapé un onagre et l’a apporté à ses compagnons qui étaient en état d’Ihram, alors que lui ne l’était pas, et ils en ont mangé. Ensuite, ils se sont dit : « Demandons au Messager d’Allah à ce sujet. » Nous l’avons donc interrogé et il a dit : « Vous avez bien fait. » Puis il nous a demandé : « Est-ce qu’il vous en reste ? » Nous avons répondu : « Oui. » Il a dit : « Donnez-m’en un peu. » Nous lui en avons apporté, et il en a mangé alors qu’il était en état d’Ihram",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 83
+			}
+		}
+	]
+}

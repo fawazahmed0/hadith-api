@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1847,
+			"arabicnumber": 1847,
+			"text": "Rapporté par 'Aïsha رضي الله عنها : \"Quand la mort de Zayd bin Harithah, Ja’far bin Abi Talib et 'Abdullah bin Rawahah a été annoncée, le Messager d’Allah ﷺ s’est assis et on voyait qu’il était attristé. Je regardais à travers une fente de la porte, et un homme est venu dire : 'Les femmes de Ja’far pleurent.' Le Messager d’Allah ﷺ a dit : 'Va les empêcher.' Il est parti, puis il est revenu et a dit : 'Je leur ai dit d’arrêter mais elles refusent.' Il a dit : 'Va les empêcher.' Il est reparti puis il est revenu et a dit : 'Je leur ai dit d’arrêter mais elles refusent.' Il a dit : 'Jette de la poussière dans leur bouche.'\" 'Aïsha a dit : \"J’ai dit : 'Qu’Allah couvre de poussière le nez de celui qui est là-bas ! Tu n’as pas laissé le Messager d’Allah tranquille mais tu n’allais pas faire ce qu’il t’a demandé",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 30
+			}
+		}
+	]
+}

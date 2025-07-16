@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 954,
+			"arabicnumber": 954,
+			"text": "Rapporté par Aïcha, l’épouse du Prophète ﷺ رضي الله عنها : Quand le Prophète ﷺ priait assis, il récitait le Coran en étant assis. Quand il lui restait environ trente ou quarante versets, il se levait, les récitait debout, puis s’inclinait et se prosternait, et il faisait de même dans la deuxième unité de prière. Abu Dawud a dit : ‘Alqamah ibn Waqqas a rapporté ce récit d’Aïcha, du Prophète ﷺ, dans le même sens",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1119) Sahih Muslim (731)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 565
+			}
+		}
+	]
+}

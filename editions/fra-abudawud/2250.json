@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2250,
+			"arabicnumber": 2250,
+			"text": "La tradition mentionnée ci-dessus a aussi été transmise par Sahl ibn Sa’d Al Sa’idi par une autre chaîne de narrateurs. Cette version précise : « Il l’a divorcée trois fois devant le Messager d’Allah ﷺ. Le Messager d’Allah ﷺ l’a appliqué, et ce qui a été fait devant le Prophète ﷺ est une sunna (comportement à suivre). » Sahl a dit : « J’ai assisté à cela devant le Messager d’Allah ﷺ. Par la suite, la sunna concernant ceux qui s’échangent les malédictions a été établie : ils sont séparés à jamais et ne peuvent plus jamais être réunis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 76
+			}
+		}
+	]
+}

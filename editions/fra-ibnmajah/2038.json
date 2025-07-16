@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"10": "The Chapters on Divorce"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 2016,
+				"hadithnumber_last": 2477,
+				"arabicnumber_first": 2016,
+				"arabicnumber_last": 2477
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2038,
+			"arabicnumber": 2038,
+			"text": "Rapporté par 'Amr bin Shu'aib, d'après son père, d'après son grand-père : Le Prophète (ﷺ) a dit : \"Si une femme affirme que son mari l'a divorcée et qu'elle présente un témoin de bonne réputation, on demande alors au mari de jurer. S'il jure, cela invalide le témoignage du témoin, mais s'il refuse, cela équivaut à un deuxième témoin et le divorce prend effet",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 23
+			}
+		}
+	]
+}

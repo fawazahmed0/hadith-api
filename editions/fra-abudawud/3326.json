@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3326,
+			"arabicnumber": 3326,
+			"text": "Rapporté par Qays ibn Abu Gharazah : À l’époque du Messager d’Allah ﷺ, on nous appelait des courtiers, mais un jour, le Prophète ﷺ est venu vers nous et nous a donné un nom meilleur en disant : « Ô groupe de commerçants, il y a souvent des paroles inutiles et des serments dans les transactions commerciales, alors accompagnez-les de sadaqah (aumône). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 1
+			}
+		}
+	]
+}

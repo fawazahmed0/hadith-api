@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3631,
+			"arabicnumber": 3631,
+			"text": "Rapporté par Sa'd bin Abi Waqqas : Le Messager d'Allah est venu me rendre visite quand j'étais malade et a dit : \"As-tu fait un testament ?\" J'ai dit : \"Oui.\" Il a dit : \"Combien ?\" J'ai dit : \"Que toute ma richesse soit donnée dans la voie d'Allah.\" Il a dit : \"Qu'as-tu laissé à tes enfants ?\" J'ai dit : \"Ils sont riches (à l'abri du besoin).\" Il a dit : \"Lègue un dixième.\" Et nous avons continué à en discuter jusqu'à ce qu'il dise : \"Lègue un tiers, et un tiers c'est beaucoup",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 21
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2324,
+			"arabicnumber": 2324,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : « Le Prophète ﷺ a dit : “La fin de Ramadan est le jour où vous terminez le jeûne, et la fête du sacrifice est le jour où vous sacrifiez. Toute la plaine d’Arafat est un lieu de station, toute Mina est un lieu de sacrifice, toutes les routes de La Mecque sont un lieu de sacrifice, et toute Muzdalifah est un lieu de station.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 12
+			}
+		}
+	]
+}

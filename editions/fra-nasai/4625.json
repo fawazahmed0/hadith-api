@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4625,
+			"arabicnumber": 4625,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d'Allah a interdit de vendre la descendance de la descendance d'un animal enceinte (Habal Al-Habalah), une pratique des gens de la Jahiliyyah où un homme achetait une chamelle à abattre, mais attendait que la chamelle ait une descendance et que la descendance dans son ventre ait aussi une descendance",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 177
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 592,
+			"arabicnumber": 592,
+			"text": "Ce hadith a aussi été rapporté par une autre chaîne par Umm Waraqah, fille de ‘Abd Allah b. al-Harith. La première version est complète. Cette version dit : Le Messager d’Allah ﷺ lui rendait visite chez elle. Il a désigné un muezzin pour faire l’adhan pour elle, et il lui a ordonné de diriger la prière pour les membres de sa maison. ‘Abd al-Rahman a dit : J’ai vu son muezzin, c’était un vieil homme",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 202
+			}
+		}
+	]
+}

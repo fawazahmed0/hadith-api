@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3030,
+			"arabicnumber": 3030,
+			"text": "Jabir ibn ‘Abd Allah a dit que ‘Umar ibn Al Khattab lui a raconté avoir entendu l’Envoyé d’Allah ﷺ dire : « J’expulserai certainement les Juifs et les Chrétiens d’Arabie et je n’y laisserai que des musulmans. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1767)"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 103
+			}
+		}
+	]
+}

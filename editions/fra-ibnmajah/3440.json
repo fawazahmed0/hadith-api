@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3440,
+			"arabicnumber": 3440,
+			"text": "Rapporté par Ibn ‘Abbas : Le Prophète (ﷺ) a rendu visite à un homme malade et lui a dit : “Qu’est-ce que tu désires ?” Il a répondu : “Je veux du pain de blé.” Le Prophète (ﷺ) a dit : “Que celui qui a du pain de blé l’envoie à son frère.” Puis le Prophète (ﷺ) a dit : “Quand un malade parmi vous désire quelque chose, donnez-le-lui.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 5
+			}
+		}
+	]
+}

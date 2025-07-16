@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4669,
+			"arabicnumber": 4669,
+			"text": "Rapporté par Jabir bin 'Abdullah : Il a entendu le Messager d’Allah ﷺ dire, alors qu’il était à La Mecque l’année de la conquête : « Allah et Son Messager ont interdit la vente du vin, des bêtes mortes, des porcs et des idoles. » On lui a dit : « Ô Messager d’Allah, que dis-tu de la graisse de l’animal mort ? On l’utilise pour enduire les bateaux, pour traiter les peaux et comme combustible dans les lampes. » Il a répondu : « Non, c’est interdit. » Puis le Messager d’Allah ﷺ a dit : « Qu’Allah maudisse les Juifs, car quand Allah, le Puissant et Sublime, leur a interdit la viande (des bêtes mortes), ils l’ont fondue, l’ont vendue et en ont consommé le prix. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 221
+			}
+		}
+	]
+}

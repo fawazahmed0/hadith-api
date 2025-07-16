@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1636,
+			"arabicnumber": 1636,
+			"text": "Le récit précédent a aussi été transmis par Abu Sa'id al-Khudri رضي الله عنه avec le même sens mais par une autre chaîne de rapporteurs, l’attribuant au Messager d’Allah ﷺ. Abu Dawud a dit : Ibn ‘Uyainah l’a rapporté de Zaid, de qui Malik et Thawri l’ont aussi rapporté, et un narrateur fiable l’a transmis du Messager d’Allah ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 81
+			}
+		}
+	]
+}

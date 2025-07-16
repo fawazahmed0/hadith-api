@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1092,
+			"arabicnumber": 1092,
+			"text": "Rapporté par Ibn ‘Umar رضي الله عنه : Le Prophète ﷺ prononçait deux sermons. Lorsqu’il montait sur la chaire, il s’asseyait jusqu’à ce que (je pense qu’il s’agit du muezzin) ait fini. Ensuite, il se levait et prêchait, puis il s’asseyait sans rien dire, puis il se levait et prêchait à nouveau",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 703
+			}
+		}
+	]
+}

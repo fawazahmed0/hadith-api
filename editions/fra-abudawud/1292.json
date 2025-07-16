@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1292,
+			"arabicnumber": 1292,
+			"text": "Rapporté par ‘Abd Allah ibn Shaqiq رضي الله عنه : J’ai demandé à ‘Aishah رضي الله عنها : « Le Messager d’Allah ﷺ priait-il le Duha ? » Elle a répondu : « Non, sauf à son retour de voyage. » J’ai alors demandé : « Le Messager d’Allah ﷺ récitait-il les sourates en les enchaînant ? » Elle a dit : « Il le faisait dans les sourates mufassal. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (717)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 43
+			}
+		}
+	]
+}

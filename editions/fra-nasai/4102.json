@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4102,
+			"arabicnumber": 4102,
+			"text": "Rapporté par 'Ali : J’ai entendu le Messager d’Allah ﷺ dire : \"À la fin des temps, il apparaîtra des jeunes gens à l’esprit immature. Leur foi ne dépassera pas leur gorge, et ils sortiront de l’islam comme la flèche traverse la cible. Si vous les rencontrez, alors tuez-les, car cela sera une récompense pour celui qui les tue le Jour de la Résurrection",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 137
+			}
+		}
+	]
+}

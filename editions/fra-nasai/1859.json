@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1859,
+			"arabicnumber": 1859,
+			"text": "Rapporté par Muhammad bin 'Amr bin 'Ata, de Salamah bin Al-Azraq : J'ai entendu Abu Hurairah dire : \"Quelqu'un de la famille du Messager d'Allah ﷺ est décédé, et les femmes se sont rassemblées pour pleurer. 'Umar s'est levé et leur a dit de ne pas faire cela, puis il les a fait sortir, mais le Messager d'Allah ﷺ a dit : Laisse-les, ô 'Umar, car l'œil pleure et le cœur est triste, mais bientôt nous les rejoindrons",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 42
+			}
+		}
+	]
+}

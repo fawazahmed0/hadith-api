@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3819,
+			"arabicnumber": 3819,
+			"text": "Rapporté par Ibn 'Abbas : Sa'd bin 'Ubadah est venu voir le Prophète et a dit : \"Ma mère est morte et elle avait fait un vœu, mais elle ne l’a pas accompli.\" Il a dit : \"Accomplis-le à sa place",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 59
+			}
+		}
+	]
+}

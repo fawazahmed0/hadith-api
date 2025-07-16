@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 845,
+			"arabicnumber": 845,
+			"text": "Rapporté par Anas : Le Messager d'Allah (ﷺ) se tournait vers nous quand il se levait pour prier, avant de dire le Takbir, et disait : \"Alignez vos rangs et comblez les espaces, car je peux vous voir derrière mon dos",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 69
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 91,
+			"arabicnumber": 91,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Il n’est pas permis à un homme qui croit en Allah et au Jour dernier de prier alors qu’il a envie d’aller aux toilettes, jusqu’à ce qu’il se soulage. » Ensuite, le rapporteur Thawr ibn Yazid a transmis une version similaire avec ces mots : « Il n’est pas permis à un homme qui croit en Allah et au Jour dernier de diriger la prière sans l’accord des gens ; et il ne doit pas invoquer Allah uniquement pour lui-même en laissant les autres de côté. S’il fait cela, il trahit la confiance. » Abu Dawud a dit : « Ce hadith a été rapporté par les narrateurs de Syrie ; personne d’autre ne l’a rapporté ainsi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 91
+			}
+		}
+	]
+}

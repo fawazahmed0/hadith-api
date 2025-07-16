@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1870,
+			"arabicnumber": 1870,
+			"text": "Rapporté par Abu Ilyas Mu'awiyah bin Qurrah, de son père : Un homme est venu voir le Prophète ﷺ avec son fils. Il lui demanda : \"L'aimes-tu ?\" Il répondit : \"Qu'Allah t'aime comme je l'aime.\" Puis l'enfant mourut et le Prophète ﷺ remarqua son absence et demanda après lui. Il dit : \"Cela ne te rendrait-il pas heureux de savoir que tu ne passeras devant aucune porte du Paradis sans le trouver là, essayant de t'ouvrir la porte ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 53
+			}
+		}
+	]
+}

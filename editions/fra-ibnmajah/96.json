@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 96,
+			"arabicnumber": 96,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Le Messager d'Allah a dit : \"Les gens des degrés les plus élevés du Paradis seront vus par ceux qui sont en dessous d'eux comme on voit une étoile brillante à l'horizon. Abu Bakr et 'Umar seront parmi eux, et quelle bénédiction ce sera",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 96
+			}
+		}
+	]
+}

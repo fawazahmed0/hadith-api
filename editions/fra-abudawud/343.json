@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 343,
+			"arabicnumber": 343,
+			"text": "Rapporté par Abu Sa’id al-Khudri رضي الله عنه et Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un prend un bain le vendredi, met ses plus beaux vêtements, applique un peu de parfum s’il en a, va à la prière en groupe (à la mosquée) sans enjamber les gens, prie ce qu’Allah a prescrit, puis reste silencieux dès que l’imam arrive jusqu’à la fin de la prière, cela effacera ses péchés de la semaine précédente. » Abu Huraira رضي الله عنه a ajouté : « (Cela effacera ses péchés) pour trois jours de plus. » Il a aussi dit : « Une bonne action est récompensée dix fois. » Abu Dawud dit : La version rapportée par Muhammad b. Salamah est complète, et Hammad n’a pas mentionné la parole d’Abu Huraira",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 343
+			}
+		}
+	]
+}

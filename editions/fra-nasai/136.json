@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 136,
+			"arabicnumber": 136,
+			"text": "Rapporté par Abu Hayyah : J'ai vu 'Ali faire ses ablutions, lavant chaque partie trois fois. Ensuite, il s'est levé et a bu l'eau qui restait de ses ablutions, puis il a dit : \"Le Messager d'Allah (ﷺ) a fait comme je viens de le faire",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 137
+			}
+		}
+	]
+}

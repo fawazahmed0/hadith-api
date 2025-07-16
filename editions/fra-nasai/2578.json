@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2578,
+			"arabicnumber": 2578,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Quand il était au Yémen, Ali a envoyé au Messager d’Allah un morceau d’or encore mélangé à des impuretés. Le Messager d’Allah l’a distribué à quatre personnes : Al-Aqra' bin Habis Al-Hanzali, 'Uyaynah bin Badr Al-Fazari, 'Alqamah bin 'Ulathah Al-‘Amiri, qui venait des Banu Kilab, et Zaid Al-Ta’I, qui venait des Banu Nabhan. Les Quraish – il a dit une fois – se sont fâchés et ont dit : “Tu donnes aux chefs du Najd pour adoucir leur cœur envers l’Islam.” Alors un homme à la barbe épaisse, aux joues saillantes et à la tête rasée est venu et a dit : “Crains Allah, ô Muhammad !” Il a répondu : “Qui obéirait à Allah si je Lui désobéissais ? (Est-ce juste que) Allah m’ait confié la responsabilité de tous les gens de la Terre, mais que vous ne me fassiez pas confiance ?” Puis l’homme est parti, et un homme parmi les gens, que les rapporteurs pensent être Khalid bin Al-Walid, a demandé la permission de le tuer. Le Messager d’Allah a dit : “Parmi les descendants de cet homme, il y aura des gens qui réciteront le Coran mais il ne dépassera pas leur gorge. Ils tueront des musulmans mais laisseront les idolâtres, et ils traverseront l’Islam comme une flèche traverse le corps de la cible. Si je vis assez longtemps pour les voir, je les tuerai tous, comme le peuple de ‘Ad a été exterminé.”",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 144
+			}
+		}
+	]
+}

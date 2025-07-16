@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4204,
+			"arabicnumber": 4204,
+			"text": "Rapporté par Al-Qasim bin Muhammad : J’ai entendu ma tante paternelle dire : Le Messager d’Allah ﷺ a dit : « Celui d’entre vous qui est nommé à une position d’autorité, si Allah veut du bien pour lui, Il lui donne un ministre vertueux qui lui rappellera s’il oublie et l’aidera s’il se souvient. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 56
+			}
+		}
+	]
+}

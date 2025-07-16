@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2978,
+			"arabicnumber": 2978,
+			"text": "Rapporté par Az-Zubair : Ils ont demandé à Ibn Umar : « As-tu vu le Messager d’Allah marcher rapidement entre As-Safa et Al-Marwah ? » Il a répondu : « Il était avec un groupe de personnes et ils marchaient rapidement, et je pense qu’ils allaient au même rythme que lui. » (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 361
+			}
+		}
+	]
+}

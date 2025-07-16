@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 259,
+			"arabicnumber": 259,
+			"text": "Rapporté par Aishah رضي الله عنها : Je mangeais de la viande sur un os alors que j’avais mes règles, puis je le donnais au Prophète ﷺ et il posait sa bouche là où j’avais posé la mienne. Je buvais, puis je lui donnais le récipient, et il posait sa bouche à l’endroit où j’avais bu",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (300)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 259
+			}
+		}
+	]
+}

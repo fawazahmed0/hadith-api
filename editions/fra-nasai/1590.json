@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1590,
+			"arabicnumber": 1590,
+			"text": "Rapporté par An-Nu'man bin Bashir : Le Messager d’Allah (ﷺ) récitait : \"Glorifie le nom de ton Seigneur, le Très-Haut\" et \"T’est-il parvenue le récit de l’Enveloppante ?\" le vendredi et lors de l’Aïd, et lorsque le vendredi et l’Aïd tombaient le même jour, il récitait les deux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 35
+			}
+		}
+	]
+}

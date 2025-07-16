@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 680,
+			"arabicnumber": 680,
+			"text": "Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a remarqué que certains de ses compagnons avaient tendance à aller vers l’arrière. Il leur a dit : « Avancez et suivez-moi, et que ceux qui viennent après vous vous suivent. Les gens continueront à rester à l’arrière jusqu’à ce qu’Allah les mette à l’arrière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (438)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 290
+			}
+		}
+	]
+}

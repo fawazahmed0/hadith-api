@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3220,
+			"arabicnumber": 3220,
+			"text": "Rapporté par Jabir : Il a été rapporté que Jabir a dit : \"Le Messager d'Allah ﷺ m'a rencontré et m'a dit : 'Ô Jabir, t'es-tu marié avec une femme depuis la dernière fois que je t'ai vu ?' J'ai répondu : 'Oui, ô Messager d'Allah.' Il a dit : 'Avec une vierge ou une femme déjà mariée ?' J'ai dit : 'Avec une femme déjà mariée.' Il a dit : 'Pourquoi pas une vierge, ainsi elle pourrait jouer avec toi ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 25
+			}
+		}
+	]
+}

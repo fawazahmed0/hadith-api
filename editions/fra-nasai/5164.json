@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5164,
+			"arabicnumber": 5164,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d'Allah ﷺ a commencé à porter une bague en or, et les gens ont commencé à porter des bagues en or. Le Messager d'Allah ﷺ a dit : « Je portais cette bague, mais je ne la porterai plus jamais. » Il l'a jetée et les gens ont jeté leurs bagues",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 125
+			}
+		}
+	]
+}

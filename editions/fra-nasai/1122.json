@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1122,
+			"arabicnumber": 1122,
+			"text": "Rapporté par 'Aishah : Le Messager d’Allah (ﷺ) disait lorsqu’il s’inclinait et se prosternait : \"Subhanakallahumma, Rabbana wa bihamdik. Allahumma-ghfirli\" (\"Gloire à Toi, ô Allah, notre Seigneur, et louange. Ô Allah, pardonne-moi\"), suivant l’ordre du Coran",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 94
+			}
+		}
+	]
+}

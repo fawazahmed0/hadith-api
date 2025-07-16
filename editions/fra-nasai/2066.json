@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2066,
+			"arabicnumber": 2066,
+			"text": "Rapporté par 'Aishah : Une femme juive est venue chez elle et lui a demandé de lui donner quelque chose. 'Aishah lui a donné, et la femme a dit : \"Qu’Allah te protège du châtiment de la tombe.\" 'Aishah a raconté : \"Cela m’a inquiétée, jusqu’à ce que le Messager d’Allah arrive et je lui en ai parlé. Il a dit : 'Ils sont tourmentés dans leurs tombes par un châtiment que les animaux entendent",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 249
+			}
+		}
+	]
+}

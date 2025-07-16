@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2551,
+			"arabicnumber": 2551,
+			"text": "Rapporté par Asma' bint Abi Bakr : Elle est venue voir le Prophète ﷺ et a dit : \"Ô Prophète d’Allah, je n’ai rien d’autre que ce qu’Az-Zubair m’apporte. Est-ce un péché si je donne un peu de ce qu’il m’apporte ?\" Il a dit : \"Donne ce que tu peux, et ne retiens pas ce que tu as, sinon Allah retiendra Sa subsistance envers toi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 117
+			}
+		}
+	]
+}

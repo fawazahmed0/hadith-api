@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3156,
+			"arabicnumber": 3156,
+			"text": "Rapporté par 'Abdullah bin Abi Qatadah, d’après son père : Un homme est venu voir le Messager d’Allah (ﷺ) et a dit : « Ô Messager d’Allah, si je suis tué dans la voie d’Allah avec patience et en cherchant la récompense, en faisant face à l’ennemi sans fuir, penses-tu qu’Allah pardonnera mes péchés ? » Le Messager d’Allah (ﷺ) répondit : « Oui. » Quand l’homme s’éloigna, le Messager d’Allah (ﷺ) le rappela et lui dit : « Qu’as-tu dit ? » Il répéta sa question, et le Messager d’Allah (ﷺ) répondit : « Oui, sauf la dette. Jibril me l’a dit. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 72
+			}
+		}
+	]
+}

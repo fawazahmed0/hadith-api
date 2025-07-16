@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5270,
+			"arabicnumber": 5270,
+			"text": "Rapporté par ‘Abd ibn Mughaffal رضي الله عنه : Le Messager d’Allah ﷺ a interdit de lancer des cailloux (pour s’amuser), en disant : « On ne chasse pas le gibier ainsi, on ne blesse pas non plus l’ennemi, mais cela peut parfois crever un œil ou casser une dent. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6220) Sahih Muslim (1954)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 498
+			}
+		}
+	]
+}

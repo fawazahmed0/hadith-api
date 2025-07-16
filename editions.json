@@ -51,6 +51,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud.min.json"
 			},
 			{
+				"name": "fra-abudawud",
+				"book": "abudawud",
+				"author": "Unknown",
+				"language": "French",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-abudawud.min.json"
+			},
+			{
 				"name": "ind-abudawud",
 				"book": "abudawud",
 				"author": "Unknown",
@@ -316,6 +328,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-ibnmajah.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-ibnmajah.min.json"
+			},
+			{
+				"name": "fra-ibnmajah",
+				"book": "ibnmajah",
+				"author": "Unknown",
+				"language": "French",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-ibnmajah.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-ibnmajah.min.json"
 			},
 			{
 				"name": "ind-ibnmajah",
@@ -631,6 +655,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-nasai.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-nasai.min.json"
+			},
+			{
+				"name": "fra-nasai",
+				"book": "nasai",
+				"author": "Unknown",
+				"language": "French",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-nasai.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/fra-nasai.min.json"
 			},
 			{
 				"name": "ind-nasai",

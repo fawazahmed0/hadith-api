@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 699,
+			"arabicnumber": 699,
+			"text": "Abu ‘Ubaid a dit : J’ai vu ‘Ata b. Yazid al-Laithi prier debout. Je suis passé devant lui ; il m’a alors repoussé. Il m’a ensuite dit : Abu Sa’id al-Khudri رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Si l’un de vous peut empêcher quelqu’un de passer entre lui et la qibla, qu’il le fasse. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 309
+			}
+		}
+	]
+}

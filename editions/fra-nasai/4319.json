@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4319,
+			"arabicnumber": 4319,
+			"text": "Rapporté par Ibn 'Abbas : On lui a demandé s'il était permis de manger des varans. Il a dit : \"Umm Hufaid a offert du gras, du fromage et des varans au Messager d'Allah, et il a mangé du gras et du fromage, mais il n'a pas mangé les varans car il n'aimait pas cela. S'ils étaient interdits, ils n'auraient pas été mangés à la table du Messager d'Allah et il n'aurait pas dit aux autres d'en manger",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 57
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 179,
+			"arabicnumber": 179,
+			"text": "Rapporté par Abu Sa'eed : Nous avons dit : « Ô Messager d'Allah ! Verrons-nous notre Seigneur ? » Il a dit : « Est-ce que vous vous bousculez pour voir le soleil à midi quand il n'y a pas de nuages ? » Nous avons répondu : « Non. » Il a dit : « Est-ce que vous vous bousculez pour voir la lune la nuit où elle est pleine et sans nuages ? » Nous avons répondu : « Non. » Il a dit : « Vous ne vous bousculerez pas pour Le voir, tout comme vous ne vous bousculez pas pour voir ces deux choses. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 179
+			}
+		}
+	]
+}

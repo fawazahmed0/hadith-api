@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 872,
+			"arabicnumber": 872,
+			"text": "Rapporté par Abu Hurairah : Un jour, le Messager d’Allah (ﷺ) a prié puis est parti et a dit : \"Untel, pourquoi n’améliores-tu pas ta prière ? Celui qui prie ne devrait-il pas réfléchir à la façon dont il la fait pour lui-même ? Je vois derrière moi comme je vois devant moi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 96
+			}
+		}
+	]
+}

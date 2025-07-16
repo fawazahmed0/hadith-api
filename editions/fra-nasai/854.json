@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 854,
+			"arabicnumber": 854,
+			"text": "Rapporté par Abu Al Malih, de la part de son père : \"Nous étions avec le Messager d’Allah (ﷺ) à Hunain et il s’est mis à pleuvoir. Le crieur du Messager d’Allah (ﷺ) nous a alors annoncé : ‘Priez là où vous êtes.’",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 78
+			}
+		}
+	]
+}

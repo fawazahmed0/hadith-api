@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2105,
+			"arabicnumber": 2105,
+			"text": "Rapporté par Abu Salamah : J’ai demandé à Aïsha رضي الله عنها au sujet de la dot donnée par le Messager d’Allah ﷺ. Elle a répondu : « C’était douze uqiyahs et un nashsh. » J’ai demandé : « Qu’est-ce qu’un nashsh ? » Elle a dit : « C’est la moitié d’une uqiyah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1426)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 60
+			}
+		}
+	]
+}

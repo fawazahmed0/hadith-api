@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3855,
+			"arabicnumber": 3855,
+			"text": "Rapporté par Usamah ibn Sharik رضي الله عنه : Je suis venu auprès du Prophète ﷺ, et ses Compagnons étaient assis, immobiles comme s’ils avaient des oiseaux sur la tête. J’ai salué et me suis assis. Ensuite, des Bédouins sont venus de tous côtés. Ils demandèrent : « Ô Messager d’Allah, devons-nous utiliser des traitements médicaux ? » Il répondit : « Utilisez des traitements médicaux, car Allah n’a pas créé de maladie sans lui donner un remède, sauf une seule : la vieillesse. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 1
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4258,
+			"arabicnumber": 4258,
+			"text": "Rapporté par Ibn 'Abbas, de la part de Maymouna : Une souris est tombée dans de la graisse de cuisson et y est morte. On a interrogé le Prophète ﷺ à ce sujet et il a dit : \"Jetez-la, ainsi que ce qui l’entoure, et mangez le reste",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 37
+			}
+		}
+	]
+}

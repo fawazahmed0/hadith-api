@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"39": "Battles (Kitab Al-Malahim)"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4291,
+				"hadithnumber_last": 4350,
+				"arabicnumber_first": 4291,
+				"arabicnumber_last": 4350
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4323,
+			"arabicnumber": 4323,
+			"text": "Rapporté par Abu al-Darda’ رضي الله عنه : Le Prophète ﷺ a dit : « Celui qui mémorise dix versets du début de la sourate al-Kahf sera protégé contre l’épreuve du Dajjal (l’Antéchrist). » Abu Dawud a dit : Hashim al-Dastawa’i l’a rapporté ainsi de Qatadah, mais il a dit : “Celui qui mémorise les derniers versets de la sourate al-Kahf.” Shu‘bah a rapporté de Qatadah les mots : “à la fin de la sourate al-Kahf.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (809)"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 33
+			}
+		}
+	]
+}

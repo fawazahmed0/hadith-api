@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1608,
+			"arabicnumber": 1608,
+			"text": "Rapporté par Awf ibn Malik : Le Messager d’Allah ﷺ est entré dans la mosquée avec un bâton à la main. Un homme y avait suspendu une grappe de hashaf. Il a frappé la grappe avec son bâton et a dit : « Si le propriétaire de cette sadaqa voulait donner mieux, il le ferait. Le propriétaire de cette sadaqa mangera du hashaf le Jour du Jugement. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 53
+			}
+		}
+	]
+}

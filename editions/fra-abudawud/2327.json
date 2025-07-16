@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2327,
+			"arabicnumber": 2327,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Ne jeûnez pas un ou deux jours juste avant le Ramadan, sauf pour celui qui a l’habitude de jeûner ce jour-là. Et ne commencez pas le jeûne avant d’avoir vu la lune. Puis jeûnez jusqu’à ce que vous la voyiez. Si le ciel est couvert ce jour-là (c’est-à-dire le 29e jour du Ramadan), alors complétez trente jours, puis terminez le jeûne : un mois compte vingt-neuf jours. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 15
+			}
+		}
+	]
+}

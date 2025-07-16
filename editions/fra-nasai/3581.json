@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"28": "The Book of Horses, Races and Shooting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3561,
+				"hadithnumber_last": 3593,
+				"arabicnumber_first": 3561,
+				"arabicnumber_last": 3593
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3581,
+			"arabicnumber": 3581,
+			"text": "Rapporté par 'Abdullah bin 'Ubaidullah bin 'Abbas : J'étais avec Ibn 'Abbas et un homme lui a demandé : \"Le Messager d'Allah ﷺ récitait-il pendant la prière du Zuhr et du 'Asr ?\" Il a répondu : \"Non.\" L'homme a dit : \"Peut-être récitait-il à voix basse ?\" Il a répondu : \"Que ton visage soit griffé ! Cette question est pire que la première. Le Messager d'Allah ﷺ était un serviteur dont le Seigneur lui a ordonné et il a transmis (le message). Par Allah, le Messager d'Allah ﷺ ne nous a rien réservé de plus que les autres, sauf trois choses : il nous a ordonné de bien faire les ablutions, de ne pas consommer l'aumône, et de ne pas croiser les ânes avec les chevaux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 21
+			}
+		}
+	]
+}

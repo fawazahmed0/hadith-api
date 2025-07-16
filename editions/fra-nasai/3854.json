@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3854,
+			"arabicnumber": 3854,
+			"text": "Rapporté par Anas bin Malik : Le Messager d'Allah est venu vers un homme soutenu par deux autres et a dit : \"Qu’a-t-il ?\" On lui a dit : \"Il a fait le vœu de marcher jusqu’à la Ka’bah.\" Il a dit : \"Allah ne retire aucun bénéfice du fait qu’il se fasse du mal.\" Et il lui a dit de monter",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 94
+			}
+		}
+	]
+}

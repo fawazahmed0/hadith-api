@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"14": "The Book of Jumu'ah (Friday Prayer)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 1367,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 1367,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1407,
+			"arabicnumber": 1407,
+			"text": "Rapporté par 'Abdullah bin 'Abdullah (de la part de 'Abdullah) Ibn 'Umar : Alors qu’il était debout sur le minbar, le Messager d’Allah (ﷺ) a dit : « Celui d’entre vous qui vient (à la prière) un vendredi, qu’il fasse le ghusl. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 44
+			}
+		}
+	]
+}

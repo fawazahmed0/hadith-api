@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3814,
+			"arabicnumber": 3814,
+			"text": "La tradition mentionnée ci-dessus a aussi été transmise par Salman par une autre chaîne de rapporteurs. Cette version dit : Salman a dit : « Le Messager d’Allah ﷺ a été interrogé au sujet des sauterelles. Il a répondu de façon similaire : “Les plus nombreuses des armées d’Allah.” » Le rapporteur ‘Ali a dit : « Son nom est Fa’id, c’est le nom d’al-Awwam. » Abu Dawud a dit : « Cette tradition a été transmise par Hammad b. Salamah, d’Abu al-Awwam, d’Abu Uthman, du Prophète ﷺ. Il n’a pas mentionné Salman (c’est-à-dire les compagnons). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 79
+			}
+		}
+	]
+}

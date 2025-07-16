@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3007,
+			"arabicnumber": 3007,
+			"text": "Rapporté par Abdullah ibn Umar رضي الله عنه : Omar رضي الله عنه a dit : « Le Messager d’Allah ﷺ avait conclu un accord avec les Juifs de Khaybar selon lequel nous pouvions les expulser quand nous le voudrions. Si quelqu’un a des biens chez eux, il doit les récupérer, car je vais expulser les Juifs. » Il les a donc expulsés",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 80
+			}
+		}
+	]
+}

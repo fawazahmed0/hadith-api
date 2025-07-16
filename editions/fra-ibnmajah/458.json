@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 458,
+			"arabicnumber": 458,
+			"text": "Rapporté par Rubai' : Ibn 'Abbas est venu me voir et m'a interrogée sur ce hadith — c'est-à-dire le hadith que j'avais rapporté, disant que le Messager d'Allah ﷺ avait fait ses ablutions et s'était lavé les pieds. Ibn 'Abbas a dit : « Les gens insistent pour se laver les pieds, mais je ne trouve rien dans le Coran sauf (l'ordre de) les essuyer. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 192
+			}
+		}
+	]
+}

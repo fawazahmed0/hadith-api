@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"24": "The Chapters on Jihad"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2753,
+				"hadithnumber_last": 2881,
+				"arabicnumber_first": 2753,
+				"arabicnumber_last": 2881
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2789,
+			"arabicnumber": 2789,
+			"text": "Rapporté par Abu Qatadah Al-Ansari : Le Messager d’Allah (ﷺ) a dit : « Les meilleurs chevaux sont ceux qui sont d’un noir profond, avec une étoile sur le front, des marques blanches sur les jambes, le nez et la lèvre supérieure blancs, et sans marque blanche sur la jambe avant droite. Sinon, qu’ils soient brun-roux avec ces mêmes marques. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 37
+			}
+		}
+	]
+}

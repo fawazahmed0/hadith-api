@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4484,
+			"arabicnumber": 4484,
+			"text": "Rapporté par Ibn ‘Umar : Un homme a dit au Messager d’Allah qu’il se faisait toujours tromper. Le Messager d’Allah lui a dit : « Quand tu fais une affaire, dis : Il n’y a pas d’intention de tromper. » Donc, chaque fois que l’homme faisait une affaire, il disait : « Il n’y a pas d’intention de tromper. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 36
+			}
+		}
+	]
+}

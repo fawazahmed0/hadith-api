@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1601,
+			"arabicnumber": 1601,
+			"text": "Rapporté par Amr ibn Shu'aib, d'après son père, qui le tient de son grand-père : Il s'agissait de Banu Shababah, une sous-clan de la tribu de Fahm. Le narrateur a ensuite transmis une tradition similaire. Il a ajouté : « (Ils donnaient) un sac de miel sur dix sacs. Sufyan ibn Abdullah ath-Thaqafi leur avait accordé deux bois comme terres protégées. Ils donnaient autant de miel (en zakat) qu'ils en donnaient au Messager d’Allah ﷺ. Sufyan protégeait leurs bois. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 46
+			}
+		}
+	]
+}

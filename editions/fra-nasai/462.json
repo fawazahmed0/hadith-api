@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 462,
+			"arabicnumber": 462,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : \"Pensez-vous que s’il y avait une rivière devant la porte de l’un d’entre vous et qu’il s’y baignait cinq fois par jour, resterait-il la moindre trace de saleté sur lui ?\" Ils ont répondu : \"Non, il ne resterait aucune trace de saleté.\" Il a dit : \"C’est la comparaison avec les cinq prières quotidiennes. Par elles, Allah efface les péchés",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 15
+			}
+		}
+	]
+}

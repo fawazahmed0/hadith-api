@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 356,
+			"arabicnumber": 356,
+			"text": "Rapporté par 'Aishah : Umm Habibah bint Jahsh, qui était mariée à 'Abdur-Rahman bin 'Awf, avait des saignements persistants et ne devenait pas pure. On a parlé de sa situation au Messager d'Allah (ﷺ) et il a dit : \"Ce n'est pas la menstruation, c'est plutôt un coup dans l'utérus. Qu'elle calcule la durée habituelle de ses règles, qu'elle arrête de prier pendant ce temps, puis qu'elle fasse le Ghusl pour chaque prière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 8
+			}
+		}
+	]
+}

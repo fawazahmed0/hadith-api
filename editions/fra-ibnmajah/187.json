@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 187,
+			"arabicnumber": 187,
+			"text": "Rapporté par Suhaib : Le Messager d'Allah ﷺ a récité ce verset : « À ceux qui ont bien agi, la meilleure récompense et même plus. » Puis il a dit : « Quand les gens du Paradis entreront au Paradis, et les gens du Feu entreront en Enfer, un crieur appellera : “Ô gens du Paradis ! Vous avez une promesse avec Allah et Il veut l'accomplir.” Ils diront : “Qu'est-ce que c'est ? Allah n'a-t-Il pas alourdi la balance (de nos bonnes actions), éclairci nos visages, fait entrer au Paradis et sauvé de l'Enfer ?” Alors le Voile sera levé et ils Le regarderont, et par Allah, Allah ne leur donnera rien de plus cher ni de plus agréable que de Le voir. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 187
+			}
+		}
+	]
+}

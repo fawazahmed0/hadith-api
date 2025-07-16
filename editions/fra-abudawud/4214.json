@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4214,
+			"arabicnumber": 4214,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ voulait écrire à certains souverains perses. On lui a dit qu’ils ne liraient pas une lettre sans sceau, alors il fit faire une bague en argent sur laquelle il fit graver : « Muhammad le Messager d’Allah »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5872)"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 1
+			}
+		}
+	]
+}

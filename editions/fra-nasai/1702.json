@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1702,
+			"arabicnumber": 1702,
+			"text": "Rapporté par Zakariyya bin Abi Za’idah, d’après Abu Ishaq, de Sa‘id bin Jubair, qu’Ibn Abbas a dit : Le Messager d’Allah (ﷺ) priait le witr avec trois rak‘as. Dans la première, il récitait « Glorifie le nom de ton Seigneur, le Très-Haut » ; dans la deuxième : « Dis : Ô vous les mécréants ! » ; et dans la troisième : « Dis : Il est Allah, l’Unique. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 105
+			}
+		}
+	]
+}

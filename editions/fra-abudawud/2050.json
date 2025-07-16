@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2050,
+			"arabicnumber": 2050,
+			"text": "Rapporté par Ma'qil ibn Yasar : Un homme est venu voir le Prophète ﷺ et a dit : « J’ai trouvé une femme de rang et de beauté, mais elle ne donne pas d’enfants. Dois-je l’épouser ? » Il a répondu : « Non. » L’homme est revenu une seconde fois, mais il lui a interdit. Il est revenu une troisième fois, et le Prophète a dit : « Épousez des femmes affectueuses et fécondes, car je veux que vous soyez nombreux le Jour du Jugement. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 5
+			}
+		}
+	]
+}

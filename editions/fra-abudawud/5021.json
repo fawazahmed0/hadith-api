@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5021,
+			"arabicnumber": 5021,
+			"text": "Rapporté par Abu Qatadah : J’ai entendu le Messager d’Allah ﷺ dire : « La bonne vision vient d’Allah et le rêve (hulm) vient du diable. Donc, si l’un de vous voit ce qu’il n’aime pas, qu’il crache trois fois sur sa gauche et cherche la protection d’Allah contre son mal. Alors, cela ne lui nuira pas. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6984) Sahih Muslim (2261)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 249
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 926,
+			"arabicnumber": 926,
+			"text": "Rapporté par Jabir رضي الله عنه : Le Prophète d’Allah ﷺ m’a envoyé auprès des Banu al-Mustaliq. Quand je suis revenu, il priait sur son chameau. Je lui ai parlé, il m’a répondu par un signe de la main comme ceci. J’ai recommencé à lui parler, il m’a encore fait un signe de la main comme ceci. Je l’entendais réciter le Coran tout en me faisant signe avec la tête. Quand il a terminé sa prière, il m’a dit : « Qu’as-tu fait de la mission pour laquelle je t’avais envoyé ? Rien ne m’a empêché de te répondre sauf que j’étais en prière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (540)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 537
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4447,
+			"arabicnumber": 4447,
+			"text": "Rapporté par 'Amr bin Shu'aib, de son père, de son grand-père Muhammad bin 'Abdullah bin 'Amr – ou, une fois, il a dit : de son père, de son grand-père – que le jour de Khaybar, le Messager d’Allah ﷺ a interdit la chair des ânes domestiques et des animaux qui mangent des excréments (al-Jallalah), ainsi que de les monter et de consommer leur lait",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 87
+			}
+		}
+	]
+}

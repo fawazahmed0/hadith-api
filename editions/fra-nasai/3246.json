@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3246,
+			"arabicnumber": 3246,
+			"text": "Rapporté par Abu Hurairah : Un homme des Ansar est venu voir le Messager d'Allah et a dit : \"J'ai épousé une femme.\" Le Prophète a dit : \"L'as-tu regardée ? Car il y a quelque chose dans les yeux des femmes Ansar",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 51
+			}
+		}
+	]
+}

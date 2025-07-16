@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1019,
+			"arabicnumber": 1019,
+			"text": "‘Abd Allah (b. Mas‘ud) رضي الله عنه a dit : Le Messager d’Allah ﷺ a prié cinq rak‘as lors de la prière du midi. On lui a demandé si la prière avait été allongée. Il a demandé ce qu’ils voulaient dire par là. Les gens ont dit : « Tu as prié cinq rak‘as. » Il a alors fait deux prosternations après avoir salué",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (404) Sahih Muslim (572)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 630
+			}
+		}
+	]
+}

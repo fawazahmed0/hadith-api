@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1618,
+			"arabicnumber": 1618,
+			"text": "Rapporté par Abu Sa’id al-Khudri : Je donnerai toujours un sa’. À l’époque du Messager d’Allah ﷺ, nous donnions un sa’ de dattes sèches, d’orge, de fromage ou de raisins secs. C’est la version de Yahya. Sufyan a ajouté dans sa version : « ou un sa’ de farine. » Le narrateur Hamid ibn Yahya a dit : Les gens ont contesté cette addition ; Sufyan l’a ensuite abandonnée. Abu Dawud a dit : Cette addition est une erreur de la part d’Ibn Uyainah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 63
+			}
+		}
+	]
+}

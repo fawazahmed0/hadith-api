@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"14": "The Chapters on Gifts"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2375,
+				"hadithnumber_last": 2389,
+				"arabicnumber_first": 2375,
+				"arabicnumber_last": 2389
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2387,
+			"arabicnumber": 2387,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Un homme a plus de droit sur son cadeau tant qu’il n’a rien reçu en échange. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 13
+			}
+		}
+	]
+}

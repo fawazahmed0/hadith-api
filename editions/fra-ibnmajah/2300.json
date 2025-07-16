@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2300,
+			"arabicnumber": 2300,
+			"text": "Rapporté par Abu Sa'eed : Le Prophète (ﷺ) a dit : \"Quand vous arrivez chez un berger, appelez-le trois fois. S'il répond, tant mieux, sinon buvez (du lait du troupeau) sans en abuser. Et quand vous arrivez dans un jardin, appelez le propriétaire trois fois. S'il répond, tant mieux, sinon mangez (des produits du jardin) sans en abuser",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 164
+			}
+		}
+	]
+}

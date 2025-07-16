@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2184,
+			"arabicnumber": 2184,
+			"text": "Rapporté par Jabir ibn 'Abdullah : Le Messager d’Allah (ﷺ) a acheté une charge de fourrage à un bédouin. Une fois la transaction terminée, le Messager d’Allah (ﷺ) a dit : « Choisis : tu peux confirmer ou annuler la transaction. » Le bédouin a répondu : « Qu’Allah te donne une longue vie pleine de bonnes affaires. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 48
+			}
+		}
+	]
+}

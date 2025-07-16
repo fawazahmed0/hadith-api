@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2910,
+			"arabicnumber": 2910,
+			"text": "Rapporté par Aisha رضي الله عنها : Le Prophète ﷺ a dit : \"Si ce n’était pas parce que les gens viennent juste de quitter la mécréance, et que je n’ai pas assez d’argent pour la reconstruire, j’aurais inclus cinq coudées du Hijr dedans, et j’aurais mis une porte pour que les gens puissent entrer, et une autre pour qu’ils sortent",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 293
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 950,
+			"arabicnumber": 950,
+			"text": "Rapporté par Ziyad bin Ilaqah : J'ai entendu mon oncle paternel dire : \"J'ai prié la prière du Subh avec le Messager d'Allah (ﷺ), et dans l'une des unités de prière, il a récité : « Et de grands palmiers-dattiers, aux régimes superposés »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 75
+			}
+		}
+	]
+}

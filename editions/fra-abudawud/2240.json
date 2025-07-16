@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"13": "Divorce (Kitab Al-Talaq)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2175,
+				"hadithnumber_last": 2312,
+				"arabicnumber_first": 2175,
+				"arabicnumber_last": 2312
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2240,
+			"arabicnumber": 2240,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a rendu sa fille Zaynab à Abul’As sur la base de leur mariage précédent, sans rien renouveler. Muhammad b. ‘Amr a précisé dans sa version : après six ans. Al-Hasan b. ‘Ali a dit : après deux ans",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 66
+			}
+		}
+	]
+}

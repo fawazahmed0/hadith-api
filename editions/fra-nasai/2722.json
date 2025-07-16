@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2722,
+			"arabicnumber": 2722,
+			"text": "Rapporté par Marwan bin Al-Hakam : J'étais assis avec 'Uthman et il a entendu 'Ali réciter la Talbiyah pour la 'Umrah et le Hajj ensemble. Il a dit : \"N'as-tu pas été interdit de faire cela ?\" Il a répondu : \"Oui, mais j'ai entendu le Messager d'Allah réciter la Talbiyah pour les deux ensemble, et je ne vais pas délaisser ce qu'a dit le Messager d'Allah pour suivre ce que tu dis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 104
+			}
+		}
+	]
+}

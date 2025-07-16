@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5206,
+			"arabicnumber": 5206,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Un homme est venu du Bahreïn voir le Prophète ﷺ et l’a salué, mais il ne lui a pas rendu son salut. Cet homme portait une bague en or à la main et une tunique en soie. Il les a retirées, puis il a de nouveau salué le Prophète ﷺ, qui lui a alors répondu. L’homme a dit : \"Ô Messager d’Allah, je suis venu te voir tout à l’heure et tu t’es détourné de moi.\" Il a répondu : \"Tu avais un morceau de braise dans la main.\" L’homme a dit : \"Alors, j’en ai apporté beaucoup.\" Le Prophète ﷺ a dit : \"Ce que tu as apporté ne vaut pas mieux pour nous que les pierres d’Al-Harrah, c’est juste un avantage temporaire de ce monde.\" L’homme a demandé : \"Avec quoi puis-je porter une bague ?\" Il a répondu : \"Avec du fer, de l’argent ou du laiton",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 167
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 469,
+			"arabicnumber": 469,
+			"text": "Rapporté par Anas bin Malik : Le Prophète ﷺ a dit : « Celui qui fait ses ablutions et les fait bien, puis dit trois fois : “Ashhadu an la ilaha illallah wahdahu la sharika lahu, wa ashhadu anna Muhammadan `abduhu wa rasuluhu” (J’atteste qu’il n’y a de divinité digne d’adoration qu’Allah seul, sans associé, et j’atteste que Muhammad est Son serviteur et Son Messager), les huit portes du Paradis lui seront ouvertes ; il pourra entrer par celle qu’il voudra. » (Da'if) Une autre chaîne rapporte des paroles similaires",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 203
+			}
+		}
+	]
+}

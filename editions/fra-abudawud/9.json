@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 9,
+			"arabicnumber": 9,
+			"text": "Rapporté par Abu Ayyub : Le Prophète ﷺ a dit : « Lorsque vous allez aux toilettes, ne tournez ni votre visage ni votre dos vers la qiblah pour uriner ou satisfaire vos besoins, mais tournez-vous plutôt vers l’est ou l’ouest. » (Abu Ayyub a ajouté : « Lorsque nous sommes arrivés en Syrie, nous avons constaté que les toilettes étaient déjà construites en direction de la qiblah. Nous détournions alors notre visage et demandions pardon à Allah. »)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (394) Sahih Muslim (264)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 9
+			}
+		}
+	]
+}

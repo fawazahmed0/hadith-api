@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4920,
+			"arabicnumber": 4920,
+			"text": "Rapporté par Humaid ibn ‘Abd al-Rahman, citant sa mère رضي الله عنها : Le Prophète ﷺ a dit : « Celui qui invente quelque chose pour réconcilier deux personnes n’est pas un menteur. » Dans la version d’Ahmad ibn Muhammad et Musaddad : « N’est pas menteur celui qui réconcilie les gens en disant ce qui est bon et en amplifiant le bien. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2692) Sahih Muslim (2605)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 148
+			}
+		}
+	]
+}

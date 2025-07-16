@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 902,
+			"arabicnumber": 902,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Les compagnons du Prophète ﷺ se sont plaints au Prophète ﷺ de la difficulté qu’ils éprouvaient à garder leurs avant-bras loin de leurs côtés pendant la prosternation. Il a dit : « Aidez-vous avec les coudes (en les posant au sol et en les collant aux côtés). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 512
+			}
+		}
+	]
+}

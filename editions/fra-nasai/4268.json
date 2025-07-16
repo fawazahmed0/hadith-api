@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4268,
+			"arabicnumber": 4268,
+			"text": "Rapporté par 'Adiyy bin Hatim : Il a demandé au Messager d’Allah ﷺ au sujet de la chasse et il a dit : \"Si tu lâches ton chien et que d’autres chiens, sur lesquels tu n’as pas prononcé le nom d’Allah, se joignent à lui, alors ne mange pas ce qu’ils attrapent, car tu ne sais pas lequel l’a tuée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 6
+			}
+		}
+	]
+}

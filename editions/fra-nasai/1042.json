@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1042,
+			"arabicnumber": 1042,
+			"text": "Rapporté par 'Ali : « Le Messager d’Allah (ﷺ) m’a interdit – mais je ne dis pas qu’il vous l’a interdit – de porter des bagues en or, de l’Al-Qassi, de porter de l’Al-Mufaddam, des vêtements teints au carthame, et de réciter le Coran en s’inclinant. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 14
+			}
+		}
+	]
+}

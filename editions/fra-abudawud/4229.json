@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4229,
+			"arabicnumber": 4229,
+			"text": "Muhammad ibn Ishaq a dit : J'ai vu as-Salt ibn Abdullah ibn Nawfal ibn AbdulMuttalib porter sa bague à l'auriculaire droit. Je lui ai demandé : « Qu'est-ce que c'est ? » Il a répondu : « J'ai vu Ibn Abbas la porter de cette façon. Il mettait la pierre vers le haut de la paume. Ibn Abbas a aussi mentionné que le Messager d’Allah ﷺ portait sa bague ainsi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 16
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5743,
+			"arabicnumber": 5743,
+			"text": "Rapporté par Abu 'Uthman, qui n'était pas Al-Hindi : Umm Al-Fadl a envoyé demander à Anas bin Malik au sujet du Nabidh préparé dans une jarre en terre cuite. Il lui a parlé de son fils An-Nadr, qui préparait du Nabidh dans une jarre en terre cuite le matin et en buvait le soir",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 205
+			}
+		}
+	]
+}

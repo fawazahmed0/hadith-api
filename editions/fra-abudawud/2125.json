@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2125,
+			"arabicnumber": 2125,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Lorsque Ali رضي الله عنه épousa Fatimah رضي الله عنها, le Prophète ﷺ lui dit : « Donne-lui quelque chose. » Il répondit : « Je n’ai rien. » Il dit : « Où est ta cotte de mailles Hutamiyyah ? »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 80
+			}
+		}
+	]
+}

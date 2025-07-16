@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 908,
+			"arabicnumber": 908,
+			"text": "Rapporté par Ibn Abdullah bin Mughaffal : Si Abdullah bin Mughaffal entendait l’un de nous réciter : \"Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux\", il disait : \"J’ai prié derrière le Messager d’Allah (ﷺ), derrière Abu Bakr et derrière Umar – que Allah les agrée tous les deux – et je n’ai entendu aucun d’eux réciter : 'Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 33
+			}
+		}
+	]
+}

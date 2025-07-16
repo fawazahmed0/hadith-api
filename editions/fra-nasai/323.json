@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 323,
+			"arabicnumber": 323,
+			"text": "Rapporté par ‘Aishah : Le Messager d’Allah (ﷺ) a envoyé Usaid bin Hudair et d’autres personnes chercher un collier qu’‘Aishah avait laissé à l’endroit où elle s’était arrêtée en voyage. L’heure de la prière est arrivée et ils n’avaient pas fait les ablutions, et ils n’ont pas trouvé d’eau, alors ils ont prié sans ablution. Ils ont raconté cela au Messager d’Allah (ﷺ), et Allah, le Puissant et le Sublime, a révélé le verset du Tayammum. Usaid bin Hudair a dit : \"Qu’Allah te récompense en bien, car par Allah, rien ne t’est jamais arrivé que tu n’aimes pas sans qu’Allah en fasse un bien pour toi et pour les musulmans",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 324
+			}
+		}
+	]
+}

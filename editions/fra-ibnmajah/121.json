@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 121,
+			"arabicnumber": 121,
+			"text": "Rapporté par Sa‘d bin Waqqas : Mu‘awiyah est venu lors d’un de ses pèlerinages et Sa‘d est entré chez lui. Ils ont parlé de ‘Ali, et Mu‘awiyah l’a critiqué. Sa‘d s’est fâché et a dit : « Tu parles ainsi d’un homme dont j’ai entendu le Messager d’Allah (ﷺ) dire : “Si je suis l’ami proche de quelqu’un, ‘Ali l’est aussi.” Et je l’ai entendu dire : “Tu es pour moi comme Harun l’était pour Musa, sauf qu’il n’y aura pas de Prophète après moi.” Et je l’ai entendu dire : “Je donnerai aujourd’hui l’étendard à un homme qui aime Allah et Son Messager.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 121
+			}
+		}
+	]
+}

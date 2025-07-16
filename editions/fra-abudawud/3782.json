@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3782,
+			"arabicnumber": 3782,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : Un tailleur a invité le Messager d’Allah ﷺ à un repas qu’il avait préparé. Anas a dit : Je suis allé avec le Messager d’Allah ﷺ. Il y avait du pain d’orge et un bouillon avec de la courge et de la viande séchée. Anas a dit : J’ai vu le Messager d’Allah ﷺ chercher les morceaux de courge dans le plat, alors depuis ce jour, j’aime la courge",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5436) Sahih Muslim (2041)"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 47
+			}
+		}
+	]
+}

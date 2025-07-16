@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 465,
+			"arabicnumber": 465,
+			"text": "Rapporté par Huraith bin Qabisah : Je suis arrivé à Médine et j’ai dit : \"Ô Allah, facilite-moi la rencontre d’un compagnon pieux.\" Puis je me suis assis avec Abu Hurairah, qu’Allah l’agrée, et je lui ai dit : \"J’ai prié Allah de m’aider à trouver un compagnon pieux. Raconte-moi donc un hadith que tu as entendu du Messager d’Allah (ﷺ), afin qu’Allah m’en fasse profiter.\" Il a dit : \"J’ai entendu le Messager d’Allah (ﷺ) dire : 'La première chose pour laquelle une personne sera jugée sera sa prière. Si elle est correcte, il aura réussi et sera sauvé, mais si elle ne l’est pas, il aura perdu et sera perdu.' – (Un des rapporteurs, Hammam, a dit : 'Je ne sais pas si c’était les paroles de Qatadah ou une partie du récit.') – 'S’il manque quelque chose à ses prières obligatoires, Il dira : \"Regardez si Mon serviteur a des prières volontaires pour compléter ce qui manque à ses prières obligatoires.\" Ensuite, tous ses actes seront examinés de la même manière",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 18
+			}
+		}
+	]
+}

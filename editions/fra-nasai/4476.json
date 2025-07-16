@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4476,
+			"arabicnumber": 4476,
+			"text": "Rapporté par Ibn Al-Had, de ‘Abdullah bin Dinar, de ‘Abdullah bin ‘Umar, qui a entendu le Messager d’Allah (ﷺ) dire : « Quand deux personnes se rencontrent pour commercer, la transaction n’est pas définitive tant qu’elles ne se sont pas séparées, sauf si elles ont décidé de conclure la transaction. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 28
+			}
+		}
+	]
+}

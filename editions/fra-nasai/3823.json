@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3823,
+			"arabicnumber": 3823,
+			"text": "Rapporté par Abdullah bin Ka'b bin Malik, d’après son père, qui a dit au Messager d’Allah – lorsque son repentir a été accepté : \"Ô Messager d’Allah ! Je veux donner toute ma richesse en aumône pour Allah et Son Messager.\" Le Messager d’Allah lui a dit : \"Garde une partie de ta richesse pour toi ; c’est mieux pour toi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 63
+			}
+		}
+	]
+}

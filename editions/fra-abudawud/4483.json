@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4483,
+			"arabicnumber": 4483,
+			"text": "Le récit précédent a aussi été transmis par Ibn ‘Umar رضي الله عنه par une autre chaîne de transmetteurs avec le même sens. Cette version précise : Je crois qu’il a dit pour la cinquième fois : « S’il boit encore, tuez-le. » Abu Dawud a dit : De même, l’expression « une cinquième fois » se trouve dans la version d’Abu Ghutaif",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 133
+			}
+		}
+	]
+}

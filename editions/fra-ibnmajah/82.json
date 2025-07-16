@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 82,
+			"arabicnumber": 82,
+			"text": "Rapporté par 'Aishah, Mère des Croyants : Le Messager d'Allah (ﷺ) a été appelé pour la prière funéraire d'un enfant parmi les Ansar. J'ai dit : \"Ô Messager d'Allah, quelle bonne nouvelle pour lui ! Il est l'un des petits oiseaux du Paradis, il n'a jamais fait de mal ni atteint l'âge de faire le mal (c'est-à-dire l'âge de responsabilité).\" Il a dit : \"Ce n'est pas forcément le cas, ô 'Aishah ! Car Allah a créé des gens pour le Paradis, Il les a créés pour cela alors qu'ils étaient encore dans les reins de leur père, et Il a créé des gens pour l'Enfer, Il les a créés pour cela alors qu'ils étaient encore dans les reins de leur père",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 82
+			}
+		}
+	]
+}

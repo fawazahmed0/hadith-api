@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1710,
+			"arabicnumber": 1710,
+			"text": "Rapporté par Duwaid bin Nafi' : \"Ibn Shihab m'a informé, disant : 'Ata bin Yazid m'a rapporté de la part d'Abu Ayyub : Le Prophète (ﷺ) a dit : 'Le witr est une obligation, et celui qui veut prier le witr avec sept rak'ahs, qu'il le fasse ; celui qui veut prier le witr avec cinq, qu'il le fasse ; celui qui veut prier le witr avec trois, qu'il le fasse ; et celui qui veut prier le witr avec une, qu'il le fasse",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 113
+			}
+		}
+	]
+}

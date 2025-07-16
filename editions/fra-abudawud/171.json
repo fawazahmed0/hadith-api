@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 171,
+			"arabicnumber": 171,
+			"text": "Rapporté par Abu Asad b. ‘Amr رضي الله عنه : J’ai demandé à Anas b. Malik au sujet des ablutions. Il a répondu : « Le Prophète ﷺ faisait ses ablutions pour chaque prière, et nous avons parfois prié plusieurs fois avec la même ablution. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (214)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 171
+			}
+		}
+	]
+}

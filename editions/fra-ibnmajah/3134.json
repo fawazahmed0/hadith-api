@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"26": "Chapters on Sacrifices"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3120,
+				"hadithnumber_last": 3161,
+				"arabicnumber_first": 3120,
+				"arabicnumber_last": 3161
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3134,
+			"arabicnumber": 3134,
+			"text": "Rapporté par Ibn ‘Abbas : « Les chameaux sont devenus rares à l’époque du Messager d’Allah (ﷺ), alors il a ordonné de sacrifier des vaches. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 15
+			}
+		}
+	]
+}

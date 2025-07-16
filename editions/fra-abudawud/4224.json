@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4224,
+			"arabicnumber": 4224,
+			"text": "Iyas ibn al-Harith ibn al-Mu’aiqib, citant son grand-père, a dit — et son grand-père maternel était Abu Dhubab : La bague-sceau du Prophète ﷺ était en fer poli avec de l’argent. Parfois, elle restait en ma possession. Al-Mu’ayqib était chargé de la bague-sceau du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 11
+			}
+		}
+	]
+}

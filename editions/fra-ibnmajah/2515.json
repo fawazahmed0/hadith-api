@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"19": "The Chapters on Manumission (of Slaves)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2512,
+				"hadithnumber_last": 2532,
+				"arabicnumber_first": 2512,
+				"arabicnumber_last": 2532
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2515,
+			"arabicnumber": 2515,
+			"text": "Rapporté par Ibn `Abbas : Le Messager d’Allah (ﷺ) a dit : « Tout homme dont l’esclave lui donne un enfant, elle sera libre après sa mort. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 4
+			}
+		}
+	]
+}

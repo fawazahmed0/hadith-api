@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 572,
+			"arabicnumber": 572,
+			"text": "Abu Hurairah رضي الله عنه a dit : J’ai entendu le Messager d’Allah ﷺ dire : « Quand l’iqamah est prononcée pour la prière, ne courez pas, mais allez-y en marchant tranquillement. Faites calmement la partie de la prière que vous rejoignez avec l’imam, et complétez ensuite ce que vous avez manqué. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (636) Sahih Muslim (602)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 182
+			}
+		}
+	]
+}

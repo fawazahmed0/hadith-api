@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4517,
+			"arabicnumber": 4517,
+			"text": "Rapporté par Hafs bin ‘Asim, d’après Abu Hurairah : Le Prophète ﷺ a interdit deux types de transactions : Munabadhah et Mulamasha. Il a expliqué que Mulamasah, c’est quand un homme dit à un autre : \"Je te vends mon vêtement contre le tien\", et aucun des deux ne regarde le vêtement de l’autre, il le touche seulement. Munabadhah, c’est quand il dit : \"Je lance ce que j’ai et tu lances ce que tu as\", afin qu’ils achètent l’un de l’autre, sans savoir ce que l’autre possède, et ainsi de suite",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 69
+			}
+		}
+	]
+}

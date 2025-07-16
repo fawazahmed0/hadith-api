@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3476,
+			"arabicnumber": 3476,
+			"text": "Rapporté par 'Amr : J'ai entendu Sa'eed bin Jubair dire : \"J'ai interrogé Ibn 'Umar à propos des deux qui font le Li'an. Il a dit : 'Le Messager d'Allah ﷺ a dit aux deux qui faisaient le Li'an : Votre jugement appartient à Allah. L'un de vous ment, et tu ne peux pas rester avec elle.' Il a dit : Ô Messager d'Allah, mes biens ! Il répondit : Tu n'as droit à aucun bien. Si tu dis la vérité à son sujet, c'est en échange de l'intimité que tu as eue avec elle, et si tu mens, tu y as encore moins droit",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 88
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4182,
+			"arabicnumber": 4182,
+			"text": "Rapporté par un homme d’Al Ash-Sharid, appelé ‘Amr, selon son père : Dans la délégation de Thaqif, il y avait un homme atteint de la lèpre. Le Prophète ﷺ lui a fait dire : « Retourne chez toi, car j’ai accepté ton engagement. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 34
+			}
+		}
+	]
+}

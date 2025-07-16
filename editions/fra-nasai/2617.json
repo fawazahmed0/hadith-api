@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2617,
+			"arabicnumber": 2617,
+			"text": "Rapporté par Salim bin ‘Abdullah, d’après ‘Abdullah bin ‘Umar : ‘Umar a donné une maison en aumône pour Allah, le Puissant et Majestueux, puis il l’a retrouvée mise en vente. Il a voulu l’acheter, puis il est allé voir le Messager d’Allah pour lui demander à ce sujet. Le Messager d’Allah a dit : « Ne reprends pas ce que tu as donné en aumône. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 183
+			}
+		}
+	]
+}

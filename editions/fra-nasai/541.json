@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 541,
+			"arabicnumber": 541,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) a dit : « Ne laissez pas les Bédouins vous faire changer le nom de cette prière, car ils la retardent jusqu’à ce qu’il fasse très sombre à cause de leurs occupations avec les chameaux et la traite. En vérité, c’est l’Isha. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 48
+			}
+		}
+	]
+}

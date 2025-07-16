@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 748,
+			"arabicnumber": 748,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d'Allah a dit : « Il y a des choses qui ne conviennent pas à la mosquée : elle ne doit pas servir de passage, on ne doit pas y dégainer d'armes, ni y bander un arc ou y tirer des flèches, personne ne doit y passer en portant de la viande crue, aucune peine légale ou peine de représailles ne doit y être appliquée, et elle ne doit pas servir de marché. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 14
+			}
+		}
+	]
+}

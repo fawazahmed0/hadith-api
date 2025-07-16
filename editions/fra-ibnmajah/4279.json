@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4279,
+			"arabicnumber": 4279,
+			"text": "Rapporté par ‘Aishah : J’ai demandé au Messager d’Allah (ﷺ) : « Le jour où la terre sera changée en une autre terre, et les cieux aussi. » [14:48] – Où seront les gens ce jour-là ? » Il a répondu : « Sur le Sirat (le Pont au-dessus de l’Enfer). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 180
+			}
+		}
+	]
+}

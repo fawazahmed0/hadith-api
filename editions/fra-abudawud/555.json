@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 555,
+			"arabicnumber": 555,
+			"text": "Rapporté par ‘Uthman b. ‘Affan : Le Messager d’Allah ﷺ a dit : « Celui qui accomplit la prière du soir en groupe, c’est comme s’il avait prié la moitié de la nuit ; et celui qui fait la prière du soir et de l’aube en groupe, c’est comme s’il avait prié toute la nuit. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (656)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 165
+			}
+		}
+	]
+}

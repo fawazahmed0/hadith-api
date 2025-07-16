@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 777,
+			"arabicnumber": 777,
+			"text": "Rapporté par Samurah ibn Jundub رضي الله عنه : Je me souviens de deux moments de silence dans la prière : l’un quand l’imam prononçait le takbir, et l’autre quand il terminait la récitation de la Fatiha et de la sourate, juste avant de s’incliner. Mais Imran ibn Husayn a trouvé cela étrange. Ils ont donc écrit à Ubayy (ibn Ka’b) à Médine. Il a confirmé la parole de Samurah. Abu Dawud a dit : Humaid a aussi rapporté dans ce récit les mots « et un moment de silence quand il terminait la récitation (du Coran) »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 387
+			}
+		}
+	]
+}

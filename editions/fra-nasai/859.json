@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 859,
+			"arabicnumber": 859,
+			"text": "Rapporté par Abu Dharr : Le Messager d’Allah (ﷺ) m’a dit, en me frappant la cuisse : \"Que feras-tu si tu vis parmi des gens qui retardent la prière jusqu’à ce que son temps soit passé ?\" J’ai demandé : \"Que m’ordonnes-tu de faire ?\" Il a dit : \"Fais la prière à l’heure, puis occupe-toi de tes affaires. Ensuite, si l’Iqamah est faite pour cette prière et que tu es à la mosquée, prie avec eux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 83
+			}
+		}
+	]
+}

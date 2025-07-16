@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4109,
+			"arabicnumber": 4109,
+			"text": "Rapporté par ‘Abdullah : Le Prophète (ﷺ) s’est allongé sur un tapis en roseau, qui a laissé des marques sur sa peau. J’ai dit : « Que mes parents soient sacrifiés pour toi, ô Messager d’Allah ! Si tu nous l’avais demandé, nous t’aurions donné quelque chose pour t’éviter cela. » Le Messager d’Allah (ﷺ) a dit : « Qu’y a-t-il entre moi et ce monde ? Ce monde et moi, c’est comme un cavalier qui s’arrête à l’ombre d’un arbre pour se reposer, puis repart en le laissant. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 10
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 43,
+			"arabicnumber": 43,
+			"text": "Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ est entré dans un jardin. Un jeune garçon, le plus jeune d’entre nous, l’accompagnait avec une cruche d’eau. Il l’a posée près d’un jujubier. Le Prophète ﷺ s’est soulagé, puis il est revenu vers nous après s’être nettoyé avec de l’eau",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (152) Sahih Muslim (270)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 43
+			}
+		}
+	]
+}

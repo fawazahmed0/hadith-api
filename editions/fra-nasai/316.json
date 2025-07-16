@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 316,
+			"arabicnumber": 316,
+			"text": "Rapporté par ‘Abdur-Rahman bin Abza : Nous étions avec ‘Umar quand un homme est venu lui dire : \"Ô Commandeur des Croyants ! Il nous arrive de rester un ou deux mois sans trouver d’eau.\" ‘Umar a dit : \"Si je ne trouvais pas d’eau, je ne prierais pas jusqu’à en trouver.\" ‘Ammar bin Yasir a dit : \"Te souviens-tu, ô Commandeur des Croyants, quand tu étais dans tel endroit et que nous gardions les chameaux, et tu sais que nous sommes devenus en état de Janabah ?\" Il a dit : \"Oui.\" \"Quant à moi, je me suis roulé dans la poussière, puis nous sommes allés voir le Prophète (ﷺ) et il a ri et a dit : 'La terre propre t’aurait suffi.' Il a frappé la terre avec ses mains, a soufflé dessus, puis s’est essuyé le visage et une partie des avant-bras.\" ‘Umar a dit : \"Crains Allah, ô ‘Ammar !\" Il a répondu : \"Ô Commandeur des Croyants ! Si tu veux, je ne le raconterai plus.\" Il a dit : \"Non, nous te laissons assumer ce que tu as pris sur toi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 317
+			}
+		}
+	]
+}

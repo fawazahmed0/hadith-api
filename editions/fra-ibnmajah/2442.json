@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"16": "The Chapters on Pawning"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2436,
+				"hadithnumber_last": 2491,
+				"arabicnumber_first": 2436,
+				"arabicnumber_last": 2491
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2442,
+			"arabicnumber": 2442,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : (Allah (SWT) dit :) « Je serai l’adversaire de trois personnes le Jour de la Résurrection, et si Je suis l’adversaire de quelqu’un, Je le vaincrai : Un homme qui fait des promesses en Mon nom puis trahit ; un homme qui vend un homme libre et en consomme le prix ; et un homme qui engage un travailleur, profite de lui, puis ne lui verse pas son salaire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 7
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"30": "Chapters on Drinks"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3371,
+				"hadithnumber_last": 3435,
+				"arabicnumber_first": 3371,
+				"arabicnumber_last": 3435
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3381,
+			"arabicnumber": 3381,
+			"text": "Rapporté par Anas : Le Messager d’Allah (ﷺ) a maudit dix personnes en rapport avec le vin : celui qui le presse (les raisins, etc.), celui qui demande à ce qu’on le presse, celui pour qui on le presse, celui qui le transporte, celui à qui il est transporté, celui qui le vend, celui pour qui il est apporté, celui qui le sert, celui pour qui il est servi, jusqu’à ce qu’il en compte dix ainsi",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 11
+			}
+		}
+	]
+}

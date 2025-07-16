@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"26": "Knowledge (Kitab Al-Ilm)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3641,
+				"hadithnumber_last": 3668,
+				"arabicnumber_first": 3641,
+				"arabicnumber_last": 3668
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3651,
+			"arabicnumber": 3651,
+			"text": "Rapporté par Abd Allah ibn al-Zubair, d’après son père : J’ai demandé à al-Zubair : « Qu’est-ce qui t’empêche de rapporter des traditions du Messager d’Allah ﷺ comme le font ses Compagnons ? » Il répondit : « Par Allah, j’étais très proche de lui. Mais je l’ai entendu ﷺ dire : “Celui qui ment sciemment à mon sujet aura sa place en Enfer.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (107)"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 11
+			}
+		}
+	]
+}

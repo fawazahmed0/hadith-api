@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"31": "The Book of Presents"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3672,
+				"hadithnumber_last": 3687,
+				"arabicnumber_first": 3672,
+				"arabicnumber_last": 3687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3684,
+			"arabicnumber": 3684,
+			"text": "Rapporté par 'Abdullah bin 'Utbah bin Mas'ud : Un homme est venu voir le Prophète et a dit : \"J'ai fait un cadeau à mon fils, alors sois témoin.\" Le Prophète a dit : \"As-tu d'autres enfants ?\" Il a répondu : \"Oui.\" Le Prophète a dit : \"Leur as-tu donné quelque chose comme ce que tu lui as donné ?\" Il a répondu : \"Non.\" Le Prophète a dit : \"Dois-je être témoin d'une injustice ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 13
+			}
+		}
+	]
+}

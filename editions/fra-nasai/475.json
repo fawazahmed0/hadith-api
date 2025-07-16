@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 475,
+			"arabicnumber": 475,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Nous avions l'habitude d'estimer combien de temps le Messager d'Allah (ﷺ) restait debout lors de la prière du Zuhr et de 'Asr. Nous estimions qu'il restait debout au Zuhr le temps de réciter trente versets, soit la longueur de la sourate As-Sajdah dans les deux premières unités de prière, et la moitié de ce temps dans les deux dernières. Nous estimions aussi qu'il restait debout aussi longtemps dans les deux premières unités, et la moitié de ce temps dans les deux dernières. Et nous estimions qu'il restait debout dans les deux premières unités du 'Asr aussi longtemps que dans les deux dernières unités du Zuhr, et la moitié de ce temps dans les deux dernières unités du 'Asr",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 28
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 66,
+			"arabicnumber": 66,
+			"text": "Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Les gens ont demandé au Messager d’Allah ﷺ : « Pouvons-nous faire nos ablutions avec l’eau du puits de Buda’ah, dans lequel on jette des linges menstruels, des chiens morts et des choses sales ? » Il répondit : « L’eau est pure et rien ne la rend impure. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 66
+			}
+		}
+	]
+}

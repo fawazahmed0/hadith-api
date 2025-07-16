@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"13": "The Chapters on Rulings"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 2308,
+				"hadithnumber_last": 2374,
+				"arabicnumber_first": 2308,
+				"arabicnumber_last": 2374
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2335,
+			"arabicnumber": 2335,
+			"text": "Rapporté par Anas bin Malik : Le Prophète (ﷺ) a dit : “Quand l’un de vous demande à son voisin la permission de fixer une pièce de bois à son mur, il ne doit pas la lui refuser.” Quand Abu Hurairah leur raconta cela, ils baissèrent la tête, et quand il les vit, il dit : “Pourquoi vous détournez-vous de cela ? Par Allah, je vous y obligerai.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 28
+			}
+		}
+	]
+}

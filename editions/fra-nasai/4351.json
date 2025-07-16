@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4351,
+			"arabicnumber": 4351,
+			"text": "Rapporté par Jabir ibn ‘Abdullah : « Le Prophète nous a envoyés, un groupe de trois cents, et nous transportions nos provisions sur nos montures. Nos réserves se sont épuisées jusqu’à ce que chacun de nous n’ait plus qu’une datte par jour. » On lui a demandé : « Ô Abu ‘Abdullah, qu’est-ce qu’une datte pour un homme ? » Il a répondu : « Quand nous n’avons plus eu de dattes, cela est devenu très difficile pour nous. Puis nous avons trouvé une baleine échouée par la mer et nous en avons mangé pendant huit jours. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 89
+			}
+		}
+	]
+}

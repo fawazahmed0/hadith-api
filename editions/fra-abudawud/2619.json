@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2619,
+			"arabicnumber": 2619,
+			"text": "Rapporté par Samurah ibn Jundub رضي الله عنه : Le Prophète ﷺ a dit : « Quand l’un d’entre vous arrive près du bétail, il doit demander la permission à son propriétaire s’il est présent ; s’il accepte, il peut traire (les animaux) et boire. S’il n’est pas là, il doit appeler trois fois. S’il répond, il doit demander sa permission ; sinon, il peut traire et boire, mais ne doit rien emporter avec lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 143
+			}
+		}
+	]
+}

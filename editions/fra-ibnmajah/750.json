@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 750,
+			"arabicnumber": 750,
+			"text": "Rapporté par Wathilah bin Asqa' : Le Prophète a dit : « Éloignez vos nourrissons, vos personnes atteintes de troubles mentaux et vos personnes mauvaises de vos mosquées. Évitez d'y faire des transactions et des disputes, d'élever la voix, d'y appliquer des peines légales et d'y dégainer vos épées. Aménagez des lieux pour les ablutions à leurs portes et parfumez-les avec de l'encens le vendredi. » (Hadith fabriqué)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 16
+			}
+		}
+	]
+}

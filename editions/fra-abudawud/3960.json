@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3960,
+			"arabicnumber": 3960,
+			"text": "Le récit mentionné ci-dessus a aussi été transmis par Abu Qilabah d’après Abu Zaid par une autre chaîne de rapporteurs, avec le même sens : Un homme des Ansar... Le Prophète ﷺ a dit : « Si j’avais été présent avant son enterrement, il n’aurait pas été enterré dans un cimetière musulman. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 35
+			}
+		}
+	]
+}

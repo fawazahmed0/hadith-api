@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2116,
+			"arabicnumber": 2116,
+			"text": "Rapporté par 'Abdur-Rahman bin Zaid bin Al-Khattab : Il a parlé aux gens le jour où il y avait un doute sur le début du mois et a dit : « J’ai été avec les Compagnons du Messager d’Allah ﷺ et je leur ai demandé, et ils ont rapporté que le Messager d’Allah ﷺ a dit : “Jeûnez quand vous le voyez et arrêtez de jeûner quand vous le voyez, et accomplissez les rites en conséquence. Si c’est caché, alors complétez trente jours, et si deux témoins attestent, alors jeûnez et arrêtez de jeûner.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 27
+			}
+		}
+	]
+}

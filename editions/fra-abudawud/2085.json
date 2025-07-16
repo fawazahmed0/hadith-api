@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2085,
+			"arabicnumber": 2085,
+			"text": "Rapporté par Abu Musa رضي الله عنه : Le Prophète ﷺ a dit : « Il n’y a pas de mariage sans l’autorisation d’un tuteur. » Abu Dawud a dit : « Le narrateur Yunus a aussi rapporté cela d’Abu Burdah, et Isra’il a rapporté d’Abu Ishaq d’après Abu Burdah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 40
+			}
+		}
+	]
+}

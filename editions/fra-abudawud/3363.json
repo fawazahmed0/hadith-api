@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3363,
+			"arabicnumber": 3363,
+			"text": "Rapporté par Sahl b. Abi Khathmah : Le Messager d’Allah ﷺ a interdit la vente de fruits contre des dattes sèches, mais il a autorisé la vente d’‘araya sur la base d’une estimation de leur quantité. Mais ceux qui les achètent peuvent les consommer fraîches",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2191) Sahih Muslim (1540)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 38
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3555,
+			"arabicnumber": 3555,
+			"text": "Rapporté par Ibn 'Umar : \"J’ai divorcé de ma femme alors qu’elle avait ses règles. 'Umar est allé voir le Prophète et lui a raconté cela. Le Prophète a dit : 'Dis-lui de la reprendre, puis quand elle sera pure, s’il veut, il pourra la divorcer.'\" J’ai demandé à Ibn 'Umar : \"Est-ce que cela compte comme un divorce ?\" Il a répondu : \"Bien sûr. Que penses-tu si quelqu’un agit de façon irréfléchie ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 169
+			}
+		}
+	]
+}

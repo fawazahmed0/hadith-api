@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4209,
+			"arabicnumber": 4209,
+			"text": "Rapporté par Tariq bin Shihab : Un homme a demandé au Prophète ﷺ, alors qu’il mettait son pied dans l’étrier : \"Quel est le meilleur type de jihad ?\" Il a répondu : \"Une parole de vérité dite devant un dirigeant injuste",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 61
+			}
+		}
+	]
+}

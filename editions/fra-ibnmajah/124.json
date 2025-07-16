@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 124,
+			"arabicnumber": 124,
+			"text": "Rapporté par Hisham bin ‘Urwah, de la part de son père : ‘Aïshah m’a dit : « Ô ‘Urwah, tes deux pères faisaient partie de ceux qui ont répondu à l’appel d’Allah et du Messager (Muhammad) après avoir été blessés. » (Il s’agissait d’Abu Bakr et de Zubair)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 124
+			}
+		}
+	]
+}

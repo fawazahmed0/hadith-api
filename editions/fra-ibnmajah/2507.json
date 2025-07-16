@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"18": "The Chapters on Lost Property"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 2502,
+				"hadithnumber_last": 2511,
+				"arabicnumber_first": 2502,
+				"arabicnumber_last": 2511
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2507,
+			"arabicnumber": 2507,
+			"text": "Rapporté par Zaid bin Khalid Al-Juhani : Le Messager d’Allah (ﷺ) a été interrogé à propos d’un objet perdu : Il a dit : « Annonce-le pendant un an. Si quelqu’un le décrit avec ses caractéristiques, rends-le-lui. Si personne ne le réclame, retiens les caractéristiques de sa sacoche en cuir et de sa lanière, et utilise-le. Puis, si son propriétaire se présente, rends-le-lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 6
+			}
+		}
+	]
+}

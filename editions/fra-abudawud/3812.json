@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3812,
+			"arabicnumber": 3812,
+			"text": "Abu Ya’fur a dit : J’ai entendu Ibn Abi Awfa dire, quand je l’ai interrogé sur la consommation des sauterelles : « J’ai participé à six ou sept expéditions avec le Messager d’Allah ﷺ et nous en avons mangé avec lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5495) Sahih Muslim (1952)"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 77
+			}
+		}
+	]
+}

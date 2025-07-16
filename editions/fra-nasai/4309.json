@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4309,
+			"arabicnumber": 4309,
+			"text": "Rapporté par Ibn 'Abbas : Le Prophète a dit : \"Celui qui vit dans le désert devient dur de cœur, et celui qui poursuit le gibier finit par s'y consacrer (et néglige d'autres devoirs), et celui qui suit le dirigeant s'expose à l'épreuve.\" (Sahih) Cette formulation est celle d'Ibn Al-Muthanna",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 47
+			}
+		}
+	]
+}

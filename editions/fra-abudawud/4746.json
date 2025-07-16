@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4746,
+			"arabicnumber": 4746,
+			"text": "Rapporté par Zayd ibn Arqam : Nous étions avec le Messager d’Allah ﷺ. Lorsqu’on arriva à un lieu d’arrêt, il dit : « Vous n’êtes même pas le cent-millième de ceux qui viendront à moi au bassin. » J’ai demandé (dit Abu Hamzah, le narrateur) : « Combien étiez-vous ce jour-là ? » Il répondit : « Sept ou huit cents. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 151
+			}
+		}
+	]
+}

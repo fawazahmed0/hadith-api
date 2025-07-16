@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 524,
+			"arabicnumber": 524,
+			"text": "Rapporté par Al-Husain bin Bashir bin Sallam, d’après son père : Muhammad bin ‘Ali et moi sommes entrés chez Jabir bin ‘Abdullah Al-Ansari. Nous lui avons dit : « Parle-nous de la prière du Messager d’Allah (ﷺ). » C’était à l’époque de Al-Hajjaj bin Yusuf. Il a dit : « Le Messager d’Allah (ﷺ) est sorti et a prié Zuhr quand le soleil avait passé son zénith et que l’ombre (d’un objet) était de la longueur d’une lanière de sandale. Ensuite, il a prié ‘Asr quand l’ombre d’un homme était la longueur d’une lanière de sandale plus sa taille. Ensuite, il a prié Maghrib quand le soleil s’est couché. Ensuite, il a prié ‘Isha’ quand le crépuscule a disparu. Ensuite, il a prié Fajr quand l’aube est apparue. Le lendemain, il a prié Zuhr quand l’ombre d’un homme était égale à sa taille. Ensuite, il a prié ‘Asr quand l’ombre d’un homme était deux fois sa taille, et (le temps entre la prière et le coucher du soleil) durait aussi longtemps qu’un cavalier rapide mettrait pour atteindre Dhul-Hulaifah. Ensuite, il a prié Maghrib quand le soleil s’est couché, puis il a prié ‘Isha’ quand un tiers ou la moitié de la nuit était passée » – Zaid, l’un des rapporteurs, n’était pas sûr – « puis il a prié Fajr quand il faisait déjà clair. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 31
+			}
+		}
+	]
+}

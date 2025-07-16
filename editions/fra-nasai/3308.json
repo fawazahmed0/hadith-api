@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3308,
+			"arabicnumber": 3308,
+			"text": "Rapporté par Umm Fadl : On a interrogé le Prophète d’Allah ﷺ au sujet de l’allaitement, et il a dit : « Une ou deux tétées ne rendent pas (le mariage) interdit. » Et (un des rapporteurs) Qatadah a dit dans son récit : « Une ou deux tétées ne rendent pas (le mariage) interdit. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 113
+			}
+		}
+	]
+}

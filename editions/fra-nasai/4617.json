@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4617,
+			"arabicnumber": 4617,
+			"text": "Rapporté par Abu Rafi : Le Messager d'Allah a emprunté un jeune chameau à un homme, puis il est venu récupérer son chameau. Il a dit à un homme : \"Va acheter un jeune chameau pour lui.\" Il est revenu et a dit : \"Je n'ai trouvé qu'un chameau de meilleure qualité.\" Il a dit : \"Donne-le-lui, car le meilleur des musulmans est celui qui rembourse le mieux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 169
+			}
+		}
+	]
+}

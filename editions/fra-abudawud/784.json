@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 784,
+			"arabicnumber": 784,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Une sourate vient de m’être révélée. » Il a ensuite récité : « Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Nous t’avons certes accordé l’Abondance » jusqu’à la fin. Puis il a demandé : « Savez-vous ce qu’est l’Abondance (al-Kawthar) ? » Ils ont répondu : « Allah et Son Messager le savent mieux. » Il a dit : « C’est un fleuve que mon Seigneur, le Très-Haut, le Majestueux, m’a promis au Paradis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (400)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 394
+			}
+		}
+	]
+}

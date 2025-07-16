@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"47": "The Book Of Faith and its Signs"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 4985,
+				"hadithnumber_last": 5039,
+				"arabicnumber_first": 4985,
+				"arabicnumber_last": 5039
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5032,
+			"arabicnumber": 5032,
+			"text": "Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : « Celui qui suit le cortège funéraire d’un musulman par foi et dans l’espoir d’une récompense, puis accomplit la prière funéraire pour lui et attend jusqu’à ce qu’il soit mis en terre, aura deux qirats, chacun équivalant à la montagne d’Uhud. Celui qui accomplit seulement la prière funéraire puis repart aura un qirat. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 48
+			}
+		}
+	]
+}

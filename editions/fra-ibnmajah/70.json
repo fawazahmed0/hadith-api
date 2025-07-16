@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 70,
+			"arabicnumber": 70,
+			"text": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a dit : \"Celui qui quitte ce monde en étant sincère envers Allah, en L’adorant Lui seul sans associé, en accomplissant la prière régulière et en donnant la Zakat, meurt alors qu’Allah est satisfait de lui.\" Anas a dit : \"C’est la religion d’Allah que les Messagers ont apportée et transmise de la part de leur Seigneur, avant que ne surviennent les discussions et les désirs contradictoires des gens. Cela est confirmé dans le Livre d’Allah, dans l’un des derniers versets révélés, où Allah dit : 'Mais s’ils se repentent.' Renoncent à leurs idoles et à leur adoration ; 'et accomplissent la Salat et donnent la Zakat.' Et Allah dit dans un autre verset : 'Mais s’ils se repentent, accomplissent la Salat et donnent la Zakat, alors ils sont vos frères en religion",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 70
+			}
+		}
+	]
+}

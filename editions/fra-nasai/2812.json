@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2812,
+			"arabicnumber": 2812,
+			"text": "Rapporté par Abdur-Rahman bin Abi Ash-Shatha : J’étais avec Ibrahim An-Nakha’i et Ibrahim At-Taimi, et j’ai dit : \"Je voulais combiner le Hajj et la ‘Umrah cette année.\" Mais Ibrahim a dit : \"Si ton père était vivant, il ne l’aurait pas fait.\" Et Ibrahim At-Taimi a dit, en rapportant de son père, qu’Abu Dharr رضي الله عنه a dit : \"Le Tamattu’ n’était permis que pour nous.\" (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 194
+			}
+		}
+	]
+}

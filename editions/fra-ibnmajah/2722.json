@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"23": "Chapters on Shares of Inheritance"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2719,
+				"hadithnumber_last": 2752,
+				"arabicnumber_first": 2719,
+				"arabicnumber_last": 2752
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2722,
+			"arabicnumber": 2722,
+			"text": "Rapporté par Ma’qil bin Yasar Al-Muzani : J’ai entendu le Prophète (ﷺ) lorsqu’on lui a présenté une affaire concernant la part d’un grand-père. Il lui a donné un tiers, ou un sixième",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 4
+			}
+		}
+	]
+}

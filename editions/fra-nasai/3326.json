@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3326,
+			"arabicnumber": 3326,
+			"text": "Rapporté par 'Aishah : Judamah bint Wahb lui a raconté que le Messager d’Allah ﷺ a dit : « J’ai pensé interdire le ghilah jusqu’à ce que je me souvienne que les Perses et les Romains le pratiquent » – (un des rapporteurs, Ishaq, a dit : « Ils le font – et cela ne nuit pas à leurs enfants. »)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 131
+			}
+		}
+	]
+}

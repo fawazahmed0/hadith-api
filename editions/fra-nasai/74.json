@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 74,
+			"arabicnumber": 74,
+			"text": "Rapporté par Shu'bah : Habib a dit : « J'ai entendu 'Abbad bin Tamim rapporter de ma grand-mère – qui était Umm 'Umarah bint Ka'b – que le Prophète (ﷺ) a fait ses ablutions, et on lui a apporté un récipient contenant les deux tiers d'un mudd. » Shu'bah a dit : « Je me souviens qu'il a lavé ses avant-bras et a commencé à les frotter, et il a essuyé l'intérieur de son oreille, mais je ne me souviens pas s'il a essuyé l'extérieur. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 74
+			}
+		}
+	]
+}

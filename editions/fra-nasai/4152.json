@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4152,
+			"arabicnumber": 4152,
+			"text": "Rapporté par 'Ubadah bin Al-Walid bin 'Ubadah bin As-Samit, d'après son père, que son grand-père a dit : Nous avons prêté serment au Messager d'Allah ﷺ d'écouter et d'obéir, aussi bien dans la difficulté que dans la facilité, quand nous étions pleins d'énergie ou fatigués, et même quand d'autres étaient préférés à nous, de ne pas contester les ordres de celui à qui cela était confié, et de dire la vérité où que nous soyons",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 4
+			}
+		}
+	]
+}

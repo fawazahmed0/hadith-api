@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1688,
+			"arabicnumber": 1688,
+			"text": "‘Ata a dit : On a demandé à Abu Huraira رضي الله عنه si une femme pouvait donner l’aumône à partir des biens de la maison de son mari. Il a répondu : « Non. Elle peut donner à partir de ce qu’elle reçoit pour sa subsistance. La récompense sera partagée entre eux. Il n’est pas permis qu’elle donne l’aumône à partir des biens de son mari sans sa permission. » Abu Dawud a dit : Cette version affaiblit celle rapportée par Hammam ibn Munabbih",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 133
+			}
+		}
+	]
+}

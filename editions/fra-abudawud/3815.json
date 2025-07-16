@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3815,
+			"arabicnumber": 3815,
+			"text": "Rapporté par Jabir ibn Abdullah : Le Prophète ﷺ a dit : « Ce que la mer rejette et laisse sur le rivage, vous pouvez le manger, mais ce qui meurt dans la mer et flotte, vous ne devez pas le manger. » Abu Dawud a dit : Cette tradition a été transmise par Sufyan al-Thawri, Ayyub et Hammad d’Abu al-Zubair comme étant la parole de Jabir lui-même (et non du Prophète). Elle a aussi été transmise directement du Prophète ﷺ par une chaîne faible par Abu Dhi'b, d’Abu al-Zubair, d’après Jabir, du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 80
+			}
+		}
+	]
+}

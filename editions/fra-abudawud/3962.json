@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3962,
+			"arabicnumber": 3962,
+			"text": "Rapporté par Abd Allah ibn Omar : Le Messager d’Allah ﷺ a dit : « Si quelqu’un affranchit un esclave qui possède des biens, ces biens appartiennent à l’esclave, sauf si le maître a posé une condition. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih Sahih Bukhari (2379)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 37
+			}
+		}
+	]
+}

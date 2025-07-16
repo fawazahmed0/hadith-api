@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3775,
+			"arabicnumber": 3775,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Celui parmi vous qui jure en disant : “Par Al-Lat”, qu’il dise : “La ilaha illallah” (Il n’y a de divinité digne d’adoration qu’Allah). Et celui qui dit à son compagnon : “Viens, jouons à un jeu d’argent”, qu’il fasse plutôt un don en aumône. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 15
+			}
+		}
+	]
+}

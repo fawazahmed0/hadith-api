@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4046,
+			"arabicnumber": 4046,
+			"text": "Rapporté par Ibn ‘Abbas : À propos de la parole d’Allah, le Très-Haut : « La rétribution de ceux qui font la guerre à Allah et à Son Messager… » Ce verset a été révélé à propos des polythéistes. Celui d’entre eux qui se repent avant d’être capturé, vous n’avez rien contre lui. Ce verset ne concerne pas les musulmans. Celui qui tue, sème la corruption sur terre et fait la guerre à Allah et à Son Messager, puis rejoint les mécréants avant d’être attrapé, rien n’empêche que la peine légale soit appliquée sur lui pour ce qu’il a fait",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 81
+			}
+		}
+	]
+}

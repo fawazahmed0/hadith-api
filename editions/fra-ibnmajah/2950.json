@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2950,
+			"arabicnumber": 2950,
+			"text": "Rapporté par Nafi’, de la part d’Ibn ‘Umar : Quand le Messager d’Allah (ﷺ) faisait le Tawaf autour de la Maison pour la première fois, il marchait rapidement à petits pas pendant les trois premiers tours, puis marchait normalement pour les quatre derniers, en commençant et en terminant au Hijr. Et Ibn ‘Umar faisait de même",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 69
+			}
+		}
+	]
+}

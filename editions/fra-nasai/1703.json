@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1703,
+			"arabicnumber": 1703,
+			"text": "Rapporté par Zuhair : Abu Ishaq rapporte de Sa'eed bin Jubair : Ibn Abbas priait le witr en trois unités, en récitant les sourates : \"Glorifie le nom de ton Seigneur, le Très-Haut\" (Sourate Al-A'la), \"Dis : Ô vous les mécréants\" (Sourate Al-Kafirun), et \"Dis : Il est Allah, l'Unique\" (Sourate Al-Ikhlas)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 106
+			}
+		}
+	]
+}

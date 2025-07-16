@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4323,
+			"arabicnumber": 4323,
+			"text": "Rapporté par ‘Abdullah ibn Qais : J’étais avec Abu Burdah une nuit, et Harith ibn Uqaish est entré chez nous. Harith nous a raconté cette nuit-là que le Messager d’Allah (ﷺ) a dit : “Dans ma communauté, il y en a par l’intercession desquels plus de personnes (que les membres de la tribu de) Mudar entreront au Paradis, et dans ma communauté, il y en a qui seront rendus énormes pour le Feu jusqu’à remplir un de ses coins.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 224
+			}
+		}
+	]
+}

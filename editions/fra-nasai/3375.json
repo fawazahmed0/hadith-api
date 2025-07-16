@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3375,
+			"arabicnumber": 3375,
+			"text": "Rapporté par Ibn ‘Abbas : ‘Ali a dit : « Je me suis marié avec Fatimah, رضي الله عنها, et j’ai dit : “Ô Messager d’Allah, permets-moi de consommer le mariage.” Il a dit : “Donne-lui quelque chose.” J’ai dit : “Je n’ai rien.” Il a dit : “Où est ton armure Hutami ?” J’ai répondu : “Elle est avec moi.” Il a dit : “Donne-la-lui.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 180
+			}
+		}
+	]
+}

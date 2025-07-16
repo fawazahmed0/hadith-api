@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5708,
+			"arabicnumber": 5708,
+			"text": "Rapporté par As-Sa'ib : 'Umar ibn Al-Khattab est sorti vers eux et a dit : \"J'ai remarqué une odeur de boisson sur un tel, et il a dit qu'il avait bu de l'At-Tila' (jus de raisin épaissi). Je pose des questions sur ce qu'il a bu. Si c'était une boisson enivrante, je le fouetterai.\" Alors 'Umar ibn Al-Khattab, que Allah l'agrée, l'a fouetté, appliquant la peine prévue en entier",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 170
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4168,
+			"arabicnumber": 4168,
+			"text": "Rapporté par Abu Hurairah, attribuant cela au Prophète (ﷺ) : “Le croyant fort est meilleur et plus aimé d’Allah que le croyant faible, même si les deux sont bons. Efforce-toi de rechercher ce qui te sera utile et ne te sens pas impuissant. Si quelque chose te dépasse, alors dis : Qaddarallah, wa ma sha’a fa’al (C’est le décret d’Allah et ce qu’Il veut, Il le fait). Et méfie-toi de dire ‘Si seulement’, car ‘Si seulement’ ouvre la porte à Satan.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 69
+			}
+		}
+	]
+}

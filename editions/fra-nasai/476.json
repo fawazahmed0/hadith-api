@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 476,
+			"arabicnumber": 476,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Le Messager d'Allah (ﷺ) restait debout au Zuhr et récitait l'équivalent de trente versets dans chaque unité de prière, puis dans les deux premières unités du 'Asr, il restait debout l'équivalent de quinze versets",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 29
+			}
+		}
+	]
+}

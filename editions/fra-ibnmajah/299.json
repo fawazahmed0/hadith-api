@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 299,
+			"arabicnumber": 299,
+			"text": "Rapporté par Abu Umamah : Le Messager d'Allah ﷺ a dit : \"Aucun de vous ne doit oublier de dire, en entrant dans ses toilettes : 'Allahumma inni a`udhu bika minar-rijsin-najis, al-khabithil-mukhbith, ash-Shaitanir-rajim (Ô Allah, je cherche refuge auprès de Toi contre ce qui est sale et impur, contre le mauvais et ses mauvais compagnons, contre le diable maudit).'\" (Da'if) Une autre chaîne rapporte des paroles légèrement différentes de Ibn Abi Maryam, qui mentionne des mots similaires, mais il n'a pas dit dans son récit : \"Minar-rijsin-najis (de ce qui est sale et impur)\", il a seulement dit : \"Minal-khabithil-mukhbith, ash-Shaitanir-rajim (du mauvais et de ses mauvais compagnons, du diable maudit)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 33
+			}
+		}
+	]
+}

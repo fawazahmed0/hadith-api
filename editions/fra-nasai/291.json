@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 291,
+			"arabicnumber": 291,
+			"text": "Rapporté par Ja'far bin Muhammad : Mon père m'a dit : \"Nous sommes allés voir Jabir bin 'Abdullah et nous lui avons demandé comment le Prophète (ﷺ) avait fait le Hajj. Il a raconté : 'Le Messager d'Allah (ﷺ) est parti alors qu'il restait cinq jours de Dhul-Qa'dah, et nous sommes partis avec lui. Quand il est arrivé à Dhul-Hulaifah, Asma' bint 'Umais a donné naissance à Muhammad bin Abi Bakr. Elle a envoyé demander au Messager d'Allah (ﷺ) ce qu'elle devait faire. Il a dit : \"Fais le ghusl, mets-toi une protection, puis commence la talbiyah pour l'ihram",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 292
+			}
+		}
+	]
+}

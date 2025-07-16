@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4118,
+			"arabicnumber": 4118,
+			"text": "La tradition mentionnée ci-dessus a aussi été transmise par Umm Salamah رضي الله عنها du Prophète ﷺ par une autre chaîne de transmetteurs. Abu Dawud a dit : Ibn Ishaq et Ayyub b. Musa l’ont transmise de Nafi’ de Safiyyah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 99
+			}
+		}
+	]
+}

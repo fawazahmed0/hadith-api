@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 215,
+			"arabicnumber": 215,
+			"text": "Rapporté par Ubayy ibn Ka’b رضي الله عنه : Le jugement selon lequel le bain est obligatoire en cas d’émission provenait de la facilité accordée par le Messager d’Allah ﷺ au début de l’islam. Ensuite, il a ordonné de prendre un bain dans ce cas. Abu Dawud a dit : Par Abu Ghassan, on entend Muhammad ibn Mutarrif",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 215
+			}
+		}
+	]
+}

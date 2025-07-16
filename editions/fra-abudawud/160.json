@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 160,
+			"arabicnumber": 160,
+			"text": "Rapporté par Aws ibn Abu Aws ath-Thaqafi رضي الله عنه : Le Messager d’Allah ﷺ a fait ses ablutions et a passé la main mouillée sur ses chaussures et ses pieds. Abbad (un sous-narrateur) a dit : Le Messager d’Allah ﷺ est venu au puits d’un peuple. Musaddad n’a pas mentionné les mots Midat (lieu d’ablution) ni Kazamah (puits). Ensuite, tous deux sont d’accord sur la formulation suivante : « Il a fait ses ablutions et a passé la main mouillée sur ses chaussures et ses pieds. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 160
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 281,
+			"arabicnumber": 281,
+			"text": "Rapporté par Al-Miqdam bin Shuraih, dont le père a dit : J'ai entendu 'Aishah dire : \"Le Messager d'Allah (ﷺ) me tendait le récipient et je buvais dedans alors que j'avais mes règles, puis je lui donnais et il cherchait l'endroit où j'avais posé ma bouche pour y poser la sienne",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 282
+			}
+		}
+	]
+}

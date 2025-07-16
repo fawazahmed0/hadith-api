@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1231,
+			"arabicnumber": 1231,
+			"text": "Rapporté par Abu Bakr bin Sulaiman bin Abi Hathmah : On lui a rapporté que le Messager d’Allah (ﷺ) a prié deux rak‘a, et Dhul-Shimalain lui a dit quelque chose de similaire. (Un des rapporteurs, Ibn Shihab, a dit : \"Sa‘id bin Al-Musayyab m’a informé de ce hadith de la part d’Abu Hurairah.\" Il a dit : \"Et Abu Salamah bin ‘Abdur Rahman, Abu Bakr bin ‘Abdur Rahman, Abu Bakr bin ‘Abdur Rahman bin Al-Harith et ‘Ubaidullah bin ‘Abdullah m’en ont aussi informé)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 53
+			}
+		}
+	]
+}

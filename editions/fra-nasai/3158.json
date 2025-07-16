@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3158,
+			"arabicnumber": 3158,
+			"text": "Rapporté par 'Abdullah bin Abi Qatadah, d’après son père : Un homme est venu voir le Prophète (ﷺ) alors qu’il était sur le Minbar et a dit : « Ô Messager d’Allah, penses-tu que si je brandis mon épée dans la voie d’Allah, avec patience et en cherchant la récompense, en faisant face à l’ennemi sans fuir, Allah pardonnera-t-Il mes péchés ? » Il répondit : « Oui. » Quand il s’éloigna, il le rappela et dit : « Jibril dit : sauf si tu as des dettes. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 74
+			}
+		}
+	]
+}

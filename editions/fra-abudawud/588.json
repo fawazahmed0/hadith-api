@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 588,
+			"arabicnumber": 588,
+			"text": "Ibn ‘Umar a dit : Quand les premiers émigrants sont arrivés (à Médine), ils sont restés à al-‘Asbah (un endroit près de Médine) avant l’arrivée du Messager d’Allah ﷺ. Salim, l’affranchi d’Abu Hudhaifah, était leur imam car il connaissait le Coran mieux qu’eux tous. Al-Haitham (le narrateur) a ajouté : ‘Umar b. al-Khattab et Abu Salamah b. ‘Abd al-Asad étaient parmi eux",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (692)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 198
+			}
+		}
+	]
+}

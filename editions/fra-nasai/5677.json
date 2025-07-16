@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5677,
+			"arabicnumber": 5677,
+			"text": "Rapporté par Abu Burdah bin Niyar : Le Messager d'Allah ﷺ a dit : \"Buvez dans des récipients mais ne devenez pas ivres",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 139
+			}
+		}
+	]
+}

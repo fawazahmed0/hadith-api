@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 787,
+			"arabicnumber": 787,
+			"text": "La tradition mentionnée ci-dessus a été rapportée par Ibn Abbas رضي الله عنه à travers une autre chaîne de transmetteurs avec le même sens. Cette version ajoute : Le Messager d’Allah ﷺ est décédé sans nous avoir dit que la sourate al-Bara’ah faisait partie d’al-Anfal. Abu Dawud a dit : Al-Sha‘bi, Abu Malik, Qatadah et Thabit ibn ‘Umara ont dit : Le Prophète ﷺ n’a pas écrit « Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux » avant la révélation de la sourate an-Naml. C’est le sens de leurs propos. De plus, ceci est une tradition mursal (le nom du compagnon est omis)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 397
+			}
+		}
+	]
+}

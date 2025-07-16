@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"14": "The Book of Jumu'ah (Friday Prayer)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 1367,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 1367,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1398,
+			"arabicnumber": 1398,
+			"text": "Rapporté par Aws bin Aws Ath-Thaqafi : Le Messager d'Allah (ﷺ) a dit : \"Celui qui lave (ghassala) et fait le ghusl, arrive tôt à la mosquée, s'assoit près de l'imam, écoute attentivement et ne parle pas inutilement, aura pour chaque pas la récompense d'une année de bonnes actions, de jeûne et de prière nocturne",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 35
+			}
+		}
+	]
+}

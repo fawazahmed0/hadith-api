@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"10": "The Book of Lost and Found Items"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 1701,
+				"hadithnumber_last": 1720,
+				"arabicnumber_first": 1701,
+				"arabicnumber_last": 1720
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1707,
+			"arabicnumber": 1707,
+			"text": "Ce même récit a aussi été rapporté par Zayd bin Khalid al-Juhani par une autre chaîne. Cette version dit : Le Messager d’Allah ﷺ fut interrogé au sujet d’un objet trouvé. Il répondit : « Fais-le connaître pendant un an ; si son propriétaire se présente, rends-le-lui ; sinon, note sa ficelle et sa bourse et garde-le avec tes biens. Si son propriétaire se présente, rends-le-lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 7
+			}
+		}
+	]
+}

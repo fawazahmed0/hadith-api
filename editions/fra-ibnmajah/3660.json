@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3660,
+			"arabicnumber": 3660,
+			"text": "Rapporté par Abu Hurairah, رضي الله عنه : Le Messager d’Allah a dit : « Un Qintar vaut douze mille ‘Uqiyah, et chaque ‘Uqiyah vaut mieux que tout ce qu’il y a entre le ciel et la terre. » Et le Messager d’Allah (ﷺ) a dit : « Un homme verra son rang élevé au Paradis et demandera : “D’où cela vient-il ?” On lui dira : “C’est grâce à la demande de pardon de ton fils pour toi.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 4
+			}
+		}
+	]
+}

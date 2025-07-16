@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2733,
+			"arabicnumber": 2733,
+			"text": "Rapporté par Sa'ced bin Al-Musayyab : Ali et 'Uthman ont accompli le Hajj, et alors que nous étions en route, 'Uthman a interdit le Tamattu. Ali a dit : « Quand vous le verrez se mettre en route, partez avec lui (en récitant la Talbiyah pour la ‘Umrah). » Ainsi, Ali et ses compagnons ont récité la Talbiyah pour la ‘Umrah, et 'Uthman ne les a pas empêchés. Ali lui a dit : « N’ai-je pas entendu dire que tu l’as fait ? » Ali lui a demandé : « N’as-tu pas entendu que le Messager d’Allah a fait le Tamattu ? » Il a répondu : « Bien sûr. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 115
+			}
+		}
+	]
+}

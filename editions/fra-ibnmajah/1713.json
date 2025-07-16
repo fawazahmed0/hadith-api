@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1713,
+			"arabicnumber": 1713,
+			"text": "Rapporté par Abu Qatadah : ‘Umar bin Khattab a dit : “Ô Messager d’Allah ! Qu’en est-il de celui qui jeûne deux jours et ne jeûne pas un jour ?” Il a répondu : “Qui est capable de faire cela ?” Il a dit : “Ô Messager d’Allah ! Et celui qui jeûne un jour sur deux ?” Il a dit : “C’est le jeûne de Dawud.” Il a dit : “Et celui qui jeûne un jour puis ne jeûne pas les deux jours suivants ?” Il a dit : “J’aimerais avoir la force de faire cela.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 76
+			}
+		}
+	]
+}

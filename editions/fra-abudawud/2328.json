@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2328,
+			"arabicnumber": 2328,
+			"text": "Rapporté par ‘Imran ibn Husayn رضي الله عنه : Le Messager d’Allah ﷺ a demandé à un homme : « As-tu jeûné le dernier jour de Sha‘ban ? » Il répondit : « Non. » Il dit alors : « Si tu n’as pas jeûné, alors jeûne un jour. » L’un des deux rapporteurs a dit : « Ou deux jours. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1983) Sahih Muslim (1161)"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 16
+			}
+		}
+	]
+}

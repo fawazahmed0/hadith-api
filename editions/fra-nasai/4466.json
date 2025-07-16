@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4466,
+			"arabicnumber": 4466,
+			"text": "Rapporté par Yahya, de ‘Ubaidullah qui a dit : « Nafi‘ m’a rapporté de Ibn ‘Umar que le Messager d’Allah a dit : “Les deux parties à une transaction ont le choix tant qu’elles ne se sont pas séparées, ou qu’elles n’ont pas décidé.” » (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 18
+			}
+		}
+	]
+}

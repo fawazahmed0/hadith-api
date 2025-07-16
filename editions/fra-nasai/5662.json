@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5662,
+			"arabicnumber": 5662,
+			"text": "Rapporté par Abu Huraira : Le Messager d'Allah ﷺ a dit : \"S'il devient ivre, fouettez-le ; s'il devient ivre à nouveau, fouettez-le ; s'il devient encore ivre, fouettez-le.\" Puis, à propos de la quatrième fois, il a dit : \"Frappez-lui le cou (c'est-à-dire tuez-le)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 124
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4677,
+			"arabicnumber": 4677,
+			"text": "Rapporté par Ibn ‘Abbas رضي الله عنه : Lorsque la délégation de ‘Abd al-Qais est venue voir le Messager d’Allah ﷺ, il leur a ordonné de croire en Allah. Il leur a demandé : « Savez-vous ce qu’est la foi en Allah ? » Ils ont répondu : « Allah et Son Messager savent mieux. » Il a dit : « Cela comprend de témoigner qu’il n’y a pas d’autre dieu qu’Allah et que Muhammad est le Messager d’Allah, d’accomplir la prière, de donner la zakat, de jeûner pendant le Ramadan et de donner un cinquième du butin. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (53) Sahih Muslim (17)"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 82
+			}
+		}
+	]
+}

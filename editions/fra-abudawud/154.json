@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 154,
+			"arabicnumber": 154,
+			"text": "Abu Zur’ah b. ‘Amr b. Jarir a dit : Jarir a uriné. Il a ensuite fait ses ablutions et a essuyé ses chaussettes. Il a dit : « Qu’est-ce qui m’empêcherait d’essuyer dessus ? J’ai vu le Messager d’Allah ﷺ le faire. » Les gens ont dit : « Cet acte était peut-être valable avant la révélation de la sourate al-Ma’idah. » Il a répondu : « Je me suis converti après la révélation de la sourate al-Ma’idah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 154
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1269,
+			"arabicnumber": 1269,
+			"text": "Rapporté par Ibn 'Umar : Quand le Messager d'Allah (ﷺ) s'asseyait pendant la prière, il posait ses mains sur ses genoux et levait le doigt à côté du pouce, et faisait des invocations avec, et sa main gauche était posée sur son genou",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 91
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"28": "The Book of Horses, Races and Shooting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3561,
+				"hadithnumber_last": 3593,
+				"arabicnumber_first": 3561,
+				"arabicnumber_last": 3593
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3568,
+			"arabicnumber": 3568,
+			"text": "Rapporté par Salim, d’après son père : Le Prophète a dit : \"Les présages ne se trouvent que dans trois choses : une femme, un cheval ou une maison",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 8
+			}
+		}
+	]
+}

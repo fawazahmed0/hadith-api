@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 530,
+			"arabicnumber": 530,
+			"text": "Rapporté par Umm Salamah, mère des croyants رضي الله عنها : Le Messager d’Allah ﷺ m’a appris à dire, lorsque l’adhan du maghrib était appelé : « Ô Allah, c’est le moment où Ta nuit commence, où Ton jour s’achève, et où les voix de Tes appelants se font entendre, alors pardonne-moi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 140
+			}
+		}
+	]
+}

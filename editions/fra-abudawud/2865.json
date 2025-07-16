@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"18": "Wills (Kitab Al-Wasaya)"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 2862,
+				"hadithnumber_last": 2884,
+				"arabicnumber_first": 2862,
+				"arabicnumber_last": 2884
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2865,
+			"arabicnumber": 2865,
+			"text": "Rapporté par Abu Hurairah : Un homme a demandé au Messager d’Allah ﷺ : « Messager d’Allah, quelle est la meilleure aumône ? » Il a répondu : « La meilleure aumône est celle que tu donnes alors que tu es en bonne santé, que tu as envie de garder, que tu espères vivre et que tu crains la pauvreté. Ne la diffère pas jusqu’à ta mort, au point de dire : “À untel ceci, à untel cela”, alors que cela appartient déjà à untel. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1419) Sahih Muslim (1032)"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 4
+			}
+		}
+	]
+}

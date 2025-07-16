@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1508,
+			"arabicnumber": 1508,
+			"text": "Rapporté par Jabir bin ‘Abdullah : Le Messager d’Allah (ﷺ) a dit : “Si un enfant pousse un cri après la naissance, la prière funéraire doit être faite pour lui et ses proches peuvent hériter de lui.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 76
+			}
+		}
+	]
+}

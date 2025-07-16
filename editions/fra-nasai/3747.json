@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3747,
+			"arabicnumber": 3747,
+			"text": "Rapporté par Ibn Abi Dhi'b, d'après Ibn Shihab, d'après Abu Salamah, de Jabir, que le Messager d'Allah ﷺ a jugé — concernant une personne à qui l'on a fait un don à vie ('Umra) — que cela lui appartient ainsi qu'à ses descendants : \"Cela lui appartient sans aucun doute, et il n'est pas permis au donateur de poser des conditions ou des exceptions.\" Abu Salamah a dit : \"Parce qu'il l'a donné comme un don, il est donc soumis à la même règle que l'héritage, et la condition (qu'il revienne au donateur à la mort du bénéficiaire) est devenue invalide",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 29
+			}
+		}
+	]
+}

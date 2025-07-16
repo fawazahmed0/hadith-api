@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"32": "Chapters on Dress"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3550,
+				"hadithnumber_last": 3656,
+				"arabicnumber_first": 3550,
+				"arabicnumber_last": 3656
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3616,
+			"arabicnumber": 3616,
+			"text": "Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : “Quand l’un de vous met ses sandales, qu’il commence par le pied droit, et quand il les enlève, qu’il commence par le pied gauche.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 67
+			}
+		}
+	]
+}

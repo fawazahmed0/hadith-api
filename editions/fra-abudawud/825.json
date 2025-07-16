@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 825,
+			"arabicnumber": 825,
+			"text": "La tradition mentionnée ci-dessus a été transmise par une chaîne différente de rapporteurs par ‘Ubadah ibn al-Samit, comme dans la version d’al-Rabi’ ibn Sulaiman. Cette version ajoute : Makhul récitait la sourate al-Fatiha discrètement dans la prière où l’imam récitait le Coran à voix haute, pendant le moment de silence. S’il n’y a pas de moment de silence, récite-la avant lui (c’est-à-dire avant sa récitation), ou en même temps que lui, ou après lui ; ne l’abandonne en aucun cas",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 435
+			}
+		}
+	]
+}

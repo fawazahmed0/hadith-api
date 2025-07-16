@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3386,
+			"arabicnumber": 3386,
+			"text": "Rapporté par Hakim ibn Hizam رضي الله عنه : Le Messager d’Allah ﷺ lui a confié un dinar pour acheter un animal de sacrifice pour lui. Il a acheté un mouton pour un dinar, l’a vendu pour deux dinars, puis il est revenu acheter un autre mouton pour un dinar et a rapporté le dinar supplémentaire au Prophète ﷺ. Le Prophète ﷺ l’a donné en aumône (sadaqah) et a invoqué la bénédiction sur son commerce",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 61
+			}
+		}
+	]
+}

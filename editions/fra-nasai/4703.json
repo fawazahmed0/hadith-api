@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4703,
+			"arabicnumber": 4703,
+			"text": "Rapporté par ‘Amr Bin Ash-Sharid, d’après son père : Un homme a dit : \"Ô Messager d’Allah, personne d’autre n’a de part dans mon terrain, mais il y a des voisins.\" Il a répondu : \"Le voisin a plus de droit sur le bien qui est proche",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 255
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1740,
+			"arabicnumber": 1740,
+			"text": "Rapporté par Abu Hurairah : Le Prophète (ﷺ) avait l’habitude de jeûner les lundis et les jeudis. On lui a demandé : « Ô Messager d’Allah, pourquoi jeûnes-tu les lundis et les jeudis ? » Il a répondu : « Les lundis et les jeudis, Allah pardonne à chaque musulman sauf à deux personnes qui se sont fâchées l’une contre l’autre. Il dit : ‘Laissez-les jusqu’à ce qu’ils se réconcilient.’ »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 103
+			}
+		}
+	]
+}

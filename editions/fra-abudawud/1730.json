@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1730,
+			"arabicnumber": 1730,
+			"text": "Ibn `Abbas رضي الله عنه a dit : Les gens faisaient le hajj sans emporter de provisions. Abu Mas’ud a dit que les habitants du Yémen, ou les gens du Yémen, faisaient le hajj sans rien emporter. Ils disaient : « Nous plaçons notre confiance en Allah. » Alors Allah, le Très-Haut, a révélé : « Et prenez des provisions, mais la meilleure provision est la piété. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1523)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 10
+			}
+		}
+	]
+}

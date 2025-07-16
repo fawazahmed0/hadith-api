@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 116,
+			"arabicnumber": 116,
+			"text": "Rapporté par Bara’ bin ‘Azib : Nous sommes revenus avec le Messager d’Allah de son Hajj, et nous nous sommes arrêtés à un endroit sur la route. Il a ordonné que la prière soit faite en groupe, puis il a pris la main de ‘Ali et a dit : « Ne suis-je pas plus cher aux croyants qu’eux-mêmes ? » Ils ont répondu : « Oui, bien sûr. » Il a dit : « Ne suis-je pas plus cher à chaque croyant que lui-même ? » Ils ont répondu : « Oui, bien sûr. » Il a dit : « Cet homme est l’ami de ceux dont je suis le maître. Ô Allah, sois l’ami de ceux qui l’aiment et sois l’ennemi de ceux qui lui sont hostiles. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 116
+			}
+		}
+	]
+}

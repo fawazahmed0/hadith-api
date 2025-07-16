@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 138,
+			"arabicnumber": 138,
+			"text": "‘Ata’ b. Yasar, citant Ibn ‘Abbas رضي الله عنه, a dit : Voulez-vous que je vous dise comment le Messager d’Allah ﷺ faisait ses ablutions ? Il a alors fait les ablutions en lavant chaque membre une seule fois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (157)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 138
+			}
+		}
+	]
+}

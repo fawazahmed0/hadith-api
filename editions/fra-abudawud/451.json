@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 451,
+			"arabicnumber": 451,
+			"text": "Rapporté par Abd Allah b. 'Umar رضي الله عنه : La mosquée (du Prophète) de son vivant était construite en briques, son toit était fait de branches de palmier, et ses piliers en bois de palmier, comme l’a dit Mujahid. Abu Bakr n’y a rien ajouté. Mais ‘Umar l’a agrandie ; il l’a reconstruite comme elle l’était du temps du Messager d’Allah ﷺ, avec des briques et des branches, mais il a changé les piliers. Mujahid a dit : ses piliers étaient en bois. ‘Uthman l’a entièrement reconstruite en y ajoutant des extensions. Il a bâti ses murs en pierre décorée et en chaux, et les piliers en pierre décorée, et son toit en teck. Mujahid a dit : son toit était en teck. Abu Dawud a dit : al-Qassah signifie la chaux utilisée comme mortier",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (446)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 61
+			}
+		}
+	]
+}

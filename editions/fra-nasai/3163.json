@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3163,
+			"arabicnumber": 3163,
+			"text": "Rapporté par 'Uqbah bin 'Amir : Le Messager d’Allah (ﷺ) a dit : « Il y a cinq choses, quiconque meurt de l’une d’elles est un martyr. Celui qui est tué dans la voie d’Allah est un martyr ; celui qui meurt d’une maladie du ventre dans la voie d’Allah est un martyr ; celui qui meurt de la peste dans la voie d’Allah est un martyr ; et la femme qui meurt en accouchant dans la voie d’Allah est une martyre. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 79
+			}
+		}
+	]
+}

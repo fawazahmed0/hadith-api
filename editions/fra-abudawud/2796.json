@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"16": "Sacrifice (Kitab Al-Dahaya)"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 2788,
+				"hadithnumber_last": 2843,
+				"arabicnumber_first": 2788,
+				"arabicnumber_last": 2843
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2796,
+			"arabicnumber": 2796,
+			"text": "Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ sacrifiait un bélier choisi, cornu, avec du noir autour des yeux, de la bouche et des pattes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 9
+			}
+		}
+	]
+}

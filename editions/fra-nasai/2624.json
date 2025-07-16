@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2624,
+			"arabicnumber": 2624,
+			"text": "Rapporté par Abu Hurairah : Un homme a demandé au Prophète : « Ô Messager d’Allah, quelle est la meilleure action ? » Il a dit : « Le jihad dans la voie d’Allah. » Il a dit : « Et ensuite ? » Il a dit : « Ensuite, le Hajj accepté. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 6
+			}
+		}
+	]
+}

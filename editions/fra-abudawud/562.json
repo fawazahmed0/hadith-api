@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 562,
+			"arabicnumber": 562,
+			"text": "Rapporté par Ka'b ibn Ujrah رضي الله عنه : Abu Thumamah al-Hannat a raconté que Ka'b ibn Ujrah l’a rencontré alors qu’il allait à la mosquée et qu’il croisait les doigts de ses deux mains. Il m’a interdit de le faire et a dit : « Le Messager d’Allah ﷺ a dit : “Si l’un de vous fait ses ablutions parfaitement et sort pour aller à la mosquée, il ne doit pas croiser les doigts de ses mains, car il est déjà en prière.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 172
+			}
+		}
+	]
+}

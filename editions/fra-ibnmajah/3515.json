@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"31": "Chapters on Medicine"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3436,
+				"hadithnumber_last": 3549,
+				"arabicnumber_first": 3436,
+				"arabicnumber_last": 3549
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3515,
+			"arabicnumber": 3515,
+			"text": "Rapporté par Jabir : Il y avait une famille parmi les Ansar, appelée Al ‘Amr bin Hazm, qui récitait une Ruqyah contre la piqûre de scorpion, mais le Messager d’Allah (ﷺ) avait interdit la Ruqyah. Ils sont venus le voir et ont dit : « Ô Messager d’Allah ! Tu as interdit la Ruqyah, mais nous la récitons contre la piqûre de scorpion. » Il leur a dit : « Récitez-la-moi. » Ils la lui ont récitée, et il a dit : « Il n’y a aucun mal à cela, c’est confirmé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 80
+			}
+		}
+	]
+}

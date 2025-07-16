@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5365,
+			"arabicnumber": 5365,
+			"text": "Rapporté par Abu Hurairah : Jibril, paix sur lui, a demandé la permission d’entrer chez le Prophète ﷺ et il a dit : \"Entre.\" Il a répondu : \"Comment pourrais-je entrer alors qu’il y a un rideau avec des images dans ta maison ? Il vaudrait mieux couper leurs têtes ou en faire un tapis sur lequel marcher, car nous, les Anges, n’entrons pas dans une maison où il y a des images",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 326
+			}
+		}
+	]
+}

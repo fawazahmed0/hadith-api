@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"19": "The Book of the Prayer for the Two 'Eids"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1597
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1592,
+			"arabicnumber": 1592,
+			"text": "Rapporté par Wahb bin Kaisan : L’Aïd et le vendredi sont tombés le même jour à l’époque d’Ibn Az-Zubair, alors il a retardé la sortie jusqu’à ce que le soleil soit bien haut. Ensuite, il est sorti, a fait un long sermon, puis il est descendu et a prié, et il n’a pas dirigé la prière du vendredi ce jour-là. On en a parlé à Ibn 'Abbas et il a dit : \"Il a suivi la sunna",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 37
+			}
+		}
+	]
+}

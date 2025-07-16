@@ -1,0 +1,60 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5564,
+			"arabicnumber": 5564,
+			"text": "Rapporté par Abu Idris : \"J’ai vu Anas bin Malik quand on lui a apporté des Busr avec des morceaux en trop, et il a commencé à les couper",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 25
+			}
+		},
+		{
+			"hadithnumber": 5564.2,
+			"arabicnumber": 5564.2,
+			"text": "Rapporté par Qatadah : \"Anas nous disait de couper les morceaux en trop",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 26
+			}
+		}
+	]
+}

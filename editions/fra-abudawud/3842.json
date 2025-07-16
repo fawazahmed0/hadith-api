@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3842,
+			"arabicnumber": 3842,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Quand une souris tombe dans du beurre clarifié, si le beurre est solide, retirez la souris et ce qui est autour, mais si c’est liquide, n’y touchez pas. » Al-Hasan a dit : AbdurRazzaq a rapporté cette tradition par Ma’mar, d’az-Zuhri, d’Ubaydullah ibn Abdullah ibn Abbas, de Maymouna, du Prophète ﷺ",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 107
+			}
+		}
+	]
+}

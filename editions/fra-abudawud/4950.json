@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4950,
+			"arabicnumber": 4950,
+			"text": "Rapporté par Abu Wahb al-Jushami رضي الله عنه : Le Prophète ﷺ a dit : « Appelez-vous par les noms des Prophètes. Les noms les plus aimés d’Allah sont Abdullah et AbdurRahman, les plus véridiques sont Harith et Hammam, et les pires sont Harb et Murrah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 178
+			}
+		}
+	]
+}

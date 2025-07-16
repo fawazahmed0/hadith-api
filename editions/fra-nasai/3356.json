@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3356,
+			"arabicnumber": 3356,
+			"text": "Rapporté par ‘Abdullah : À propos d’un homme qui a épousé une femme, puis est décédé avant de consommer le mariage et sans fixer de dot : « Elle doit recevoir la dot, observer la ‘Iddah et elle peut hériter. » Ma’qil bin Sinan a dit : « J’ai entendu le Prophète ﷺ rendre le même jugement pour Birwa’ bint Washiq. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 161
+			}
+		}
+	]
+}

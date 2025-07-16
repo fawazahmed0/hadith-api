@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1071,
+			"arabicnumber": 1071,
+			"text": "Rapporté par Abdullah ibn Abbas : Ata’ ibn AbuRabah a dit : Ibn az-Zubayr nous a dirigé dans la prière de l’Aïd un vendredi, tôt le matin. Quand nous sommes venus pour la prière du vendredi, il n’est pas sorti vers nous, alors nous avons prié seuls. À ce moment-là, Ibn Abbas était à at-Ta’if. Quand il est revenu, nous lui avons raconté cela. Il a dit : « Il a suivi la sunna. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 682
+			}
+		}
+	]
+}

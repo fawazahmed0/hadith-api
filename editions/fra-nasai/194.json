@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 194,
+			"arabicnumber": 194,
+			"text": "Rapporté par ‘Ali : J’avais beaucoup de pertes prostatiques, alors j’ai interrogé le Prophète (ﷺ) et il a dit : « Si tu vois du Madhi (liquide prostatique), alors fais les ablutions et lave ton sexe. Mais si tu vois du sperme éjaculé, alors fais le Ghusl. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 195
+			}
+		}
+	]
+}

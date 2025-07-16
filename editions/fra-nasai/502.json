@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 502,
+			"arabicnumber": 502,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Voici Jibril, que la paix soit sur lui, il est venu vous enseigner votre religion. Il a prié la prière du Subh quand l’aube est apparue, puis il a prié le Zuhr quand le soleil a passé son zénith, puis il a prié ‘Asr quand il a vu que l’ombre d’un objet était égale à sa hauteur, puis il a prié Maghrib quand le soleil s’est couché et qu’il est permis à la personne qui jeûne de manger. Ensuite, il a prié ‘Isha’ quand la lueur du crépuscule avait disparu. Le lendemain, il est revenu et a prié Subh quand il faisait un peu plus clair, puis il a prié Zuhr quand l’ombre d’un objet était égale à sa hauteur, puis il a prié ‘Asr quand l’ombre d’un objet était égale à deux fois sa hauteur, puis il a prié Maghrib au même moment que la veille, puis il a prié ‘Isha’ quand une partie de la nuit était passée. Ensuite, il a dit : « La prière se fait entre les horaires où tu as prié hier et ceux où tu as prié aujourd’hui. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 9
+			}
+		}
+	]
+}

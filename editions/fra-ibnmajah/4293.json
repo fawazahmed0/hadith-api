@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4293,
+			"arabicnumber": 4293,
+			"text": "Rapporté par Abu Hurairah : Le Prophète (ﷺ) a dit : « Allah a cent degrés de miséricorde, dont Il en a partagé un entre toutes les créatures. Grâce à cela, vous vous montrez miséricordieux et compatissants les uns envers les autres, et les animaux sauvages sont tendres envers leurs petits. Et Il a gardé quatre-vingt-dix-neuf degrés de miséricorde pour montrer Sa miséricorde à Ses serviteurs le Jour de la Résurrection. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 194
+			}
+		}
+	]
+}

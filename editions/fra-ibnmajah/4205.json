@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4205,
+			"arabicnumber": 4205,
+			"text": "Rapporté par Shaddad bin Aws : Le Messager d’Allah (ﷺ) a dit : « Ce que je crains le plus pour ma communauté, c’est d’associer d’autres à Allah. Je ne dis pas qu’ils adoreront le soleil, la lune ou des idoles, mais qu’ils feront des actions pour quelqu’un d’autre qu’Allah, et suivront des désirs cachés. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 106
+			}
+		}
+	]
+}

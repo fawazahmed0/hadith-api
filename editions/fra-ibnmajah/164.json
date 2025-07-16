@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 164,
+			"arabicnumber": 164,
+			"text": "Rapporté par ‘Abdul-Muhaimin bin ‘Abbas bin Sahl bin Sa’d, de son père, de son grand-père : Le Messager d’Allah ﷺ a dit : « Les Ansar sont comme un vêtement porté à même la peau, et les autres gens comme un vêtement porté par-dessus. Si les gens allaient dans une vallée ou un passage étroit et que les Ansar en prenaient un autre, j’irais là où vont les Ansar. Et si ce n’était pas pour la Hijrah, j’aurais été un homme parmi les Ansar. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 164
+			}
+		}
+	]
+}

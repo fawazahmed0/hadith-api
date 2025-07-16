@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4327,
+			"arabicnumber": 4327,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « La mort sera amenée le Jour de la Résurrection et placée sur le Sirat (le Pont au-dessus de l’Enfer). Il sera dit : “Ô gens du Paradis !” Ils regarderont, inquiets et effrayés de peur d’être sortis de l’endroit où ils se trouvent. Puis il sera dit : “Ô gens de l’Enfer !” et ils regarderont, espérant être sortis de l’endroit où ils sont. Ensuite, il sera dit : “Savez-vous ce que c’est ?” Ils répondront : “Oui, c’est la mort.” Alors il sera ordonné qu’elle soit égorgée sur le Sirat, et il sera dit aux deux groupes : “C’est éternel là où vous êtes, et il n’y aura plus jamais de mort.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 228
+			}
+		}
+	]
+}

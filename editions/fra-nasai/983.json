@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 983,
+			"arabicnumber": 983,
+			"text": "Rapporté par Abu Hurairah : Je n’ai jamais prié derrière quelqu’un dont la prière ressemblait autant à celle du Messager d’Allah (ﷺ) que celle d’untel. Nous avons prié derrière cette personne et il allongeait les deux premières unités du zuhr et raccourcissait les deux dernières, et il faisait l’asr plus courte ; au maghrib il récitait les courtes sourates Mufassal. À l’isha, il récitait : « Par le soleil et sa clarté » et des sourates similaires, et au subh il récitait deux longues sourates",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 108
+			}
+		}
+	]
+}

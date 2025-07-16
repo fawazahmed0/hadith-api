@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4372,
+			"arabicnumber": 4372,
+			"text": "Rapporté par ‘Alî — qu’Allah l’agrée : « Le Messager d’Allah ﷺ nous a ordonné d’examiner les yeux et les oreilles (des animaux), et de ne pas sacrifier un animal dont l’oreille est fendue à l’avant, ni celui dont l’oreille est fendue à l’arrière, ni celui dont la queue est coupée, ni celui dont l’oreille est percée d’un trou rond. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 12
+			}
+		}
+	]
+}

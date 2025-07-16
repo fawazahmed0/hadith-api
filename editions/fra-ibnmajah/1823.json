@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"8": "The Chapters Regarding Zakat"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1783,
+				"hadithnumber_last": 1844,
+				"arabicnumber_first": 1783,
+				"arabicnumber_last": 1844
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1823,
+			"arabicnumber": 1823,
+			"text": "Rapporté par Abu Sayyarah Al-Muta : J’ai dit : « Ô Messager d’Allah ! J’ai des abeilles. » Il a dit : « Donne un dixième. » J’ai dit : « Ô Messager d’Allah ! Protège-les pour moi. » Et il les a protégées pour moi",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 41
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"4": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 1198,
+				"hadithnumber_last": 1249,
+				"arabicnumber_first": 1198,
+				"arabicnumber_last": 1249
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1226,
+			"arabicnumber": 1226,
+			"text": "Rapporté par 'Abd Allah ibn 'Umar : J’ai vu le Messager d’Allah ﷺ prier sur un âne alors qu’il faisait face à Khaybar",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (700)"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 29
+			}
+		}
+	]
+}

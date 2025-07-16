@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4296,
+			"arabicnumber": 4296,
+			"text": "Rapporté par Mu’adh bin Jabal : Le Messager d’Allah (ﷺ) est passé près de moi alors que j’étais sur un âne, et il a dit : « Ô Mu’adh, sais-tu quel est le droit d’Allah sur Ses serviteurs et quel est le droit des serviteurs sur Allah ? » J’ai répondu : « Allah et Son Messager savent mieux. » Il a dit : « Le droit d’Allah sur Ses serviteurs est qu’ils L’adorent sans rien Lui associer. Et le droit des serviteurs sur Allah, s’ils font cela, est qu’Il ne les punisse pas. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 197
+			}
+		}
+	]
+}

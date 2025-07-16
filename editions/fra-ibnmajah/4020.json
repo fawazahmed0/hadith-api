@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"36": "Tribulations"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3927,
+				"hadithnumber_last": 4099,
+				"arabicnumber_first": 3927,
+				"arabicnumber_last": 4099
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4020,
+			"arabicnumber": 4020,
+			"text": "Rapporté par Abu Malik Ash’ari : Le Messager d’Allah (ﷺ) a dit : « Des gens de ma communauté boiront du vin, en lui donnant un autre nom, et on jouera de la musique et des chanteuses chanteront pour eux. Allah fera que la terre les engloutisse et les transformera en singes et en porcs. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 95
+			}
+		}
+	]
+}

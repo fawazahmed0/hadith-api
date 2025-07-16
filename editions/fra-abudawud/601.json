@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 601,
+			"arabicnumber": 601,
+			"text": "Anas b. Malik a dit : Le Messager d’Allah ﷺ est monté à cheval, il est tombé et s’est blessé au côté droit. Il a alors prié l’une des prières assis et nous avons prié assis avec lui. Quand il a terminé, il a dit : « L’imam n’est là que pour être suivi ; donc quand il prie debout, priez debout ; quand il s’incline, inclinez-vous ; quand il se redresse, redressez-vous ; quand il dit “Allah écoute celui qui Le loue”, dites “Notre Seigneur ! À Toi la louange” ; et quand il prie assis, priez tous assis. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (689) Sahih Muslim (411)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 211
+			}
+		}
+	]
+}

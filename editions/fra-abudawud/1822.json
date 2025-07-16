@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1822,
+			"arabicnumber": 1822,
+			"text": "Il est rapporté par Ya‘la ibn Umayyah qu’un homme est venu voir le Prophète ﷺ à Ji‘ranah, alors qu’il était en ihram pour la ‘umrah. Il portait un manteau et sa barbe ainsi que sa tête étaient teintes",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1180)"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 102
+			}
+		}
+	]
+}

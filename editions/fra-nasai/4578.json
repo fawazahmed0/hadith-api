@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4578,
+			"arabicnumber": 4578,
+			"text": "Rapporté par Abdur-Rahman bin Abi Bakrah, d'après son père : Le Messager d'Allah ﷺ a interdit de vendre de l'argent contre de l'argent et de l'or contre de l'or, sauf si c'est des quantités égales. Et il nous a dit de vendre de l'or contre de l'argent comme nous le voulions, et de l'argent contre de l'or comme nous le voulions",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 130
+			}
+		}
+	]
+}

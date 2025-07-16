@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 740,
+			"arabicnumber": 740,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Nadr ibn Kathir as-Sa‘di a dit : Abdullah ibn Tawus a prié à côté de moi dans la mosquée d’al-Khayf. Lorsqu’il a fait la première prosternation, il a relevé la tête et levé les mains à hauteur de son visage. Cela m’a paru étrange. Je l’ai donc dit à Wuhayb ibn Khalid. Wuhayb ibn Khalid lui a alors dit : Tu fais quelque chose que je n’ai vu personne faire. Ibn Tawus a répondu : J’ai vu mon père le faire, et mon père a dit : J’ai vu Ibn Abbas le faire. Je ne sais plus s’il a dit : Le Prophète ﷺ le faisait aussi",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 350
+			}
+		}
+	]
+}

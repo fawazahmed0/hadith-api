@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"23": "Chapters on Shares of Inheritance"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2719,
+				"hadithnumber_last": 2752,
+				"arabicnumber_first": 2719,
+				"arabicnumber_last": 2752
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2739,
+			"arabicnumber": 2739,
+			"text": "Rapporté par ‘Ali bin Abu Talib : Le Messager d’Allah (ﷺ) a jugé que les fils de la même mère héritent les uns des autres, mais pas ceux de mères différentes. Un homme hérite de son frère germain (même père et même mère), mais pas de ses frères du même père seulement",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 21
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 691,
+			"arabicnumber": 691,
+			"text": "Rapporté par Ibn 'Abbas, d'après Maymouna, l'épouse du Prophète (ﷺ) : \"Celui qui prie dans la mosquée du Messager d'Allah (ﷺ), c'est une bonne chose, car j'ai entendu le Messager d'Allah (ﷺ) dire : 'Une prière accomplie ici vaut mieux que mille prières ailleurs, sauf dans la mosquée de la Ka'bah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 4
+			}
+		}
+	]
+}

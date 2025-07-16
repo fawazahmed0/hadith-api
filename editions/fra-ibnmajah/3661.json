@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3661,
+			"arabicnumber": 3661,
+			"text": "Rapporté par Miqdam bin Ma’dikarib, رضي الله عنه : Le Messager d’Allah a dit : « Allah vous ordonne d’être bons envers vos mères » — trois fois — « Allah vous ordonne d’être bons envers vos pères, Allah vous ordonne d’être bons envers vos proches, puis les plus proches. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 5
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4769,
+			"arabicnumber": 4769,
+			"text": "‘Ali رضي الله عنه dit : « Cherchez l’homme à la main déformée. » Il raconta ensuite le reste du récit. Cette version précise : « Ils le sortirent de sous les morts, dans la poussière. » Abu al-Wadi dit : « C’est comme si je voyais un Abyssinien portant une tunique. Il avait une main qui ressemblait à un téton de femme, avec des poils dessus comme ceux de la queue d’un jerboa. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 174
+			}
+		}
+	]
+}

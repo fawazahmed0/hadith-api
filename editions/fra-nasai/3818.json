@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"35": "The Book of Agriculture"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 3761,
+				"hadithnumber_last": 3856,
+				"arabicnumber_first": 3761,
+				"arabicnumber_last": 3856
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3818,
+			"arabicnumber": 3818,
+			"text": "Rapporté par Ibn 'Abbas : Sa'd bin 'Ubadah a demandé au Messager d’Allah au sujet d’un vœu que sa mère avait fait, mais elle est morte avant de pouvoir l’accomplir. Le Messager d’Allah a dit : \"Accomplis-le à sa place",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 58
+			}
+		}
+	]
+}

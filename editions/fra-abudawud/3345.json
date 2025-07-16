@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3345,
+			"arabicnumber": 3345,
+			"text": "Rapporté par Abu Hurairah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le retard de paiement par une personne riche est une injustice, mais si l’un de vous est orienté vers un homme aisé, qu’il accepte cette référence. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2287) Sahih Muslim (1564)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 20
+			}
+		}
+	]
+}

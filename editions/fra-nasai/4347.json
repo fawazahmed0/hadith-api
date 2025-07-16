@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4347,
+			"arabicnumber": 4347,
+			"text": "Rapporté par Zahdam Al-Jarmi : « Nous étions avec Abu Musa et on a apporté son repas, dont du poulet. Parmi les gens, il y avait un homme de Banu Taimullah, à la peau rougeâtre, comme s’il avait été affranchi. Il ne s’est pas approché, et Abu Musa lui a dit : ‘Viens (manger), car j’ai vu le Messager d’Allah en manger.’ »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 85
+			}
+		}
+	]
+}

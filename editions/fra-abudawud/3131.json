@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3131,
+			"arabicnumber": 3131,
+			"text": "Usayd ibn Abu Usayd a rapporté, d’après une femme qui avait prêté allégeance au Prophète ﷺ : L’un des engagements que le Messager d’Allah ﷺ a pris de nous à propos de la vertu était de ne pas lui désobéir en cela : que nous ne grifferions pas le visage, ne nous lamenterions pas, ne déchirerions pas le devant de nos vêtements et ne décoifferions pas nos cheveux",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 43
+			}
+		}
+	]
+}

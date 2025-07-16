@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"18": "Wills (Kitab Al-Wasaya)"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 2862,
+				"hadithnumber_last": 2884,
+				"arabicnumber_first": 2862,
+				"arabicnumber_last": 2884
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2880,
+			"arabicnumber": 2880,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Lorsque quelqu’un meurt, ses actions cessent sauf dans trois cas : une aumône continue (sadaqa jariya), un savoir dont les gens tirent profit, ou un enfant pieux qui prie pour lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1631)"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 19
+			}
+		}
+	]
+}

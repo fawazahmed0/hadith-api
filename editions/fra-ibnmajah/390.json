@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 390,
+			"arabicnumber": 390,
+			"text": "Rapporté par Rubai' bint Mu'awwidh : J'ai apporté une bassine d'eau au Prophète ﷺ et il a dit : \"Verse-la\", alors je l'ai versée et il s'est lavé le visage et les avant-bras, puis il a pris de l'eau fraîche et a essuyé sa tête, devant et derrière, puis il a lavé ses pieds. Il a lavé chaque partie trois fois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 124
+			}
+		}
+	]
+}

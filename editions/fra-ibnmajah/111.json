@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 111,
+			"arabicnumber": 111,
+			"text": "Rapporté par Ka‘b bin ‘Ujrah : Le Messager d’Allah a parlé d’une épreuve qui approchait. Un homme est passé, la tête couverte. Le Messager d’Allah a dit : « Ce jour-là, cet homme suivra la bonne voie. » J’ai sauté et j’ai pris ‘Uthman par les bras, puis je me suis tourné vers le Messager d’Allah et j’ai dit : « Cet homme ? » Il répondit : « Cet homme. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 111
+			}
+		}
+	]
+}

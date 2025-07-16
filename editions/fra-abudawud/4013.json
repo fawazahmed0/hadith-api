@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"33": "Hot Baths (Kitab Al-Hammam)"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 4009,
+				"hadithnumber_last": 4019,
+				"arabicnumber_first": 4009,
+				"arabicnumber_last": 4019
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4013,
+			"arabicnumber": 4013,
+			"text": "La tradition mentionnée ci-dessus a aussi été transmise par Ya’la du Prophète ﷺ par une autre chaîne de rapporteurs. Abu Dawud a dit : La première version est plus complète",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 5
+			}
+		}
+	]
+}

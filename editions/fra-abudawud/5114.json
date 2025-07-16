@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5114,
+			"arabicnumber": 5114,
+			"text": "Abu Huraira رضي الله عنه a rapporté que le Prophète ﷺ a dit : « Si un homme devient le client d’un peuple sans la permission de ses maîtres (c’est-à-dire ceux qui l’ont affranchi), il subira la malédiction d’Allah, des anges et de tous les gens ; aucun acte d’adoration obligatoire ou surérogatoire ne sera accepté de lui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1508)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 342
+			}
+		}
+	]
+}

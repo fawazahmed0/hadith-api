@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3639,
+			"arabicnumber": 3639,
+			"text": "Rapporté par Jabir bin 'Abdullah : Mon père devait des dattes à un Juif. Il a été tué le jour de Uhud et il a laissé deux jardins. Les dattes dues au Juif auraient pris tout ce qu'il y avait dans les deux jardins. Le Prophète a dit : \"Peux-tu donner la moitié cette année et la moitié l'année prochaine ?\" Mais le Juif a refusé. Le Prophète a dit : \"Quand ce sera le moment de cueillir les dattes, appelle-moi.\" Je l'ai donc appelé et il est venu, accompagné d'Abu Bakr. Les dattes ont été cueillies et pesées à partir du bas des palmiers, et le Messager d'Allah priait pour la bénédiction, jusqu'à ce que nous ayons tout remboursé à partir du plus petit des deux jardins, comme l'a calculé 'Ammar. Ensuite, je leur ai apporté des dattes fraîches et de l'eau et ils ont mangé et bu, puis il a dit : \"Ceci fait partie de la bénédiction à propos de laquelle vous serez interrogés",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 29
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3628,
+			"arabicnumber": 3628,
+			"text": "Rapporté par 'Amir bin Sa'd, d'après son père : Le Prophète avait l'habitude de lui rendre visite quand il était à La Mecque, et il ne voulait pas mourir dans la terre d'où il avait émigré. Le Prophète a dit : \"Qu'Allah fasse miséricorde à Sa'd bin 'Afra.\" Il n'avait qu'une fille, et il a dit : \"Ô Messager d'Allah, puis-je léguer tous mes biens ?\" Il a dit : \"Non.\" J'ai dit : \"La moitié ?\" Il a dit : \"Non.\" J'ai dit : \"Le tiers ?\" Il a dit : \"Un tiers, et un tiers c'est beaucoup. Il vaut mieux que tu laisses tes héritiers à l'abri du besoin que de les laisser pauvres à tendre la main aux gens",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 18
+			}
+		}
+	]
+}

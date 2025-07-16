@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4456,
+			"arabicnumber": 4456,
+			"text": "Rapporté par 'Amr bin Taghilb : Le Messager d’Allah a dit : « L’un des signes de l’Heure sera que la richesse deviendra répandue et abondante, et le commerce se développera, mais la connaissance disparaîtra. Un homme essaiera de vendre quelque chose et dira : “Non, pas avant que je consulte le commerçant des Banû untel.” Et les gens chercheront un scribe dans une grande région sans en trouver un seul. » (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 8
+			}
+		}
+	]
+}

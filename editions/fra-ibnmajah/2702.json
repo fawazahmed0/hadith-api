@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"22": "The Chapters on Wills"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2695,
+				"hadithnumber_last": 2718,
+				"arabicnumber_first": 2695,
+				"arabicnumber_last": 2718
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2702,
+			"arabicnumber": 2702,
+			"text": "Rapporté par Ibn 'Umar : Le Prophète (ﷺ) a dit : “Un musulman ne doit pas passer deux nuits s’il possède quelque chose qui nécessite un testament, sans avoir un testament écrit avec lui.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 8
+			}
+		}
+	]
+}

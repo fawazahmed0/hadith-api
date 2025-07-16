@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2549,
+			"arabicnumber": 2549,
+			"text": "Rapporté par Abu Umamah bin Sahl bin Hunaif : Un jour, nous étions assis dans la mosquée avec un groupe de Mouhajirines et d’Ansar. Nous avons envoyé un homme demander la permission d’entrer chez 'Aishah رضي الله عنها. Elle a dit : \"Un mendiant est venu me voir un jour alors que le Messager d’Allah ﷺ était présent, et j’ai ordonné qu’on lui donne quelque chose, puis j’ai demandé à voir ce que c’était. Le Messager d’Allah ﷺ a dit : 'Veux-tu que rien n’entre ni ne sorte de ta maison sans que tu le saches ?' J’ai dit : 'Oui.' Il a dit : 'Ne sois pas pressée, ô 'Aishah. Ne compte pas ce que tu donnes, sinon Allah comptera ce qu’Il te donne",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 115
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"20": "The Chapters on Legal Punishments"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2533,
+				"hadithnumber_last": 2614,
+				"arabicnumber_first": 2533,
+				"arabicnumber_last": 2614
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2592,
+			"arabicnumber": 2592,
+			"text": "Rapporté par Ibrahim bin Abdur-Rahman bin Awf, de son père : J’ai entendu le Messager d’Allah (ﷺ) dire : “On ne coupe pas la main du chapardeur.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 60
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5294,
+			"arabicnumber": 5294,
+			"text": "Rapporté par Abu Al-Ahwas, dont le père a dit : Je suis entré auprès du Messager d’Allah ﷺ et il m’a vu avec un air négligé. Le Prophète ﷺ a dit : « As-tu quelque chose ? » Il a répondu : « Oui, Allah m’a donné toutes sortes de richesses. » Il a dit : « Si tu as des biens, qu’on le voie sur toi. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 255
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"36": "The Book of the Kind Treatment of Women"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3939,
+				"hadithnumber_last": 3965,
+				"arabicnumber_first": 3939,
+				"arabicnumber_last": 3965
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3941,
+			"arabicnumber": 3941,
+			"text": "Rapporté par Anas bin Malik : Rien n’était plus cher au Messager d’Allah après les femmes que les chevaux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 3
+			}
+		}
+	]
+}

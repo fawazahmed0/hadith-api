@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1939,
+			"arabicnumber": 1939,
+			"text": "Rapporté par Al-Bara bin 'Azib : Le Messager d’Allah ﷺ nous a ordonné de faire sept choses et nous en a interdit sept autres. Il nous a ordonné de rendre visite aux malades, de répondre (dire : Yarhamuk Allah, qu’Allah te fasse miséricorde) à celui qui éternue, de tenir nos serments, de soutenir l’opprimé, de répandre le Salam, d’accepter les invitations, et d’assister aux funérailles. Il nous a interdit les bagues en or, les récipients en argent, les Mayathir, la Qasiyyah, l’Al-Istabraq, la soie et l’Ad-Dibaj",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 122
+			}
+		}
+	]
+}

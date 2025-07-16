@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3104,
+			"arabicnumber": 3104,
+			"text": "Rapporté par Aishah, fille de Sa'd رضي الله عنها : Son père a dit : J’étais malade à La Mecque. Le Messager d’Allah ﷺ est venu me rendre visite. Il posa sa main sur mon front, passa sa main sur ma poitrine et mon ventre, puis dit : « Ô Allah ! guéris Sa'd et complète son émigration. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5659)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 16
+			}
+		}
+	]
+}

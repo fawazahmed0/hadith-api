@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1902,
+			"arabicnumber": 1902,
+			"text": "Rapporté par 'Amr, qui a entendu Jabir dire : Al-'Abbas était à Médine et il a demandé aux Ansar un vêtement pour l’habiller, mais ils n’ont pas trouvé de chemise qui lui allait sauf celle de 'Abdullah bin Ubayy, alors ils l’ont habillé avec",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 85
+			}
+		}
+	]
+}

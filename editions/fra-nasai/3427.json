@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3427,
+			"arabicnumber": 3427,
+			"text": "Rapporté par 'Umar bin Mu'attib : Abu Hasan, l'affranchi des Banu Nawfal, a dit : \"Ma femme et moi étions esclaves, et je l'ai divorcée deux fois, puis nous avons tous les deux été affranchis. J'ai interrogé Ibn 'Abbas et il a dit : 'Si tu la reprends, il te reste encore deux divorces. C'est ainsi que le Messager d'Allah ﷺ a jugé",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 39
+			}
+		}
+	]
+}

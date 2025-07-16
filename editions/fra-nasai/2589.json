@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2589,
+			"arabicnumber": 2589,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah a dit : “Par Celui qui détient mon âme dans Sa main, si l’un de vous prenait une corde et ramassait du bois sur son dos, cela vaudrait mieux pour lui que d’aller demander à un homme à qui Allah, le Puissant et Majestueux, a donné de Ses bienfaits, et de lui demander (de l’aide), qu’il lui donne ou non.”",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 155
+			}
+		}
+	]
+}

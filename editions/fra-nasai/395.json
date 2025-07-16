@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 395,
+			"arabicnumber": 395,
+			"text": "Rapporté par ‘Adi bin Dinar : J’ai entendu Umm Qais bint Mihsan dire qu’elle a demandé au Messager d’Allah (ﷺ) à propos du sang des règles sur les vêtements. Il a dit : « Gratte-le avec un bâton, lave-le avec de l’eau et des feuilles de lotus. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 48
+			}
+		}
+	]
+}

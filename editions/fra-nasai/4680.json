@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4680,
+			"arabicnumber": 4680,
+			"text": "Rapporté par Usaid bin Zubair Al-Ansari, un des Banu Harithah : Il était gouverneur d’Al-Yamamah, et Marwan lui a écrit que Mu'awiyah lui avait écrit, disant que toute personne à qui on a volé quelque chose a plus de droit dessus où qu’elle le retrouve. Marwan a alors écrit cela à Usaid. J’ai écrit à Marwan que le Prophète ﷺ avait jugé que si celui qui avait acheté l’objet du voleur n’était pas coupable (et ne savait pas que c’était volé), alors le propriétaire a le choix : s’il veut, il peut racheter l’objet à celui qui l’a acheté du voleur, ou s’il veut, il peut poursuivre le voleur. Abu Bakr, 'Umar et 'Uthman ont aussi jugé de cette manière. Marwan a envoyé ma lettre à Mu'awiyah, et Mu'awiyah a répondu à Marwan : « Ni toi ni Usaid n’êtes en position de me dire quoi faire, c’est plutôt moi qui vous donne des instructions, car je suis supérieur à vous, alors faites ce que je vous dis. » Marwan m’a envoyé la lettre de Mu'awiyah, et j’ai dit : Je ne jugerai pas selon l’avis de Mu'awiyah tant que je serai gouverneur",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 232
+			}
+		}
+	]
+}

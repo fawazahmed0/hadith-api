@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4,
+			"arabicnumber": 4,
+			"text": "Rapporté par Anas b. Malik : Lorsque le Messager d’Allah ﷺ entrait aux toilettes, il disait avant d’entrer : « Ô Allah, je cherche refuge auprès de Toi. » Ceci selon la version de Hammad. ‘Abd al-Warith rapporte une autre version : « Je cherche refuge auprès d’Allah contre les diables mâles et femelles. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (142) Sahih Muslim (375)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 4
+			}
+		}
+	]
+}

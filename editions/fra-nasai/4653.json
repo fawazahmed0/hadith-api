@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4653,
+			"arabicnumber": 4653,
+			"text": "Rapporté par Jabir : Un homme parmi les Ansar, appelé Abu (Madhkur), a déclaré qu'un de ses esclaves, nommé Ya'qub, serait affranchi après sa mort, et il ne possédait rien d'autre. Le Messager d'Allah a fait venir l'esclave et a dit : \"Qui veut l'acheter ?\" Nu'aim bin 'Abdullah l'a acheté pour huit cents dirhams, et il les a donnés à l'homme, puis il a dit : \"Si l'un de vous est pauvre, qu'il commence par lui-même ; s'il reste quelque chose, qu'il le donne à ses dépendants ; s'il reste encore, qu'il le donne à ses proches ; et s'il reste encore, qu'il le donne ici et là",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 205
+			}
+		}
+	]
+}

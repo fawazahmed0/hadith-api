@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5741,
+			"arabicnumber": 5741,
+			"text": "Rapporté par Bassam : J'ai demandé à Abu Ja'far au sujet du Nabidh et il a dit : \"'Ali bin Husain, que Allah l'agrée, faisait préparer du Nabidh pour lui la nuit, et il en buvait le matin, et il en faisait préparer le matin et il en buvait le soir",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 203
+			}
+		}
+	]
+}

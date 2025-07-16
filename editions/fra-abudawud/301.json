@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 301,
+			"arabicnumber": 301,
+			"text": "Sumayy, l’affranchi d’Abu Bakr, raconte qu’al-Qa'qa et Zaid b. Aslam l’ont envoyé demander à Sa'id b. al-Musayyab comment la femme ayant un écoulement de sang devait se laver. Il répondit : « Elle doit se laver au moment de la prière du Zuhr (le bain sera valable d’un Zuhr à l’autre) ; et elle doit faire les ablutions pour chaque prière. Si le saignement est abondant, elle doit attacher un tissu sur ses parties intimes. » Abu Dawud a dit : Cela a été rapporté par Ibn 'Umar et Anas b. Malik qu’elle doit prendre un bain au moment de la prière du Zuhr (valable jusqu’au Zuhr suivant). Ce récit a aussi été transmis par Dawud et 'Asim de al-Sha'bi de son épouse de Qumair d’après 'Aishah, sauf que la version de Dawud dit : « chaque jour », et celle de 'Asim dit : « au moment de la prière du Zuhr ». C’est l’avis de Salim b. 'Abd Allah, al-Hassan et 'Ata. Abu Dawud a dit : Malik a dit : Je pense que le récit rapporté par Ibn al-Musayyab doit contenir les mots : « d’une purification à une autre ». Mais cela a été mal compris et les gens l’ont changé en : « d’un Zuhr à l’autre ». Cela a aussi été rapporté par Miswar b. 'Abd al-Malik b. Sa'id b. 'Abd al-Rahman b. Yarbu', disant : « d’une purification à une autre », mais les gens l’ont changé en : « d’un Zuhr à l’autre »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 301
+			}
+		}
+	]
+}

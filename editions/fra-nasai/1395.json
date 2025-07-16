@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"14": "The Book of Jumu'ah (Friday Prayer)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 1367,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 1367,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1395,
+			"arabicnumber": 1395,
+			"text": "Rapporté par 'Amr bin Dinar : J'ai entendu Jabir bin 'Abdullah dire : Le Messager d'Allah (ﷺ) a dit : \"Si l'un de vous arrive et que l'imam est déjà là, qu'il fasse deux rak'ahs.\" Shu'bah (un des rapporteurs) a dit : \"Le vendredi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 32
+			}
+		}
+	]
+}

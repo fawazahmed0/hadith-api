@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5102,
+			"arabicnumber": 5102,
+			"text": "Rapporté par 'Abdullah bin Murrah, d'après Al-Harith, d'après 'Abdullah : Celui qui consomme le riba, celui qui le paie, celui qui l'écrit en sachant que c'est du riba ; la femme qui fait des tatouages et celle qui les fait pour la beauté ; celui qui retient la zakat ; et celui qui retourne à la vie de bédouin après avoir émigré — tous seront maudits par la langue de Muhammad ﷺ le Jour de la Résurrection",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 63
+			}
+		}
+	]
+}

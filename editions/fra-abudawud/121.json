@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 121,
+			"arabicnumber": 121,
+			"text": "Rapporté par Al-Miqdam ibn Ma’dikarib al-Kindi : On a apporté de l’eau pour les ablutions au Messager d’Allah ﷺ et il a fait ses ablutions ; il a lavé ses mains jusqu’aux poignets trois fois, puis ses avant-bras trois fois. Ensuite, il s’est rincé la bouche et a pris de l’eau dans le nez trois fois ; puis il a essuyé sa tête et ses oreilles à l’intérieur et à l’extérieur",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 121
+			}
+		}
+	]
+}

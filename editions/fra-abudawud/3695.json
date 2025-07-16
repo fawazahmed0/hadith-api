@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3695,
+			"arabicnumber": 3695,
+			"text": "Un homme de la délégation de ‘Abd al-Qais qui est venu voir le Prophète ﷺ a dit – le narrateur ‘Awf pense qu’il s’appelait Qais ibn al-Nu’man : Le Prophète ﷺ a dit : « Ne buvez pas dans les troncs évidés, les récipients enduits de poix, les citrouilles et les jarres vertes, mais buvez dans une outre attachée avec une corde. Si la boisson fermente, diluez-la avec de l’eau. Si vous ne pouvez pas, alors jetez-la. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 27
+			}
+		}
+	]
+}

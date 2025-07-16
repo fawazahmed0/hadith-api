@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 913,
+			"arabicnumber": 913,
+			"text": "Rapporté par Abu Sa'eed bin Al-Mu'alla : Le Prophète (ﷺ) est passé près de lui alors qu’il priait et l’a appelé. Il a dit : \"J’ai fini de prier, puis je suis venu vers lui, et il a dit : 'Qu’est-ce qui t’a empêché de me répondre ?' Il a dit : 'Je priais.' Il a dit : 'Allah ne dit-Il pas : Ô vous qui croyez ! Répondez à Allah (en Lui obéissant) et à Son Messager lorsqu’il vous appelle à ce qui vous donne la vie ? Veux-tu que je t’enseigne la plus grande sourate avant que je quitte la mosquée ?' Puis il s’est dirigé vers la sortie, et j’ai dit : 'Ô Messager d’Allah, qu’en est-il de ce que tu as dit ?' Il a dit : 'Louange à Allah, Seigneur de l’univers. Ce sont les sept versets répétés qui m’ont été donnés, ainsi que le Noble Coran",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 38
+			}
+		}
+	]
+}

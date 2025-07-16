@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"36": "Tribulations"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 3927,
+				"hadithnumber_last": 4099,
+				"arabicnumber_first": 3927,
+				"arabicnumber_last": 4099
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3978,
+			"arabicnumber": 3978,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri : Un homme est venu voir le Prophète (ﷺ) et a dit : “Qui sont les meilleures personnes ?” Il a répondu : “Un homme qui lutte dans le sentier d’Allah avec sa personne et ses biens.” Il a demandé : “Et ensuite ?” Il a dit : “Un homme qui se trouve dans un col de montagne, qui adore Allah et qui protège les gens de son mal.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 53
+			}
+		}
+	]
+}

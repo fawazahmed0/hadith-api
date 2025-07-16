@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 598,
+			"arabicnumber": 598,
+			"text": "‘Adi b. Thabit al-Ansari a dit : Un homme m’a raconté qu’il était en compagnie de ‘Ammar b. Yasir à al-Mada’in (une ville près de Koufa). L’iqama a été prononcée pour la prière : ‘Ammar s’est avancé, s’est mis debout sur une boutique (ou un banc) et a prié pendant que les gens étaient plus bas que lui. Hudhaifah s’est avancé, l’a pris par la main, et ‘Ammar l’a suivi jusqu’à ce qu’il le fasse descendre. Quand ‘Ammar a fini sa prière, Hudhaifah lui a dit : « N’as-tu pas entendu le Messager d’Allah (que la paix soit sur lui) dire : “Quand un homme dirige la prière, il ne doit pas se tenir à une position plus haute que celle des autres”, ou quelque chose de similaire ? » ‘Ammar a répondu : « C’est pour cela que je t’ai suivi quand tu m’as pris par la main. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 208
+			}
+		}
+	]
+}

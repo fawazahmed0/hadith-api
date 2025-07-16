@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"17": "Game (Kitab Al-Said)"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 2844,
+				"hadithnumber_last": 2861,
+				"arabicnumber_first": 2844,
+				"arabicnumber_last": 2861
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2848,
+			"arabicnumber": 2848,
+			"text": "Rapporté par ‘Adi b. Hatim رضي الله عنه : J’ai interrogé le Messager d’Allah ﷺ. J’ai dit : « Nous chassons avec ces chiens. » Il a répondu : « Quand tu envoies ton chien en mentionnant le nom d’Allah, mange ce qu’il attrape pour toi, même s’il l’a tué, sauf si le chien en a mangé ; si le chien en a mangé, ne mange pas, car je crains qu’il ne l’ait attrapé que pour lui-même. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5484) Sahih Muslim (1929)"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 5
+			}
+		}
+	]
+}

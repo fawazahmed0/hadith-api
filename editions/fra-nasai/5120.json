@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5120,
+			"arabicnumber": 5120,
+			"text": "Rapporté par Abu Hurairah : Un homme est venu voir le Prophète ﷺ en portant un peu de Khaluq. Le Prophète ﷺ lui a dit : \"Va et enlève-le.\" Il est revenu, et il lui a dit : \"Va et enlève-le.\" Puis il est revenu encore, et il lui a dit : \"Va et enlève-le, et ne le remets plus",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 81
+			}
+		}
+	]
+}

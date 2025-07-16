@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"32": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3969,
+				"hadithnumber_last": 4008,
+				"arabicnumber_first": 3969,
+				"arabicnumber_last": 4008
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4005,
+			"arabicnumber": 4005,
+			"text": "Rapporté par Shariq رضي الله عنه : On a dit à ‘Abd Allah (ibn Mas’ud) que les gens lisaient ce verset : « Elle dit : Maintenant viens, toi » (hita laka). Il a dit : « Je le lis comme on me l’a enseigné ; c’est ce que je préfère. Cela se lit : “wa qalat haita laka” (Elle dit : Maintenant viens, toi). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 37
+			}
+		}
+	]
+}

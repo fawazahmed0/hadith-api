@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 525,
+			"arabicnumber": 525,
+			"text": "Rapporté par ‘Ali : Le Prophète a dit au sujet de l’urine d’un nourrisson : \"Il faut asperger d’eau l’urine d’un garçon, et l’urine d’une fille doit être lavée.\" Abul-Hasan bin Salamah a dit : \"Ahmad bin Musa bin Ma’qil nous a rapporté qu’Abul-Yaman Al-Misri a dit : ‘J’ai demandé à Shafi’i au sujet du hadith du Prophète : \"Il faut asperger d’eau l’urine d’un bébé garçon, et l’urine d’une fille doit être lavée,\" alors que les deux urines sont identiques. Il a dit : \"C’est parce que l’urine du garçon vient de l’eau et de l’argile, mais celle de la fille vient de la chair et du sang.\" Puis il m’a dit : \"As-tu compris ?\" J’ai dit : \"Non.\" Il a dit : \"Quand Allah le Très-Haut a créé Adam, Il a créé Ève (Hawwa’) à partir de sa côte, donc l’urine du garçon vient de l’eau et de l’argile, et celle de la fille vient de la chair et du sang.\" Puis il m’a dit : \"As-tu compris ?\" J’ai dit : \"Oui.\" Il a dit : \"Qu’Allah te fasse profiter de cela",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 259
+			}
+		}
+	]
+}

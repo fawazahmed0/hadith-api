@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3351,
+			"arabicnumber": 3351,
+			"text": "Rapporté par Anas bin Malik : 'Abdur-Rahman bin 'Awf est venu voir le Prophète ﷺ avec des traces de parfum jaune sur lui. Le Messager d’Allah ﷺ lui a demandé (à ce sujet) et il lui a dit qu’il avait épousé une femme parmi les Ansar. Le Messager d’Allah ﷺ a dit : « Combien lui as-tu donné ? » Il a répondu : « Un Nawah (cinq dirhams) d’or. » Le Messager d’Allah ﷺ a dit : « Organise un festin de mariage (Walima), même si ce n’est qu’avec un mouton. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 156
+			}
+		}
+	]
+}

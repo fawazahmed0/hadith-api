@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 847,
+			"arabicnumber": 847,
+			"text": "Rapporté par Ma'din bin Abi Talhah Al-Ya'muri : Abu Ad-Darda m'a demandé : \"Où habites-tu ?\" J'ai répondu : \"Dans une ville près de Hims.\" Abu Ad-Darda a dit : \"J'ai entendu le Messager d'Allah (ﷺ) dire : 'Il n'y a pas trois personnes dans une ville ou un campement où la prière n'est pas accomplie en groupe, sans que le diable ne prenne le dessus sur eux. Restez donc avec le groupe, car le loup mange la brebis qui s'éloigne du troupeau.'\" (Un des rapporteurs, As Sa'ib, a dit : \"Le groupe signifie la prière en commun)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 71
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4236,
+			"arabicnumber": 4236,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un veut mettre une bague de feu à celui qu’il aime, qu’il lui mette une bague en or ; si quelqu’un veut mettre un collier de feu à celui qu’il aime, qu’il lui mette un collier en or ; et si quelqu’un veut mettre un bracelet de feu à celui qu’il aime, qu’il lui mette un bracelet en or. Contentez-vous de l’argent et amusez-vous avec. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 23
+			}
+		}
+	]
+}

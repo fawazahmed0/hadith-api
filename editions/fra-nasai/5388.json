@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"49": "The Book of the Etiquette of Judges"
+		},
+		"section_detail": {
+			"49": {
+				"hadithnumber_first": 5379,
+				"hadithnumber_last": 5427,
+				"arabicnumber_first": 5379,
+				"arabicnumber_last": 5427
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5388,
+			"arabicnumber": 5388,
+			"text": "Rapporté par Abu Bakrah : Allah m’a protégé grâce à quelque chose que j’ai entendu du Messager d’Allah ﷺ. Quand Chosroes est mort, il a demandé : « Qui ont-ils nommé comme successeur ? » On a répondu : « Sa fille. » Il a dit : « Un peuple qui confie sa direction à une femme ne réussira jamais. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 49,
+				"hadith": 10
+			}
+		}
+	]
+}

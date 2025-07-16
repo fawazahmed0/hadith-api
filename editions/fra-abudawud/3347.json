@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3347,
+			"arabicnumber": 3347,
+			"text": "Rapporté par Jabir ibn Abdullah : Le Prophète ﷺ me devait une dette et, lorsqu’il me l’a remboursée, il m’a donné un peu plus",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (443) Sahih Muslim (715 After 1599)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 22
+			}
+		}
+	]
+}

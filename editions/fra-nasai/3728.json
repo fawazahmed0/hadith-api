@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"34": "The Book of 'Umra"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 3720,
+				"hadithnumber_last": 3760,
+				"arabicnumber_first": 3720,
+				"arabicnumber_last": 3760
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3728,
+			"arabicnumber": 3728,
+			"text": "Rapporté par Abdul-Karim, d'après 'Ata', qui a dit : \"Le Messager d'Allah ﷺ a interdit l''Umra et la Ruqba.\" J'ai demandé : \"Qu'est-ce que la Ruqba ?\" Il a répondu : \"Quand un homme dit à un autre : 'Ceci t'appartient pour le reste de ta vie.' Mais si tu fais cela, c'est permis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 10
+			}
+		}
+	]
+}

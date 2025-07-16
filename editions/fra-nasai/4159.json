@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"39": "The Book of al-Bay'ah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 4149,
+				"hadithnumber_last": 4211,
+				"arabicnumber_first": 4149,
+				"arabicnumber_last": 4211
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4159,
+			"arabicnumber": 4159,
+			"text": "Rapporté par Yazid bin Abi 'Ubaid : J’ai demandé à Salamah bin Al-Akwa' : \"Quel serment as-tu fait au Prophète le jour d’Al-Houdaybiyah ?\" Il a répondu : \"Pour la mort",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 39,
+				"hadith": 11
+			}
+		}
+	]
+}

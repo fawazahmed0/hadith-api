@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"8": "The Book of the Masjids"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 688,
+				"hadithnumber_last": 741,
+				"arabicnumber_first": 688,
+				"arabicnumber_last": 741
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 719,
+			"arabicnumber": 719,
+			"text": "Rapporté par Al-Aswad : Alqamah et moi sommes entrés chez 'Abdullah bin Mas’ud et il nous a dit : \"Est-ce que ces gens ont prié ?\" Nous avons répondu : \"Non.\" Il a dit : \"Levez-vous et priez.\" Nous nous sommes placés derrière lui, il a mis l’un de nous à sa droite et l’autre à sa gauche, et il a prié sans appel à la prière ni Iqamah. Quand il s’est incliné, il a croisé ses doigts et mis ses mains entre ses genoux, puis il a dit : \"J’ai vu le Messager d’Allah (ﷺ) faire ainsi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 8,
+				"hadith": 32
+			}
+		}
+	]
+}

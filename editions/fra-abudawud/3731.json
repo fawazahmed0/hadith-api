@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3731,
+			"arabicnumber": 3731,
+			"text": "Rapporté par Jabir : Le Prophète ﷺ a dit : « Fermez votre porte en mentionnant le nom d’Allah, car le diable n’ouvre pas une porte fermée ; éteignez votre lampe en mentionnant le nom d’Allah, couvrez votre récipient, même avec un simple morceau de bois, en mentionnant le nom d’Allah, et attachez votre outre à eau en mentionnant le nom d’Allah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5623) Sahih Muslim (2012)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 63
+			}
+		}
+	]
+}

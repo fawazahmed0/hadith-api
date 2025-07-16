@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"14": "Fasting (Kitab Al-Siyam)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2313,
+				"hadithnumber_last": 2476,
+				"arabicnumber_first": 2313,
+				"arabicnumber_last": 2476
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2423,
+			"arabicnumber": 2423,
+			"text": "Rapporté par Al-Laith رضي الله عنه : Quand on parlait à Ibn Shihab (al-Zuhri) de l’interdiction de jeûner le samedi, il disait : « C’est une tradition des gens de Hims. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 111
+			}
+		}
+	]
+}

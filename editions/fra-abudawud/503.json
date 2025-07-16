@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 503,
+			"arabicnumber": 503,
+			"text": "Abu Mahdhurah a rapporté : Le Messager d’Allah ﷺ m’a lui-même enseigné l’appel à la prière (adhan). Il m’a demandé de prononcer : « Allah est le plus Grand, Allah est le plus Grand, Allah est le plus Grand, Allah est le plus Grand ; j’atteste qu’il n’y a pas d’autre divinité qu’Allah. J’atteste qu’il n’y a pas d’autre divinité qu’Allah ; j’atteste que Muhammad est le Messager d’Allah, j’atteste que Muhammad est le Messager d’Allah. » Ensuite, répète et élève la voix : « J’atteste qu’il n’y a pas d’autre divinité qu’Allah, j’atteste qu’il n’y a pas d’autre divinité qu’Allah ; j’atteste que Muhammad est le Messager d’Allah, j’atteste que Muhammad est le Messager d’Allah ; venez à la prière, venez à la prière ; venez au salut, venez au salut ; Allah est le plus Grand, Allah est le plus Grand ; il n’y a pas d’autre divinité qu’Allah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 113
+			}
+		}
+	]
+}

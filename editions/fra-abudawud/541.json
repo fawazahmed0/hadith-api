@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 541,
+			"arabicnumber": 541,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Quand l’iqama était prononcée pour la prière à l’époque du Messager d’Allah ﷺ, les gens s’asseyaient avant que le Prophète ﷺ ne prenne place",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (640) Sahih Muslim (605)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 151
+			}
+		}
+	]
+}

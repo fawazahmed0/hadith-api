@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4255,
+			"arabicnumber": 4255,
+			"text": "Rapporté par Khalid : Al-Miqdam bin Madikarib est venu rendre visite à Muawiyah et lui a dit : « Je t’adjure par Allah, sais-tu que le Messager d’Allah ﷺ a interdit de porter les peaux de prédateurs et de s’asseoir dessus ? » Il répondit : « Oui. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 34
+			}
+		}
+	]
+}

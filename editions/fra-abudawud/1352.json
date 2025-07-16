@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1352,
+			"arabicnumber": 1352,
+			"text": "Rapporté par Aishah, la mère des croyants رضي الله عنها : Sa‘d ibn Hisham a dit : Je suis venu à Médine et je suis allé voir Aishah. Je lui ai demandé : Parle-moi de la prière du Messager d’Allah ﷺ. Elle a répondu : Le Messager d’Allah ﷺ dirigeait les gens dans la prière de nuit, puis il allait se coucher et dormait. Quand la moitié de la nuit arrivait, il se levait, allait aux toilettes et faisait ses ablutions. Après cela, il entrait dans la mosquée et priait huit rak‘at. Il me semble qu’il récitait le Coran, s’inclinait et se prosternait de façon égale dans chaque rak‘ah. Ensuite, il faisait le witr avec une rak‘ah et priait deux rak‘at assis. Puis il s’allongeait par terre. Parfois, Bilal venait l’appeler pour la prière. Il somnolait alors, et parfois je doutais s’il dormait vraiment ou non, jusqu’à ce que Bilal l’appelle pour la prière. C’est ainsi qu’il priait jusqu’à ce qu’il vieillisse ou prenne du poids. Elle a ensuite expliqué comment il a pris du poids, selon la volonté d’Allah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 103
+			}
+		}
+	]
+}

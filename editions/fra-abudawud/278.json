@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 278,
+			"arabicnumber": 278,
+			"text": "Rapporté par Sulaiman ibn Yasar d’après Umm Salamah رضي الله عنها : Dans cette version, il est dit : Le Prophète ﷺ a dit : « Elle doit arrêter la prière et se laver au début de la période supplémentaire, puis mettre un tissu sur sa partie intime et prier. » Abu Dawud a dit : Hammad ibn Zaid, d’après Ayyub, a précisé que la femme qui avait un saignement prolongé dans ce hadith s’appelait Fatimah, fille d’Abu Hubaish",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 278
+			}
+		}
+	]
+}

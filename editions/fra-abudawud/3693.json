@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3693,
+			"arabicnumber": 3693,
+			"text": "Abu Huraira رضي الله عنه a dit : Le Messager d’Allah ﷺ a dit à la délégation de ‘Abd al-Qais : « Je vous interdis l’utilisation des troncs évidés, des récipients enduits de poix, des jarres vertes, des citrouilles et d’une outre coupée par le haut, mais buvez dans vos outres et attachez-les avec une corde. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1993)"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 25
+			}
+		}
+	]
+}

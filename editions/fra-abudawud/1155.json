@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1155,
+			"arabicnumber": 1155,
+			"text": "Rapporté par Abdullah ibn as-Sa'ib : J’ai assisté à la prière de l’Aïd avec le Messager d’Allah ﷺ. Lorsqu’il a terminé la prière, il a dit : « Nous allons prononcer le sermon ; celui qui souhaite rester pour l’écouter peut rester, et celui qui veut partir peut partir. » Abu Dawud a précisé : il s’agit d’une tradition mursal (c’est-à-dire que le successeur ‘Ata rapporte directement du Prophète ﷺ en omettant le lien avec les Compagnons)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 766
+			}
+		}
+	]
+}

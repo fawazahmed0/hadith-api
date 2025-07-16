@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"19": "Shares of Inheritance (Kitab Al-Fara'id)"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 2885,
+				"hadithnumber_last": 2927,
+				"arabicnumber_first": 2885,
+				"arabicnumber_last": 2927
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2892,
+			"arabicnumber": 2892,
+			"text": "Rapporté par Jabir ibn ‘Abdullah رضي الله عنه : L’épouse de Sa'd ibn al-Rabi' a dit : « Messager d’Allah, Sa'd est mort et a laissé deux filles. » Il a ensuite raconté la suite de l’histoire de façon similaire. Abu Dawud a dit : C’est la version la plus correcte",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 19,
+				"hadith": 8
+			}
+		}
+	]
+}

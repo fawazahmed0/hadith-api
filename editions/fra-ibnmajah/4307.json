@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4307,
+			"arabicnumber": 4307,
+			"text": "Rapporté par Abu Hurayrah : Le Messager d’Allah (ﷺ) a dit : “Chaque Prophète a eu une prière exaucée, et chaque Prophète a utilisé cette prière dans ce monde. Mais moi, je garde ma prière pour intercéder en faveur de ma communauté, et elle atteindra chacun de ceux qui meurent sans rien associer à Allah.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 208
+			}
+		}
+	]
+}

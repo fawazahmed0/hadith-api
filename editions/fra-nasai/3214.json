@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3214,
+			"arabicnumber": 3214,
+			"text": "Rapporté par Samurah bin Jundab : Il a été rapporté de Samurah bin Jundab que le Prophète ﷺ a interdit le célibat. Abu Abdur-Rahman a dit : Qatadah est plus fiable et retient mieux les récits qu'Ash'ath, mais le hadith d'Ash'ath (ici) semble être le bon. Allah, Le Très-Haut, sait mieux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 19
+			}
+		}
+	]
+}

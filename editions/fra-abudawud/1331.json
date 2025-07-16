@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1331,
+			"arabicnumber": 1331,
+			"text": "Rapporté par Aishah رضي الله عنها : Un homme s’est levé la nuit et a récité le Coran à voix haute. À l’aube, le Messager d’Allah ﷺ a dit : « Qu’Allah fasse miséricorde à untel, il m’a rappelé des versets que j’avais presque oubliés. » Abu Dawud a dit : Harun al-Nahwi a rapporté de Hammad b. Salamah le verset du Coran de la sourate Al-‘Imran : « Combien de prophètes ont combattu (dans le chemin d’Allah) » (3:)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 82
+			}
+		}
+	]
+}

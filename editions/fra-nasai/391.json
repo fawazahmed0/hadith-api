@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 391,
+			"arabicnumber": 391,
+			"text": "Rapporté par ‘Aïcha : Elle a dit au Messager d’Allah (ﷺ) : « Safiyyah bint Houyay a eu ses règles. » Le Messager d’Allah (ﷺ) a dit : « Peut-être qu’elle va nous retenir. N’a-t-elle pas déjà fait le tour de la Kaaba avec vous ? » Elle a répondu : « Oui. » Il a dit : « Alors vous pouvez partir. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 44
+			}
+		}
+	]
+}

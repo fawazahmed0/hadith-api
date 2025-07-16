@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2261,
+			"arabicnumber": 2261,
+			"text": "Rapporté par Umar bin Muhammad bin 'Ali bin abi Talib, d'après son père, que son grand-père a dit : Le Messager d'Allah (ﷺ) a dit : \"Un Dinar contre un Dinar, un Dirham contre un Dirham, sans augmentation entre eux. Celui qui a besoin d'argent, qu'il l'échange contre de l'or, et celui qui a besoin d'or, qu'il l'échange contre de l'argent, et que la transaction se fasse immédiatement",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 125
+			}
+		}
+	]
+}

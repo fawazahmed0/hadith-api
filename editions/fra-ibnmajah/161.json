@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 161,
+			"arabicnumber": 161,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Ne critiquez pas mes Compagnons, car par Celui qui détient mon âme dans Sa main ! Si l’un d’entre vous dépensait en or l’équivalent du mont Uhud, cela ne vaudrait pas un mudd donné par l’un d’eux, ni même la moitié d’un mudd. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Bukhari And Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 161
+			}
+		}
+	]
+}

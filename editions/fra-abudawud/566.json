@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 566,
+			"arabicnumber": 566,
+			"text": "Ibn ‘Umar رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : Ne privez pas vos femmes de la visite des mosquées d’Allah",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (900) Sahih Muslim (442)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 176
+			}
+		}
+	]
+}

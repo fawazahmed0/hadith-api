@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2153,
+			"arabicnumber": 2153,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : « Le Prophète ﷺ a dit : “Chaque enfant d’Adam a sa part d’adultère.” Puis il a continué en disant : “Les mains commettent l’adultère ; leur adultère, c’est de toucher ; les jambes commettent l’adultère ; leur adultère, c’est de marcher ; la bouche commet l’adultère – son adultère, c’est d’embrasser.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih Sahih Muslim (2657)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 108
+			}
+		}
+	]
+}

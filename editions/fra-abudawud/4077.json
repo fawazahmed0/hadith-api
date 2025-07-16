@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4077,
+			"arabicnumber": 4077,
+			"text": "Amr ibn Huraith rapporte de son père : J’ai vu le Prophète ﷺ sur le minbar, il portait un turban noir et laissait pendre les deux extrémités entre ses épaules",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1359)"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 58
+			}
+		}
+	]
+}

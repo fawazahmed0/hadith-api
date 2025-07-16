@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2157,
+			"arabicnumber": 2157,
+			"text": "Rapporté par Anas : \"Le Messager d’Allah ﷺ et Zaid bin Thabit ont pris le sahur, puis ils sont partis et ont commencé à prier le Subh.\" Nous avons demandé à Anas : \"Combien de temps y avait-il entre la fin du sahur et le début de la prière ?\" Il a répondu : \"Le temps qu’il faut à un homme pour réciter cinquante versets",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 68
+			}
+		}
+	]
+}

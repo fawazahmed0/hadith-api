@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 17,
+			"arabicnumber": 17,
+			"text": "Rapporté par Muhajir ibn Qunfudh : Muhajir est venu voir le Prophète ﷺ alors qu’il urinait. Il l’a salué. Le Prophète ﷺ ne lui a pas répondu avant d’avoir fait ses ablutions. Il s’est ensuite excusé en disant : « Je n’aime pas mentionner Allah si je ne suis pas en état de pureté. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 17
+			}
+		}
+	]
+}

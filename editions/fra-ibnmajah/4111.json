@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4111,
+			"arabicnumber": 4111,
+			"text": "Rapporté par Mustawrid bin Shaddad : Je voyageais avec le Messager d’Allah (ﷺ) quand il est tombé sur un agneau mort qui avait été jeté. Il a dit : « Ne pensez-vous pas que cela ne vaut rien pour ses propriétaires ? » On a répondu : « Ô Messager d’Allah, c’est justement parce qu’il ne vaut rien qu’ils l’ont jeté », ou quelque chose de similaire. Il a dit : « Par Celui qui tient mon âme dans Sa main, ce monde est plus insignifiant aux yeux d’Allah que cela ne l’est pour ses propriétaires. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 12
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 240,
+			"arabicnumber": 240,
+			"text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Lorsque le Messager d’Allah ﷺ voulait se laver après une impureté majeure, il demandait un récipient semblable à un hilab (un récipient utilisé pour traire les chameaux). Il prenait alors une poignée d’eau et la versait sur le côté droit de sa tête, puis sur le côté gauche. Ensuite, il prenait de l’eau avec ses deux mains réunies et la versait sur sa tête",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (258) Sahih Muslim (318)"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 240
+			}
+		}
+	]
+}

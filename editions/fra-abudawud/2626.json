@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2626,
+			"arabicnumber": 2626,
+			"text": "Rapporté par ‘Abd Allah ibn Mas‘ud رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Écouter et obéir sont obligatoires pour le musulman, qu’il aime ou non, tant qu’on ne lui ordonne pas de désobéir à Allah. Mais si on lui ordonne de désobéir à Allah, alors il n’a ni à écouter ni à obéir. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (7144) Sahih Muslim (1839)"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 150
+			}
+		}
+	]
+}

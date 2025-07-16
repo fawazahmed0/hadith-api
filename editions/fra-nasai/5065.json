@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5065,
+			"arabicnumber": 5065,
+			"text": "Rapporté par Ziyad bin Al-Husain, de la part de son père : \"Quand il est venu voir le Prophète ﷺ à Médine, le Messager d’Allah ﷺ lui a dit : 'Approche-toi de moi.' Il s’est donc approché, et le Prophète a posé sa main sur sa tresse, a caressé sa tête et a fait une invocation pour lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 26
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1895,
+			"arabicnumber": 1895,
+			"text": "Rapporté par Ibn Juraij : Abu Az-Zubair m’a dit qu’il a entendu Jabir dire : Le Messager d’Allah a prononcé un discours et a parlé d’un homme parmi ses Compagnons qui était décédé. Il avait été enterré la nuit et enveloppé dans un linceul insuffisant. Le Messager d’Allah les a réprimandés et a dit que personne ne devait être enterré la nuit sauf en cas de nécessité. Et le Messager d’Allah a dit : « Quand l’un de vous veut prendre soin de son frère, qu’il l’enveloppe bien. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 78
+			}
+		}
+	]
+}

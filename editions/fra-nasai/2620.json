@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2620,
+			"arabicnumber": 2620,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah s’est levé et a dit : « Allah, le Très-Haut, vous a prescrit le Hajj. » Al-Aqra’ bin Habis At-Tamimi a demandé : « Chaque année, ô Messager d’Allah ? » Mais il est resté silencieux, puis il a dit : « Si j’avais dit oui, cela serait devenu obligatoire, et vous n’auriez pas pu l’accomplir. En réalité, il n’y a qu’un seul Hajj. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 2
+			}
+		}
+	]
+}

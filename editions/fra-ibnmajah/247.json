@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 247,
+			"arabicnumber": 247,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Le Messager d’Allah ﷺ a dit : « Des gens viendront vers vous pour chercher la connaissance. Quand vous les verrez, dites-leur : “Bienvenue, bienvenue”, en obéissance à l’ordre du Messager d’Allah, et enseignez-leur la connaissance. » (Un des rapporteurs a dit :) « J’ai demandé à Al-Hakam : Qu’est-ce que ‘Iqnuhum’ ? Il a répondu : Enseignez-leur. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 247
+			}
+		}
+	]
+}

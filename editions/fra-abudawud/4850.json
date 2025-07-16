@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4850,
+			"arabicnumber": 4850,
+			"text": "Jabir ibn Samurah رضي الله عنه a dit : Quand le Prophète ﷺ priait la prière de l’aube, il restait assis en tailleur à sa place jusqu’à ce que le soleil soit bien levé",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (670)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 78
+			}
+		}
+	]
+}

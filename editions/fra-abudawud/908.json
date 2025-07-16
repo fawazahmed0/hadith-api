@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 908,
+			"arabicnumber": 908,
+			"text": "Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ali, ne donne pas d’instructions à l’imam pendant la prière. » Abu Dawud a précisé : Le rapporteur Abu Ishaq n’a entendu que quatre traditions de al-Harith, et celle-ci n’en fait pas partie",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 519
+			}
+		}
+	]
+}

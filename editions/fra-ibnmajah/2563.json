@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"20": "The Chapters on Legal Punishments"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2533,
+				"hadithnumber_last": 2614,
+				"arabicnumber_first": 2533,
+				"arabicnumber_last": 2614
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2563,
+			"arabicnumber": 2563,
+			"text": "Rapporté par Jabir bin `Abdullah : Le Messager d’Allah (ﷺ) a dit : “Ce que je crains le plus pour ma communauté, c’est l’acte du peuple de Lout.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 31
+			}
+		}
+	]
+}

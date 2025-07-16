@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 836,
+			"arabicnumber": 836,
+			"text": "Rapporté par Abu Bakr : Le Prophète (ﷺ) a accompli la prière de la peur (Salat Al-Khauf). Il a dirigé ceux qui étaient derrière lui dans deux unités de prière, puis ceux qui sont venus après dans deux unités, ainsi le Prophète (ﷺ) a prié quatre unités et chaque groupe en a prié deux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih  Witness Sahih Muslim (843/ 312)"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 60
+			}
+		}
+	]
+}

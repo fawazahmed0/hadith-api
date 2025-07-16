@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"22": "The Chapters on Wills"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2695,
+				"hadithnumber_last": 2718,
+				"arabicnumber_first": 2695,
+				"arabicnumber_last": 2718
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2698,
+			"arabicnumber": 2698,
+			"text": "Rapporté par 'Ali bin Abu Talib : “Les derniers mots du Prophète (ﷺ) furent : la prière, et ceux que possèdent vos mains droites.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 4
+			}
+		}
+	]
+}

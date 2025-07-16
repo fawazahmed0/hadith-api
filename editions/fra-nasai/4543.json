@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4543,
+			"arabicnumber": 4543,
+			"text": "Rapporté par Rafi bin Khadij et Sahl bin Abi Hathamah : Le Messager d’Allah ﷺ a interdit la Muzâbanah, c’est-à-dire vendre des dattes fraîches encore sur l’arbre contre des dattes sèches, sauf dans les cas d’‘Araya, pour lesquels il a donné la permission. (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 95
+			}
+		}
+	]
+}

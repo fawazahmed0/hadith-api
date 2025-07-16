@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3414,
+			"arabicnumber": 3414,
+			"text": "Rapporté par Jabir ibn Abdullah : Quand Allah a accordé Khaybar à Son Prophète ﷺ comme butin (sans combat), le Messager d’Allah ﷺ a permis aux habitants de rester comme avant et a partagé la terre entre lui et eux. Il a ensuite envoyé Abdullah ibn Rawahah qui a évalué (la quantité de dattes) pour eux",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 89
+			}
+		}
+	]
+}

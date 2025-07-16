@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"38": "The Promised Deliverer (Kitab Al-Mahdi)"
+		},
+		"section_detail": {
+			"38": {
+				"hadithnumber_first": 4279,
+				"hadithnumber_last": 4290,
+				"arabicnumber_first": 4279,
+				"arabicnumber_last": 4290
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4288,
+			"arabicnumber": 4288,
+			"text": "Le hadith mentionné ci-dessus a aussi été transmis par Umm Salamah de la part du Prophète ﷺ par une autre chaîne de rapporteurs. La version de Mu’adh est plus complète",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 38,
+				"hadith": 10
+			}
+		}
+	]
+}

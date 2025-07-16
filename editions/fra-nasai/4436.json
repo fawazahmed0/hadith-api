@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4436,
+			"arabicnumber": 4436,
+			"text": "Rapporté par 'Aishah : « Certains Bédouins nous apportaient de la viande, et nous ne savions pas s’ils avaient mentionné le nom d’Allah lors de l’abattage. Le Messager d’Allah ﷺ a dit : “Mentionnez le nom d’Allah et mangez.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 76
+			}
+		}
+	]
+}

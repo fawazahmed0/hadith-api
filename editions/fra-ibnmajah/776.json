@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 776,
+			"arabicnumber": 776,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Il a entendu le Messager d’Allah ﷺ dire : « Voulez-vous que je vous parle d’une chose grâce à laquelle Allah efface les péchés et augmente les bonnes actions ? » Ils ont répondu : « Oui, ô Messager d’Allah. » Il a dit : « Faire les ablutions soigneusement malgré les difficultés, multiplier les pas vers la mosquée et attendre la prochaine prière après chaque prière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 42
+			}
+		}
+	]
+}

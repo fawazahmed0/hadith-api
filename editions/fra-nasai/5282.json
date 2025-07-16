@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5282,
+			"arabicnumber": 5282,
+			"text": "Rapporté par Anas : Le Prophète ﷺ avait une bague et il a dit : « Nous avons fait fabriquer une bague avec une inscription, et personne d’autre ne doit copier cette inscription. » C’est comme si je voyais sa brillance sur le petit doigt du Messager d’Allah ﷺ",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 243
+			}
+		}
+	]
+}

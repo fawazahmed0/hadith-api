@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1687,
+			"arabicnumber": 1687,
+			"text": "Rapporté par Ibrahim : Al-Aswad et Masruq sont entrés chez ‘Aishah et ont demandé : \"Le Messager d’Allah (ﷺ) touchait-il (sa femme) alors qu’il jeûnait ?\" Elle a répondu : \"Il le faisait, et il était le plus fort d’entre vous pour contrôler son désir",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 50
+			}
+		}
+	]
+}

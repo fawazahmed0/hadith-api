@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2460,
+			"arabicnumber": 2460,
+			"text": "Rapporté par Abdur-Rahman ibn Hilal : Jarir a dit : \"Des Bédouins sont venus voir le Prophète et ont dit : Ô Messager d’Allah, certains de tes collecteurs de Zakah sont injustes envers nous. Il a dit : Rendez vos collecteurs de Zakah contents. Ils ont demandé : Même s’ils sont injustes ? Il a dit : Rendez vos collecteurs de Zakah contents. Ils ont répété : Même s’ils sont injustes ? Il a dit : Rendez vos collecteurs de Zakah contents. Jarir a dit : Aucun collecteur de Zakah n’est reparti de chez moi, depuis que j’ai entendu cela du Messager d’Allah, sans être satisfait de moi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 26
+			}
+		}
+	]
+}

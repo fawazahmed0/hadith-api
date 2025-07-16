@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2099,
+			"arabicnumber": 2099,
+			"text": "Ce même récit a aussi été transmis par ‘Abd Allah bin Al Fadl à travers sa chaîne de rapporteurs, mais avec un sens différent. La version dit : « Une femme sans mari a plus de droit sur elle-même que son tuteur, et le père d’une vierge doit lui demander sa permission à propos d’elle-même. » Abu Dawud a dit : « Le mot “son père” n’est pas fiable. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1421)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 54
+			}
+		}
+	]
+}

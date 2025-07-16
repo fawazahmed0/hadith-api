@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1290,
+			"arabicnumber": 1290,
+			"text": "Rapporté par Umm Hani bint Abu Talib رضي الله عنها : Le Messager d’Allah ﷺ a prié le jour de la conquête de La Mecque huit rak‘as, en saluant après chaque deux rak‘as. Abu Dawud a dit : Ahmad ibn Salih a dit que le Messager d’Allah ﷺ a accompli la prière du Duha le jour de la conquête de La Mecque, et il a rapporté quelque chose de similaire. Ibn al-Sarh a rapporté qu’Umm Hani a dit : Le Messager d’Allah ﷺ est entré chez moi. Cette version ne mentionne pas la prière du Duha",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 41
+			}
+		}
+	]
+}

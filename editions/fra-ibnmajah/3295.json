@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3295,
+			"arabicnumber": 3295,
+			"text": "Rapporté par Ibn ‘Umar : Le Messager d’Allah (ﷺ) a dit : « Quand un repas est servi, un homme ne doit pas se lever avant qu’il ne soit enlevé, et il ne doit pas retirer sa main, même s’il est rassasié, tant que les autres n’ont pas fini. Et qu’il continue à manger. Car un homme peut mettre son compagnon mal à l’aise, l’amenant à retirer sa main, alors qu’il a peut-être encore besoin de manger. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 45
+			}
+		}
+	]
+}

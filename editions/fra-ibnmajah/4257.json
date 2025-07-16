@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4257,
+			"arabicnumber": 4257,
+			"text": "Rapporté par Abu Dharr : Le Messager d’Allah (ﷺ) a dit : “Allah, le Béni et l’Exalté, dit : ‘Ô Mes serviteurs, vous êtes tous pécheurs sauf ceux que J’ai préservés. Demandez-Moi pardon, Je vous pardonnerai. Celui d’entre vous qui sait que J’ai le pouvoir de pardonner et Me demande pardon par Ma puissance, Je lui pardonnerai. Vous êtes tous égarés sauf ceux que Je guide. Demandez-Moi la guidée, Je vous guiderai. Vous êtes tous pauvres sauf ceux que J’enrichis. Demandez-Moi votre subsistance, Je vous la donnerai. Même si tous les vivants et les morts parmi vous, vos premiers et vos derniers, vos jeunes et vos vieux, étaient aussi pieux que le plus pieux de Mes serviteurs, cela n’augmenterait pas Mon royaume ne serait-ce que de l’aile d’un moustique. Et s’ils étaient aussi mauvais que le plus mauvais de Mes serviteurs, cela ne diminuerait pas Mon royaume de l’aile d’un moustique. Même si tous se réunissaient et demandaient tout ce qu’ils voulaient, cela ne diminuerait Mon royaume que comme si l’un de vous trempait une aiguille dans la mer et la retirait. Car Je suis le Plus Généreux, le Majestueux. Je donne d’un mot ; quand Je veux quelque chose, Je dis seulement “Sois !” – et cela est.’”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 158
+			}
+		}
+	]
+}

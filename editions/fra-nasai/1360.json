@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1360,
+			"arabicnumber": 1360,
+			"text": "Rapporté par Al-Aswad : 'Abdullah a dit : \"Aucun d'entre vous ne doit laisser le diable lui faire croire qu'il ne peut sortir après la prière qu'en allant à droite, car j'ai vu le Messager d'Allah (ﷺ) sortir souvent par la gauche",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 182
+			}
+		}
+	]
+}

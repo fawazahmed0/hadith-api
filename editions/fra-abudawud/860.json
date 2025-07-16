@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 860,
+			"arabicnumber": 860,
+			"text": "Cette tradition a aussi été rapportée par Rifa’ah b. Rafi’ à travers une autre chaîne de rapporteurs. Cette version dit : « Quand tu te lèves pour prier, prononce le takbir en exaltant Allah ; puis récite du Coran autant qu’il t’est possible. » La version ajoute : « Quand tu t’assois au milieu de la prière, fais-le complètement (reste bien au repos) et étends ta cuisse gauche ; puis récite le tashahhud. Ensuite, si tu te lèves (de nouveau), fais de même jusqu’à ce que tu termines ta prière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 470
+			}
+		}
+	]
+}

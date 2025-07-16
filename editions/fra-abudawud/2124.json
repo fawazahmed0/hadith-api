@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2124,
+			"arabicnumber": 2124,
+			"text": "Rapporté par Anas ibn Malik رضي الله عنه : Quand un homme qui a déjà une épouse se marie avec une vierge, il doit rester avec elle sept nuits ; s’il épouse une femme qui a déjà été mariée, il doit rester avec elle trois nuits. (Le rapporteur dit :) Si je dis qu’Anas a rapporté ce récit du Prophète ﷺ, je dis la vérité. Mais il a dit : « La Sunna est ainsi. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5213) Sahih Muslim (1461)"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 79
+			}
+		}
+	]
+}

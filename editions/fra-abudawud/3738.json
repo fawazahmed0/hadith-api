@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3738,
+			"arabicnumber": 3738,
+			"text": "Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a dit : « Si l’un de vous invite son frère, il doit accepter l’invitation, que ce soit pour un festin de mariage ou pour autre chose de ce genre. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1429)"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 3
+			}
+		}
+	]
+}

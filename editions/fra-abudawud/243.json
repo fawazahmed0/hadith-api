@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 243,
+			"arabicnumber": 243,
+			"text": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Quand le Messager d’Allah ﷺ voulait prendre un bain rituel après une impureté majeure, il commençait par se laver les mains. Ensuite, il lavait les articulations de ses membres et versait de l’eau sur lui. Lorsqu’il avait bien nettoyé ses deux mains, il les frottait contre le mur (pour les nettoyer parfaitement avec la poussière). Puis il faisait les ablutions et versait de l’eau sur sa tête",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 243
+			}
+		}
+	]
+}

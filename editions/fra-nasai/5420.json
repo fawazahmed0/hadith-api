@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"49": "The Book of the Etiquette of Judges"
+		},
+		"section_detail": {
+			"49": {
+				"hadithnumber_first": 5379,
+				"hadithnumber_last": 5427,
+				"arabicnumber_first": 5379,
+				"arabicnumber_last": 5427
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5420,
+			"arabicnumber": 5420,
+			"text": "Rapporté par 'Aishah : Hind est venue voir le Messager d'Allah ﷺ et a dit : « Ô Messager d'Allah, Abu Sufyan est un homme avare qui ne dépense pas assez pour mon enfant et moi. Puis-je prendre de ses biens sans qu'il le sache ? » Il a répondu : « Prends ce qui est suffisant pour toi et ton enfant, de façon raisonnable. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 49,
+				"hadith": 42
+			}
+		}
+	]
+}

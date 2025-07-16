@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3069,
+			"arabicnumber": 3069,
+			"text": "Rapporté par al-Baddah bin Asim bin Adiyy, d’après son père : Le Messager d’Allah ﷺ a accordé une facilité à certains gardiens de chameaux, leur permettant de ne pas passer la nuit à Mina, et de lapider les Jimar le jour du sacrifice, puis de regrouper la lapidation de deux jours après le sacrifice, afin qu’ils puissent le faire sur l’un des deux jours",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 452
+			}
+		}
+	]
+}

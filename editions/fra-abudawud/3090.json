@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3090,
+			"arabicnumber": 3090,
+			"text": "Rapporté par Muhammad ibn Khalid as-Sulami, selon son père, qui le tenait de son grand-père, compagnon du Messager d’Allah ﷺ : J’ai entendu le Messager d’Allah ﷺ dire : « Quand Allah a destiné à un serviteur un rang qu’il n’a pas atteint par ses actions, Il l’éprouve dans son corps, ses biens ou ses enfants. » Abu Dawud a dit : Ibn Nufail a ajouté dans sa version : « Il lui donne alors la capacité de supporter cela. » La version convenue dit : « Ainsi, Il l’élève au rang qu’Allah lui avait destiné. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 2
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2557,
+			"arabicnumber": 2557,
+			"text": "Rapporté par Mu'awiyah bin Sufyan : Le Messager d'Allah a dit : \"Un homme peut venir demander quelque chose, et je refuse jusqu'à ce que vous intercédiez, afin que vous soyez récompensés.\" Et le Messager d'Allah a dit : \"Intercédez et vous serez récompensés",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 123
+			}
+		}
+	]
+}

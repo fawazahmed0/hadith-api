@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3946,
+			"arabicnumber": 3946,
+			"text": "Rapporté par Ibn ‘Umar رضي الله عنه : Le Prophète ﷺ a dit : « Si un homme affranchit sa part dans un esclave, le reste sera affranchi avec son argent s’il a assez d’argent pour payer le prix total. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1501 After  1667)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 21
+			}
+		}
+	]
+}

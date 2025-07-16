@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 950,
+			"arabicnumber": 950,
+			"text": "Rapporté par ‘Abd Allah ibn ‘Amr رضي الله عنه : On m’a rapporté que le Messager d’Allah ﷺ a dit : « La prière d’un homme en position assise vaut la moitié de la prière (il reçoit la moitié de la récompense). » Je suis allé le voir et je l’ai trouvé en train de prier assis. J’ai mis ma main sur ma tête (de surprise). Il a dit : « Qu’y a-t-il, ‘Abd Allah ibn ‘Amr ? » J’ai dit : « Messager d’Allah ﷺ, on m’a rapporté que tu as dit : “La prière d’un homme assis vaut la moitié de la prière”, mais tu pries assis. » Il a répondu : « Oui, mais je ne suis pas comme vous. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (735)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 561
+			}
+		}
+	]
+}

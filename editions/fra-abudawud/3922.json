@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"30": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3904,
+				"hadithnumber_last": 3925,
+				"arabicnumber_first": 3904,
+				"arabicnumber_last": 3925
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3922,
+			"arabicnumber": 3922,
+			"text": "Il a été rapporté d’après ‘Abdullah ibn ‘Umar رضي الله عنه que le Messager d’Allah ﷺ a dit : « Le présage se trouve dans une habitation, une femme ou un cheval. » Abou Dawud a dit : Cette tradition a été lue à al-Harith b. Miskin et j’en ai été témoin. On lui a dit qu’Ibn Qasim lui avait rapporté que Malik avait été interrogé sur le mauvais présage dans un cheval et dans une maison. Il a répondu : Il y a beaucoup de maisons où des gens ont vécu et sont morts, puis d’autres y ont vécu et sont aussi morts. Voilà ce que nous en savons. Allah sait mieux. Abou Dawud a dit : ‘Umar رضي الله عنه a dit : Un tapis dans une maison vaut mieux qu’une femme qui ne donne pas d’enfant",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5093) Sahih Muslim (2225)"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 19
+			}
+		}
+	]
+}

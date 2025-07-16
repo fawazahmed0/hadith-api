@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3492,
+			"arabicnumber": 3492,
+			"text": "Rapporté par Salamah bin Kuhail : J’ai entendu Ash-Sha’bi rapporter de Abu Al-Khalil ou Ibn Abi Al-Khalil que trois hommes avaient eu des rapports (avec la même femme) pendant un seul cycle menstruel ; il a mentionné quelque chose de similaire, mais il n’a pas mentionné Zaid bin Arqam ni attribué quoi que ce soit au Prophète",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 104
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5124,
+			"arabicnumber": 5124,
+			"text": "Rapporté par Ya'la bin Murrah Ath-Thaqafi : Le Messager d'Allah ﷺ m'a vu porter un peu de Khaluq. Il a dit : \"Ô Ya'la, as-tu une femme ?\" J'ai répondu : \"Non.\" Il a dit : \"Lave-le et ne le remets plus, puis lave-le et ne le remets plus, puis lave-le et ne le remets plus.\" J'ai dit : \"Alors je l'ai lavé et je ne l'ai plus remis, puis je l'ai lavé et je ne l'ai plus remis, puis je l'ai lavé et je ne l'ai plus remis",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 85
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"18": "The Book of the Fear Prayer"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 1529,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1529,
+				"arabicnumber_last": 1555
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1552,
+			"arabicnumber": 1552,
+			"text": "Rapporté par Jabir bin 'Abdullah : Le Prophète (ﷺ) a dirigé un groupe de ses compagnons dans la prière de deux unités, puis il a fait le salut final, puis il a dirigé d’autres personnes dans la prière de deux unités, puis il a fait le salut final",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 24
+			}
+		}
+	]
+}

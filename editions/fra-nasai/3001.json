@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3001,
+			"arabicnumber": 3001,
+			"text": "Rapporté par Muhammad bin Abi Bakr Ath-Thaqafi : J’ai demandé à Anas le matin de Arafat : « Que dis-tu de la Talbiyah ce jour-là ? » Il a répondu : « J’ai parcouru ce chemin avec le Messager d’Allah ﷺ et ses Compagnons. Certains récitaient la Talbiyah et d’autres le Takbir, et personne ne blâmait les autres. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 384
+			}
+		}
+	]
+}

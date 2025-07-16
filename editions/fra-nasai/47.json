@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 47,
+			"arabicnumber": 47,
+			"text": "Rapporté par Abu Qatadah : Le Messager d’Allah ﷺ a dit : \"Quand l’un de vous boit, qu’il ne souffle pas dans le récipient, et quand il va aux toilettes, qu’il ne touche pas son sexe avec la main droite, ni ne se nettoie avec cette main",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 47
+			}
+		}
+	]
+}

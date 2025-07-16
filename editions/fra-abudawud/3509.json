@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3509,
+			"arabicnumber": 3509,
+			"text": "Rapporté par Makhlad ibn Khufaf al-Ghifari : J’étais associé avec d’autres personnes dans la possession d’un esclave. Je l’ai employé à un travail en l’absence de l’un des associés, et il m’a rapporté des gains. Il a contesté et a porté l’affaire devant un juge, qui m’a ordonné de lui rendre sa part des gains. Je suis alors allé voir Urwah ibn az-Zubayr et lui ai raconté l’histoire. Urwah est allé voir ce juge et lui a rapporté une tradition du Messager d’Allah ﷺ, transmise par Aisha : « Le profit va avec la responsabilité. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 94
+			}
+		}
+	]
+}

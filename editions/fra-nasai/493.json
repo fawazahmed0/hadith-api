@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 493,
+			"arabicnumber": 493,
+			"text": "Rapporté par Ibn 'Umar : Pendant que les gens étaient à Quba', en train de prier la prière du Subh, quelqu'un est venu leur dire que la révélation était venue au Messager d'Allah (ﷺ) la nuit précédente, et qu'il avait reçu l'ordre de se tourner vers la Ka'bah. Alors ils se sont retournés, eux qui priaient en direction du Sham, pour se tourner vers la Ka'bah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 46
+			}
+		}
+	]
+}

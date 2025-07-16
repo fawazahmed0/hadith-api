@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3196,
+			"arabicnumber": 3196,
+			"text": "Rapporté par Al-Sha’bi : Le Messager d’Allah ﷺ est passé près d’une tombe fraîchement creusée. Ils se sont alignés et ont prononcé quatre takbirs sur elle. J’ai demandé à al-Sha’bi : « Qui t’a raconté cela ? » Il a répondu : « Une personne fiable, en présence de Abd Allah ibn Abbas. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1247) Sahih Muslim (954)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 108
+			}
+		}
+	]
+}

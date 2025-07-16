@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4747,
+			"arabicnumber": 4747,
+			"text": "Rapporté par Anas b. Malik : Le Messager d’Allah ﷺ s’est assoupi un court instant puis s’est réveillé en souriant. Il a dit (ou on lui a demandé) : « Ô Messager d’Allah ! Pourquoi as-tu ri ? » Il répondit : « Une sourate vient de m’être révélée à l’instant. » Puis il récita : « Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Nous t’avons certes accordé l’abondance (al-Kawthar) » jusqu’à la fin. Après l’avoir récitée, il demanda : « Savez-vous ce qu’est al-Kawthar ? » Ils répondirent : « Allah et Son Messager savent mieux. » Il dit : « C’est une rivière que mon Seigneur, le Très-Haut, m’a promise au Paradis : il y a beaucoup de bien et, sur ses bords, il y a un bassin auquel ma communauté viendra le Jour de la Résurrection. Il y a autant de coupes que d’étoiles dans le ciel. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (400)"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 152
+			}
+		}
+	]
+}

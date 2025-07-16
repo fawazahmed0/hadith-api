@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5256,
+			"arabicnumber": 5256,
+			"text": "Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Muhammad ibn Abu Yahya a raconté que son père lui a dit qu’il était allé avec un compagnon rendre visite à Abu Sa’id al-Khudri qui était malade. Il dit : « Nous sommes sortis de chez lui et avons rencontré un de nos compagnons qui voulait lui rendre visite. Nous sommes allés nous asseoir à la mosquée. Il est revenu et nous a dit qu’il avait entendu Abu Sa’id al-Khudri dire : Le Messager d’Allah ﷺ a dit : “Certains serpents sont des djinns ; donc si quelqu’un en voit un dans sa maison, il doit le prévenir trois fois. S’il revient après cela, il doit le tuer, car c’est un démon.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 484
+			}
+		}
+	]
+}

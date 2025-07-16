@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"15": "Jihad (Kitab Al-Jihad)"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2477,
+				"hadithnumber_last": 2787,
+				"arabicnumber_first": 2477,
+				"arabicnumber_last": 2787
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2727,
+			"arabicnumber": 2727,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Yazid ibn Hurmuz a dit : Najdah a écrit à Ibn Abbas pour lui poser diverses questions, notamment s’il y avait une part du butin pour un esclave, et si les femmes accompagnaient le Messager d’Allah ﷺ lors des expéditions et recevaient une part. Ibn Abbas a répondu : « Si je n’avais pas craint une erreur, je ne lui aurais pas écrit. Quant à l’esclave, il recevait un petit quelque chose du butin comme récompense ; quant aux femmes, elles soignaient les blessés et apportaient de l’eau. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1812)"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 251
+			}
+		}
+	]
+}

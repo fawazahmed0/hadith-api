@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3577,
+			"arabicnumber": 3577,
+			"text": "AbdurRahman ibn Bishr al-Ansari al-Azraq a dit : Deux hommes de la région de Kindah sont venus alors qu’Abu Mas'ud al-Ansari était assis dans un cercle. Ils ont demandé : « Y a-t-il quelqu’un ici qui peut trancher entre nous ? » Un homme du cercle a répondu : « Moi. » Abu Mas'ud a alors pris une poignée de cailloux et les a lancés vers lui en disant : « Silence ! Il n’est pas bien de se précipiter pour juger. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 7
+			}
+		}
+	]
+}

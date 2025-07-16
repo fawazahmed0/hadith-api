@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"10": "The Book of Lost and Found Items"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 1701,
+				"hadithnumber_last": 1720,
+				"arabicnumber_first": 1701,
+				"arabicnumber_last": 1720
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1710,
+			"arabicnumber": 1710,
+			"text": "Rapporté par Abdullah ibn Amr ibn al-‘As : Le Messager d’Allah ﷺ fut interrogé au sujet des fruits suspendus. Il répondit : « Si une personne dans le besoin en prend un peu sans en emporter dans son vêtement, il n’y a pas de reproche pour lui ; mais celui qui en emporte doit payer le double de la valeur et être puni, et celui qui en vole après qu’ils aient été déposés à l’endroit où on fait sécher les dattes, sa main doit être coupée si la valeur atteint le prix d’un bouclier. » Concernant les chameaux et les brebis égarés, il a donné la même réponse que les autres. Il fut interrogé sur les objets trouvés et répondit : « S’il s’agit d’un endroit fréquenté ou d’une grande ville, fais-le connaître pendant un an ; si son propriétaire se présente, rends-le-lui ; sinon, il t’appartient. S’il s’agit d’un lieu désert depuis longtemps, ou d’un trésor caché (de l’époque islamique), il faut en prélever le cinquième. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 10
+			}
+		}
+	]
+}

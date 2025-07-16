@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"40": "Prescribed Punishments (Kitab Al-Hudud)"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4351,
+				"hadithnumber_last": 4493,
+				"arabicnumber_first": 4351,
+				"arabicnumber_last": 4493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4423,
+			"arabicnumber": 4423,
+			"text": "Simak a dit : J’ai entendu cette tradition de Jabir b. Samurah. Mais la première version est plus complète. Cette version précise : Il l’a répétée deux fois. Simak a dit : Je l’ai racontée à Sa’id b. Jubair. Il a dit : Il l’a répétée quatre fois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1692)"
+				}
+			],
+			"reference": {
+				"book": 40,
+				"hadith": 73
+			}
+		}
+	]
+}

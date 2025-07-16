@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"32": "The Book of Gifts"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3688,
+				"hadithnumber_last": 3705,
+				"arabicnumber_first": 3688,
+				"arabicnumber_last": 3705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3692,
+			"arabicnumber": 3692,
+			"text": "Rapporté par Tawus : Le Messager d'Allah a dit : \"Il n'est pas permis à quelqu'un de faire un cadeau puis de le reprendre, sauf à son fils.\" Tawus a dit : \"Quand j'étais jeune, j'entendais l'expression 'Celui qui retourne à son vomi', mais nous ne savions pas que c'était une comparaison.\" Il a dit : \"Celui qui fait cela ressemble à un chien qui mange puis vomit, puis retourne à son vomi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 5
+			}
+		}
+	]
+}

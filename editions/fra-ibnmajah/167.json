@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 167,
+			"arabicnumber": 167,
+			"text": "Rapporté par Ubaidah, de ‘Ali bin Abu Talib : Il a parlé des Khawarij et a dit : « Parmi eux, il y aura un homme avec une main déformée, ou courte, ou petite. Si vous restiez calmes (c’est-à-dire sans trop vous réjouir), je vous dirais ce qu’Allah a promis par la bouche de Muhammad ﷺ à ceux qui les tuent. » J’ai demandé : « As-tu entendu cela de Muhammad ﷺ ? » Il a répondu : « Oui, par le Seigneur de la Ka‘bah ! » — trois fois",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 167
+			}
+		}
+	]
+}

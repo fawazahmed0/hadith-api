@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"7": "Fasting"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1638,
+				"hadithnumber_last": 1782,
+				"arabicnumber_first": 1638,
+				"arabicnumber_last": 1782
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1782,
+			"arabicnumber": 1782,
+			"text": "Rapporté par Abu Umamah : Le Prophète (ﷺ) a dit : « Celui qui passe les nuits des deux ‘Eid en prière surérogatoire, en cherchant la récompense d’Allah, son cœur ne mourra pas le Jour où les cœurs mourront. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Mawdu"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Mawdu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 145
+			}
+		}
+	]
+}

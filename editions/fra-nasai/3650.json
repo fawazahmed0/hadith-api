@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3650,
+			"arabicnumber": 3650,
+			"text": "Rapporté par Sa'eed bin 'Amr bin Shurahbil bin Sa'eed bin Sa'd bin 'Ubadah, d'après son père, que son grand-père a dit : Sa'd bin 'Ubadah est parti avec le Prophète ﷺ lors d'une de ses expéditions, et sa mère est décédée à Al-Madinah. On lui a dit (alors qu'elle était mourante) : « Fais un testament. » Elle a répondu : « À qui pourrais-je faire un testament ? Les biens appartiennent à Sa'd. » Puis elle est morte avant que Sa'd ne revienne. Quand Sa'd est arrivé, on l'a informé de cela et il a dit : « Ô Messager d'Allah, est-ce que cela lui sera utile si je donne une aumône pour elle ? » Le Prophète ﷺ a dit : « Oui. » Sa'd a dit : « Tel jardin est donné en aumône pour elle » – en parlant d'un jardin qu'il a nommé",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 40
+			}
+		}
+	]
+}

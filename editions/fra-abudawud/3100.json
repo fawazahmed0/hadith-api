@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3100,
+			"arabicnumber": 3100,
+			"text": "Rapporté par Abu Ja’far Abd Allah b. Nafi’, l’esclave de al-Hasan b. Ali : Abu Musa a rendu visite à al-Hasan b. Ali lorsqu’il était malade. Abu Dawud a dit : Il a rapporté la tradition avec le même sens que Shu’bah. Abu Dawud a dit : Cette tradition a été transmise par Ali رضي الله عنه du Prophète ﷺ sans une chaîne fiable",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 12
+			}
+		}
+	]
+}

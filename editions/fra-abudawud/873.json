@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 873,
+			"arabicnumber": 873,
+			"text": "Rapporté par Awf ibn Malik al-Ashja’i : Je me suis levé pour prier avec le Messager d’Allah ﷺ ; il s’est levé et a récité la sourate al-Baqarah (sourate 2). Lorsqu’il arrivait à un verset parlant de la miséricorde, il s’arrêtait et faisait une invocation, et lorsqu’il arrivait à un verset parlant du châtiment, il s’arrêtait et cherchait la protection d’Allah. Ensuite, il s’est incliné et est resté incliné aussi longtemps qu’il était resté debout (à réciter la sourate al-Baqarah), et il disait en s’inclinant : « Gloire au Possesseur de la grandeur, du royaume, de la majesté et de la puissance. » Puis il s’est prosterné et est resté prosterné aussi longtemps qu’il était resté debout, puis il a récité la sourate Aal Imran (sourate 3) et ensuite de nombreuses sourates à la suite",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 483
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"42": "The Book of Hunting and Slaughtering"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4263,
+				"hadithnumber_last": 4360,
+				"arabicnumber_first": 4263,
+				"arabicnumber_last": 4360
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4349,
+			"arabicnumber": 4349,
+			"text": "Rapporté par ‘Abdullah ibn ‘Amr : Le Messager d’Allah a dit : « Toute personne qui tue un petit oiseau ou plus grand sans raison valable, Allah, le Tout-Puissant et Majestueux, l’interrogera à ce sujet. » On lui a demandé : « Ô Messager d’Allah, qu’est-ce qu’une raison valable ? » Il a répondu : « Que tu l’abattes pour le manger, et non pas que tu lui coupes la tête pour le jeter. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 87
+			}
+		}
+	]
+}

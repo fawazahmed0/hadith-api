@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3110,
+			"arabicnumber": 3110,
+			"text": "Rapporté par Ubayd ibn Khalid as-Sulami رضي الله عنه : Un homme parmi les compagnons du Prophète ﷺ a dit : Le rapporteur Sa'd ibn Ubaydah racontait parfois cela du Prophète ﷺ et parfois comme une parole de Ubayd ibn Khalid : Le Prophète ﷺ a dit : « La mort subite est une prise de colère. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Muquf"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 22
+			}
+		}
+	]
+}

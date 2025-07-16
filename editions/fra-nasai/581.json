@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"6": "The Book of the Times (of Prayer)"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 494,
+				"hadithnumber_last": 625,
+				"arabicnumber_first": 494,
+				"arabicnumber_last": 625
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 581,
+			"arabicnumber": 581,
+			"text": "Rapporté par Imran bin Hudair : \"J'ai demandé à Lahiq au sujet des deux Rak'ah avant le coucher du soleil. Il a dit : 'Abdullah bin Az-Zubair les priait, et Mu'awiyah lui a demandé : 'Quelles sont ces deux Rak'ah au coucher du soleil ?' Il a dû demander à Umm Salamah, et Umm Salamah a dit : 'Le Messager d'Allah (ﷺ) priait deux Rak'ah avant 'Asr, puis il a été distrait et ne les a pas faites, alors il les a priées au coucher du soleil, et je ne l'ai jamais vu les prier avant ou après cela",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 88
+			}
+		}
+	]
+}

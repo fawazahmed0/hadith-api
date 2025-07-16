@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 429,
+			"arabicnumber": 429,
+			"text": "Rapporté par Abu al-Darda’ رضي الله عنه : « Le Messager d’Allah ﷺ a dit : “Il y a cinq choses, si quelqu’un les accomplit avec foi, il entrera au Paradis : celui qui fait les cinq prières quotidiennes régulièrement, avec les ablutions, l’inclinaison, la prosternation et à leur heure ; qui jeûne pendant le Ramadan ; accomplit le Hajj à la Maison (Ka‘bah) s’il en a les moyens ; paie la Zakat de bon cœur ; et s’acquitte fidèlement du dépôt (amana).” Les gens ont demandé : “Abu al-Darda’, qu’est-ce que s’acquitter fidèlement du dépôt ?” Il a répondu : “C’est le lavage (ghusl) après une souillure majeure.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 39
+			}
+		}
+	]
+}

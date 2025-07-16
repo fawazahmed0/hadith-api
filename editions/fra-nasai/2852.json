@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2852,
+			"arabicnumber": 2852,
+			"text": "Rapporté par Kab bin Ujrah : Je suis entré en état d’Ihram, puis j’ai eu une forte infestation de poux sur la tête. Le Prophète ﷺ en a été informé et il est venu me voir alors que je cuisinais quelque chose pour mes compagnons. Il a touché ma tête avec son doigt et a dit : \"Rase ta tête et donne une aumône à six personnes pauvres",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 235
+			}
+		}
+	]
+}

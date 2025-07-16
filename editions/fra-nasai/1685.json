@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"20": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1598,
+				"hadithnumber_last": 1817,
+				"arabicnumber_first": 1598,
+				"arabicnumber_last": 1817
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1685,
+			"arabicnumber": 1685,
+			"text": "Rapporté par Ibrahim bin Muhammad Al-Muntashir, de son père : Il se trouvait dans la mosquée de ‘Amr bin Shurahbil et l’iqamah pour la prière a été dite, ils attendaient. Il est arrivé et a dit : « J’étais en train de prier le witr. » On a demandé à Abdullah : « Peut-on prier le witr après l’adhan ? » Il a répondu : « Oui, et même après l’iqamah. » Et il a raconté que le Prophète (ﷺ) avait déjà dormi et manqué la prière jusqu’à ce que le soleil se lève, puis il a prié",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 88
+			}
+		}
+	]
+}

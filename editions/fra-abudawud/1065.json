@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1065,
+			"arabicnumber": 1065,
+			"text": "Jabir a dit : Nous étions avec le Messager d’Allah ﷺ lors d’un voyage. Il a plu sur nous. Le Messager d’Allah ﷺ a dit : « Celui qui veut prier dans sa maison peut le faire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (698)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 676
+			}
+		}
+	]
+}

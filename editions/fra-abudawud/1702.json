@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"10": "The Book of Lost and Found Items"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 1701,
+				"hadithnumber_last": 1720,
+				"arabicnumber_first": 1701,
+				"arabicnumber_last": 1720
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1702,
+			"arabicnumber": 1702,
+			"text": "Ce même récit a aussi été rapporté par Shu’bah par une autre chaîne de transmetteurs avec le même sens. Dans cette version, il a dit : « Fais connaître la trouvaille pendant un an. » Il a répété cela trois fois. Il a ajouté : « Je ne sais pas s’il a dit “pendant un an” ou “pendant trois ans”. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2426) Sahih Muslim (1723)"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 2
+			}
+		}
+	]
+}

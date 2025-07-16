@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3106,
+			"arabicnumber": 3106,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : L’année de Tabuk, le Messager d’Allah (ﷺ) a parlé aux gens, appuyé contre sa monture. Il a dit : « Voulez-vous que je vous dise qui sont les meilleurs et les pires parmi les gens ? Parmi les meilleurs, il y a celui qui lutte pour la cause d’Allah, à cheval, à dos de chameau ou à pied, jusqu’à la mort. Parmi les pires, il y a un homme immoral qui lit le Livre d’Allah mais ne s’abstient pas de faire le mal. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 22
+			}
+		}
+	]
+}

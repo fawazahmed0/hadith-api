@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 848,
+			"arabicnumber": 848,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah (ﷺ) a dit : \"Par Celui qui détient mon âme dans Sa main ! J'ai failli ordonner qu'on ramasse du bois et qu'on allume un feu, puis j'aurais ordonné d'appeler à la prière, et demandé à un homme de diriger la prière, puis je serais allé derrière ceux qui restent et j'aurais brûlé leurs maisons sur eux. Par Celui qui détient mon âme dans Sa main ! Si l'un d'eux savait qu'il obtiendrait un os charnu ou un morceau de viande entre deux côtes, il viendrait à la prière du soir",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 72
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 112,
+			"arabicnumber": 112,
+			"text": "Rapporté par ‘Aïshah : Le Messager d’Allah a dit : « Ô ‘Uthman, si un jour Allah te donne l’autorité sur cette affaire (le califat) et que les hypocrites veulent t’enlever le vêtement qu’Allah t’a donné (c’est-à-dire la fonction de calife), ne l’enlève pas. » Il l’a répété trois fois. (Un des rapporteurs) Nu‘man a dit : « J’ai demandé à ‘Aïshah : “Pourquoi n’as-tu pas dit cela aux gens ?” Elle a répondu : “J’ai oublié.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 112
+			}
+		}
+	]
+}

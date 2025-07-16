@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4245,
+			"arabicnumber": 4245,
+			"text": "Rapporté par Thawban : Le Prophète (ﷺ) a dit : “Je connais bien des gens de ma communauté qui viendront le Jour de la Résurrection avec des bonnes actions aussi grandes que les montagnes de Tihamah, mais Allah les rendra comme de la poussière dispersée.” Thawban a dit : “Ô Messager d’Allah, décris-les-nous et dis-nous en plus, pour que nous ne soyons pas comme eux sans le savoir.” Il a dit : “Ce sont vos frères, et ils sont de votre peuple, ils adorent la nuit comme vous, mais ce sont des gens qui, quand ils sont seuls, dépassent les limites sacrées d’Allah.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 146
+			}
+		}
+	]
+}

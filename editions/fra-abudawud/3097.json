@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3097,
+			"arabicnumber": 3097,
+			"text": "Rapporté par Anas ibn Malik : Le Prophète ﷺ a dit : « Si quelqu’un fait correctement ses ablutions et rend visite à son frère musulman malade en espérant la récompense d’Allah, il sera éloigné de l’Enfer d’une distance de soixante-dix ans (kharif). » J’ai demandé : « Qu’est-ce qu’un kharif, Abu Hamzah ? » Il a répondu : « Une année. » Abu Dawud a dit : Seuls les gens de Bassorah ont rapporté la tradition sur la visite des malades après les ablutions",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 9
+			}
+		}
+	]
+}

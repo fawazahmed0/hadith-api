@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2628,
+			"arabicnumber": 2628,
+			"text": "Rapporté par la Mère des Croyants, 'Aïcha رضي الله عنها : J'ai dit : « Ô Messager d'Allah, ne devrions-nous pas sortir et participer au jihad avec toi ? Car je pense qu'aucune action dans le Coran n'est meilleure que le jihad. » Il a répondu : « Non. Le meilleur et le plus beau des jihads, c'est le Hajj à la Maison ; le Hajj Al-Mabrur. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 10
+			}
+		}
+	]
+}

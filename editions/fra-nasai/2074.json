@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2074,
+			"arabicnumber": 2074,
+			"text": "Rapporté par Anas : \"Nous étions avec 'Umar entre La Mecque et Médine, quand il a commencé à nous parler des gens de Badr. Il a dit : Le Messager d’Allah nous a montré la veille les endroits où (les mécréants) tomberaient. Il a dit : 'Voici l’endroit où untel tombera demain, si Allah le veut.' 'Umar a dit : 'Par Celui qui l’a envoyé avec la vérité ! Ils n’ont pas manqué ces endroits. Ils ont été placés dans un puits et le Prophète est venu et a appelé : Ô untel, fils d’untel ! Ô untel, fils d’untel ! Avez-vous trouvé ce que votre Seigneur avait promis ? Car moi, j’ai trouvé ce qu’Allah m’a promis.' 'Umar a dit : 'Parles-tu à des corps sans âmes ?' Il a répondu : 'Vous n’entendez pas mieux que ce qu’ils entendent",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 257
+			}
+		}
+	]
+}

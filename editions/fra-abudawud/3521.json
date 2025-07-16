@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3521,
+			"arabicnumber": 3521,
+			"text": "Le récit mentionné ci-dessus a aussi été transmis par Abu Bakr b. ‘Abd al-Rahman b. al-Harith b. Hisham du Messager d’Allah ﷺ par une autre chaîne de rapporteurs, avec le même sens que celui rapporté par Malik. Cette version ajoute : « S’il a reçu une partie du prix, alors il sera à égalité avec les créanciers pour cette part. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 106
+			}
+		}
+	]
+}

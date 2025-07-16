@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"29": "Medicine (Kitab Al-Tibb)"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3855,
+				"hadithnumber_last": 3903,
+				"arabicnumber_first": 3855,
+				"arabicnumber_last": 3903
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3881,
+			"arabicnumber": 3881,
+			"text": "Rapporté par Asma’, fille de Yazid ibn as-Sakan رضي الله عنها : J’ai entendu le Messager d’Allah ﷺ dire : « Ne tuez pas vos enfants en secret, car le lait avec lequel un enfant est allaité alors que sa mère est enceinte rattrape le cavalier et le fait tomber de son cheval. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 27
+			}
+		}
+	]
+}

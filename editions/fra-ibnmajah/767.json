@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"4": "The Book On The Mosques And The Congregations"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 735,
+				"hadithnumber_last": 802,
+				"arabicnumber_first": 735,
+				"arabicnumber_last": 802
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 767,
+			"arabicnumber": 767,
+			"text": "Rapporté par Abu 'Abdullah, l'affranchi de Shaddad bin Had : Il a entendu Abu Huraira dire : \"J'ai entendu le Messager d'Allah ﷺ dire : 'Si quelqu'un entend un homme faire une annonce d'objet perdu dans la mosquée, qu'il lui dise : \"Qu'Allah ne te le rende pas !\" Car les mosquées n'ont pas été construites pour cela",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 33
+			}
+		}
+	]
+}

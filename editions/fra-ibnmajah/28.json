@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 28,
+			"arabicnumber": 28,
+			"text": "Rapporté par Qarazah bin Ka'b : 'Umar bin Al-Khattab nous a envoyés à Koufa et il nous a accompagnés jusqu'à un endroit appelé Sirar. Il a dit : « Savez-vous pourquoi j'ai marché avec vous ? » Nous avons répondu : « À cause des droits du Messager d'Allah (ﷺ) et des droits des Ansar. » Il a dit : « Non, c'est plutôt parce que je voulais vous dire quelque chose. Je voulais que vous le reteniez grâce à ma marche avec vous. Vous allez vers des gens dans le cœur desquels le Coran bouillonne comme l'eau dans une marmite en cuivre. Quand ils vous verront, ils lèveront les yeux vers vous en disant : “Les compagnons de Muhammad !” Mais ne rapportez pas trop de récits du Messager d'Allah (ﷺ), sinon je serai votre complice. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 28
+			}
+		}
+	]
+}

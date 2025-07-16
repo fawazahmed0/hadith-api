@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4116,
+			"arabicnumber": 4116,
+			"text": "Rapporté par Harithah bin Wahb d’après le Messager d’Allah (ﷺ) : « Voulez-vous que je vous parle des gens du Paradis ? Tout faible et opprimé. Voulez-vous que je vous parle des gens de l’Enfer ? Tout dur, orgueilleux et arrogant. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 17
+			}
+		}
+	]
+}

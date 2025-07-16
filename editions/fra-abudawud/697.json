@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 697,
+			"arabicnumber": 697,
+			"text": "Abu Sa’id al-Khudri رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Quand l’un de vous prie, il ne doit laisser personne passer devant lui ; il doit l’en empêcher autant que possible ; mais s’il refuse, qu’il le repousse, car ce n’est qu’un diable. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (505)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 307
+			}
+		}
+	]
+}

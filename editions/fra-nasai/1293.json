@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1293,
+			"arabicnumber": 1293,
+			"text": "Rapporté par Abu Sa'eed Al-Khudri : Nous avons dit : \"Ô Messager d'Allah (ﷺ), nous savons comment adresser les salutations sur toi, mais comment devons-nous adresser les prières sur toi ?\" Il a dit : \"Dites : 'Allahumma salli 'ala Muhammadin 'abdika wa rasulika kama sallaita 'ala Ibrahim wa barik 'ala Muhammadin wa 'ala ali Muhammadin kama barakta 'ala Ibrahim.' (Ô Allah, adresse Tes prières sur Muhammad, Ton serviteur et Ton messager, comme Tu l'as fait pour Ibrahim, et bénis Muhammad et la famille de Muhammad comme Tu as béni Ibrahim)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 115
+			}
+		}
+	]
+}

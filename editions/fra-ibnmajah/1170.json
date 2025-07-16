@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"5": "Establishing the Prayer and the Sunnah Regarding Them"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 803,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 803,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1170,
+			"arabicnumber": 1170,
+			"text": "Rapporté par ‘Abdullah bin Mas’ud : Le Prophète (ﷺ) a dit : « Allah est Witr et Il aime ce qui est impair, alors faites le Witr, ô gens du Coran. » Un Bédouin a demandé : « Que dit le Messager d’Allah (ﷺ) ? » Il a répondu : « Ce n’est pas pour toi ni pour tes compagnons. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 368
+			}
+		}
+	]
+}

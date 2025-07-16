@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 653,
+			"arabicnumber": 653,
+			"text": "Rapporté par 'Amr bin Aws : Un homme de Thaqif nous a dit qu’il avait entendu le muezzin du Messager d’Allah (ﷺ) lors d’une nuit pluvieuse pendant un voyage dire : « Hayya 'ala as-salah, Hayya 'ala al-falah, sallu fi rihalikum » (« Venez à la prière, venez à la réussite, priez dans vos demeures »)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 28
+			}
+		}
+	]
+}

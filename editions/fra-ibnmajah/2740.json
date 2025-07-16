@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"23": "Chapters on Shares of Inheritance"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2719,
+				"hadithnumber_last": 2752,
+				"arabicnumber_first": 2719,
+				"arabicnumber_last": 2752
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2740,
+			"arabicnumber": 2740,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a dit : « Répartissez les biens entre ceux qui ont droit à une part d’héritage, selon le Livre d’Allah, puis ce qui reste va au parent masculin le plus proche. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 22
+			}
+		}
+	]
+}

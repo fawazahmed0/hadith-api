@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 808,
+			"arabicnumber": 808,
+			"text": "Rapporté par Qais bin 'Ubad : Alors que j’étais à la mosquée au premier rang, un homme m’a tiré par derrière, m’a déplacé et a pris ma place. Par Allah, je n’ai pas pu me concentrer sur ma prière. Quand il est parti, j’ai vu que c’était Ubayy bin Ka'b. Il m’a dit : « Ô garçon, qu’Allah te protège du mal. C’est ce que le Prophète nous a recommandé : nous placer directement derrière lui. » Puis il (Ubayy) s’est tourné vers la Qibla et a dit : « Malheur aux gens d’Al-‘Uqd, par le Seigneur de la Kaaba ! » – trois fois. Ensuite il a dit : « Par Allah, je ne suis pas triste pour eux, mais je suis triste pour ceux qu’ils ont égarés. » J’ai demandé : « Ô Abu Ya’qub, qui sont les gens d’Al-‘Uqd ? » Il a répondu : « Les dirigeants. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 32
+			}
+		}
+	]
+}

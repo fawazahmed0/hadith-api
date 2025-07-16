@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4009,
+			"arabicnumber": 4009,
+			"text": "Rapporté par Abu Ayyub Al-Ansari : Le Messager d'Allah ﷺ a dit : « Celui qui adore Allah sans rien Lui associer, accomplit la prière, donne la zakat et évite les grands péchés, le Paradis lui sera accordé. » Ils lui ont demandé quels étaient les grands péchés et il a répondu : « Associer d'autres à Allah, tuer une âme musulmane et fuir (le champ de bataille) le jour de la marche. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 44
+			}
+		}
+	]
+}

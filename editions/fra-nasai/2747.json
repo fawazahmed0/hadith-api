@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2747,
+			"arabicnumber": 2747,
+			"text": "Rapporté par Ibn Shihab : Salim m’a raconté que son père a dit : « J’ai entendu le Messager d’Allah réciter la Talbiyah : “Labbaika Allahumma Labbaik, Labbaika La sharika laka Labbaik. Innal-hamda wan-ni’mata laka wal-mulk, la sharika lak” (“Me voici, ô Allah, me voici. Me voici, Tu n’as pas d’associé, me voici. En vérité, la louange et les bienfaits T’appartiennent, ainsi que la royauté, Tu n’as pas d’associé”). ‘Abdullah bin 'Umar disait : “Le Messager d’Allah priait deux unités à Dhul-Hulaifah, puis quand sa chamelle se tenait droite avec lui à la mosquée de Dhul-Hulaifah, il entrait en Ihram en disant ces paroles.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 129
+			}
+		}
+	]
+}

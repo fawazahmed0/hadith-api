@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2456,
+			"arabicnumber": 2456,
+			"text": "Rapporté par Abou Dharr : Le Messager d’Allah a dit : \"Aucun propriétaire de chameaux, de bovins ou de moutons qui ne donne pas la Zakah pour eux ne sera épargné : au Jour de la Résurrection, ils viendront aussi grands et rapides qu’ils l’ont jamais été, et ils le frapperont de leurs cornes et le piétineront de leurs sabots. Chaque fois que le dernier passera sur lui, le premier reviendra, jusqu’à ce que le jugement soit rendu entre les gens",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 22
+			}
+		}
+	]
+}

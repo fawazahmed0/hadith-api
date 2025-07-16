@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2140,
+			"arabicnumber": 2140,
+			"text": "Rapporté par Qays ibn Sa’d رضي الله عنه : Je suis allé à al-Hirah et j’ai vu les gens se prosterner devant un de leurs satrapes. J’ai dit : « Le Messager d’Allah ﷺ est plus digne qu’on se prosterne devant lui. » Quand je suis revenu vers le Prophète ﷺ, je lui ai dit : « Je suis allé à al-Hirah et j’ai vu les gens se prosterner devant un de leurs satrapes, mais tu es plus digne, Messager d’Allah, qu’on se prosterne devant toi. » Il a dit : « Dis-moi, si tu passais devant ma tombe, te prosternerais-tu devant elle ? » J’ai répondu : « Non. » Il a alors dit : « Ne fais pas cela. Si j’ordonnais à quelqu’un de se prosterner devant un autre, j’ordonnerais aux femmes de se prosterner devant leurs maris, à cause du droit particulier que les maris ont sur elles, donné par Allah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 95
+			}
+		}
+	]
+}

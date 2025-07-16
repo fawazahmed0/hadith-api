@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2290,
+			"arabicnumber": 2290,
+			"text": "Rapporté par Ibn 'Abbas : \"Le Messager d’Allah ﷺ est parti vers La Mecque et il a jeûné jusqu’à ce qu’il arrive à 'Usfan. Ensuite, il a demandé une coupe et a bu.\" (Un des rapporteurs, Shubah, a dit : \"C’était pendant le Ramadan.\") Ibn 'Abbas avait l’habitude de dire : \"Celui qui veut jeûner, qu’il jeûne, et celui qui veut rompre son jeûne, qu’il le fasse",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 201
+			}
+		}
+	]
+}

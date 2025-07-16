@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3329,
+			"arabicnumber": 3329,
+			"text": "Rapporté par Al-Nu‘man ibn Bashir : J’ai entendu le Messager d’Allah ﷺ dire : « Ce qui est licite est clair et ce qui est illicite est clair, mais entre les deux il y a des choses douteuses. Je vous donne un exemple : Allah a un enclos, et l’enclos d’Allah ce sont les choses qu’Il a rendues interdites. Celui qui fait paître (ses animaux) près de l’enclos risque d’y entrer. Celui qui tombe dans les choses douteuses finira par oser aller plus loin. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2051) Sahih Muslim (1599)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 4
+			}
+		}
+	]
+}

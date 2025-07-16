@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"46": "The Book of Cutting off the Hand of the Thief"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 4870,
+				"hadithnumber_last": 4984,
+				"arabicnumber_first": 4870,
+				"arabicnumber_last": 4984
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4981,
+			"arabicnumber": 4981,
+			"text": "Rapporté par 'Atiyyah : J'étais parmi les prisonniers de Quraizah ; on nous a examinés, et ceux qui avaient des poils pubiens étaient exécutés, tandis que ceux qui n'en avaient pas étaient épargnés et laissés en vie",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 46,
+				"hadith": 111
+			}
+		}
+	]
+}

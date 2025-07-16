@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4058,
+			"arabicnumber": 4058,
+			"text": "Rapporté par 'Uthman bin 'Affan : J’ai entendu le Messager d’Allah [SAW] dire : \"Il n’est permis de verser le sang d’un musulman que dans trois cas : un homme marié qui commet l’adultère ; celui qui tue une autre personne, et doit être tué ; ou celui qui retourne à la mécréance après avoir accepté l’islam, et doit être tué",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 93
+			}
+		}
+	]
+}

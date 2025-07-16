@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4584,
+			"arabicnumber": 4584,
+			"text": "Rapporté par Saeed bin Jubair : Il n’aimait pas échanger des dinars contre des dirhams, ni des dirhams contre des dinars",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 136
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4226,
+			"arabicnumber": 4226,
+			"text": "Rapporté par Abu Hurairah : Un homme a dit : « Ô Messager d’Allah, je fais une bonne action, puis d’autres l’apprennent et cela me fait plaisir. » Il a dit : « Tu auras deux récompenses : une pour l’avoir faite en secret et une pour l’avoir faite ouvertement (afin que d’autres suivent ton exemple). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 127
+			}
+		}
+	]
+}

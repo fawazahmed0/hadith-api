@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 822,
+			"arabicnumber": 822,
+			"text": "Rapporté par Ubadah ibn al-Samit : Le Messager d’Allah ﷺ a dit : « La prière n’est pas valable si l’on ne récite pas la Fatiha du Livre et quelque chose de plus. » Sufyan (le narrateur) a précisé : Cela concerne celui qui prie seul",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (394)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 432
+			}
+		}
+	]
+}

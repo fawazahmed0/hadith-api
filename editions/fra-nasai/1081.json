@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1081,
+			"arabicnumber": 1081,
+			"text": "Rapporté par Jabir bin 'Abdullah : \"Nous faisions la prière du Zuhr avec le Messager d’Allah (ﷺ) et je prenais une poignée de petits cailloux dans ma main pour les refroidir, puis je les passais d’une main à l’autre, et quand je me prosternai, je les posais pour y mettre mon front",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 53
+			}
+		}
+	]
+}

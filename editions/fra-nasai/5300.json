@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5300,
+			"arabicnumber": 5300,
+			"text": "Rapporté par Yahya ibn Ishaq : Salim a demandé : « Qu’est-ce qu’Al-Istabraq ? » J’ai répondu : « Un type épais d’Ad-Dibaj, et une sorte grossière de ce tissu. » Il a dit : « J’ai entendu ‘Abdullah (ibn ‘Umar) dire : ‘Umar a vu une Hullah de Sundus chez un homme, et il l’a apportée au Messager d’Allah ﷺ en disant : ‘Achète cela’ », puis il a rapporté le hadith",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 261
+			}
+		}
+	]
+}

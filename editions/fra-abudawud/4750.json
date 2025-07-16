@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4750,
+			"arabicnumber": 4750,
+			"text": "Rapporté par Al-Bara’ b. ‘Azib : Le Messager d’Allah ﷺ a dit : « Lorsqu’un musulman est interrogé dans la tombe, il atteste qu’il n’y a de dieu qu’Allah et que Muhammad est le Messager d’Allah. Cela est confirmé par la parole d’Allah : “Allah affermit ceux qui croient par une parole ferme.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (4699) Sahih Muslim (2871)"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 155
+			}
+		}
+	]
+}

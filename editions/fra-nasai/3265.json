@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3265,
+			"arabicnumber": 3265,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : \"On ne doit pas marier une femme déjà mariée sans avoir demandé son avis, et on ne doit pas marier une vierge sans avoir obtenu son consentement.\" Ils ont dit : \"Ô Messager d’Allah, comment donne-t-elle son accord ?\" Il a répondu : \"Son accord, c’est si elle garde le silence",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 70
+			}
+		}
+	]
+}

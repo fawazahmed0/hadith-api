@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3367,
+			"arabicnumber": 3367,
+			"text": "Rapporté par Salman Al-Farisi : On a interrogé le Messager d’Allah (ﷺ) au sujet du beurre clarifié, du fromage et des ânes sauvages. Il a dit : « Est licite ce qu’Allah a permis dans Son Livre, et illicite ce qu’Allah a interdit dans Son Livre. Ce sur quoi Il s’est tu, c’est pardonné. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 117
+			}
+		}
+	]
+}

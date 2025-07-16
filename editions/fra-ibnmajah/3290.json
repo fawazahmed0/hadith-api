@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3290,
+			"arabicnumber": 3290,
+			"text": "Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Quand le serviteur de l’un d’entre vous lui apporte à manger, pour lequel il a travaillé dur et supporté la chaleur, qu’il l’invite à manger avec lui, et s’il ne le fait pas, qu’il prenne un morceau et le mette dans sa main. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 40
+			}
+		}
+	]
+}

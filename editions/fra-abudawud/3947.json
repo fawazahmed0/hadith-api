@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3947,
+			"arabicnumber": 3947,
+			"text": "Rapporté par Ibn ‘Umar رضي الله عنه : Le Prophète ﷺ a dit : « Si un esclave est possédé par deux hommes et que l’un d’eux affranchit sa part, on fixera un prix pour l’esclave, ni plus ni moins, et il sera affranchi par celui qui est riche. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2521) Sahih Muslim (1501 After  1667)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 22
+			}
+		}
+	]
+}

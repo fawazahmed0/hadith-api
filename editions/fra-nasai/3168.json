@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3168,
+			"arabicnumber": 3168,
+			"text": "Rapporté par Salman : J’ai entendu le Messager d’Allah (ﷺ) dire : « Celui qui garde la frontière (Ribat) dans la voie d’Allah un jour et une nuit aura une récompense comme s’il avait jeûné et prié la nuit pendant un mois. S’il meurt, il continuera à recevoir la récompense de ce qu’il a fait, il sera protégé contre Al-Fattan et il recevra sa subsistance. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 84
+			}
+		}
+	]
+}

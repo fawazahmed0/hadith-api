@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 228,
+			"arabicnumber": 228,
+			"text": "Rapporté par Aïsha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ dormait alors qu’il était en état d’impureté majeure sans toucher à l’eau. Abu Dawud a dit : Hasan ibn ‘Ali al-Wasiti a dit qu’il a entendu Yazid ibn Harun dire : Cette tradition est basée sur un malentendu, c’est-à-dire celle rapportée par Abu Ishaq",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 228
+			}
+		}
+	]
+}

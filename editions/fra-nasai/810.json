@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 810,
+			"arabicnumber": 810,
+			"text": "Rapporté par An-Numan bin Bashir : Le Messager d’Allah (ﷺ) alignait les rangs comme on aligne la hampe d’une flèche avant d’y fixer la pointe. Il a vu un homme dont la poitrine dépassait du rang. J’ai vu le Messager d’Allah (ﷺ) dire : « Alignez vos rangs ou Allah déformera vos visages. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 34
+			}
+		}
+	]
+}

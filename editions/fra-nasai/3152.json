@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3152,
+			"arabicnumber": 3152,
+			"text": "Rapporté par Abu Hurairah : J’ai entendu le Messager d’Allah (ﷺ) dire : « Par Celui qui détient mon âme dans Sa main, si ce n’était pas que certains croyants n’aimeraient pas rester en arrière quand je pars (au combat), et si je ne pouvais pas leur trouver de montures, je ne serais jamais resté en arrière d’aucune expédition menée dans la voie d’Allah. Par Celui qui détient mon âme dans Sa main, j’aimerais pouvoir être tué dans la voie d’Allah, puis revenir à la vie, puis être tué de nouveau, puis revenir à la vie, puis être tué encore. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 68
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3071,
+			"arabicnumber": 3071,
+			"text": "Rapporté par Abdullah bin Yazid : Abdullah a lapidé la Jamrat avec sept cailloux, avec la Maison (la Kaaba) à sa gauche et Arafat à sa droite. Et il a dit : « C’est ici que celui à qui la sourate Al-Baqarah a été révélée s’est tenu. » (Sahih) Abu Abdur-Rahman (An-Nasai) a dit : Je ne connais personne qui ait mentionné Mansur dans ce récit à part Ibn Abi Adi, et Allah le Très-Haut sait mieux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 454
+			}
+		}
+	]
+}

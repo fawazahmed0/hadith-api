@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3934,
+			"arabicnumber": 3934,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Un homme a affranchi sa part dans un esclave. Le Prophète ﷺ a permis son affranchissement complet et lui a demandé de payer le reste du prix",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2527) Sahih Muslim (1503)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 9
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3134,
+			"arabicnumber": 3134,
+			"text": "Rapporté par Sabrah bin Abi Fakih : J’ai entendu le Messager d’Allah (ﷺ) dire : « Le diable se tient sur les chemins du fils d’Adam. Il l’attend sur le chemin de l’Islam et lui dit : Vas-tu accepter l’Islam et quitter ta religion et celle de tes ancêtres ? Mais il lui désobéit et accepte l’Islam. Ensuite, il l’attend sur le chemin de l’émigration et lui dit : Vas-tu émigrer et quitter ta terre et ton ciel ? Celui qui émigre est comme un cheval attaché à un piquet. Mais il lui désobéit et émigre. Ensuite, il l’attend sur le chemin du Jihad et lui dit : Vas-tu combattre dans le Jihad alors que cela te coûtera ta vie et tes biens ? Tu vas combattre, être tué, ta femme se remariera et tes biens seront partagés. Mais il lui désobéit et combat dans le Jihad. » Le Messager d’Allah (ﷺ) a dit : « Celui qui fait cela a un droit auprès d’Allah, le Tout-Puissant et Majestueux, qu’Il l’admette au Paradis. Celui qui est tué a un droit auprès d’Allah qu’Il l’admette au Paradis. S’il se noie, il a un droit auprès d’Allah qu’Il l’admette au Paradis, ou s’il tombe de sa monture et se brise le cou, il a un droit auprès d’Allah qu’Il l’admette au Paradis. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 50
+			}
+		}
+	]
+}

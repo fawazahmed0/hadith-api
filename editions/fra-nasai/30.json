@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 30,
+			"arabicnumber": 30,
+			"text": "Rapporté par 'Abdur-Rahman bin Hasanah : Le Messager d’Allah (ﷺ) est sorti vers nous avec un petit bouclier en cuir à la main. Il l’a posé, puis il s’est assis derrière et a uriné en direction de celui-ci. Certaines personnes ont dit : \"Regardez, il urine comme une femme.\" Il a entendu cela et a dit : \"Ne savez-vous pas ce qui est arrivé au compagnon des Enfants d’Israël ? S’ils avaient de l’urine sur eux, ils coupaient cette partie de leur vêtement. Leur compagnon leur a dit de ne pas faire cela, et il a été puni dans sa tombe",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 30
+			}
+		}
+	]
+}

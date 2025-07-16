@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2653,
+			"arabicnumber": 2653,
+			"text": "Rapporté par 'Aishah رضي الله عنها : Le Messager d'Allah ﷺ a désigné Dhul-Hulaifah comme Miqat pour les habitants de Médine, Al-Juhfah pour les gens du Cham et d'Égypte, Dhat 'Irq pour les gens d'Irak, et Yalamlam pour les gens du Yémen",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 35
+			}
+		}
+	]
+}

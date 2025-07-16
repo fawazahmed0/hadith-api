@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3677,
+			"arabicnumber": 3677,
+			"text": "Rapporté par Miqdam Abu Karimah : Le Messager d’Allah (ﷺ) a dit : « Héberger un invité pour une nuit est une obligation. Si tu trouves un invité à ta porte le matin, alors cette hospitalité est comme une dette que tu lui dois. S’il veut, il peut la réclamer, ou s’il veut, il peut y renoncer. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 21
+			}
+		}
+	]
+}

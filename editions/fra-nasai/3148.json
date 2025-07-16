@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3148,
+			"arabicnumber": 3148,
+			"text": "Rapporté par ‘Abdullah bin Tha’labah : Le Messager d’Allah (ﷺ) a dit : « Enveloppez-les dans leur sang, car toute blessure reçue dans la cause d’Allah, il viendra le Jour de la Résurrection en saignant de la couleur du sang, mais avec un parfum de musc. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 64
+			}
+		}
+	]
+}

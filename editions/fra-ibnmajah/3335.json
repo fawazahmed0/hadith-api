@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"29": " Chapters on Food"
+		},
+		"section_detail": {
+			"29": {
+				"hadithnumber_first": 3251,
+				"hadithnumber_last": 3370,
+				"arabicnumber_first": 3251,
+				"arabicnumber_last": 3370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3335,
+			"arabicnumber": 3335,
+			"text": "Rapporté par ‘Abdul-‘Aziz bin Abu Hazim : Mon père m’a dit : J’ai demandé à Sahl bin Sa’d : “As-tu déjà vu de la pâte faite avec de la farine bien tamisée ?” Il a répondu : “Je n’ai jamais vu de pâte faite avec de la farine bien tamisée jusqu’à la mort du Messager d’Allah (ﷺ).” J’ai demandé : “Avaient-ils des tamis à l’époque du Messager d’Allah (ﷺ) ?” Il a dit : “Je n’ai jamais vu de tamis jusqu’à la mort du Messager d’Allah (ﷺ).” J’ai demandé : “Comment mangiez-vous l’orge non tamisé ?” Il a dit : “Nous soufflions dessus, ce qui partait partait, et avec ce qui restait, nous faisions de la pâte.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 29,
+				"hadith": 85
+			}
+		}
+	]
+}

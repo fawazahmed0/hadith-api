@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 2928,
+				"hadithnumber_last": 3088,
+				"arabicnumber_first": 2928,
+				"arabicnumber_last": 3088
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3075,
+			"arabicnumber": 3075,
+			"text": "La tradition mentionnée ci-dessus a aussi été transmise par Ibn Ishaq à travers une autre chaîne de transmetteurs, avec le même sens. Au lieu de la phrase « celui qui m’a transmis ce récit », cette version dit : « Un homme parmi les Compagnons du Prophète ﷺ, et c’était probablement Abu Sa’id Al Khudri. Je l’ai vu frapper les racines des palmiers. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 20,
+				"hadith": 148
+			}
+		}
+	]
+}

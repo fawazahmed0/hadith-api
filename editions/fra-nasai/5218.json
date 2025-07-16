@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5218,
+			"arabicnumber": 5218,
+			"text": "Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a mis une bague en or, et il portait la pierre (fass) tournée vers sa paume. Ensuite, les gens ont commencé à porter des bagues en or. Puis le Messager d’Allah ﷺ l’a retirée, et les gens ont retiré leurs bagues. Ensuite, il a pris une bague en argent avec laquelle il scellait les lettres, mais il ne la portait pas",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 179
+			}
+		}
+	]
+}

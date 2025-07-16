@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 523,
+			"arabicnumber": 523,
+			"text": "Rapporté par ‘Abd Allah b. ‘Amr b. al-‘As : Le Messager d’Allah ﷺ a dit : « Quand vous entendez le muezzin, répétez ce qu’il dit, puis invoquez la bénédiction sur moi, car quiconque invoque une bénédiction sur moi en recevra dix de la part d’Allah. Ensuite, demandez à Allah de m’accorder la wasilah, qui est un rang au Paradis réservé à un seul des serviteurs d’Allah, et j’espère être celui-là. Si quelqu’un demande à Allah que je reçoive la wasilah, il aura droit à mon intercession. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (384)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 133
+			}
+		}
+	]
+}

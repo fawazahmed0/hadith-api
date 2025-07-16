@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"25": "Chapters on Hajj Rituals"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 2882,
+				"hadithnumber_last": 3119,
+				"arabicnumber_first": 2882,
+				"arabicnumber_last": 3119
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3092,
+			"arabicnumber": 3092,
+			"text": "Rapporté par Talhah bin ‘Ubaidullah : Le Prophète (ﷺ) m’a donné de la viande d’âne sauvage et m’a dit de la distribuer à ses Compagnons qui étaient en état d’Ihram",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Isnaad Malool"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Isnaad Malool"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 211
+			}
+		}
+	]
+}

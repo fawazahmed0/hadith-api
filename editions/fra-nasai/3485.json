@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3485,
+			"arabicnumber": 3485,
+			"text": "Rapporté par ‘Abdullah bin Az-Zubair : Zam’ah avait une servante avec qui il avait des rapports, mais il soupçonnait qu’un autre homme avait aussi des rapports avec elle. Elle a donné naissance à un enfant qui ressemblait à celui qu’il soupçonnait. Zam’ah est mort alors qu’elle était enceinte, et Sawdah a parlé de cela au Messager d’Allah. Le Messager d’Allah a dit : \"L’enfant appartient au foyer, mais cache-toi de lui, ô Sawdah, car il n’est pas ton frère",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 97
+			}
+		}
+	]
+}

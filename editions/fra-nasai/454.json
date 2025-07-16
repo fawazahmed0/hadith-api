@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 454,
+			"arabicnumber": 454,
+			"text": "Rapporté par Abu ‘Amr – c’est-à-dire Al-Awza‘i – qui a demandé à Az-Zuhri au sujet de la prière du Messager d’Allah (ﷺ) à La Mecque avant l’Hégire vers Médine. Il a dit : \"Urwah m’a raconté que ‘Aïsha a dit : 'Allah a prescrit la prière au Messager d’Allah (ﷺ), et la première chose qu’Il a prescrite était deux Rak‘a à la fois, puis elle a été portée à quatre Rak‘a pour les résidents, mais la prière en voyage est restée à deux Rak‘a, comme elle avait été prescrite au début",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 7
+			}
+		}
+	]
+}

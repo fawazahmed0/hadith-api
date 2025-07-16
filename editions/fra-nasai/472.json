@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 472,
+			"arabicnumber": 472,
+			"text": "Rapporté par Abu Yunus, l’affranchi de ‘Aïsha, l’épouse du Prophète (ﷺ) : ‘Aïsha m’a demandé de lui recopier un Moushaf, et elle a dit : \"Quand tu arriveras à ce verset, préviens-moi : Soyez assidus aux Salawat, surtout la prière du milieu (Al-Wusta).\" Quand je suis arrivé à ce verset, je l’ai prévenue et elle m’a dicté : \"Soyez assidus aux Salawat, surtout la prière du milieu (Al-Wusta) et la prière du ‘Asr, et tenez-vous devant Allah avec humilité.\" Puis elle a dit : \"Je l’ai entendu du Messager d’Allah (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 25
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"33": "Etiquette"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 3657,
+				"hadithnumber_last": 3826,
+				"arabicnumber_first": 3657,
+				"arabicnumber_last": 3826
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3790,
+			"arabicnumber": 3790,
+			"text": "Rapporté par Abu Darda : Le Prophète (ﷺ) a dit : « Voulez-vous que je vous parle de la meilleure de vos actions, la plus aimée de votre Seigneur, celle qui vous élève le plus en degré, meilleure que de donner de l’or et de l’argent, ou que d’affronter l’ennemi au combat, où vous frappez leurs cous et ils frappent les vôtres ? » Ils ont dit : « Qu’est-ce donc, ô Messager d’Allah ? » Il a dit : « L’évocation d’Allah (Dhikr). »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 33,
+				"hadith": 134
+			}
+		}
+	]
+}

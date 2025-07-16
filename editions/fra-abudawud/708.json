@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 708,
+			"arabicnumber": 708,
+			"text": "Rapporté par ‘Amr ibn Shu’aib d’après son père, d’après son grand-père : Nous sommes descendus du col d’Adhaakhir en compagnie du Messager d’Allah ﷺ. L’heure de la prière est arrivée et il a prié en direction de la qiblah, et nous étions derrière lui. Un chevreau est alors passé devant lui. Il a essayé de l’arrêter jusqu’à ce qu’il rapproche son ventre du mur pour le retenir, et finalement le chevreau est passé derrière lui, ou comme l’a dit Musaddad",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 318
+			}
+		}
+	]
+}

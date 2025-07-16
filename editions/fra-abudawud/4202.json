@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"35": "Combing the Hair (Kitab Al-Tarajjul)"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 4159,
+				"hadithnumber_last": 4213,
+				"arabicnumber_first": 4159,
+				"arabicnumber_last": 4213
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4202,
+			"arabicnumber": 4202,
+			"text": "Amr ibn Shu'aib, selon l’autorité de son père, a rapporté que son grand-père a dit que le Messager d’Allah ﷺ a dit : « Ne retirez pas les cheveux blancs. Si un croyant a un cheveu blanc qui pousse dans l’islam, cela sera pour lui une lumière le Jour de la Résurrection. » (Ceci est la version de Sufyan). Dans la version de Yahya, il est ajouté : « Allah inscrira pour lui une bonne action grâce à ce cheveu et effacera un péché. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 35,
+				"hadith": 44
+			}
+		}
+	]
+}

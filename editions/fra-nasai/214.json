@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 214,
+			"arabicnumber": 214,
+			"text": "Rapporté par Jabir bin 'Abdullah, dans le hadith de Asma’ bint 'Umair, quand elle a accouché à Dhul-Hulaifah, que le Messager d’Allah (ﷺ) a dit à Abu Bakr : « Dis-lui de faire le Ghusl et d’entrer en état d’Ihram. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 215
+			}
+		}
+	]
+}

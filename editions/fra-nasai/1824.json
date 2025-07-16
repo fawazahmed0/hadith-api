@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1824,
+			"arabicnumber": 1824,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah a dit : \"Rappelez-vous souvent celle qui détruit les plaisirs.\" (Hasan) Abu 'Abdur-Rahaman (An-Nasai) a dit : Muhammad bin Ibrahim (un des rapporteurs) est le père d'Abu Bakr Ibn Abi Shaibah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 7
+			}
+		}
+	]
+}

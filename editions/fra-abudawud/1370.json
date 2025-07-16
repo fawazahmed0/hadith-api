@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1370,
+			"arabicnumber": 1370,
+			"text": "Alqamah a dit : On a demandé à Aishah رضي الله عنها au sujet des actions du Messager d’Allah ﷺ : Est-ce qu’il accomplissait certaines actions uniquement certains jours ? Elle a répondu : Non, il faisait ses actions régulièrement. Qui parmi vous a la force du Messager d’Allah ﷺ ?",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6466) Sahih Muslim (783)"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 121
+			}
+		}
+	]
+}

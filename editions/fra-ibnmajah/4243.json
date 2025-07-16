@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4243,
+			"arabicnumber": 4243,
+			"text": "Rapporté par ‘Aishah : Le Messager d’Allah (ﷺ) m’a dit : “Ô ‘Aishah, méfie-toi des mauvaises actions qu’on considère comme insignifiantes, car elles ont un poursuivant de la part d’Allah (c’est-à-dire qu’on en sera tenu responsable).”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 144
+			}
+		}
+	]
+}

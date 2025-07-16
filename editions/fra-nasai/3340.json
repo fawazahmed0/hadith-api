@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3340,
+			"arabicnumber": 3340,
+			"text": "Rapporté par Anas : Abu Talhah a épousé Umm Sulaim et la dot entre eux était l’Islam. Umm Sulaim est devenue musulmane avant Abu Talhah, et il lui a fait une demande en mariage mais elle a dit : « Je suis devenue musulmane ; si tu deviens musulman, je t’épouserai. » Il est donc devenu musulman, et cela a été la dot entre eux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 145
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1510,
+			"arabicnumber": 1510,
+			"text": "Rapporté par Isma’il bin Abu Khalid : J’ai demandé à ‘Abdullah bin Abi Awfa : “As-tu vu Ibrahim, le fils du Messager d’Allah (ﷺ) ?” Il a répondu : “Il est mort alors qu’il était petit, et s’il avait été décrété qu’il y ait un Prophète après Muhammad (ﷺ), son fils aurait vécu. Mais il n’y a pas de Prophète après lui.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 6,
+				"hadith": 78
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 127,
+			"arabicnumber": 127,
+			"text": "Rapporté par Zirr : J'ai demandé à Safwan bin 'Assal au sujet du fait de passer les mains mouillées sur les khuffs (chaussons en cuir), et il a dit : \"Le Messager d'Allah (ﷺ) nous disait, quand nous étions en voyage, de passer les mains mouillées sur nos khuffs et de ne pas les enlever pendant trois nuits en cas de défécation, d'urine ou de sommeil ; mais uniquement en cas de grande impureté (janabah) il fallait les retirer",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 128
+			}
+		}
+	]
+}

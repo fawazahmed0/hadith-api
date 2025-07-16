@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"10": "The Book of Lost and Found Items"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 1701,
+				"hadithnumber_last": 1720,
+				"arabicnumber_first": 1701,
+				"arabicnumber_last": 1720
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1712,
+			"arabicnumber": 1712,
+			"text": "Ce même récit a aussi été rapporté par ‘Amr bin Shu’aib par une autre chaîne. Cette version dit : À propos de la brebis égarée, il a dit : « Toi, ton frère ou le loup pouvez l’avoir. Prends-la donc. » Une version similaire a été rapportée par Ayyub et Ya’qub bin `Ata d’après `Amr bin Shu’aib, du Prophète ﷺ. Il a dit : « Prends-la alors. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 12
+			}
+		}
+	]
+}

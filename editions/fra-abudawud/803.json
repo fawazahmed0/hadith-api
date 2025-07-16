@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 803,
+			"arabicnumber": 803,
+			"text": "Rapporté par Jabir ibn Samurah رضي الله عنه : Omar رضي الله عنه a dit à Sa‘d رضي الله عنه : Les gens se plaignent de toi pour tout, même pour la prière. Il a répondu : J’allonge les deux premières rak‘a de la prière et je fais les deux dernières plus courtes ; je ne m’écarte pas de la prière accomplie par le Messager d’Allah ﷺ. Il a dit : Je pense la même chose de toi",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (770) Sahih Muslim (453)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 413
+			}
+		}
+	]
+}

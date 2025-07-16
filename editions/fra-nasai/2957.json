@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2957,
+			"arabicnumber": 2957,
+			"text": "Rapporté par Abu Hurairah : Abu Bakr l’a envoyé, pendant le Hajj que le Messager d’Allah ﷺ lui avait confié avant le pèlerinage d’adieu, avec un groupe pour annoncer aux gens : « Aucun idolâtre ne doit accomplir le Hajj après cette année, et personne ne doit faire le tour de la Maison nu. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 340
+			}
+		}
+	]
+}

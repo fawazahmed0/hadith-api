@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"7": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1401,
+				"hadithnumber_last": 1415,
+				"arabicnumber_first": 1401,
+				"arabicnumber_last": 1415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1413,
+			"arabicnumber": 1413,
+			"text": "Rapporté par Abdullah ibn Umar : Le Messager d’Allah ﷺ nous récitait le Coran. Lorsqu’il arrivait à un verset de prosternation, il disait le takbir (« Allah est le plus grand ») et nous nous prosternions avec lui. Le rapporteur Abd al-Razzaq a dit : Al-Thawri aimait beaucoup cette tradition. Abu Dawud a dit : Il l’aimait parce qu’elle mentionne le fait de dire le takbir",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 13
+			}
+		}
+	]
+}

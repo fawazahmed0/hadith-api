@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3636,
+			"arabicnumber": 3636,
+			"text": "Rapporté par Jabir bin 'Abdullah : Son père a été martyrisé le jour de Uhud, laissant six filles et des dettes. Quand le moment de cueillir les dattes est arrivé, je suis allé voir le Messager d'Allah et j'ai dit : \"Tu sais que mon père a été martyrisé le jour de Uhud et il a laissé beaucoup de dettes. J'aimerais que les créanciers te voient.\" Il a dit : \"Va et fais des tas séparés avec les dattes.\" J'ai fait cela, puis je l'ai appelé. Quand ils l'ont vu, c'est comme s'ils ont commencé à me mettre la pression à ce moment-là. Quand il a vu ce qu'ils faisaient, il a fait le tour du plus grand tas trois fois, puis il s'est assis dessus et a dit : \"Appelle tes compagnons (les créanciers).\" Ensuite, il a continué à leur peser les dattes jusqu'à ce qu'Allah efface toutes les dettes de mon père. Je suis content qu'Allah ait réglé les dettes de mon père sans qu'il manque une seule datte",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 26
+			}
+		}
+	]
+}

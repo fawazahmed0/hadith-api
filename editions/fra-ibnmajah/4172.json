@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4172,
+			"arabicnumber": 4172,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : “Celui qui s’assoit et écoute la sagesse puis ne parle que des mauvaises choses qu’il a entendues, ressemble à un homme qui va voir un berger et lui dit : ‘Ô berger, donne-moi une de tes brebis à égorger’, et (le berger) lui répond : ‘Va prendre la meilleure par l’oreille.’ Alors il va et attrape le chien du troupeau par l’oreille.” Une autre chaîne rapporte un hadith similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 73
+			}
+		}
+	]
+}

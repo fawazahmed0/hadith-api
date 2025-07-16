@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"34": "Clothing (Kitab Al-Libas)"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 4020,
+				"hadithnumber_last": 4158,
+				"arabicnumber_first": 4020,
+				"arabicnumber_last": 4158
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4064,
+			"arabicnumber": 4064,
+			"text": "Rapporté par Zayd ibn Aslam رضي الله عنه : Ibn Umar رضي الله عنه teignait sa barbe en jaune au point que ses vêtements en étaient imprégnés. On lui a demandé : « Pourquoi utilises-tu cette couleur jaune ? » Il a répondu : « J’ai vu le Messager d’Allah ﷺ se teindre avec cette couleur, et rien ne lui plaisait plus que cela. Il teignait tous ses vêtements avec, même son turban. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 45
+			}
+		}
+	]
+}

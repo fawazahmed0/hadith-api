@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4005,
+			"arabicnumber": 4005,
+			"text": "Rapporté par Ibn 'Abbas : Le Prophète ﷺ a dit : \"Le tué amènera son meurtrier le Jour de la Résurrection, le tenant par le front et la tête dans sa main, avec ses veines du cou coulant de sang, et dira : 'Ô Seigneur, il m'a tué,' jusqu'à ce qu'il s'approche du Trône.\" On a évoqué le repentir devant Ibn 'Abbas et il a récité ce verset : \"Et quiconque tue un croyant intentionnellement, sa rétribution sera l'Enfer.\" Il a dit : \"Ce verset n'a pas été abrogé depuis qu'il a été révélé ; il n'y a aucun moyen qu'il puisse se repentir",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 40
+			}
+		}
+	]
+}

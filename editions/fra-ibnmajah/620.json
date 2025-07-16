@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 620,
+			"arabicnumber": 620,
+			"text": "Rapporté par ‘Urwah bin Zubair, d’après Fatimah bint Abi Hubaish : Elle est allée voir le Messager d’Allah ﷺ pour lui parler de sa perte de sang. Le Messager d’Allah ﷺ a dit : « C’est juste une veine, alors regarde quand tes règles arrivent, ne prie pas pendant cette période. Quand elles sont terminées, purifie-toi et prie entre une période et la suivante. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 354
+			}
+		}
+	]
+}

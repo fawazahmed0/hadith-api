@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4555,
+			"arabicnumber": 4555,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri : À l’époque du Messager d’Allah ﷺ, on nous donnait des dattes mélangées et nous vendions deux Sas contre un Sa. Quand le Messager d’Allah ﷺ l’a appris, il a dit : « Ne vendez pas deux Sas de dattes contre un Sa, ni deux Sas de blé contre un Sa, ni un Dirham contre deux Dirhams. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Hadith"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 107
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 510,
+			"arabicnumber": 510,
+			"text": "Rapporté par Abdullah ibn Umar : Les paroles de l’adhan étaient prononcées depuis l’époque du Messager d’Allah ﷺ deux fois chacune (c’est-à-dire quatre fois en tout), et les paroles de l’iqamah étaient prononcées une fois chacune (deux fois en tout), sauf la phrase « L’heure de la prière est arrivée », qui était dite deux fois. Quand nous entendions l’iqamah, nous faisions nos ablutions et nous sortions pour la prière. Shu’bah a dit : Je n’ai entendu Abu Ja’far rapporter aucune autre tradition que celle-ci",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 120
+			}
+		}
+	]
+}

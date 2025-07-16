@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"17": "The Chapters on Pre-emption"
+		},
+		"section_detail": {
+			"17": {
+				"hadithnumber_first": 2492,
+				"hadithnumber_last": 2501,
+				"arabicnumber_first": 2492,
+				"arabicnumber_last": 2501
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2499,
+			"arabicnumber": 2499,
+			"text": "Rapporté par Jabir bin Abdullah : Le Messager d'Allah (ﷺ) a statué que la préemption s'applique dans tous les cas où le terrain n'a pas été divisé. Mais si les limites ont été fixées et les chemins tracés, alors il n'y a pas de préemption",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 17,
+				"hadith": 9
+			}
+		}
+	]
+}

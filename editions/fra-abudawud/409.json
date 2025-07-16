@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 409,
+			"arabicnumber": 409,
+			"text": "Rapporté par Ali رضي الله عنه : « Le Messager d’Allah ﷺ a dit le jour de la bataille du Fossé : “Ils (les mécréants) nous ont empêchés de faire la prière du milieu, c’est-à-dire la prière du ‘Asr. Qu’Allah remplisse leurs maisons et leurs tombes de feu de l’Enfer.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2931) Sahih Muslim (627)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 19
+			}
+		}
+	]
+}

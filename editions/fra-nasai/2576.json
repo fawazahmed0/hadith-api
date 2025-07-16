@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2576,
+			"arabicnumber": 2576,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah a dit : \"Il y a quatre personnes qu'Allah, le Puissant et Majestueux, déteste : le vendeur qui écoule ses marchandises en jurant faussement, le pauvre qui cherche à se faire remarquer, le vieil homme qui commet la fornication et l'imam qui est injuste",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 142
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 444,
+			"arabicnumber": 444,
+			"text": "Rapporté par Amr ibn Umayyah ad-Damri رضي الله عنه : Nous étions en compagnie du Messager d’Allah ﷺ lors d’un de ses voyages. Il a dormi et a manqué la prière du matin jusqu’à ce que le soleil se lève. Le Messager d’Allah ﷺ s’est réveillé et a dit : « Éloignez-vous de cet endroit. » Il a ensuite ordonné à Bilal d’appeler à la prière. Il a appelé à la prière. Les gens ont fait leurs ablutions et ont accompli deux rak‘as de la prière du matin (sunnah). Il a ensuite ordonné à Bilal de prononcer l’iqamah (c’est-à-dire d’annoncer la prière en groupe). Il a annoncé la prière (c’est-à-dire il a prononcé l’iqamah) et il les a dirigés dans la prière du matin",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 54
+			}
+		}
+	]
+}

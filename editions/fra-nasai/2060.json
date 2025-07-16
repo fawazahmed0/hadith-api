@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2060,
+			"arabicnumber": 2060,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah avait l’habitude de dire : \"Allahumma inni a‘udhu bika min ‘adhabil-qabri wa a‘udhu bika min ‘adhabin-nar, wa a‘udhu bika min fitnatil-mahya wal-mamat, wa a‘udhu bika min fitnatil-masihid-dajjal\" (\"Ô Allah, je cherche refuge auprès de Toi contre le châtiment de la tombe, contre le châtiment du Feu, contre les épreuves de la vie et de la mort, et contre l’épreuve du Dajjal)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 243
+			}
+		}
+	]
+}

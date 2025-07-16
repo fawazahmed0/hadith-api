@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 433,
+			"arabicnumber": 433,
+			"text": "Rapporté par Ubadah ibn as-Samit رضي الله عنه : Après moi, vous serez sous l’autorité de dirigeants qui seront tellement occupés par leurs affaires qu’ils retarderont la prière jusqu’à ce que son heure soit passée. Accomplissez donc la prière à son heure. Un homme lui a demandé : « Messager d’Allah, puis-je prier avec eux ? » Il a répondu : « Oui, si tu le souhaites. » Sufyan (un autre rapporteur par une chaîne différente) a dit : « Puis-je prier avec eux si je les rejoins ? » Il a dit : « Oui, si tu le veux. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 43
+			}
+		}
+	]
+}

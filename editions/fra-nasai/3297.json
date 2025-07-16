@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3297,
+			"arabicnumber": 3297,
+			"text": "Rapporté par Asim : J’ai lu un livre à Ash-Sha'bi dans lequel il était rapporté de la part de Jabir que le Prophète a dit : « Une femme ne doit pas être prise comme coépouse avec sa tante paternelle ou sa tante maternelle. » Il a dit : « J’ai entendu cela de Jabir. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 102
+			}
+		}
+	]
+}

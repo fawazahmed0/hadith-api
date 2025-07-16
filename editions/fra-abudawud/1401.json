@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"7": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 1401,
+				"hadithnumber_last": 1415,
+				"arabicnumber_first": 1401,
+				"arabicnumber_last": 1415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1401,
+			"arabicnumber": 1401,
+			"text": "Rapporté par Amr ibn al-'As : Le Prophète ﷺ m’a appris quinze prosternations à faire lors de la récitation du Coran, dont trois dans al-Mufassal et deux dans la sourate al-Hajj. Abu Dawud a dit : Abu al-Darda’ a rapporté onze prosternations du Prophète ﷺ, mais la chaîne de cette tradition est faible",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 1
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1078,
+			"arabicnumber": 1078,
+			"text": "Rapporté par Muhammad ibn Yahya ibn Habban : Le Messager d’Allah ﷺ a dit : « Quel mal y a-t-il à ce que l’un d’entre vous ait deux vêtements pour le vendredi, en plus de ceux qu’il porte chaque jour pour le travail, s’il en a les moyens ? » ‘Amr a rapporté cela de Ibn Habib, de Moussa ibn Sa’d, de Ibn Habban, de Ibn Salam qui a entendu cette parole du Messager d’Allah ﷺ sur la chaire. Abu Dawud a dit : Cette tradition a aussi été rapportée par Yusuf ibn ‘Abd Allah ibn Salam du Prophète ﷺ par une autre chaîne de transmetteurs",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 689
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"3": "The Book of the Adhan and the Sunnah Regarding It"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 706,
+				"hadithnumber_last": 734,
+				"arabicnumber_first": 706,
+				"arabicnumber_last": 734
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 725,
+			"arabicnumber": 725,
+			"text": "Rapporté par ‘Esa bin Talhah : J’ai entendu Mu’awiyah bin Abu Sufyan dire que le Messager d’Allah a dit : « Le muezzin aura le cou le plus long de tous les gens le Jour de la Résurrection. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 20
+			}
+		}
+	]
+}

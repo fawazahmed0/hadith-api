@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"22": "The Chapters on Wills"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2695,
+				"hadithnumber_last": 2718,
+				"arabicnumber_first": 2695,
+				"arabicnumber_last": 2718
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2709,
+			"arabicnumber": 2709,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : “Allah (SWT) vous a accordé la possibilité de disposer d’un tiers de vos biens au moment de votre mort, afin que vous puissiez augmenter le nombre de vos bonnes actions.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 15
+			}
+		}
+	]
+}

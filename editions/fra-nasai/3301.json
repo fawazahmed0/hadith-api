@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"26": "The Book of Marriage"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 3196,
+				"hadithnumber_last": 3388,
+				"arabicnumber_first": 3196,
+				"arabicnumber_last": 3388
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3301,
+			"arabicnumber": 3301,
+			"text": "Rapporté par 'Aishah رضي الله عنها : Son oncle paternel par l’allaitement, qui s’appelait Aflah, a demandé la permission de la rencontrer, et elle s’est couverte devant lui. Le Messager d’Allah en a été informé et il a dit : « Ne te couvre pas devant lui, car ce qui devient interdit (pour le mariage) par l’allaitement est comme ce qui devient interdit par la filiation. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 26,
+				"hadith": 106
+			}
+		}
+	]
+}

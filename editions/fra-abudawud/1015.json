@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1015,
+			"arabicnumber": 1015,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : Lorsque le Prophète ﷺ a terminé deux rak‘as d’une prière obligatoire, un homme lui a demandé : « Messager d’Allah, la prière a-t-elle été raccourcie ou as-tu oublié ? » Il a répondu : « Je n’ai rien fait de tout cela. » Les gens ont dit : « Messager d’Allah, tu l’as fait. » Il a donc accompli deux autres rak‘as de prière et n’a pas fait deux prosternations pour l’oubli. Abu Dawud a dit : Cette tradition a aussi été rapportée par Dawud al-Hussain d’après Abu Sufyan, affranchi d’Ibn Abi Ahmad, d’après Abu Hurairah, du Prophète ﷺ. Cette version dit : Il a ensuite fait deux prosternations alors qu’il était assis après la salutation",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 626
+			}
+		}
+	]
+}

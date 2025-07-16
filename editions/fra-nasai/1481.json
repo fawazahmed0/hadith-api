@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1481,
+			"arabicnumber": 1481,
+			"text": "Rapporté par Abu Hafs, l’affranchi de 'Aishah, que 'Aishah lui a raconté : \"Quand le soleil s’est éclipsé à l’époque du Messager d’Allah (ﷺ), il a fait ses ablutions et a ordonné qu’on fasse l’appel : 'As-salatu jami’ah.' Il est resté debout longtemps en prière,\" et 'Aishah a dit : \"J’ai pensé qu’il récitait la sourate Al-Baqarah. Ensuite, il s’est incliné longtemps, puis il a dit : Sami' Allahu liman hamidah. Ensuite, il s’est incliné, puis il s’est prosterné. Ensuite, il s’est relevé et a refait la même chose, s’inclinant deux fois et se prosternant une fois. Puis il s’est assis et l’éclipse s’est terminée",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 16,
+				"hadith": 23
+			}
+		}
+	]
+}

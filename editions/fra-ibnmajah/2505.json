@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"18": "The Chapters on Lost Property"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 2502,
+				"hadithnumber_last": 2511,
+				"arabicnumber_first": 2502,
+				"arabicnumber_last": 2511
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2505,
+			"arabicnumber": 2505,
+			"text": "Rapporté par 'Iyad bin Himar : Le Messager d’Allah (ﷺ) a dit : « Celui qui trouve un objet perdu, qu’il demande à un ou deux hommes de bonne réputation d’en être témoins, puis qu’il ne le modifie pas et ne le cache pas. Si son propriétaire se présente, il en a plus le droit. Sinon, il appartient à Allah (SWT), qui le donne à qui Il veut. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 4
+			}
+		}
+	]
+}

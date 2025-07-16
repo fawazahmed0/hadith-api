@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 753,
+			"arabicnumber": 753,
+			"text": "Rapporté par Al-Fadl bin 'Abbas : Le Messager d’Allah (ﷺ) a rendu visite à Al-Abbas sur un terrain qui nous appartenait à l’extérieur de la ville, et nous avions un petit chien et un âne qui broutait. Le Messager d’Allah (ﷺ) a prié Asr alors qu’ils étaient devant lui, et ils n’ont pas été chassés ou éloignés",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Munkar Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 12
+			}
+		}
+	]
+}

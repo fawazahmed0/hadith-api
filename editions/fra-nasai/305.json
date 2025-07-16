@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 305,
+			"arabicnumber": 305,
+			"text": "Rapporté par Anas bin Malik : Des gens de la tribu de ‘Ukl sont venus voir le Messager d’Allah (ﷺ) et ont parlé de l’islam. Ils ont dit : \"Ô Messager d’Allah, nous sommes des nomades qui suivent les troupeaux, nous ne sommes pas des cultivateurs, et le climat de Médine ne nous convient pas.\" Le Messager d’Allah (ﷺ) leur a dit d’aller vers un troupeau de chamelles et de boire leur lait et leur urine. Quand ils ont guéri – ils étaient dans la région d’Al-Harrah – ils sont revenus sur leur foi après avoir été musulmans, ont tué le gardien des chameaux du Messager d’Allah (ﷺ) et ont emmené les chameaux. Quand la nouvelle est parvenue au Messager d’Allah (ﷺ), il a envoyé des gens à leur poursuite. Ils ont été ramenés, leurs yeux ont été brûlés avec des clous chauffés, leurs mains et leurs pieds ont été coupés, puis ils ont été laissés dans Al-Harrah dans cet état jusqu’à leur mort",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 306
+			}
+		}
+	]
+}

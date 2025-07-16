@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 767,
+			"arabicnumber": 767,
+			"text": "Rapporté par 'Amr bin Salamah : Quand mon peuple est revenu du Prophète (ﷺ), ils ont dit qu’il avait dit : \"Que celui qui récite le plus le Coran dirige la prière.\" Alors ils m’ont appelé et m’ont appris à m’incliner et à me prosterner, et je les dirigeais en prière en portant un manteau déchiré, et ils disaient à mon père : \"Ne veux-tu pas couvrir les fesses de ton fils devant nous ?",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 26
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3434,
+			"arabicnumber": 3434,
+			"text": "Ce récit a aussi été rapporté par Umar رضي الله عنه du Messager d’Allah ﷺ par une autre chaîne de transmetteurs. Il ne mentionne que la vente de l’esclave. Il a aussi été transmis par Nafi’ d’après Ibn 'Umar du Prophète ﷺ, mais seulement à propos de la vente des palmiers. Abu Dawud a dit : Al-Zuhri et Nafi’ ont divergé sur quatre récits. Celui-ci en fait partie",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2379) Sahih Muslim (1543)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 19
+			}
+		}
+	]
+}

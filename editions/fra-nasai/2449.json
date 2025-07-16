@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2449,
+			"arabicnumber": 2449,
+			"text": "Rapporté par Bahz ibn Hakim, de la part de son père, de la part de son grand-père : J’ai entendu le Messager d’Allah dire : \"Concernant les chameaux qui paissent, pour chaque quarante, une Bint Laboun. Il ne faut pas faire de distinction entre les chameaux lors du calcul. Celui qui la donne en cherchant la récompense sera récompensé. Celui qui refuse, nous la prendrons, ainsi que la moitié de ses chameaux, comme l’un des droits de notre Seigneur. Et il n’est pas permis à la famille de Muhammad d’en avoir une part",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 15
+			}
+		}
+	]
+}

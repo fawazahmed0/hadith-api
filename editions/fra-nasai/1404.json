@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"14": "The Book of Jumu'ah (Friday Prayer)"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 1367,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 1367,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1404,
+			"arabicnumber": 1404,
+			"text": "Rapporté par 'Abdullah : Le Prophète (ﷺ) nous a enseigné la Khutbat Al-Hajah : « Alhamduu lillahi nasta'inuhu wa nastagfiruhu, wa na'udhu billahi min shururi anfusina wa sayi'ati a'malina. Man yahdihillahu fala mudilla lahu wa man yudlil fala hadiya lahu. Wa ashhadu an la ilaha illallahu wa ashhadu anna Muhammadan 'abduhu wa rasuluhu. » (Louange à Allah, nous cherchons Son aide et Son pardon. Nous cherchons refuge auprès d’Allah contre le mal de nos âmes et contre nos mauvaises actions. Celui qu’Allah guide ne sera jamais égaré, et celui qu’Il égare, personne ne pourra le guider. J’atteste qu’il n’y a pas de divinité digne d’adoration sauf Allah, et j’atteste que Muhammad est Son serviteur et Son Messager.) Ensuite, il a récité les trois versets suivants : « Ô vous qui croyez : Craignez Allah comme Il doit être craint, et ne mourez qu’en étant musulmans ; Ô gens : Craignez votre Seigneur qui vous a créés d’une seule personne, et d’elle Il a créé son épouse, et d’eux Il a fait naître beaucoup d’hommes et de femmes. Craignez Allah par qui vous vous réclamez les uns les autres, et respectez les liens de parenté. Certes, Allah vous observe constamment ; Ô vous qui croyez : Craignez Allah et dites toujours la vérité. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 14,
+				"hadith": 41
+			}
+		}
+	]
+}

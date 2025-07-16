@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3100,
+			"arabicnumber": 3100,
+			"text": "Rapporté par Ibn Shihab : Sahl bin Sa'd a dit : \"J'ai vu Marwan assis dans la mosquée alors je suis allé m'asseoir à côté de lui, et il nous a raconté que Zaid bin Thabit lui avait dit que le Messager d'Allah (ﷺ) lui avait dicté les mots : [Ne sont pas égaux ceux des croyants qui restent chez eux et ceux qui luttent avec ardeur dans la voie d'Allah]. Ensuite, Ibn Umm Maktum est venu vers lui pendant qu'il me le dictait (à moi, Zaid) et a dit : 'Ô Messager d'Allah ! Si je pouvais partir pour le Jihad, je le ferais.' Mais il était aveugle. Alors Allah a révélé à Son Messager (ﷺ) – alors que sa cuisse touchait la mienne, et (elle devint si lourde que) j'ai cru qu'elle allait se briser, puis cela a été levé, et Allah, le Puissant et Majestueux, a révélé : 'Sauf ceux qui sont handicapés (par une blessure, la cécité ou la boiterie).'\" [1] [1] An-Nisa' 4:",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 16
+			}
+		}
+	]
+}

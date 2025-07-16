@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3042,
+			"arabicnumber": 3042,
+			"text": "Rapporté par Urwah bin Mudarris bin Aws bin Harithah bin La’m : \"Je suis venu voir le Prophète à Jam (Al-Muzdalifah) et j’ai dit : 'Ai-je accompli le Hajj ?' Il a répondu : 'Celui qui accomplit cette prière avec nous et reste debout ici jusqu’à ce qu’il parte, et qui est venu d’Arafat, de nuit ou de jour, alors son Hajj est complet. Et il a accompli ses obligations",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 425
+			}
+		}
+	]
+}

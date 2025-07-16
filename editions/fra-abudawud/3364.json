@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3364,
+			"arabicnumber": 3364,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a autorisé la vente d’‘araya lorsque la quantité était inférieure à cinq wasqs ou cinq wasqs. Dawud b. al-Husain avait un doute. Abu Dawud a dit : La tradition rapportée par Jabir indique jusqu’à quatre wasqs",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2382) Sahih Muslim (1541)"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 39
+			}
+		}
+	]
+}

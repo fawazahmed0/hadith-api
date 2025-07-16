@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"28": "Foods (Kitab Al-At'imah)"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3736,
+				"hadithnumber_last": 3854,
+				"arabicnumber_first": 3736,
+				"arabicnumber_last": 3854
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3818,
+			"arabicnumber": 3818,
+			"text": "Rapporté par Abdullah ibn Umar : Le Prophète ﷺ a dit : « J’aimerais avoir un pain blanc fait de farine brune, trempé dans du beurre clarifié et du lait. » Un homme parmi les gens s’est levé, en a trouvé un et l’a apporté. Il a demandé : « Dans quoi a-t-il été mis ? » Il a répondu : « Dans une peau de lézard. » Il a dit : « Emporte-le. » Abu Dawud a dit : Ceci est une tradition munkar (rejetée). Abu Dawud a dit : Ayyub, le rapporteur de cette tradition, n’est pas (Ayyub) al-Sakhtiyani",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 83
+			}
+		}
+	]
+}

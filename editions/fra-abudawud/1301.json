@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1301,
+			"arabicnumber": 1301,
+			"text": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de prolonger la récitation du Coran dans les deux rak‘a après la prière du coucher du soleil, jusqu’à ce que les gens qui priaient à la mosquée se dispersent. Abu Dawud a dit : Ce hadith a aussi été rapporté par Nasr al-Mujaddir d’après Ya‘qub al-Qummi avec la même chaîne de transmetteurs. Abu Dawud a ajouté : Muhammad b. ‘Isa b. al-tabba‘ l’a transmis de Nasr al-Mujaddir d’après Ya‘qub de la même manière",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 52
+			}
+		}
+	]
+}

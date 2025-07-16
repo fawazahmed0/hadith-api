@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"43": "The Book of ad-Dahaya (Sacrifices)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4361,
+				"hadithnumber_last": 4448,
+				"arabicnumber_first": 4361,
+				"arabicnumber_last": 4448
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4446,
+			"arabicnumber": 4446,
+			"text": "Rapporté par 'Amr bin Sharid : « J’ai entendu Sharid dire : J’ai entendu le Messager d’Allah ﷺ dire : “Celui qui tue un petit oiseau sans raison, il viendra se plaindre à Allah le Jour de la Résurrection en disant : Ô Seigneur, untel m’a tué sans raison et il ne l’a pas fait pour un but utile.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 86
+			}
+		}
+	]
+}

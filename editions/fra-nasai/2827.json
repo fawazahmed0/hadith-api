@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2827,
+			"arabicnumber": 2827,
+			"text": "Rapporté par Jabir : J’ai entendu le Messager d’Allah dire : « La chasse terrestre vous est permise tant que vous ne la pratiquez pas vous-même et qu’elle n’est pas faite pour vous. » (Daif) Abu Abdur Rahman (An-Nasaï) a dit : ‘Amar bin Abi Amr n’est pas fiable dans le hadith, même si Malik a rapporté de lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 210
+			}
+		}
+	]
+}

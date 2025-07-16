@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2688,
+			"arabicnumber": 2688,
+			"text": "Rapporté par 'Aishah : J'ai mis du parfum sur le Messager d'Allah ﷺ pour sa sortie de l'état d'Ihram, et je lui ai aussi mis du parfum pour son Ihram, un parfum qui n'est pas comme votre parfum, elle voulait dire qu'il ne dure pas aussi longtemps. (Shah)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 70
+			}
+		}
+	]
+}

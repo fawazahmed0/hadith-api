@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2640,
+			"arabicnumber": 2640,
+			"text": "Rapporté par 'Abdullah bin 'Abbas رضي الله عنهما : Un homme a demandé au Prophète ﷺ : « L'ordre du Hajj est arrivé alors que mon père est un vieil homme qui ne peut pas rester assis sur sa monture ; si je l'attache, j'ai peur qu'il meure. Puis-je accomplir le Hajj à sa place ? » Il a dit : « Ne penses-tu pas que si ton père avait une dette et que tu la payais, ce serait suffisant ? » Il a répondu : « Oui. » Il a dit : « Alors accomplis le Hajj pour ton père. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Munkar"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 22
+			}
+		}
+	]
+}

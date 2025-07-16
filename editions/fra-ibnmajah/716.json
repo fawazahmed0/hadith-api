@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"3": "The Book of the Adhan and the Sunnah Regarding It"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 706,
+				"hadithnumber_last": 734,
+				"arabicnumber_first": 706,
+				"arabicnumber_last": 734
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 716,
+			"arabicnumber": 716,
+			"text": "Rapporté par Bilal : Il est venu voir le Prophète ﷺ pour l’appeler à la prière du Fajr, et on lui a dit : « Il dort. » Il a alors dit : « As-salatu khairum minan-nawm, As-salatu khairum minan-nawm (La prière est meilleure que le sommeil, la prière est meilleure que le sommeil). » Ces paroles ont été approuvées dans l’Adhan du Fajr, et cela est resté ainsi",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 11
+			}
+		}
+	]
+}

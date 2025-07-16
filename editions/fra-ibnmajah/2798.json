@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"24": "The Chapters on Jihad"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2753,
+				"hadithnumber_last": 2881,
+				"arabicnumber_first": 2753,
+				"arabicnumber_last": 2881
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2798,
+			"arabicnumber": 2798,
+			"text": "Rapporté par Abu Hurairah : On a parlé des martyrs en présence du Prophète (ﷺ) et il a dit : « La terre n’absorbe pas le sang du martyr avant que ses deux épouses ne se précipitent vers lui comme deux nourrices ayant perdu leur enfant dans un désert, et chacune d’elles aura en main une Hullah* meilleure que ce monde et tout ce qu’il contient. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 46
+			}
+		}
+	]
+}

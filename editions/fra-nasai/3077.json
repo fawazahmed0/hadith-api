@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3077,
+			"arabicnumber": 3077,
+			"text": "Rapporté par Sa'd : Nous sommes revenus du Hajj avec le Prophète, et certains d'entre nous ont dit qu'ils avaient jeté sept pierres (sur les Jamarat), tandis que d'autres ont dit qu'ils en avaient jeté six, et personne n'a reproché quoi que ce soit aux autres",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 460
+			}
+		}
+	]
+}

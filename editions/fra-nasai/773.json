@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 773,
+			"arabicnumber": 773,
+			"text": "Rapporté par Khilas bin 'Amr : J’ai entendu Aisha, رضي الله عنها, dire : \"Le Messager d’Allah (ﷺ), Abii Al-Qbim et moi étions sous une seule couverture, et j’avais mes règles. Si quelque chose de moi se retrouvait sur lui, il lavait seulement cette partie et priait avec, puis revenait vers moi. Et si quelque chose de moi se retrouvait sur lui, il faisait exactement la même chose et ne lavait rien d’autre",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 32
+			}
+		}
+	]
+}

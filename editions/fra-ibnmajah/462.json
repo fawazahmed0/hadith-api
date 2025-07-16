@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 462,
+			"arabicnumber": 462,
+			"text": "Rapporté par Usamah bin Zaid, de son père Zaid bin Harithah : Le Messager d'Allah ﷺ a dit : « Jibril m'a appris comment faire les ablutions, et il m'a ordonné de verser de l'eau sous mon vêtement, de peur qu'une goutte d'urine ne s'échappe après les ablutions. » (Da'if) D'autres chaînes rapportent des paroles similaires",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 196
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 470,
+			"arabicnumber": 470,
+			"text": "Rapporté par Al-Hakam bin ‘Utaibah : J’ai entendu Abu Juhaifah dire : \"Le Messager d’Allah (ﷺ) est parti en pleine journée, pendant la grande chaleur\" – (un des rapporteurs, Ibn Al-Muthanna, a ajouté : vers Al-Batha’) – \"il a fait les ablutions, puis il a prié le Zuhr, deux Rak‘a, et le ‘Asr, deux Rak‘a, avec une petite lance ('Anzah) plantée devant lui",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 23
+			}
+		}
+	]
+}

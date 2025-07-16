@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"30": "The Book of Wills"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3611,
+				"hadithnumber_last": 3671,
+				"arabicnumber_first": 3611,
+				"arabicnumber_last": 3671
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3637,
+			"arabicnumber": 3637,
+			"text": "Rapporté par Jabir : Son père est mort en ayant des dettes. \"Je suis allé voir le Prophète et j'ai dit : 'Ô Messager d'Allah ! Mon père est mort en ayant des dettes, et il n'a rien laissé à part ce que produisent ses palmiers. Ce que produisent ses palmiers ne suffira pas à rembourser ses dettes pendant des années. Viens avec moi, ô Messager d'Allah, pour que les créanciers ne soient pas durs avec moi.' Le Messager d'Allah est allé à chaque tas, disant les salams et faisant des invocations pour lui, puis s'asseyant dessus. Il a appelé les créanciers et les a remboursés, et ce qui restait était autant que ce qu'ils avaient pris",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 27
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 979,
+			"arabicnumber": 979,
+			"text": "Rapporté par Abu Humaid al-Sa’idi : Des gens ont demandé : « Messager d’Allah, comment devons-nous invoquer la bénédiction sur toi ? » Il a dit : « Dites : “Ô Allah, bénis Muhammad, ses épouses et sa descendance comme Tu as béni la famille d’Abraham, et accorde Tes faveurs à la famille de Muhammad, à ses épouses et à sa descendance comme Tu as accordé Tes faveurs à la famille d’Abraham. Tu es vraiment digne de louange et de gloire.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (3369) Sahih Muslim (407)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 590
+			}
+		}
+	]
+}

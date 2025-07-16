@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 799,
+			"arabicnumber": 799,
+			"text": "Rapporté par Al-Aswad et 'Alqamah : Nous sommes allés voir 'Abdullah à midi et il a dit : \"Il y aura des dirigeants qui seront distraits et ne feront pas la prière à l'heure, alors priez à l'heure.\" Ensuite, il s'est levé et a prié entre lui et moi, et il a dit : \"C'est ce que j'ai vu faire le Messager d'Allah (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 23
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1820,
+			"arabicnumber": 1820,
+			"text": "Rapporté par Anas : Le Messager d'Allah a dit : \"Aucun d'entre vous ne doit souhaiter la mort à cause d'un malheur qui lui arrive. Qu'il dise plutôt : Allahumma ahini ma kanatil-hayatu khairanli wa tawaffani idha kanatil-wafatu khairanli (Ô Allah, fais-moi vivre tant que la vie est meilleure pour moi, et fais-moi mourir quand la mort est meilleure pour moi)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 3
+			}
+		}
+	]
+}

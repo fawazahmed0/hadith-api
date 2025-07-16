@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4260,
+			"arabicnumber": 4260,
+			"text": "Rapporté par Ibn 'Abbas, de la part de Maymouna : On a demandé au Prophète ﷺ au sujet d’une souris tombée dans de la graisse de cuisson. Il a dit : \"Si la graisse est solide, alors jetez-la, ainsi que ce qui l’entoure. Si elle est liquide, alors n’en utilisez pas du tout.\" (Daif)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 39
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4744,
+			"arabicnumber": 4744,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Lorsque Allah créa le Paradis, Il dit à Gabriel : “Va et regarde-le.” Il y alla, le regarda, puis revint et dit : “Ô mon Seigneur ! Par Ta puissance, personne qui en entendra parler ne manquera d’y entrer.” Alors Allah l’entoura de choses difficiles et dit : “Va et regarde-le, Gabriel.” Il y alla, le regarda, puis revint et dit : “Ô mon Seigneur ! Par Ta puissance, je crains que personne n’y entre.” Quand Allah créa l’Enfer, Il dit : “Va et regarde-le, Gabriel.” Il y alla, le regarda, puis revint et dit : “Ô mon Seigneur ! Par Ta puissance, personne qui en entendra parler n’y entrera.” Allah l’entoura alors de choses désirables et dit : “Va et regarde-le, Gabriel.” Il y alla, le regarda, puis revint et dit : “Ô mon Seigneur ! Par Ta puissance et Ta force, je crains que personne n’y échappe.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 149
+			}
+		}
+	]
+}

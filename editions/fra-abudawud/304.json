@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 304,
+			"arabicnumber": 304,
+			"text": "Rapporté par Urwah b. al-Zubair : Fatimah, fille d’Abu Hubaish, avait un écoulement de sang prolongé. Le Prophète ﷺ lui a dit : « Lorsque le sang des règles arrive, il est noir et reconnaissable ; donc quand il apparaît, arrête de prier, mais quand c’est un autre type de sang, fais les ablutions et prie. » Abu Dawud a dit : Ibn al-Muthanna a dit : Ibn 'Adi a rapporté ce récit de mémoire d’après 'Urwah de 'Aishah. Abu Dawud a dit : Ce récit a aussi été transmis par al-'Ala b. al-Musayyab et Shu'bah d’al-Hakam d’après Abu Ja'far. Al-'Ala l’a rapporté comme une parole du Prophète ﷺ, et Shu'bah comme une parole d’Abu Ja'far, disant : « Elle doit faire les ablutions pour chaque prière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 304
+			}
+		}
+	]
+}

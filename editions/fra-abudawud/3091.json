@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3091,
+			"arabicnumber": 3091,
+			"text": "Rapporté par Abu Musa : J’ai entendu plusieurs fois le Prophète ﷺ dire : « Quand un serviteur d’Allah a l’habitude de faire une bonne action, puis tombe malade ou part en voyage, ce qu’il faisait habituellement lorsqu’il était en bonne santé et chez lui lui sera compté. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2996)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 3
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2648,
+			"arabicnumber": 2648,
+			"text": "Rapporté par Ibn 'Abbas رضي الله عنهما : Le Messager d'Allah ﷺ est parti et, lorsqu'il était à Ar-Rawha, il a rencontré des gens et leur a demandé : « Qui êtes-vous ? » Ils ont répondu : « Des musulmans. » Ils ont demandé : « Qui es-tu ? » Ils ont répondu : « Le Messager d'Allah. » Une femme a sorti un enfant de la litière et a dit : « Y a-t-il un Hajj pour celui-ci ? » Il a répondu : « Oui, et tu seras récompensée. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 30
+			}
+		}
+	]
+}

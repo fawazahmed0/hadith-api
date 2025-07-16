@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 225,
+			"arabicnumber": 225,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah a dit : \"Celui qui soulage un musulman d’une difficulté de ce monde, Allah le soulagera d’une difficulté du Jour de la Résurrection. Celui qui cache les défauts d’un musulman, Allah cachera les siens dans ce monde et dans l’au-delà. Celui qui allège la charge d’une personne dans le besoin, Allah l’allégera pour lui ici-bas et dans l’au-delà. Allah aide Son serviteur tant que celui-ci aide son frère. Celui qui suit un chemin pour chercher la connaissance, Allah lui facilitera un chemin vers le Paradis. Aucun groupe ne se réunit dans une des maisons d’Allah pour réciter le Livre d’Allah et l’étudier ensemble sans que les anges les entourent, que la tranquillité descende sur eux, que la miséricorde les enveloppe et qu’Allah parle d’eux à ceux qui sont auprès de Lui. Et celui qui est freiné par ses mauvaises actions, sa lignée ne lui sera d’aucune utilité",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 225
+			}
+		}
+	]
+}

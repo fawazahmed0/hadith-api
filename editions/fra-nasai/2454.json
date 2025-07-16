@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2454,
+			"arabicnumber": 2454,
+			"text": "Rapporté par Jabir ibn Abdullah : Le Messager d’Allah a dit : \"Aucun propriétaire de chameaux, de bovins ou de moutons qui ne donne pas ce qui est dû pour eux ne sera épargné : au Jour de la Résurrection, il sera placé sur une plaine, et ceux qui ont des sabots le piétineront avec leurs sabots, et ceux qui ont des cornes le frapperont avec leurs cornes. Ce jour-là, il n’y aura ni bête sans cornes ni bête avec les cornes cassées.\" Nous avons demandé : \"Ô Messager d’Allah, que doit-on donner pour eux ?\" Il a répondu : \"Prêter les mâles pour la reproduction, prêter leurs seaux, et les donner à des gens pour qu’ils les montent dans la voie d’Allah. Et tout propriétaire de richesse qui ne donne pas ce qui est dû verra apparaître devant lui, au Jour de la Résurrection, un serpent chauve ; son propriétaire essaiera de s’enfuir, mais il le poursuivra et lui dira : 'C’est ton trésor que tu gardais.' Quand il verra qu’il ne peut pas lui échapper, il mettra sa main dans sa bouche et le serpent commencera à la mordre comme un étalon mord",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 20
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 958,
+			"arabicnumber": 958,
+			"text": "Rapporté par Ja'far bin Al-Muttalib bin Abi Wada'ah : Son père a dit : \"Le Messager d'Allah (ﷺ) a récité la sourate An-Najm à La Mecque et s'est prosterné, et ceux qui étaient avec lui se sont prosternés. J'ai levé la tête et j'ai refusé de me prosterner.\" À ce moment-là, Al-Muttalib n'avait pas encore accepté l'islam",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 83
+			}
+		}
+	]
+}

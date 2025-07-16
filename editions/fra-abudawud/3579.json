@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3579,
+			"arabicnumber": 3579,
+			"text": "Abu Buradah a rapporté que le Prophète ﷺ a dit : « Nous n’emploierons jamais, ou nous n’emploierons pas (le narrateur hésite), dans nos affaires, quelqu’un qui le désire. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6923) Sahih Muslim (1824)"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 9
+			}
+		}
+	]
+}

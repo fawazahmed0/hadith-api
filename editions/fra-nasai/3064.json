@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3064,
+			"arabicnumber": 3064,
+			"text": "Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ nous a envoyés, nous les jeunes garçons de Banu Abdul-Muttalib, sur des ânes, en portant nos affaires, et il a dit : « Ô mes enfants, ne lapidez pas Jamratul Aqabah avant le lever du soleil. » (Faible)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 447
+			}
+		}
+	]
+}

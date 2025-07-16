@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3152,
+			"arabicnumber": 3152,
+			"text": "Une tradition similaire a été rapportée par Aisha رضي الله عنها par une autre chaîne de transmetteurs. Cette version ajoute : « en coton ». Le narrateur a dit : On a dit à Aisha que les gens disaient qu’il avait été enveloppé dans deux vêtements et un manteau. Elle a répondu : Un manteau a été apporté, mais ils l’ont rendu et ne l’ont pas utilisé pour l’envelopper",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1271) Sahih Muslim (941)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 64
+			}
+		}
+	]
+}

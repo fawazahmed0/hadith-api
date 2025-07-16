@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 698,
+			"arabicnumber": 698,
+			"text": "Rapporté par Abdullah bin Rabah : Abu Qatadah a dit : \"Ils ont parlé de négligence à cause du sommeil, et il a dit : 'Ils ont dormi jusqu'à ce que le soleil se lève. Le Messager d'Allah ﷺ a dit : Il n'y a pas de négligence quand on dort, la négligence est quand on est éveillé. Si l'un d'entre vous oublie de prier, ou s'endort et manque une prière, qu'il la fasse quand il s'en souvient, et dans son temps si c'est le lendemain.' (Sahih)\" Abdullah bin Rabah a dit : \"Imran bin Husain m'a entendu raconter ce hadith et a dit : 'Ô jeune homme, fais attention à la façon dont tu rapportes ce hadith. J'étais présent à ce moment-là avec le Messager d'Allah ﷺ.' Et il n'a rien contesté du hadith",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 32
+			}
+		}
+	]
+}

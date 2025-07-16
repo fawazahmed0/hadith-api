@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4692,
+			"arabicnumber": 4692,
+			"text": "Rapporté par ‘Abdullah bin Abi Qatadah, de son père : Un homme parmi les Ansar a été amené au Prophète ﷺ pour qu’il fasse la prière funéraire, et il a dit : \"Votre compagnon a une dette.\" Abu Qatadah a dit : \"Je me porte garant pour lui.\" Le Prophète a demandé : \"En totalité ?\" Il a répondu : \"En totalité.\" (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 244
+			}
+		}
+	]
+}

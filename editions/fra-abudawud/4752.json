@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4752,
+			"arabicnumber": 4752,
+			"text": "Le même récit a aussi été transmis par ‘Abd al-Wahhab à travers une autre chaîne de rapporteurs, de façon similaire. Dans cette version, il est dit : « Quand une personne est placée dans sa tombe et que ses proches s’en vont, elle entend le bruit de leurs sandales. Deux anges viennent alors lui parler. » Il mentionne ensuite le reste du récit, presque identique au précédent. Il ajoute : « Quant au mécréant et à l’hypocrite, ils leur disent… » Cette version ajoute le mot « hypocrite ». Et il dit : « Ceux qui sont proches de lui entendront son cri, à l’exception des hommes et des djinns. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (1338) Sahih Muslim (2870)"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 157
+			}
+		}
+	]
+}

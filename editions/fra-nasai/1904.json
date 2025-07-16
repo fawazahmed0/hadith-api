@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1904,
+			"arabicnumber": 1904,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah ﷺ a dit : \"Lavez le pèlerin décédé avec les deux vêtements dans lesquels il est entré en état d’ihram, lavez-le avec de l’eau et des feuilles de lotus, enveloppez-le dans ses deux vêtements, ne mettez pas de parfum sur lui et ne couvrez pas sa tête, car il sera ressuscité le Jour de la Résurrection en état d’ihram",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 87
+			}
+		}
+	]
+}

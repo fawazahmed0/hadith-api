@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 227,
+			"arabicnumber": 227,
+			"text": "Rapporté par Abu Bakr bin Hafs : J'ai entendu Abu Salamah dire : \"Je suis entré chez 'Aïcha et son frère de lait était avec elle. Il lui a demandé comment le Prophète (ﷺ) faisait le Ghusl. Elle a demandé qu'on lui apporte un récipient contenant un Sa' d'eau, puis elle s'est cachée et a fait le Ghusl en versant de l'eau sur sa tête trois fois",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 228
+			}
+		}
+	]
+}

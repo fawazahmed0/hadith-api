@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"15": "The Chapters on Charity"
+		},
+		"section_detail": {
+			"15": {
+				"hadithnumber_first": 2390,
+				"hadithnumber_last": 2528,
+				"arabicnumber_first": 2390,
+				"arabicnumber_last": 2528
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2425,
+			"arabicnumber": 2425,
+			"text": "Rapporté par Ibn 'Abbas : Un homme est venu demander au Prophète d’Allah (ﷺ) une dette ou un droit, et il lui a parlé durement. Les compagnons du Messager d’Allah (ﷺ) voulaient le réprimander, mais le Messager d’Allah (ﷺ) a dit : “Laissez-le, car celui à qui l’on doit quelque chose a autorité sur le débiteur jusqu’à ce que la dette soit remboursée.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Very Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 15,
+				"hadith": 36
+			}
+		}
+	]
+}

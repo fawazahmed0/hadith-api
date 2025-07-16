@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"9": "Zakat (Kitab Al-Zakat)"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 1556,
+				"hadithnumber_last": 1700,
+				"arabicnumber_first": 1556,
+				"arabicnumber_last": 1700
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1607,
+			"arabicnumber": 1607,
+			"text": "Rapporté par Abu Umamah ibn Sahl, d'après son père : Le Messager d’Allah ﷺ a interdit d’accepter les dattes ja’rur et habiq comme zakat. Az-Zuhri a dit : Ce sont deux sortes de dattes de Médine. Abu Dawud a dit : Cela a aussi été transmis par Abu al-Walid, de Sulaiman ibn Kathir, d’Az-Zuhri",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 52
+			}
+		}
+	]
+}

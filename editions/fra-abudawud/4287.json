@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"38": "The Promised Deliverer (Kitab Al-Mahdi)"
+		},
+		"section_detail": {
+			"38": {
+				"hadithnumber_first": 4279,
+				"hadithnumber_last": 4290,
+				"arabicnumber_first": 4279,
+				"arabicnumber_last": 4290
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4287,
+			"arabicnumber": 4287,
+			"text": "Le hadith mentionné ci-dessus a aussi été transmis par Qatadah par une autre chaîne de rapporteurs. Cette version indique « neuf ans ». Abu Dawud a dit : Les autres rapporteurs ont mentionné « neuf ans » de Hisham sauf Mu’adh",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 38,
+				"hadith": 9
+			}
+		}
+	]
+}

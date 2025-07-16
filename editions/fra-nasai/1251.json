@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"13": "The Book of Forgetfulness (In Prayer)"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 1179,
+				"hadithnumber_last": 1366,
+				"arabicnumber_first": 1179,
+				"arabicnumber_last": 1366
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1251,
+			"arabicnumber": 1251,
+			"text": "Rapporté par 'Abdullah bin Ja'far : Le Messager d'Allah (ﷺ) a dit : \"Celui qui a un doute pendant sa prière, qu'il fasse deux prosternations.\" (Un des rapporteurs, Hajjaj, a dit : \"Après avoir prononcé le taslim.\" Un autre, Rawh, a dit : \"Pendant qu'il est assis)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 13,
+				"hadith": 73
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"36": "Signet-Rings (Kitab Al-Khatam)"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 4214,
+				"hadithnumber_last": 4239,
+				"arabicnumber_first": 4214,
+				"arabicnumber_last": 4239
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4232,
+			"arabicnumber": 4232,
+			"text": "AbdurRahman ibn Tarafah a rapporté que son grand-père Arfajah ibn As'ad, qui avait eu le nez coupé à la bataille d’al-Kilab, s’était fait poser un nez en argent, mais il a dégagé une mauvaise odeur. Le Prophète ﷺ lui a alors ordonné de se faire un nez en or",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 36,
+				"hadith": 19
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 767,
+			"arabicnumber": 767,
+			"text": "Rapporté par Abu Salamah b. ‘Abd al-Rahman b. ‘Awf : J’ai demandé à ‘A’ishah رضي الله عنها : « Par quelles paroles le Prophète ﷺ commençait-il sa prière quand il se levait la nuit (pour la prière du tahajjud) ? » Elle a dit : « Quand il se levait la nuit, il commençait sa prière en disant : “Ô Allah, Seigneur de Jibril, Seigneur de Mika’il et Seigneur d’Israfil, Créateur des cieux et de la terre, Toi qui sais ce qui est visible et ce qui est caché ; Tu juges entre Tes serviteurs sur ce dont ils divergent. Guide-moi vers la vérité là où il y a divergence, par Ta permission. Tu guides qui Tu veux vers le droit chemin.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (770)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 377
+			}
+		}
+	]
+}

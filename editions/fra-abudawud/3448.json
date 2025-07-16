@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3448,
+			"arabicnumber": 3448,
+			"text": "Qatadah a dit : La rétention ne concerne pas les dattes sèches. Ibn al-Muthanna a dit que Yahya ibn Fayyad a rapporté cela d’al-Hasan. Nous (Ibn al-Muthanna) lui avons dit (à Yahya) : Ne dis pas : « d’après al-Hasan ». Abu Dawud a dit : Ce récit, selon nous, est faux. Abu Dawud a dit : Sa’id ibn al-Musayyab stockait des noyaux, du fourrage et des graines. Abu Dawud a dit : J’ai entendu Ahmad ibn Yunus dire : J’ai demandé à Sufyan à propos du stockage du fourrage. Il a répondu : Les gens d’autrefois n’aimaient pas cela. J’ai demandé à Abu Bakr ibn ‘Ayyash à ce sujet. Il a répondu : Stocke-le",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad Maqtu"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif Isnaad Maqtu"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 33
+			}
+		}
+	]
+}

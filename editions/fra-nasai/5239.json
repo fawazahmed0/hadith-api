@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5239,
+			"arabicnumber": 5239,
+			"text": "Rapporté par 'Abdullah bin Buraidah : Un homme parmi les Compagnons du Prophète ﷺ, appelé 'Ubaid, a dit : \"Le Messager d'Allah ﷺ interdisait l'excès d'Al-Irfah.\" On a demandé à Ibn Buraidah ce que signifiait l'excès d'Al-Irfah, et il a répondu : \"Cela inclut le fait de trop se peigner les cheveux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 200
+			}
+		}
+	]
+}

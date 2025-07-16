@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"7": "The Book of the Adhan (The Call to Prayer)"
+		},
+		"section_detail": {
+			"7": {
+				"hadithnumber_first": 626,
+				"hadithnumber_last": 687,
+				"arabicnumber_first": 626,
+				"arabicnumber_last": 687
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 686,
+			"arabicnumber": 686,
+			"text": "Rapporté par Makhramah bin Sulaiman, d'après Kuraib, l'affranchi d'Ibn 'Abbas : J'ai demandé à Ibn 'Abbas : \"Comment le Messager d'Allah (ﷺ) priait-il la nuit ?\" Il a répondu : \"Il priait onze unités, dont le Witr, puis il dormait profondément au point que je l'entendais ronfler. Ensuite, Bilal venait le voir et disait : 'La prière, ô Messager d'Allah !' Alors il se levait, priait deux unités courtes, puis dirigeait la prière pour les gens, et il ne faisait pas d'ablution",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 7,
+				"hadith": 61
+			}
+		}
+	]
+}

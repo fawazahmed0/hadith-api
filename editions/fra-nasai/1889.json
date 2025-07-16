@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1889,
+			"arabicnumber": 1889,
+			"text": "Rapporté par Umm 'Atiyyah : Une fille du Messager d’Allah est décédée et il nous a dit de la laver. Il a dit : « Trois fois, ou cinq, ou sept, ou plus si vous le jugez nécessaire. » J’ai demandé : « Un nombre impair ? » Il a répondu : « Oui, et mettez du camphre, ou un peu de camphre, dans l’eau la dernière fois. Quand vous aurez terminé, informez-moi. » Quand nous avons fini, nous l’avons informé, puis il nous a donné son pagne et a dit : « Enveloppez-la dedans. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 72
+			}
+		}
+	]
+}

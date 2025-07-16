@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3341,
+			"arabicnumber": 3341,
+			"text": "Rapporté par Samurah : Le Messager d’Allah ﷺ nous a adressé la parole et a dit : « Y a-t-il quelqu’un de telle ou telle tribu ici ? » Mais personne n’a répondu. Il a redemandé : « Y a-t-il quelqu’un de telle ou telle tribu ici ? » Mais personne n’a répondu. Il a demandé une troisième fois : « Y a-t-il quelqu’un de telle ou telle tribu ? » Alors un homme s’est levé et a dit : « Je suis là, Messager d’Allah. » Il a dit : « Qu’est-ce qui t’a empêché de répondre les deux premières fois ? Je veux t’annoncer une bonne nouvelle. Ton compagnon a été retenu (à l’entrée du Paradis) à cause de sa dette. » Ensuite, je l’ai vu payer toutes ses dettes pour lui, et il ne restait plus rien à réclamer. Abu Dawud a dit : Le nom du rapporteur Sam‘an est Sam‘an ibn Mushannaj",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 16
+			}
+		}
+	]
+}

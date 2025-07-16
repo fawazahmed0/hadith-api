@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4571,
+			"arabicnumber": 4571,
+			"text": "Rapporté par Abu Saeed Al-Khudri : Mes yeux ont vu et mes oreilles ont entendu le Messager d'Allah ﷺ. Et il a mentionné l'interdiction de vendre or contre or et argent contre argent, sauf si c'est des quantités égales, produit identique contre produit identique. Et ne le vendez pas contre quelque chose à payer plus tard, et ne faites pas de distinction",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 123
+			}
+		}
+	]
+}

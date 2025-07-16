@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5137,
+			"arabicnumber": 5137,
+			"text": "Rapporté par Rib’i, de la part de son épouse, que la sœur de Hudhaifah a dit : Le Messager d’Allah ﷺ nous a adressé la parole et a dit : « Ô femmes, n’avez-vous pas de l’argent à porter pour vous embellir ? Car aucune d’entre vous ne porte de l’or et ne l’exhibe sans être punie à cause de cela. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 98
+			}
+		}
+	]
+}

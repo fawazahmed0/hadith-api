@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4556,
+			"arabicnumber": 4556,
+			"text": "Rapporté par Abu Sa' eed : Nous avions l'habitude de vendre deux Sâs de dattes mélangées contre un Sâ, mais le Prophète ﷺ a dit : \"Ne vendez pas deux Sâs de dattes contre un Sâ, ni deux Sâs de blé contre un Sâ, ni deux dirhams contre un dirham",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 108
+			}
+		}
+	]
+}

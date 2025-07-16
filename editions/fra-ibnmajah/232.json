@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 232,
+			"arabicnumber": 232,
+			"text": "Rapporté par Abdur-Rahman bin 'Abdullah, d’après son père : Le Prophète ﷺ a dit : « Qu’Allah illumine le visage de l’homme qui entend un hadith de nous et le transmet, car il se peut que celui à qui il est transmis s’en souvienne mieux que celui qui l’a entendu en premier. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 232
+			}
+		}
+	]
+}

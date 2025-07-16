@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"3": "The Book of Menstruation and Istihadah"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 348,
+				"hadithnumber_last": 395,
+				"arabicnumber_first": 348,
+				"arabicnumber_last": 395
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 383,
+			"arabicnumber": 383,
+			"text": "Rapporté par Abu Hurairah : Pendant que le Messager d’Allah (ﷺ) était à la mosquée, il a dit : « Ô ‘Aïcha, passe-moi le vêtement. » Elle a répondu : « Je ne prie pas. » Il a dit : « Ce n’est pas dans ta main. » Alors elle le lui a donné",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 35
+			}
+		}
+	]
+}

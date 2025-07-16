@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4166,
+			"arabicnumber": 4166,
+			"text": "Rapporté par ‘Amr bin ‘As : Le Messager d’Allah (ﷺ) a dit : “Le cœur du fils d’Adam est attiré par chaque chose désirable, alors celui qui suit toutes ces envies, Allah ne se souciera pas de ce qui causera sa perte. Et celui qui place sa confiance en Allah, Allah le protégera de la souffrance des désirs dispersés.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 67
+			}
+		}
+	]
+}

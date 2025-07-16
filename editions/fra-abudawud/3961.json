@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3961,
+			"arabicnumber": 3961,
+			"text": "Imran ibn Husain a dit : « Un homme a affranchi six esclaves au moment de sa mort alors qu’il n’avait pas d’autre bien. Le Prophète ﷺ en a été informé. Il a tiré au sort parmi eux, en a affranchi deux et a gardé les quatre autres en esclavage. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih Sahih Muslim (1668)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 36
+			}
+		}
+	]
+}

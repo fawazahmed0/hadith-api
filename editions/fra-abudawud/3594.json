@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3594,
+			"arabicnumber": 3594,
+			"text": "Rapporté par Abu Hurayrah : Le Prophète ﷺ a dit : « La réconciliation entre musulmans est permise. » Le narrateur Ahmad a ajouté dans sa version : « sauf la réconciliation qui rend licite ce qui est illicite et illicite ce qui est licite. » Sulayman ibn Dawud a ajouté : Le Messager d’Allah ﷺ a dit : « Les musulmans respectent leurs engagements. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 24
+			}
+		}
+	]
+}

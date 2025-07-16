@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5222,
+			"arabicnumber": 5222,
+			"text": "Rapporté par Umm Salamah, l’épouse du Prophète ﷺ : J’ai entendu le Messager d’Allah ﷺ dire : \"Les anges n’entrent pas dans une maison où il y a une petite clochette ou une cloche, et les anges n’accompagnent pas les groupes de personnes qui ont des cloches avec eux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 183
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3102,
+			"arabicnumber": 3102,
+			"text": "Rapporté par Al-Bara' : Lorsque ce verset a été révélé : « Ne sont pas égaux ceux des croyants qui restent chez eux », Ibn Umm Maktum, qui était aveugle, est venu et a dit : « Ô Messager d’Allah, qu’en est-il de moi ? Je suis aveugle. » Il a dit : « Il n’est pas parti avant que ce verset ne soit révélé : Sauf ceux qui sont handicapés (par une blessure, ou qui sont aveugles ou boiteux). »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 18
+			}
+		}
+	]
+}

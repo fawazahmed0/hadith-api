@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4152,
+			"arabicnumber": 4152,
+			"text": "Rapporté par ‘Ata’ bin Sa’ib, de la part de son père, d’‘Ali : Le Messager d’Allah (ﷺ) est venu voir ‘Ali et Fatimah alors qu’ils étaient couverts d’un khamil qui leur appartenait. Un khamil est un tissu de velours blanc en laine. Le Messager d’Allah (ﷺ) leur avait offert cela comme cadeau de mariage, avec un coussin rempli d’idhkhir* et une outre à eau",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 53
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4686,
+			"arabicnumber": 4686,
+			"text": "Rapporté par ‘Imran bin Hudaifah : Maimouna contractait souvent des prêts, et certains membres de sa famille la critiquaient pour cela. Elle disait : \"Je ne cesserai pas d’emprunter, car j’ai entendu mon ami proche et bien-aimé dire : 'Quiconque prend un prêt, et Allah sait qu’il veut le rembourser, alors Allah le remboursera pour lui dans ce monde",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 238
+			}
+		}
+	]
+}

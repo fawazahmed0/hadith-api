@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2860,
+			"arabicnumber": 2860,
+			"text": "Rapporté par Ikrimah, d’après Al-Hajjaj bin Amr Al-Ansari : Il a entendu le Messager d’Allah ﷺ dire : \"Celui qui a une blessure à la jambe ou qui se casse la jambe sort de l’état d’Ihram, mais il devra accomplir un autre Hajj.\" J’ai demandé à Ibn Abbas et à Abu Hurairah à ce sujet et ils ont dit : \"Il a dit la vérité",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 243
+			}
+		}
+	]
+}

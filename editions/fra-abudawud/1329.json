@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1329,
+			"arabicnumber": 1329,
+			"text": "Rapporté par Abu Qatadah رضي الله عنه : Le Prophète ﷺ sortit une nuit et trouva Abu Bakr en train de prier à voix basse. Il passa aussi devant Omar ibn al-Khattab qui priait à voix haute. Quand ils rencontrèrent tous deux le Prophète ﷺ, il dit : « Je suis passé près de toi, Abu Bakr, alors que tu priais à voix basse. » Il répondit : « J’ai fait entendre ma voix à Celui avec qui j’étais en conversation intime, Messager d’Allah. » Le Prophète ﷺ dit à Omar : « Je suis passé près de toi alors que tu priais à voix haute. » Il répondit : « Messager d’Allah, je voulais réveiller l’assoupi et chasser le Diable. » Al-Hasan a ajouté dans sa version : Le Prophète ﷺ a dit : « Lève un peu la voix, Abu Bakr », et il dit à Omar : « Baisse un peu la voix. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 80
+			}
+		}
+	]
+}

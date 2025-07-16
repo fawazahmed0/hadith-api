@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 78,
+			"arabicnumber": 78,
+			"text": "Rapporté par Anas : Certains compagnons du Prophète (ﷺ) cherchaient de l'eau pour faire les ablutions. Le Messager d'Allah (ﷺ) a dit : \"L'un de vous a-t-il de l'eau ?\" Il a mis sa main dans l'eau et a dit : \"Faites vos ablutions au nom d'Allah.\" J'ai vu l'eau sortir d'entre ses doigts jusqu'à ce qu'ils aient tous fait leurs ablutions. Thabit a dit : J'ai demandé à Anas : \"Combien as-tu vu de personnes ?\" Il a répondu : \"Environ soixante-dix",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 78
+			}
+		}
+	]
+}

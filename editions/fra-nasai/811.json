@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 811,
+			"arabicnumber": 811,
+			"text": "Rapporté par Al-Bara bin Azib : Le Messager d’Allah (ﷺ) passait entre les rangs d’un côté à l’autre, tapotant nos épaules et nos poitrines et disant : « Ne rendez pas vos rangs irréguliers, sinon vos cœurs seront remplis d’inimitié les uns envers les autres. » Et il disait aussi : « Allah et Ses anges prient sur les premiers rangs. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 35
+			}
+		}
+	]
+}

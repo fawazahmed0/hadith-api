@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4228,
+			"arabicnumber": 4228,
+			"text": "Rapporté par Nubaishah : On a dit au Prophète ﷺ : \"Pendant la période de l’ignorance, nous offrions la ‘Atirah.\" Il a dit : \"Abattez pour Allah, le Puissant et Majestueux, peu importe le mois ; faites le bien pour Allah, le Puissant et Majestueux, et nourrissez les pauvres",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 7
+			}
+		}
+	]
+}

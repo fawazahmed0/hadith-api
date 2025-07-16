@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1937,
+			"arabicnumber": 1937,
+			"text": "Rapporté par 'Abdullah bin Abi Bakr : \"J’ai entendu Anas bin Malik dire : Le Messager d’Allah ﷺ a dit : 'Trois choses suivent le défunt : sa famille, ses biens et ses actes. Deux repartent : sa famille et ses biens, et il ne reste que ses actes",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 120
+			}
+		}
+	]
+}

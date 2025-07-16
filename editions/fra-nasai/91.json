@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 91,
+			"arabicnumber": 91,
+			"text": "Rapporté par 'Ali : Il a demandé de l'eau pour faire les ablutions, puis il s'est rincé la bouche et le nez, et il a inspiré de l'eau et l'a rejetée avec sa main gauche. Il a fait cela trois fois, puis il a dit : \"C'est ainsi que le Prophète d'Allah (ﷺ) se purifiait",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 91
+			}
+		}
+	]
+}

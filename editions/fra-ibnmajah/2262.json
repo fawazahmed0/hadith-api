@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2262,
+			"arabicnumber": 2262,
+			"text": "Rapporté par Ibn 'Umar : J'avais l'habitude de vendre des chameaux, et j'achetais de l'or contre de l'argent et de l'argent contre de l'or, un Dinar contre un Dirham et un Dirham contre un Dinar. J'ai demandé au Prophète (ﷺ) à ce sujet, et il a dit : \"Si tu prends l'un d'eux et donnes l'autre, toi et ton partenaire ne devez pas vous séparer tant que tout n'est pas clair (c'est-à-dire que l'échange est terminé).\" (Hasan) Une autre chaîne avec un texte similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 126
+			}
+		}
+	]
+}

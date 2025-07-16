@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"9": "The Book of the Qiblah"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 742,
+				"hadithnumber_last": 776,
+				"arabicnumber_first": 742,
+				"arabicnumber_last": 776
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 774,
+			"arabicnumber": 774,
+			"text": "Rapporté par Hammam : J’ai vu Jarir uriner, puis il a demandé de l’eau, a fait les ablutions, a essuyé sur ses khuffs, puis il s’est levé et a prié. On l’a interrogé à ce sujet et il a dit : \"J’ai vu le Prophète (ﷺ) faire exactement ainsi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 33
+			}
+		}
+	]
+}

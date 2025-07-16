@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2540,
+			"arabicnumber": 2540,
+			"text": "Rapporté par 'Abdullah bin 'Amr : Quand le Messager d’Allah ﷺ a conquis La Mecque, il s’est levé pour s’adresser aux gens et a dit dans son sermon : \"Il n’est pas permis à une femme de donner quoi que ce soit sans la permission de son mari.\" (Récit abrégé)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 106
+			}
+		}
+	]
+}

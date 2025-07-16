@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"23": "The Book of Zakah"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2435,
+				"hadithnumber_last": 2618,
+				"arabicnumber_first": 2435,
+				"arabicnumber_last": 2618
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2573,
+			"arabicnumber": 2573,
+			"text": "Rapporté par Abu Hurairah : Le Messager d'Allah a dit : \"Le pauvre (Miskin) n'est pas celui qui s'en va si tu lui donnes une ou deux bouchées, ou une ou deux dattes.\" Ils ont dit : \"Alors, qui est le Miskin, ô Messager d'Allah ?\" Il a dit : \"Celui qui ne possède pas de quoi subvenir à ses besoins, et que les gens ne connaissent pas sa situation pour lui donner l'aumône",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 139
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"5": "Establishing the Prayer and the Sunnah Regarding Them"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 803,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 803,
+				"arabicnumber_last": 1432
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 910,
+			"arabicnumber": 910,
+			"text": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit à un homme : « Que dis-tu pendant ta prière ? » Il a répondu : « Le Tashahhud, puis je demande à Allah le Paradis, et je demande Sa protection contre l’Enfer, mais je ne comprends pas ce que toi et Mu’adh vous murmurez (pendant la prière). » Il a dit : « Nos murmures tournent autour des mêmes choses. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 108
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5333,
+			"arabicnumber": 5333,
+			"text": "Rapporté par Abu Dharr : Le Messager d'Allah ﷺ a dit : « Il y a trois personnes à qui Allah (le Tout-Puissant et le Sublime) ne parlera pas le Jour de la Résurrection, Il ne les purifiera pas et ils auront un châtiment douloureux : celui qui rappelle aux autres ce qu'il leur a donné (Al-Mannan), celui qui laisse son Izar descendre en dessous des chevilles, et celui qui vend sa marchandise en jurant faussement. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 294
+			}
+		}
+	]
+}

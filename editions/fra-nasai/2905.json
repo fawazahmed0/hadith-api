@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2905,
+			"arabicnumber": 2905,
+			"text": "Rapporté par Abdullah bin Umar : Il est venu à la Kaaba alors que le Prophète ﷺ, Bilal et Usamah bin Zaid y étaient entrés, et Uthman bin Talhah avait fermé la porte. Ils sont restés là un moment, puis il a ouvert la porte et le Prophète ﷺ est sorti. Moi (Ibn Umar), je suis monté les marches et je suis entré dans la Maison et j’ai demandé : \"Où le Prophète a-t-il prié ?\" Ils ont répondu : \"Ici.\" Et j’ai oublié de leur demander combien de rak‘as le Prophète ﷺ avait prié à l’intérieur de la Maison",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 288
+			}
+		}
+	]
+}

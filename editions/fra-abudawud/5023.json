@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5023,
+			"arabicnumber": 5023,
+			"text": "Rapporté par Abu Hurairah : J’ai entendu le Messager d’Allah ﷺ dire : « Celui qui me voit en rêve me verra aussi à l’état d’éveil, ou comme s’il me voyait à l’état d’éveil, car le diable ne prend pas mon apparence. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (6993) Sahih Muslim (2266)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 251
+			}
+		}
+	]
+}

@@ -8257,3 +8257,29 @@ Generating Edition
  Generated edition fra-qudsi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.4.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for fra-abudawud.txt
+
+Generating Edition
+
+ Generated edition fra-abudawud
+
+Starting to create files for fra-ibnmajah.txt
+
+Generating Edition
+
+ Generated edition fra-ibnmajah
+
+Starting to create files for fra-nasai.txt
+
+Generating Edition
+
+ Generated edition fra-nasai
+
+editions.json and editions.min.json generated

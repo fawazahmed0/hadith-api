@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3571,
+				"hadithnumber_last": 3640,
+				"arabicnumber_first": 3571,
+				"arabicnumber_last": 3640
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3589,
+			"arabicnumber": 3589,
+			"text": "Abd al-Rahman bin Abi Bakrah a rapporté de la part de son père qu’il a écrit à son fils : Le Messager d’Allah ﷺ a dit : « Un juge ne doit pas rendre de jugement entre deux personnes lorsqu’il est en colère. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (7158) Sahih Muslim (1717)"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 19
+			}
+		}
+	]
+}

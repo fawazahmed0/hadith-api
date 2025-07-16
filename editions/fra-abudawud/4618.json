@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 4596,
+				"hadithnumber_last": 4772,
+				"arabicnumber_first": 4596,
+				"arabicnumber_last": 4772
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4618,
+			"arabicnumber": 4618,
+			"text": "Rapporté par Humaid : Al-Hasan est venu chez nous. Les juristes de La Mecque m’ont dit de lui demander d’organiser un jour une réunion pour leur faire un sermon. Il a accepté. Ils se sont rassemblés et il leur a adressé un discours. Je n’ai jamais vu d’orateur meilleur que lui. Un homme a dit : « Abu Sa’id, qui a créé Satan ? » Il a répondu : « Gloire à Allah ! Y a-t-il un autre créateur qu’Allah ? Allah a créé Satan, Il a créé le bien et Il a créé le mal. » L’homme a dit : « Qu’Allah les anéantisse ! Comment peuvent-ils mentir à ce vieil homme ? »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 42,
+				"hadith": 23
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 397,
+			"arabicnumber": 397,
+			"text": "Rapporté par Muhammad ibn ‘Amr ibn al-Hasan : Nous avons interrogé Jabir رضي الله عنه sur les horaires de prière du Messager d’Allah ﷺ. Il a dit : Il faisait la prière du zuhr pendant la chaleur du milieu de journée, la prière du ‘asr quand le soleil était encore brillant, la prière du maghrib quand le soleil était complètement couché, la prière du ‘isha tôt quand il y avait beaucoup de monde, mais plus tard s’ils étaient peu nombreux, et la prière du fajr dans l’obscurité de l’aube",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (560) Sahih Muslim (646)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 7
+			}
+		}
+	]
+}

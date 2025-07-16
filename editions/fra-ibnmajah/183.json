@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 183,
+			"arabicnumber": 183,
+			"text": "Rapporté par Safwan bin Muhriz Al-Mazini : Nous étions avec 'Abdullah bin 'Umar pendant qu'il faisait le tour de la Kaaba ; un homme est venu vers lui et a dit : « Ô Ibn 'Umar, qu'as-tu entendu du Messager d'Allah ﷺ à propos de la Najwa ? » Il a répondu : « J'ai entendu le Messager d'Allah ﷺ dire : Au Jour de la Résurrection, le croyant sera rapproché de son Seigneur jusqu'à ce qu'Il le couvre de Sa protection, puis Il lui fera avouer ses péchés. Il lui demandera : “Reconnais-tu ?” Il dira : “Ô Seigneur, je reconnais.” Cela continuera aussi longtemps qu'Allah le voudra, puis Il dira : “Je les ai cachés pour toi dans le bas monde, et aujourd'hui Je te les pardonne.” Ensuite, il recevra le registre de ses bonnes actions dans sa main droite. Mais pour le mécréant ou l'hypocrite, (ses péchés) seront annoncés devant les témoins. » (Un des rapporteurs, Khalid, a dit : « À : 'devant les témoins', il manque quelque chose. ») « Ce sont ceux qui ont menti contre leur Seigneur ! Nul doute ! La malédiction d'Allah est sur les injustes. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 183
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3130,
+			"arabicnumber": 3130,
+			"text": "Rapporté par Abu Hurairah : Un homme a demandé au Messager d’Allah (ﷺ) quelle était la meilleure action. Il a dit : « La foi en Allah. » Il a demandé : « Et ensuite ? » Il a dit : « Le Jihad dans la cause d’Allah. » Il a demandé : « Et ensuite ? » Il a dit : « Un Hajj accepté. » [1] [1] Un pèlerinage accepté, ou sans péché",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 46
+			}
+		}
+	]
+}

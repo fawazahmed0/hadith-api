@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5320,
+			"arabicnumber": 5320,
+			"text": "Rapporté par Khabbab bin Al-Aratt : Nous nous sommes plaints au Messager d'Allah ﷺ alors qu'il était allongé sur sa Burdah roulée, à l'ombre de la Ka'bah. Nous avons dit : « N'invoqueras-tu pas la victoire pour nous, n'invoqueras-tu pas Allah pour nous ? »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 281
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 284,
+			"arabicnumber": 284,
+			"text": "Rapporté par Abdullah bin Mas'ud : On a dit : \"Ô Messager d'Allah, comment reconnaîtras-tu ceux de ta communauté que tu n'as pas vus ?\" Il a dit : \"Grâce à la lumière sur leur front et leurs pieds, comme des chevaux avec des marques noires et blanches (qui les distinguent des autres), ce sont les traces des ablutions.\" (Hasan) Une autre chaîne rapporte des paroles similaires",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 18
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4594,
+			"arabicnumber": 4594,
+			"text": "Rapporté par Ibn 'Umar : « Le Messager d’Allah a dit : “Le volume doit être mesuré selon le système des gens de Al-Madinah, et le poids selon le système des gens de La Mecque.” » (Sahih) Voici la formulation d’Ishaq (l’un des rapporteurs)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 146
+			}
+		}
+	]
+}

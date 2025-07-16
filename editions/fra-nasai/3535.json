@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"27": "The Book of Divorce"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3389,
+				"hadithnumber_last": 3560,
+				"arabicnumber_first": 3389,
+				"arabicnumber_last": 3560
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3535,
+			"arabicnumber": 3535,
+			"text": "Rapporté par Safiyyah bint Shaibah, d’après Umm Salamah, l’épouse du Prophète ﷺ : Le Prophète ﷺ a dit : « La femme dont le mari est décédé ne doit pas porter de vêtements teints au carthame ou à l’argile rouge, et elle ne doit pas utiliser de teinture ni de khôl. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 149
+			}
+		}
+	]
+}

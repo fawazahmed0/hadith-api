@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3493,
+			"arabicnumber": 3493,
+			"text": "Rapporté par Ibn 'Umar : À l’époque du Messager d’Allah ﷺ, nous achetions du grain, et il envoya un homme vers nous qui nous ordonna de le déplacer de l’endroit où nous l’avions acheté vers un autre lieu, avant de le vendre sans l’avoir pesé ou mesuré",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (1527)"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 78
+			}
+		}
+	]
+}

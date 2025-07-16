@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"21": "The Book of Funerals"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 1818,
+				"hadithnumber_last": 2089,
+				"arabicnumber_first": 1818,
+				"arabicnumber_last": 2089
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1910,
+			"arabicnumber": 1910,
+			"text": "Rapporté par Abu Hurairah, attribuant cela au Prophète ﷺ : \"Dépêchez-vous avec la dépouille, car si elle était pieuse, vous l’emmenez vers quelque chose de bon, et si ce n’était pas le cas, alors c’est un mal dont vous vous débarrassez",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 93
+			}
+		}
+	]
+}

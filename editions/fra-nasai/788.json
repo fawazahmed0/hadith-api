@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"10": "The Book of Leading the Prayer (Al-Imamah)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 777,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 777,
+				"arabicnumber_last": 875
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 788,
+			"arabicnumber": 788,
+			"text": "Rapporté par Mahmud bin Ar-Rabi' : Itbk bin Malik dirigeait son peuple dans la prière, et il était aveugle. Il a dit au Messager d'Allah (ﷺ) : \"Parfois il fait sombre, il pleut ou il y a une inondation, et je suis aveugle ; ô Messager d'Allah (ﷺ), viens prier dans un endroit de ma maison que je pourrai utiliser comme lieu de prière.\" Il a dit : \"Où veux-tu que je prie pour toi ?\" Il lui a montré un endroit dans sa maison, et le Messager d'Allah (ﷺ) y a prié",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 12
+			}
+		}
+	]
+}

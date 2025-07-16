@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"11": "The Book of the Commencement of the Prayer"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 876,
+				"hadithnumber_last": 1028,
+				"arabicnumber_first": 876,
+				"arabicnumber_last": 1028
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 931,
+			"arabicnumber": 931,
+			"text": "Rapporté par Mu'adh bin Rifa'ah bin Rafi' : Son père a dit : \"J’ai prié derrière le Prophète (ﷺ) et j’ai éternué, puis j’ai dit : « Al-hamdu lillahi, hamdan kathiran tayiban mubarakan fih, mubarakan 'alaihi, kama yuhibbu rabbuna wa yarda » (Louange à Allah, une louange abondante, bonne et bénie, comme notre Seigneur aime et agrée). Quand il a fini de prier, le Messager d’Allah (ﷺ) a dit : « Qui a parlé pendant la prière ? » Mais personne n’a répondu. Il l’a répété une deuxième fois : « Qui a parlé pendant la prière ? » Alors Rifa’ah bin Rafi bin Afrah a dit : « C’était moi, ô Messager d’Allah. » Il a dit : « J’ai dit : “Louange à Allah, une louange abondante, bonne et bénie, comme notre Seigneur aime et agrée.” » Le Prophète (ﷺ) a dit : « Par Celui qui détient mon âme, plus de trente anges se sont précipités pour voir lequel d’entre eux allait l’emporter. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 56
+			}
+		}
+	]
+}

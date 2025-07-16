@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"32": "Chapters on Dress"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 3550,
+				"hadithnumber_last": 3656,
+				"arabicnumber_first": 3550,
+				"arabicnumber_last": 3656
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3571,
+			"arabicnumber": 3571,
+			"text": "Rapporté par Abu Hurairah : Un jeune homme de Quraïsh est passé devant lui avec son manteau qui traînait. Il lui dit : « Ô mon neveu ! J’ai entendu le Messager d’Allah (ﷺ) dire : “Celui qui laisse traîner son vêtement par orgueil, Allah ne le regardera pas le Jour de la Résurrection.” »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 22
+			}
+		}
+	]
+}

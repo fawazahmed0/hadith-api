@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"28": "Chapters on Hunting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3200,
+				"hadithnumber_last": 3250,
+				"arabicnumber_first": 3200,
+				"arabicnumber_last": 3250
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3240,
+			"arabicnumber": 3240,
+			"text": "Rapporté par Abu Sa’eed Al-Khudri : Un homme parmi les Ahlus-Suffah a appelé le Messager d’Allah (ﷺ) après la prière, en disant : “Ô Messager d’Allah ! Notre région est infestée de varans. Que penses-tu de (manger) les varans ?” Il a dit : “J’ai entendu dire qu’une nation a été transformée.” Il ne nous a pas dit d’en manger, et il ne l’a pas interdit non plus",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 41
+			}
+		}
+	]
+}

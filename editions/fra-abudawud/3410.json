@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"23": "Commercial Transactions (Kitab Al-Buyu)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3415,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3415
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3410,
+			"arabicnumber": 3410,
+			"text": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah ﷺ a conquis Khaybar et a stipulé que toute la terre, l’or et l’argent lui appartiendraient. Les gens de Khaybar ont dit : « Nous connaissons mieux la terre que vous ; donnez-la-nous à condition que vous receviez la moitié de la production et que nous ayons l’autre moitié. » Il la leur a donc donnée à cette condition. Quand le moment de la récolte des dattes est arrivé, il a envoyé ‘Abd Allah b. Rawahah pour évaluer la quantité de fruits des palmiers. C’est ce que les gens de Médine appellent khars (évaluation). Il disait : « Dans ces palmiers, il y a telle quantité (de production). » Ils disaient : « Tu as surestimé la quantité, Ibn Rawahah. » Il disait : « Je prends d’abord la responsabilité d’évaluer les fruits des palmiers et je vous donne la moitié de ce que j’ai dit. » Ils disaient : « C’est juste, et c’est sur cette équité que reposent les cieux et la terre. Nous sommes d’accord pour prendre la quantité que tu as dite. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 23,
+				"hadith": 85
+			}
+		}
+	]
+}

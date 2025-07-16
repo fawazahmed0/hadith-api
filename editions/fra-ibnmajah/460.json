@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 460,
+			"arabicnumber": 460,
+			"text": "Rapporté par Ali bin Yahya bin Khallad, de son père, de son oncle paternel Rifa'ah bin Rafi' : Il était assis avec le Prophète ﷺ qui a dit : « La prière de personne n'est complète tant qu'il ne fait pas correctement ses ablutions comme Allah l'a commandé, en se lavant le visage, les bras jusqu'aux coudes, en essuyant la tête et les pieds jusqu'aux chevilles. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 194
+			}
+		}
+	]
+}

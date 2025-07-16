@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4652,
+			"arabicnumber": 4652,
+			"text": "Rapporté par Jabir : \"Un homme des Banu 'Adhrah a déclaré qu'un de ses esclaves serait affranchi après sa mort. Cette nouvelle est parvenue au Messager d'Allah, qui a dit : 'As-tu d'autres biens à part lui ?' Il a répondu : 'Non.' Le Messager d'Allah a dit : 'Qui veut l'acheter de moi ?' Nu'aim bin 'Abdullah Al-Adawi l'a acheté pour huit cents dirhams, que le Messager d'Allah a donnés à l'ancien propriétaire. Puis le Messager d'Allah a dit : 'Commence par toi-même et donne-toi la charité. S'il reste quelque chose, donne-le à ta famille ; s'il reste encore, donne-le à tes proches ; s'il reste encore, alors donne-le ici et là",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 204
+			}
+		}
+	]
+}

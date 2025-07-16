@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"27": "Drinks (Kitab Al-Ashribah)"
+		},
+		"section_detail": {
+			"27": {
+				"hadithnumber_first": 3669,
+				"hadithnumber_last": 3735,
+				"arabicnumber_first": 3669,
+				"arabicnumber_last": 3735
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3719,
+			"arabicnumber": 3719,
+			"text": "Rapporté par Ibn Abbas رضي الله عنه : « L’Envoyé d’Allah ﷺ a interdit de boire à l’embouchure d’une outre, de monter un animal qui se nourrit d’impuretés, et de manger un animal tué en captivité. » Abu Dawud a dit : « Jallalah » désigne un animal qui mange des saletés et des impuretés",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 27,
+				"hadith": 51
+			}
+		}
+	]
+}

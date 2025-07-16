@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4830,
+			"arabicnumber": 4830,
+			"text": "Le hadith mentionné ci-dessus a aussi été transmis par Abu Musa رضي الله عنه du Prophète ﷺ par une autre chaîne de transmetteurs jusqu’à « et son goût est amer ». Ibn Mu‘adh a ajouté : Anas a dit : « Nous avions l’habitude de nous dire les uns aux autres qu’un bon compagnon est comme… » Il a ensuite transmis la suite du hadith",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (5059) Sahih Muslim (797)"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 58
+			}
+		}
+	]
+}

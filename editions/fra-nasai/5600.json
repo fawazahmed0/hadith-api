@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"51": "The Book of Drinks"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 5540,
+				"hadithnumber_last": 5758,
+				"arabicnumber_first": 5540,
+				"arabicnumber_last": 5758
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5600,
+			"arabicnumber": 5600,
+			"text": "Rapporté par 'Abdul-Malik bin At-Tufail Al-Jazari : « ‘Umar bin ‘Abdul-‘Aziz nous a écrit : “Ne buvez pas le jus de raisin épaissi (obtenu en le faisant bouillir) tant que les deux tiers ne se sont pas évaporés et qu’il n’en reste qu’un tiers. Et toute boisson enivrante est interdite.” »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif Isnaad Maqtu"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad Maqtu"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 62
+			}
+		}
+	]
+}

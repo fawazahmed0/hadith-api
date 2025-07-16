@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 23,
+			"arabicnumber": 23,
+			"text": "Rapporté par Amr bin Maimun : \"J’avais l’habitude de rendre visite à Ibn Mas'ud chaque jeudi après-midi, mais il ne disait jamais : 'Le Messager d’Allah (ﷺ) a dit.' Puis un soir, il a dit : 'Le Messager d’Allah (ﷺ) a dit,' puis il a baissé la tête.\" Il a dit : \"Je l’ai regardé et j’ai vu que sa chemise était ouverte ; ses yeux étaient remplis de larmes, et ses veines étaient gonflées (de crainte). Il a dit : 'Ou plus que cela, ou moins que cela, ou quelque chose de proche ou de similaire",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 23
+			}
+		}
+	]
+}

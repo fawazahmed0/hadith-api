@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4481,
+			"arabicnumber": 4481,
+			"text": "Rapporté par Al-Hassan, d’après Samurah : Le Prophète d’Allah a dit : « Deux commerçants ont le choix tant qu’ils n’ont pas conclu un accord qui leur convient à tous les deux et qu’ils ne l’ont pas confirmé trois fois. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 33
+			}
+		}
+	]
+}

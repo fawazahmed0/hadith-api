@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 118,
+			"arabicnumber": 118,
+			"text": "Rapporté par Jarir bin 'Abdullah : Il a fait les ablutions et a passé ses mains mouillées sur ses Khuffs. On lui a dit : \"Tu passes tes mains mouillées (sur tes Khuffs) ?\" Il a répondu : \"J'ai vu le Messager d'Allah (ﷺ) le faire.\" Les compagnons de 'Abdullah ont apprécié ce que Jarir a dit, car Jarir est devenu musulman peu de temps avant la mort du Prophète (ﷺ)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 118
+			}
+		}
+	]
+}

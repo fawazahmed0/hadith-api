@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"21": "Funerals (Kitab Al-Jana'iz)"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 3089,
+				"hadithnumber_last": 3241,
+				"arabicnumber_first": 3089,
+				"arabicnumber_last": 3241
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3203,
+			"arabicnumber": 3203,
+			"text": "Rapporté par Abu Huraira رضي الله عنه : Une femme noire (ou un jeune homme) avait l’habitude de balayer la mosquée. Le Prophète ﷺ ne le vit plus, et lorsqu’il demanda après lui, les gens lui dirent qu’il était décédé. Il dit : « Pourquoi ne m’en avez-vous pas informé ? » Il ajouta : « Montrez-moi sa tombe. » Ils le lui montrèrent et il pria sur lui",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (458) Sahih Muslim (956)"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 115
+			}
+		}
+	]
+}

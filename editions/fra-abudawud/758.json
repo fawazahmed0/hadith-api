@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 758,
+			"arabicnumber": 758,
+			"text": "Rapporté par Abu Hurayrah رضي الله عنه : (La manière reconnue de croiser les mains) est de tenir les mains l’une sur l’autre pendant la prière, sous le nombril. Abu Dawud a dit : J’ai entendu Ahmad b. Hanbal dire : Le rapporteur ‘Abd al-Rahman b. Ishaq al-Kufi est faible (c’est-à-dire peu fiable)",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 368
+			}
+		}
+	]
+}

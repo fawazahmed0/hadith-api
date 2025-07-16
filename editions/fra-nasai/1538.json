@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"18": "The Book of the Fear Prayer"
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 1529,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1529,
+				"arabicnumber_last": 1555
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1538,
+			"arabicnumber": 1538,
+			"text": "Rapporté par Salim, de son père : Le Messager d’Allah (ﷺ) a dirigé l’un des deux groupes pour une unité de prière tandis que l’autre groupe faisait face à l’ennemi, puis ils se sont écartés et ont pris la place des autres, et les autres sont venus et il leur a fait prier l’autre unité, puis il a fait le salut final et ils se sont levés pour compléter l’unité manquante, et les autres aussi",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 18,
+				"hadith": 10
+			}
+		}
+	]
+}

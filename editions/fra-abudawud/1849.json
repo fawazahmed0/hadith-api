@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1849,
+			"arabicnumber": 1849,
+			"text": "Rapporté par Abdullah ibn al-Harith, d’après son père al-Harith رضي الله عنه : Mon père al-Harith était gouverneur de Ta’if sous le calife ‘Uthman. Il a préparé un repas pour ‘Uthman qui contenait des oiseaux et de la viande d’âne sauvage. Il l’a envoyé à Ali رضي الله عنه. Quand le messager est arrivé, Ali battait des feuilles pour les chameaux et les secouait avec sa main. Il lui a dit : « Mange. » Il a répondu : « Donne-le à ceux qui ne sont pas en état de sacralisation ; nous portons l’ihram. Je demande aux gens d’Ashja‘ qui sont ici : Savez-vous qu’un homme a offert un âne sauvage au Messager d’Allah ﷺ alors qu’il était en ihram, et qu’il a refusé d’en manger ? » Ils ont répondu : « Oui. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 11,
+				"hadith": 129
+			}
+		}
+	]
+}

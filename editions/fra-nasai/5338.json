@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 5338,
+			"arabicnumber": 5338,
+			"text": "Rapporté par Umm Salamah : Lorsque le Prophète ﷺ a parlé du Izar, Umm Salamah demanda : « Et pour les femmes ? » Il répondit : « Qu'elles le laissent descendre d'une main. » Elle dit : « Mais alors leurs pieds seront découverts. » Il répondit : « Alors (qu'elles le laissent descendre) d'un avant-bras, mais pas plus. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 48,
+				"hadith": 299
+			}
+		}
+	]
+}

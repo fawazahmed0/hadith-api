@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 227,
+			"arabicnumber": 227,
+			"text": "Rapporté par Abu Hurairah : J’ai entendu le Messager d’Allah ﷺ dire : « Celui qui vient dans cette mosquée uniquement pour une bonne raison, comme apprendre ou enseigner, a le même statut que celui qui combat dans la voie d’Allah. Mais celui qui vient pour une autre raison, c’est comme s’il surveillait les biens des autres. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 227
+			}
+		}
+	]
+}

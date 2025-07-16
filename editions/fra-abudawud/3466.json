@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3466,
+			"arabicnumber": 3466,
+			"text": "Rapporté par Abdullah ibn Abu Awfa al-Aslami رضي الله عنه : Nous avons voyagé vers la Syrie lors d’une expédition avec le Messager d’Allah ﷺ. Les Nabatéens de Syrie sont venus vers nous et nous leur avons payé à l’avance (dans un contrat salam) pour du blé et de l’huile d’olive, à un prix et pour une durée déterminés. On lui demanda : « Peut-être avez-vous conclu ce contrat avec quelqu’un qui possédait déjà ces choses ? » Il répondit : « Nous ne leur avons pas demandé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 51
+			}
+		}
+	]
+}

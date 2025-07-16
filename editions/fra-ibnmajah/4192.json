@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"37": "Zuhd"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 4100,
+				"hadithnumber_last": 4341,
+				"arabicnumber_first": 4100,
+				"arabicnumber_last": 4341
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4192,
+			"arabicnumber": 4192,
+			"text": "Rapporté par ‘Amir bin ‘Abdullah bin Zubair, d’après ce que son père lui a raconté : Il n’y a eu que quatre ans entre leur conversion à l’islam et la révélation de ce verset par lequel Allah les a réprimandés : \"De peur qu’ils ne deviennent comme ceux à qui le Livre a été donné avant eux, et que le temps ne leur ait paru long, et que leurs cœurs ne se soient endurcis ? Beaucoup d’entre eux étaient des pervers.\" [57:]",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 93
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"41": "The Book of al-Fara' and al-'Atirah"
+		},
+		"section_detail": {
+			"41": {
+				"hadithnumber_first": 4222,
+				"hadithnumber_last": 4262,
+				"arabicnumber_first": 4222,
+				"arabicnumber_last": 4262
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4256,
+			"arabicnumber": 4256,
+			"text": "Rapporté par Jabir bin 'Abdullah : Lors de l’année de la Conquête, alors qu’il était à La Mecque, il a entendu le Messager d’Allah ﷺ dire : \"Allah, le Tout-Puissant et Majestueux, et Son Messager ont interdit la vente de l’alcool, de la viande d’animaux morts, des porcs et des idoles.\" On lui a demandé : \"Ô Messager d’Allah, que penses-tu de la graisse des animaux morts ? On l’utilise pour enduire les bateaux, on en met sur les peaux d’animaux, et les gens s’en servent pour allumer leurs lampes.\" Il a répondu : \"Non, c’est interdit.\" Puis le Messager d’Allah ﷺ a dit : \"Qu’Allah, le Tout-Puissant et Majestueux, maudisse les Juifs, car Allah leur avait interdit la graisse (des animaux morts), mais ils l’ont fait fondre, l’ont vendue et ont profité de son prix",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 41,
+				"hadith": 35
+			}
+		}
+	]
+}

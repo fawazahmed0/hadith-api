@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3554,
+			"arabicnumber": 3554,
+			"text": "Le hadith mentionné ci-dessus a également été transmis par Ibn Shihab (Al-Zuhri) par une autre chaîne de transmetteurs et avec le même sens. Abu Dawud a dit : Une tradition similaire a été transmise par 'Aqil d’après Ibn Shihab, et par Yazid b. Abi Habib d’après Shihab. Les paroles d’Al-Auza’i diffèrent de celles d’Ibn Shihab. Fulaih b. Sulaiman a aussi rapporté la tradition comme Malik",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 139
+			}
+		}
+	]
+}

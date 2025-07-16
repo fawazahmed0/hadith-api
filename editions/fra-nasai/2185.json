@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"22": "The Book of Fasting"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 2090,
+				"hadithnumber_last": 2434,
+				"arabicnumber_first": 2090,
+				"arabicnumber_last": 2434
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2185,
+			"arabicnumber": 2185,
+			"text": "Rapporté par ‘Abdullah ibn Chaqiq : J’ai dit à Aïcha رضي الله عنها : « Le Messager d’Allah ﷺ priait-il la prière du Duha ? » Elle a répondu : « Non, sauf s’il revenait d’un voyage. » J’ai demandé : « Le Messager d’Allah ﷺ avait-il l’habitude de jeûner régulièrement en dehors du Ramadan ? » Elle a dit : « Par Allah, il n’a pas jeûné régulièrement en dehors du Ramadan jusqu’à sa mort, et il n’a jamais passé tout un mois sans jeûner ; il jeûnait une partie de chaque mois. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 22,
+				"hadith": 96
+			}
+		}
+	]
+}

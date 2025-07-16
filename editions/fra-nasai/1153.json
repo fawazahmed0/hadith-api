@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1029,
+				"hadithnumber_last": 1178,
+				"arabicnumber_first": 1029,
+				"arabicnumber_last": 1178
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1153,
+			"arabicnumber": 1153,
+			"text": "Rapporté par Abu Qibalah : Malik bin Al-Huwairith venait nous voir et disait : \"Voulez-vous que je vous parle de la prière du Messager d’Allah (ﷺ) ?\" Il priait en dehors des horaires de prière, et après avoir relevé la tête de la seconde prosternation dans la première rak‘a, il s’asseyait un instant, puis se levait en s’aidant du sol",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 125
+			}
+		}
+	]
+}

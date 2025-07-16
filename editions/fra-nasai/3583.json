@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"28": "The Book of Horses, Races and Shooting"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 3561,
+				"hadithnumber_last": 3593,
+				"arabicnumber_first": 3561,
+				"arabicnumber_last": 3593
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3583,
+			"arabicnumber": 3583,
+			"text": "Rapporté par Ibn 'Umar : Le Messager d'Allah ﷺ a organisé une course de chevaux, en les faisant partir d'Al-Hafya' jusqu'à Thaniyyat Al-Wada', et il a aussi organisé une course pour des chevaux qui n'avaient pas été amaigris, sur une distance allant d'Ath-Thaniyyah à la mosquée de Banu Zuraiq",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 23
+			}
+		}
+	]
+}

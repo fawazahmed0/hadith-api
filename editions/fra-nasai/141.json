@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 141,
+			"arabicnumber": 141,
+			"text": "Rapporté par Abdullah bin 'Ubaidullah bin 'Abbas : Nous étions assis avec Abdullah bin 'Abbas et il a dit : \"Par Allah, le Messager d'Allah (ﷺ) ne nous a rien dit de particulier par rapport aux autres gens, sauf trois choses : Il nous a ordonné de bien faire les ablutions, de ne pas consommer l'aumône, et de ne pas croiser les ânes avec les chevaux",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 142
+			}
+		}
+	]
+}

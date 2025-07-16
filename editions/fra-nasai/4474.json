@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"44": "The Book of Financial Transactions"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 4449,
+				"hadithnumber_last": 4705,
+				"arabicnumber_first": 4449,
+				"arabicnumber_last": 4705
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4474,
+			"arabicnumber": 4474,
+			"text": "Rapporté par Yahya bin Sa‘eed, qui a dit : Nafi‘ nous a rapporté de Ibn ‘Umar, qui a dit : Le Messager d’Allah a dit : « Il n’y a pas de transaction entre deux personnes tant qu’elles ne se sont pas séparées, sauf si elles ont décidé de conclure la transaction. » (Sahih)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 44,
+				"hadith": 26
+			}
+		}
+	]
+}

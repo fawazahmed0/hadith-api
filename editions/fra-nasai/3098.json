@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3098,
+			"arabicnumber": 3098,
+			"text": "Rapporté par Abu Hurairah : \"J'ai entendu le Messager d'Allah (ﷺ) dire : 'Par Celui qui détient mon âme dans Sa main, si ce n'était pas pour le fait qu'il y a parmi les croyants des hommes qui n'aimeraient pas rester en arrière (quand je pars en expédition) et que je n'ai pas les moyens de leur fournir des montures (pour qu'ils m'accompagnent), je ne serais jamais resté à l'écart d'aucune expédition ou bataille dans la voie d'Allah. Par Celui qui détient mon âme dans Sa main, j'aimerais être tué dans la voie d'Allah, puis revenir à la vie, puis être tué, puis revenir à la vie, puis être tué, puis revenir à la vie, puis être tué",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 14
+			}
+		}
+	]
+}

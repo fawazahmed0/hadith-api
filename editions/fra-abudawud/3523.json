@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3523,
+			"arabicnumber": 3523,
+			"text": "Omar ibn Khaldah a dit : Nous sommes allés voir Abu Hurayrah qui était devenu insolvable. Il a dit : « Je vais trancher entre vous selon la décision du Messager d’Allah ﷺ : Si quelqu’un devient insolvable ou meurt et que le vendeur retrouve son bien chez lui, il est plus en droit de le reprendre que les autres. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 108
+			}
+		}
+	]
+}

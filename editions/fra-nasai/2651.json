@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"24": "The Book of Hajj"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 2619,
+				"hadithnumber_last": 3084,
+				"arabicnumber_first": 2619,
+				"arabicnumber_last": 3084
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2651,
+			"arabicnumber": 2651,
+			"text": "Rapporté par 'Abdullah bin 'Umar رضي الله عنهما : Le Messager d'Allah ﷺ a dit : « Les gens de Médine doivent entrer en ihram à partir de Dhul-Hulaifah, ceux du Cham à partir d'Al-Juhfah, ceux de Najd à partir de Qarn. » 'Abdullah a dit : « Et on m'a rapporté que le Messager d'Allah ﷺ a dit : 'Et les gens du Yémen doivent entrer en ihram à partir de Yalamlam.' »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 33
+			}
+		}
+	]
+}

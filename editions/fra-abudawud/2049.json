@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2049,
+			"arabicnumber": 2049,
+			"text": "Rapporté par Abdullah ibn Abbas : Un homme est venu voir le Prophète ﷺ et a dit : « Ma femme ne repousse pas la main d’un homme qui la touche. » Il a dit : « Divorce-la. » L’homme a alors dit : « J’ai peur que mon cœur ne la désire encore. » Il a dit : « Alors, profite d’elle. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 12,
+				"hadith": 4
+			}
+		}
+	]
+}

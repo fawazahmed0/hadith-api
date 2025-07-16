@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"30": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 3904,
+				"hadithnumber_last": 3925,
+				"arabicnumber_first": 3904,
+				"arabicnumber_last": 3925
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3912,
+			"arabicnumber": 3912,
+			"text": "Rapporté par Abou Hourayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de contagion, pas de hamah, pas de présage annonçant la pluie, et pas de serpent dans un ventre affamé. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (2220 After  2221)"
+				}
+			],
+			"reference": {
+				"book": 30,
+				"hadith": 9
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"1": "The Book of Purification and its Sunnah"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 267,
+				"hadithnumber_last": 666,
+				"arabicnumber_first": 267,
+				"arabicnumber_last": 666
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 520,
+			"arabicnumber": 520,
+			"text": "Rapporté par Jabir bin ‘Abdullah : Nous sommes arrivés près d’un bassin où il y avait la carcasse d’un âne, alors nous avons hésité à utiliser l’eau jusqu’à ce que le Messager d’Allah vienne vers nous et dise : \"L’eau n’est rendue impure par rien.\" Alors nous en avons bu, nous en avons donné à nos animaux, et nous en avons emporté avec nous",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih Lighairihi"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 254
+			}
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"0": "The Book of the Sunnah"
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 266,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 266
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 245,
+			"arabicnumber": 245,
+			"text": "Rapporté par Abu Umamah : Le Prophète ﷺ a marché un jour très chaud vers le cimetière de Baqi' Al-Gharqad (à Médine), et les gens marchaient derrière lui. Quand il a entendu le bruit de leurs chaussures, cela l’a touché, alors il s’est assis jusqu’à ce qu’ils passent devant lui, de peur que cela ne lui donne un sentiment d’orgueil",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 0,
+				"hadith": 245
+			}
+		}
+	]
+}

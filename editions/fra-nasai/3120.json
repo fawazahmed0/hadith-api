@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"25": "The Book of Jihad"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 3085,
+				"hadithnumber_last": 3195,
+				"arabicnumber_first": 3085,
+				"arabicnumber_last": 3195
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3120,
+			"arabicnumber": 3120,
+			"text": "Rapporté par Abu Hurairah : Le Prophète (ﷺ) a dit : « Il y a trois personnes qui ont toutes la promesse de l’aide d’Allah : le Mujahid qui lutte pour la cause d’Allah, le Tout-Puissant et Majestueux ; l’homme qui se marie pour rester chaste ; et l’esclave qui a un contrat pour acheter sa liberté et veut l’acquérir. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 25,
+				"hadith": 36
+			}
+		}
+	]
+}

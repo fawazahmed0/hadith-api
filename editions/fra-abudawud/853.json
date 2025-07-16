@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 853,
+			"arabicnumber": 853,
+			"text": "Rapporté par Anas b. Malik : Je n’ai jamais prié derrière quelqu’un qui faisait une prière plus courte que celle du Messager d’Allah ﷺ, et pourtant elle était parfaite. Quand le Messager d’Allah ﷺ disait : « Allah entend celui qui Le loue », il restait debout si longtemps que nous pensions qu’il avait oublié quelque chose ; puis il disait le takbir (« Allah est le plus grand ») et se prosternait, et il restait assis entre les deux prosternations si longtemps que nous pensions qu’il avait oublié quelque chose",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (473)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 463
+			}
+		}
+	]
+}

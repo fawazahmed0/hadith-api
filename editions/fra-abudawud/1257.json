@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 1250,
+				"hadithnumber_last": 1370,
+				"arabicnumber_first": 1250,
+				"arabicnumber_last": 1370
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 1257,
+			"arabicnumber": 1257,
+			"text": "Rapporté par Bilal رضي الله عنه : Ziyadah al-Kindi a rapporté d’après Bilal que celui-ci était venu informer le Messager d’Allah ﷺ de l’heure de la prière de l’aube. Aïcha l’a retenu pour une question qu’elle lui posait, jusqu’à ce que le jour devienne bien clair. Bilal s’est alors levé et l’a appelé à la prière à plusieurs reprises. Le Messager d’Allah ﷺ n’était pas encore sorti. Lorsqu’il est sorti, il a dirigé la prière, puis Bilal lui a expliqué qu’Aïcha l’avait retenu jusqu’à ce qu’il soit en retard. Bilal a dit : « Messager d’Allah, l’aube est bien claire. » Il a répondu : « Même si l’aube devenait plus claire qu’elle ne l’est maintenant, je prierais ces deux unités (de la sunna), je les accomplirais correctement et de la plus belle manière. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 5,
+				"hadith": 8
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"1": "The Book of Purification"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 324,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 324
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 186,
+			"arabicnumber": 186,
+			"text": "Rapporté par un compagnon : Je suis sorti avec le Prophète (ﷺ) l’année de Khaybar. Quand nous sommes arrivés à As Sahba’, dans la partie basse de Khaybar, le Prophète (ﷺ) a accompli la prière de l’Asr, puis a demandé aux gens d’apporter de la nourriture de voyage. On n’a apporté que du Sawiq, que le Prophète (ﷺ) a fait humidifier avec de l’eau, puis il en a mangé et nous aussi. Ensuite, il s’est levé pour la prière du Maghrib. Il s’est rincé la bouche, et nous aussi, puis il a prié sans refaire ses ablutions",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 1,
+				"hadith": 187
+			}
+		}
+	]
+}

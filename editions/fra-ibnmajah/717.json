@@ -1,0 +1,45 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"3": "The Book of the Adhan and the Sunnah Regarding It"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 706,
+				"hadithnumber_last": 734,
+				"arabicnumber_first": 706,
+				"arabicnumber_last": 734
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 717,
+			"arabicnumber": 717,
+			"text": "Rapporté par Ziyad bin Harith As-Suda’i : J’étais avec le Messager d’Allah lors d’un voyage, et il m’a demandé de faire l’Adhan. Bilal voulait faire l’Iqamah, mais le Messager d’Allah a dit : « C’est le frère de Suda’ qui a fait l’Adhan, et celui qui fait l’Adhan fait aussi l’Iqamah. »",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 12
+			}
+		}
+	]
+}

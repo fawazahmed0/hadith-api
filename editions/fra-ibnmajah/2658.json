@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Ibn Majah",
+		"section": {
+			"21": "The Chapters on Blood Money"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 2615,
+				"hadithnumber_last": 2694,
+				"arabicnumber_first": 2615,
+				"arabicnumber_last": 2694
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 2658,
+			"arabicnumber": 2658,
+			"text": "Rapporté par Abu Juhaifah : J’ai dit à 'Ali bin Abu Talib : \"As-tu une connaissance que les gens n’ont pas ?\" Il a dit : \"Non, par Allah, nous ne savons que ce que les gens savent, sauf qu’Allah peut accorder à un homme la compréhension du Coran ou ce qui est écrit sur ce feuillet, où sont mentionnées les règles sur le prix du sang venant du Messager d’Allah (ﷺ), et il y est écrit qu’un musulman ne doit pas être tué en représailles pour le meurtre d’un non-croyant",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari"
+				}
+			],
+			"reference": {
+				"book": 21,
+				"hadith": 44
+			}
+		}
+	]
+}

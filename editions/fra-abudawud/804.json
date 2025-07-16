@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 804,
+			"arabicnumber": 804,
+			"text": "Rapporté par Abu Sa‘id al-Khudri رضي الله عنه : Nous estimions combien de temps le Messager d’Allah ﷺ restait debout dans la prière du midi et de l’après-midi, et nous avons estimé qu’il restait debout dans les deux premières rak‘a du midi le temps de réciter trente versets du Coran, comme A-L-M Tanzil as-Sajda. Nous avons estimé qu’il restait debout dans les deux dernières rak‘a la moitié du temps des deux premières. Nous avons estimé qu’il restait debout dans les deux premières rak‘a de l’après-midi aussi longtemps que dans les deux dernières du midi, et dans les deux dernières de l’après-midi la moitié du temps des deux premières",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim (452)"
+				}
+			],
+			"reference": {
+				"book": 2,
+				"hadith": 414
+			}
+		}
+	]
+}

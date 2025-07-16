@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan an Nasai",
+		"section": {
+			"37": "The Book of Fighting [The Prohibition of Bloodshed]"
+		},
+		"section_detail": {
+			"37": {
+				"hadithnumber_first": 3966,
+				"hadithnumber_last": 4132,
+				"arabicnumber_first": 3966,
+				"arabicnumber_last": 4132
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 4048,
+			"arabicnumber": 4048,
+			"text": "Rapporté par ‘Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Il n’est permis de verser le sang d’un musulman que dans trois cas : un adultère marié, qui doit être lapidé à mort ; un homme qui tue intentionnellement un autre homme, qui doit être tué ; et un homme qui quitte l’islam et fait la guerre à Allah, le Puissant et Sublime, et à Son Messager, qui doit être tué, ou crucifié, ou banni du pays. »",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Sahih"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 83
+			}
+		}
+	]
+}

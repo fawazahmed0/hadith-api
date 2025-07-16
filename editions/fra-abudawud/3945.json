@@ -1,0 +1,41 @@
+{
+	"metadata": {
+		"name": "Sunan Abu Dawud",
+		"section": {
+			"31": "The Book of Manumission of Slaves"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 3926,
+				"hadithnumber_last": 3968,
+				"arabicnumber_first": 3926,
+				"arabicnumber_last": 3968
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 3945,
+			"arabicnumber": 3945,
+			"text": "Le récit mentionné ci-dessus a aussi été rapporté par Ibn ‘Umar رضي الله عنه par une autre chaîne de transmetteurs, avec le même sens que celui rapporté par Malik. Dans cette version, il n’est pas mentionné « sinon il sera affranchi à hauteur de la part du premier homme ». Sa version se termine par « et l’esclave sera ainsi affranchi », comme l’a mentionné Malik",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari (2503)"
+				}
+			],
+			"reference": {
+				"book": 31,
+				"hadith": 20
+			}
+		}
+	]
+}

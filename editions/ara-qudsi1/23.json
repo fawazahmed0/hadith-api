@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Forty Hadith Qudsi",
+		"section": {
+			"1": "Forty Hadith Qudsi"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 40,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 40
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 23,
+			"arabicnumber": 23,
+			"text": "عن ابي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم : ان الله تبارك وتعالى يقول يوم القيامة: اين المتحابون بجلالي؟ اليوم اظلهم في ظلي يوم لا ظل الا ظلي رواه البخاري (وكذلك مالك)",
+			"grades": [],
+			"reference": {
+				"book": 1,
+				"hadith": 23
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Forty Hadith Qudsi",
+		"section": {
+			"1": "Forty Hadith Qudsi"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 40,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 40
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 31,
+			"arabicnumber": 31,
+			"text": "عن جندب رضي الله عنه : ان رسول الله صلى الله عليه و سلم حدث (ان رجلا قال : والله لا يغفر الله لفلان وان الله تعالى قال : من ذا الذي يتالى علي ان لا اغفر لفلان،فاني قد غفرت لفلان، واحبطت عملك (او كما قال<br>رواه مسلم",
+			"grades": [],
+			"reference": {
+				"book": 1,
+				"hadith": 31
+			}
+		}
+	]
+}

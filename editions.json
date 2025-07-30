@@ -253,6 +253,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-dehlawi.min.json"
 			},
 			{
+				"name": "ara-dehlawi1",
+				"book": "dehlawi",
+				"author": "Shah Waliullah Dehlawi",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-dehlawi1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-dehlawi1.min.json"
+			},
+			{
 				"name": "eng-dehlawi",
 				"book": "dehlawi",
 				"author": "Shah Waliullah Dehlawi",
@@ -722,6 +734,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nawawi.min.json"
 			},
 			{
+				"name": "ara-nawawi1",
+				"book": "nawawi",
+				"author": "Imam Nawawi",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nawawi1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nawawi1.min.json"
+			},
+			{
 				"name": "ben-nawawi",
 				"book": "nawawi",
 				"author": "Imam Nawawi",
@@ -773,6 +797,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-qudsi.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-qudsi.min.json"
+			},
+			{
+				"name": "ara-qudsi1",
+				"book": "qudsi",
+				"author": "Unknown",
+				"language": "Arabic",
+				"has_sections": true,
+				"direction": "rtl",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-qudsi1.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-qudsi1.min.json"
 			},
 			{
 				"name": "eng-qudsi",

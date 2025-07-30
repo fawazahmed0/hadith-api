@@ -8301,3 +8301,29 @@ Generating Edition
  Generated edition fra-muslim
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/24.4.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-dehlawi1.txt
+
+Generating Edition
+
+ Generated edition ara-dehlawi1
+
+Starting to create files for ara-nawawi1.txt
+
+Generating Edition
+
+ Generated edition ara-nawawi1
+
+Starting to create files for ara-qudsi1.txt
+
+Generating Edition
+
+ Generated edition ara-qudsi1
+
+editions.json and editions.min.json generated

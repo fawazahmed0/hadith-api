@@ -41,7 +41,14 @@
 41 | عن ابي محمد عبد الله بن عمرو بن العاص رضي الله عنهما، قال: قال رسول الله صلى الله عليه و سلم "لا يومن احدكم حتى يكون هواه تبعا لما جيت به". حديث حسن صحيح، رويناه في كتاب "الحجة" باسناد صحيح
 42 | عن انس بن مالك رضي الله عنه قال: سمعت رسول الله صلى الله عليه و سلم يقول: قال الله تعالى: يا ابن ادم! انك ما دعوتني ورجوتني غفرت لك على ما كان منك ولا ابالي، يا ابن ادم! لو بلغت ذنوبك عنان السماء ثم استغفرتني غفرت لك، يا ابن ادم! انك لو اتيتني بقراب الارض خطايا ثم لقيتني لا تشرك بي شييا لاتيتك بقرابها مغفرة . رواه الترمذي [رقم:3540]، وقال: حديث حسن صحيح
 {
-	"book": "nawawi",
-	"author": "Imam Nawawi",
-	"language": "Arabic"
+    "name": "ara-nawawi1",
+    "book": "nawawi",
+    "author": "Imam Nawawi",
+    "language": "Arabic",
+    "has_sections": true,
+    "direction": "rtl",
+    "source": "",
+    "comments": "Diacritics removed for easier searching",
+    "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nawawi.json",
+    "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nawawi.min.json"
 }

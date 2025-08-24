@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"3": "Prayer"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 146,
-				"hadithnumber_last": 221,
-				"arabicnumber_first": 146,
-				"arabicnumber_last": 221
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 150,
-			"arabicnumber": 150,
-			"text": "Abdurrahman b. Abdullah b. Abdurrahman b. Ebî Sa'saa el-Ensarî babası Abdullah'tan: Ebu Said el-Hudrî (r.a.) bana şöyle söyledi: Görüyorum ki koyunu ve kır'ı çok seviyorsun. Kırda koyunlarının yanında olduğun vakit, namaz için yüksek sesle ezan oku. Zira Resulullah Sallallahu Aleyhi ve Sellem'dan işittim; şöyle buyurdu: «Müezzinin sesini işiten cin, insan ve her şey kıyamet günü ona şahitlik eder.» Diğer tahric: Buharî, Ezan",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "3": "Namaz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 146,
+        "hadithnumber_last": 221,
+        "arabicnumber_first": 146,
+        "arabicnumber_last": 221
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 150,
+      "arabicnumber": 150,
+      "text": "Abdurrahman b. Abdullah b. Abdurrahman b. Ebî Sa'saa el-Ensarî babası Abdullah'tan: Ebu Said el-Hudrî (r.a.) bana şöyle söyledi: Görüyorum ki koyunu ve kır'ı çok seviyorsun. Kırda koyunlarının yanında olduğun vakit, namaz için yüksek sesle ezan oku. Zira Resulullah Sallallahu Aleyhi ve Sellem'dan işittim; şöyle buyurdu: «Müezzinin sesini işiten cin, insan ve her şey kıyamet günü ona şahitlik eder.» Diğer tahric: Buharî, Ezan",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 5
+      }
+    }
+  ]
 }

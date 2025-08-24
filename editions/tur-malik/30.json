@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"1": "The Times of Prayer"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 31,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 31
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 30,
-			"arabicnumber": 30,
-			"text": "Said b. El Müseyyeb'den: Resulullah Sallallahu aleyhi ve Sellem buyurdular ki: «Şu bitkiden (sarmısaktan) yiyen mescitlerimize girip bizi sarmısak kokusuyla rahatsız etmesin.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "1": "Namaz Vakitleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 31,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 31
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 30,
+      "arabicnumber": 30,
+      "text": "Said b. El Müseyyeb'den: Resulullah Sallallahu aleyhi ve Sellem buyurdular ki: «Şu bitkiden (sarmısaktan) yiyen mescitlerimize girip bizi sarmısak kokusuyla rahatsız etmesin.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 30
+      }
+    }
+  ]
 }

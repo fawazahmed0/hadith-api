@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 745,
-			"arabicnumber": 745,
-			"text": "Muhammed b. Ebî Bekr Es-Sakafî'den: Mina'dan Arafata giderken Enes b. Malik'e: «— Rasulullah Sallallahu Aleyhi ve Sellem ile beraberken bu gün nasıl yapıyordunuz?» diye sordum. Şu cevabı verdi: «— İsteyen bir kısmımız telbiyede bulunur, bir kısmımız da tekbir getirirdi. Hiç kimse kimseyi yadırgamazdı.» Diğer tahric: Buhari, Hac; Müslim, Hac",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 745,
+      "arabicnumber": 745,
+      "text": "Muhammed b. Ebî Bekr Es-Sakafî'den: Mina'dan Arafata giderken Enes b. Malik'e: «— Rasulullah Sallallahu Aleyhi ve Sellem ile beraberken bu gün nasıl yapıyordunuz?» diye sordum. Şu cevabı verdi: «— İsteyen bir kısmımız telbiyede bulunur, bir kısmımız da tekbir getirirdi. Hiç kimse kimseyi yadırgamazdı.» Diğer tahric: Buhari, Hac; Müslim, Hac",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 41
+      }
+    }
+  ]
 }

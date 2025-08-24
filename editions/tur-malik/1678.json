@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"49": "The Description of the Prophet, may Allah Bless Him and Grant Him Peace"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 1671,
-				"hadithnumber_last": 1710,
-				"arabicnumber_first": 1671,
-				"arabicnumber_last": 1710
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1678,
-			"arabicnumber": 1678,
-			"text": "İbn-i Büceyel el Ensari el Harisi (r.a) nenesinden rivayete göre, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Yanmış koyun ve sığır paçası da olsa miskin'e veriniz.\" Diğer tahric: Nesai, Zekat",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 49,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "49": "Hazret-i Peygamber'in Nitelikleri"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 1671,
+        "hadithnumber_last": 1710,
+        "arabicnumber_first": 1671,
+        "arabicnumber_last": 1710
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1678,
+      "arabicnumber": 1678,
+      "text": "İbn-i Büceyel el Ensari el Harisi (r.a) nenesinden rivayete göre, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Yanmış koyun ve sığır paçası da olsa miskin'e veriniz.\" Diğer tahric: Nesai, Zekat",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 49,
+        "hadith": 8
+      }
+    }
+  ]
 }

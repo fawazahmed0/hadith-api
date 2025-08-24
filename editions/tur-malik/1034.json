@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"23": "Sacrificial Animals"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1028,
-				"hadithnumber_last": 1041,
-				"arabicnumber_first": 1028,
-				"arabicnumber_last": 1041
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1034,
-			"arabicnumber": 1034,
-			"text": "Abdullah b. Vakıd (r.a)'den rivayete göre, şöyle demiştir: \"Rasuluilah Sallallahu Aleyhi ve Sellem kurban etlerinin üç günden fazla muhafaza edilmemesini emretmişti. Abdullah b. Ebi Bekir durumu Amre binti Abdurrahman'a sormuş o da şöyle cevap vermiştir: \"Aişe' den işittim şöyle diyordu: \"Bayram günü çölden bir grup insan Rasulullah Sallallahu Aleyhi ve Sellem'a geldi. Rasulullah Sallallahu Aleyhi ve Sellem o gün Müslümanlara: \"Üç günlük yiyeceği niz i muhafaza edebilirsiniz, fazlasını tasadduk ediniz\" buyurdu. Aişe diyor ki: \"Bundan sonra Rasulullah Sallallahu Aleyhi ve Sellem'a Müslümanlar kurban etlerinden faydalanıyorlar, yağlarını eritip onlardan istifade edip, su kabı elde ediyorlar denildi. Bunun üzerine Rasulullah Sallallahu Aleyhi ve Sellem: \"Ne var bunda?\" -veya buna benzer bir ifade kullandı¬buyurdu. Onlarda şöyle dediler: \"Kurban etlerinin üç günden fazla saklanmasını yasaklamıştınız.\" Bunun üzerine Rasulullah Sallallahu Aleyhi ve Sellem: \"O gün çölden gelen misafirlerin doyurulması için yasaklamıştım, dolayısıyla şimdi o etlerden yiyebilir, tasadduk edebilir, yani Medine'ye gelip giden yolcu misafir ve fakirlere ikram etmek için saklayabilirsiniz.\" Diğer tahric: Müslim, Edahi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 23,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "23": "Kurbanlar"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1028,
+        "hadithnumber_last": 1041,
+        "arabicnumber_first": 1028,
+        "arabicnumber_last": 1041
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1034,
+      "arabicnumber": 1034,
+      "text": "Abdullah b. Vakıd (r.a)'den rivayete göre, şöyle demiştir: \"Rasuluilah Sallallahu Aleyhi ve Sellem kurban etlerinin üç günden fazla muhafaza edilmemesini emretmişti. Abdullah b. Ebi Bekir durumu Amre binti Abdurrahman'a sormuş o da şöyle cevap vermiştir: \"Aişe' den işittim şöyle diyordu: \"Bayram günü çölden bir grup insan Rasulullah Sallallahu Aleyhi ve Sellem'a geldi. Rasulullah Sallallahu Aleyhi ve Sellem o gün Müslümanlara: \"Üç günlük yiyeceği niz i muhafaza edebilirsiniz, fazlasını tasadduk ediniz\" buyurdu. Aişe diyor ki: \"Bundan sonra Rasulullah Sallallahu Aleyhi ve Sellem'a Müslümanlar kurban etlerinden faydalanıyorlar, yağlarını eritip onlardan istifade edip, su kabı elde ediyorlar denildi. Bunun üzerine Rasulullah Sallallahu Aleyhi ve Sellem: \"Ne var bunda?\" -veya buna benzer bir ifade kullandı¬buyurdu. Onlarda şöyle dediler: \"Kurban etlerinin üç günden fazla saklanmasını yasaklamıştınız.\" Bunun üzerine Rasulullah Sallallahu Aleyhi ve Sellem: \"O gün çölden gelen misafirlerin doyurulması için yasaklamıştım, dolayısıyla şimdi o etlerden yiyebilir, tasadduk edebilir, yani Medine'ye gelip giden yolcu misafir ve fakirlere ikram etmek için saklayabilirsiniz.\" Diğer tahric: Müslim, Edahi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 23,
+        "hadith": 7
+      }
+    }
+  ]
 }

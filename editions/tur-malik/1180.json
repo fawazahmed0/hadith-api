@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"29": "Divorce"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 1150,
-				"hadithnumber_last": 1271,
-				"arabicnumber_first": 1150,
-				"arabicnumber_last": 1271
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1180,
-			"arabicnumber": 1180,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "29": "Talak (Boşama/Boşanma)"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 1150,
+        "hadithnumber_last": 1271,
+        "arabicnumber_first": 1150,
+        "arabicnumber_last": 1271
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1180,
+      "arabicnumber": 1180,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 4
+      }
+    }
+  ]
 }

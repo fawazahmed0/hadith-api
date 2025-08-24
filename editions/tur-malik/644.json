@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"18": "Fasting"
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 630,
-				"hadithnumber_last": 689,
-				"arabicnumber_first": 630,
-				"arabicnumber_last": 689
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 644,
-			"arabicnumber": 644,
-			"text": "Aişe r.anha anlatıyor: «Resulullah Sallallahu Aleyhi ve Sellem, oruçlu iken hanımlarından bazılarını öperdi.» Hz. Aişe bunu nakletti ve güldü. Diğer tahric: Buhari, Savm; Müslim, Sıyam",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 18,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "18": "Oruç"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 630,
+        "hadithnumber_last": 689,
+        "arabicnumber_first": 630,
+        "arabicnumber_last": 689
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 644,
+      "arabicnumber": 644,
+      "text": "Aişe r.anha anlatıyor: «Resulullah Sallallahu Aleyhi ve Sellem, oruçlu iken hanımlarından bazılarını öperdi.» Hz. Aişe bunu nakletti ve güldü. Diğer tahric: Buhari, Savm; Müslim, Sıyam",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 18,
+        "hadith": 15
+      }
+    }
+  ]
 }

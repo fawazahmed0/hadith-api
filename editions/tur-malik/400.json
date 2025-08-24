@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"9": "Shortening the Prayer"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 326,
-				"hadithnumber_last": 427,
-				"arabicnumber_first": 326,
-				"arabicnumber_last": 427
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 400,
-			"arabicnumber": 400,
-			"text": "İbn Ömer r.a.'den: Resuîullah Sallallahu Aleyhi ve Sellem, evinde öğlenin farzından önce ve sonra ikişer, akşamın farzından sonra evinde iki rekat sünnet kılardı. Yatsı namazının farzından sonra da iki rekat sünnet lalardı. Cuma namazının farzından sonra mescidde hiç sünnet kılmazdı. Odasına döner, orada iki rekatlı bir namaz kılardı. Diğer tahric: Buhari, Cum'a; Müslim, Salatu'l-Musafirîn",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "9": "Seferde Namazları Kısaltma"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 326,
+        "hadithnumber_last": 427,
+        "arabicnumber_first": 326,
+        "arabicnumber_last": 427
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 400,
+      "arabicnumber": 400,
+      "text": "İbn Ömer r.a.'den: Resuîullah Sallallahu Aleyhi ve Sellem, evinde öğlenin farzından önce ve sonra ikişer, akşamın farzından sonra evinde iki rekat sünnet kılardı. Yatsı namazının farzından sonra da iki rekat sünnet lalardı. Cuma namazının farzından sonra mescidde hiç sünnet kılmazdı. Odasına döner, orada iki rekatlı bir namaz kılardı. Diğer tahric: Buhari, Cum'a; Müslim, Salatu'l-Musafirîn",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 75
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"41": "Hudud"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 1500,
-				"hadithnumber_last": 1536,
-				"arabicnumber_first": 1500,
-				"arabicnumber_last": 1536
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1507,
-			"arabicnumber": 1507,
-			"text": "Abdullah b. Abbas (r.a.)'dan: «Ömer b. Hattab (r.a.)'ı işitim, şöyle diyordu: Allah'ın kitabında evli olup da zina eden ve suçları delil veya gebelik ya da itirafla sabit olan erkek ve kadına recm cezası vardır",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "41": "Hudud (Şer'î Cezalar)"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 1500,
+        "hadithnumber_last": 1536,
+        "arabicnumber_first": 1500,
+        "arabicnumber_last": 1536
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1507,
+      "arabicnumber": 1507,
+      "text": "Abdullah b. Abbas (r.a.)'dan: «Ömer b. Hattab (r.a.)'ı işitim, şöyle diyordu: Allah'ın kitabında evli olup da zina eden ve suçları delil veya gebelik ya da itirafla sabit olan erkek ve kadına recm cezası vardır",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 8
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"56": "Speech"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 1811,
-				"hadithnumber_last": 1838,
-				"arabicnumber_first": 1811,
-				"arabicnumber_last": 1838
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1828,
-			"arabicnumber": 1828,
-			"text": "İmam Malik'in rivayet ettiğine göre Abdullah b. Mesud (r.a.) şöyle derdi: Kul yalan konuşmaya devam ettikçe, Allah katında yalancılardan yazılıncaya ve kalbinin tamamı karanncaya kadar kalbinde siyah bir leke belirir. Mevkuftur, hükmü merfudur. Çünkü bu konuda içtihada yer yoktur",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 56,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "56": "Konuşma"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 1811,
+        "hadithnumber_last": 1838,
+        "arabicnumber_first": 1811,
+        "arabicnumber_last": 1838
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1828,
+      "arabicnumber": 1828,
+      "text": "İmam Malik'in rivayet ettiğine göre Abdullah b. Mesud (r.a.) şöyle derdi: Kul yalan konuşmaya devam ettikçe, Allah katında yalancılardan yazılıncaya ve kalbinin tamamı karanncaya kadar kalbinde siyah bir leke belirir. Mevkuftur, hükmü merfudur. Çünkü bu konuda içtihada yer yoktur",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 56,
+        "hadith": 18
+      }
+    }
+  ]
 }

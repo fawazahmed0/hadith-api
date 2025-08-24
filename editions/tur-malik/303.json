@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"8": "Prayer in Congregation"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 287,
-				"hadithnumber_last": 325,
-				"arabicnumber_first": 287,
-				"arabicnumber_last": 325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 303,
-			"arabicnumber": 303,
-			"text": "Enes b. Malik (r.a.) rivayet ediyor: Resulullah Sallallahu Aleyhi ve Sellem atla. giderken düştü, sağ yanı incindi. (Namaz vakti gelince) namazı oturarak kıldırdı, biz de arkasında oturarak kıldık. Namazı bitirince «İmam kendisine uyulması için imam kılındı. Onun için imam ayakta kılarsa siz de ayakta kılın. Rüku edince rüku edin. Başını kaldırınca siz de kaldırın *Semiallahu limen hamideh' deyince, siz 'rabbena ve lekel hamd' deyin. Oturarak kıldığı vakit hepiniz oturarak kılın.» buyurdu. Diğer tahric: Buhari, Ezan; Müslim, Salat; Şafiî, Risale, no:",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "8": "Cemaatle Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 287,
+        "hadithnumber_last": 325,
+        "arabicnumber_first": 287,
+        "arabicnumber_last": 325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 303,
+      "arabicnumber": 303,
+      "text": "Enes b. Malik (r.a.) rivayet ediyor: Resulullah Sallallahu Aleyhi ve Sellem atla. giderken düştü, sağ yanı incindi. (Namaz vakti gelince) namazı oturarak kıldırdı, biz de arkasında oturarak kıldık. Namazı bitirince «İmam kendisine uyulması için imam kılındı. Onun için imam ayakta kılarsa siz de ayakta kılın. Rüku edince rüku edin. Başını kaldırınca siz de kaldırın *Semiallahu limen hamideh' deyince, siz 'rabbena ve lekel hamd' deyin. Oturarak kıldığı vakit hepiniz oturarak kılın.» buyurdu. Diğer tahric: Buhari, Ezan; Müslim, Salat; Şafiî, Risale, no:",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 17
+      }
+    }
+  ]
 }

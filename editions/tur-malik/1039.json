@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"23": "Sacrificial Animals"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1028,
-				"hadithnumber_last": 1041,
-				"arabicnumber_first": 1028,
-				"arabicnumber_last": 1041
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1039,
-			"arabicnumber": 1039,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 23,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "23": "Kurbanlar"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1028,
+        "hadithnumber_last": 1041,
+        "arabicnumber_first": 1028,
+        "arabicnumber_last": 1041
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1039,
+      "arabicnumber": 1039,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 23,
+        "hadith": 12
+      }
+    }
+  ]
 }

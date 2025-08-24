@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"21": "Jihad"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 959,
-				"hadithnumber_last": 1008,
-				"arabicnumber_first": 959,
-				"arabicnumber_last": 1008
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1000,
-			"arabicnumber": 1000,
-			"text": "Muaz b. Cebel'den: Savaş iki türlüdür. Birinde en kıymetli mallar feda edilir, arkadaşlar birbirine yardım ederler, kumandanlara itaat edilir ve bozgunculuktan kaçılır. îşte bu türlü bir savaş baştan sona hayırlıdır. İkinci tür savaşta ise en kıymetli mallar harcanmaz. Arkadaşlar birbirlerine yardımcı olmazlar, kumandanlara itaat edilmez ve bozgunculuk yapmaktan kaçınılmaz. İşte bu çeşit savaşa katılanlar tatminkar bir şekilde geri dönemezler. Bu hadis, mevkuftur. Muaz'dan merfu' olarak da rivayet edilmiştir. Ebu Davud, Cihad; Nesaî, Cihad",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "21": "Cihad"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 959,
+        "hadithnumber_last": 1008,
+        "arabicnumber_first": 959,
+        "arabicnumber_last": 1008
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1000,
+      "arabicnumber": 1000,
+      "text": "Muaz b. Cebel'den: Savaş iki türlüdür. Birinde en kıymetli mallar feda edilir, arkadaşlar birbirine yardım ederler, kumandanlara itaat edilir ve bozgunculuktan kaçılır. îşte bu türlü bir savaş baştan sona hayırlıdır. İkinci tür savaşta ise en kıymetli mallar harcanmaz. Arkadaşlar birbirlerine yardımcı olmazlar, kumandanlara itaat edilmez ve bozgunculuk yapmaktan kaçınılmaz. İşte bu çeşit savaşa katılanlar tatminkar bir şekilde geri dönemezler. Bu hadis, mevkuftur. Muaz'dan merfu' olarak da rivayet edilmiştir. Ebu Davud, Cihad; Nesaî, Cihad",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 42
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"17": "Zakat"
-		},
-		"section_detail": {
-			"17": {
-				"hadithnumber_first": 578,
-				"hadithnumber_last": 629,
-				"arabicnumber_first": 578,
-				"arabicnumber_last": 629
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 615,
-			"arabicnumber": 615,
-			"text": "İbn Şihab'dan: Duyduğuma göre Resulullah Sallallahu Aleyhi ve Sellem, Bahreyn mecusilerinden cizye almıştır. Ömer b. Hattab îran mecusilerinden, Osman b. Affan da Berberî'lerden cizye almıştır. Diğer tahric: Tirmizî, Siyer",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih Lighairihi"
-				}
-			],
-			"reference": {
-				"book": 17,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "17": "Zekât"
+    },
+    "section_detail": {
+      "17": {
+        "hadithnumber_first": 578,
+        "hadithnumber_last": 629,
+        "arabicnumber_first": 578,
+        "arabicnumber_last": 629
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 615,
+      "arabicnumber": 615,
+      "text": "İbn Şihab'dan: Duyduğuma göre Resulullah Sallallahu Aleyhi ve Sellem, Bahreyn mecusilerinden cizye almıştır. Ömer b. Hattab îran mecusilerinden, Osman b. Affan da Berberî'lerden cizye almıştır. Diğer tahric: Tirmizî, Siyer",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih Lighairihi"
+        }
+      ],
+      "reference": {
+        "book": 17,
+        "hadith": 38
+      }
+    }
+  ]
 }

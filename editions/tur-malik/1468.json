@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"38": "Setting Free and Wala'"
-		},
-		"section_detail": {
-			"38": {
-				"hadithnumber_first": 1464,
-				"hadithnumber_last": 1488,
-				"arabicnumber_first": 1464,
-				"arabicnumber_last": 1488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1468,
-			"arabicnumber": 1468,
-			"text": "Abdullah b. Ömer (r.al'den rivayete göre, Ömer b. Hattab şöyle demiştir: \"Bir cariye efendisinden çocuk doğurursa efendisi onu satamaz. Bağışlayamaz ve miras olarak bırakamaz. Ondan faydalanır, efendi ölünce cariye hür olmuş olur.\" (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 38,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "38": "Itk (Köle Azadı) ve Velâ"
+    },
+    "section_detail": {
+      "38": {
+        "hadithnumber_first": 1464,
+        "hadithnumber_last": 1488,
+        "arabicnumber_first": 1464,
+        "arabicnumber_last": 1488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1468,
+      "arabicnumber": 1468,
+      "text": "Abdullah b. Ömer (r.al'den rivayete göre, Ömer b. Hattab şöyle demiştir: \"Bir cariye efendisinden çocuk doğurursa efendisi onu satamaz. Bağışlayamaz ve miras olarak bırakamaz. Ondan faydalanır, efendi ölünce cariye hür olmuş olur.\" (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 38,
+        "hadith": 5
+      }
+    }
+  ]
 }

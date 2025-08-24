@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"1": "The Times of Prayer"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 31,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 31
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5,
-			"arabicnumber": 5,
-			"text": "Ebu Hureyre (r.a.), Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu riva­yet etti: «Güneş doğmadan sabah namazının bir rek'atma yetişebilen kimse, sabah namazını kendi vaktinde kılmış olur. Güneş batmadan da ikindi namazının bir rek'atına yetişebilen ikindiyi kendi vaktinde kılmış olur.» Diğer tahric: Buharî, Mevakîtu's-Salat; Müslim, Mesacid",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "1": "Namaz Vakitleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 31,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 31
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5,
+      "arabicnumber": 5,
+      "text": "Ebu Hureyre (r.a.), Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu riva­yet etti: «Güneş doğmadan sabah namazının bir rek'atma yetişebilen kimse, sabah namazını kendi vaktinde kılmış olur. Güneş batmadan da ikindi namazının bir rek'atına yetişebilen ikindiyi kendi vaktinde kılmış olur.» Diğer tahric: Buharî, Mevakîtu's-Salat; Müslim, Mesacid",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 5
+      }
+    }
+  ]
 }

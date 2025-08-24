@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"3": "Prayer"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 146,
-				"hadithnumber_last": 221,
-				"arabicnumber_first": 146,
-				"arabicnumber_last": 221
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 197,
-			"arabicnumber": 197,
-			"text": "Ali bin Abdurrahnab el-Muaviye: Namazda çakıl taşlarıyla oynuyordum. Bunu gören Abdullah b. Ömer (r.a.): «— (Namazda) Resulullah'ın yaptığı gibi yap,» dedi. «— Resulullah Sallallahu Aleyhi ve Sellem nasıl yapardı?» dedim «— Resulullah namazda tahiyyata oturunca, sağ elini sağ uyluğunun üzerine koyar, parmaklarını yumar, şehadet parmağı ile işaret eder. Sol elini de sol uyluğunun üzerine koyardı,» dedi. Diğer tahric: Müslim, Mesacid",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "3": "Namaz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 146,
+        "hadithnumber_last": 221,
+        "arabicnumber_first": 146,
+        "arabicnumber_last": 221
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 197,
+      "arabicnumber": 197,
+      "text": "Ali bin Abdurrahnab el-Muaviye: Namazda çakıl taşlarıyla oynuyordum. Bunu gören Abdullah b. Ömer (r.a.): «— (Namazda) Resulullah'ın yaptığı gibi yap,» dedi. «— Resulullah Sallallahu Aleyhi ve Sellem nasıl yapardı?» dedim «— Resulullah namazda tahiyyata oturunca, sağ elini sağ uyluğunun üzerine koyar, parmaklarını yumar, şehadet parmağı ile işaret eder. Sol elini de sol uyluğunun üzerine koyardı,» dedi. Diğer tahric: Müslim, Mesacid",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 30
+      }
+    }
+  ]
 }

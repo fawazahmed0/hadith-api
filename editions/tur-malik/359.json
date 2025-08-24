@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"9": "Shortening the Prayer"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 326,
-				"hadithnumber_last": 427,
-				"arabicnumber_first": 326,
-				"arabicnumber_last": 427
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 359,
-			"arabicnumber": 359,
-			"text": "Aişe r.anha'dan: Aişe r.anha kuşluk namazım sekiz rekat kılar, sonra da: «Anam ve babam mezardan çıksa bile bırakmam!» derdi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "9": "Seferde Namazları Kısaltma"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 326,
+        "hadithnumber_last": 427,
+        "arabicnumber_first": 326,
+        "arabicnumber_last": 427
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 359,
+      "arabicnumber": 359,
+      "text": "Aişe r.anha'dan: Aişe r.anha kuşluk namazım sekiz rekat kılar, sonra da: «Anam ve babam mezardan çıksa bile bırakmam!» derdi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 34
+      }
+    }
+  ]
 }

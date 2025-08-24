@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 932,
-			"arabicnumber": 932,
-			"text": "Cabir b. Abdullah el-Ensarî (radıyallahü anh)'den: Resûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: «Herhangi bir kişiye ve çocuklarına bir Umra hibe edilirse, bu o kişinin olur. Bu Umra, hiç bir zaman hibe eden kişiye geri dönmez. Çünkü hibe edenin hibesi, miras hükümlerinin geçerli olduğu bir hibedir.» Müslim, Hibât, 24/4, no: 20; Şeybanî",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 932,
+      "arabicnumber": 932,
+      "text": "Cabir b. Abdullah el-Ensarî (radıyallahü anh)'den: Resûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: «Herhangi bir kişiye ve çocuklarına bir Umra hibe edilirse, bu o kişinin olur. Bu Umra, hiç bir zaman hibe eden kişiye geri dönmez. Çünkü hibe edenin hibesi, miras hükümlerinin geçerli olduğu bir hibedir.» Müslim, Hibât, 24/4, no: 20; Şeybanî",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 5
+      }
+    }
+  ]
 }

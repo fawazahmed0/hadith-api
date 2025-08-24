@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"18": "Fasting"
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 630,
-				"hadithnumber_last": 689,
-				"arabicnumber_first": 630,
-				"arabicnumber_last": 689
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 656,
-			"arabicnumber": 656,
-			"text": "Nafi' (r.a.)'den rivayete göre, Abdullah b. Ömer yolculukta oruç tutmazdı. (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 18,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "18": "Oruç"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 630,
+        "hadithnumber_last": 689,
+        "arabicnumber_first": 630,
+        "arabicnumber_last": 689
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 656,
+      "arabicnumber": 656,
+      "text": "Nafi' (r.a.)'den rivayete göre, Abdullah b. Ömer yolculukta oruç tutmazdı. (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 18,
+        "hadith": 27
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"21": "Jihad"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 959,
-				"hadithnumber_last": 1008,
-				"arabicnumber_first": 959,
-				"arabicnumber_last": 1008
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 997,
-			"arabicnumber": 997,
-			"text": "Ebu Hureyre'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Eğer ümmetime meşakkat yüklemiş olmasaydım Allah yolunda hiç bir seriyyeden geri kalmazdım. Fakat onları bindirecek binek bulamadım, onlar da bundan sonra binecek vasıta bulamaz. Benden sonra benim gibi her sefere çıkamamak onlara ağır gelir. Halbuki Allah yolunda savaşıp öldürülmeyi, sonra diriltilip tekrar öldürülmeyi, sonra diriltilip tekrar öldürülmeyi ne kadar çok isterdim.» Diğer tahric: Buhari, Cihad; Müslim, İmaret",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 39
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "21": "Cihad"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 959,
+        "hadithnumber_last": 1008,
+        "arabicnumber_first": 959,
+        "arabicnumber_last": 1008
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 997,
+      "arabicnumber": 997,
+      "text": "Ebu Hureyre'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Eğer ümmetime meşakkat yüklemiş olmasaydım Allah yolunda hiç bir seriyyeden geri kalmazdım. Fakat onları bindirecek binek bulamadım, onlar da bundan sonra binecek vasıta bulamaz. Benden sonra benim gibi her sefere çıkamamak onlara ağır gelir. Halbuki Allah yolunda savaşıp öldürülmeyi, sonra diriltilip tekrar öldürülmeyi, sonra diriltilip tekrar öldürülmeyi ne kadar çok isterdim.» Diğer tahric: Buhari, Cihad; Müslim, İmaret",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 39
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 901,
-			"arabicnumber": 901,
-			"text": "Abdullah b. Ömer'den: Resulullah Sallallahu Aleyhi ve Sellem akşamla yatsıyı Müzdelife'de beraber kıldı. Diğer tahric: Buharî, Hac; Müslim, Hac",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 197
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 901,
+      "arabicnumber": 901,
+      "text": "Abdullah b. Ömer'den: Resulullah Sallallahu Aleyhi ve Sellem akşamla yatsıyı Müzdelife'de beraber kıldı. Diğer tahric: Buharî, Hac; Müslim, Hac",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 197
+      }
+    }
+  ]
 }

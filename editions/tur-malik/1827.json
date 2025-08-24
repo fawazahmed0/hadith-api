@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"56": "Speech"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 1811,
-				"hadithnumber_last": 1838,
-				"arabicnumber_first": 1811,
-				"arabicnumber_last": 1838
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1827,
-			"arabicnumber": 1827,
-			"text": "İmam Malik'e şöyle rivayet edildi: Lokman'a ondaki fazileti kast ederek: «— Gördüğümüz bu fazilete seni ulaştıran nedir? diye sorulduğunda, Lokman: «Doğru konuşmak, emaneti yerine getirmek ve gereksiz işleri terk etmek» diye cevap verdi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih Lighairihi"
-				}
-			],
-			"reference": {
-				"book": 56,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "56": "Konuşma"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 1811,
+        "hadithnumber_last": 1838,
+        "arabicnumber_first": 1811,
+        "arabicnumber_last": 1838
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1827,
+      "arabicnumber": 1827,
+      "text": "İmam Malik'e şöyle rivayet edildi: Lokman'a ondaki fazileti kast ederek: «— Gördüğümüz bu fazilete seni ulaştıran nedir? diye sorulduğunda, Lokman: «Doğru konuşmak, emaneti yerine getirmek ve gereksiz işleri terk etmek» diye cevap verdi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih Lighairihi"
+        }
+      ],
+      "reference": {
+        "book": 56,
+        "hadith": 17
+      }
+    }
+  ]
 }

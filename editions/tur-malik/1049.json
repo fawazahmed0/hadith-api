@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"24": "Slaughtering Animals"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1042,
-				"hadithnumber_last": 1051,
-				"arabicnumber_first": 1042,
-				"arabicnumber_last": 1051
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1049,
-			"arabicnumber": 1049,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "24": "Hayvan Kesme"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1042,
+        "hadithnumber_last": 1051,
+        "arabicnumber_first": 1042,
+        "arabicnumber_last": 1051
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1049,
+      "arabicnumber": 1049,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 8
+      }
+    }
+  ]
 }

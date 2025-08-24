@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"29": "Divorce"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 1150,
-				"hadithnumber_last": 1271,
-				"arabicnumber_first": 1150,
-				"arabicnumber_last": 1271
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1233,
-			"arabicnumber": 1233,
-			"text": "Said b. el-Müseyyeb der ki: «Bir kadınla evlenip cinsî ilişkiye muktedir olamıyan bir kocaya bir sene mühlet verilir. (Bu bir sene içerisinde) birleşebilirse ne ala. Edemezse birbirinden ayrılırlar.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Daif"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "29": "Talak (Boşama/Boşanma)"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 1150,
+        "hadithnumber_last": 1271,
+        "arabicnumber_first": 1150,
+        "arabicnumber_last": 1271
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1233,
+      "arabicnumber": 1233,
+      "text": "Said b. el-Müseyyeb der ki: «Bir kadınla evlenip cinsî ilişkiye muktedir olamıyan bir kocaya bir sene mühlet verilir. (Bu bir sene içerisinde) birleşebilirse ne ala. Edemezse birbirinden ayrılırlar.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Daif"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 30
+      }
+    }
+  ]
 }

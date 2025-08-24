@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"8": "Prayer in Congregation"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 287,
-				"hadithnumber_last": 325,
-				"arabicnumber_first": 287,
-				"arabicnumber_last": 325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 305,
-			"arabicnumber": 305,
-			"text": "Urve anlatıyor: Resulullah Sallallahu Aleyhi ve Sellem hastalandığında mescide geldi» Ebu Bekir (r.a.) ayakta cemaate namaz kıldırıyordu. Resul-i Ekrem'in geldiğini farkeden Ebu Bekir geri çekilmek istedi. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem, olduğun yerde kal, diye işaret ederek Ebu Bekir'in yanına oturdu. Ebu Bekir oturarak kılan Resulullah'a uyarak, cemaat de Ebu Bekir'e uyarak namaz kılıyorlardı. Diğer tahric: Buhari, Ezan",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 19
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "8": "Cemaatle Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 287,
+        "hadithnumber_last": 325,
+        "arabicnumber_first": 287,
+        "arabicnumber_last": 325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 305,
+      "arabicnumber": 305,
+      "text": "Urve anlatıyor: Resulullah Sallallahu Aleyhi ve Sellem hastalandığında mescide geldi» Ebu Bekir (r.a.) ayakta cemaate namaz kıldırıyordu. Resul-i Ekrem'in geldiğini farkeden Ebu Bekir geri çekilmek istedi. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem, olduğun yerde kal, diye işaret ederek Ebu Bekir'in yanına oturdu. Ebu Bekir oturarak kılan Resulullah'a uyarak, cemaat de Ebu Bekir'e uyarak namaz kılıyorlardı. Diğer tahric: Buhari, Ezan",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 19
+      }
+    }
+  ]
 }

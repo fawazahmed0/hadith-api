@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"2": "Purity"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 32,
-				"hadithnumber_last": 145,
-				"arabicnumber_first": 32,
-				"arabicnumber_last": 145
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 95,
-			"arabicnumber": 95,
-			"text": "Saiım, babası Abdullah b, Ömer (r.a.)'den rivayet eder, Abdullah (r.a.) şöyle derdi: «Erkeğin hanımını öpmesi ve eliyle ona dokunması (mulamese) den sayılır. Bu yüzden kim hanımını öper, yahut eliyle ona dokunursa abdest alması gerekir.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "2": "Taharet (Temizlik)"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 32,
+        "hadithnumber_last": 145,
+        "arabicnumber_first": 32,
+        "arabicnumber_last": 145
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 95,
+      "arabicnumber": 95,
+      "text": "Saiım, babası Abdullah b, Ömer (r.a.)'den rivayet eder, Abdullah (r.a.) şöyle derdi: «Erkeğin hanımını öpmesi ve eliyle ona dokunması (mulamese) den sayılır. Bu yüzden kim hanımını öper, yahut eliyle ona dokunursa abdest alması gerekir.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 64
+      }
+    }
+  ]
 }

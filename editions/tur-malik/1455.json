@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"37": "Wills and Testaments"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 1455,
-				"hadithnumber_last": 1463,
-				"arabicnumber_first": 1455,
-				"arabicnumber_last": 1463
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1455,
-			"arabicnumber": 1455,
-			"text": "Abdullah b. Ömer (r.a)'den rivayete göre, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Vasiyet edilebilecek bir mal'a sahip olan Müslüman kişinin yanında vasiyeti yazılı olmadan iki gece geçirmesi doğru değildir.\" Diğer tahric: Buharı, Vesaya; Müslim, Vasiyet",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "37": "Vasıyyet"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 1455,
+        "hadithnumber_last": 1463,
+        "arabicnumber_first": 1455,
+        "arabicnumber_last": 1463
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1455,
+      "arabicnumber": 1455,
+      "text": "Abdullah b. Ömer (r.a)'den rivayete göre, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Vasiyet edilebilecek bir mal'a sahip olan Müslüman kişinin yanında vasiyeti yazılı olmadan iki gece geçirmesi doğru değildir.\" Diğer tahric: Buharı, Vesaya; Müslim, Vasiyet",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 1
+      }
+    }
+  ]
 }

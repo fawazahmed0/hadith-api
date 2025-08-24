@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"48": "Dress"
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 1651,
-				"hadithnumber_last": 1670,
-				"arabicnumber_first": 1651,
-				"arabicnumber_last": 1670
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1667,
-			"arabicnumber": 1667,
-			"text": "Süheyl'in babası Malik, Ka'b el-Ahbar'dan naklen şöyle rivayet etti: Bir adam ayakkabılarını çıkartınca Ka'b el-Ahbar: «— Ayakkabılarını niçin çıkarttın? Galiba: «(Ey Musa!) Haydi pabuçlarını çıkar, Çünki sen mukaddes vadide, Tuva'dasın (Turi Sinadasın)» [Taha 12] ayetini yorumladın.» deyip sonra adama: «— Musa'nın pabuçları ne idi biliyor musun?» dedi. Malik der ki: Adamın ne cevap verdiğini bilmiyorum. Ka'b: «Musa (a.s.)'ın pabuçları eşek derisindendi» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 48,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "48": "Giyim-Kuşam"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 1651,
+        "hadithnumber_last": 1670,
+        "arabicnumber_first": 1651,
+        "arabicnumber_last": 1670
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1667,
+      "arabicnumber": 1667,
+      "text": "Süheyl'in babası Malik, Ka'b el-Ahbar'dan naklen şöyle rivayet etti: Bir adam ayakkabılarını çıkartınca Ka'b el-Ahbar: «— Ayakkabılarını niçin çıkarttın? Galiba: «(Ey Musa!) Haydi pabuçlarını çıkar, Çünki sen mukaddes vadide, Tuva'dasın (Turi Sinadasın)» [Taha 12] ayetini yorumladın.» deyip sonra adama: «— Musa'nın pabuçları ne idi biliyor musun?» dedi. Malik der ki: Adamın ne cevap verdiğini bilmiyorum. Ka'b: «Musa (a.s.)'ın pabuçları eşek derisindendi» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 48,
+        "hadith": 17
+      }
+    }
+  ]
 }

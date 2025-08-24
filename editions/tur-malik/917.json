@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 917,
-			"arabicnumber": 917,
-			"text": "Abdullah b. Ömer'den: Bayram günlerinde her kim Mina 'da iken güneş batarsa, ertesi günün taşlarını atmadan dönmesin",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 213
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 917,
+      "arabicnumber": 917,
+      "text": "Abdullah b. Ömer'den: Bayram günlerinde her kim Mina 'da iken güneş batarsa, ertesi günün taşlarını atmadan dönmesin",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 213
+      }
+    }
+  ]
 }

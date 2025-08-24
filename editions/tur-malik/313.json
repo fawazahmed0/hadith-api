@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"8": "Prayer in Congregation"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 287,
-				"hadithnumber_last": 325,
-				"arabicnumber_first": 287,
-				"arabicnumber_last": 325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 313,
-			"arabicnumber": 313,
-			"text": "Amr b. Rafi anlatıyor: Mu'minlerin annesi Hafsa Mushaf-ı şerifi yazarken: «Hafizuu alessalevaati vessalatil vustaa ve kumu lillahi kaanitiyn» ayetine gelince bana haber ver dedi. Bu ayete ulaştığımı kendisine bildirince, bana şöyle yazdırdı: «Hafizuu alessalevaati vessalatil vustaa —ve salatil asri —ve kumu lillahi kaanitiyn.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Hasan"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "8": "Cemaatle Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 287,
+        "hadithnumber_last": 325,
+        "arabicnumber_first": 287,
+        "arabicnumber_last": 325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 313,
+      "arabicnumber": 313,
+      "text": "Amr b. Rafi anlatıyor: Mu'minlerin annesi Hafsa Mushaf-ı şerifi yazarken: «Hafizuu alessalevaati vessalatil vustaa ve kumu lillahi kaanitiyn» ayetine gelince bana haber ver dedi. Bu ayete ulaştığımı kendisine bildirince, bana şöyle yazdırdı: «Hafizuu alessalevaati vessalatil vustaa —ve salatil asri —ve kumu lillahi kaanitiyn.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Hasan"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 27
+      }
+    }
+  ]
 }

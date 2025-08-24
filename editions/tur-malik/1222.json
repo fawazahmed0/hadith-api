@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"29": "Divorce"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 1150,
-				"hadithnumber_last": 1271,
-				"arabicnumber_first": 1150,
-				"arabicnumber_last": 1271
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1222,
-			"arabicnumber": 1222,
-			"text": "Nafi'den: Hz. Osman'ın torunu Abdullah'ın talak-ı bainle boşadığı karısı, İbn Nufeyl'in torunu Said'in kızı (iddetini kocasının evinde beklemeyerek) taşındı. Abdullah b. Ömer, iddeti bitmeden kocasının evinden taşınmasını hoşgörmedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 19
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "29": "Talak (Boşama/Boşanma)"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 1150,
+        "hadithnumber_last": 1271,
+        "arabicnumber_first": 1150,
+        "arabicnumber_last": 1271
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1222,
+      "arabicnumber": 1222,
+      "text": "Nafi'den: Hz. Osman'ın torunu Abdullah'ın talak-ı bainle boşadığı karısı, İbn Nufeyl'in torunu Said'in kızı (iddetini kocasının evinde beklemeyerek) taşındı. Abdullah b. Ömer, iddeti bitmeden kocasının evinden taşınmasını hoşgörmedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 19
+      }
+    }
+  ]
 }

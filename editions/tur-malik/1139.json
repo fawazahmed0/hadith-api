@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"28": "Marriage"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 1091,
-				"hadithnumber_last": 1149,
-				"arabicnumber_first": 1091,
-				"arabicnumber_last": 1149
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1139,
-			"arabicnumber": 1139,
-			"text": "Enes b. Malik (r.a.) anlatıyor: Abdurrahman b. Avf (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in huzuruna geldi, üzerinde evlilik belirtisi vardı. Resul-i Ekrem sorunca evlendiğini söyledi. Resulullah Sallallahu Aleyhi ve Sellem ne kadar mehir verdiğini sordu, o da: «— Bir hurma çekirdeği ağırlığında altın verdim» dedi. Bunun üzerine Nebi s.a.v.: «— Bir koyun da olsa kes, düğün yap» buyurdu. Diğer tahric: Buhari, Nikah; Müslim, Nikah",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 49
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "28": "Nikâh"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 1091,
+        "hadithnumber_last": 1149,
+        "arabicnumber_first": 1091,
+        "arabicnumber_last": 1149
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1139,
+      "arabicnumber": 1139,
+      "text": "Enes b. Malik (r.a.) anlatıyor: Abdurrahman b. Avf (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in huzuruna geldi, üzerinde evlilik belirtisi vardı. Resul-i Ekrem sorunca evlendiğini söyledi. Resulullah Sallallahu Aleyhi ve Sellem ne kadar mehir verdiğini sordu, o da: «— Bir hurma çekirdeği ağırlığında altın verdim» dedi. Bunun üzerine Nebi s.a.v.: «— Bir koyun da olsa kes, düğün yap» buyurdu. Diğer tahric: Buhari, Nikah; Müslim, Nikah",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 49
+      }
+    }
+  ]
 }

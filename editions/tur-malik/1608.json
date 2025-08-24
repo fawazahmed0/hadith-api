@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"45": "Madina"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 1598,
-				"hadithnumber_last": 1622,
-				"arabicnumber_first": 1598,
-				"arabicnumber_last": 1622
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1608,
-			"arabicnumber": 1608,
-			"text": "Ebu Hureyre (r.a.) şöyle derdi: «Ben Medine'de ceylanları otlar halde görsem onları ürkütmem. Çünkü Resulullah Sallallahu Aleyhi ve Sellem «İki kara taşlığın arasındaki Medine haremdir» buyurdu",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 45,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "45": "Medine"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 1598,
+        "hadithnumber_last": 1622,
+        "arabicnumber_first": 1598,
+        "arabicnumber_last": 1622
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1608,
+      "arabicnumber": 1608,
+      "text": "Ebu Hureyre (r.a.) şöyle derdi: «Ben Medine'de ceylanları otlar halde görsem onları ürkütmem. Çünkü Resulullah Sallallahu Aleyhi ve Sellem «İki kara taşlığın arasındaki Medine haremdir» buyurdu",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 45,
+        "hadith": 11
+      }
+    }
+  ]
 }

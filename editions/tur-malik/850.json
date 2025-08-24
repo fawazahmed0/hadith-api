@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 850,
-			"arabicnumber": 850,
-			"text": "İmam Malik,.Abdullah b. Dinar'a: «—Abdullah b. Ömer'in Kabe'ye göndereceği develer için yaptırıp sonra da Kabe'ye gönderdiği çullar ne oldu?» diye sordu. O da: «— Onlar sadaka olurdu» cevabını verdi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 146
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 850,
+      "arabicnumber": 850,
+      "text": "İmam Malik,.Abdullah b. Dinar'a: «—Abdullah b. Ömer'in Kabe'ye göndereceği develer için yaptırıp sonra da Kabe'ye gönderdiği çullar ne oldu?» diye sordu. O da: «— Onlar sadaka olurdu» cevabını verdi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 146
+      }
+    }
+  ]
 }

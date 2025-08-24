@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"17": "Zakat"
-		},
-		"section_detail": {
-			"17": {
-				"hadithnumber_first": 578,
-				"hadithnumber_last": 629,
-				"arabicnumber_first": 578,
-				"arabicnumber_last": 629
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 593,
-			"arabicnumber": 593,
-			"text": "Saib b. Yezid'den: Osman b. Affan şöyle derdi: «— işte bu zekatınızı verme ayıdır. Kimin borcu varsa alacaklısına ödesin. Böylece tahsil etmiş olduğunuz alacaklarınızın zekatını verebilirsiniz.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 17,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "17": "Zekât"
+    },
+    "section_detail": {
+      "17": {
+        "hadithnumber_first": 578,
+        "hadithnumber_last": 629,
+        "arabicnumber_first": 578,
+        "arabicnumber_last": 629
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 593,
+      "arabicnumber": 593,
+      "text": "Saib b. Yezid'den: Osman b. Affan şöyle derdi: «— işte bu zekatınızı verme ayıdır. Kimin borcu varsa alacaklısına ödesin. Böylece tahsil etmiş olduğunuz alacaklarınızın zekatını verebilirsiniz.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 17,
+        "hadith": 16
+      }
+    }
+  ]
 }

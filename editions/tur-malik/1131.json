@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"28": "Marriage"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 1091,
-				"hadithnumber_last": 1149,
-				"arabicnumber_first": 1091,
-				"arabicnumber_last": 1149
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1131,
-			"arabicnumber": 1131,
-			"text": "Saîd b. el-Müseyyeb der ki: Kadınlardan muhsana olanlar, kocası olan evli kadınlardır. Bunlarla da evlenmek caiz değildir. Evlenince nikah batıldır, zina sayılır. Zinayı ise Allah haram kılmıştır",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "28": "Nikâh"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 1091,
+        "hadithnumber_last": 1149,
+        "arabicnumber_first": 1091,
+        "arabicnumber_last": 1149
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1131,
+      "arabicnumber": 1131,
+      "text": "Saîd b. el-Müseyyeb der ki: Kadınlardan muhsana olanlar, kocası olan evli kadınlardır. Bunlarla da evlenmek caiz değildir. Evlenince nikah batıldır, zina sayılır. Zinayı ise Allah haram kılmıştır",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 41
+      }
+    }
+  ]
 }

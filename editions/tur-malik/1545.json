@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"42": "Drinks"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 1537,
-				"hadithnumber_last": 1551,
-				"arabicnumber_first": 1537,
-				"arabicnumber_last": 1551
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1545,
-			"arabicnumber": 1545,
-			"text": "Nebi s.a.v.'in zevcesi Aişe r.anha'dan: Resulullah Sallallahu Aleyhi ve Sellem'e Bid’ (bal şerbeti) nin hükmü sorulunca: «Sarhoş edici her içki haramdır» buyurdu",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "42": "İçecekler ve İçkiler"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 1537,
+        "hadithnumber_last": 1551,
+        "arabicnumber_first": 1537,
+        "arabicnumber_last": 1551
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1545,
+      "arabicnumber": 1545,
+      "text": "Nebi s.a.v.'in zevcesi Aişe r.anha'dan: Resulullah Sallallahu Aleyhi ve Sellem'e Bid’ (bal şerbeti) nin hükmü sorulunca: «Sarhoş edici her içki haramdır» buyurdu",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 9
+      }
+    }
+  ]
 }

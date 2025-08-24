@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"9": "Shortening the Prayer"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 326,
-				"hadithnumber_last": 427,
-				"arabicnumber_first": 326,
-				"arabicnumber_last": 427
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 399,
-			"arabicnumber": 399,
-			"text": "Abdullah b. Dinar'dan: Abdullah b. Ömer'i gördüm, Resulullah Sallallahu Aleyhi ve Sellem'in kabri başında durmuş ona salavat getiriyor, Ebu Bekir ve Ömer'e de dua ediyordu",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 74
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "9": "Seferde Namazları Kısaltma"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 326,
+        "hadithnumber_last": 427,
+        "arabicnumber_first": 326,
+        "arabicnumber_last": 427
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 399,
+      "arabicnumber": 399,
+      "text": "Abdullah b. Dinar'dan: Abdullah b. Ömer'i gördüm, Resulullah Sallallahu Aleyhi ve Sellem'in kabri başında durmuş ona salavat getiriyor, Ebu Bekir ve Ömer'e de dua ediyordu",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 74
+      }
+    }
+  ]
 }

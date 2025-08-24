@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"27": "Fara'id"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 1074,
-				"hadithnumber_last": 1089,
-				"arabicnumber_first": 1074,
-				"arabicnumber_last": 1089
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1080,
-			"arabicnumber": 1080,
-			"text": "Zeyd b. Eslem der ki: Ömer b. el-Hattab, Resulullah Sallallahu Aleyhi ve Sellem'e kelale'nin (mirasçısız ölenin) mirasım sordu. Resulullah Sallallahu Aleyhi ve Sellem de şöyle cevap verdi: «— Sana bu konuda, yazın indirilen Nisa suresinin son ayeti yeterlidir.» Diğer tahric: Müslim, Feraid",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih Lighairihi"
-				}
-			],
-			"reference": {
-				"book": 27,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "27": "Feraiz (Miras)"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 1074,
+        "hadithnumber_last": 1089,
+        "arabicnumber_first": 1074,
+        "arabicnumber_last": 1089
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1080,
+      "arabicnumber": 1080,
+      "text": "Zeyd b. Eslem der ki: Ömer b. el-Hattab, Resulullah Sallallahu Aleyhi ve Sellem'e kelale'nin (mirasçısız ölenin) mirasım sordu. Resulullah Sallallahu Aleyhi ve Sellem de şöyle cevap verdi: «— Sana bu konuda, yazın indirilen Nisa suresinin son ayeti yeterlidir.» Diğer tahric: Müslim, Feraid",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih Lighairihi"
+        }
+      ],
+      "reference": {
+        "book": 27,
+        "hadith": 7
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"41": "Hudud"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 1500,
-				"hadithnumber_last": 1536,
-				"arabicnumber_first": 1500,
-				"arabicnumber_last": 1536
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1511,
-			"arabicnumber": 1511,
-			"text": "Zeyd b. Eslem'den: «Resulullah Sallallahu Aleyhi ve Sellem zamanında bir adam zina yaptığını itiraf edince, Resulullah bir kırbaç istedi. He­men kendisine kırık bir kırbaç getirilince: «— Daha sağlamını» buyurdu. Bu defa budakları kesilmemiş yeni bir sopa getirilince: «— Biraz küçüğünü» buyurdu. Bu defa da budakları kesilmiş düzgün ve eğilebilen bir kırbaç getirilince Resulullah Sallallahu Aleyhi ve Sellem emretti, adam kırbaçlandı. Sonra Resulullah s.a.v. şöyle buyurdu: «— Ey insanlar! Allah'ın takdir ettiği cezalardan uzaklaşma zamanı geldi. Şu çirkin şeylerden birini kim işlerse açığa vurmasın, tevbe ve Allah'ın affıyla gizli kalsın. Zira kim gizlenmesi gereken şeyi açığa çıkarırsa, biz de Allah'ın kitabını (hükmünü) kendisine tatbik ederiz»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "41": "Hudud (Şer'î Cezalar)"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 1500,
+        "hadithnumber_last": 1536,
+        "arabicnumber_first": 1500,
+        "arabicnumber_last": 1536
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1511,
+      "arabicnumber": 1511,
+      "text": "Zeyd b. Eslem'den: «Resulullah Sallallahu Aleyhi ve Sellem zamanında bir adam zina yaptığını itiraf edince, Resulullah bir kırbaç istedi. He­men kendisine kırık bir kırbaç getirilince: «— Daha sağlamını» buyurdu. Bu defa budakları kesilmemiş yeni bir sopa getirilince: «— Biraz küçüğünü» buyurdu. Bu defa da budakları kesilmiş düzgün ve eğilebilen bir kırbaç getirilince Resulullah Sallallahu Aleyhi ve Sellem emretti, adam kırbaçlandı. Sonra Resulullah s.a.v. şöyle buyurdu: «— Ey insanlar! Allah'ın takdir ettiği cezalardan uzaklaşma zamanı geldi. Şu çirkin şeylerden birini kim işlerse açığa vurmasın, tevbe ve Allah'ın affıyla gizli kalsın. Zira kim gizlenmesi gereken şeyi açığa çıkarırsa, biz de Allah'ın kitabını (hükmünü) kendisine tatbik ederiz»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 12
+      }
+    }
+  ]
 }

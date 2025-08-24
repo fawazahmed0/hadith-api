@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 784,
-			"arabicnumber": 784,
-			"text": "Ata b. Yesar'dan: Ka*bül Ahbar, Şam taraflarında bir grup insanla karşılaştı. Onlar yolda bir müddet gittikten sonra av eti bulmuşlardı. Ka'b onlara bu eti yiyebileceklerini söylemiş. Onlar Medine'ye gelince durumu Ömer b. Hattab'a anlattılar. Hz. Ömer onlara: «— Size yenebileceğine dair fetvayı kim verdi?» diye sordu. Dnlar: «— Ka'b» dediler. Bunun üzerine Hz. Ömer: «— Dönünceye kadar onu size başkan tayin etmiştim.» dedi. Daha sonra bu kafile Mekke yolunda bir yerde çekirge sürüsü­ne rastladı. Ka'b onlara çekirgeleri yakalayıp yiyebileceklerini söyledi. Ömer b. Hattab'a gelince bu durumu da arzettiler. Hz. Ömer: «— Neye dayanarak bu fetvayı verdin?» diye sordu. Ka'b da: # «—Deniz avına!» diye cevap verdi. Hz. Ömer: «— Ne biliyorsun?» dedi. Ka'b: «— Ey mü'minlerin emîri! Kuvvet ve iradesiyle yaşadığım Allah'a yemin ederim ki senede birkaç defa kıyıya vuran balıklardan onların farkı yoktur.» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 80
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 784,
+      "arabicnumber": 784,
+      "text": "Ata b. Yesar'dan: Ka*bül Ahbar, Şam taraflarında bir grup insanla karşılaştı. Onlar yolda bir müddet gittikten sonra av eti bulmuşlardı. Ka'b onlara bu eti yiyebileceklerini söylemiş. Onlar Medine'ye gelince durumu Ömer b. Hattab'a anlattılar. Hz. Ömer onlara: «— Size yenebileceğine dair fetvayı kim verdi?» diye sordu. Dnlar: «— Ka'b» dediler. Bunun üzerine Hz. Ömer: «— Dönünceye kadar onu size başkan tayin etmiştim.» dedi. Daha sonra bu kafile Mekke yolunda bir yerde çekirge sürüsü­ne rastladı. Ka'b onlara çekirgeleri yakalayıp yiyebileceklerini söyledi. Ömer b. Hattab'a gelince bu durumu da arzettiler. Hz. Ömer: «— Neye dayanarak bu fetvayı verdin?» diye sordu. Ka'b da: # «—Deniz avına!» diye cevap verdi. Hz. Ömer: «— Ne biliyorsun?» dedi. Ka'b: «— Ey mü'minlerin emîri! Kuvvet ve iradesiyle yaşadığım Allah'a yemin ederim ki senede birkaç defa kıyıya vuran balıklardan onların farkı yoktur.» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 80
+      }
+    }
+  ]
 }

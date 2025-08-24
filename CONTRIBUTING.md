@@ -78,6 +78,32 @@ And next line with editions to be deleted<br>
 
 4. Follow the steps given [here](#add-new-translations).
 
+### Updating Section Names
+
+When you update section names in a main edition file (e.g., `editions/tur-malik.json`), you should also update all related files to keep section names consistent across the API. To automate this, use the `update_section_names.js` script.
+
+#### What It Does
+
+- Updates section names in:
+    - The minified edition file (e.g., `editions/tur-malik.min.json`)
+    - All hadith files in the edition folder (e.g., `editions/tur-malik/*.json`)
+    - All section files in the edition's sections folder (e.g., `editions/tur-malik/sections/*.json`)
+- Minifies files with `min` in their name, keeps others prettified.
+
+#### How to Use
+
+1. Make sure you have [Node.js](https://nodejs.org/) installed.
+2. Update the section names in your main edition file (e.g., `editions/tur-malik.json`).
+3. Run the script from the project root:
+     ```sh
+     node update_section_names.js <edition-name>
+     ```
+     Example:
+     ```sh
+     node update_section_names.js tur-malik
+     ```
+4. The script will update all relevant files for the given edition.
+
 <br>
 
 Facing any issue? [Let me Know](https://github.com/fawazahmed0/hadith-api/issues/new "Let me Know ")

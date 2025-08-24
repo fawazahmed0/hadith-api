@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"36": "Judgements"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 1399,
-				"hadithnumber_last": 1454,
-				"arabicnumber_first": 1399,
-				"arabicnumber_last": 1454
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1422,
-			"arabicnumber": 1422,
-			"text": "Ebu Ümeyye'nin oğlu Abdullah'dan: Kocası ölen bir kadın dört ay on gün iddet bekledi. Sonra iddeti bitince evlendi ve kocasının yanında dört buçuk ay kaldıktan sonra eksiksiz bir bebek doğurdu. Bunun üzerine kocası, Ömer b. Hattab'a gelerek durumu anlattı. Ömer de, yaşlı ve cahiliyet devrinden kalma kadınlardan bir kısım (tecrübeli) kadınları çağırarak, onlara bu konuyu sordu. İçlerinden bir kadın: «— Bu kadının durumunu ben sana izah edeyim. O, ilk kocasından hamile olunca, kocası öldü. Gebe olduğu halde, aybaşı görmesi üzerine, rahmindeki çocuğun gelişmesi durdu, ikinci kocasının menisi çocuğa temas edince rahminde çocuk harekete geçti ve büyüdü» dedi. Bunun üzerine Hz. Ömer, yaşlı kadımn sözünü doğru bularak karı-kocayı birbirinden ayırdı ve (onlara): «— Hakkınızda bildiğim tek şey iyiliktir» dedi ve çocuğu ilk ölen kocasına verdi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "36": "Akdiye (Yargılama)"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 1399,
+        "hadithnumber_last": 1454,
+        "arabicnumber_first": 1399,
+        "arabicnumber_last": 1454
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1422,
+      "arabicnumber": 1422,
+      "text": "Ebu Ümeyye'nin oğlu Abdullah'dan: Kocası ölen bir kadın dört ay on gün iddet bekledi. Sonra iddeti bitince evlendi ve kocasının yanında dört buçuk ay kaldıktan sonra eksiksiz bir bebek doğurdu. Bunun üzerine kocası, Ömer b. Hattab'a gelerek durumu anlattı. Ömer de, yaşlı ve cahiliyet devrinden kalma kadınlardan bir kısım (tecrübeli) kadınları çağırarak, onlara bu konuyu sordu. İçlerinden bir kadın: «— Bu kadının durumunu ben sana izah edeyim. O, ilk kocasından hamile olunca, kocası öldü. Gebe olduğu halde, aybaşı görmesi üzerine, rahmindeki çocuğun gelişmesi durdu, ikinci kocasının menisi çocuğa temas edince rahminde çocuk harekete geçti ve büyüdü» dedi. Bunun üzerine Hz. Ömer, yaşlı kadımn sözünü doğru bularak karı-kocayı birbirinden ayırdı ve (onlara): «— Hakkınızda bildiğim tek şey iyiliktir» dedi ve çocuğu ilk ölen kocasına verdi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 24
+      }
+    }
+  ]
 }

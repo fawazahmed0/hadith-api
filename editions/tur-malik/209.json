@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"3": "Prayer"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 146,
-				"hadithnumber_last": 221,
-				"arabicnumber_first": 146,
-				"arabicnumber_last": 221
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 209,
-			"arabicnumber": 209,
-			"text": "Ebu Hureyre şöyle anlattı: Resulullah Sallallahu Aleyhi ve Sellem ikindi namazını kılarken iki rekatta selam verdi. Bunun üzerine Zülyedeyn kalktı: *— Ya Resulallah! Namaz mı kısaldı, yoksa unuttun damı iki rekatta selam verdin?» deyince: «— Bunların hiç biri olmadı,» demesinin üzerine: «— Ya Resulallah! Mutlaka biri olmuştur,» deyince Resulü Ekrem cemaate dönerek: «—Zülyedeyn doğru mu söyledi?» dedi. Ashab da: *— Evet» deyince Resulullah Sallallahu Aleyhi ve Sellem kalktı, kalan iki rekatı kıldı, selam verdikten sonra oturduğu yerde iki sehiv secdesi yaptı. Diğer tahric: Müslim, Mesacid",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "3": "Namaz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 146,
+        "hadithnumber_last": 221,
+        "arabicnumber_first": 146,
+        "arabicnumber_last": 221
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 209,
+      "arabicnumber": 209,
+      "text": "Ebu Hureyre şöyle anlattı: Resulullah Sallallahu Aleyhi ve Sellem ikindi namazını kılarken iki rekatta selam verdi. Bunun üzerine Zülyedeyn kalktı: *— Ya Resulallah! Namaz mı kısaldı, yoksa unuttun damı iki rekatta selam verdin?» deyince: «— Bunların hiç biri olmadı,» demesinin üzerine: «— Ya Resulallah! Mutlaka biri olmuştur,» deyince Resulü Ekrem cemaate dönerek: «—Zülyedeyn doğru mu söyledi?» dedi. Ashab da: *— Evet» deyince Resulullah Sallallahu Aleyhi ve Sellem kalktı, kalan iki rekatı kıldı, selam verdikten sonra oturduğu yerde iki sehiv secdesi yaptı. Diğer tahric: Müslim, Mesacid",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 42
+      }
+    }
+  ]
 }

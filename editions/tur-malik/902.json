@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 902,
-			"arabicnumber": 902,
-			"text": "Usame b. Zeyd'den: Resulullah Sallallahu Aleyhi ve Sellem Arafat'tan inerken Müzdelife'ye gelmeden bir dar yolda durdu, küçük abdestini yapıp derhal abdest aldı. Cemaate abdest almaları için vakit de vermedi. Bunun üzerine ben: «— Namaz mı kılacağız ya Resulallah?» dedim. «— Namaz ileride!» buyurdu. Bineğine binerek Müzdelife'ye kadar geldi. Orada inip abdest aldı, abdest almaları için cemaate de süre tanıdı. Sonra kamet getirilip akşam namazını kıldı. Herkes devesi yanında çökmüş dururken, bu sefer yatsı için kamet getirildi, onu da kıldılar. Akşamla yatsı arasında başka hiç bir namaz kılınmadı. Diğer tahric: Buharî, Vudu; Müslim, Hac",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 198
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 902,
+      "arabicnumber": 902,
+      "text": "Usame b. Zeyd'den: Resulullah Sallallahu Aleyhi ve Sellem Arafat'tan inerken Müzdelife'ye gelmeden bir dar yolda durdu, küçük abdestini yapıp derhal abdest aldı. Cemaate abdest almaları için vakit de vermedi. Bunun üzerine ben: «— Namaz mı kılacağız ya Resulallah?» dedim. «— Namaz ileride!» buyurdu. Bineğine binerek Müzdelife'ye kadar geldi. Orada inip abdest aldı, abdest almaları için cemaate de süre tanıdı. Sonra kamet getirilip akşam namazını kıldı. Herkes devesi yanında çökmüş dururken, bu sefer yatsı için kamet getirildi, onu da kıldılar. Akşamla yatsı arasında başka hiç bir namaz kılınmadı. Diğer tahric: Buharî, Vudu; Müslim, Hac",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 198
+      }
+    }
+  ]
 }

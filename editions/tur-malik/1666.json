@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"48": "Dress"
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 1651,
-				"hadithnumber_last": 1670,
-				"arabicnumber_first": 1651,
-				"arabicnumber_last": 1670
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1666,
-			"arabicnumber": 1666,
-			"text": "Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem: «Sizden biri ayakkabı giyerken önce sağ ayağını giysin, çıkarırken de önce sol ayakkabısını çıkarsın. Sağ ayakkabı ilk giyilen ve sol ayakkabı ilk çıkarılan olsun» buyurdu",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 48,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "48": "Giyim-Kuşam"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 1651,
+        "hadithnumber_last": 1670,
+        "arabicnumber_first": 1651,
+        "arabicnumber_last": 1670
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1666,
+      "arabicnumber": 1666,
+      "text": "Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem: «Sizden biri ayakkabı giyerken önce sağ ayağını giysin, çıkarırken de önce sol ayakkabısını çıkarsın. Sağ ayakkabı ilk giyilen ve sol ayakkabı ilk çıkarılan olsun» buyurdu",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 48,
+        "hadith": 16
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"30": "Suckling"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1272,
-				"hadithnumber_last": 1289,
-				"arabicnumber_first": 1272,
-				"arabicnumber_last": 1289
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1287,
-			"arabicnumber": 1287,
-			"text": "Mu’minlerin annesi Hz. Aişe’den :Resulullah Sallallahu Aleyhi ve Sellem: Doğumla (neseb) haram olan kimseler,emme ile de haram olur.buyurdu. Diğer tahric: Tirmizi, Rada",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "30": "Süt Emme"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1272,
+        "hadithnumber_last": 1289,
+        "arabicnumber_first": 1272,
+        "arabicnumber_last": 1289
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1287,
+      "arabicnumber": 1287,
+      "text": "Mu’minlerin annesi Hz. Aişe’den :Resulullah Sallallahu Aleyhi ve Sellem: Doğumla (neseb) haram olan kimseler,emme ile de haram olur.buyurdu. Diğer tahric: Tirmizi, Rada",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 16
+      }
+    }
+  ]
 }

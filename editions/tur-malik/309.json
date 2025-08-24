@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"8": "Prayer in Congregation"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 287,
-				"hadithnumber_last": 325,
-				"arabicnumber_first": 287,
-				"arabicnumber_last": 325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 309,
-			"arabicnumber": 309,
-			"text": "Aişe (r.anha)'den: Resulullah Sallallahu Aleyhi ve Sellem'i yaşlanıncaya kadar gece namazını oturarak kılarken hiç görmedim. Yaşlanınca kıraati oturarak okuyor, rüku etmek isteyince kalkıyor, otuz-kırk ayet kadar okuduktan sonra rüku ediyordu. Diğer tahric: Buhari, Taksîru's-salat BU DAVUD RİVAYETİ VE İZAH İÇİN BURAYA TIKLAYIN",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 23
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "8": "Cemaatle Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 287,
+        "hadithnumber_last": 325,
+        "arabicnumber_first": 287,
+        "arabicnumber_last": 325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 309,
+      "arabicnumber": 309,
+      "text": "Aişe (r.anha)'den: Resulullah Sallallahu Aleyhi ve Sellem'i yaşlanıncaya kadar gece namazını oturarak kılarken hiç görmedim. Yaşlanınca kıraati oturarak okuyor, rüku etmek isteyince kalkıyor, otuz-kırk ayet kadar okuduktan sonra rüku ediyordu. Diğer tahric: Buhari, Taksîru's-salat BU DAVUD RİVAYETİ VE İZAH İÇİN BURAYA TIKLAYIN",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 23
+      }
+    }
+  ]
 }

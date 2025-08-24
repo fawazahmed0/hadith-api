@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"16": "Burials"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 520,
-				"hadithnumber_last": 577,
-				"arabicnumber_first": 520,
-				"arabicnumber_last": 577
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 548,
-			"arabicnumber": 548,
-			"text": "Resulullah Sallallahu Aleyhi ve Sellem'in hanımı Ümmü Seleme'den «Kazma seslerini duyuncaya kadar, Resulullah Sallallahu Aleyhi ve Sellem'in vefat ettiğine inanamadım.» İbn Abdilber der ki: \"Bu hadisi, Ümmü Seleme'den değil, Aişe'den muttasıl olarak biliyorum",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 29
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "16": "Cenazeler"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 520,
+        "hadithnumber_last": 577,
+        "arabicnumber_first": 520,
+        "arabicnumber_last": 577
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 548,
+      "arabicnumber": 548,
+      "text": "Resulullah Sallallahu Aleyhi ve Sellem'in hanımı Ümmü Seleme'den «Kazma seslerini duyuncaya kadar, Resulullah Sallallahu Aleyhi ve Sellem'in vefat ettiğine inanamadım.» İbn Abdilber der ki: \"Bu hadisi, Ümmü Seleme'den değil, Aişe'den muttasıl olarak biliyorum",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 29
+      }
+    }
+  ]
 }

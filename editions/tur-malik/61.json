@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"2": "Purity"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 32,
-				"hadithnumber_last": 145,
-				"arabicnumber_first": 32,
-				"arabicnumber_last": 145
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 61,
-			"arabicnumber": 61,
-			"text": "Ebu Hureyre (r.a.)'dediki, Resulullah Sallallahu Aleyhi ve Sellem buyurdular ki: «Bir müslüman -yahut bir mu'min- abdest alırken yüzünü yıkayınca yüzünden akan su ile beraber gözleri ile işlediği bütün günahları dökülür. Ellerini yıkadığı zaman, elleri ile işlemiş olduğu günahları su ile beraber ellerinden dökülür. Ayaklarını yıkayınca, ayakları ile giderek işlediği günahları su ile beraber çıkar. Böylece bütün günahlarından temizlenmiş olur.» Diğer tahric: Buhari, Vudu; Müslim, Fedail",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "2": "Taharet (Temizlik)"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 32,
+        "hadithnumber_last": 145,
+        "arabicnumber_first": 32,
+        "arabicnumber_last": 145
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 61,
+      "arabicnumber": 61,
+      "text": "Ebu Hureyre (r.a.)'dediki, Resulullah Sallallahu Aleyhi ve Sellem buyurdular ki: «Bir müslüman -yahut bir mu'min- abdest alırken yüzünü yıkayınca yüzünden akan su ile beraber gözleri ile işlediği bütün günahları dökülür. Ellerini yıkadığı zaman, elleri ile işlemiş olduğu günahları su ile beraber ellerinden dökülür. Ayaklarını yıkayınca, ayakları ile giderek işlediği günahları su ile beraber çıkar. Böylece bütün günahlarından temizlenmiş olur.» Diğer tahric: Buhari, Vudu; Müslim, Fedail",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 30
+      }
+    }
+  ]
 }

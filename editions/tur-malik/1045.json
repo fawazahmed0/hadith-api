@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"24": "Slaughtering Animals"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1042,
-				"hadithnumber_last": 1051,
-				"arabicnumber_first": 1042,
-				"arabicnumber_last": 1051
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1045,
-			"arabicnumber": 1045,
-			"text": "Muaz b. Sa'd (r.a.) -veya Sa'd b. Muaz'dan rivayete göre, Ka'b b. Malik'in cariyesi Sel' dağında koyunlarını otlatıyordu. Koyunlarından biri hastalanıp ölümle baş başa kaldı. Cariye hemen yetişip onu keskin bır taşla kesti. Durum Rasulullah Sallallahu Aleyhi ve Sellem'e soruldu. O da: \"Sakıncası yok yiyebilirsiniz\" buyurdu. Diğer tahric: Buharı, Zebaih ve Sayd",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "24": "Hayvan Kesme"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1042,
+        "hadithnumber_last": 1051,
+        "arabicnumber_first": 1042,
+        "arabicnumber_last": 1051
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1045,
+      "arabicnumber": 1045,
+      "text": "Muaz b. Sa'd (r.a.) -veya Sa'd b. Muaz'dan rivayete göre, Ka'b b. Malik'in cariyesi Sel' dağında koyunlarını otlatıyordu. Koyunlarından biri hastalanıp ölümle baş başa kaldı. Cariye hemen yetişip onu keskin bır taşla kesti. Durum Rasulullah Sallallahu Aleyhi ve Sellem'e soruldu. O da: \"Sakıncası yok yiyebilirsiniz\" buyurdu. Diğer tahric: Buharı, Zebaih ve Sayd",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 4
+      }
+    }
+  ]
 }

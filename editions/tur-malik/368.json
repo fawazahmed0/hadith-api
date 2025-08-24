@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"9": "Shortening the Prayer"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 326,
-				"hadithnumber_last": 427,
-				"arabicnumber_first": 326,
-				"arabicnumber_last": 427
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 368,
-			"arabicnumber": 368,
-			"text": "İmam Malik'ten: Duyduğuma göre Sa'd b. Ebi Vakkas namaz kılınırken safların önünden geçermiş. İmam Malik der ki: Kamet edilip İmam tekbir alarak namaza durduktan sonra cemaate gelen kimsenin geçecek yer bulamazsa safların önünden geçmesi caizdir",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 43
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "9": "Seferde Namazları Kısaltma"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 326,
+        "hadithnumber_last": 427,
+        "arabicnumber_first": 326,
+        "arabicnumber_last": 427
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 368,
+      "arabicnumber": 368,
+      "text": "İmam Malik'ten: Duyduğuma göre Sa'd b. Ebi Vakkas namaz kılınırken safların önünden geçermiş. İmam Malik der ki: Kamet edilip İmam tekbir alarak namaza durduktan sonra cemaate gelen kimsenin geçecek yer bulamazsa safların önünden geçmesi caizdir",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 43
+      }
+    }
+  ]
 }

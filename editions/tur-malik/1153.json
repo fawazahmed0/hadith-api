@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"29": "Divorce"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 1150,
-				"hadithnumber_last": 1271,
-				"arabicnumber_first": 1150,
-				"arabicnumber_last": 1271
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1153,
-			"arabicnumber": 1153,
-			"text": "ibn Şihab'dan rivayet edildi: Mervan b. Hakem, Elbette kaydıyla karısını boşayanın karısının üç talak boş olduğuna hükmederdi. Malik der ki: Üç talak hakkında duyduklarımın en uy­gunu budur",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "29": "Talak (Boşama/Boşanma)"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 1150,
+        "hadithnumber_last": 1271,
+        "arabicnumber_first": 1150,
+        "arabicnumber_last": 1271
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1153,
+      "arabicnumber": 1153,
+      "text": "ibn Şihab'dan rivayet edildi: Mervan b. Hakem, Elbette kaydıyla karısını boşayanın karısının üç talak boş olduğuna hükmederdi. Malik der ki: Üç talak hakkında duyduklarımın en uy­gunu budur",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 4
+      }
+    }
+  ]
 }

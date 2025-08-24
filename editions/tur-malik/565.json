@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"16": "Burials"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 520,
-				"hadithnumber_last": 577,
-				"arabicnumber_first": 520,
-				"arabicnumber_last": 577
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 565,
-			"arabicnumber": 565,
-			"text": "Aişe r.anha'den: Resulullah Sallallahu Aleyhi ve Sellem vefatından önce göğsüme yaslandı, kulak verdim şöyle dua ediyordu: «Allahım beni affet* bana acı ve beni yüce makama kavuştur.» Diğer tahric: Buharî, Megazî; Müslim, Fedailu's-Sahabe",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 46
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "16": "Cenazeler"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 520,
+        "hadithnumber_last": 577,
+        "arabicnumber_first": 520,
+        "arabicnumber_last": 577
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 565,
+      "arabicnumber": 565,
+      "text": "Aişe r.anha'den: Resulullah Sallallahu Aleyhi ve Sellem vefatından önce göğsüme yaslandı, kulak verdim şöyle dua ediyordu: «Allahım beni affet* bana acı ve beni yüce makama kavuştur.» Diğer tahric: Buharî, Megazî; Müslim, Fedailu's-Sahabe",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 46
+      }
+    }
+  ]
 }

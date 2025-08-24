@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"9": "Shortening the Prayer"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 326,
-				"hadithnumber_last": 427,
-				"arabicnumber_first": 326,
-				"arabicnumber_last": 427
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 402,
-			"arabicnumber": 402,
-			"text": "Abduiiah b. Ömer'den: Resuîullah Sallallahu Aleyhi ve Sellem Kuba mescidine bazan yürüyerek, bazan da binekli olarak giderdi. Diğer tahric: Buhari, Salat fi Mescid Mekke ve'l-Modine; Müslim, Hacc",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 77
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "9": "Seferde Namazları Kısaltma"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 326,
+        "hadithnumber_last": 427,
+        "arabicnumber_first": 326,
+        "arabicnumber_last": 427
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 402,
+      "arabicnumber": 402,
+      "text": "Abduiiah b. Ömer'den: Resuîullah Sallallahu Aleyhi ve Sellem Kuba mescidine bazan yürüyerek, bazan da binekli olarak giderdi. Diğer tahric: Buhari, Salat fi Mescid Mekke ve'l-Modine; Müslim, Hacc",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 77
+      }
+    }
+  ]
 }

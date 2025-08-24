@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"3": "Prayer"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 146,
-				"hadithnumber_last": 221,
-				"arabicnumber_first": 146,
-				"arabicnumber_last": 221
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 217,
-			"arabicnumber": 217,
-			"text": "Abdullah b. Buheyne (r.a.) dediki; «Resulullah Sallallahu Aleyhi ve Sellem bi­ze öğle namazını kıldırıyordu. îki rekat kılınca oturmadan kalktı. Namazı bitirince sehiv secdesi yaptıktan sonra selam verdi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 50
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "3": "Namaz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 146,
+        "hadithnumber_last": 221,
+        "arabicnumber_first": 146,
+        "arabicnumber_last": 221
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 217,
+      "arabicnumber": 217,
+      "text": "Abdullah b. Buheyne (r.a.) dediki; «Resulullah Sallallahu Aleyhi ve Sellem bi­ze öğle namazını kıldırıyordu. îki rekat kılınca oturmadan kalktı. Namazı bitirince sehiv secdesi yaptıktan sonra selam verdi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 50
+      }
+    }
+  ]
 }

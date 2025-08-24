@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"31": "Business Transactions"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 1290,
-				"hadithnumber_last": 1385,
-				"arabicnumber_first": 1290,
-				"arabicnumber_last": 1385
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1292,
-			"arabicnumber": 1292,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "31": "Alış - Veriş"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 1290,
+        "hadithnumber_last": 1385,
+        "arabicnumber_first": 1290,
+        "arabicnumber_last": 1385
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1292,
+      "arabicnumber": 1292,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 3
+      }
+    }
+  ]
 }

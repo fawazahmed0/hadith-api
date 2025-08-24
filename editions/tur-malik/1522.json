@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"41": "Hudud"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 1500,
-				"hadithnumber_last": 1536,
-				"arabicnumber_first": 1500,
-				"arabicnumber_last": 1536
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1522,
-			"arabicnumber": 1522,
-			"text": "Ebu Huseynin oğlu Abdurrahman oğlu Abdullah el-Mekki'den: Resulullah Sallallahu Aleyhi ve Sellem «Ağaçtaki meyvenin ve dağdaki otlayan hayvanın çalınmasından dolayı el kesilmez. Ancak ağıldaki hayvan ve kurutulmak üzere sergi yerine serilmiş meyve çalınır da değeri kalkanın fîatına (üç dirhem) ula­şırsa o zaman el kesilir» buyurdu",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "41": "Hudud (Şer'î Cezalar)"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 1500,
+        "hadithnumber_last": 1536,
+        "arabicnumber_first": 1500,
+        "arabicnumber_last": 1536
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1522,
+      "arabicnumber": 1522,
+      "text": "Ebu Huseynin oğlu Abdurrahman oğlu Abdullah el-Mekki'den: Resulullah Sallallahu Aleyhi ve Sellem «Ağaçtaki meyvenin ve dağdaki otlayan hayvanın çalınmasından dolayı el kesilmez. Ancak ağıldaki hayvan ve kurutulmak üzere sergi yerine serilmiş meyve çalınır da değeri kalkanın fîatına (üç dirhem) ula­şırsa o zaman el kesilir» buyurdu",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 3
+      }
+    }
+  ]
 }

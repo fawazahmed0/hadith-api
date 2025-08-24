@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"10": "The Book on Jana''iz (Funerals)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 965,
-				"hadithnumber_last": 1079,
-				"arabicnumber_first": 965,
-				"arabicnumber_last": 1079
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1078,
-			"arabicnumber": 1078,
-			"text": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Mü’min ruhu, kafası ve kalbi borcu ödeninceye kadar oraya takılı ve bağlıdır.” Diğer tahric: İbn Mâce, Sadakat",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 114
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "10": "Cenaze Bölümleri"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 965,
+        "hadithnumber_last": 1079,
+        "arabicnumber_first": 965,
+        "arabicnumber_last": 1079
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1078,
+      "arabicnumber": 1078,
+      "text": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Mü’min ruhu, kafası ve kalbi borcu ödeninceye kadar oraya takılı ve bağlıdır.” Diğer tahric: İbn Mâce, Sadakat",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 114
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"4": "The Book on the Day of Friday"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 488,
-				"hadithnumber_last": 529,
-				"arabicnumber_first": 488,
-				"arabicnumber_last": 529
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 528,
-			"arabicnumber": 528,
-			"text": "Berâ b. Âzib (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Cuma günü Müslüman’ın gusül abdesti alması hakkıdır. Evinden kokulanarak çıkması da güzeldir, koku bulamayanların ise sadece su ile yıkanıp temizlenmeleri yeterlidir.” Diğer tahric: Ebû Dâvûd, Salat Tirmîzî: Bu konuda Ebû Saîd ve Ensâr’dan bir şeyh tarafından da hadis rivâyet edilmiştir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 4,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "4": "Cuma Günü Bölümleri"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 488,
+        "hadithnumber_last": 529,
+        "arabicnumber_first": 488,
+        "arabicnumber_last": 529
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 528,
+      "arabicnumber": 528,
+      "text": "Berâ b. Âzib (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Cuma günü Müslüman’ın gusül abdesti alması hakkıdır. Evinden kokulanarak çıkması da güzeldir, koku bulamayanların ise sadece su ile yıkanıp temizlenmeleri yeterlidir.” Diğer tahric: Ebû Dâvûd, Salat Tirmîzî: Bu konuda Ebû Saîd ve Ensâr’dan bir şeyh tarafından da hadis rivâyet edilmiştir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 4,
+        "hadith": 41
+      }
+    }
+  ]
 }

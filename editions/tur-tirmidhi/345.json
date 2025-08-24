@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"2": "The Book on Salat (Prayer)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 149,
-				"hadithnumber_last": 451,
-				"arabicnumber_first": 149,
-				"arabicnumber_last": 451
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 345,
-			"arabicnumber": 345,
-			"text": "Tirmîzî: Bu hadisin senedi böyle değildir. Bu hadisi sadece Eş’as b. Semman’ın rivayetiyle bilmekteyiz. Bu kimsenin de hadis konusunda zayıf olduğu söylenmiştir. Yine de ilim adamlarının çoğunluğu bu hadise göre amel etmekte olup şöyle demektedirler: “Bulutlu havada kıbleyi şaşırarak namaz kılınsa sonra başka tarafa doğru kılındığı belli olsa kılınan namaz caizdir.” Sûfyân es Sevrî, İbn’ül Mübarek, Ahmed ve İshâk bunlardandır",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 197
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "2": "Namaz Bölümleri"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 149,
+        "hadithnumber_last": 451,
+        "arabicnumber_first": 149,
+        "arabicnumber_last": 451
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 345,
+      "arabicnumber": 345,
+      "text": "Tirmîzî: Bu hadisin senedi böyle değildir. Bu hadisi sadece Eş’as b. Semman’ın rivayetiyle bilmekteyiz. Bu kimsenin de hadis konusunda zayıf olduğu söylenmiştir. Yine de ilim adamlarının çoğunluğu bu hadise göre amel etmekte olup şöyle demektedirler: “Bulutlu havada kıbleyi şaşırarak namaz kılınsa sonra başka tarafa doğru kılındığı belli olsa kılınan namaz caizdir.” Sûfyân es Sevrî, İbn’ül Mübarek, Ahmed ve İshâk bunlardandır",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 197
+      }
+    }
+  ]
 }

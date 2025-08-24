@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"10": "The Book on Jana''iz (Funerals)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 965,
-				"hadithnumber_last": 1079,
-				"arabicnumber_first": 965,
-				"arabicnumber_last": 1079
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 978,
-			"arabicnumber": 978,
-			"text": "Âişe (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’in ölüm anında yanında idim yanında içinde su bulunan bir su kabı vardı, elini o kabın içerisine daldırıp yüzünü siliyor ve şöyle diyordu: “Allah’ım ölüm sancılarından ve ölümün şiddetinden dolayı bana yardım et.” Diğer tahric: İbn Mâce, Cenaiz Tirmîzî: Bu hadis hasen garibtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 14
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "10": "Cenaze Bölümleri"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 965,
+        "hadithnumber_last": 1079,
+        "arabicnumber_first": 965,
+        "arabicnumber_last": 1079
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 978,
+      "arabicnumber": 978,
+      "text": "Âişe (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’in ölüm anında yanında idim yanında içinde su bulunan bir su kabı vardı, elini o kabın içerisine daldırıp yüzünü siliyor ve şöyle diyordu: “Allah’ım ölüm sancılarından ve ölümün şiddetinden dolayı bana yardım et.” Diğer tahric: İbn Mâce, Cenaiz Tirmîzî: Bu hadis hasen garibtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 14
+      }
+    }
+  ]
 }

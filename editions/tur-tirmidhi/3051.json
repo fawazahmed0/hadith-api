@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3051,
-			"arabicnumber": 3051,
-			"text": "Ebû İshâk (r.a.)’den rivâyete göre, şöyle demiştir: Berâ şöyle demiştir: Rasûlullah (s.a.v.)’in ashabından bazı kişiler şarap içtikleri dönemde vefat etmişlerdi. Şarabın yasaklanmasına dair ayet inince Nebi (s.a.v)’in ashabından bazı kimseler şarap içtikleri dönemde ölen kardeşlerimizin durumu ne olacak? demişlerdi de Maide sûresi 93. ayeti nazil oldu: “İman edip, doğru ve yararlı işler yapanlar, yollarını Allah’ın kitabı ve elçisi ile buldukları ve gerçekten inanıp, doğru ve yararlı işler yaptıkları sürece, haram olunmazdan önce yedikleri şeylerde bir günah yoktur. Yeter ki, hayatlarını Allah’ın kitabıyla düzenlemeye çalışsınlar, iman etmeye devam etsinler ve hayatlarını Allah’ın kitabı vasıtasıyla tanzim etmeye daha da özen göstersinler ve iyilik yapmakta arzulu ve kararlı davransınlar. Çünkü Allah, iyilik yapanları sever.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis hasen sahihtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3051,
+      "arabicnumber": 3051,
+      "text": "Ebû İshâk (r.a.)’den rivâyete göre, şöyle demiştir: Berâ şöyle demiştir: Rasûlullah (s.a.v.)’in ashabından bazı kişiler şarap içtikleri dönemde vefat etmişlerdi. Şarabın yasaklanmasına dair ayet inince Nebi (s.a.v)’in ashabından bazı kimseler şarap içtikleri dönemde ölen kardeşlerimizin durumu ne olacak? demişlerdi de Maide sûresi 93. ayeti nazil oldu: “İman edip, doğru ve yararlı işler yapanlar, yollarını Allah’ın kitabı ve elçisi ile buldukları ve gerçekten inanıp, doğru ve yararlı işler yaptıkları sürece, haram olunmazdan önce yedikleri şeylerde bir günah yoktur. Yeter ki, hayatlarını Allah’ın kitabıyla düzenlemeye çalışsınlar, iman etmeye devam etsinler ve hayatlarını Allah’ın kitabı vasıtasıyla tanzim etmeye daha da özen göstersinler ve iyilik yapmakta arzulu ve kararlı davransınlar. Çünkü Allah, iyilik yapanları sever.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis hasen sahihtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 103
+      }
+    }
+  ]
 }

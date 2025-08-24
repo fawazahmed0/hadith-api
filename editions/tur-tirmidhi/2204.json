@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"33": "Chapters On Al-Fitan"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 2158,
-				"hadithnumber_last": 2269,
-				"arabicnumber_first": 2158,
-				"arabicnumber_last": 2269
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2204,
-			"arabicnumber": 2204,
-			"text": "Ebû Musa (r.a.)’den rivâyet edildiğine göre, Rasûlullah (s.a.v.), Fitne (karışıklık ve anarşi) hakkında şöyle buyurdu: “Müslümanlar arasında karışıklık çıktığı zamanlarda; yaylarınızı kırın kirişlerinizi kesip koparın. Evlerinizin içerisine kapanın ve Adem’in oğlu Habil gibi olun.” Diğer tahric: Ebû Dâvûd, Fiten; Müslim, İlim Tirmizî: Bu hadis hasen garib sahihtir. Abdurrahman b. Servan, Ebû Kays el Evdî’dir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "33": "Fiten (Kargaşalıklar)"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 2158,
+        "hadithnumber_last": 2269,
+        "arabicnumber_first": 2158,
+        "arabicnumber_last": 2269
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2204,
+      "arabicnumber": 2204,
+      "text": "Ebû Musa (r.a.)’den rivâyet edildiğine göre, Rasûlullah (s.a.v.), Fitne (karışıklık ve anarşi) hakkında şöyle buyurdu: “Müslümanlar arasında karışıklık çıktığı zamanlarda; yaylarınızı kırın kirişlerinizi kesip koparın. Evlerinizin içerisine kapanın ve Adem’in oğlu Habil gibi olun.” Diğer tahric: Ebû Dâvûd, Fiten; Müslim, İlim Tirmizî: Bu hadis hasen garib sahihtir. Abdurrahman b. Servan, Ebû Kays el Evdî’dir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 47
+      }
+    }
+  ]
 }

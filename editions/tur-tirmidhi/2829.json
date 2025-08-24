@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"43": "Chapters on Manners"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 2736,
-				"hadithnumber_last": 2858,
-				"arabicnumber_first": 2736,
-				"arabicnumber_last": 2858
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2829,
-			"arabicnumber": 2829,
-			"text": "Ali (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.), Sa’d b. ebî Vakkâs dışında hiçbir kimse için baba ve annesini feda olsun diyerek birlikte söylememiştir; Uhud savaşı günü O’na: “Anam babam sana feda olsun müşriklerin üzerine oklarını at” şöyle de derdi: “Ey yiğit delikanlı at.” Diğer tahric: Buhârî, Cihâd; Müslim, Fedail-üs Sahabe",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Munkar"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Munkar"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "43": "Edeb Bölümleri"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 2736,
+        "hadithnumber_last": 2858,
+        "arabicnumber_first": 2736,
+        "arabicnumber_last": 2858
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2829,
+      "arabicnumber": 2829,
+      "text": "Ali (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.), Sa’d b. ebî Vakkâs dışında hiçbir kimse için baba ve annesini feda olsun diyerek birlikte söylememiştir; Uhud savaşı günü O’na: “Anam babam sana feda olsun müşriklerin üzerine oklarını at” şöyle de derdi: “Ey yiğit delikanlı at.” Diğer tahric: Buhârî, Cihâd; Müslim, Fedail-üs Sahabe",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 103
+      }
+    }
+  ]
 }

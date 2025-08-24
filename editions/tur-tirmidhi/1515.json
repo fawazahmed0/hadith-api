@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"19": "The Book on Sacrifices"
-		},
-		"section_detail": {
-			"19": {
-				"hadithnumber_first": 1493,
-				"hadithnumber_last": 1523,
-				"arabicnumber_first": 1493,
-				"arabicnumber_last": 1523
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1515,
-			"arabicnumber": 1515,
-			"text": "Selman b. Âmir ed Dabbî (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Erkek çocuğun doğumuyla beraber akika vardır o çocuk adına akika kurbanı kesiniz ve çocuktan her türlü eziyeti gideriniz.” Diğer tahric: Buhârî, Akika; Nesâî, Akika Hasan b. A’yen, Abdurrezzak vasıtasıyla İbn Uyeyne’den, Âsım b. Süleym b. Ahvel’den, Hafsa binti Sirîn’den, Rebab’tan, Selman b. Âmir’den bu hadisin bir benzerini bize haber vermiştir. Tirmizî: Bu hadis hasen sahihtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 19,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "19": "Kurban Bölümleri"
+    },
+    "section_detail": {
+      "19": {
+        "hadithnumber_first": 1493,
+        "hadithnumber_last": 1523,
+        "arabicnumber_first": 1493,
+        "arabicnumber_last": 1523
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1515,
+      "arabicnumber": 1515,
+      "text": "Selman b. Âmir ed Dabbî (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Erkek çocuğun doğumuyla beraber akika vardır o çocuk adına akika kurbanı kesiniz ve çocuktan her türlü eziyeti gideriniz.” Diğer tahric: Buhârî, Akika; Nesâî, Akika Hasan b. A’yen, Abdurrezzak vasıtasıyla İbn Uyeyne’den, Âsım b. Süleym b. Ahvel’den, Hafsa binti Sirîn’den, Rebab’tan, Selman b. Âmir’den bu hadisin bir benzerini bize haber vermiştir. Tirmizî: Bu hadis hasen sahihtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 19,
+        "hadith": 26
+      }
+    }
+  ]
 }

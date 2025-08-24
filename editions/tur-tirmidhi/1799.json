@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"25": "The Book on Food"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1788,
-				"hadithnumber_last": 1860,
-				"arabicnumber_first": 1788,
-				"arabicnumber_last": 1860
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1799,
-			"arabicnumber": 1799,
-			"text": "Abdullah b. Ömer (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurdu: “Sol elinizle yiyip içmeyin çünkü şeytan sol eliyle yer ve içer.” Diğer tahric: Ebû Dâvûd, Etıme; İbn Mâce: Etıme Tirmizî: Bu konuda Câbir, Ömer b. Ebî Seleme, Seleme b. el Ekvâ’, enes b. Mâlik ve Hafsa’dan da hadis rivâyet edilmiştir. Tirmizî: Bu hadis hasen sahihtir. Mâlik ve İbn Uyeyne bu hadisi Zührî’den, Ebû Bekir b. Ubeydullah’tan ve İbn Ömer’den rivâyet ettiler. Ma’mer ve Ukayl ise; Zührî, Sâlim, İbn Ömer’den rivâyet etmişlerdir. Mâlik ve İbn Uyeyne’nin rivâyeti daha sahihtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "25": "Yiyecek Bölümleri"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1788,
+        "hadithnumber_last": 1860,
+        "arabicnumber_first": 1788,
+        "arabicnumber_last": 1860
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1799,
+      "arabicnumber": 1799,
+      "text": "Abdullah b. Ömer (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurdu: “Sol elinizle yiyip içmeyin çünkü şeytan sol eliyle yer ve içer.” Diğer tahric: Ebû Dâvûd, Etıme; İbn Mâce: Etıme Tirmizî: Bu konuda Câbir, Ömer b. Ebî Seleme, Seleme b. el Ekvâ’, enes b. Mâlik ve Hafsa’dan da hadis rivâyet edilmiştir. Tirmizî: Bu hadis hasen sahihtir. Mâlik ve İbn Uyeyne bu hadisi Zührî’den, Ebû Bekir b. Ubeydullah’tan ve İbn Ömer’den rivâyet ettiler. Ma’mer ve Ukayl ise; Zührî, Sâlim, İbn Ömer’den rivâyet etmişlerdir. Mâlik ve İbn Uyeyne’nin rivâyeti daha sahihtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 13
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"14": "The Book on Business"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 1205,
-				"hadithnumber_last": 1321,
-				"arabicnumber_first": 1205,
-				"arabicnumber_last": 1321
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1281,
-			"arabicnumber": 1281,
-			"text": "Ebû Hureyre (r.a.)’den rivâyete göre: “Rasûlullah (s.a.v.), av köpeği dışındaki köpeklerin alım satımından elde edilen kazancı yasakladı.” Diğer tahric: Nesâî, buyu’; Müslim, Müsakat) Tirmîzî: Bu hadis bu şekliyle sahih değildir. Ebûl Mühezzim’in ismi Yezîd b. Sûfyân’dır. Şu’be onun hakkında söz etmiştir ve zayıf olduğunu söylemiştir. Câbir’den buna benzer bir hadis daha rivâyet edilmiştir ki onun da senedi sağlam değildir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "14": "Alışveriş Bölümleri"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 1205,
+        "hadithnumber_last": 1321,
+        "arabicnumber_first": 1205,
+        "arabicnumber_last": 1321
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1281,
+      "arabicnumber": 1281,
+      "text": "Ebû Hureyre (r.a.)’den rivâyete göre: “Rasûlullah (s.a.v.), av köpeği dışındaki köpeklerin alım satımından elde edilen kazancı yasakladı.” Diğer tahric: Nesâî, buyu’; Müslim, Müsakat) Tirmîzî: Bu hadis bu şekliyle sahih değildir. Ebûl Mühezzim’in ismi Yezîd b. Sûfyân’dır. Şu’be onun hakkında söz etmiştir ve zayıf olduğunu söylemiştir. Câbir’den buna benzer bir hadis daha rivâyet edilmiştir ki onun da senedi sağlam değildir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 83
+      }
+    }
+  ]
 }

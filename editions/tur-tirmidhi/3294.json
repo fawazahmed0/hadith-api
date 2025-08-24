@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3294,
-			"arabicnumber": 3294,
-			"text": "Ebû Saîd (r.a.)’den rivâyete göre, Nebi (s.a.v), Vakıa sûresi 34. ayeti hakkında şöyle demiştir: Döşeklerin yüksekliği gök ile yeryüzü arası kadardır. Gök ile yeryüzü arasındaki mesafe ise beş yüz yıllık yoldur",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 346
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3294,
+      "arabicnumber": 3294,
+      "text": "Ebû Saîd (r.a.)’den rivâyete göre, Nebi (s.a.v), Vakıa sûresi 34. ayeti hakkında şöyle demiştir: Döşeklerin yüksekliği gök ile yeryüzü arası kadardır. Gök ile yeryüzü arasındaki mesafe ise beş yüz yıllık yoldur",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 346
+      }
+    }
+  ]
 }

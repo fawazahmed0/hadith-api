@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"10": "The Book on Jana''iz (Funerals)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 965,
-				"hadithnumber_last": 1079,
-				"arabicnumber_first": 965,
-				"arabicnumber_last": 1079
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 974,
-			"arabicnumber": 974,
-			"text": "bn Ömer (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Vasiyet edebilecek kadar malı bulunan bir kimsenin vasiyeti yanında yazılı bulunmaksızın iki gece bile geçirmesi caiz olmaz.” Diğer tahric: Buhârî, Vesaya; Müslim, Vasıyye İbn Ömer hadisi hasen sahihtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "10": "Cenaze Bölümleri"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 965,
+        "hadithnumber_last": 1079,
+        "arabicnumber_first": 965,
+        "arabicnumber_last": 1079
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 974,
+      "arabicnumber": 974,
+      "text": "bn Ömer (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Vasiyet edebilecek kadar malı bulunan bir kimsenin vasiyeti yanında yazılı bulunmaksızın iki gece bile geçirmesi caiz olmaz.” Diğer tahric: Buhârî, Vesaya; Müslim, Vasıyye İbn Ömer hadisi hasen sahihtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 10
+      }
+    }
+  ]
 }

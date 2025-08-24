@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"49": "Chapters on Virtues"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 3605,
-				"hadithnumber_last": 3956,
-				"arabicnumber_first": 3605,
-				"arabicnumber_last": 3956
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3610,
-			"arabicnumber": 3610,
-			"text": "Enes b. Mâlik (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “İnsanların mahşer yerine çıkarılacakları gün kabrinden ilk çıkarılacak olan benim. İnsanların Allah’a vardıkları zaman hatibleri benim. Onların her şeyden ümidlerini kestikleri zaman müjdeleyici benim. Hamd sancağı o gün benim elimdedir. Rabbimin yanında ademoğullarının en değerlisi benim fakat övünmem.” Diğer tahric: Müsned: 12013 Tirmizî: Bu hadis garibtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 49,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "49": "Menâkıb Bölümleri"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 3605,
+        "hadithnumber_last": 3956,
+        "arabicnumber_first": 3605,
+        "arabicnumber_last": 3956
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3610,
+      "arabicnumber": 3610,
+      "text": "Enes b. Mâlik (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “İnsanların mahşer yerine çıkarılacakları gün kabrinden ilk çıkarılacak olan benim. İnsanların Allah’a vardıkları zaman hatibleri benim. Onların her şeyden ümidlerini kestikleri zaman müjdeleyici benim. Hamd sancağı o gün benim elimdedir. Rabbimin yanında ademoğullarının en değerlisi benim fakat övünmem.” Diğer tahric: Müsned: 12013 Tirmizî: Bu hadis garibtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 49,
+        "hadith": 6
+      }
+    }
+  ]
 }

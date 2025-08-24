@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3309,
-			"arabicnumber": 3309,
-			"text": "Abdullah b. Selam (r.a.)’den rivâyete göre, şöyle demiştir: Nebinin ashabından birkaç kişi oturup müzakerede bulunduk ve: “Allah’a amellerin hangisinin daha sevimli olduğunu bilsek şüphesiz onu işlerdik” dedik. Bunun üzerine Allah, Saf sûresi 1-2. ayetlerini indirdi: “Göklerde ve yerde ne varsa, hepsi Allah’ın sınırsız şanını yüceltir. Çünkü mağlup olmayan güç O’nundur ve yaptığı herşeyi yerli yerince yapandır O, Ey iman edenler! Niçin yapmayacağınız şeyi söylüyorsunuz?” Abdullah b. Selam dedi ki: “Rasûlullah (s.a.v.), bu ayeti bize okudu.” Ebû Seleme de: “Bu ayeti Abdullah b. Selam bize okudu.” Yahya da: “Ebû Seleme, bunu bize okudu dedi.” İbn Kesir de: “Yahya el Evzâî bunu bize okudu” dedi. Abdullah da: “İbn Kesir, bunu bize okudu” dedi",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 361
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3309,
+      "arabicnumber": 3309,
+      "text": "Abdullah b. Selam (r.a.)’den rivâyete göre, şöyle demiştir: Nebinin ashabından birkaç kişi oturup müzakerede bulunduk ve: “Allah’a amellerin hangisinin daha sevimli olduğunu bilsek şüphesiz onu işlerdik” dedik. Bunun üzerine Allah, Saf sûresi 1-2. ayetlerini indirdi: “Göklerde ve yerde ne varsa, hepsi Allah’ın sınırsız şanını yüceltir. Çünkü mağlup olmayan güç O’nundur ve yaptığı herşeyi yerli yerince yapandır O, Ey iman edenler! Niçin yapmayacağınız şeyi söylüyorsunuz?” Abdullah b. Selam dedi ki: “Rasûlullah (s.a.v.), bu ayeti bize okudu.” Ebû Seleme de: “Bu ayeti Abdullah b. Selam bize okudu.” Yahya da: “Ebû Seleme, bunu bize okudu dedi.” İbn Kesir de: “Yahya el Evzâî bunu bize okudu” dedi. Abdullah da: “İbn Kesir, bunu bize okudu” dedi",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 361
+      }
+    }
+  ]
 }

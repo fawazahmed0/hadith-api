@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"2": "The Book on Salat (Prayer)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 149,
-				"hadithnumber_last": 451,
-				"arabicnumber_first": 149,
-				"arabicnumber_last": 451
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 227,
-			"arabicnumber": 227,
-			"text": "Numân b. Beşîr (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) her zaman saflarımızı düzeltirdi. Bir seferinde göğsü dışarı çıkmış bir adam gördü ve şöyle buyurdu: “Ya saflarınızı düzeltirsiniz veya Allah düşünce ve fikirlerinizde aranıza başkalıklar sokacaktır.”",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 79
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "2": "Namaz Bölümleri"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 149,
+        "hadithnumber_last": 451,
+        "arabicnumber_first": 149,
+        "arabicnumber_last": 451
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 227,
+      "arabicnumber": 227,
+      "text": "Numân b. Beşîr (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) her zaman saflarımızı düzeltirdi. Bir seferinde göğsü dışarı çıkmış bir adam gördü ve şöyle buyurdu: “Ya saflarınızı düzeltirsiniz veya Allah düşünce ve fikirlerinizde aranıza başkalıklar sokacaktır.”",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 79
+      }
+    }
+  ]
 }

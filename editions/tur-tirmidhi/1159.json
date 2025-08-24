@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"12": "The Book on Suckling"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 1146,
-				"hadithnumber_last": 1174,
-				"arabicnumber_first": 1146,
-				"arabicnumber_last": 1174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1159,
-			"arabicnumber": 1159,
-			"text": "Ebû Hureyre (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurmuştur: “İnsanlardan birisinin bir diğerine secde etmesini emredecek olsaydım kadının kocasına secde etmesini emrederdim.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu konuda Muâz b. Cebel, Suraka b. Mâlik b. Cu’şum, Âişe, İbn Abbâs, Abdullah b. ebî Evfâ, Talk b. Ali, Ümmü Seleme, Enes ve İbn Ömer’den de hadis rivâyet edilmiştir. Tirmîzî: Ebû Hüreyre hadisi bu şekliyle yani Muhammed b. Amr, Ebû Seleme ve Ebû Hüreyre rivâyeti olarak hasen garibtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 14
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "12": "Emzirme Bölümleri"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 1146,
+        "hadithnumber_last": 1174,
+        "arabicnumber_first": 1146,
+        "arabicnumber_last": 1174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1159,
+      "arabicnumber": 1159,
+      "text": "Ebû Hureyre (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurmuştur: “İnsanlardan birisinin bir diğerine secde etmesini emredecek olsaydım kadının kocasına secde etmesini emrederdim.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu konuda Muâz b. Cebel, Suraka b. Mâlik b. Cu’şum, Âişe, İbn Abbâs, Abdullah b. ebî Evfâ, Talk b. Ali, Ümmü Seleme, Enes ve İbn Ömer’den de hadis rivâyet edilmiştir. Tirmîzî: Ebû Hüreyre hadisi bu şekliyle yani Muhammed b. Amr, Ebû Seleme ve Ebû Hüreyre rivâyeti olarak hasen garibtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 14
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"49": "Chapters on Virtues"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 3605,
-				"hadithnumber_last": 3956,
-				"arabicnumber_first": 3605,
-				"arabicnumber_last": 3956
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3953,
-			"arabicnumber": 3953,
-			"text": "İbn Ömer (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Allah’ım bize Şam’ımızı mübarek kıl, Yemen’imizi mübarek kıl.” Bunun üzerine Ashab: “Necid’imizi de” dediler. Rasûlullah (s.a.v.): “Allah’ım bize Şam’ımızı mübarek kıl, Yemen’imizi mübarek kıl” buyurdu. Ashab yine: “Necid’imizi de” dediler. Rasûlullah (s.a.v.) şöyle buyurdu: “Sarsıntılar ve fitneler oradadır. Şeytanın boynuzu da orada veya oradan çıkacaktır.” Diğer tahric: Buhârî, Bed-il Halk Tirmizî: Bu hadis bu şekliyle İbn Avn rivâyeti olarak hasen sahih garibtir. Bu hadis aynı şekilde Sâlim b. Abdullah b. Ömer’den de rivâyet edilmiştir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
-				}
-			],
-			"reference": {
-				"book": 49,
-				"hadith": 353
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "49": "Menâkıb Bölümleri"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 3605,
+        "hadithnumber_last": 3956,
+        "arabicnumber_first": 3605,
+        "arabicnumber_last": 3956
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3953,
+      "arabicnumber": 3953,
+      "text": "İbn Ömer (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Allah’ım bize Şam’ımızı mübarek kıl, Yemen’imizi mübarek kıl.” Bunun üzerine Ashab: “Necid’imizi de” dediler. Rasûlullah (s.a.v.): “Allah’ım bize Şam’ımızı mübarek kıl, Yemen’imizi mübarek kıl” buyurdu. Ashab yine: “Necid’imizi de” dediler. Rasûlullah (s.a.v.) şöyle buyurdu: “Sarsıntılar ve fitneler oradadır. Şeytanın boynuzu da orada veya oradan çıkacaktır.” Diğer tahric: Buhârî, Bed-il Halk Tirmizî: Bu hadis bu şekliyle İbn Avn rivâyeti olarak hasen sahih garibtir. Bu hadis aynı şekilde Sâlim b. Abdullah b. Ömer’den de rivâyet edilmiştir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "book": 49,
+        "hadith": 353
+      }
+    }
+  ]
 }

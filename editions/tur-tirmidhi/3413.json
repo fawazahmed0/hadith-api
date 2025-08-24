@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"48": "Chapters on Supplication"
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 3370,
-				"hadithnumber_last": 3604.1,
-				"arabicnumber_first": 3370,
-				"arabicnumber_last": 3604.1
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3413,
-			"arabicnumber": 3413,
-			"text": "Zeyd b. Sabit (r.a.)’den rivâyete göre, şöyle demiştir: Her farz namazın sonunda otuz üç kere “Sübhanallah” otuz üç kere “Elhamdülillah” otuz dört kere “Allahuekber” demekle emrolunduk. Ensâr’dan bir kişide rüyasında gördü ve şöyle dedi: Rasûlullah (s.a.v.) size farz namazlardan sonra otuz üç sefer sübhanallah, otuzüç sefer elhamdülillah otuz dört seferde Allahuekber demeyi emretti mi? O da: “Evet” dedi. Ravi diyor ki: Bu syıları sonunda getireceğiniz tehlille beraber yirmibeş de yapabilirsiniz. Ertesi gün bunu Rasûlullah (s.a.v.)’e haber verdi de Rasûlullah (s.a.v.): “Öyle de yapabilirsiniz” buyurdu. Diğer tahric: Müsned: 20617 Tirmizi: Bu Hadis sahihtir. Yani 33 + 33 + 34 = 100 dür. Tahlil yani La ilahe illallah'ı da eklersen yine toplam sayı yüz olsun diye hepsi 25 yani 4x25 = 100 olabilir",
-			"grades": [
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 48,
-				"hadith": 44
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "48": "Duâ Bölümleri"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 3370,
+        "hadithnumber_last": 3604.1,
+        "arabicnumber_first": 3370,
+        "arabicnumber_last": 3604.1
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3413,
+      "arabicnumber": 3413,
+      "text": "Zeyd b. Sabit (r.a.)’den rivâyete göre, şöyle demiştir: Her farz namazın sonunda otuz üç kere “Sübhanallah” otuz üç kere “Elhamdülillah” otuz dört kere “Allahuekber” demekle emrolunduk. Ensâr’dan bir kişide rüyasında gördü ve şöyle dedi: Rasûlullah (s.a.v.) size farz namazlardan sonra otuz üç sefer sübhanallah, otuzüç sefer elhamdülillah otuz dört seferde Allahuekber demeyi emretti mi? O da: “Evet” dedi. Ravi diyor ki: Bu syıları sonunda getireceğiniz tehlille beraber yirmibeş de yapabilirsiniz. Ertesi gün bunu Rasûlullah (s.a.v.)’e haber verdi de Rasûlullah (s.a.v.): “Öyle de yapabilirsiniz” buyurdu. Diğer tahric: Müsned: 20617 Tirmizi: Bu Hadis sahihtir. Yani 33 + 33 + 34 = 100 dür. Tahlil yani La ilahe illallah'ı da eklersen yine toplam sayı yüz olsun diye hepsi 25 yani 4x25 = 100 olabilir",
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 48,
+        "hadith": 44
+      }
+    }
+  ]
 }

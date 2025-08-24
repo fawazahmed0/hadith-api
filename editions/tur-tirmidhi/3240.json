@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3240,
-			"arabicnumber": 3240,
-			"text": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Yahudinin biri Nebi (s.a.v)’e uğramıştı. Nebi (s.a.v), ona, Ey Yahudi! buyurdu. Bize bazı şeyler anlat. Yahudi, Ey Ebû’l Kâsım dedi. Allah’ın gökleri şunun yerleri şunun denizleri şunun dağları şunun ve diğer yaratıkları da şunun üzerine koymasına ne dersin? Muhammed b. Salt, Ebû Cafer bu hadisi rivâyet ederken önce küçük parmağını gösterdi. Sonra başparmağına kadar sıraladı. Bunun üzerine Allah Zümer sûresi 67. ayetini indirdi: “Allah’tan başkasına kulluk edenler, Allah’ı gerçek bir şekilde tanı-yamadılar…”",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 292
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3240,
+      "arabicnumber": 3240,
+      "text": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Yahudinin biri Nebi (s.a.v)’e uğramıştı. Nebi (s.a.v), ona, Ey Yahudi! buyurdu. Bize bazı şeyler anlat. Yahudi, Ey Ebû’l Kâsım dedi. Allah’ın gökleri şunun yerleri şunun denizleri şunun dağları şunun ve diğer yaratıkları da şunun üzerine koymasına ne dersin? Muhammed b. Salt, Ebû Cafer bu hadisi rivâyet ederken önce küçük parmağını gösterdi. Sonra başparmağına kadar sıraladı. Bunun üzerine Allah Zümer sûresi 67. ayetini indirdi: “Allah’tan başkasına kulluk edenler, Allah’ı gerçek bir şekilde tanı-yamadılar…”",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 292
+      }
+    }
+  ]
 }

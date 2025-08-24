@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"48": "Chapters on Supplication"
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 3370,
-				"hadithnumber_last": 3604.1,
-				"arabicnumber_first": 3370,
-				"arabicnumber_last": 3604.1
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3553,
-			"arabicnumber": 3553,
-			"text": "Ebû Eyyûb el Ensârî (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: Her kim on kere: “Allah’tan başka gerçek ilah yoktur sadece Allah vardır. O tektir, ortağı yoktur, saltanat O’nundur, her türlü övgüler ona mahsustur, hayat veren de öldüren de O’dur. O’nun gücü her şeye yeter” derse İsmail zürriyetinden dört köleyi hürriyetine kavuşturmuş gibi sevap kazanır",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 48,
-				"hadith": 184
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "48": "Duâ Bölümleri"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 3370,
+        "hadithnumber_last": 3604.1,
+        "arabicnumber_first": 3370,
+        "arabicnumber_last": 3604.1
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3553,
+      "arabicnumber": 3553,
+      "text": "Ebû Eyyûb el Ensârî (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: Her kim on kere: “Allah’tan başka gerçek ilah yoktur sadece Allah vardır. O tektir, ortağı yoktur, saltanat O’nundur, her türlü övgüler ona mahsustur, hayat veren de öldüren de O’dur. O’nun gücü her şeye yeter” derse İsmail zürriyetinden dört köleyi hürriyetine kavuşturmuş gibi sevap kazanır",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 48,
+        "hadith": 184
+      }
+    }
+  ]
 }

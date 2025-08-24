@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1692,
-			"arabicnumber": 1692,
-			"text": "Enes bin Malik (r.a.)'den rivayet edildiğine «öre: Resulullah (Sallallahu Aleyhi ve Sellem): «Seher vaktinde yiyiniz ve içiniz. Çünkü onda bereket vardır.» buyurdu.\" Diğer tahric: Buhari, Müslim ve Tirmizi de bu hadisi rivayet etmişler; Tirmizi httdisin Hasen - Sahih olduğunu söylemiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1692,
+      "arabicnumber": 1692,
+      "text": "Enes bin Malik (r.a.)'den rivayet edildiğine «öre: Resulullah (Sallallahu Aleyhi ve Sellem): «Seher vaktinde yiyiniz ve içiniz. Çünkü onda bereket vardır.» buyurdu.\" Diğer tahric: Buhari, Müslim ve Tirmizi de bu hadisi rivayet etmişler; Tirmizi httdisin Hasen - Sahih olduğunu söylemiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 55
+      }
+    }
+  ]
 }

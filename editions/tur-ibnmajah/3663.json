@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3663,
-			"arabicnumber": 3663,
-			"text": "Ebu'd-Derda (r.a.)'den rivayet edildiğine göre, kendisi Nebi (Sallallahu Aleyhi ve Sellem)'den şu emri işitmiştir: «Baba, Cennet kapılarının en hayırlısıdır. Artık o kapıyı yitir veya o kapıyı koru.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3663,
+      "arabicnumber": 3663,
+      "text": "Ebu'd-Derda (r.a.)'den rivayet edildiğine göre, kendisi Nebi (Sallallahu Aleyhi ve Sellem)'den şu emri işitmiştir: «Baba, Cennet kapılarının en hayırlısıdır. Artık o kapıyı yitir veya o kapıyı koru.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 7
+      }
+    }
+  ]
 }

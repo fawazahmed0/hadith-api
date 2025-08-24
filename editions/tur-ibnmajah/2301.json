@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"12": "The Chapters on Business Transactions"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2137,
-				"hadithnumber_last": 2307,
-				"arabicnumber_first": 2137,
-				"arabicnumber_last": 2307
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2301,
-			"arabicnumber": 2301,
-			"text": "(Abdullah) bin Ömer (r.a.)'dzn rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sizden birisi bir bahçenin üzerinden geçtiği zaman (meyvalarından) yesin. Fakat ondan bir şeyi elbisesinin içine koyup götürmesin.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 165
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "12": "Ticaretler Kitabı"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2137,
+        "hadithnumber_last": 2307,
+        "arabicnumber_first": 2137,
+        "arabicnumber_last": 2307
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2301,
+      "arabicnumber": 2301,
+      "text": "(Abdullah) bin Ömer (r.a.)'dzn rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sizden birisi bir bahçenin üzerinden geçtiği zaman (meyvalarından) yesin. Fakat ondan bir şeyi elbisesinin içine koyup götürmesin.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 165
+      }
+    }
+  ]
 }

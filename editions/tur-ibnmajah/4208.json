@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4208,
-			"arabicnumber": 4208,
-			"text": "Abdullah bin Mes'ud (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: (Allah katında sevimli) imrenme yalnız (şu) iki (haslet) de vardır: Allah'ın bir mal verip de onu hak (yolun) da harcamaya muvaffak ettiği adam (ın bu hasleti) ve Allah'ın bir hikmet verip de o hikmetle hükmeden ve onu öğreten adam (ın bu hasleti). AÇIKLAMA 4210’da",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 109
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4208,
+      "arabicnumber": 4208,
+      "text": "Abdullah bin Mes'ud (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: (Allah katında sevimli) imrenme yalnız (şu) iki (haslet) de vardır: Allah'ın bir mal verip de onu hak (yolun) da harcamaya muvaffak ettiği adam (ın bu hasleti) ve Allah'ın bir hikmet verip de o hikmetle hükmeden ve onu öğreten adam (ın bu hasleti). AÇIKLAMA 4210’da",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 109
+      }
+    }
+  ]
 }

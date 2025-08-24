@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3786,
-			"arabicnumber": 3786,
-			"text": "Ebû Huireyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kur'ân'da bir sure otuz âyet olup sahibi (yâni okuyucusu) bağışlamncaya kadar onun için şefaat eder: (O sure); تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ Tebarekellezi bi yedihi’l-mulk… (yâni 67-Mulk suresi) dir.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 130
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3786,
+      "arabicnumber": 3786,
+      "text": "Ebû Huireyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kur'ân'da bir sure otuz âyet olup sahibi (yâni okuyucusu) bağışlamncaya kadar onun için şefaat eder: (O sure); تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ Tebarekellezi bi yedihi’l-mulk… (yâni 67-Mulk suresi) dir.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 130
+      }
+    }
+  ]
 }

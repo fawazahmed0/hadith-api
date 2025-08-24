@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"10": "The Chapters on Divorce"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 2016,
-				"hadithnumber_last": 2477,
-				"arabicnumber_first": 2016,
-				"arabicnumber_last": 2477
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2068,
-			"arabicnumber": 2068,
-			"text": "Abdullah (bin Mes'ûd) (r.a.)'den; Şöyle demiştir: Biz bir Cum'a gecesi Mescid-i Nebevide idik. (Meseid'e giren) bir adam (oradaki cemaata hitaben): Eğer bir erkek, karısının yanında (zina hâlinde) bir erkeği bulup zâniyi öldürürse siz (katil diye kısas olarak) adamı öldürürsünüz. Eğer karısının zina ettiğini söyler (ve şâhidler getiremez) seniz onu kazif haddi ile cezalandırırsınız. Vallahi ben muhakkak bunu Nebi (Sallallahu Aleyhi ve Sellem)'e anlatacağım, dedi. Sonra bunu Nebi (Sallallahu Aleyhi ve Sellem)'e anlattı. Bunun üzerine Allah Teâlâ liân âyetlerini indirdi. Âyetler indirildikten sonra adam (Nebi'e) gelip karısının zina ettiğini iddia etti. Nebi (Sallallahu Aleyhi ve Sellem) de adam İle karısı arasında liân hükmünü uyguladı ve: «Bu kadının (kıvırcık saçlı) siyah bir çocuk doğurması (ve böylece zina olayının doğrulanması) umulur,» buyurdu. Sonra kadın kıvırcık saçlı ve siyah bir çocuk doğurdu. MÜSLİM HADİSİ VE İZAH İÇİN TIKLA EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "10": "Talâk Kitabı"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 2016,
+        "hadithnumber_last": 2477,
+        "arabicnumber_first": 2016,
+        "arabicnumber_last": 2477
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2068,
+      "arabicnumber": 2068,
+      "text": "Abdullah (bin Mes'ûd) (r.a.)'den; Şöyle demiştir: Biz bir Cum'a gecesi Mescid-i Nebevide idik. (Meseid'e giren) bir adam (oradaki cemaata hitaben): Eğer bir erkek, karısının yanında (zina hâlinde) bir erkeği bulup zâniyi öldürürse siz (katil diye kısas olarak) adamı öldürürsünüz. Eğer karısının zina ettiğini söyler (ve şâhidler getiremez) seniz onu kazif haddi ile cezalandırırsınız. Vallahi ben muhakkak bunu Nebi (Sallallahu Aleyhi ve Sellem)'e anlatacağım, dedi. Sonra bunu Nebi (Sallallahu Aleyhi ve Sellem)'e anlattı. Bunun üzerine Allah Teâlâ liân âyetlerini indirdi. Âyetler indirildikten sonra adam (Nebi'e) gelip karısının zina ettiğini iddia etti. Nebi (Sallallahu Aleyhi ve Sellem) de adam İle karısı arasında liân hükmünü uyguladı ve: «Bu kadının (kıvırcık saçlı) siyah bir çocuk doğurması (ve böylece zina olayının doğrulanması) umulur,» buyurdu. Sonra kadın kıvırcık saçlı ve siyah bir çocuk doğurdu. MÜSLİM HADİSİ VE İZAH İÇİN TIKLA EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 53
+      }
+    }
+  ]
 }

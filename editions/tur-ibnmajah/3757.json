@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3757,
-			"arabicnumber": 3757,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Şâir (zümresin) in söylediği sözlerin en doğrusu Lebid İbin Rabia'nın; = \"Bilmiş olunuz ki Allah'tan başka her şey bâtıl (fâni) dır\" sözüdür. Ümeyye bin Ebi's-Salt da (şiirlerinde) müslüman olmaya yaklaşmıştı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 101
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3757,
+      "arabicnumber": 3757,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Şâir (zümresin) in söylediği sözlerin en doğrusu Lebid İbin Rabia'nın; = \"Bilmiş olunuz ki Allah'tan başka her şey bâtıl (fâni) dır\" sözüdür. Ümeyye bin Ebi's-Salt da (şiirlerinde) müslüman olmaya yaklaşmıştı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 101
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"21": "The Chapters on Blood Money"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 2615,
-				"hadithnumber_last": 2694,
-				"arabicnumber_first": 2615,
-				"arabicnumber_last": 2694
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2658,
-			"arabicnumber": 2658,
-			"text": "Ebû Cühayfe (Veheb bin Abdillah es-Suvâî) (r.a.)'den; Şöyle demiştir: Ben Ali bin Ebî Tâlib (r.a.)'a: (Allah'ın kitabından başka) halkın yanında bulunmayıp yalnız sizin yakınınızda (yazılı olarak ve vahya âit) bir bilgi var mıdır? diye sordum. Alî: Hayır! Vallahi halkın yanında bulunandan başka bir şey bizim yanımızda yoktur. Ancak (bizde) Allah'ın kişiye Kur'an hükümlerini anlamak kabiliyeti vermesi ve şu sahifede (yazılı) olan hükümler vardır. Şu sahifede Resulullah (Sallallahu Aleyhi ve Sellem) tarafından buyurulan diyetlerin hükümleri ve hiç bir müslümanm herhangi bir kâfir(i öldürmesin)e karşılık öldürülmemesi hükmü vardır, dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 44
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "21": "Diyet-Kısas Kitabı"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 2615,
+        "hadithnumber_last": 2694,
+        "arabicnumber_first": 2615,
+        "arabicnumber_last": 2694
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2658,
+      "arabicnumber": 2658,
+      "text": "Ebû Cühayfe (Veheb bin Abdillah es-Suvâî) (r.a.)'den; Şöyle demiştir: Ben Ali bin Ebî Tâlib (r.a.)'a: (Allah'ın kitabından başka) halkın yanında bulunmayıp yalnız sizin yakınınızda (yazılı olarak ve vahya âit) bir bilgi var mıdır? diye sordum. Alî: Hayır! Vallahi halkın yanında bulunandan başka bir şey bizim yanımızda yoktur. Ancak (bizde) Allah'ın kişiye Kur'an hükümlerini anlamak kabiliyeti vermesi ve şu sahifede (yazılı) olan hükümler vardır. Şu sahifede Resulullah (Sallallahu Aleyhi ve Sellem) tarafından buyurulan diyetlerin hükümleri ve hiç bir müslümanm herhangi bir kâfir(i öldürmesin)e karşılık öldürülmemesi hükmü vardır, dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 44
+      }
+    }
+  ]
 }

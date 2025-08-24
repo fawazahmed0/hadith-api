@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1431,
-			"arabicnumber": 1431,
-			"text": "Abdullah bin es-Saib (r.a.)'dan: şöyle demiştir : Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i (Mekke) Fetih günü namaz kılarken gördüm. Ayakkabılarını sol tarafına bıraktı. Diğer tahric: Ebu Davud ve Nesai de bunu rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 629
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1431,
+      "arabicnumber": 1431,
+      "text": "Abdullah bin es-Saib (r.a.)'dan: şöyle demiştir : Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i (Mekke) Fetih günü namaz kılarken gördüm. Ayakkabılarını sol tarafına bıraktı. Diğer tahric: Ebu Davud ve Nesai de bunu rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 629
+      }
+    }
+  ]
 }

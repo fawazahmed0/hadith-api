@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"27": "Chapters on Slaughtering"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 3162,
-				"hadithnumber_last": 3199,
-				"arabicnumber_first": 3162,
-				"arabicnumber_last": 3199
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3180,
-			"arabicnumber": 3180,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Ensâr'dan (Ebü'l-Heysem Mâlik bin et-Teyyihân (r.a.) isimli) bir zât'a (misafirliğe) gitmiş. Adam da Resulullah (Sallallahu Aleyhi ve Sellem) için bir hayvanı boğazlamak üzere bıçak almış. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) adama: «Sakın, sağım hayvanı kesme» buyurmuştur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 27,
-				"hadith": 19
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "27": "Zebâih (Yani Boğazlanan Hayvanlar) Kitabı"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 3162,
+        "hadithnumber_last": 3199,
+        "arabicnumber_first": 3162,
+        "arabicnumber_last": 3199
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3180,
+      "arabicnumber": 3180,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Ensâr'dan (Ebü'l-Heysem Mâlik bin et-Teyyihân (r.a.) isimli) bir zât'a (misafirliğe) gitmiş. Adam da Resulullah (Sallallahu Aleyhi ve Sellem) için bir hayvanı boğazlamak üzere bıçak almış. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) adama: «Sakın, sağım hayvanı kesme» buyurmuştur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 27,
+        "hadith": 19
+      }
+    }
+  ]
 }

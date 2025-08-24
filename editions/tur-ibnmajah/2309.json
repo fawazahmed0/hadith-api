@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"13": "The Chapters on Rulings"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2308,
-				"hadithnumber_last": 2374,
-				"arabicnumber_first": 2308,
-				"arabicnumber_last": 2374
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2309,
-			"arabicnumber": 2309,
-			"text": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «(Halk arasında) hâkimlik etmeyi taleb eden kimse kendi nefsi ile başbaşa bırakılır (Allah tarafından kendisine yardım edilmez). Kim de buna icbar edilirse (yâni isteği dışında bu göreve atanırsa) bir melek ona iner ve onu doğru yola yöneltir.» Diğer tahric: Bu hadisi Ebu Davud. Tirmizi ve Hakim de rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "13": "Ahkâm (Hükümler) Kitabı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2308,
+        "hadithnumber_last": 2374,
+        "arabicnumber_first": 2308,
+        "arabicnumber_last": 2374
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2309,
+      "arabicnumber": 2309,
+      "text": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «(Halk arasında) hâkimlik etmeyi taleb eden kimse kendi nefsi ile başbaşa bırakılır (Allah tarafından kendisine yardım edilmez). Kim de buna icbar edilirse (yâni isteği dışında bu göreve atanırsa) bir melek ona iner ve onu doğru yola yöneltir.» Diğer tahric: Bu hadisi Ebu Davud. Tirmizi ve Hakim de rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 2
+      }
+    }
+  ]
 }

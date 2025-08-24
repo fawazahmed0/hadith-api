@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"28": "Chapters on Hunting"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3200,
-				"hadithnumber_last": 3250,
-				"arabicnumber_first": 3200,
-				"arabicnumber_last": 3250
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3241,
-			"arabicnumber": 3241,
-			"text": "Hâlid bin el-Velîd (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'e kebab edilmiş bir keler getirilip yakınına konuldu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) de ondan yemek için elini uzattı. Orada hazır bulunan (lardan biri veya birkaçı): Yâ Resulallah! Bu, keler etidir, dedi. Bunun üzerine Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) elini ondan çekti. Sonra Hâlid (bin el-Velid): Yâ Resûlallah! Dabb (keler) haram mıdır? diye sordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): Hayır. Lakin bu hayvan benim memleketimde yoktu. Ben kendimi ondan tiksinir durumda buluyorum, buyurdu. Râvi demiştir ki: Bunun üzerine Hâlid, Dabb (keler) e eğildi ve ondan yedi. Resulullah (Sallallahu Aleyhi ve Sellem) de ona bakıyordu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "28": "Av Kitabı"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3200,
+        "hadithnumber_last": 3250,
+        "arabicnumber_first": 3200,
+        "arabicnumber_last": 3250
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3241,
+      "arabicnumber": 3241,
+      "text": "Hâlid bin el-Velîd (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'e kebab edilmiş bir keler getirilip yakınına konuldu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) de ondan yemek için elini uzattı. Orada hazır bulunan (lardan biri veya birkaçı): Yâ Resulallah! Bu, keler etidir, dedi. Bunun üzerine Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) elini ondan çekti. Sonra Hâlid (bin el-Velid): Yâ Resûlallah! Dabb (keler) haram mıdır? diye sordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): Hayır. Lakin bu hayvan benim memleketimde yoktu. Ben kendimi ondan tiksinir durumda buluyorum, buyurdu. Râvi demiştir ki: Bunun üzerine Hâlid, Dabb (keler) e eğildi ve ondan yedi. Resulullah (Sallallahu Aleyhi ve Sellem) de ona bakıyordu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 42
+      }
+    }
+  ]
 }

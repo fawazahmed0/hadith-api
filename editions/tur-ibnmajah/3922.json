@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"35": "Interpretation of Dreams"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 3893,
-				"hadithnumber_last": 3926,
-				"arabicnumber_first": 3893,
-				"arabicnumber_last": 3926
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3922,
-			"arabicnumber": 3922,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Ben bîr defa rü'yamda iki kolumda altından (mamul) iki bilezik gördüm. (Bunlar bana ağır geldi) Sonra bileziklere üfledim (ikisi de hemen uçup gitti). Sonra ben bu bilezikleri şu iki kezzâb (sahte peygamber) Müseyleme ve el-Ansi ile yorumladım.»\" Diğer tahric: Bu hadis; Buhari, Müslim ve Tirmizi tarafından da rivayet edilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 35,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "35": "Rü'ya Tâbiri (Yorumlanması)"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 3893,
+        "hadithnumber_last": 3926,
+        "arabicnumber_first": 3893,
+        "arabicnumber_last": 3926
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3922,
+      "arabicnumber": 3922,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Ben bîr defa rü'yamda iki kolumda altından (mamul) iki bilezik gördüm. (Bunlar bana ağır geldi) Sonra bileziklere üfledim (ikisi de hemen uçup gitti). Sonra ben bu bilezikleri şu iki kezzâb (sahte peygamber) Müseyleme ve el-Ansi ile yorumladım.»\" Diğer tahric: Bu hadis; Buhari, Müslim ve Tirmizi tarafından da rivayet edilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 35,
+        "hadith": 30
+      }
+    }
+  ]
 }

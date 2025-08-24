@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2918,
-			"arabicnumber": 2918,
-			"text": "(Abdullah) bin Ömer (r.a.)'dan; Şöyle demiştir: Ben telbiye'yi Resulullah (Sallallahu Aleyhi ve Sellem)'lin mübarek ağzından aldım (belledim), O şöyle buyuruyordu: Lebbeyk Allahümme Lebbeyk, Lebbeyk la şerik'e leke Lebbeyk, inne'l-Hamde ve'n-ni'mete leke ve'l-mülk. La şerike lek. (îbn-i Ömer'in râvîsi) Nâfi' demiş ki: İbn-i Ömer (r.a.), Nebi (Sallallahu Aleyhi ve Sellem)'in telbiyesine şunu ekliyordu: Lebbeyke, Lebbeyke, Lebbeyke ve sa'deyke ve'I-hayru fi yedeyke Lebbeyke Ve'-r-Rağbâu ileyke ve'I-amel",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2918,
+      "arabicnumber": 2918,
+      "text": "(Abdullah) bin Ömer (r.a.)'dan; Şöyle demiştir: Ben telbiye'yi Resulullah (Sallallahu Aleyhi ve Sellem)'lin mübarek ağzından aldım (belledim), O şöyle buyuruyordu: Lebbeyk Allahümme Lebbeyk, Lebbeyk la şerik'e leke Lebbeyk, inne'l-Hamde ve'n-ni'mete leke ve'l-mülk. La şerike lek. (îbn-i Ömer'in râvîsi) Nâfi' demiş ki: İbn-i Ömer (r.a.), Nebi (Sallallahu Aleyhi ve Sellem)'in telbiyesine şunu ekliyordu: Lebbeyke, Lebbeyke, Lebbeyke ve sa'deyke ve'I-hayru fi yedeyke Lebbeyke Ve'-r-Rağbâu ileyke ve'I-amel",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 37
+      }
+    }
+  ]
 }

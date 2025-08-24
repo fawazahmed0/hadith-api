@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"1": "The Book of Purification and its Sunnah"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 267,
-				"hadithnumber_last": 666,
-				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 408,
-			"arabicnumber": 408,
-			"text": "(Abdullah) İbn-i Abbas (Radiyallaku anh'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İki defa tam ve mükemmel olarak veya üç defa sümkürünüz.» Tahric: Hadis, Ebu Davud, Ahmed, Hakim ve İbnü'l-Carud tarafından da rivayet edilmiş, İbnü'I-Kattan bunun sahih olduğunu belirtmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 142
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "1": "Taharet ve Sünnet (Hadis)lerinin Beyanı Kitabı"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 267,
+        "hadithnumber_last": 666,
+        "arabicnumber_first": 267,
+        "arabicnumber_last": 666
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 408,
+      "arabicnumber": 408,
+      "text": "(Abdullah) İbn-i Abbas (Radiyallaku anh'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İki defa tam ve mükemmel olarak veya üç defa sümkürünüz.» Tahric: Hadis, Ebu Davud, Ahmed, Hakim ve İbnü'l-Carud tarafından da rivayet edilmiş, İbnü'I-Kattan bunun sahih olduğunu belirtmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 142
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"26": "Chapters on Sacrifices"
-		},
-		"section_detail": {
-			"26": {
-				"hadithnumber_first": 3120,
-				"hadithnumber_last": 3161,
-				"arabicnumber_first": 3120,
-				"arabicnumber_last": 3161
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3156,
-			"arabicnumber": 3156,
-			"text": "Resulullah (Sallallahu Aleyhi ve Sellem)\"in müezzini Sa'd (bin Aiz el-Karaz) (r.a.)*den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), kurbanını Zürayk oğulları yolu olan sokağın kenarında kendi eliyle, keskin bir bıçakla boğazladı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif Isnaad"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif Isnaad"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 26,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "26": "Kurban Kitabı"
+    },
+    "section_detail": {
+      "26": {
+        "hadithnumber_first": 3120,
+        "hadithnumber_last": 3161,
+        "arabicnumber_first": 3120,
+        "arabicnumber_last": 3161
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3156,
+      "arabicnumber": 3156,
+      "text": "Resulullah (Sallallahu Aleyhi ve Sellem)\"in müezzini Sa'd (bin Aiz el-Karaz) (r.a.)*den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), kurbanını Zürayk oğulları yolu olan sokağın kenarında kendi eliyle, keskin bir bıçakla boğazladı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 26,
+        "hadith": 37
+      }
+    }
+  ]
 }

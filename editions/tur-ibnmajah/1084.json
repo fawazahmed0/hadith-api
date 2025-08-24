@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1084,
-			"arabicnumber": 1084,
-			"text": "Ebu Lübabe bin Abdilmünzir (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Selletn), şöyle buyurdu, demiştir: «Şüphesiz Cum'a günü, Allah katında günlerin büyüğü ve en azametlisidir. Allah katında Kurban bayramı ve Ramazan bayramı günlerinden daha büyüktür. Onda beş meziyet vardır. Allah, adem (Aleyhisselam)'ı o gün yarattı, Allah, adem (Aleyhisselam)'ı (Cennetten) yere o gün indirdi, Allah, adem (Aleyhisselam)'ı o gün öldürdü. O günde öyle bir saat vardır ki, (mu'min) kul haram bir şey istemedikçe Allah Teala'dan ne isterse mutlaka Allah verecektir. Kıyamet o günde kopacaktır. Yüce makama erişen melekler, gök, yer, rüzgarlar, dağlar ve deniz Cuma gününden korkarlar. (Anılan varlıklardan) bu günden korkmayan tek bir ferd yoktur.» Not: İsnadının hasen olduğu Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 282
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1084,
+      "arabicnumber": 1084,
+      "text": "Ebu Lübabe bin Abdilmünzir (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Selletn), şöyle buyurdu, demiştir: «Şüphesiz Cum'a günü, Allah katında günlerin büyüğü ve en azametlisidir. Allah katında Kurban bayramı ve Ramazan bayramı günlerinden daha büyüktür. Onda beş meziyet vardır. Allah, adem (Aleyhisselam)'ı o gün yarattı, Allah, adem (Aleyhisselam)'ı (Cennetten) yere o gün indirdi, Allah, adem (Aleyhisselam)'ı o gün öldürdü. O günde öyle bir saat vardır ki, (mu'min) kul haram bir şey istemedikçe Allah Teala'dan ne isterse mutlaka Allah verecektir. Kıyamet o günde kopacaktır. Yüce makama erişen melekler, gök, yer, rüzgarlar, dağlar ve deniz Cuma gününden korkarlar. (Anılan varlıklardan) bu günden korkmayan tek bir ferd yoktur.» Not: İsnadının hasen olduğu Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 282
+      }
+    }
+  ]
 }

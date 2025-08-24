@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"24": "The Chapters on Jihad"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 2753,
-				"hadithnumber_last": 2881,
-				"arabicnumber_first": 2753,
-				"arabicnumber_last": 2881
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2753,
-			"arabicnumber": 2753,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Allah, kendi yolunda (cihâd'a) çıkan (müslüman) kimseye «Benim yolumda cihâd, bana imân ve peygamberlerimi tasdikten başka bir neden onu (evinden) çıkarmıyor» diye (büyük ikram ve çok sevâb) hazırlamıştır. (Allah) «O kimseyi cennete dâhil etmek veya elde ettiği sevâb veya ganimete nail olarak, çıktığı evine (selâmetle) geri getirmek benim kefaletim altındadır» (diye taahhüdde bulundu.)» Sonra Resul-i Ekrem (Sallallahu Aleyhi ve Sellem) (sözüne devamla): «Nefsim elinde bulunan Allah'a yemin ederim ki müslümanlara güçlük çıkarmam (endişesi) olmasaydı, Allah yolunda (cihâda) çıkan hiç bir seriyye'den katiyen geri kalmazdım. Ve lâkin ben bir bolluk bulamıyorum ki onları (binit hayvanlarına) bindireyim. Onlar da bir bolluk bulamıyorlar ki (binici olarak) beni tâkib edebilsinler. Ben (savaşa gittik)den sonra (savaştan) geri kalmalarına da gönülleri razı olmaz. Muhammed'in nefsi elinde olan (Allah)a yemin ederim ki Allah yolunda savaşıp öldürülmeyi, sonra (dirilerek) savaşıp katlolunmayı, sonra (tekrar dirilerek) savaşıp öldürülmeyi arzularım» buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "24": "Cihâd Kitabı"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 2753,
+        "hadithnumber_last": 2881,
+        "arabicnumber_first": 2753,
+        "arabicnumber_last": 2881
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2753,
+      "arabicnumber": 2753,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Allah, kendi yolunda (cihâd'a) çıkan (müslüman) kimseye «Benim yolumda cihâd, bana imân ve peygamberlerimi tasdikten başka bir neden onu (evinden) çıkarmıyor» diye (büyük ikram ve çok sevâb) hazırlamıştır. (Allah) «O kimseyi cennete dâhil etmek veya elde ettiği sevâb veya ganimete nail olarak, çıktığı evine (selâmetle) geri getirmek benim kefaletim altındadır» (diye taahhüdde bulundu.)» Sonra Resul-i Ekrem (Sallallahu Aleyhi ve Sellem) (sözüne devamla): «Nefsim elinde bulunan Allah'a yemin ederim ki müslümanlara güçlük çıkarmam (endişesi) olmasaydı, Allah yolunda (cihâda) çıkan hiç bir seriyye'den katiyen geri kalmazdım. Ve lâkin ben bir bolluk bulamıyorum ki onları (binit hayvanlarına) bindireyim. Onlar da bir bolluk bulamıyorlar ki (binici olarak) beni tâkib edebilsinler. Ben (savaşa gittik)den sonra (savaştan) geri kalmalarına da gönülleri razı olmaz. Muhammed'in nefsi elinde olan (Allah)a yemin ederim ki Allah yolunda savaşıp öldürülmeyi, sonra (dirilerek) savaşıp katlolunmayı, sonra (tekrar dirilerek) savaşıp öldürülmeyi arzularım» buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 1
+      }
+    }
+  ]
 }

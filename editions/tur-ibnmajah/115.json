@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"0": "The Book of the Sunnah"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 266,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 266
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 115,
-			"arabicnumber": 115,
-			"text": "Sa'd bin Ebi Vakkas r.a.’den,rivayet edildiğine göre Resul-i Ekrem Sallallahu aleyhi ve sellem Ali r.a.’a şöyle buyurmuştur: ‘’(Ya Ali!) Bana nisbeten sen, Musa’ya oranla Harun mevkiinde olmaya razı olmaz mısın?’’",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 115
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "0": "Sünnet Kitabı"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 266,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 266
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 115,
+      "arabicnumber": 115,
+      "text": "Sa'd bin Ebi Vakkas r.a.’den,rivayet edildiğine göre Resul-i Ekrem Sallallahu aleyhi ve sellem Ali r.a.’a şöyle buyurmuştur: ‘’(Ya Ali!) Bana nisbeten sen, Musa’ya oranla Harun mevkiinde olmaya razı olmaz mısın?’’",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 0,
+        "hadith": 115
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"20": "The Chapters on Legal Punishments"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 2533,
-				"hadithnumber_last": 2614,
-				"arabicnumber_first": 2533,
-				"arabicnumber_last": 2614
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2590,
-			"arabicnumber": 2590,
-			"text": "İbn-i Abbas (r.a.)'den; Şöyle demiştir: Ganimet malının humus (beşte bir) hissesinden olan kölelerden biri, humus malından bir şey çaldı. Durum Nebi (Sallallahu Aleyhi ve Sellem)'e arz edildi. Nebi (Sallallahu Aleyhi ve Selîem) onun elini kestirmedi ve: «Allah Azze ve Celle'nin malıdır, bâzısı bâzısını çalmıştır,» buyurdu. Not: Bunun senedinde bulunan Cübare'nin zayıflığı Zevaid'de belirtilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "20": "Had (Cezâ)lar Kitabı"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 2533,
+        "hadithnumber_last": 2614,
+        "arabicnumber_first": 2533,
+        "arabicnumber_last": 2614
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2590,
+      "arabicnumber": 2590,
+      "text": "İbn-i Abbas (r.a.)'den; Şöyle demiştir: Ganimet malının humus (beşte bir) hissesinden olan kölelerden biri, humus malından bir şey çaldı. Durum Nebi (Sallallahu Aleyhi ve Sellem)'e arz edildi. Nebi (Sallallahu Aleyhi ve Selîem) onun elini kestirmedi ve: «Allah Azze ve Celle'nin malıdır, bâzısı bâzısını çalmıştır,» buyurdu. Not: Bunun senedinde bulunan Cübare'nin zayıflığı Zevaid'de belirtilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 58
+      }
+    }
+  ]
 }

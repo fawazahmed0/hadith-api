@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3041,
-			"arabicnumber": 3041,
-			"text": "İbn Abbas (r.a.)’dan rivâyete göre, şöyle demiştir: Cemreler taşlandıktan sonra kadınlarla cinsel ilişki dışında her şey helaldir. “Güzel kokuda helâl midir?” diye soruldu. O da şöyle karşılık verdi: “Rasûlullah (Sallallau Aleyhi ve Sellem)’i misk kokusunu süründüğünü gördüm. Acaba o koku sayılır mı?” Diğer tahric edenler: Nesai, Menasik-i Hac; Müsned-i Hanbel:",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 160
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3041,
+      "arabicnumber": 3041,
+      "text": "İbn Abbas (r.a.)’dan rivâyete göre, şöyle demiştir: Cemreler taşlandıktan sonra kadınlarla cinsel ilişki dışında her şey helaldir. “Güzel kokuda helâl midir?” diye soruldu. O da şöyle karşılık verdi: “Rasûlullah (Sallallau Aleyhi ve Sellem)’i misk kokusunu süründüğünü gördüm. Acaba o koku sayılır mı?” Diğer tahric edenler: Nesai, Menasik-i Hac; Müsned-i Hanbel:",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 160
+      }
+    }
+  ]
 }

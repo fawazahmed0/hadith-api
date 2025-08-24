@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"36": "Tribulations"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 3927,
-				"hadithnumber_last": 4099,
-				"arabicnumber_first": 3927,
-				"arabicnumber_last": 4099
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3995,
-			"arabicnumber": 3995,
-			"text": "Ebu Said-i Hudri (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) (bir gün) kalkıp cemaate şoyle bir konuşma yaptı: «Hayır. Allah'a yemin ederim ki ey insanlarl Sizin için korktuğum şey ancak Allah'ın sizin için çıkaracağı dünya ziyneti (olan ser)vet)dir.» Bunun üzerine bir adam O'na: Ya Resulallah! hayır (yani mal) şer getirir mi? diye sordu. Bu sorudan sonra Resulullah (Sallallahu Aleyhi ve Sellem): «(Mutlaka) hayır (olan bir Şey) şüphesiz ancak hayır getirir. Ama mal (mutlaka) hayır mıdır? (Bakınız) küçük ırmağın bitirdiği bitkilerin tümün (‘ü tıkabasa yiyen hayvanı) karın şişkinliğiyle derhal öldürür veya ölüm'e yaklaştırır. Fakat çayır yiyicisi hayvan (onu) yer, nihayet böğürleri dolunca güneşlenir, sonra kolayca tersler, işer. Daha sonra geviş getirir (ve böylece karnındakini hazmettikten) sonra tekrar (çayırlığa) dönüp otlanır. işte (bunun gibi) meşru yolla bir mal alan kimseye o mal mubarek (bereketli) olur. Ğayr-i meşru yolla bir mal alan kimse'nin durumu da yiyip de doymayan obur kimse'nin durumuna benzer.» Diğer tahric. Bu hadisi Buhari de Rikak kitabının 6. babında rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 70
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "36": "Fitneler Kitabı"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 3927,
+        "hadithnumber_last": 4099,
+        "arabicnumber_first": 3927,
+        "arabicnumber_last": 4099
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3995,
+      "arabicnumber": 3995,
+      "text": "Ebu Said-i Hudri (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) (bir gün) kalkıp cemaate şoyle bir konuşma yaptı: «Hayır. Allah'a yemin ederim ki ey insanlarl Sizin için korktuğum şey ancak Allah'ın sizin için çıkaracağı dünya ziyneti (olan ser)vet)dir.» Bunun üzerine bir adam O'na: Ya Resulallah! hayır (yani mal) şer getirir mi? diye sordu. Bu sorudan sonra Resulullah (Sallallahu Aleyhi ve Sellem): «(Mutlaka) hayır (olan bir Şey) şüphesiz ancak hayır getirir. Ama mal (mutlaka) hayır mıdır? (Bakınız) küçük ırmağın bitirdiği bitkilerin tümün (‘ü tıkabasa yiyen hayvanı) karın şişkinliğiyle derhal öldürür veya ölüm'e yaklaştırır. Fakat çayır yiyicisi hayvan (onu) yer, nihayet böğürleri dolunca güneşlenir, sonra kolayca tersler, işer. Daha sonra geviş getirir (ve böylece karnındakini hazmettikten) sonra tekrar (çayırlığa) dönüp otlanır. işte (bunun gibi) meşru yolla bir mal alan kimseye o mal mubarek (bereketli) olur. Ğayr-i meşru yolla bir mal alan kimse'nin durumu da yiyip de doymayan obur kimse'nin durumuna benzer.» Diğer tahric. Bu hadisi Buhari de Rikak kitabının 6. babında rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 70
+      }
+    }
+  ]
 }

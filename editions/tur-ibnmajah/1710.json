@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1710,
-			"arabicnumber": 1710,
-			"text": "Ebu Seleme (hin Abdirrahman) (r.a.)'dan; Şöyle demiştir: Ben, Aişe (r.anha)'ya Nebi (Sallallahu Aleyhi ve Sellem)'in (nafile) orucunu sordum. Dedi ki: O, (bazı aylarda) o kadar (çok oruç tutardı ki, biz: Hep oruç tuttu, derdik. Ve bazı aylarda) o kadar oruçsuz olurdu ki, biz: Oruç tutmayı bıraktı, derdik. Ve Onu hiç bir ayda Şa'ban'dakinden daha çok (nafile) oruç tutmuş olarak katiyyen görmedim. Şa'ban ayının tümüne yakın çoğunu oruçla geçirirdi. Diğer tahric: Bu hedisi Kütüb-i Sitte sahipleri ve Beyhaki rivayet etmişlerdir. AÇIKLAMA 1711’de",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 73
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1710,
+      "arabicnumber": 1710,
+      "text": "Ebu Seleme (hin Abdirrahman) (r.a.)'dan; Şöyle demiştir: Ben, Aişe (r.anha)'ya Nebi (Sallallahu Aleyhi ve Sellem)'in (nafile) orucunu sordum. Dedi ki: O, (bazı aylarda) o kadar (çok oruç tutardı ki, biz: Hep oruç tuttu, derdik. Ve bazı aylarda) o kadar oruçsuz olurdu ki, biz: Oruç tutmayı bıraktı, derdik. Ve Onu hiç bir ayda Şa'ban'dakinden daha çok (nafile) oruç tutmuş olarak katiyyen görmedim. Şa'ban ayının tümüne yakın çoğunu oruçla geçirirdi. Diğer tahric: Bu hedisi Kütüb-i Sitte sahipleri ve Beyhaki rivayet etmişlerdir. AÇIKLAMA 1711’de",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 73
+      }
+    }
+  ]
 }

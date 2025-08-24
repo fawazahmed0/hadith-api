@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1722,
-			"arabicnumber": 1722,
-			"text": "Ebu Ubeyd (Sa'd bin Ubeyd) (r.a.)'den: Şöyle demiştir: Ben, Kurban bayramında Ömer bin el-Hattab (r.a.)'in beraberindeydim.önce bayram namazını kıldı, sonra (okuduğu hutbede): Şüphesiz Resulullah (Sallallahu Aleyhi ve Sellem), şu fıtır günü ve Kurban günü orucundan nehiy buyurmuştur, Fıtır günü, Ramazan orucunuzu bıraktığınız gündür. Kurban günü de kurbanlarınızın etini yediğiniz gündür, dedi. Diğer tahric: Bu hadisi Kütiib-i Sitte sahipleri ve Beyhaki de rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1722,
+      "arabicnumber": 1722,
+      "text": "Ebu Ubeyd (Sa'd bin Ubeyd) (r.a.)'den: Şöyle demiştir: Ben, Kurban bayramında Ömer bin el-Hattab (r.a.)'in beraberindeydim.önce bayram namazını kıldı, sonra (okuduğu hutbede): Şüphesiz Resulullah (Sallallahu Aleyhi ve Sellem), şu fıtır günü ve Kurban günü orucundan nehiy buyurmuştur, Fıtır günü, Ramazan orucunuzu bıraktığınız gündür. Kurban günü de kurbanlarınızın etini yediğiniz gündür, dedi. Diğer tahric: Bu hadisi Kütiib-i Sitte sahipleri ve Beyhaki de rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 85
+      }
+    }
+  ]
 }

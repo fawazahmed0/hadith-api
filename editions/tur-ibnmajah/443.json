@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"1": "The Book of Purification and its Sunnah"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 267,
-				"hadithnumber_last": 666,
-				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 443,
-			"arabicnumber": 443,
-			"text": "(Abdullah bin Zeyd Radiyallahu anh)'den rivayet edildiğine göre şöyle söylemiştir: Resulullah (Sallallahu Aleyhi ve Sellem) buyurdular ki: «Kulaklar baş'tan (birer parça)dır.» Not: Zevaid'de denilmiş ki, eğer son ravi Süveyd bin Said bellemiş ise bu isnad hasendir. AÇIKLAMA 445’te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 177
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "1": "Taharet ve Sünnet (Hadis)lerinin Beyanı Kitabı"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 267,
+        "hadithnumber_last": 666,
+        "arabicnumber_first": 267,
+        "arabicnumber_last": 666
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 443,
+      "arabicnumber": 443,
+      "text": "(Abdullah bin Zeyd Radiyallahu anh)'den rivayet edildiğine göre şöyle söylemiştir: Resulullah (Sallallahu Aleyhi ve Sellem) buyurdular ki: «Kulaklar baş'tan (birer parça)dır.» Not: Zevaid'de denilmiş ki, eğer son ravi Süveyd bin Said bellemiş ise bu isnad hasendir. AÇIKLAMA 445’te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 177
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"12": "The Chapters on Business Transactions"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2137,
-				"hadithnumber_last": 2307,
-				"arabicnumber_first": 2137,
-				"arabicnumber_last": 2307
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2240,
-			"arabicnumber": 2240,
-			"text": "Abdullah bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Ey insanlar! Muhaffele (=müşteriyi aldatmak amacıyla sütü sağılmayıp göğsünde hapsedilen) bir hayvanı satın alan bir kimse (hayvanı geri vermek hususunda) üç güne kadar serbesttir. Müşteri onu geri verecekse onunla beraber, sağdığı sütünün iki mislini (Veya eldeki) bir mislini (n kıymeti kadar) buğday da versin.» Not: Bu hadisi Ebu Davtid da rivayet etmiştir. EI-Fetih'te: Bunun senedi zayıftır ve İbn-i Kuddame demiş ki bu hadisin zahiri ile amel etmek alimlerin ittifakı ile terkedilmiştir, diye bilgi verilmiştir. EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 104
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "12": "Ticaretler Kitabı"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2137,
+        "hadithnumber_last": 2307,
+        "arabicnumber_first": 2137,
+        "arabicnumber_last": 2307
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2240,
+      "arabicnumber": 2240,
+      "text": "Abdullah bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Ey insanlar! Muhaffele (=müşteriyi aldatmak amacıyla sütü sağılmayıp göğsünde hapsedilen) bir hayvanı satın alan bir kimse (hayvanı geri vermek hususunda) üç güne kadar serbesttir. Müşteri onu geri verecekse onunla beraber, sağdığı sütünün iki mislini (Veya eldeki) bir mislini (n kıymeti kadar) buğday da versin.» Not: Bu hadisi Ebu Davtid da rivayet etmiştir. EI-Fetih'te: Bunun senedi zayıftır ve İbn-i Kuddame demiş ki bu hadisin zahiri ile amel etmek alimlerin ittifakı ile terkedilmiştir, diye bilgi verilmiştir. EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 104
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 882,
-			"arabicnumber": 882,
-			"text": "Vail bin Hucr (r.a.)'den rivayet edildiğine göre. şöyle demiştir : Ben, Nebi (Sallallahu Aleyhi ve Sellem)'in secdeye giderken ellerinden önce dizlerini yere koyduğunu ve secdeden kalktığı zaman, dizlerinden önce ellerini (yerden) kaldırdığını gördüm.\" Diğer tahric: Ebu Davud, Ahmed, Nesai, Tirmizi, el-Hakirrı, Darekutni, Darimi ve Tahavi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 80
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 882,
+      "arabicnumber": 882,
+      "text": "Vail bin Hucr (r.a.)'den rivayet edildiğine göre. şöyle demiştir : Ben, Nebi (Sallallahu Aleyhi ve Sellem)'in secdeye giderken ellerinden önce dizlerini yere koyduğunu ve secdeden kalktığı zaman, dizlerinden önce ellerini (yerden) kaldırdığını gördüm.\" Diğer tahric: Ebu Davud, Ahmed, Nesai, Tirmizi, el-Hakirrı, Darekutni, Darimi ve Tahavi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 80
+      }
+    }
+  ]
 }

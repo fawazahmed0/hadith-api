@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"6": "Chapters Regarding Funerals"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1433,
-				"hadithnumber_last": 1637,
-				"arabicnumber_first": 1433,
-				"arabicnumber_last": 1637
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1454,
-			"arabicnumber": 1454,
-			"text": "Ümmü Seleme (r.anha)'dan;şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Ebu Seieme (r.a.)'ın (cenazesinin) yanına girdi. Ebu Seleme (r.a.)'in gözü açık (kalmış) idi. Efendimiz Onun gözünü kapadı. Sonra buyurdu ki: «Şüphesiz ruh alındığı zaman göz onu takib eder.» Diğer tahric: Müslim, Ebu Davud ve Beyhaki de bunu rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "6": "Cenazeler Kitabı"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1433,
+        "hadithnumber_last": 1637,
+        "arabicnumber_first": 1433,
+        "arabicnumber_last": 1637
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1454,
+      "arabicnumber": 1454,
+      "text": "Ümmü Seleme (r.anha)'dan;şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Ebu Seieme (r.a.)'ın (cenazesinin) yanına girdi. Ebu Seleme (r.a.)'in gözü açık (kalmış) idi. Efendimiz Onun gözünü kapadı. Sonra buyurdu ki: «Şüphesiz ruh alındığı zaman göz onu takib eder.» Diğer tahric: Müslim, Ebu Davud ve Beyhaki de bunu rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 22
+      }
+    }
+  ]
 }

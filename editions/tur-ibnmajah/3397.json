@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3397,
-			"arabicnumber": 3397,
-			"text": "Ebû Katâde (Haris) (r.a.)'den rivayet edildiğine göre kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işitmiştir: «Hurma ile hurma koruğunu bir arada birleştirmeyim/, kuru üzüm ile kuru hurmayı da bir arada birleştirmeyiniz. (Yâni birarada sulandırmak suretiyle şıra yapmayınız.) Bunların her birini yalnızca sulandırıp şırasını yapınız.»' Tahric: Bu hadisi Buhârl, Müslim, Ebû Dâvûd ve Nesâî tarafından da rivayet edilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3397,
+      "arabicnumber": 3397,
+      "text": "Ebû Katâde (Haris) (r.a.)'den rivayet edildiğine göre kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işitmiştir: «Hurma ile hurma koruğunu bir arada birleştirmeyim/, kuru üzüm ile kuru hurmayı da bir arada birleştirmeyiniz. (Yâni birarada sulandırmak suretiyle şıra yapmayınız.) Bunların her birini yalnızca sulandırıp şırasını yapınız.»' Tahric: Bu hadisi Buhârl, Müslim, Ebû Dâvûd ve Nesâî tarafından da rivayet edilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 27
+      }
+    }
+  ]
 }

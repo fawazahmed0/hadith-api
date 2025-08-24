@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"31": "Chapters on Medicine"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 3436,
-				"hadithnumber_last": 3549,
-				"arabicnumber_first": 3436,
-				"arabicnumber_last": 3549
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3542,
-			"arabicnumber": 3542,
-			"text": "Câbir bin Abdillah (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) cüzzamlı bir adam'ın elini tuttu, sonra beraberinde elini yemek çanağına sokup şöyle buyurdu: (Benimle beraber) ye. Ben Allah'a güvenir ve Allah'a dayanırım",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 107
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "31": "Tıp Kitabı"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 3436,
+        "hadithnumber_last": 3549,
+        "arabicnumber_first": 3436,
+        "arabicnumber_last": 3549
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3542,
+      "arabicnumber": 3542,
+      "text": "Câbir bin Abdillah (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) cüzzamlı bir adam'ın elini tuttu, sonra beraberinde elini yemek çanağına sokup şöyle buyurdu: (Benimle beraber) ye. Ben Allah'a güvenir ve Allah'a dayanırım",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 107
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4251,
-			"arabicnumber": 4251,
-			"text": "Enes (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Adem oğullarının hepsi çok günah işler. Çok günah işleyenlerin en hayırlısı çokça tevbe edenlerdir. Diğer tahric: Bu hadisi Tirmizi, Ahmed, Darimi ve Hakiın de rivAyet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 152
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4251,
+      "arabicnumber": 4251,
+      "text": "Enes (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Adem oğullarının hepsi çok günah işler. Çok günah işleyenlerin en hayırlısı çokça tevbe edenlerdir. Diğer tahric: Bu hadisi Tirmizi, Ahmed, Darimi ve Hakiın de rivAyet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 152
+      }
+    }
+  ]
 }

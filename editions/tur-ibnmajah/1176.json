@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1176,
-			"arabicnumber": 1176,
-			"text": "El-Muttalib bin Abdülah (r.a.)'dan; şöyle demiştir: Bir adam, İbn-i Ömer (r.a.)'a: Ben vitir namazını nasıl kılayım? diye sordu. İbn-i Ömer (r.a.): Tek bir rek'at vitir kıl, diye cevap verince, adam: Halkın (kılacağım tek rek'atli namaza) büteyra (kısa) demelerinden korkarım, dedi. İbn-i Ömer (r.a.) : Allah’ın sünnetidir ve Resulünün. dedi. Yani: (Tek bir rek'atli) bu namaz, Allah ve Resulünün sünnetidir. (Meşru kıldıkları bir ibadettir.) Not: Zevaid'de belirtildiğine göre, hadisin isnadındaki raviler sikadır. Fakat sened munkatidir. Nitekim Buhari : El-Muttalib'in her hangi bir sahabiden hadis dinlediğini bilemiyeceğim, demiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 374
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1176,
+      "arabicnumber": 1176,
+      "text": "El-Muttalib bin Abdülah (r.a.)'dan; şöyle demiştir: Bir adam, İbn-i Ömer (r.a.)'a: Ben vitir namazını nasıl kılayım? diye sordu. İbn-i Ömer (r.a.): Tek bir rek'at vitir kıl, diye cevap verince, adam: Halkın (kılacağım tek rek'atli namaza) büteyra (kısa) demelerinden korkarım, dedi. İbn-i Ömer (r.a.) : Allah’ın sünnetidir ve Resulünün. dedi. Yani: (Tek bir rek'atli) bu namaz, Allah ve Resulünün sünnetidir. (Meşru kıldıkları bir ibadettir.) Not: Zevaid'de belirtildiğine göre, hadisin isnadındaki raviler sikadır. Fakat sened munkatidir. Nitekim Buhari : El-Muttalib'in her hangi bir sahabiden hadis dinlediğini bilemiyeceğim, demiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 374
+      }
+    }
+  ]
 }

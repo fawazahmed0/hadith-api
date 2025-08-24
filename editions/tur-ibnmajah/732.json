@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"3": "The Book of the Adhan and the Sunnah Regarding It"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 706,
-				"hadithnumber_last": 734,
-				"arabicnumber_first": 706,
-				"arabicnumber_last": 734
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 732,
-			"arabicnumber": 732,
-			"text": "Nebi (Sallallahu Aleyhi ve Sellem)'in mevlası Ebu Rafı' (r.a.)'den rivayet edildiğine göre şöyle demiştir: Ben, Bilal (r.a.)'i, Resulullah Sallallahu Aleyhi ve Sellem'in huzurunda ezan cümlelerini ikişer ikişer tekrarlayarak ezan okurken ve ikamet cümlelerini birer defa okuyarak ikamet ederken gördüm. Not: Alimler Ravi Ma'mer bin Muhammed bin Ubeydullah'ın ve babası Muhammed'in zayıflığı üzerinde ittifak ettikleri için hadis isnadının zayıflığı Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Very Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "3": "Ezan ve Ondaki Sünnet Kitabı"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 706,
+        "hadithnumber_last": 734,
+        "arabicnumber_first": 706,
+        "arabicnumber_last": 734
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 732,
+      "arabicnumber": 732,
+      "text": "Nebi (Sallallahu Aleyhi ve Sellem)'in mevlası Ebu Rafı' (r.a.)'den rivayet edildiğine göre şöyle demiştir: Ben, Bilal (r.a.)'i, Resulullah Sallallahu Aleyhi ve Sellem'in huzurunda ezan cümlelerini ikişer ikişer tekrarlayarak ezan okurken ve ikamet cümlelerini birer defa okuyarak ikamet ederken gördüm. Not: Alimler Ravi Ma'mer bin Muhammed bin Ubeydullah'ın ve babası Muhammed'in zayıflığı üzerinde ittifak ettikleri için hadis isnadının zayıflığı Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 27
+      }
+    }
+  ]
 }

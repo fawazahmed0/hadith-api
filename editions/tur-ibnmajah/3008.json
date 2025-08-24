@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3008,
-			"arabicnumber": 3008,
-			"text": "Enes (r.a.)'den; şöyle demiştir: Biz bu gün (arefe günü) Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde sabahleyin Mina'dan Arafat'a gittik. Bazılarımız tekbir getiriyordu, bazılarımız tehlil getiriyordu. Ne tekbir edenler tehlil edenleri ayıpladı. Nede tehlil edenler tekbir edenleri ayıpladı. (Enes ne şunlar bunlara nede bunlar şunlara... tabirini kullanmış olabilir)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 127
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3008,
+      "arabicnumber": 3008,
+      "text": "Enes (r.a.)'den; şöyle demiştir: Biz bu gün (arefe günü) Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde sabahleyin Mina'dan Arafat'a gittik. Bazılarımız tekbir getiriyordu, bazılarımız tehlil getiriyordu. Ne tekbir edenler tehlil edenleri ayıpladı. Nede tehlil edenler tekbir edenleri ayıpladı. (Enes ne şunlar bunlara nede bunlar şunlara... tabirini kullanmış olabilir)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 127
+      }
+    }
+  ]
 }

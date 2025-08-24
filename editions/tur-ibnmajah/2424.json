@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"15": "The Chapters on Charity"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2390,
-				"hadithnumber_last": 2528,
-				"arabicnumber_first": 2390,
-				"arabicnumber_last": 2528
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2424,
-			"arabicnumber": 2424,
-			"text": "Abdullah bin Ebî Rebîa el-Mahzûmî (r.a.)'den rivayet edildiğine göre: Peygamber (Sallallahu Aleyhi ve Sellem) Huneyn savaşma giderken kendisinden otuz veya kırk bin (dinar veya dirhem) ödünçalmış ve savaştan dönünce bu borcu kendisine ödemiş sonra Peygamber (Sallallahu Aleyhi ve Sellem) kendisine: «Allah senin için ailene ve malına bereket ihsan eylesin. Şüphesiz borcun karşılığı (borçlunun) bunu tam olarak (alacaklıya) ödemesi ve teşekkür etmesidir.» Diğer tahric: Ahmed ve Nesai",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 35
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "15": "Sadakalar Kitabı"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2390,
+        "hadithnumber_last": 2528,
+        "arabicnumber_first": 2390,
+        "arabicnumber_last": 2528
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2424,
+      "arabicnumber": 2424,
+      "text": "Abdullah bin Ebî Rebîa el-Mahzûmî (r.a.)'den rivayet edildiğine göre: Peygamber (Sallallahu Aleyhi ve Sellem) Huneyn savaşma giderken kendisinden otuz veya kırk bin (dinar veya dirhem) ödünçalmış ve savaştan dönünce bu borcu kendisine ödemiş sonra Peygamber (Sallallahu Aleyhi ve Sellem) kendisine: «Allah senin için ailene ve malına bereket ihsan eylesin. Şüphesiz borcun karşılığı (borçlunun) bunu tam olarak (alacaklıya) ödemesi ve teşekkür etmesidir.» Diğer tahric: Ahmed ve Nesai",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 35
+      }
+    }
+  ]
 }

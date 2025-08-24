@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"31": "Chapters on Medicine"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 3436,
-				"hadithnumber_last": 3549,
-				"arabicnumber_first": 3436,
-				"arabicnumber_last": 3549
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3498,
-			"arabicnumber": 3498,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kim gözlerine sürme çekerse (bir, üç, beş defa gibi) tek yapsın. Kim (böyle tek) yaparsa iyi bir iş işlemiş olur ve kim (çift yapıp tek) yapmazsa (ona) hiç bir günah yoktur.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sanad Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "31": "Tıp Kitabı"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 3436,
+        "hadithnumber_last": 3549,
+        "arabicnumber_first": 3436,
+        "arabicnumber_last": 3549
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3498,
+      "arabicnumber": 3498,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kim gözlerine sürme çekerse (bir, üç, beş defa gibi) tek yapsın. Kim (böyle tek) yaparsa iyi bir iş işlemiş olur ve kim (çift yapıp tek) yapmazsa (ona) hiç bir günah yoktur.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sanad Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 63
+      }
+    }
+  ]
 }

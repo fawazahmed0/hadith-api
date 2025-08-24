@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"1": "The Book of Purification and its Sunnah"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 267,
-				"hadithnumber_last": 666,
-				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 480,
-			"arabicnumber": 480,
-			"text": "Cabir bin Abdillah (Radiyallahu anh)'den rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve sellem) şöyle buyurdu, demiştir: «Sizden birisi eliyle kendi erkeklik uzvuna dokunduğu zaman o'na abdest gerekir.» Not: Zevaid'de: Hadisin isnadındaki ravilerden Ukbe bin Abdirralunan'ın meşhur bir şeyh olduğunu İbnü'l-Medenl söylemiştir. Fakat İbn-i Hibban onu sikalardan saymıştır. Senedin diğer ricali sikadır, denmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 214
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "1": "Taharet ve Sünnet (Hadis)lerinin Beyanı Kitabı"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 267,
+        "hadithnumber_last": 666,
+        "arabicnumber_first": 267,
+        "arabicnumber_last": 666
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 480,
+      "arabicnumber": 480,
+      "text": "Cabir bin Abdillah (Radiyallahu anh)'den rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve sellem) şöyle buyurdu, demiştir: «Sizden birisi eliyle kendi erkeklik uzvuna dokunduğu zaman o'na abdest gerekir.» Not: Zevaid'de: Hadisin isnadındaki ravilerden Ukbe bin Abdirralunan'ın meşhur bir şeyh olduğunu İbnü'l-Medenl söylemiştir. Fakat İbn-i Hibban onu sikalardan saymıştır. Senedin diğer ricali sikadır, denmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 214
+      }
+    }
+  ]
 }

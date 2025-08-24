@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"20": "The Chapters on Legal Punishments"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 2533,
-				"hadithnumber_last": 2614,
-				"arabicnumber_first": 2533,
-				"arabicnumber_last": 2614
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2573,
-			"arabicnumber": 2573,
-			"text": "Muâviye bin Ebî Süfyân (r.a.)'dan rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kişiler şarab içtikleri zaman onlara dayak atınız. Sonra içtikleri zaman (tekrar) onlara dayak a&mız. Sonra içtiklerinde (gene) onlara dayak atınız. Bundan sonra (şarab) içtikleri zaman artık onları öldürünüz.» EBU DAVUD HADİSİ TIKLA",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "20": "Had (Cezâ)lar Kitabı"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 2533,
+        "hadithnumber_last": 2614,
+        "arabicnumber_first": 2533,
+        "arabicnumber_last": 2614
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2573,
+      "arabicnumber": 2573,
+      "text": "Muâviye bin Ebî Süfyân (r.a.)'dan rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kişiler şarab içtikleri zaman onlara dayak atınız. Sonra içtikleri zaman (tekrar) onlara dayak a&mız. Sonra içtiklerinde (gene) onlara dayak atınız. Bundan sonra (şarab) içtikleri zaman artık onları öldürünüz.» EBU DAVUD HADİSİ TIKLA",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 41
+      }
+    }
+  ]
 }

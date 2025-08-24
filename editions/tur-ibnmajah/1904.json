@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"9": "The Chapters on Marriage"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1845,
-				"hadithnumber_last": 2015,
-				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1904,
-			"arabicnumber": 1904,
-			"text": "(Abdullah) bin Abbas (r.a.)'dan; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) erkeklerden kendilerini (kasden) kadınlara benzeten erkeklere ve kadınlardan kendilerini (kasden) erkeklere benzeten kadınlara la'net etmiştir. Diğer tahric: Buhari, libas, meğazi; Ebu Davud, edeb, libas; Tirmizî. edeb:",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 60
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "9": "Nikâh Kitabı"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1845,
+        "hadithnumber_last": 2015,
+        "arabicnumber_first": 1845,
+        "arabicnumber_last": 2015
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1904,
+      "arabicnumber": 1904,
+      "text": "(Abdullah) bin Abbas (r.a.)'dan; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) erkeklerden kendilerini (kasden) kadınlara benzeten erkeklere ve kadınlardan kendilerini (kasden) erkeklere benzeten kadınlara la'net etmiştir. Diğer tahric: Buhari, libas, meğazi; Ebu Davud, edeb, libas; Tirmizî. edeb:",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 60
+      }
+    }
+  ]
 }

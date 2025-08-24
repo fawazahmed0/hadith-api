@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"12": "The Chapters on Business Transactions"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2137,
-				"hadithnumber_last": 2307,
-				"arabicnumber_first": 2137,
-				"arabicnumber_last": 2307
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2212,
-			"arabicnumber": 2212,
-			"text": "Abd-i Rabbıh'in Nâfi' aracılığı ile İbn-i Ömer (r.a.)'den rivayet ettiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) (aşılanmış) hurma ağaçlarını satan ve (malı olan) köleyi satanla ilgili (bir önceki hadiste anılan) hükümlerin ikisini de buyurmuştur. (Râvî Abd-ı Rabbıh hurma ağaçları ve köle meselelerinin ikisini de birlikte rivayet etmiştir.) 2211’DEKİ EBU DAVUD LİNKİ AÇIKLAMA İÇİN YETER",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 76
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "12": "Ticaretler Kitabı"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2137,
+        "hadithnumber_last": 2307,
+        "arabicnumber_first": 2137,
+        "arabicnumber_last": 2307
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2212,
+      "arabicnumber": 2212,
+      "text": "Abd-i Rabbıh'in Nâfi' aracılığı ile İbn-i Ömer (r.a.)'den rivayet ettiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) (aşılanmış) hurma ağaçlarını satan ve (malı olan) köleyi satanla ilgili (bir önceki hadiste anılan) hükümlerin ikisini de buyurmuştur. (Râvî Abd-ı Rabbıh hurma ağaçları ve köle meselelerinin ikisini de birlikte rivayet etmiştir.) 2211’DEKİ EBU DAVUD LİNKİ AÇIKLAMA İÇİN YETER",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 76
+      }
+    }
+  ]
 }

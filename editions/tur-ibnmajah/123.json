@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"0": "The Book of the Sunnah"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 266,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 266
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 123,
-			"arabicnumber": 123,
-			"text": "Zübeyr (bin el-Avvam r.a.’den rivayet edildiğine göre kendisi şöyle söylemiştir : And olsun ki, Resulullah Sallallahu Aleyhi ve Sellem Uhud savaşının olduğu gün benim için babasını ve anasını beraber andı. (Babam, anam sana feda olsun! buyurdu)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 123
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "0": "Sünnet Kitabı"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 266,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 266
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 123,
+      "arabicnumber": 123,
+      "text": "Zübeyr (bin el-Avvam r.a.’den rivayet edildiğine göre kendisi şöyle söylemiştir : And olsun ki, Resulullah Sallallahu Aleyhi ve Sellem Uhud savaşının olduğu gün benim için babasını ve anasını beraber andı. (Babam, anam sana feda olsun! buyurdu)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 0,
+        "hadith": 123
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3433,
-			"arabicnumber": 3433,
-			"text": "İbn-i Ömer (r.a.)'dzn; Şöyle demiştir: Biz (bir yolculuk esnasında) bir havuza uğradık da ondan (kabsız ve avuçsuz) dudaklarımızla su içmeye başladık. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «(Kabsız ve avuçlamaksızın) dudaklarınızla içmeyiniz. Lakin ellerinizi (iyice) yıkayınız. Sonra avuçlarınızdan içiniz. Çünkü elden daha iyi bir kab yoktur» buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3433,
+      "arabicnumber": 3433,
+      "text": "İbn-i Ömer (r.a.)'dzn; Şöyle demiştir: Biz (bir yolculuk esnasında) bir havuza uğradık da ondan (kabsız ve avuçsuz) dudaklarımızla su içmeye başladık. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «(Kabsız ve avuçlamaksızın) dudaklarınızla içmeyiniz. Lakin ellerinizi (iyice) yıkayınız. Sonra avuçlarınızdan içiniz. Çünkü elden daha iyi bir kab yoktur» buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 63
+      }
+    }
+  ]
 }

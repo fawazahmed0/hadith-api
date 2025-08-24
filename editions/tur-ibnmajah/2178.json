@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"12": "The Chapters on Business Transactions"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2137,
-				"hadithnumber_last": 2307,
-				"arabicnumber_first": 2137,
-				"arabicnumber_last": 2307
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2178,
-			"arabicnumber": 2178,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştır: «Celebleri karşılamayınız. Kim celeb'ten bir malı (pazara getirilmeden önce) karşılayıp satın alırsa, mal sahibi çarşıya vardığı zaman (o malı geri almakta) muhayyerdir.» MÜSLİM HADİSİ VE İZAH İÇİN TIKLA",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "12": "Ticaretler Kitabı"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2137,
+        "hadithnumber_last": 2307,
+        "arabicnumber_first": 2137,
+        "arabicnumber_last": 2307
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2178,
+      "arabicnumber": 2178,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştır: «Celebleri karşılamayınız. Kim celeb'ten bir malı (pazara getirilmeden önce) karşılayıp satın alırsa, mal sahibi çarşıya vardığı zaman (o malı geri almakta) muhayyerdir.» MÜSLİM HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 42
+      }
+    }
+  ]
 }

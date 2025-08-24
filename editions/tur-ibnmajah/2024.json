@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"10": "The Chapters on Divorce"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 2016,
-				"hadithnumber_last": 2477,
-				"arabicnumber_first": 2016,
-				"arabicnumber_last": 2477
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2024,
-			"arabicnumber": 2024,
-			"text": "Amir eş-Şabî (r.a.)'den; Şöyle demiştir: Ben, Fâtıma bint-i Kays (r.anha)'ya Bana boşanman (olayın)ı anlat, dedim. Fâtıma: Kocam Yemen tarafına çıkmış iken beni üç talâkla boşadı. Resulullah (Sallallahu Aleyhi ve Sellem) de bunu geçerli saydı, dedi. Diğer tahric: Bu hadisi Müslim, Ebu Davud, Nesai ve Tahavi de rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "10": "Talâk Kitabı"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 2016,
+        "hadithnumber_last": 2477,
+        "arabicnumber_first": 2016,
+        "arabicnumber_last": 2477
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2024,
+      "arabicnumber": 2024,
+      "text": "Amir eş-Şabî (r.a.)'den; Şöyle demiştir: Ben, Fâtıma bint-i Kays (r.anha)'ya Bana boşanman (olayın)ı anlat, dedim. Fâtıma: Kocam Yemen tarafına çıkmış iken beni üç talâkla boşadı. Resulullah (Sallallahu Aleyhi ve Sellem) de bunu geçerli saydı, dedi. Diğer tahric: Bu hadisi Müslim, Ebu Davud, Nesai ve Tahavi de rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 9
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2958,
-			"arabicnumber": 2958,
-			"text": "El-Muttalİb (bin Ebî Vedâa es-Sehmî) (r.a.)'den; Şöyle, demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i şöyle yaparken gördüm: Ka'be'yi yedi defa tavaf edince gelip Hacer-i Esved'in hizasında durdu. Sonra tavaf sahasının kenarında iki rek'at namaz kıldı ve (namaz kılarken) kendisi ile tavaf edenler arasında (sütre olarak) hiç kimse yoktu. İbn-i Mâceh dedi ki: Bu durum (yâni sütresiz namaza durmak ve namazın önünden geçmek) Mekke'ye mahsustur. Diğer Tahric edenler: Ebu Davud, menasik; Nesâî, menâsik; Ahmed b. Hanbel, VI, 399; Beyhakî, es-Sünenü'l-kübrâ, II",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 77
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2958,
+      "arabicnumber": 2958,
+      "text": "El-Muttalİb (bin Ebî Vedâa es-Sehmî) (r.a.)'den; Şöyle, demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i şöyle yaparken gördüm: Ka'be'yi yedi defa tavaf edince gelip Hacer-i Esved'in hizasında durdu. Sonra tavaf sahasının kenarında iki rek'at namaz kıldı ve (namaz kılarken) kendisi ile tavaf edenler arasında (sütre olarak) hiç kimse yoktu. İbn-i Mâceh dedi ki: Bu durum (yâni sütresiz namaza durmak ve namazın önünden geçmek) Mekke'ye mahsustur. Diğer Tahric edenler: Ebu Davud, menasik; Nesâî, menâsik; Ahmed b. Hanbel, VI, 399; Beyhakî, es-Sünenü'l-kübrâ, II",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 77
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"1": "The Book of Purification and its Sunnah"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 267,
-				"hadithnumber_last": 666,
-				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 651,
-			"arabicnumber": 651,
-			"text": "Abdullah bin Sa'd (r.a.)'den rivayet edildiğine göre şöyle söylemiştir : Ben, hayızlı kadınla beraber yemek yemenin hükmünü Resulullah (Sallallahu Aleyhi ve Sellem)'e sordum. Buyurdu ki: «Onunla yemek yiyebilirsin.»\" N o t: Hayızlı kadınla beraber yemek yemek, su ve benzeri meşrubatı içmek ve birlikte oturup konuşmak hakkında gerekli izahı 125 nolu babta geçen 643 ve 644 nolu hadislerin izahında anlatmıştık. Oraya müracaat edilebilir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 385
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "1": "Taharet ve Sünnet (Hadis)lerinin Beyanı Kitabı"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 267,
+        "hadithnumber_last": 666,
+        "arabicnumber_first": 267,
+        "arabicnumber_last": 666
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 651,
+      "arabicnumber": 651,
+      "text": "Abdullah bin Sa'd (r.a.)'den rivayet edildiğine göre şöyle söylemiştir : Ben, hayızlı kadınla beraber yemek yemenin hükmünü Resulullah (Sallallahu Aleyhi ve Sellem)'e sordum. Buyurdu ki: «Onunla yemek yiyebilirsin.»\" N o t: Hayızlı kadınla beraber yemek yemek, su ve benzeri meşrubatı içmek ve birlikte oturup konuşmak hakkında gerekli izahı 125 nolu babta geçen 643 ve 644 nolu hadislerin izahında anlatmıştık. Oraya müracaat edilebilir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 385
+      }
+    }
+  ]
 }

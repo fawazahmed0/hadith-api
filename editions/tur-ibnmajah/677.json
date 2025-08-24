@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"2": "The Book of the Prayer"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 667,
-				"hadithnumber_last": 705,
-				"arabicnumber_first": 667,
-				"arabicnumber_last": 705
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 677,
-			"arabicnumber": 677,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu demiştir : «Sıcak şiddetlendiği zaman (öğle) namazını serinliğe bırakınız. Çünkü şüphesiz sıcağın şiddeti, cehennemin kaynamasındandır.»\" AÇIKLAMA 681 de",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "2": "Namaz Kitabı"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 667,
+        "hadithnumber_last": 705,
+        "arabicnumber_first": 667,
+        "arabicnumber_last": 705
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 677,
+      "arabicnumber": 677,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu demiştir : «Sıcak şiddetlendiği zaman (öğle) namazını serinliğe bırakınız. Çünkü şüphesiz sıcağın şiddeti, cehennemin kaynamasındandır.»\" AÇIKLAMA 681 de",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 11
+      }
+    }
+  ]
 }

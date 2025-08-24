@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"1": "The Book of Purification and its Sunnah"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 267,
-				"hadithnumber_last": 666,
-				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 626,
-			"arabicnumber": 626,
-			"text": "Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Aişe (r.anha)'dan: şöyle söylemiştir: Ümmü Habibe bint-i Cahş (r.anha) Abdurrahman bin Avf'ın zevcesi iken yedi yıl istihaza görmüş ve halini Nebi (Sallallahu Aleyhi ve Sellem)'e arzetmişti. Nebi (Sallallahu Aleyhi ve Sellem) de: «Bu, şüphesiz hayız değil de ancak bir damar (kanı) dır. Bunun için hayız zamanı gelince sen namazı bırak ve hayız zamanı gidince ğuslet ve namaz kıl.» Aişe (r.anha): 'Bundan sonra Ümmü Habibe her namaz için ğusleder, sonra namaz kılardı. Ve kız kardeşi Zeyneb bint-i Cahş (r.anha)'nin bir çamaşır leğeninin içinde oturup ğuslederdi. Hatta kan'ın kırmızılığı su üstüne çıkardı.' demiştir. Diğer tahric: Buhari, Müslim, Ebu Davud, Nesai ve. Beyhaki",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 360
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "1": "Taharet ve Sünnet (Hadis)lerinin Beyanı Kitabı"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 267,
+        "hadithnumber_last": 666,
+        "arabicnumber_first": 267,
+        "arabicnumber_last": 666
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 626,
+      "arabicnumber": 626,
+      "text": "Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Aişe (r.anha)'dan: şöyle söylemiştir: Ümmü Habibe bint-i Cahş (r.anha) Abdurrahman bin Avf'ın zevcesi iken yedi yıl istihaza görmüş ve halini Nebi (Sallallahu Aleyhi ve Sellem)'e arzetmişti. Nebi (Sallallahu Aleyhi ve Sellem) de: «Bu, şüphesiz hayız değil de ancak bir damar (kanı) dır. Bunun için hayız zamanı gelince sen namazı bırak ve hayız zamanı gidince ğuslet ve namaz kıl.» Aişe (r.anha): 'Bundan sonra Ümmü Habibe her namaz için ğusleder, sonra namaz kılardı. Ve kız kardeşi Zeyneb bint-i Cahş (r.anha)'nin bir çamaşır leğeninin içinde oturup ğuslederdi. Hatta kan'ın kırmızılığı su üstüne çıkardı.' demiştir. Diğer tahric: Buhari, Müslim, Ebu Davud, Nesai ve. Beyhaki",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 360
+      }
+    }
+  ]
 }

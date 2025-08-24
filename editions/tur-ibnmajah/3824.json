@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3824,
-			"arabicnumber": 3824,
-			"text": "Ebu Musa (el-Eş'arî) (r.a.)'den rivayet edildiğine göre şöyle demiştir: Ben \"La havle ve lâ kuvvete illâ bJIahi''' derken Nebi (Sallallahu Aleyhi ve Sellem) benim sesimi işitti ve: «Yâ Abdullah bin Kays! Sana cennet hazinelerinden bir kelimeyi göstermiyeyim mi?» buyurdu. Ben: Bildir, Yâ Resulullah dedim. O buyurdu ki: لاَحَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللّهِ «La havle ve la kuvvete illa billahi* de.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 168
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3824,
+      "arabicnumber": 3824,
+      "text": "Ebu Musa (el-Eş'arî) (r.a.)'den rivayet edildiğine göre şöyle demiştir: Ben \"La havle ve lâ kuvvete illâ bJIahi''' derken Nebi (Sallallahu Aleyhi ve Sellem) benim sesimi işitti ve: «Yâ Abdullah bin Kays! Sana cennet hazinelerinden bir kelimeyi göstermiyeyim mi?» buyurdu. Ben: Bildir, Yâ Resulullah dedim. O buyurdu ki: لاَحَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللّهِ «La havle ve la kuvvete illa billahi* de.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 168
+      }
+    }
+  ]
 }

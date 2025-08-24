@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"36": "Tribulations"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 3927,
-				"hadithnumber_last": 4099,
-				"arabicnumber_first": 3927,
-				"arabicnumber_last": 4099
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4087,
-			"arabicnumber": 4087,
-			"text": "Enes bfc Mâlik (r.a.)'den; Şöyle demiştir: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'den işittim, buyurdu ki: Biz Abdulmüttalib'in çocukları cennet halkının büyükleriyiz. Ben, Hamza, Ali, Ca'fer, Hasan Hüseyin ve Mehdi.\" Not: Zevaid'de şöyle denilmiştir: Bunun senedi hakkında konuşulmuştur. Ravi Ali bin Ziyad'ı ne güvenilir sayanı ne de cerh edeni (tenkid edeni) görmedim. Senedin kalan ravileri güvenilir zatlardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 162
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "36": "Fitneler Kitabı"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 3927,
+        "hadithnumber_last": 4099,
+        "arabicnumber_first": 3927,
+        "arabicnumber_last": 4099
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4087,
+      "arabicnumber": 4087,
+      "text": "Enes bfc Mâlik (r.a.)'den; Şöyle demiştir: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'den işittim, buyurdu ki: Biz Abdulmüttalib'in çocukları cennet halkının büyükleriyiz. Ben, Hamza, Ali, Ca'fer, Hasan Hüseyin ve Mehdi.\" Not: Zevaid'de şöyle denilmiştir: Bunun senedi hakkında konuşulmuştur. Ravi Ali bin Ziyad'ı ne güvenilir sayanı ne de cerh edeni (tenkid edeni) görmedim. Senedin kalan ravileri güvenilir zatlardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 162
+      }
+    }
+  ]
 }

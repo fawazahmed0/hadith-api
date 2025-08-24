@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3012,
-			"arabicnumber": 3012,
-			"text": "Cabir bin Abdillah (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Arefe'nin hepsi vakfe yeridir. Ve Urene deresinden uzak durun. Müzdelife'nin hepsi vakfe yeridir. Ve Muhassir deresinden uzak durun. Mina'nın hepsi mezbahadır. Ancak Akabe cemresinin arkasında kalan gölge kurban kesme yeri değildir.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 131
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3012,
+      "arabicnumber": 3012,
+      "text": "Cabir bin Abdillah (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Arefe'nin hepsi vakfe yeridir. Ve Urene deresinden uzak durun. Müzdelife'nin hepsi vakfe yeridir. Ve Muhassir deresinden uzak durun. Mina'nın hepsi mezbahadır. Ancak Akabe cemresinin arkasında kalan gölge kurban kesme yeri değildir.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 131
+      }
+    }
+  ]
 }

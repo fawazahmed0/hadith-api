@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 867,
-			"arabicnumber": 867,
-			"text": "Vail bin Hucr (r.a.)'den şöyle demiştir: Ben (kendi kendime) dedim ki: Resulullah (Sallallahu Aleyhi ve Sellem)'e muhakkak ve iyice bakayım, nasıl namaz kılıyor? Bunun üzerine (baktım) Resulullah (Sallallahu Aleyhi ve Sellem) kalktı, kıbleye doğru durdu. Sonra ellerini kulaklarının hizasına kadar kaldırdı. Sonra rüku'a gittiği zaman ellerini bu şekilde kaldırdı. Başını rüku'dan kaldırınca ellerini böylece kaldırdı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 65
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 867,
+      "arabicnumber": 867,
+      "text": "Vail bin Hucr (r.a.)'den şöyle demiştir: Ben (kendi kendime) dedim ki: Resulullah (Sallallahu Aleyhi ve Sellem)'e muhakkak ve iyice bakayım, nasıl namaz kılıyor? Bunun üzerine (baktım) Resulullah (Sallallahu Aleyhi ve Sellem) kalktı, kıbleye doğru durdu. Sonra ellerini kulaklarının hizasına kadar kaldırdı. Sonra rüku'a gittiği zaman ellerini bu şekilde kaldırdı. Başını rüku'dan kaldırınca ellerini böylece kaldırdı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 65
+      }
+    }
+  ]
 }

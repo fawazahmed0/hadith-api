@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"31": "Chapters on Medicine"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 3436,
-				"hadithnumber_last": 3549,
-				"arabicnumber_first": 3436,
-				"arabicnumber_last": 3549
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3460,
-			"arabicnumber": 3460,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim bir zehir içerek kendini öldürürse o kimse cehennem ateşi içinde ebedi kalarak dâima o zehiri yutmakla meşgul olacaktır.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "31": "Tıp Kitabı"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 3436,
+        "hadithnumber_last": 3549,
+        "arabicnumber_first": 3436,
+        "arabicnumber_last": 3549
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3460,
+      "arabicnumber": 3460,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim bir zehir içerek kendini öldürürse o kimse cehennem ateşi içinde ebedi kalarak dâima o zehiri yutmakla meşgul olacaktır.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 25
+      }
+    }
+  ]
 }

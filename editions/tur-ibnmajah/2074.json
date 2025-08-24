@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"10": "The Chapters on Divorce"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 2016,
-				"hadithnumber_last": 2477,
-				"arabicnumber_first": 2016,
-				"arabicnumber_last": 2477
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2074,
-			"arabicnumber": 2074,
-			"text": "Aişe (r.anha)'dan rivayet edildiğine göre: Kendisi (cariyesi) Berire'yi âzad etmiş, bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) Berîre'ye. (nikâhını feshetmesi hususunda) muhayyer bırakmıştır. Berîre'nin hür kocası var idi. AÇIKLAMA 2078’de",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 59
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "10": "Talâk Kitabı"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 2016,
+        "hadithnumber_last": 2477,
+        "arabicnumber_first": 2016,
+        "arabicnumber_last": 2477
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2074,
+      "arabicnumber": 2074,
+      "text": "Aişe (r.anha)'dan rivayet edildiğine göre: Kendisi (cariyesi) Berire'yi âzad etmiş, bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) Berîre'ye. (nikâhını feshetmesi hususunda) muhayyer bırakmıştır. Berîre'nin hür kocası var idi. AÇIKLAMA 2078’de",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 59
+      }
+    }
+  ]
 }

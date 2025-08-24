@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1780,
-			"arabicnumber": 1780,
-			"text": "Aişe (r.a.anha)'dan; Şöyle demiştir: Bir defa Resulullah (Sallallahu Aleyhi ve Sellem)'in zevcelerinden birisi Onunla beraber itikaf etti ve (hayız günlerinden başka günlerdeki bu itikafı esnasında akan kanında) kırmızılık ve sarılık görürdü. Bazen (kanının akmasından dolayı) altına leğen koyardı. Diğer tahric: Buhari, Ebu Davud, Nesai ve Beyhaki de bunu rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 143
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1780,
+      "arabicnumber": 1780,
+      "text": "Aişe (r.a.anha)'dan; Şöyle demiştir: Bir defa Resulullah (Sallallahu Aleyhi ve Sellem)'in zevcelerinden birisi Onunla beraber itikaf etti ve (hayız günlerinden başka günlerdeki bu itikafı esnasında akan kanında) kırmızılık ve sarılık görürdü. Bazen (kanının akmasından dolayı) altına leğen koyardı. Diğer tahric: Buhari, Ebu Davud, Nesai ve Beyhaki de bunu rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 143
+      }
+    }
+  ]
 }

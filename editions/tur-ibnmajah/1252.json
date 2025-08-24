@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1252,
-			"arabicnumber": 1252,
-			"text": "Ebu Hureyre (r.a.)'den; şöyle demiştir: Safvan bin el-Muattal (r.a.), Resulullah (Sallallahu Aleyhi ve Sellem)'e : — Ya Resulallah! Senin bildiğin ve benim bilmediğim bir şeyi sana sormak istiyorum, dedi. Efendimiz : — «Nedir o?» buyurdu. Safvan (r.a.) : — Gece ve gündüz saatlerinden namaz kılmanın mekruh olduğu bir saat var mıdır? diye sordu. Efendimiz (s.a.v.) : — «Evet. Sabah namazını kıldığın zaman artık güneş doğuncaya kadar namaz kılmayı bırak. Çünkü güneş, şeytan'ın iki boynuzu ile beraber doğar. Doğduktan sonra güneş senin başın üzerinde mızrak gibi dik duruncaya kadar (geçen süre içinde) namaz kıl. Çünkü bu sırada kılınan namazda melekler hazır bulunur ve o namaz makbuldür. Güneş senin başın üzerinde mızrak gibi (dik) olunca namaz kılmayı bırak. Çünkü o saat öyle bir saattir ki, onda cehennem tutuşturulur ve onda cehennem kapıları açılır. Güneş senin sağ başından sapıncaya kadar (devam eder). Güneş sapınca sen ikindi namazını kılana kadar kılınan namaz makbuldür. Ve melekler onda hazır bulunurlar. İkindi namazını kıldıktan sonra güneş batıncaya kadar namaz kılmayı bırak» buyurdu. Not: Bunun isnadının hasen olduğu Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 450
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1252,
+      "arabicnumber": 1252,
+      "text": "Ebu Hureyre (r.a.)'den; şöyle demiştir: Safvan bin el-Muattal (r.a.), Resulullah (Sallallahu Aleyhi ve Sellem)'e : — Ya Resulallah! Senin bildiğin ve benim bilmediğim bir şeyi sana sormak istiyorum, dedi. Efendimiz : — «Nedir o?» buyurdu. Safvan (r.a.) : — Gece ve gündüz saatlerinden namaz kılmanın mekruh olduğu bir saat var mıdır? diye sordu. Efendimiz (s.a.v.) : — «Evet. Sabah namazını kıldığın zaman artık güneş doğuncaya kadar namaz kılmayı bırak. Çünkü güneş, şeytan'ın iki boynuzu ile beraber doğar. Doğduktan sonra güneş senin başın üzerinde mızrak gibi dik duruncaya kadar (geçen süre içinde) namaz kıl. Çünkü bu sırada kılınan namazda melekler hazır bulunur ve o namaz makbuldür. Güneş senin başın üzerinde mızrak gibi (dik) olunca namaz kılmayı bırak. Çünkü o saat öyle bir saattir ki, onda cehennem tutuşturulur ve onda cehennem kapıları açılır. Güneş senin sağ başından sapıncaya kadar (devam eder). Güneş sapınca sen ikindi namazını kılana kadar kılınan namaz makbuldür. Ve melekler onda hazır bulunurlar. İkindi namazını kıldıktan sonra güneş batıncaya kadar namaz kılmayı bırak» buyurdu. Not: Bunun isnadının hasen olduğu Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 450
+      }
+    }
+  ]
 }

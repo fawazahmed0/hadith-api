@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"6": "Chapters Regarding Funerals"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1433,
-				"hadithnumber_last": 1637,
-				"arabicnumber_first": 1433,
-				"arabicnumber_last": 1637
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1448,
-			"arabicnumber": 1448,
-			"text": "Ma'kil bin Yesar (r.a.)'den rivayet edildiğine güre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu demiştir: «O sureyi (yani 'Yasin' suresini) mevtanızın yanında okuyunuz.» Diğer tahric: Ebu Davud, Beyhaki, İbn-i Hibban ve Hakim de bunu rivayet etmişlerdir .. Ahmed ve Nesai de bunu daha uzun bir metin halinde rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "6": "Cenazeler Kitabı"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1433,
+        "hadithnumber_last": 1637,
+        "arabicnumber_first": 1433,
+        "arabicnumber_last": 1637
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1448,
+      "arabicnumber": 1448,
+      "text": "Ma'kil bin Yesar (r.a.)'den rivayet edildiğine güre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu demiştir: «O sureyi (yani 'Yasin' suresini) mevtanızın yanında okuyunuz.» Diğer tahric: Ebu Davud, Beyhaki, İbn-i Hibban ve Hakim de bunu rivayet etmişlerdir .. Ahmed ve Nesai de bunu daha uzun bir metin halinde rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 16
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"8": "The Chapters Regarding Zakat"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 1783,
-				"hadithnumber_last": 1844,
-				"arabicnumber_first": 1783,
-				"arabicnumber_last": 1844
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1816,
-			"arabicnumber": 1816,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Yağmurun ve pınarlar (gibi akar sular) ın suladığı şeylerde öşür (vacib)dir. Nadıh ( = aletle) sulananlarda da öşürün yarısı (vacip) dır.» Diğer tahric: Tirmizi AÇIKLAMA 1818’de",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "8": "Zekat Kitabı"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 1783,
+        "hadithnumber_last": 1844,
+        "arabicnumber_first": 1783,
+        "arabicnumber_last": 1844
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1816,
+      "arabicnumber": 1816,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Yağmurun ve pınarlar (gibi akar sular) ın suladığı şeylerde öşür (vacib)dir. Nadıh ( = aletle) sulananlarda da öşürün yarısı (vacip) dır.» Diğer tahric: Tirmizi AÇIKLAMA 1818’de",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 34
+      }
+    }
+  ]
 }

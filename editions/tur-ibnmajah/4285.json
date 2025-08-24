@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4285,
-			"arabicnumber": 4285,
-			"text": "Rifaa el-Cühenî (r.a.)'dan; Şöyle demiştir: Biz, Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde bir yolculuk (veya savaş) tan geri döndük. O sıralarda Resul-i Ekrem (Sallallahu Aleyhi ve Sellem): Muhammed'in can'ı elinde olan (Allah) a yemin ederim ki: İman edip, sonra doğru yoldan ayrılmayan hiç bir kul yoktur ki cennet'e dahil edilmesin. Siz ve iyi (= dindar) nesliniz cennetteki meskenlere yerleşmedikçe (diğer ümmetlerin mu'minleri olan) cennetliklerin cennete girmemelerini de ümid ederim ve Rabbim (Azze ve Celle), ümmetimden yetmiş bin kişiyi hesabsız olarak cennet'e dahil etmeyi bana kesin vaadetti, buyurdu. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Muhammed bin Mus'ab bulunur. Onun hakkında Salih bin Muhammed el-Bağdadl: EI-Evzai'den rivayet hususunda zayıftır ve onun el-Evzai'den olan bütün hadisleri maklüb'tur, demiştir. Ancak şu var ki Muhammed bin Mus'ab, bu hadisi el-Evzai'den rivayet bakımından yalnız değildir. Çünkü Nesai de Amelü'I•Yevm ve'l-Leyl'de bu hadisi Yahya bin Hamza aracılığıyla el-Evzai'den rivayet etmiştir. AÇIKLAMA 4286’da",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 186
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4285,
+      "arabicnumber": 4285,
+      "text": "Rifaa el-Cühenî (r.a.)'dan; Şöyle demiştir: Biz, Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde bir yolculuk (veya savaş) tan geri döndük. O sıralarda Resul-i Ekrem (Sallallahu Aleyhi ve Sellem): Muhammed'in can'ı elinde olan (Allah) a yemin ederim ki: İman edip, sonra doğru yoldan ayrılmayan hiç bir kul yoktur ki cennet'e dahil edilmesin. Siz ve iyi (= dindar) nesliniz cennetteki meskenlere yerleşmedikçe (diğer ümmetlerin mu'minleri olan) cennetliklerin cennete girmemelerini de ümid ederim ve Rabbim (Azze ve Celle), ümmetimden yetmiş bin kişiyi hesabsız olarak cennet'e dahil etmeyi bana kesin vaadetti, buyurdu. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Muhammed bin Mus'ab bulunur. Onun hakkında Salih bin Muhammed el-Bağdadl: EI-Evzai'den rivayet hususunda zayıftır ve onun el-Evzai'den olan bütün hadisleri maklüb'tur, demiştir. Ancak şu var ki Muhammed bin Mus'ab, bu hadisi el-Evzai'den rivayet bakımından yalnız değildir. Çünkü Nesai de Amelü'I•Yevm ve'l-Leyl'de bu hadisi Yahya bin Hamza aracılığıyla el-Evzai'den rivayet etmiştir. AÇIKLAMA 4286’da",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 186
+      }
+    }
+  ]
 }

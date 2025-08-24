@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"14": "The Chapters on Gifts"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2375,
-				"hadithnumber_last": 2389,
-				"arabicnumber_first": 2375,
-				"arabicnumber_last": 2389
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2379,
-			"arabicnumber": 2379,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Umrâ yoktur. Çünkü kime umra işlemi ile bir mal verilirse artık o mal (dâimi olarak) o kimsenindir.» Zevaid de: Bu hadis’in isnadı Buhari ve Müslim’in şartına göre sahihtir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "14": "Hibeler Kitabı"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2375,
+        "hadithnumber_last": 2389,
+        "arabicnumber_first": 2375,
+        "arabicnumber_last": 2389
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2379,
+      "arabicnumber": 2379,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Umrâ yoktur. Çünkü kime umra işlemi ile bir mal verilirse artık o mal (dâimi olarak) o kimsenindir.» Zevaid de: Bu hadis’in isnadı Buhari ve Müslim’in şartına göre sahihtir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 5
+      }
+    }
+  ]
 }

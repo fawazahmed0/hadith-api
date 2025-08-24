@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"4": "The Book On The Mosques And The Congregations"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 735,
-				"hadithnumber_last": 802,
-				"arabicnumber_first": 735,
-				"arabicnumber_last": 802
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 793,
-			"arabicnumber": 793,
-			"text": "(Abdullah) İbn-i Abbas (r.a.)'den şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) buyurdu ki : «Ezan sesini işitip de oraya (özürsüz) gitmeyenin namazı (makbul) olmaz.» Diğer tahric: İbn-i Hibban ve el-Hakim de rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 4,
-				"hadith": 59
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "4": "Mescidler ve Cemaatlar Kitabı"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 735,
+        "hadithnumber_last": 802,
+        "arabicnumber_first": 735,
+        "arabicnumber_last": 802
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 793,
+      "arabicnumber": 793,
+      "text": "(Abdullah) İbn-i Abbas (r.a.)'den şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) buyurdu ki : «Ezan sesini işitip de oraya (özürsüz) gitmeyenin namazı (makbul) olmaz.» Diğer tahric: İbn-i Hibban ve el-Hakim de rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 4,
+        "hadith": 59
+      }
+    }
+  ]
 }

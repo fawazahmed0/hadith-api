@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"24": "The Chapters on Jihad"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 2753,
-				"hadithnumber_last": 2881,
-				"arabicnumber_first": 2753,
-				"arabicnumber_last": 2881
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2806,
-			"arabicnumber": 2806,
-			"text": "Sâib bin Yezîd (r.a.)'den şöyle demiştir: İnşâallah Tealâ, Nebi (Sallallahu Aleyhi ve Sellem) Uhud (savaşı) günü iki zırh (elbise) almış, bana öyle geiiyor ki bunları üst üste giymiştir. Not: Zevaid'de şöyle denilmiştir: Bu hadisin isnadı Buharl'nin şartı üzerine sahihtir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "24": "Cihâd Kitabı"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 2753,
+        "hadithnumber_last": 2881,
+        "arabicnumber_first": 2753,
+        "arabicnumber_last": 2881
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2806,
+      "arabicnumber": 2806,
+      "text": "Sâib bin Yezîd (r.a.)'den şöyle demiştir: İnşâallah Tealâ, Nebi (Sallallahu Aleyhi ve Sellem) Uhud (savaşı) günü iki zırh (elbise) almış, bana öyle geiiyor ki bunları üst üste giymiştir. Not: Zevaid'de şöyle denilmiştir: Bu hadisin isnadı Buharl'nin şartı üzerine sahihtir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 54
+      }
+    }
+  ]
 }

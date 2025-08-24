@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"4": "The Book On The Mosques And The Congregations"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 735,
-				"hadithnumber_last": 802,
-				"arabicnumber_first": 735,
-				"arabicnumber_last": 802
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 780,
-			"arabicnumber": 780,
-			"text": "Sehl bin Sa'des-Saidi (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir : «Gece karanlıklarında (mescidlere) çok (defa) yürüyenler, kıyamet günündeki tam nurla sevinsinler.» Bu hadisi Hakim de rivayet ederek sahih olduğunu söylemiştir. İbn-i Huzeyme ve Beyhaki' de rivayet etmişlerdir. Zevaid yaz.arı da isnadının hasen olduğunu söylemiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 4,
-				"hadith": 46
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "4": "Mescidler ve Cemaatlar Kitabı"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 735,
+        "hadithnumber_last": 802,
+        "arabicnumber_first": 735,
+        "arabicnumber_last": 802
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 780,
+      "arabicnumber": 780,
+      "text": "Sehl bin Sa'des-Saidi (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir : «Gece karanlıklarında (mescidlere) çok (defa) yürüyenler, kıyamet günündeki tam nurla sevinsinler.» Bu hadisi Hakim de rivayet ederek sahih olduğunu söylemiştir. İbn-i Huzeyme ve Beyhaki' de rivayet etmişlerdir. Zevaid yaz.arı da isnadının hasen olduğunu söylemiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 4,
+        "hadith": 46
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 934,
-			"arabicnumber": 934,
-			"text": "(Abdullah) bin Ömer (r.a.)'dan rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir : «Akşam yemeği konduğu ve namaz (için) ikamet edildiği zaman siz önce yemek yeyiniz.» Ravi demiştir ki: Bu emre binaen bir akşam, lbn-i Ömer (r.a.) ikamet sesini işittiği halde (namaza durmayıp önce) akşam yemeğini yedi. Tahric: Nesai hariç, Kütüb-i Sitte sahibIerince rivayet edilmiştir. AÇIKLAMA 935’te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 132
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 934,
+      "arabicnumber": 934,
+      "text": "(Abdullah) bin Ömer (r.a.)'dan rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir : «Akşam yemeği konduğu ve namaz (için) ikamet edildiği zaman siz önce yemek yeyiniz.» Ravi demiştir ki: Bu emre binaen bir akşam, lbn-i Ömer (r.a.) ikamet sesini işittiği halde (namaza durmayıp önce) akşam yemeğini yedi. Tahric: Nesai hariç, Kütüb-i Sitte sahibIerince rivayet edilmiştir. AÇIKLAMA 935’te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 132
+      }
+    }
+  ]
 }

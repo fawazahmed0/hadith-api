@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"1": "The Book of Purification and its Sunnah"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 267,
-				"hadithnumber_last": 666,
-				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 652,
-			"arabicnumber": 652,
-			"text": "Aişe (r.anha)'dan şöyle demiştir : Ben, hayızlı olarak Resulullah (Sallallahu Aleyhi ve Sellem)'in yakınında iken (geceleyin) namaz kılardı. Üstümde benim Futam bulunuyordu. Ve Futam'ın bir kısmı onun üzerindeydi.\" Tahric bilgisi ve Açıklama 653’te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 386
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "1": "Taharet ve Sünnet (Hadis)lerinin Beyanı Kitabı"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 267,
+        "hadithnumber_last": 666,
+        "arabicnumber_first": 267,
+        "arabicnumber_last": 666
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 652,
+      "arabicnumber": 652,
+      "text": "Aişe (r.anha)'dan şöyle demiştir : Ben, hayızlı olarak Resulullah (Sallallahu Aleyhi ve Sellem)'in yakınında iken (geceleyin) namaz kılardı. Üstümde benim Futam bulunuyordu. Ve Futam'ın bir kısmı onun üzerindeydi.\" Tahric bilgisi ve Açıklama 653’te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 386
+      }
+    }
+  ]
 }

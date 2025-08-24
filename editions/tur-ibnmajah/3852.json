@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"34": "Supplication"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 3827,
-				"hadithnumber_last": 3892,
-				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3852,
-			"arabicnumber": 3852,
-			"text": "İbn-i (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle dua etti, demiştir: «Allah biz'e ve Ad'in kardeşine rahmet eylesin.» Zevaid de: Bu hadis'in senedi sahih, ravileri sikadır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "34": "Dua Kitabı"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 3827,
+        "hadithnumber_last": 3892,
+        "arabicnumber_first": 3827,
+        "arabicnumber_last": 3892
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3852,
+      "arabicnumber": 3852,
+      "text": "İbn-i (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle dua etti, demiştir: «Allah biz'e ve Ad'in kardeşine rahmet eylesin.» Zevaid de: Bu hadis'in senedi sahih, ravileri sikadır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 26
+      }
+    }
+  ]
 }

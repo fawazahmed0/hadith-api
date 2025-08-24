@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3788,
-			"arabicnumber": 3788,
-			"text": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir : « قُلْ هُوَ اللهُ أَحَدٌ Kul huvallahu ehad (yâni îhlâs suresi sevab bakımından) Kur'ân'ın üçte birisine muâdildir.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 132
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3788,
+      "arabicnumber": 3788,
+      "text": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir : « قُلْ هُوَ اللهُ أَحَدٌ Kul huvallahu ehad (yâni îhlâs suresi sevab bakımından) Kur'ân'ın üçte birisine muâdildir.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 132
+      }
+    }
+  ]
 }

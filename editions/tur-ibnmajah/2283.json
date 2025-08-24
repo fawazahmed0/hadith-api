@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"12": "The Chapters on Business Transactions"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2137,
-				"hadithnumber_last": 2307,
-				"arabicnumber_first": 2137,
-				"arabicnumber_last": 2307
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2283,
-			"arabicnumber": 2283,
-			"text": "Ebû Saîd-i Hudrî (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sen selem usûlü ile bir mal satın aldığın zaman (teslim almadan önce) onu başka bir mal İle değiştirme.» (İbn-i Mâceh demiştir ki:) Abdullah bin Said de Ebû Said-i Hudrî (r.a.)'in bu hadisini merfû' olarak, aynı metin ve aynı senedle rivayet etti. Ancak kendisi râvî Sa'd'ı zikretmedi. EBU DAVUD HADİSİ İÇİN TIKLA",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 147
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "12": "Ticaretler Kitabı"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2137,
+        "hadithnumber_last": 2307,
+        "arabicnumber_first": 2137,
+        "arabicnumber_last": 2307
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2283,
+      "arabicnumber": 2283,
+      "text": "Ebû Saîd-i Hudrî (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sen selem usûlü ile bir mal satın aldığın zaman (teslim almadan önce) onu başka bir mal İle değiştirme.» (İbn-i Mâceh demiştir ki:) Abdullah bin Said de Ebû Said-i Hudrî (r.a.)'in bu hadisini merfû' olarak, aynı metin ve aynı senedle rivayet etti. Ancak kendisi râvî Sa'd'ı zikretmedi. EBU DAVUD HADİSİ İÇİN TIKLA",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 147
+      }
+    }
+  ]
 }

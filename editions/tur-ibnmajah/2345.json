@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"13": "The Chapters on Rulings"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2308,
-				"hadithnumber_last": 2374,
-				"arabicnumber_first": 2308,
-				"arabicnumber_last": 2374
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2345,
-			"arabicnumber": 2345,
-			"text": "İmrân bin Husayn (r.a.)'den; Şöyle demiştir: (Ensârdan) bir adamın altı kölesi vardı. Ve bundan başka malı yoktu. Adam öleceği zaman bunların hepsini azadladı. Sonra (durumdan haberdar edilen) Resulullah (Sallallahu Aleyhi ve Sellem) (köleleri çağırttı ve) onları (üçe) böldü. (Aralarında kur'a çekti. Kur'ayı kazanan) iki köleyi azadladı ve (kalan) dört kölenin kölelik hükmünü İbka eyledi. Diğer tahric: Bu hadisi Müslim, Tirmizi, Ebu Davud ve Nesai de rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "13": "Ahkâm (Hükümler) Kitabı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2308,
+        "hadithnumber_last": 2374,
+        "arabicnumber_first": 2308,
+        "arabicnumber_last": 2374
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2345,
+      "arabicnumber": 2345,
+      "text": "İmrân bin Husayn (r.a.)'den; Şöyle demiştir: (Ensârdan) bir adamın altı kölesi vardı. Ve bundan başka malı yoktu. Adam öleceği zaman bunların hepsini azadladı. Sonra (durumdan haberdar edilen) Resulullah (Sallallahu Aleyhi ve Sellem) (köleleri çağırttı ve) onları (üçe) böldü. (Aralarında kur'a çekti. Kur'ayı kazanan) iki köleyi azadladı ve (kalan) dört kölenin kölelik hükmünü İbka eyledi. Diğer tahric: Bu hadisi Müslim, Tirmizi, Ebu Davud ve Nesai de rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 38
+      }
+    }
+  ]
 }

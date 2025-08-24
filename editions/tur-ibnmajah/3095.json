@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3095,
-			"arabicnumber": 3095,
-			"text": "Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Âişe (r.anha)'dan; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem)'in (Mekke'ye göndermek istediği) kurbanlığının boynuna takılacak ipleri ben büküyordum. O da bu ipleri kurbanının boynuna takıyordu. Sonra onu (Mekke'ye) gönderiyordu. Sonra ihrâmlı kimsenin sakındığı şeylerin hiç birisinden sakınmaksızuı kendisi (Medine'de) ikâmet ediyordu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 214
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3095,
+      "arabicnumber": 3095,
+      "text": "Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Âişe (r.anha)'dan; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem)'in (Mekke'ye göndermek istediği) kurbanlığının boynuna takılacak ipleri ben büküyordum. O da bu ipleri kurbanının boynuna takıyordu. Sonra onu (Mekke'ye) gönderiyordu. Sonra ihrâmlı kimsenin sakındığı şeylerin hiç birisinden sakınmaksızuı kendisi (Medine'de) ikâmet ediyordu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 214
+      }
+    }
+  ]
 }

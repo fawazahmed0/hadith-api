@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4261,
-			"arabicnumber": 4261,
-			"text": "Enes (r.a.)'den; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) Ölüm döşeğinde olan bir gencin yanına girdi ve ona: Sen kendini nasıl buluyorsun? diye sordu. Genç: Ben, Allah (ın afvını) umarım Ya Resulallah! Ve günahlarımdan korkarım, dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) buyurdu ki: Bu vakitte (yani ölüm döşeğinde) her hangi bir (mu'min) kul'un kalbinde bağışlanma umudu ve günah korkusu birleşince mutlaka Allah o kuluna dilediğini verir ve o'nu korktuğundan emin kılar. Diğer tahric: Bu hadisi Tirmizi,Cenaiz kitabında rivAyet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 162
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4261,
+      "arabicnumber": 4261,
+      "text": "Enes (r.a.)'den; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) Ölüm döşeğinde olan bir gencin yanına girdi ve ona: Sen kendini nasıl buluyorsun? diye sordu. Genç: Ben, Allah (ın afvını) umarım Ya Resulallah! Ve günahlarımdan korkarım, dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) buyurdu ki: Bu vakitte (yani ölüm döşeğinde) her hangi bir (mu'min) kul'un kalbinde bağışlanma umudu ve günah korkusu birleşince mutlaka Allah o kuluna dilediğini verir ve o'nu korktuğundan emin kılar. Diğer tahric: Bu hadisi Tirmizi,Cenaiz kitabında rivAyet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 162
+      }
+    }
+  ]
 }

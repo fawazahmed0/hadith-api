@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"16": "The Chapters on Pawning"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 2436,
-				"hadithnumber_last": 2491,
-				"arabicnumber_first": 2436,
-				"arabicnumber_last": 2491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2483,
-			"arabicnumber": 2483,
-			"text": "Ubade bin es-Samit (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) hurmalıkların akar sudan sulanması hakkında şöyle hükmetti: «En yukardaki (hurmalık), sonra yukardaki (hurmalık) aşağıdaki (hurmalık) dan önce sulanır ve su, ayak topuklarına varıncaya kadar (üstteki hurmalıkta) bırakılır. Sonra su bunun arkasında gelen aşağıdaki (hurma bahçesi) ne salıverilir. Bahçeler bitinceye veya su tükeninceye kadar böyle (yapılır).» Not: Zevaid'de şöyle denilmiştir: Bunun isnadında İshak bin Yahya bulunur. İbn-i Adiy: İshak, Ubade (r.a.)'a yetişmediği halde ondan rivayette bulunur, demiştir. Adiy'den başkası da böyle söylemiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 48
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "16": "Rehineler Kitabı"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 2436,
+        "hadithnumber_last": 2491,
+        "arabicnumber_first": 2436,
+        "arabicnumber_last": 2491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2483,
+      "arabicnumber": 2483,
+      "text": "Ubade bin es-Samit (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) hurmalıkların akar sudan sulanması hakkında şöyle hükmetti: «En yukardaki (hurmalık), sonra yukardaki (hurmalık) aşağıdaki (hurmalık) dan önce sulanır ve su, ayak topuklarına varıncaya kadar (üstteki hurmalıkta) bırakılır. Sonra su bunun arkasında gelen aşağıdaki (hurma bahçesi) ne salıverilir. Bahçeler bitinceye veya su tükeninceye kadar böyle (yapılır).» Not: Zevaid'de şöyle denilmiştir: Bunun isnadında İshak bin Yahya bulunur. İbn-i Adiy: İshak, Ubade (r.a.)'a yetişmediği halde ondan rivayette bulunur, demiştir. Adiy'den başkası da böyle söylemiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 48
+      }
+    }
+  ]
 }

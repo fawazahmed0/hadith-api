@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4144,
-			"arabicnumber": 4144,
-			"text": "Aişe (r. anha)'dan; Şöyle demiştir: Şüphesiz biz Muhammed (Sallallahu Aleyhi ve Sellem)'in âl-i (yâni ev halkı) kesinlikle bir ay durup (bir yiyecek pişirmek için) o süre içinde ateş yakmazdık. O, (yâni yiyecek ve içecek olarak evde kullanılan şey) yalnız kuru hurma ve su idi. (Râvi İbn-i Numeyr: \"Bir ay kalırdık\" demiştir.) Diğer tahric: Buhari, Müslim ve Tirmizi AÇIKLAMA 4146’da",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 45
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4144,
+      "arabicnumber": 4144,
+      "text": "Aişe (r. anha)'dan; Şöyle demiştir: Şüphesiz biz Muhammed (Sallallahu Aleyhi ve Sellem)'in âl-i (yâni ev halkı) kesinlikle bir ay durup (bir yiyecek pişirmek için) o süre içinde ateş yakmazdık. O, (yâni yiyecek ve içecek olarak evde kullanılan şey) yalnız kuru hurma ve su idi. (Râvi İbn-i Numeyr: \"Bir ay kalırdık\" demiştir.) Diğer tahric: Buhari, Müslim ve Tirmizi AÇIKLAMA 4146’da",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 45
+      }
+    }
+  ]
 }

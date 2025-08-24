@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"9": "The Chapters on Marriage"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1845,
-				"hadithnumber_last": 2015,
-				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1947,
-			"arabicnumber": 1947,
-			"text": "Zeyneb binti Ebi Seleme (r.anha)'dan; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem)'in bütün karıları Aişe (r.anha)'ya muhalefet ederek, Ebu Huzeyfe'nin mevlası Salim (r.a.)'in (erginlik çağına varmışken) Sehle (r.a.)'nın sütünü emmesinin benzeri ile bir erkeğin onların odalarına girmesinden imtina ettiler ve: (Aişe'ye) Biz ne biliriz? Salimin erlik çağında iken Sehle'nin sütünü emerek, onun odasına girmesinin Salim'e özel bir ruhsat olduğunu umuyoruz, dediler.\" Diğer tahric: İmam Malik, Şafii, Ahmed, Buhari, Müslim. Ebu Davud ve Nesai de bunun benzerini rivayet etmişlerdir. MÜSLİM HADİSİ VE İZAH İÇİN TIKLA",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "9": "Nikâh Kitabı"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1845,
+        "hadithnumber_last": 2015,
+        "arabicnumber_first": 1845,
+        "arabicnumber_last": 2015
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1947,
+      "arabicnumber": 1947,
+      "text": "Zeyneb binti Ebi Seleme (r.anha)'dan; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem)'in bütün karıları Aişe (r.anha)'ya muhalefet ederek, Ebu Huzeyfe'nin mevlası Salim (r.a.)'in (erginlik çağına varmışken) Sehle (r.a.)'nın sütünü emmesinin benzeri ile bir erkeğin onların odalarına girmesinden imtina ettiler ve: (Aişe'ye) Biz ne biliriz? Salimin erlik çağında iken Sehle'nin sütünü emerek, onun odasına girmesinin Salim'e özel bir ruhsat olduğunu umuyoruz, dediler.\" Diğer tahric: İmam Malik, Şafii, Ahmed, Buhari, Müslim. Ebu Davud ve Nesai de bunun benzerini rivayet etmişlerdir. MÜSLİM HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 103
+      }
+    }
+  ]
 }

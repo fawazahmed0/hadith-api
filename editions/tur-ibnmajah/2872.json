@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"24": "The Chapters on Jihad"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 2753,
-				"hadithnumber_last": 2881,
-				"arabicnumber_first": 2753,
-				"arabicnumber_last": 2881
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2872,
-			"arabicnumber": 2872,
-			"text": "Abdullah (bin Mes'ûd) (r.a.)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Ahdîni bozan her kişi için kıyamet günü (halk arasında teşhir edilmek üzere) bir alâmet dikilir ve: Bu alâmet falan kişinin ahdini bozması (nın cezası) dır, denilir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Mutawatir"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih Mutawatir"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 120
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "24": "Cihâd Kitabı"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 2753,
+        "hadithnumber_last": 2881,
+        "arabicnumber_first": 2753,
+        "arabicnumber_last": 2881
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2872,
+      "arabicnumber": 2872,
+      "text": "Abdullah (bin Mes'ûd) (r.a.)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Ahdîni bozan her kişi için kıyamet günü (halk arasında teşhir edilmek üzere) bir alâmet dikilir ve: Bu alâmet falan kişinin ahdini bozması (nın cezası) dır, denilir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Mutawatir"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Mutawatir"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 120
+      }
+    }
+  ]
 }

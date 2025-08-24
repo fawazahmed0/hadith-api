@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1093,
-			"arabicnumber": 1093,
-			"text": "Semure bin Cündüb (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), Cuma'yı ve (buna) erken gitme misalini, (sadaka olarak) deveyi boğazhyana, sığırı boğazlıyana, koyunu boğazhyana, benzeterek beyan buyurdu. Bu benzetmeyi yaparken nihayet tavuğu da zikretti. Not: İsnadının sahih olduğu Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 291
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1093,
+      "arabicnumber": 1093,
+      "text": "Semure bin Cündüb (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), Cuma'yı ve (buna) erken gitme misalini, (sadaka olarak) deveyi boğazhyana, sığırı boğazlıyana, koyunu boğazhyana, benzeterek beyan buyurdu. Bu benzetmeyi yaparken nihayet tavuğu da zikretti. Not: İsnadının sahih olduğu Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 291
+      }
+    }
+  ]
 }

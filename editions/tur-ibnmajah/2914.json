@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2914,
-			"arabicnumber": 2914,
-			"text": "(Abdullah) bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem): Medine (-i Münevvere) halkı Zu'l-Huleyfe'den, Şam halkı Cuhfe'den ve Necid halkı Karn'den (hac veya umre niyetiyle) ihram'a girerler (yâni girsinler), buyurdu. Abdullah (bin Ömer) demiş ki: Bu üç (mîkat)'ı ben (bizzat) Resulullah (Sallallahu Aleyhi ve Sellem)'den işittim. Resulullah (Sallallahu Aleyhi ve Sellem)'in; Yemen halkı da Yelemlem'den ihrama girerler (girsinler), buyurduğu haberi bana ulaştı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2914,
+      "arabicnumber": 2914,
+      "text": "(Abdullah) bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem): Medine (-i Münevvere) halkı Zu'l-Huleyfe'den, Şam halkı Cuhfe'den ve Necid halkı Karn'den (hac veya umre niyetiyle) ihram'a girerler (yâni girsinler), buyurdu. Abdullah (bin Ömer) demiş ki: Bu üç (mîkat)'ı ben (bizzat) Resulullah (Sallallahu Aleyhi ve Sellem)'den işittim. Resulullah (Sallallahu Aleyhi ve Sellem)'in; Yemen halkı da Yelemlem'den ihrama girerler (girsinler), buyurduğu haberi bana ulaştı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 33
+      }
+    }
+  ]
 }

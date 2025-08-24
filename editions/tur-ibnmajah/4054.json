@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"36": "Tribulations"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 3927,
-				"hadithnumber_last": 4099,
-				"arabicnumber_first": 3927,
-				"arabicnumber_last": 4099
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4054,
-			"arabicnumber": 4054,
-			"text": "İbn-i Ömer (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Allah (Azze ve Celle) bir kul'u helak etmeyi dilediği zaman ondan hayayI söküp alır. Sonra ondan hayayı söküp ahnca sen o kul'a (herkesçe) ancak çok menfur olarak rastlarsın. Sonra sen ona ancak, çok menfur olduğu halde rastlayınca on(un kalbin)den emanet sökülüp alınmış olur. O herif (in kalbin)den emanet çekilip çıkarılınca da sen o'na ancak hıyanetçi olarak ve herkesin nazarında hıyanetle meşhur olduğu halde rastlarsın. Sen o'na ancak hıyanetkar ve hainlikle meşhur olarak rastlayınca o'nun kalbinden rahmet çekilip çıkarılır. O'nun kalbinden rahmet sökülüp alınınca da sen o'na ancak kovulmuş, lanetlenmiş olarak rastlarsın. Sonra sen o'na ancak kovulmuş, lanetli olarak rastlayınca ondan Islamiyet bağı çözülüp çıkarılır.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Said bin Sinan bulunur. Bu ra.vi zayıftır ve adının ne olduğu husQsunda ihtilaf vardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 129
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "36": "Fitneler Kitabı"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 3927,
+        "hadithnumber_last": 4099,
+        "arabicnumber_first": 3927,
+        "arabicnumber_last": 4099
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4054,
+      "arabicnumber": 4054,
+      "text": "İbn-i Ömer (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Allah (Azze ve Celle) bir kul'u helak etmeyi dilediği zaman ondan hayayI söküp alır. Sonra ondan hayayı söküp ahnca sen o kul'a (herkesçe) ancak çok menfur olarak rastlarsın. Sonra sen ona ancak, çok menfur olduğu halde rastlayınca on(un kalbin)den emanet sökülüp alınmış olur. O herif (in kalbin)den emanet çekilip çıkarılınca da sen o'na ancak hıyanetçi olarak ve herkesin nazarında hıyanetle meşhur olduğu halde rastlarsın. Sen o'na ancak hıyanetkar ve hainlikle meşhur olarak rastlayınca o'nun kalbinden rahmet çekilip çıkarılır. O'nun kalbinden rahmet sökülüp alınınca da sen o'na ancak kovulmuş, lanetlenmiş olarak rastlarsın. Sonra sen o'na ancak kovulmuş, lanetli olarak rastlayınca ondan Islamiyet bağı çözülüp çıkarılır.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Said bin Sinan bulunur. Bu ra.vi zayıftır ve adının ne olduğu husQsunda ihtilaf vardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 129
+      }
+    }
+  ]
 }

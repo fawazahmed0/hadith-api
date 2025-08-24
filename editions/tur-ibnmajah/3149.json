@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"26": "Chapters on Sacrifices"
-		},
-		"section_detail": {
-			"26": {
-				"hadithnumber_first": 3120,
-				"hadithnumber_last": 3161,
-				"arabicnumber_first": 3120,
-				"arabicnumber_last": 3161
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3149,
-			"arabicnumber": 3149,
-			"text": "Ümmü Seleme (r.anha)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Seliem) şöyle buyurmuştur: «Zilhicce ayının ilk on günü girip de biriniz bayramda kurban kesmek istediği zaman artık (kurbanını kesinceye kadar) kendi vücûdunun kıllarından ve derisinden hiç bir şeye dokunmasın.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 26,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "26": "Kurban Kitabı"
+    },
+    "section_detail": {
+      "26": {
+        "hadithnumber_first": 3120,
+        "hadithnumber_last": 3161,
+        "arabicnumber_first": 3120,
+        "arabicnumber_last": 3161
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3149,
+      "arabicnumber": 3149,
+      "text": "Ümmü Seleme (r.anha)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Seliem) şöyle buyurmuştur: «Zilhicce ayının ilk on günü girip de biriniz bayramda kurban kesmek istediği zaman artık (kurbanını kesinceye kadar) kendi vücûdunun kıllarından ve derisinden hiç bir şeye dokunmasın.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 26,
+        "hadith": 30
+      }
+    }
+  ]
 }

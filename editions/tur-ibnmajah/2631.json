@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"21": "The Chapters on Blood Money"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 2615,
-				"hadithnumber_last": 2694,
-				"arabicnumber_first": 2615,
-				"arabicnumber_last": 2694
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2631,
-			"arabicnumber": 2631,
-			"text": "Abdullah bin Mes'üd (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyîe buyurdu, demiştir: «Hatâen öldürme diyetinde yirmi hıkka (beş yaşına giren dişi deve), yirmi cezaa (dört yaşına giren dişi deve), yirmi bint-i mahad (iki yaşına giren dişi deve), yirmi bint-i Lebûn (üç yaşına giren dişi deve) ve yirmi ibn-i mahad (iki yaşma giren erkek deve lâzım)dır.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "21": "Diyet-Kısas Kitabı"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 2615,
+        "hadithnumber_last": 2694,
+        "arabicnumber_first": 2615,
+        "arabicnumber_last": 2694
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2631,
+      "arabicnumber": 2631,
+      "text": "Abdullah bin Mes'üd (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyîe buyurdu, demiştir: «Hatâen öldürme diyetinde yirmi hıkka (beş yaşına giren dişi deve), yirmi cezaa (dört yaşına giren dişi deve), yirmi bint-i mahad (iki yaşına giren dişi deve), yirmi bint-i Lebûn (üç yaşına giren dişi deve) ve yirmi ibn-i mahad (iki yaşma giren erkek deve lâzım)dır.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 17
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2942,
-			"arabicnumber": 2942,
-			"text": "Usâme bin Zeyd (r.a.)'dan; Şöyle demiştir: Ben, (Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem)'e): Yâ Resûlallah! Yarın (Mekke'de) nereye ineceksin, (evinize mi)? diye sordum. Bu soruyu sormak O'nun (Veda) haccı sırasında idi. Resul-i Ekrem (Sallallahu Aleyhi ve Sellem): Akîl (Mekke'de) bize mesken bıraktı mı? buyurdu. Sonra: (înşâallah) biz yarın Kinâne oğullarının yurduna (yâni el-Muhassab'a) ineceğiz. Kureyş (müşrikleri) küfür üzerine bu yerde ahd etmişlerdi. Bu ahid ve andIaşma Kinâne oğulları ile Kureyş (müşrikleri) arasında Hâşim oğulları (ve Muttalib oğulları) aleyhine: \"Bunlarla kız alıp vermemek, alış veriş etmemek üzere\" akdedilmişti. (Hâşimîlerle Muttalibiler, Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem)'i Kureyş ile Kinâne'ye itaat etmeye ikna edinceye kadar bu akid devam edecekti.) (Râvi) el-Ma'mer demiş ki: Zührî, el-Hayf'ın dere olduğunu söyledi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 61
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2942,
+      "arabicnumber": 2942,
+      "text": "Usâme bin Zeyd (r.a.)'dan; Şöyle demiştir: Ben, (Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem)'e): Yâ Resûlallah! Yarın (Mekke'de) nereye ineceksin, (evinize mi)? diye sordum. Bu soruyu sormak O'nun (Veda) haccı sırasında idi. Resul-i Ekrem (Sallallahu Aleyhi ve Sellem): Akîl (Mekke'de) bize mesken bıraktı mı? buyurdu. Sonra: (înşâallah) biz yarın Kinâne oğullarının yurduna (yâni el-Muhassab'a) ineceğiz. Kureyş (müşrikleri) küfür üzerine bu yerde ahd etmişlerdi. Bu ahid ve andIaşma Kinâne oğulları ile Kureyş (müşrikleri) arasında Hâşim oğulları (ve Muttalib oğulları) aleyhine: \"Bunlarla kız alıp vermemek, alış veriş etmemek üzere\" akdedilmişti. (Hâşimîlerle Muttalibiler, Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem)'i Kureyş ile Kinâne'ye itaat etmeye ikna edinceye kadar bu akid devam edecekti.) (Râvi) el-Ma'mer demiş ki: Zührî, el-Hayf'ın dere olduğunu söyledi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 61
+      }
+    }
+  ]
 }

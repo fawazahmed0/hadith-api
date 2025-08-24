@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3737,
-			"arabicnumber": 3737,
-			"text": "Enes (r.a.)'dea rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Baki'de idi. (Orada) bir adam, bir adamı Yâ Ebe'I-Kasım diye çağırdı. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) (Zâtı Nebevilerinin çağırıldığını sanarak) seslenen adam'a dönüp baktı. Adam da: Ben, Zâtınızı kasdetmedim (şu adamı çağırdım), dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: Benim adımla adlanınız. Fakat künyemle künyelenmeyiniz.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 81
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3737,
+      "arabicnumber": 3737,
+      "text": "Enes (r.a.)'dea rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Baki'de idi. (Orada) bir adam, bir adamı Yâ Ebe'I-Kasım diye çağırdı. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) (Zâtı Nebevilerinin çağırıldığını sanarak) seslenen adam'a dönüp baktı. Adam da: Ben, Zâtınızı kasdetmedim (şu adamı çağırdım), dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: Benim adımla adlanınız. Fakat künyemle künyelenmeyiniz.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 81
+      }
+    }
+  ]
 }

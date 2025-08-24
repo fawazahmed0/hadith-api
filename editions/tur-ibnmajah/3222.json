@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"28": "Chapters on Hunting"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3200,
-				"hadithnumber_last": 3250,
-				"arabicnumber_first": 3200,
-				"arabicnumber_last": 3250
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3222,
-			"arabicnumber": 3222,
-			"text": "Ebû Hureyre (r.a.)'den; Şöyle demiştir: Biz, Nebi (Saîlallahu Aleyhi ve Sellem)'in beraberinde bir hac veya bir umre'ye çıktık. Sonra yolda bir çekirge topluluğu karşımıza çıktı. Biz de kamçılarımızla ve ayakkabılarımızla onlara vurmaya başladık. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): Çekirgeyi yiyiniz. Çünkü çekirge deniz avındandır, (Yâni ihrâmlı kimseye yasak değildir), buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Very Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 23
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "28": "Av Kitabı"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3200,
+        "hadithnumber_last": 3250,
+        "arabicnumber_first": 3200,
+        "arabicnumber_last": 3250
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3222,
+      "arabicnumber": 3222,
+      "text": "Ebû Hureyre (r.a.)'den; Şöyle demiştir: Biz, Nebi (Saîlallahu Aleyhi ve Sellem)'in beraberinde bir hac veya bir umre'ye çıktık. Sonra yolda bir çekirge topluluğu karşımıza çıktı. Biz de kamçılarımızla ve ayakkabılarımızla onlara vurmaya başladık. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): Çekirgeyi yiyiniz. Çünkü çekirge deniz avındandır, (Yâni ihrâmlı kimseye yasak değildir), buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 23
+      }
+    }
+  ]
 }

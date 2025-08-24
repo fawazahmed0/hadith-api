@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"21": "The Chapters on Blood Money"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 2615,
-				"hadithnumber_last": 2694,
-				"arabicnumber_first": 2615,
-				"arabicnumber_last": 2694
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2669,
-			"arabicnumber": 2669,
-			"text": "Amr bin el-Ahvas (r.a.)'den; Şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i Veda haccmda şöyle buyururken işittim: «Bilmiş olunuz ki her cânî ancak şahsının işlediği günahtan sorumludur. Hiç bir baba oğlunun günahından sorumlu tutulamaz ve hiç bir oğul babasının günahından sorumlu tutulamaz.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "21": "Diyet-Kısas Kitabı"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 2615,
+        "hadithnumber_last": 2694,
+        "arabicnumber_first": 2615,
+        "arabicnumber_last": 2694
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2669,
+      "arabicnumber": 2669,
+      "text": "Amr bin el-Ahvas (r.a.)'den; Şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i Veda haccmda şöyle buyururken işittim: «Bilmiş olunuz ki her cânî ancak şahsının işlediği günahtan sorumludur. Hiç bir baba oğlunun günahından sorumlu tutulamaz ve hiç bir oğul babasının günahından sorumlu tutulamaz.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 55
+      }
+    }
+  ]
 }

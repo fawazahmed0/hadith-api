@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"9": "The Chapters on Marriage"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1845,
-				"hadithnumber_last": 2015,
-				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1977,
-			"arabicnumber": 1977,
-			"text": "(Abdullah) bin Abbas (r.a.)'daan rivayet edilgine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sizin en hayırlınız, ailesine en iyi olanınızdır. Ben de aileme en iyi olanınızım.» Not: Zevaid'de şöyle denilmiştir: Bu hadisi Tirmizi ve İbn-i Hibban Aişe (r.anha)'dan rivayet etmişlerdir. İbni Abbas (r.a.)'dan olan rivayete gelince, bu rivayetin senedi zayıftır. Çünkü ravi Umare bin Sevban'ı İbni Hibban sikalar arasında zikretmiş ise de Abdülhak: O, kuvvetli değil, demiştir. İbnü'l-Kattan da: O'nun hali meçhuldür, demiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 133
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "9": "Nikâh Kitabı"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1845,
+        "hadithnumber_last": 2015,
+        "arabicnumber_first": 1845,
+        "arabicnumber_last": 2015
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1977,
+      "arabicnumber": 1977,
+      "text": "(Abdullah) bin Abbas (r.a.)'daan rivayet edilgine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sizin en hayırlınız, ailesine en iyi olanınızdır. Ben de aileme en iyi olanınızım.» Not: Zevaid'de şöyle denilmiştir: Bu hadisi Tirmizi ve İbn-i Hibban Aişe (r.anha)'dan rivayet etmişlerdir. İbni Abbas (r.a.)'dan olan rivayete gelince, bu rivayetin senedi zayıftır. Çünkü ravi Umare bin Sevban'ı İbni Hibban sikalar arasında zikretmiş ise de Abdülhak: O, kuvvetli değil, demiştir. İbnü'l-Kattan da: O'nun hali meçhuldür, demiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 133
+      }
+    }
+  ]
 }

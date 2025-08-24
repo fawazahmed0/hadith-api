@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3417,
-			"arabicnumber": 3417,
-			"text": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) (bir şey) içti de içerken iki defa nefes almıştır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3417,
+      "arabicnumber": 3417,
+      "text": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) (bir şey) içti de içerken iki defa nefes almıştır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 47
+      }
+    }
+  ]
 }

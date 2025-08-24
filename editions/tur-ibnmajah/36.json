@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"0": "The Book of the Sunnah"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 266,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 266
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 36,
-			"arabicnumber": 36,
-			"text": "Abdullah İbni Zübeyr r.a.'den şöyle dediği rivayet edilmiştir; Ben Zübeyr b. El-Avvam r.a.'a dedim ki; (Abdullah) İbni Mes'ud r.a., falan ve filan sahibinin hadis rivayet ettiklerini işittiğim gibi neden senin Nebi s.a.v.‘in hadislerinden bir şey haber verdiğini işitmiyorum. Zübeyr r.a. şöyle cevap verdi; ''İyi bilki ben Müslüman olduğum andan beri Resulullah s.a.v.’in yanından hiç ayrılmadım (Yani benim bu tutumum, uzun zamandan beri sahabilik şerefine mazhar olduğum halde onun yanında az bulunduğumdan ileri gelmiyor). Fakat ben Resulullah s.a.v.’ın; “Kim benim ağzımdan kasten yalan söylerse cehennemdeki oturağını hazırlasın!” buyurduğunu işittim. (Yani hadis riveyetinde bulunmama mani budur. Çünkü eksik veya fazla söyleme hatasına düşebilirim)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 36
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "0": "Sünnet Kitabı"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 266,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 266
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 36,
+      "arabicnumber": 36,
+      "text": "Abdullah İbni Zübeyr r.a.'den şöyle dediği rivayet edilmiştir; Ben Zübeyr b. El-Avvam r.a.'a dedim ki; (Abdullah) İbni Mes'ud r.a., falan ve filan sahibinin hadis rivayet ettiklerini işittiğim gibi neden senin Nebi s.a.v.‘in hadislerinden bir şey haber verdiğini işitmiyorum. Zübeyr r.a. şöyle cevap verdi; ''İyi bilki ben Müslüman olduğum andan beri Resulullah s.a.v.’in yanından hiç ayrılmadım (Yani benim bu tutumum, uzun zamandan beri sahabilik şerefine mazhar olduğum halde onun yanında az bulunduğumdan ileri gelmiyor). Fakat ben Resulullah s.a.v.’ın; “Kim benim ağzımdan kasten yalan söylerse cehennemdeki oturağını hazırlasın!” buyurduğunu işittim. (Yani hadis riveyetinde bulunmama mani budur. Çünkü eksik veya fazla söyleme hatasına düşebilirim)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "book": 0,
+        "hadith": 36
+      }
+    }
+  ]
 }

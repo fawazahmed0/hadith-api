@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1050,
-			"arabicnumber": 1050,
-			"text": "Keysan (r.a.)'den; şöyle demiştir : Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i Bi'r-i Ulya'da bir elbise içinde namaz kılarken gördüm.\" Not: Zevaid'de belirtildiğine göre bu isnad aleyhinde konuşulabilir, Çünkü İbn.i Hibban, Ravi Abdurrahman bin Keysan ile nivi Muhammed bin Hanzala'yı sikalar arasında zikretmiştir, Ravi Ma'uf bin Müşkan hakkında konuşan kimseyi görmedim. Ravi Ebu İshak eş-Şafii de sikadır. İsnadın zayıflığı bundan neticelendirilir (Çünkü durumu bilinmeyen Maruf'un rivayeti an'ane iledir)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 248
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1050,
+      "arabicnumber": 1050,
+      "text": "Keysan (r.a.)'den; şöyle demiştir : Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i Bi'r-i Ulya'da bir elbise içinde namaz kılarken gördüm.\" Not: Zevaid'de belirtildiğine göre bu isnad aleyhinde konuşulabilir, Çünkü İbn.i Hibban, Ravi Abdurrahman bin Keysan ile nivi Muhammed bin Hanzala'yı sikalar arasında zikretmiştir, Ravi Ma'uf bin Müşkan hakkında konuşan kimseyi görmedim. Ravi Ebu İshak eş-Şafii de sikadır. İsnadın zayıflığı bundan neticelendirilir (Çünkü durumu bilinmeyen Maruf'un rivayeti an'ane iledir)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 248
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3380,
-			"arabicnumber": 3380,
-			"text": "ibn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İçkiye on yönden lanet edilmiştir: İçkinin kendisine, onu imâl edene, imâl etmek isteyene, satıcısına, müşterisine, taşıyanına, taşıttıranına (yâni sipariş edenine), pahasını yiyenine, içenine ve içirenine.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3380,
+      "arabicnumber": 3380,
+      "text": "ibn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İçkiye on yönden lanet edilmiştir: İçkinin kendisine, onu imâl edene, imâl etmek isteyene, satıcısına, müşterisine, taşıyanına, taşıttıranına (yâni sipariş edenine), pahasını yiyenine, içenine ve içirenine.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 10
+      }
+    }
+  ]
 }

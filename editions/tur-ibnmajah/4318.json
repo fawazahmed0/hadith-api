@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4318,
-			"arabicnumber": 4318,
-			"text": "Enes bin Malik (r. a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Şüphesiz sizin şu (dünya) ateşiniz, cehennem ateşinin yetmiş parçasından bir parçadır ve eğer su ile iki defa söndürülmemiş (yani harareti giderilmemiş) olsaydı siz (dünyada) ondan yararlanamazdınız. Şüphe yok ki, dünya ateşi, (kendisinden) giderilmiş sıcaklığı ona iade etmemesi için Allah (Azze ve Celle)'ye dua eder. Not: Zevaid'de şöyle denilmiştir : Sl-Hakim, bu hadisi Müellifin rivayet ettiği gibi tahriç ederek: Senedinin Buhari ile Müslim'in şartlan üzerine sahih olduğunu söylemiştir. Bu hadisin metninin bir bölümü Buhari ve Müslim'in sahi-hayn'ında Ebu Hureyre (R.A.)'den rivayet edilmiş olarak bulunur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Very Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Very Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Very Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 219
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4318,
+      "arabicnumber": 4318,
+      "text": "Enes bin Malik (r. a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Şüphesiz sizin şu (dünya) ateşiniz, cehennem ateşinin yetmiş parçasından bir parçadır ve eğer su ile iki defa söndürülmemiş (yani harareti giderilmemiş) olsaydı siz (dünyada) ondan yararlanamazdınız. Şüphe yok ki, dünya ateşi, (kendisinden) giderilmiş sıcaklığı ona iade etmemesi için Allah (Azze ve Celle)'ye dua eder. Not: Zevaid'de şöyle denilmiştir : Sl-Hakim, bu hadisi Müellifin rivayet ettiği gibi tahriç ederek: Senedinin Buhari ile Müslim'in şartlan üzerine sahih olduğunu söylemiştir. Bu hadisin metninin bir bölümü Buhari ve Müslim'in sahi-hayn'ında Ebu Hureyre (R.A.)'den rivayet edilmiş olarak bulunur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 219
+      }
+    }
+  ]
 }

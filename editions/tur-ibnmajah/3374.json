@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3374,
-			"arabicnumber": 3374,
-			"text": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kim dünyada içki içer (de tevbe etmeden ölür)se, o kimse âhi-rette içki içmeyecektir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sıka, zatlardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3374,
+      "arabicnumber": 3374,
+      "text": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kim dünyada içki içer (de tevbe etmeden ölür)se, o kimse âhi-rette içki içmeyecektir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sıka, zatlardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 4
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"18": "The Chapters on Lost Property"
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 2502,
-				"hadithnumber_last": 2511,
-				"arabicnumber_first": 2502,
-				"arabicnumber_last": 2511
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2502,
-			"arabicnumber": 2502,
-			"text": "Abdullah bin eş-Şıhhîr (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir; «Müslümanın dâliesi (yitik hayvanı veya yitik her nevi malı) ateş alevidir.» Not: Bu hadisin senedinin sahih ve ravllerinin sika oldukları, Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 18,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "18": "Lukata Kitabı"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 2502,
+        "hadithnumber_last": 2511,
+        "arabicnumber_first": 2502,
+        "arabicnumber_last": 2511
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2502,
+      "arabicnumber": 2502,
+      "text": "Abdullah bin eş-Şıhhîr (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir; «Müslümanın dâliesi (yitik hayvanı veya yitik her nevi malı) ateş alevidir.» Not: Bu hadisin senedinin sahih ve ravllerinin sika oldukları, Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 18,
+        "hadith": 1
+      }
+    }
+  ]
 }

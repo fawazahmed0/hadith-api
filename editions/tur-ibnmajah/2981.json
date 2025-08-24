@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2981,
-			"arabicnumber": 2981,
-			"text": "Âişe (r.anha)'dan; Şöyle demiştir: Biz Zilkade ayının bitimine beş gün kala Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde (Medine'den hac yolculuğuna) çıktık. (Hac mevsiminde umre değil) ancak hac edilir sanıyorduk. Nihayet varıp (Mekke'ye) yaklaştığımız zaman Resulullah (Sallallahu Aleyhi ve Sellem), beraberinde kurbanlık olmayanların (tavaf ve sa'y'den sonra) ihramdan çıkmalarını emretti. Beraberinde kurbanlık olanlar dışında kalan herkes (tavaf ve sa'y'den sonra) ihramdan çıktı. Kurban bayramı günü olunca bize sığır eti getirildi ve Resulullah (Sallallahu Aleyhi ve Sellem) 'in, zevceleri yerine kurban kestiği söylendi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 100
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2981,
+      "arabicnumber": 2981,
+      "text": "Âişe (r.anha)'dan; Şöyle demiştir: Biz Zilkade ayının bitimine beş gün kala Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde (Medine'den hac yolculuğuna) çıktık. (Hac mevsiminde umre değil) ancak hac edilir sanıyorduk. Nihayet varıp (Mekke'ye) yaklaştığımız zaman Resulullah (Sallallahu Aleyhi ve Sellem), beraberinde kurbanlık olmayanların (tavaf ve sa'y'den sonra) ihramdan çıkmalarını emretti. Beraberinde kurbanlık olanlar dışında kalan herkes (tavaf ve sa'y'den sonra) ihramdan çıktı. Kurban bayramı günü olunca bize sığır eti getirildi ve Resulullah (Sallallahu Aleyhi ve Sellem) 'in, zevceleri yerine kurban kestiği söylendi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 100
+      }
+    }
+  ]
 }

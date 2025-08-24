@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"34": "Supplication"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 3827,
-				"hadithnumber_last": 3892,
-				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3851,
-			"arabicnumber": 3851,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kulun; ''Allahın! Ben sen'den dünya ve ahirette afiyet dilerim'' duasından daha faziletli, edecceği bir dua yoktur.» Zevaid de : Bu hadis'in senedi sahih, ravileri sikadır. Ravi el-Ala bin Ziyad'ı İbn-i Hibban sika saymıştır. Bende bu ravi hakkında konuşanı görmedim. diğer raviler ise meşhurdurlar, hakların konuşmaya gerek yoktur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "34": "Dua Kitabı"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 3827,
+        "hadithnumber_last": 3892,
+        "arabicnumber_first": 3827,
+        "arabicnumber_last": 3892
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3851,
+      "arabicnumber": 3851,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kulun; ''Allahın! Ben sen'den dünya ve ahirette afiyet dilerim'' duasından daha faziletli, edecceği bir dua yoktur.» Zevaid de : Bu hadis'in senedi sahih, ravileri sikadır. Ravi el-Ala bin Ziyad'ı İbn-i Hibban sika saymıştır. Bende bu ravi hakkında konuşanı görmedim. diğer raviler ise meşhurdurlar, hakların konuşmaya gerek yoktur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 25
+      }
+    }
+  ]
 }

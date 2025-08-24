@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4134,
-			"arabicnumber": 4134,
-			"text": "Nukade el-Esedî (r.a.)'den; Şöyle demiştir; Resulullah (Sallallahu Aleyhi ve Sellem) beni bir adam'a göndererek ondan meniha (yâni geçici bir süre için karşılıksız sütünden yararlanılacak) bir dişi deve istedi. Adam bu isteği yerine getirmedi. Sonra Resulullah (Sallallahu Aleyhi ve Sellem) beni başka bir adama gönderdi. Bu adam O'na (sağmal) bir deve gönderdi. Resulullah (Sallallahu Aleyhi ve Sellem) deveyi görünce : Allahım! Bu deveyi ve onu göndereni bereketlendir, diye duâ buyurdu. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde el-Beni bulunur. İbn-i Hibban onu güvenilir raviler arasında anmıştır. Zehebi de onun mechul olduğunu söylemiştir. Senedin kalan ravileri güvenilir zatlardır. Zevaid yazarı: Yalnız İbni Mace'nin rivayet ettiği bu hadisten başka Nukade (r.a.)'in hiç bir hadisi Kütüb-i Sitte'de yoktur, demiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 35
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4134,
+      "arabicnumber": 4134,
+      "text": "Nukade el-Esedî (r.a.)'den; Şöyle demiştir; Resulullah (Sallallahu Aleyhi ve Sellem) beni bir adam'a göndererek ondan meniha (yâni geçici bir süre için karşılıksız sütünden yararlanılacak) bir dişi deve istedi. Adam bu isteği yerine getirmedi. Sonra Resulullah (Sallallahu Aleyhi ve Sellem) beni başka bir adama gönderdi. Bu adam O'na (sağmal) bir deve gönderdi. Resulullah (Sallallahu Aleyhi ve Sellem) deveyi görünce : Allahım! Bu deveyi ve onu göndereni bereketlendir, diye duâ buyurdu. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde el-Beni bulunur. İbn-i Hibban onu güvenilir raviler arasında anmıştır. Zehebi de onun mechul olduğunu söylemiştir. Senedin kalan ravileri güvenilir zatlardır. Zevaid yazarı: Yalnız İbni Mace'nin rivayet ettiği bu hadisten başka Nukade (r.a.)'in hiç bir hadisi Kütüb-i Sitte'de yoktur, demiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 35
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1715,
-			"arabicnumber": 1715,
-			"text": "Resulullah (Sallallahu Aleyhi ve Sellem)'in mevlası Sevban (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim Ramazan (orucunu tutar ve) bayramdan sonra altı gün oruç tutarsa, onun tutmuş olduğu oruç, yılın tamamının orucu olmuş olur. Kim iyilik işlerse, ona o iyiliğin on misli verilir.» Not: Zevaid'de şöyle denilmiştir : Bu hadisi İbn-İ Hibban kendi sahihinde rivayet etmiştir. Sindi : Zevaid yazarı bu hadisin sahih olduğunu söylemek istemiş ve: Bu hadisi te'yid eden şahit vardır, demiştir, der, AÇIKLAMA 1716’da",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 78
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1715,
+      "arabicnumber": 1715,
+      "text": "Resulullah (Sallallahu Aleyhi ve Sellem)'in mevlası Sevban (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim Ramazan (orucunu tutar ve) bayramdan sonra altı gün oruç tutarsa, onun tutmuş olduğu oruç, yılın tamamının orucu olmuş olur. Kim iyilik işlerse, ona o iyiliğin on misli verilir.» Not: Zevaid'de şöyle denilmiştir : Bu hadisi İbn-İ Hibban kendi sahihinde rivayet etmiştir. Sindi : Zevaid yazarı bu hadisin sahih olduğunu söylemek istemiş ve: Bu hadisi te'yid eden şahit vardır, demiştir, der, AÇIKLAMA 1716’da",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 78
+      }
+    }
+  ]
 }

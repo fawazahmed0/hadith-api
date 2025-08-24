@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"0": "The Book of the Sunnah"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 266,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 266
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 176,
-			"arabicnumber": 176,
-			"text": "Ebu Galip r.a.’den rivayet edildiğine göre Ebu Ümame r.a. şöyle buyurmuştur: Öldürülen Hariciler, gök cildi (görülen tabakası) altında öldürülenlerin en kötüleridir. Öldürülen insanların en hayırlısı da Haricilerin öldürdüğü kimselerdir. (Çünkü şehid olurlar.) Hariciler Cehennem ehlinin köpekleridir. Bunlar müslüman idiler sonra kafir oldular. (Ravi Ebu Galip diyor ki) :Ben Ebu Ümame’ye: Bu söz, senin söylediğin bir şeydir! dedim.Ebu Umame : Hayır! Ben bu sözü Resulullah Sallallahu Aleyhi ve Sellem’den işittim, dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 176
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "0": "Sünnet Kitabı"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 266,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 266
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 176,
+      "arabicnumber": 176,
+      "text": "Ebu Galip r.a.’den rivayet edildiğine göre Ebu Ümame r.a. şöyle buyurmuştur: Öldürülen Hariciler, gök cildi (görülen tabakası) altında öldürülenlerin en kötüleridir. Öldürülen insanların en hayırlısı da Haricilerin öldürdüğü kimselerdir. (Çünkü şehid olurlar.) Hariciler Cehennem ehlinin köpekleridir. Bunlar müslüman idiler sonra kafir oldular. (Ravi Ebu Galip diyor ki) :Ben Ebu Ümame’ye: Bu söz, senin söylediğin bir şeydir! dedim.Ebu Umame : Hayır! Ben bu sözü Resulullah Sallallahu Aleyhi ve Sellem’den işittim, dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 0,
+        "hadith": 176
+      }
+    }
+  ]
 }

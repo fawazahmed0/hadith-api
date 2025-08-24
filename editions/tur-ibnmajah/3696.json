@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3696,
-			"arabicnumber": 3696,
-			"text": "Aişe (r.anha)'dan rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) kendisine: «Cebrail sana selam sunuypr, buyurmuş, kendisi de: Ve aleyke's-selamu ve rahmetullahi. diye cevap vermiştir. (Allah'ın selamı ve Rahmeti ona da olsun)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3696,
+      "arabicnumber": 3696,
+      "text": "Aişe (r.anha)'dan rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) kendisine: «Cebrail sana selam sunuypr, buyurmuş, kendisi de: Ve aleyke's-selamu ve rahmetullahi. diye cevap vermiştir. (Allah'ın selamı ve Rahmeti ona da olsun)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 40
+      }
+    }
+  ]
 }

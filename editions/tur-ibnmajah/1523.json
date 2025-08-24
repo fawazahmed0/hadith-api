@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"6": "Chapters Regarding Funerals"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1433,
-				"hadithnumber_last": 1637,
-				"arabicnumber_first": 1433,
-				"arabicnumber_last": 1637
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1523,
-			"arabicnumber": 1523,
-			"text": "İbn-i Ömer (r.a.)'dan; şöyle demiştir: Abdullah bin Ubeyy öldüğü zaman oğlu (Abdullah) (r.a.) Nebi (Sallallahu Aleyhi ve Sellem)'e gelerek: Ya Resulallah! (Mübarek) gömleğini bana ver. Babamı onunla kefenleyim, dedi (Efendimiz gömleğini verdi). Sonra Resulallah tSallallahu Aleyhi ve Sellem) buyurdu ki: «Cenaze hazırlanınca bana haber veriniz (namazını kılayım.) Sonra Nebi (Sallallahu Aleyhi ve Sellem) Onun cenaze namazını kılmak isteyince Ömer bin el-Hattab (r.a.), efendimize (anladığımız kadarıyla): Bunun namazını kılmaman gerekir, dedi. Sonra Nebi (Sallallahu Aleyhi ve Sellem) namazını kıldı. Sonra Nebi (Sallallahu Aleyhi ve Sellem) Ömer (r.a.)'e: «Ben şu iki şey arasında muhayyerim: (Allah Teala buyurmuş ki:) Münafıklara sen ister istiğfar et, ister istiğfar etme.» [Tevbe 80] buyurdu. Bunun üzerine Allah Sübhaneh: «O münafıklardan ölenlerin hiç birisinin üzerinde namaz kılma. Mezarı üstünde de durma.» [Tevbe 84-85] ayetini indirdi. Diğer tahric: Buhari, Müslim ve Nesai AÇIKLAMA 1524’te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 91
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "6": "Cenazeler Kitabı"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1433,
+        "hadithnumber_last": 1637,
+        "arabicnumber_first": 1433,
+        "arabicnumber_last": 1637
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1523,
+      "arabicnumber": 1523,
+      "text": "İbn-i Ömer (r.a.)'dan; şöyle demiştir: Abdullah bin Ubeyy öldüğü zaman oğlu (Abdullah) (r.a.) Nebi (Sallallahu Aleyhi ve Sellem)'e gelerek: Ya Resulallah! (Mübarek) gömleğini bana ver. Babamı onunla kefenleyim, dedi (Efendimiz gömleğini verdi). Sonra Resulallah tSallallahu Aleyhi ve Sellem) buyurdu ki: «Cenaze hazırlanınca bana haber veriniz (namazını kılayım.) Sonra Nebi (Sallallahu Aleyhi ve Sellem) Onun cenaze namazını kılmak isteyince Ömer bin el-Hattab (r.a.), efendimize (anladığımız kadarıyla): Bunun namazını kılmaman gerekir, dedi. Sonra Nebi (Sallallahu Aleyhi ve Sellem) namazını kıldı. Sonra Nebi (Sallallahu Aleyhi ve Sellem) Ömer (r.a.)'e: «Ben şu iki şey arasında muhayyerim: (Allah Teala buyurmuş ki:) Münafıklara sen ister istiğfar et, ister istiğfar etme.» [Tevbe 80] buyurdu. Bunun üzerine Allah Sübhaneh: «O münafıklardan ölenlerin hiç birisinin üzerinde namaz kılma. Mezarı üstünde de durma.» [Tevbe 84-85] ayetini indirdi. Diğer tahric: Buhari, Müslim ve Nesai AÇIKLAMA 1524’te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 91
+      }
+    }
+  ]
 }

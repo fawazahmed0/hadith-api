@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3412,
-			"arabicnumber": 3412,
-			"text": "Âişe (r.anha)'dan; Şöyle demiştir: Ben, Resulullah (Sallallahu Aleyhi ve Sellem) için üstü örtülü üç kab'ı akşamdan hazırlardım: Bir kab'ı abdest suyu için, bir kab'ı misvak'ı için ve bir kab'ı içeceği için. Not: Zevaid'de şöyle denilmiştir; Bunun senedinde Hariş bin Hırrlt bulunur, Bu ravi zayıftır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3412,
+      "arabicnumber": 3412,
+      "text": "Âişe (r.anha)'dan; Şöyle demiştir: Ben, Resulullah (Sallallahu Aleyhi ve Sellem) için üstü örtülü üç kab'ı akşamdan hazırlardım: Bir kab'ı abdest suyu için, bir kab'ı misvak'ı için ve bir kab'ı içeceği için. Not: Zevaid'de şöyle denilmiştir; Bunun senedinde Hariş bin Hırrlt bulunur, Bu ravi zayıftır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 42
+      }
+    }
+  ]
 }

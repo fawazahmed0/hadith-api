@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"35": "Interpretation of Dreams"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 3893,
-				"hadithnumber_last": 3926,
-				"arabicnumber_first": 3893,
-				"arabicnumber_last": 3926
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3896,
-			"arabicnumber": 3896,
-			"text": "Ümmü Kürz el-Ka'biyye (r.a.)'dan rivayet edildiğine göre kendisi: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işittim, demiştir: «Nebilik gitti (yâni O'ndan sonra Nebi gönderilmeyecek) ve mübeşşirât (yani mu'minin göreceği güzel rü'yalar) kaldı.» Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravilerI güvenillr zatlardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 35,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "35": "Rü'ya Tâbiri (Yorumlanması)"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 3893,
+        "hadithnumber_last": 3926,
+        "arabicnumber_first": 3893,
+        "arabicnumber_last": 3926
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3896,
+      "arabicnumber": 3896,
+      "text": "Ümmü Kürz el-Ka'biyye (r.a.)'dan rivayet edildiğine göre kendisi: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işittim, demiştir: «Nebilik gitti (yâni O'ndan sonra Nebi gönderilmeyecek) ve mübeşşirât (yani mu'minin göreceği güzel rü'yalar) kaldı.» Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravilerI güvenillr zatlardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 35,
+        "hadith": 4
+      }
+    }
+  ]
 }

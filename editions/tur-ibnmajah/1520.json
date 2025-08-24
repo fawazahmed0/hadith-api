@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"6": "Chapters Regarding Funerals"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1433,
-				"hadithnumber_last": 1637,
-				"arabicnumber_first": 1433,
-				"arabicnumber_last": 1637
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1520,
-			"arabicnumber": 1520,
-			"text": "İbn-i Abbas (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), ölen bir adam'ı geceleyin kabre bizzat koydu ve kabirde (defin işinde aydınlık olsun diye) lamba yakıldı. Diğer tahric: Tirmizi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 88
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "6": "Cenazeler Kitabı"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1433,
+        "hadithnumber_last": 1637,
+        "arabicnumber_first": 1433,
+        "arabicnumber_last": 1637
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1520,
+      "arabicnumber": 1520,
+      "text": "İbn-i Abbas (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), ölen bir adam'ı geceleyin kabre bizzat koydu ve kabirde (defin işinde aydınlık olsun diye) lamba yakıldı. Diğer tahric: Tirmizi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 88
+      }
+    }
+  ]
 }

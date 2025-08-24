@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 839,
-			"arabicnumber": 839,
-			"text": "Ebu Said-i Hudri (r.a.)'den şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) buyurdu ki: «Farz veya diğer namazların her rekaünde Fatiha'yı ve bir sureyi okumayanın hiç bir namazı yoktur.»\" Not: Zevaid'de: Bu, zayıftır. Senedindeki Ebü Süfyan es-Sa'di'nin zayıflığı üzerinde alimlerin ittifak ettiklerini İbn-i Abdi'I-Berr söylemiştir. Lakin Katade Ebu Süfyan'a mutabaat etmiştir. İbn-i Hibban. kendi sahihinde öyle rivayet etmiştir, denmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 839,
+      "arabicnumber": 839,
+      "text": "Ebu Said-i Hudri (r.a.)'den şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) buyurdu ki: «Farz veya diğer namazların her rekaünde Fatiha'yı ve bir sureyi okumayanın hiç bir namazı yoktur.»\" Not: Zevaid'de: Bu, zayıftır. Senedindeki Ebü Süfyan es-Sa'di'nin zayıflığı üzerinde alimlerin ittifak ettiklerini İbn-i Abdi'I-Berr söylemiştir. Lakin Katade Ebu Süfyan'a mutabaat etmiştir. İbn-i Hibban. kendi sahihinde öyle rivayet etmiştir, denmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 37
+      }
+    }
+  ]
 }

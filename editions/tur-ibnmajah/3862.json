@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"34": "Supplication"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 3827,
-				"hadithnumber_last": 3892,
-				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3862,
-			"arabicnumber": 3862,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Üç (çeşid) dua kabul olunur, onlar(ın kabul olunmasın) da şüphe yoktur: Mazlumun duası, misafir'in duası ve baba'nın çocuğuna duası.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 36
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "34": "Dua Kitabı"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 3827,
+        "hadithnumber_last": 3892,
+        "arabicnumber_first": 3827,
+        "arabicnumber_last": 3892
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3862,
+      "arabicnumber": 3862,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Üç (çeşid) dua kabul olunur, onlar(ın kabul olunmasın) da şüphe yoktur: Mazlumun duası, misafir'in duası ve baba'nın çocuğuna duası.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 36
+      }
+    }
+  ]
 }

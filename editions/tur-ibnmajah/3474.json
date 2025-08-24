@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"31": "Chapters on Medicine"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 3436,
-				"hadithnumber_last": 3549,
-				"arabicnumber_first": 3436,
-				"arabicnumber_last": 3549
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3474,
-			"arabicnumber": 3474,
-			"text": "Ebû Bekr-i Sıddîk'ın kızı Esma' (r.a.)'dan rivayet edildiğine göre: Humma hararetinin şiddetinden ıstıraplı olan kadın kendisine götürülüyordu. Kendisi de su isteyip hastanın yakasına (yâni yakası ile vücûdu arasına) dökerdi ve şöyle derdi: Nebi (Sallallahu Aleyhi ve Sellem): «Humma hararetini su ile soğutunuz» buyurdu ve: «Humma (hastalığı) hararetinin şiddeti, cehennemin hararetinin şiddetinden (bir parça) dır» buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 39
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "31": "Tıp Kitabı"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 3436,
+        "hadithnumber_last": 3549,
+        "arabicnumber_first": 3436,
+        "arabicnumber_last": 3549
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3474,
+      "arabicnumber": 3474,
+      "text": "Ebû Bekr-i Sıddîk'ın kızı Esma' (r.a.)'dan rivayet edildiğine göre: Humma hararetinin şiddetinden ıstıraplı olan kadın kendisine götürülüyordu. Kendisi de su isteyip hastanın yakasına (yâni yakası ile vücûdu arasına) dökerdi ve şöyle derdi: Nebi (Sallallahu Aleyhi ve Sellem): «Humma hararetini su ile soğutunuz» buyurdu ve: «Humma (hastalığı) hararetinin şiddeti, cehennemin hararetinin şiddetinden (bir parça) dır» buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 39
+      }
+    }
+  ]
 }

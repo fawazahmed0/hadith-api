@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"34": "Supplication"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 3827,
-				"hadithnumber_last": 3892,
-				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3842,
-			"arabicnumber": 3842,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu demiştir: «Fakirlikten, azlıktan, zilletten, zulüm etmekten ve zulm'e uğramaktan Allah'a sığınırım.» Diğer tahric: Bu hadisi; Ebu Davud ile Nesai de rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "34": "Dua Kitabı"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 3827,
+        "hadithnumber_last": 3892,
+        "arabicnumber_first": 3827,
+        "arabicnumber_last": 3892
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3842,
+      "arabicnumber": 3842,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu demiştir: «Fakirlikten, azlıktan, zilletten, zulüm etmekten ve zulm'e uğramaktan Allah'a sığınırım.» Diğer tahric: Bu hadisi; Ebu Davud ile Nesai de rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 16
+      }
+    }
+  ]
 }

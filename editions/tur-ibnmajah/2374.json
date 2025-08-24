@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"13": "The Chapters on Rulings"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2308,
-				"hadithnumber_last": 2374,
-				"arabicnumber_first": 2308,
-				"arabicnumber_last": 2374
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2374,
-			"arabicnumber": 2374,
-			"text": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Kitab ehlinin birbirleri aleyhinde şâhidlik etmelerini caiz kılmıştır. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde bulunan Mücalid bin Said zayıftır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 67
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "13": "Ahkâm (Hükümler) Kitabı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2308,
+        "hadithnumber_last": 2374,
+        "arabicnumber_first": 2308,
+        "arabicnumber_last": 2374
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2374,
+      "arabicnumber": 2374,
+      "text": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Kitab ehlinin birbirleri aleyhinde şâhidlik etmelerini caiz kılmıştır. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde bulunan Mücalid bin Said zayıftır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 67
+      }
+    }
+  ]
 }

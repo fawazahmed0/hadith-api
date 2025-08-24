@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1656,
-			"arabicnumber": 1656,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem): «Aydan kaç gün geçti?» buyurdu. Ebu Hureyre (r.a.): Biz yirmi iki gün (geçti) ve sekiz gün kaldı, diye cevap verdik, dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) (ellerinin parmaklarıyla işaret ederek) üç defa : «Ay şu kadardır, ay şu kadardır, ay şu kadardır.» buyurdu ve üçüncü defada bir parmağını yumdu. Not: İsnadının Müslim'in şartı üzerine sahih olduğu Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 19
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1656,
+      "arabicnumber": 1656,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem): «Aydan kaç gün geçti?» buyurdu. Ebu Hureyre (r.a.): Biz yirmi iki gün (geçti) ve sekiz gün kaldı, diye cevap verdik, dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) (ellerinin parmaklarıyla işaret ederek) üç defa : «Ay şu kadardır, ay şu kadardır, ay şu kadardır.» buyurdu ve üçüncü defada bir parmağını yumdu. Not: İsnadının Müslim'in şartı üzerine sahih olduğu Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 19
+      }
+    }
+  ]
 }

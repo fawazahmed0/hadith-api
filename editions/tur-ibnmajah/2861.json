@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"24": "The Chapters on Jihad"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 2753,
-				"hadithnumber_last": 2881,
-				"arabicnumber_first": 2753,
-				"arabicnumber_last": 2881
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2861,
-			"arabicnumber": 2861,
-			"text": "Ümmü'l-Husayn (el-Ahmesiyye) (r.anha)'dan; Şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'den şöyle buyururken işittim; «Eğer üzerinize habeşî ve burunu, kulağı kesik bir köle emir tâyin edilse, o sizi Allah'ın Kitabı ile sevk ve idare ettiği sürece siz onun emirlerini dinleyiniz ve (ona) itaat ediniz.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 109
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "24": "Cihâd Kitabı"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 2753,
+        "hadithnumber_last": 2881,
+        "arabicnumber_first": 2753,
+        "arabicnumber_last": 2881
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2861,
+      "arabicnumber": 2861,
+      "text": "Ümmü'l-Husayn (el-Ahmesiyye) (r.anha)'dan; Şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'den şöyle buyururken işittim; «Eğer üzerinize habeşî ve burunu, kulağı kesik bir köle emir tâyin edilse, o sizi Allah'ın Kitabı ile sevk ve idare ettiği sürece siz onun emirlerini dinleyiniz ve (ona) itaat ediniz.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 109
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"31": "Chapters on Medicine"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 3436,
-				"hadithnumber_last": 3549,
-				"arabicnumber_first": 3436,
-				"arabicnumber_last": 3549
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3455,
-			"arabicnumber": 3455,
-			"text": "Ebû Hureyre (r.a.)'den; Şöyle demiştir: Biz (bir gün) Resulullah (Sallallahu Aleyhi ve Sellem)'in yanında konuşuyorduk. Bu arada mantardan söz ettik. Oradakiler: Mantar toprak çiçeğidir, dediler. Bu söz, Resulullah (Sallallahu Aleyhi ve Sellem)'e intikâl ettirildi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «Mantar, kudret helvası (gibi külfetsiz nimetler) nevinden bir nzıktır. Acve (denilen Medîne-i Münevvere) hurması da cennet (meyvelerin) dendir ve zehirlenme hastalığına şifâdır.» buyurdu. Not: Mantar toprak çiçeğidir: Toprak, çiçek hastalığına yakalanmış çocuğa benzetiliyor",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 20
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "31": "Tıp Kitabı"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 3436,
+        "hadithnumber_last": 3549,
+        "arabicnumber_first": 3436,
+        "arabicnumber_last": 3549
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3455,
+      "arabicnumber": 3455,
+      "text": "Ebû Hureyre (r.a.)'den; Şöyle demiştir: Biz (bir gün) Resulullah (Sallallahu Aleyhi ve Sellem)'in yanında konuşuyorduk. Bu arada mantardan söz ettik. Oradakiler: Mantar toprak çiçeğidir, dediler. Bu söz, Resulullah (Sallallahu Aleyhi ve Sellem)'e intikâl ettirildi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «Mantar, kudret helvası (gibi külfetsiz nimetler) nevinden bir nzıktır. Acve (denilen Medîne-i Münevvere) hurması da cennet (meyvelerin) dendir ve zehirlenme hastalığına şifâdır.» buyurdu. Not: Mantar toprak çiçeğidir: Toprak, çiçek hastalığına yakalanmış çocuğa benzetiliyor",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 20
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"6": "Chapters Regarding Funerals"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1433,
-				"hadithnumber_last": 1637,
-				"arabicnumber_first": 1433,
-				"arabicnumber_last": 1637
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1636,
-			"arabicnumber": 1636,
-			"text": "Evs bin Evs (es-Sakafi) (r.a.)'den rivayet edildiğine göre, Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir : «Şüphesiz Cum'a günü en faziletli günlerinizdendir. adem (Aleyhisselam) onda yaratılmıştır. Nafha (ikinci sur üfürülmesi) ondadır. Ve Sa'ka (birinci sur üfürülmesi) ondadır. Artık onda benim üzerime bol bol salavat getiriniz. Çünkü (o günkü) salavatınız bana sunulur.» Bir adam: Ya Resulallah! Senin bedenin yer tarafından yenmişken (Şeddad (r.a.), dedi ki) yani çürümüşken bizim salavatımız nasıl sana sunulur? diye sordu. O : «Allah, Nebilerin cesedlerini yemesini yere yasak etmiştir.» buyurdu. NOT: Bu hadisin metni, 1085 nolu hadis metninin aynısıdır, Senedler de aynıdır. Şu farkla ki: Oranın ilk ravisi Şeddad bin Evs (r.a.)'dir. İzah için oraya bakılabilir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 204
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "6": "Cenazeler Kitabı"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1433,
+        "hadithnumber_last": 1637,
+        "arabicnumber_first": 1433,
+        "arabicnumber_last": 1637
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1636,
+      "arabicnumber": 1636,
+      "text": "Evs bin Evs (es-Sakafi) (r.a.)'den rivayet edildiğine göre, Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir : «Şüphesiz Cum'a günü en faziletli günlerinizdendir. adem (Aleyhisselam) onda yaratılmıştır. Nafha (ikinci sur üfürülmesi) ondadır. Ve Sa'ka (birinci sur üfürülmesi) ondadır. Artık onda benim üzerime bol bol salavat getiriniz. Çünkü (o günkü) salavatınız bana sunulur.» Bir adam: Ya Resulallah! Senin bedenin yer tarafından yenmişken (Şeddad (r.a.), dedi ki) yani çürümüşken bizim salavatımız nasıl sana sunulur? diye sordu. O : «Allah, Nebilerin cesedlerini yemesini yere yasak etmiştir.» buyurdu. NOT: Bu hadisin metni, 1085 nolu hadis metninin aynısıdır, Senedler de aynıdır. Şu farkla ki: Oranın ilk ravisi Şeddad bin Evs (r.a.)'dir. İzah için oraya bakılabilir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 204
+      }
+    }
+  ]
 }

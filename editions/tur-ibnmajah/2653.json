@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"21": "The Chapters on Blood Money"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 2615,
-				"hadithnumber_last": 2694,
-				"arabicnumber_first": 2615,
-				"arabicnumber_last": 2694
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2653,
-			"arabicnumber": 2653,
-			"text": "Amr bin Şuayb'ın dedesi (Abdullah bin Amr) (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Parmakların hepsi (diyet mikdarı bakımından) eşittir. Bunlarda onar deve (diyeti) vardır.» Not: Bunun senedinin hasen olduğu, Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 39
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "21": "Diyet-Kısas Kitabı"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 2615,
+        "hadithnumber_last": 2694,
+        "arabicnumber_first": 2615,
+        "arabicnumber_last": 2694
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2653,
+      "arabicnumber": 2653,
+      "text": "Amr bin Şuayb'ın dedesi (Abdullah bin Amr) (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Parmakların hepsi (diyet mikdarı bakımından) eşittir. Bunlarda onar deve (diyeti) vardır.» Not: Bunun senedinin hasen olduğu, Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 39
+      }
+    }
+  ]
 }

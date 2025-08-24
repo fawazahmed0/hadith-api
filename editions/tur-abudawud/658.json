@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 658,
-			"arabicnumber": 658,
-			"text": "Enes b. Malik (r.a.)'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) Ümmü Süleym'i (zaman zaman) ziyaret ederdi, bazan (da bu ziyaret esnasında) namaz (vakti) girerdi. Resul-i Ek­rem (Sallallahu aleyhi ve Sellem) de bize ait ve suyla yıkanmış hasırdan ibaret olan bir sergi üzerine namaz(ını) kılardı. Diğer tahric: Buharî, salat, ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, imame; Darimî, salat; Muvatta', sefer; Ahmed b. Hanbel, III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 268
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 658,
+      "arabicnumber": 658,
+      "text": "Enes b. Malik (r.a.)'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) Ümmü Süleym'i (zaman zaman) ziyaret ederdi, bazan (da bu ziyaret esnasında) namaz (vakti) girerdi. Resul-i Ek­rem (Sallallahu aleyhi ve Sellem) de bize ait ve suyla yıkanmış hasırdan ibaret olan bir sergi üzerine namaz(ını) kılardı. Diğer tahric: Buharî, salat, ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, imame; Darimî, salat; Muvatta', sefer; Ahmed b. Hanbel, III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 268
+      }
+    }
+  ]
 }

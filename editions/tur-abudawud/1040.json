@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1040,
-			"arabicnumber": 1040,
-			"text": "Ümmü Seleme (r.anhâ)'dan; demiştiı ki; Resûlullah (s.a.v.) selâmı verdiği zaman biraz (yerinde) kalırdı. Ashab, kadınların namazdan sonra mescitten erkeklerden önce çıkması için olduğunu zannederlerdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (837)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 651
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1040,
+      "arabicnumber": 1040,
+      "text": "Ümmü Seleme (r.anhâ)'dan; demiştiı ki; Resûlullah (s.a.v.) selâmı verdiği zaman biraz (yerinde) kalırdı. Ashab, kadınların namazdan sonra mescitten erkeklerden önce çıkması için olduğunu zannederlerdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (837)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 651
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"39": "Battles (Kitab Al-Malahim)"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 4291,
-				"hadithnumber_last": 4350,
-				"arabicnumber_first": 4291,
-				"arabicnumber_last": 4350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4295,
-			"arabicnumber": 4295,
-			"text": "Muaz b. Cebel (r.a)'den rivayet edildiğine göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: Büyük savaş, İstanbul'un fethi ve Deccal'in çıkışı yedi ay içerisinde olacaktır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 39,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "39": "Melâhim (Meydana Gelecek Büyük Olaylar ve Savaşlar)"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 4291,
+        "hadithnumber_last": 4350,
+        "arabicnumber_first": 4291,
+        "arabicnumber_last": 4350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4295,
+      "arabicnumber": 4295,
+      "text": "Muaz b. Cebel (r.a)'den rivayet edildiğine göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: Büyük savaş, İstanbul'un fethi ve Deccal'in çıkışı yedi ay içerisinde olacaktır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 39,
+        "hadith": 5
+      }
+    }
+  ]
 }

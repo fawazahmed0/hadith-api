@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4869,
-			"arabicnumber": 4869,
-			"text": "Câbir b. Abdullah'dan (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Üç meclisin dışında her meclis (te konuşulan sözler, birer) emânettir, (ifşa edilemez bu üç meclis şunlardır); 1. (Dökülmesi) haram (olan) kanın döküldüğü (meclis), 2. Haram (olan) bir ırzın çiğnendiği (meclis), 3. Bir malın haksız olarak ele geçirildiği (meclis)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 97
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4869,
+      "arabicnumber": 4869,
+      "text": "Câbir b. Abdullah'dan (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Üç meclisin dışında her meclis (te konuşulan sözler, birer) emânettir, (ifşa edilemez bu üç meclis şunlardır); 1. (Dökülmesi) haram (olan) kanın döküldüğü (meclis), 2. Haram (olan) bir ırzın çiğnendiği (meclis), 3. Bir malın haksız olarak ele geçirildiği (meclis)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 97
+      }
+    }
+  ]
 }

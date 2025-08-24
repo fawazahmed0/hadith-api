@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"13": "Divorce (Kitab Al-Talaq)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2175,
-				"hadithnumber_last": 2312,
-				"arabicnumber_first": 2175,
-				"arabicnumber_last": 2312
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2201,
-			"arabicnumber": 2201,
-			"text": "Alkamej b. Vakkâs el-Leysî'den; demiştir ki: Ben Ömer b. el-Hattab'ı şöyle derken işittim; \"Rasûlullah (s.a.v.)'i; \"Ameller(in sıhhati) ancak niyyete göredir. Herkes için nîyyet ettiği şey(in karşılığı) vardır. Binaenaleyh kim Allah ve Rasûl-i için hicret ederse, Allah ve Rasûl-i için hicret etmiş olur. Kim de elde edeceği bir dünya(hk) için veya evleneceği bar kadın için hicret ederse, o da hicret ettiği şey için hicret etmiş olur\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1) Sahih Muslim (1907)"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "13": "Boşanma Bölümü"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2175,
+        "hadithnumber_last": 2312,
+        "arabicnumber_first": 2175,
+        "arabicnumber_last": 2312
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2201,
+      "arabicnumber": 2201,
+      "text": "Alkamej b. Vakkâs el-Leysî'den; demiştir ki: Ben Ömer b. el-Hattab'ı şöyle derken işittim; \"Rasûlullah (s.a.v.)'i; \"Ameller(in sıhhati) ancak niyyete göredir. Herkes için nîyyet ettiği şey(in karşılığı) vardır. Binaenaleyh kim Allah ve Rasûl-i için hicret ederse, Allah ve Rasûl-i için hicret etmiş olur. Kim de elde edeceği bir dünya(hk) için veya evleneceği bar kadın için hicret ederse, o da hicret ettiği şey için hicret etmiş olur\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1) Sahih Muslim (1907)"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 27
+      }
+    }
+  ]
 }

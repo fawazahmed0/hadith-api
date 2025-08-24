@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4714,
-			"arabicnumber": 4714,
-			"text": "Ebu Hureyre'den (rivayet edildiğine göre); Rasûlullah (s.a.v.) \"Her çocuk fıtrat üzere doğar. Sonra anne ve babası onu yahudileştirir ve (ya) hristiyanlaştırır. Tıpkı devenin, bütün organları tam bir yavru dünyaya getirdiği gibi (devenin dünyaya getirdiği bu yavrunun) vücudunda kesik bir organ görebiliyor musunuz?\" buyurmuş, (orada bulunanlar): \"Ey Allah'ın rasulü küçükken ölenler hakkında ne buyurursunuz?\" demişler (Hz. Nebi de:) \"Allah (yaşadıkları takdirde onların) ne işleyeceklerini en iyi bilendir\" cevabını vermiş. Tahric edenler: Buharî, cenâiz; Tefsir sure, kader; Müslim, kader; Muvatta, cenaiz İzah 4715 te. HADİS’İN MÜSLİM RİVAYETİ İÇİN BURAYA TIKLAYIN",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2659)"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 119
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4714,
+      "arabicnumber": 4714,
+      "text": "Ebu Hureyre'den (rivayet edildiğine göre); Rasûlullah (s.a.v.) \"Her çocuk fıtrat üzere doğar. Sonra anne ve babası onu yahudileştirir ve (ya) hristiyanlaştırır. Tıpkı devenin, bütün organları tam bir yavru dünyaya getirdiği gibi (devenin dünyaya getirdiği bu yavrunun) vücudunda kesik bir organ görebiliyor musunuz?\" buyurmuş, (orada bulunanlar): \"Ey Allah'ın rasulü küçükken ölenler hakkında ne buyurursunuz?\" demişler (Hz. Nebi de:) \"Allah (yaşadıkları takdirde onların) ne işleyeceklerini en iyi bilendir\" cevabını vermiş. Tahric edenler: Buharî, cenâiz; Tefsir sure, kader; Müslim, kader; Muvatta, cenaiz İzah 4715 te. HADİS’İN MÜSLİM RİVAYETİ İÇİN BURAYA TIKLAYIN",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2659)"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 119
+      }
+    }
+  ]
 }

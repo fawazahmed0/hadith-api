@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4466,
-			"arabicnumber": 4466,
-			"text": "Sehl b. Sa'd (r.a) demiştir ki: Bîr adam Rasûlııllah (s.a.v.)'e gelip huzurunda adını vererek bir kadınla zina ettiğini ikrar etti. Rasulullah (s.a.v.) kadına birisini gönderip, bunu sordu. Kadın zina ettiğini inkâr etti. Bunun üzerine Rasulullah (s.a.v.) adam'a celd haddini uyguladı (yüz değnek vurdurdu), kadını bıraktı. İzah 4467 de",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 116
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4466,
+      "arabicnumber": 4466,
+      "text": "Sehl b. Sa'd (r.a) demiştir ki: Bîr adam Rasûlııllah (s.a.v.)'e gelip huzurunda adını vererek bir kadınla zina ettiğini ikrar etti. Rasulullah (s.a.v.) kadına birisini gönderip, bunu sordu. Kadın zina ettiğini inkâr etti. Bunun üzerine Rasulullah (s.a.v.) adam'a celd haddini uyguladı (yüz değnek vurdurdu), kadını bıraktı. İzah 4467 de",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 116
+      }
+    }
+  ]
 }

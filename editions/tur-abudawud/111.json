@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 111,
-			"arabicnumber": 111,
-			"text": "Abdü Hayr'dan şöyle demiştir; \"Ali (r.a.) bir gün bize uğradı ve namaz kıldı. Sonra bir de abdest suyu istedi. Biz içimizden, namazı kıldığı halde suyu ne yapacak ki, dedik. Halbuki onun maksadı bize bir şeyler öğretmekten başka bir şey değilmiş. Nihayet içinde abdest suyu bulunan bir kapla bir de leğen getirildi. Önce kabı sağ eline döküp iki elini üç defa yıkadı. Sonra üç kere ağzına ve burnuna su verip dışarı attı. Ağzına ve burnuna suyu (kaptan) su aldığı eliyle / Verdi. Sonra Üç defa yüzünü ve üçer defa da sağ ve sol ellerini yıkadı. Sonra elini kab'a daldırıp başını bir kere mesnetti. Sonra da sağ ve sol ayaklarını üçer kere yıkadı ve peşinden şunu söyledi: Rasulullah'n abdestini öğrenmek kimi sevindirecekse İşte bu abdest onun abdestinin ta kendisidir.\" Diğer tahric: Nesaî, tahare; Tirmizî, tahare",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 111,
+      "arabicnumber": 111,
+      "text": "Abdü Hayr'dan şöyle demiştir; \"Ali (r.a.) bir gün bize uğradı ve namaz kıldı. Sonra bir de abdest suyu istedi. Biz içimizden, namazı kıldığı halde suyu ne yapacak ki, dedik. Halbuki onun maksadı bize bir şeyler öğretmekten başka bir şey değilmiş. Nihayet içinde abdest suyu bulunan bir kapla bir de leğen getirildi. Önce kabı sağ eline döküp iki elini üç defa yıkadı. Sonra üç kere ağzına ve burnuna su verip dışarı attı. Ağzına ve burnuna suyu (kaptan) su aldığı eliyle / Verdi. Sonra Üç defa yüzünü ve üçer defa da sağ ve sol ellerini yıkadı. Sonra elini kab'a daldırıp başını bir kere mesnetti. Sonra da sağ ve sol ayaklarını üçer kere yıkadı ve peşinden şunu söyledi: Rasulullah'n abdestini öğrenmek kimi sevindirecekse İşte bu abdest onun abdestinin ta kendisidir.\" Diğer tahric: Nesaî, tahare; Tirmizî, tahare",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 111
+      }
+    }
+  ]
 }

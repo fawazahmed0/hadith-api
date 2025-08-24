@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 905,
-			"arabicnumber": 905,
-			"text": "Zeyd b. Halid el-Cühenî'den rivayete edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Kim güzelce abdest alır da gaflet etmeden (namazda olmanın uyanıklığı içerisinde) iki rekat namaz kılacak olursa, geçmiş günahları affolunur.” Diğer tahric: Ahmed b. Hanbel, IV, 117; V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 515
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 905,
+      "arabicnumber": 905,
+      "text": "Zeyd b. Halid el-Cühenî'den rivayete edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Kim güzelce abdest alır da gaflet etmeden (namazda olmanın uyanıklığı içerisinde) iki rekat namaz kılacak olursa, geçmiş günahları affolunur.” Diğer tahric: Ahmed b. Hanbel, IV, 117; V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 515
+      }
+    }
+  ]
 }

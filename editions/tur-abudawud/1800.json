@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1800,
-			"arabicnumber": 1800,
-			"text": "Ömer b. el-Hattab, Resûlullah (s.a.v.)'i (şöyle) derken işittiğini söylemiştir: \"Bu gece bana aziz ve celil olan Rabbimden bir elçi geldi de...\" (Hz. Ömer) dedi ki: (Resûl-i Ekrem bu olayı anlatırken) kendisi Akik (denilen vadi)de (idi)- \"Bu mübarek vadide namaz kıl. Hac ile birlikte umreye de niyet et dedi.\" Ebû Dâvûd dedi ki: Bu hadisi el-Velid b. Müslim ile Ömer b. Abdilvâhid de rivayet etmiştir. Bu hadisin Yahya b. Kesîr'den gelen rivayetinde \"Ve \"(Ey Muhammed) Hacc ile birlikte umre’ye\" diye niyet et\" cümlesi vardır. Aynı şekilde bu hadis’in, Ali b. el-Mubârek'in, Yahya b. Kesîr'den rivayet ettiği metninde de; \"Rabbimden gelen elçi bana) dedi ki: \"ve (Ey Muhammed) Hacla birlikte umreye\" diye niyet et\" cüm­lesi vardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1534)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 80
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1800,
+      "arabicnumber": 1800,
+      "text": "Ömer b. el-Hattab, Resûlullah (s.a.v.)'i (şöyle) derken işittiğini söylemiştir: \"Bu gece bana aziz ve celil olan Rabbimden bir elçi geldi de...\" (Hz. Ömer) dedi ki: (Resûl-i Ekrem bu olayı anlatırken) kendisi Akik (denilen vadi)de (idi)- \"Bu mübarek vadide namaz kıl. Hac ile birlikte umreye de niyet et dedi.\" Ebû Dâvûd dedi ki: Bu hadisi el-Velid b. Müslim ile Ömer b. Abdilvâhid de rivayet etmiştir. Bu hadisin Yahya b. Kesîr'den gelen rivayetinde \"Ve \"(Ey Muhammed) Hacc ile birlikte umre’ye\" diye niyet et\" cümlesi vardır. Aynı şekilde bu hadis’in, Ali b. el-Mubârek'in, Yahya b. Kesîr'den rivayet ettiği metninde de; \"Rabbimden gelen elçi bana) dedi ki: \"ve (Ey Muhammed) Hacla birlikte umreye\" diye niyet et\" cüm­lesi vardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1534)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 80
+      }
+    }
+  ]
 }

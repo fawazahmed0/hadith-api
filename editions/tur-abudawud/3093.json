@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3093,
-			"arabicnumber": 3093,
-			"text": "Âişe (r.a)'dan demiştir ki: (Ben Rasûlullah (s.a.v.)'e hitaben) \"-Ey Allah'ın Rasûlü, ben Kur'ân'da en şiddetli olan âyet'i biliyorum\" dedim. \"O hangi ayettir ey Âişe\" diye sordu (Ben de) \"Yüce Allah'ın ...kötülük yapan cezasını çeker sözüdür.\" diye cevap verdim. (Bunun üzerine) \"Ey Âişe! Bir mu'mine bir musibet -yahut da bir diken- isabet eder (o kul da buna sabreder) se (bu musibet'e sabretmesi) onun (iştemiş olduğu) amellerinin (kendisince) en çirkin (ler) ine karşılık olur (da hesaba çekilmez. Kıyamet gününde günahlarından dolayı) hesaba çekilen kimse (ler) ise (mutlaka) azab görür\" buyurdu.(Âişe de): \"Allah (Kur'ân-ı Kerîm'inde) o kolay bir hesaba çekilecek.\"[İnşikak 8] buyurulmuyor mu? diye sordu. Rasûl-ü Ekrem de: “O (amellerin Allah'ın huzuruna) arzedilmesidir. (Kulun günahlardan hesaba çekilmesi değildir) Ey Âişe! İnceden inceye hesaba çekilen kimse (mutlaka) azaba uğratılır/' buyurdu. Ebû Dâvûd der ki: Bu rivayet îbn Beşşar'indir (Beşşar bu hadisi) \"Bize (bunu) îbn Ebî Müleyke haber verdi\" diyerek (tahdis sigasıyla) rivayet etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif Isnaad"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif Isnaad"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3093,
+      "arabicnumber": 3093,
+      "text": "Âişe (r.a)'dan demiştir ki: (Ben Rasûlullah (s.a.v.)'e hitaben) \"-Ey Allah'ın Rasûlü, ben Kur'ân'da en şiddetli olan âyet'i biliyorum\" dedim. \"O hangi ayettir ey Âişe\" diye sordu (Ben de) \"Yüce Allah'ın ...kötülük yapan cezasını çeker sözüdür.\" diye cevap verdim. (Bunun üzerine) \"Ey Âişe! Bir mu'mine bir musibet -yahut da bir diken- isabet eder (o kul da buna sabreder) se (bu musibet'e sabretmesi) onun (iştemiş olduğu) amellerinin (kendisince) en çirkin (ler) ine karşılık olur (da hesaba çekilmez. Kıyamet gününde günahlarından dolayı) hesaba çekilen kimse (ler) ise (mutlaka) azab görür\" buyurdu.(Âişe de): \"Allah (Kur'ân-ı Kerîm'inde) o kolay bir hesaba çekilecek.\"[İnşikak 8] buyurulmuyor mu? diye sordu. Rasûl-ü Ekrem de: “O (amellerin Allah'ın huzuruna) arzedilmesidir. (Kulun günahlardan hesaba çekilmesi değildir) Ey Âişe! İnceden inceye hesaba çekilen kimse (mutlaka) azaba uğratılır/' buyurdu. Ebû Dâvûd der ki: Bu rivayet îbn Beşşar'indir (Beşşar bu hadisi) \"Bize (bunu) îbn Ebî Müleyke haber verdi\" diyerek (tahdis sigasıyla) rivayet etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 5
+      }
+    }
+  ]
 }

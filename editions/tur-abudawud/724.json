@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 724,
-			"arabicnumber": 724,
-			"text": "Abdulcebbar b. Vail'in babasından rivayet ettiğine göre (babası Vail) Nebi (Sallallahu aleyhi ve Sellem)'in namaza kalkınca ellerini omuz hizasına, baş parmaklarını da kulak hizasına kadar kaldırıp sonra tekbir aldığını görmüştür. Diğer tahric: Tirmizî, salat, Tefsiru sure; Nesaî, iftitah; İbn Mace, ikame, cenaiz; Ahmed b. Hanbel,-1, 45; 111-13; IV, 48; VI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 334
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 724,
+      "arabicnumber": 724,
+      "text": "Abdulcebbar b. Vail'in babasından rivayet ettiğine göre (babası Vail) Nebi (Sallallahu aleyhi ve Sellem)'in namaza kalkınca ellerini omuz hizasına, baş parmaklarını da kulak hizasına kadar kaldırıp sonra tekbir aldığını görmüştür. Diğer tahric: Tirmizî, salat, Tefsiru sure; Nesaî, iftitah; İbn Mace, ikame, cenaiz; Ahmed b. Hanbel,-1, 45; 111-13; IV, 48; VI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 334
+      }
+    }
+  ]
 }

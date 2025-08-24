@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1783,
-			"arabicnumber": 1783,
-			"text": "Âişe (r.anhâ.)'dan; demiştir ki: Resûlullah (s.a.v.) ile birlikte (hac için yola) çıktık. Sadece hacca niyet edeceğimizi sanıyorduk. (Mekke'ye) gelince Beyt-i tavaf ettik. Resûlullah (s.a.v.) (Beyt-i Şerife) hedy kurbanı sevketmemiş olan kimselerin ihramdan çıkmalarını emretti. Bunun üzerine hedy kurbanı sevketmemiş olanlar ihramdan çıktı(lar)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1561) Sahih Muslim (1211)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1783,
+      "arabicnumber": 1783,
+      "text": "Âişe (r.anhâ.)'dan; demiştir ki: Resûlullah (s.a.v.) ile birlikte (hac için yola) çıktık. Sadece hacca niyet edeceğimizi sanıyorduk. (Mekke'ye) gelince Beyt-i tavaf ettik. Resûlullah (s.a.v.) (Beyt-i Şerife) hedy kurbanı sevketmemiş olan kimselerin ihramdan çıkmalarını emretti. Bunun üzerine hedy kurbanı sevketmemiş olanlar ihramdan çıktı(lar)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1561) Sahih Muslim (1211)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 63
+      }
+    }
+  ]
 }

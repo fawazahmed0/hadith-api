@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"18": "Wills (Kitab Al-Wasaya)"
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 2862,
-				"hadithnumber_last": 2884,
-				"arabicnumber_first": 2862,
-				"arabicnumber_last": 2884
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2880,
-			"arabicnumber": 2880,
-			"text": "Ebû Hureyre'den demiştir ki: Rasûlullah (Sallallahu aleyhi ve Sellem) (şöyle) buyurmuştur: “İnsan Öldüğü zaman (bütün) amel(ler)i kendisinden kesilir. Ancak üç şey müstesna; sadaka-i cariye, faydalanılan ilim ve kendisine dua eden mu'min evlâd.\" Diğer tahric: Müslim, vasıyye; Tirmizi, ahkam; Meşâî, vesaya; Ahmed b. Hanbel 11-372; Darimî, mukaddime",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1631)"
-				}
-			],
-			"reference": {
-				"book": 18,
-				"hadith": 19
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "18": "Vasiyyetler Bölümü"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 2862,
+        "hadithnumber_last": 2884,
+        "arabicnumber_first": 2862,
+        "arabicnumber_last": 2884
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2880,
+      "arabicnumber": 2880,
+      "text": "Ebû Hureyre'den demiştir ki: Rasûlullah (Sallallahu aleyhi ve Sellem) (şöyle) buyurmuştur: “İnsan Öldüğü zaman (bütün) amel(ler)i kendisinden kesilir. Ancak üç şey müstesna; sadaka-i cariye, faydalanılan ilim ve kendisine dua eden mu'min evlâd.\" Diğer tahric: Müslim, vasıyye; Tirmizi, ahkam; Meşâî, vesaya; Ahmed b. Hanbel 11-372; Darimî, mukaddime",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1631)"
+        }
+      ],
+      "reference": {
+        "book": 18,
+        "hadith": 19
+      }
+    }
+  ]
 }

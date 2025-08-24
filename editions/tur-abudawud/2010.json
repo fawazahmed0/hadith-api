@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2010,
-			"arabicnumber": 2010,
-			"text": "Usâme b. Zeyd (r.a.)'den; demiştir ki: (Veda) Haccında; Ya Resûlullah yarın nerede konaklayacaksın? diye sordum da; \"Akîl bize (Mekke'de içinde barınabileceğimiz) bir ev mi bıraktı?\" cevabını verdi. Sonra; \"(Yarın) Beni Kinane Hayf'ina (yani) Kureyş'in küfür üzerinde (kalmak üzere) antlaştığı yere yâni Muhassab'a ineceğiz\" buyurdu. Bu (antlaşma) Kinâne oğullarının Haşîm oğulları ile evlenmemek, onları (aralarında) barındırmamak ve onlarla alış veriş yapmamak üzere Kureyşle yaptığı antlaşmadır. (Bu hadisin râvilerinden) Zührî dedi ki: (Beni Kinâne) Hayf(ından maksat, Muhassab denilen) vadidir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (3058) Sahih Muslim (1351)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 290
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2010,
+      "arabicnumber": 2010,
+      "text": "Usâme b. Zeyd (r.a.)'den; demiştir ki: (Veda) Haccında; Ya Resûlullah yarın nerede konaklayacaksın? diye sordum da; \"Akîl bize (Mekke'de içinde barınabileceğimiz) bir ev mi bıraktı?\" cevabını verdi. Sonra; \"(Yarın) Beni Kinane Hayf'ina (yani) Kureyş'in küfür üzerinde (kalmak üzere) antlaştığı yere yâni Muhassab'a ineceğiz\" buyurdu. Bu (antlaşma) Kinâne oğullarının Haşîm oğulları ile evlenmemek, onları (aralarında) barındırmamak ve onlarla alış veriş yapmamak üzere Kureyşle yaptığı antlaşmadır. (Bu hadisin râvilerinden) Zührî dedi ki: (Beni Kinâne) Hayf(ından maksat, Muhassab denilen) vadidir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3058) Sahih Muslim (1351)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 290
+      }
+    }
+  ]
 }

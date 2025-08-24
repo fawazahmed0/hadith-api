@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"28": "Foods (Kitab Al-At'imah)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3736,
-				"hadithnumber_last": 3854,
-				"arabicnumber_first": 3736,
-				"arabicnumber_last": 3854
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3790,
-			"arabicnumber": 3790,
-			"text": "Halid b. Velîd'den rivayet olunduğuna göre; Rasûlullah (s.a.v.), atların, katırların ve eşeklerin etlerini yemeyi yasaklamıştır. (Bu hadisi rivayet edenlerden) Hayve, (rivayetine şu sözleri de) ilâve etti: \"Köpek dişi olan yırtıcı hayvanların tümünü(n etlerini) de (yasakladı).\" Ebû Dâvûd dedi ki: Bu (hadisin ifade ettiği hüküm îmam) Mâlik'in görüşüdür. (Aslında) at etîeri(nin yenmesinde bir sakınca yoktur; ve amel bu hadis üzerinde değildir. (Çünkü) bu (hadis) neshedil-miştir ve Nebi (s.a.v.)'in sahâbîlerinden bir cemaat at etlerini ye­miştir, îbn Zübeyr, Fedâle b. Ubeyd, Enes b. Mâlik, Esma binti Ebi Bekr, Süveyd b. Gafele ve Alkame bunlardandır. Rasûlullah (s.a.v.) zamanında Kureyşliler atları keserlerdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "28": "Yiyecekler Bölümü"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3736,
+        "hadithnumber_last": 3854,
+        "arabicnumber_first": 3736,
+        "arabicnumber_last": 3854
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3790,
+      "arabicnumber": 3790,
+      "text": "Halid b. Velîd'den rivayet olunduğuna göre; Rasûlullah (s.a.v.), atların, katırların ve eşeklerin etlerini yemeyi yasaklamıştır. (Bu hadisi rivayet edenlerden) Hayve, (rivayetine şu sözleri de) ilâve etti: \"Köpek dişi olan yırtıcı hayvanların tümünü(n etlerini) de (yasakladı).\" Ebû Dâvûd dedi ki: Bu (hadisin ifade ettiği hüküm îmam) Mâlik'in görüşüdür. (Aslında) at etîeri(nin yenmesinde bir sakınca yoktur; ve amel bu hadis üzerinde değildir. (Çünkü) bu (hadis) neshedil-miştir ve Nebi (s.a.v.)'in sahâbîlerinden bir cemaat at etlerini ye­miştir, îbn Zübeyr, Fedâle b. Ubeyd, Enes b. Mâlik, Esma binti Ebi Bekr, Süveyd b. Gafele ve Alkame bunlardandır. Rasûlullah (s.a.v.) zamanında Kureyşliler atları keserlerdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 55
+      }
+    }
+  ]
 }

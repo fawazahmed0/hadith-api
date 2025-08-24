@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4866,
-			"arabicnumber": 4866,
-			"text": "Abbâd b. Temirh'derî (rivayet edildiğine göre); amcası, Rasûlullah (s.a.v.)'i sırtüstü yatarken görmüştür. Ka'nebi ise bu hadisi) \"Mescidde bir bacağını diğerinin üzerine atmış vaziyette (sırtüstü yatarken görmüştür)\" şeklinde rivayet etti. Tahric edenler: Buhari, salat. istizan; Müslim, libas; Tirmizî, edeb; Nesaî mesacid: Dârimî, istizan; Muvatta, sefer; Ahmed b. Hanbel, IV",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (475) Sahih Muslim (2100)"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 94
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4866,
+      "arabicnumber": 4866,
+      "text": "Abbâd b. Temirh'derî (rivayet edildiğine göre); amcası, Rasûlullah (s.a.v.)'i sırtüstü yatarken görmüştür. Ka'nebi ise bu hadisi) \"Mescidde bir bacağını diğerinin üzerine atmış vaziyette (sırtüstü yatarken görmüştür)\" şeklinde rivayet etti. Tahric edenler: Buhari, salat. istizan; Müslim, libas; Tirmizî, edeb; Nesaî mesacid: Dârimî, istizan; Muvatta, sefer; Ahmed b. Hanbel, IV",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (475) Sahih Muslim (2100)"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 94
+      }
+    }
+  ]
 }

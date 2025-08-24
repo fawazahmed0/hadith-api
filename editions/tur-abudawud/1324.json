@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1250,
-				"hadithnumber_last": 1370,
-				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1324,
-			"arabicnumber": 1324,
-			"text": "Ebû Hureyre (r.a.), \"(Sizden biriniz geceleyin namaza kalktığı) zaman\" diye bir önceki (1323.) hadisin mânâsını nakl etmiş, (hafif iki rekat namaz kıldıktan) \"sonra (namazını) dilediği kadar uzatsın\" (cümlesini) ilâve etmiştir. Ebû Dâvûd dedi ki: Bu hadisi Hammâd b. Seleme ile Züheyr b. Muâviye ve bir topluluk Hişâm vasıtasıyla Muhammed b. Sirin'den naklettiler. Ve (senedi) Ebû Hureyre'ye ulaştırdılar. Aynı şekilde Eyyûb ile İbn Avn da rivayet ettiler (ve senedi) Ebû Hureyre (r.a.) 'e ulaş­tırdılar. Bu hadisi îbn Avn de Muhammed'den rivayet etti. (Muhamed) dedi ki: (Bu namazın rekatlarının) her ikisinde de (kıraat) kısadır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Muquf"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih Muquf"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "5": "Nafile Namazlar Bölümü"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1250,
+        "hadithnumber_last": 1370,
+        "arabicnumber_first": 1250,
+        "arabicnumber_last": 1370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1324,
+      "arabicnumber": 1324,
+      "text": "Ebû Hureyre (r.a.), \"(Sizden biriniz geceleyin namaza kalktığı) zaman\" diye bir önceki (1323.) hadisin mânâsını nakl etmiş, (hafif iki rekat namaz kıldıktan) \"sonra (namazını) dilediği kadar uzatsın\" (cümlesini) ilâve etmiştir. Ebû Dâvûd dedi ki: Bu hadisi Hammâd b. Seleme ile Züheyr b. Muâviye ve bir topluluk Hişâm vasıtasıyla Muhammed b. Sirin'den naklettiler. Ve (senedi) Ebû Hureyre'ye ulaştırdılar. Aynı şekilde Eyyûb ile İbn Avn da rivayet ettiler (ve senedi) Ebû Hureyre (r.a.) 'e ulaş­tırdılar. Bu hadisi îbn Avn de Muhammed'den rivayet etti. (Muhamed) dedi ki: (Bu namazın rekatlarının) her ikisinde de (kıraat) kısadır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Muquf"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 75
+      }
+    }
+  ]
 }

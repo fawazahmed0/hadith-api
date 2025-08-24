@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5205,
-			"arabicnumber": 5205,
-			"text": "Süheyl b. Ebi Salih'den demiştir ki: Babamla birlikte (bir kafile ile) Şam (yolculuğun)a çıkmıştım. (Yolculuğumuz esnasında kafilede bulunanlar) içerisinde Hıristiyan (rahip)lerin bulunduğu manastırların yanından geçerken onlara selam vermeye başladılar. Bunun üzerine babam, şöyle dedi: Onlara selam'a (önce) siz başlamayınız. Çünkü Hz. Ebu Hureyre, Ra­sûlullah (s.a.v.)'i: \"Onlarla yolda karşılaştığınız zaman onları yolun en dar yerine sıkıştirın\"buyurduğunu söyledi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2167)"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 433
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5205,
+      "arabicnumber": 5205,
+      "text": "Süheyl b. Ebi Salih'den demiştir ki: Babamla birlikte (bir kafile ile) Şam (yolculuğun)a çıkmıştım. (Yolculuğumuz esnasında kafilede bulunanlar) içerisinde Hıristiyan (rahip)lerin bulunduğu manastırların yanından geçerken onlara selam vermeye başladılar. Bunun üzerine babam, şöyle dedi: Onlara selam'a (önce) siz başlamayınız. Çünkü Hz. Ebu Hureyre, Ra­sûlullah (s.a.v.)'i: \"Onlarla yolda karşılaştığınız zaman onları yolun en dar yerine sıkıştirın\"buyurduğunu söyledi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2167)"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 433
+      }
+    }
+  ]
 }

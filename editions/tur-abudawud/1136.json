@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1136,
-			"arabicnumber": 1136,
-			"text": "Ümmü Atiyye (r.anhâ)'den; demiştir ki: Resûlullah (s.a.v.) bize bayram günü (namazı) perde ehli genç kızları (da) çıkarmamazı emretti. Kendisine: Hayız olanlar (ne yapacak)? denilince; \"Onlar da (çıksınlar da) hayır'a ve müslümanların dualarında hazır bulunsunlar\" buyurdu. Bir kadın Efendimize: Ya Resûlallah! Eğer bizden birisinin elbisesi yoksa ne yapsın? diye sordu. Resûlullah: \"Arkadaşı, elbiselerinden birisini ona (emaneten) giydirsin” karşılığım verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (974) Sahih Muslim (890)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 747
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1136,
+      "arabicnumber": 1136,
+      "text": "Ümmü Atiyye (r.anhâ)'den; demiştir ki: Resûlullah (s.a.v.) bize bayram günü (namazı) perde ehli genç kızları (da) çıkarmamazı emretti. Kendisine: Hayız olanlar (ne yapacak)? denilince; \"Onlar da (çıksınlar da) hayır'a ve müslümanların dualarında hazır bulunsunlar\" buyurdu. Bir kadın Efendimize: Ya Resûlallah! Eğer bizden birisinin elbisesi yoksa ne yapsın? diye sordu. Resûlullah: \"Arkadaşı, elbiselerinden birisini ona (emaneten) giydirsin” karşılığım verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (974) Sahih Muslim (890)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 747
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"34": "Clothing (Kitab Al-Libas)"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4020,
-				"hadithnumber_last": 4158,
-				"arabicnumber_first": 4020,
-				"arabicnumber_last": 4158
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4065,
-			"arabicnumber": 4065,
-			"text": "Ebû Rimse (diye anılan Rifaz b. Yesribî. ya da Habib b. Hayyan') dan rivayet olunmuştur; dedi ki: Babamla birlikte Nebi (s.a.v)'in yanına gitmiştim. Üzerinde iki yeşil giysi gördüm",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 46
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "34": "Giyim Kuşam Bölümü"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4020,
+        "hadithnumber_last": 4158,
+        "arabicnumber_first": 4020,
+        "arabicnumber_last": 4158
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4065,
+      "arabicnumber": 4065,
+      "text": "Ebû Rimse (diye anılan Rifaz b. Yesribî. ya da Habib b. Hayyan') dan rivayet olunmuştur; dedi ki: Babamla birlikte Nebi (s.a.v)'in yanına gitmiştim. Üzerinde iki yeşil giysi gördüm",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 46
+      }
+    }
+  ]
 }

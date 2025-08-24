@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"29": "Medicine (Kitab Al-Tibb)"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 3855,
-				"hadithnumber_last": 3903,
-				"arabicnumber_first": 3855,
-				"arabicnumber_last": 3903
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3871,
-			"arabicnumber": 3871,
-			"text": "Abdurrahman b. Osman (r.a)'dan rivayet olunduğuna göre; Bir doktor ilaca kurbağa (eti) koymanın hükmünü sordu. Nebi (s.a.v.) kurbağayı öldürmekten nehyetti. Ayrıca bu hadis'i İbn Mâce, sayd; Nesâî, sayd; Dârimî, edâhi; Ahmed b. Hanbel, III, 453, 499. da tahric etti. İzah; 3974 te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "29": "Tıp Bölümü"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 3855,
+        "hadithnumber_last": 3903,
+        "arabicnumber_first": 3855,
+        "arabicnumber_last": 3903
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3871,
+      "arabicnumber": 3871,
+      "text": "Abdurrahman b. Osman (r.a)'dan rivayet olunduğuna göre; Bir doktor ilaca kurbağa (eti) koymanın hükmünü sordu. Nebi (s.a.v.) kurbağayı öldürmekten nehyetti. Ayrıca bu hadis'i İbn Mâce, sayd; Nesâî, sayd; Dârimî, edâhi; Ahmed b. Hanbel, III, 453, 499. da tahric etti. İzah; 3974 te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 17
+      }
+    }
+  ]
 }

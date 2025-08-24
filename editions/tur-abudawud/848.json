@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 848,
-			"arabicnumber": 848,
-			"text": "Ebu Hureyre'den rivayet edildiğine göre; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"İmam \"semiallahu limen hamideh\" dediği za­man, siz de \"Allahiimme Rabbena lekel hamd\" deyiniz! Zira sözü meleklerin sözüne denk gelen kişinin günahları affedilir.\" Diğer tahric: Buharî, ezan; bed'ui-halk; tefsir sure; Müslim, salat; Tirmizî, mevakît; Nesaî, iftitah , tatbik; İbn Mace, ikame; Darîmî, salat; Muvatta', nida; Ahmed b. Hanbel II",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (796) Sahih Muslim (409)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 458
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 848,
+      "arabicnumber": 848,
+      "text": "Ebu Hureyre'den rivayet edildiğine göre; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"İmam \"semiallahu limen hamideh\" dediği za­man, siz de \"Allahiimme Rabbena lekel hamd\" deyiniz! Zira sözü meleklerin sözüne denk gelen kişinin günahları affedilir.\" Diğer tahric: Buharî, ezan; bed'ui-halk; tefsir sure; Müslim, salat; Tirmizî, mevakît; Nesaî, iftitah , tatbik; İbn Mace, ikame; Darîmî, salat; Muvatta', nida; Ahmed b. Hanbel II",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (796) Sahih Muslim (409)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 458
+      }
+    }
+  ]
 }

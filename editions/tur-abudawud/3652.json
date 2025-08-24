@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"26": "Knowledge (Kitab Al-Ilm)"
-		},
-		"section_detail": {
-			"26": {
-				"hadithnumber_first": 3641,
-				"hadithnumber_last": 3668,
-				"arabicnumber_first": 3641,
-				"arabicnumber_last": 3668
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3652,
-			"arabicnumber": 3652,
-			"text": "Cündüb (b. Abdillah el-Becelî)'den Rasulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet olunmuştur: \"Aziz ve Celil olan Allah'ın Kitabı üzerinde (sırf kendi) görüşüne dayanarak fikir beyan eden kimse, (konuşmasında) isabet bile etse yine de hata etmiş olur.\" Diğer tahric: Müslim, münafikîn; Tirmizî, tefsir; Darimî, mukaddime; Ahmed, b. Hanbel, V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 26,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "26": "İlim Bölümü"
+    },
+    "section_detail": {
+      "26": {
+        "hadithnumber_first": 3641,
+        "hadithnumber_last": 3668,
+        "arabicnumber_first": 3641,
+        "arabicnumber_last": 3668
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3652,
+      "arabicnumber": 3652,
+      "text": "Cündüb (b. Abdillah el-Becelî)'den Rasulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet olunmuştur: \"Aziz ve Celil olan Allah'ın Kitabı üzerinde (sırf kendi) görüşüne dayanarak fikir beyan eden kimse, (konuşmasında) isabet bile etse yine de hata etmiş olur.\" Diğer tahric: Müslim, münafikîn; Tirmizî, tefsir; Darimî, mukaddime; Ahmed, b. Hanbel, V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 26,
+        "hadith": 12
+      }
+    }
+  ]
 }

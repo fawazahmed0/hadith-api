@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3100,
-			"arabicnumber": 3100,
-			"text": "Ebû Ca'fer Abdullah b. Nafi'den demiştir ki: el-Hasen b. Ali'nin kölesi Nafi dedi ki: Ebû Musa Hasan b. Ali'yi hasta iken ziyarete geldi. Ebû Dâvud der ki: (Daha sonra Ebu Ca'fer 3098 numaralı) Şu'be hadisinin manasını rivayet etti. Yanlışlıkla bu hadisi Ati (r.a) Peygamber (s.a.v.j'den rivayet etmiş gibi gösterilmiştir)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3100,
+      "arabicnumber": 3100,
+      "text": "Ebû Ca'fer Abdullah b. Nafi'den demiştir ki: el-Hasen b. Ali'nin kölesi Nafi dedi ki: Ebû Musa Hasan b. Ali'yi hasta iken ziyarete geldi. Ebû Dâvud der ki: (Daha sonra Ebu Ca'fer 3098 numaralı) Şu'be hadisinin manasını rivayet etti. Yanlışlıkla bu hadisi Ati (r.a) Peygamber (s.a.v.j'den rivayet etmiş gibi gösterilmiştir)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 12
+      }
+    }
+  ]
 }

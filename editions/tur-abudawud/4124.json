@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"34": "Clothing (Kitab Al-Libas)"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4020,
-				"hadithnumber_last": 4158,
-				"arabicnumber_first": 4020,
-				"arabicnumber_last": 4158
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4124,
-			"arabicnumber": 4124,
-			"text": "Nebi (s.a.v.)'in hanımı Aişe (ranha)'dan rivayet edildiğine göre; Rasûlullah (s.a.v.), ölü (hayvan)ların derileri tabaklanınca (onlardan) yararlanılmasını emretmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 105
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "34": "Giyim Kuşam Bölümü"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4020,
+        "hadithnumber_last": 4158,
+        "arabicnumber_first": 4020,
+        "arabicnumber_last": 4158
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4124,
+      "arabicnumber": 4124,
+      "text": "Nebi (s.a.v.)'in hanımı Aişe (ranha)'dan rivayet edildiğine göre; Rasûlullah (s.a.v.), ölü (hayvan)ların derileri tabaklanınca (onlardan) yararlanılmasını emretmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 105
+      }
+    }
+  ]
 }

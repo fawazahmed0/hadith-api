@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2602,
-			"arabicnumber": 2602,
-			"text": "Ali b.Rabia'dan; demiştir ki: Ben Ali (r.a.)'i binmesi için kendisine bir hayvan getirildiği sırada gördüm. Ayağını özengiye basınca, \"bismillah = Allah'ın adıyla\" dedi; hayvanın sırtına dosdoğru yerleşince de \"Elhamdülillah; Hamd Allah'a mahsustur\" dedi. Sonra \"Bunu bizim hizmetimize veren (Allah)'in şanı yücedir, yoksa biz bunu (hizmetimize) yanaştıramazdik. Biz elbette rabbimize döneceğiz\"[Zuhrûf 13-14.] (âyetini) okudu. Sonra üç defa \"elhamdulillah\" sonra üç defa da \"Allahu ekber dedi. Sonra da \"Seni her türlü noksan sıfatlardan tenzih ederim. Ben nefsime zulmettim, beni bağışla, gerçekten, günahtan ancak sen bağışlarsın\" diye dua etti ve arkasından gülümsedi. Bunun üzerine (kendisine) Ey müminlerin emiri! Seni güldüren nedir? diye soruldu. (O da şöyle) cevap verdi: Ben Nebi (s.a.v.)i benim yaptığım gibi yaptıktan sonra gülerken gördüm. Bunun üzerine, Ey Allah'ın Rasulü, seni güldüren ne­dir? diye sordum. \"Şüphe yok ki senin Rabbin, bir kulunun - günahları kendisinden başka bir kimsenin affedemeyeceğini bilerek- (ey Allahım) günahlarımı affet demesinden memnun olur\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 126
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2602,
+      "arabicnumber": 2602,
+      "text": "Ali b.Rabia'dan; demiştir ki: Ben Ali (r.a.)'i binmesi için kendisine bir hayvan getirildiği sırada gördüm. Ayağını özengiye basınca, \"bismillah = Allah'ın adıyla\" dedi; hayvanın sırtına dosdoğru yerleşince de \"Elhamdülillah; Hamd Allah'a mahsustur\" dedi. Sonra \"Bunu bizim hizmetimize veren (Allah)'in şanı yücedir, yoksa biz bunu (hizmetimize) yanaştıramazdik. Biz elbette rabbimize döneceğiz\"[Zuhrûf 13-14.] (âyetini) okudu. Sonra üç defa \"elhamdulillah\" sonra üç defa da \"Allahu ekber dedi. Sonra da \"Seni her türlü noksan sıfatlardan tenzih ederim. Ben nefsime zulmettim, beni bağışla, gerçekten, günahtan ancak sen bağışlarsın\" diye dua etti ve arkasından gülümsedi. Bunun üzerine (kendisine) Ey müminlerin emiri! Seni güldüren nedir? diye soruldu. (O da şöyle) cevap verdi: Ben Nebi (s.a.v.)i benim yaptığım gibi yaptıktan sonra gülerken gördüm. Bunun üzerine, Ey Allah'ın Rasulü, seni güldüren ne­dir? diye sordum. \"Şüphe yok ki senin Rabbin, bir kulunun - günahları kendisinden başka bir kimsenin affedemeyeceğini bilerek- (ey Allahım) günahlarımı affet demesinden memnun olur\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 126
+      }
+    }
+  ]
 }

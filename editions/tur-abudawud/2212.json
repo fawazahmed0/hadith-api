@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"13": "Divorce (Kitab Al-Talaq)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2175,
-				"hadithnumber_last": 2312,
-				"arabicnumber_first": 2175,
-				"arabicnumber_last": 2312
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2212,
-			"arabicnumber": 2212,
-			"text": "Ebu Hureyre (r.a.)'in, Nebi (s.a.v.)'den rivayet ettiğine göre; \"İbrahim aleyhisselâm üç yalandan başka hiç bir yalan söylememiştir: (Bunlardan) ikisi yüce Allah'ın zatı hakkındadır; (birincisi) \"Ben gerçekten hastayım\" demesi, (ikincisi); \"Belki bu işi büyükleri olan şu (put) yapmıştır\" demesidir. (Üçüncüsüde) şöyle olmuştur; (Hz. İbrahim) zalimlerden birinin toprağında yolculuk yaparken bir yerde konaklamıştı. \"Beraberinde insanlann en güzeli bir kadın bulunan bir adam (gelip ülkemizde) şuracıkta konaklamıştır\" diye zâlim'e haber verildi. Bunun üzerine o zalim (Hz. İbrahim'e bir elçi) gönderip (yanına çağırttı ve) ona Sâre'yi sordu. Hz. İbrahim de; \"O benim kız kardeşimdir\" cevabını verdi. Sare'nin yanına dönünce \"Bu (adam) bana seni sordu. Ben de kendisine senin kız kardeşim olduğunu söyledim. Çünkü bugün seninle benden başka müslüman yoktur. Allah'ın kitabına göre sen benim (kız) kardeşimsin. (Sakın) beni onun yanında yalancı çıkarma\" dedi ve (daha sonra râvi Ebu Hureyre) hadisinin geri kalan kısmını) nakletti. Buharî, enbiya, nikâh; Müslim, fedail; Tirmizî, tefsir sure; Ahmed b. Hanbel, II, 403. Ebû Dâvud dedi ki: Şu'ayb b. Ebû Hamza, Ebu'z-Zinad'dan, (o da) el-A'rac'dan (o da) Ebu Hureyre'den (o da) Nebi sallalahu aleyhi vesellem'den bu hadisin bir benzerini rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "13": "Boşanma Bölümü"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2175,
+        "hadithnumber_last": 2312,
+        "arabicnumber_first": 2175,
+        "arabicnumber_last": 2312
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2212,
+      "arabicnumber": 2212,
+      "text": "Ebu Hureyre (r.a.)'in, Nebi (s.a.v.)'den rivayet ettiğine göre; \"İbrahim aleyhisselâm üç yalandan başka hiç bir yalan söylememiştir: (Bunlardan) ikisi yüce Allah'ın zatı hakkındadır; (birincisi) \"Ben gerçekten hastayım\" demesi, (ikincisi); \"Belki bu işi büyükleri olan şu (put) yapmıştır\" demesidir. (Üçüncüsüde) şöyle olmuştur; (Hz. İbrahim) zalimlerden birinin toprağında yolculuk yaparken bir yerde konaklamıştı. \"Beraberinde insanlann en güzeli bir kadın bulunan bir adam (gelip ülkemizde) şuracıkta konaklamıştır\" diye zâlim'e haber verildi. Bunun üzerine o zalim (Hz. İbrahim'e bir elçi) gönderip (yanına çağırttı ve) ona Sâre'yi sordu. Hz. İbrahim de; \"O benim kız kardeşimdir\" cevabını verdi. Sare'nin yanına dönünce \"Bu (adam) bana seni sordu. Ben de kendisine senin kız kardeşim olduğunu söyledim. Çünkü bugün seninle benden başka müslüman yoktur. Allah'ın kitabına göre sen benim (kız) kardeşimsin. (Sakın) beni onun yanında yalancı çıkarma\" dedi ve (daha sonra râvi Ebu Hureyre) hadisinin geri kalan kısmını) nakletti. Buharî, enbiya, nikâh; Müslim, fedail; Tirmizî, tefsir sure; Ahmed b. Hanbel, II, 403. Ebû Dâvud dedi ki: Şu'ayb b. Ebû Hamza, Ebu'z-Zinad'dan, (o da) el-A'rac'dan (o da) Ebu Hureyre'den (o da) Nebi sallalahu aleyhi vesellem'den bu hadisin bir benzerini rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 38
+      }
+    }
+  ]
 }

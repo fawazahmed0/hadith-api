@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2133,
-			"arabicnumber": 2133,
-			"text": "Ebu Huveyre (r.a.) Peygamber (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir. \"Kim'in iki karısı olurda (bunlardan sadece) birine meyl ederse, kıyamet günü bir tarafı (yere) sarkık olarak gelir.\" Diğer tahric: Tirmizî, nikah; Ahmed b. Hanbel, II",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 88
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2133,
+      "arabicnumber": 2133,
+      "text": "Ebu Huveyre (r.a.) Peygamber (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir. \"Kim'in iki karısı olurda (bunlardan sadece) birine meyl ederse, kıyamet günü bir tarafı (yere) sarkık olarak gelir.\" Diğer tahric: Tirmizî, nikah; Ahmed b. Hanbel, II",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 88
+      }
+    }
+  ]
 }

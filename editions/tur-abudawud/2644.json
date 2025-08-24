@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2644,
-			"arabicnumber": 2644,
-			"text": "El-Mikdad b. el-Esved'in anlattığına göre, Kendisi (Nebi s.a.v.'e); “Ey Allah'ın Rasûlü! Ben kafirlerden bir adam'a rastlasam da benimle savaşsa ve kılıçla vurarak ellerimden birini kesse sonra benden (kaçıp) bir ağaca sığınsa ve -Ben Allah'a teslim oldum- dese bu sözü söyledikten sonra ben o adam'ı öldürebilir miyim? Ne buyurursun?\" diye sormuş. Rasûlullah (s.a.v.) da; \"Onu öldüremezsin\" buyurdu. Ben de; Ey Allah'ın Rasûlü o benim elimi kesti, dedim. Rasûlullah (s.a.v.) da; O'nu öldüremezsin. Çünkü eğer öldürürsen o, senin onu öldürmeden önceki yerine geçer. Sen de onun, söylediği o sözü söylemeden önceki yerine geçersin.” buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (6869) Sahih Muslim (95)"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 168
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2644,
+      "arabicnumber": 2644,
+      "text": "El-Mikdad b. el-Esved'in anlattığına göre, Kendisi (Nebi s.a.v.'e); “Ey Allah'ın Rasûlü! Ben kafirlerden bir adam'a rastlasam da benimle savaşsa ve kılıçla vurarak ellerimden birini kesse sonra benden (kaçıp) bir ağaca sığınsa ve -Ben Allah'a teslim oldum- dese bu sözü söyledikten sonra ben o adam'ı öldürebilir miyim? Ne buyurursun?\" diye sormuş. Rasûlullah (s.a.v.) da; \"Onu öldüremezsin\" buyurdu. Ben de; Ey Allah'ın Rasûlü o benim elimi kesti, dedim. Rasûlullah (s.a.v.) da; O'nu öldüremezsin. Çünkü eğer öldürürsen o, senin onu öldürmeden önceki yerine geçer. Sen de onun, söylediği o sözü söylemeden önceki yerine geçersin.” buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6869) Sahih Muslim (95)"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 168
+      }
+    }
+  ]
 }

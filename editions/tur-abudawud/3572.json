@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 3571,
-				"hadithnumber_last": 3640,
-				"arabicnumber_first": 3571,
-				"arabicnumber_last": 3640
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3572,
-			"arabicnumber": 3572,
-			"text": "Ebu Hureyre (r.a)'den rivayet olduğuna göre; Nebi (s.a.v.): \"İnsanlar arasında hâkimlik yapmakla görevlendirilen kimse bıçaktan başka bir şeyle boğazlanmış olur\" buyurmuştur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "25": "Davalar Bölümü"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 3571,
+        "hadithnumber_last": 3640,
+        "arabicnumber_first": 3571,
+        "arabicnumber_last": 3640
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3572,
+      "arabicnumber": 3572,
+      "text": "Ebu Hureyre (r.a)'den rivayet olduğuna göre; Nebi (s.a.v.): \"İnsanlar arasında hâkimlik yapmakla görevlendirilen kimse bıçaktan başka bir şeyle boğazlanmış olur\" buyurmuştur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 2
+      }
+    }
+  ]
 }

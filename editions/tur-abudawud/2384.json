@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"14": "Fasting (Kitab Al-Siyam)"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2313,
-				"hadithnumber_last": 2476,
-				"arabicnumber_first": 2313,
-				"arabicnumber_last": 2476
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2384,
-			"arabicnumber": 2384,
-			"text": "Âişe (r.anhâ)'dan; demiştir ki: Rasûlullah (s.a.v.) kendiside ben de oruçlu iken beni öperdi. Bu hadis'i ayrıca Müslim, sıyâm da tahric etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 72
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "14": "Oruç Bölümü"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2313,
+        "hadithnumber_last": 2476,
+        "arabicnumber_first": 2313,
+        "arabicnumber_last": 2476
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2384,
+      "arabicnumber": 2384,
+      "text": "Âişe (r.anhâ)'dan; demiştir ki: Rasûlullah (s.a.v.) kendiside ben de oruçlu iken beni öperdi. Bu hadis'i ayrıca Müslim, sıyâm da tahric etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 72
+      }
+    }
+  ]
 }

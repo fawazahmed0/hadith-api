@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4842,
-			"arabicnumber": 4842,
-			"text": "Meymun İbn Ebi Şebib'den (rivayet edildiğine göre Bir gün) Hz. Aişe (r.anhâ)'ya bir dilenci uğramış da o dilenciye bir (ekmek) parçası) vermiş .(Daha sonra) yanına üzerinde bir elbise ve iyilik alameti bulunan bir kimse daha uğramış. Bunun üzerine o adam'ı (layık olduğu bir yere) oturtmuş (ve kendisine bir takım yiyecekler ikram etmiş, adam da kendisine ikram edilen yiyecekleri) yemiş. (Daha sonra oradan uzaklaşıp gitmiş. Adam oradan ayrılınca) bu durum Hz. Aişe'ye sorulmuş (Hz. Aişe de): Rasûlullah (s.a.v.): \"İnsanları (layık oldukları) makamlarına oturtunuz\" buyurdu. Cevabını vermiş. Ebû Davud der ki: Yahya'nın rivayeti kısaltılmıştır. Meymun ise Hz. Aişe'ye erişmemiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 70
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4842,
+      "arabicnumber": 4842,
+      "text": "Meymun İbn Ebi Şebib'den (rivayet edildiğine göre Bir gün) Hz. Aişe (r.anhâ)'ya bir dilenci uğramış da o dilenciye bir (ekmek) parçası) vermiş .(Daha sonra) yanına üzerinde bir elbise ve iyilik alameti bulunan bir kimse daha uğramış. Bunun üzerine o adam'ı (layık olduğu bir yere) oturtmuş (ve kendisine bir takım yiyecekler ikram etmiş, adam da kendisine ikram edilen yiyecekleri) yemiş. (Daha sonra oradan uzaklaşıp gitmiş. Adam oradan ayrılınca) bu durum Hz. Aişe'ye sorulmuş (Hz. Aişe de): Rasûlullah (s.a.v.): \"İnsanları (layık oldukları) makamlarına oturtunuz\" buyurdu. Cevabını vermiş. Ebû Davud der ki: Yahya'nın rivayeti kısaltılmıştır. Meymun ise Hz. Aişe'ye erişmemiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 70
+      }
+    }
+  ]
 }

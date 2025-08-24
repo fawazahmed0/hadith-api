@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"13": "Divorce (Kitab Al-Talaq)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2175,
-				"hadithnumber_last": 2312,
-				"arabicnumber_first": 2175,
-				"arabicnumber_last": 2312
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2232,
-			"arabicnumber": 2232,
-			"text": "İbn Abbas (r.a.)'dan rivayet olunduğuna göre, Berire'nin eşi, Muğîs isimli siyah bir köleydi. Nebi (s.a.v.) Berîre'yi (onun nikahı altında kalıp kalmamakta) serbest bıraktı. (Hz. Berîre ayrılmaya karar verince ona boşanan hür kadınlarınki kadar) iddet beklemesini emretti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (5280)"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "13": "Boşanma Bölümü"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2175,
+        "hadithnumber_last": 2312,
+        "arabicnumber_first": 2175,
+        "arabicnumber_last": 2312
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2232,
+      "arabicnumber": 2232,
+      "text": "İbn Abbas (r.a.)'dan rivayet olunduğuna göre, Berire'nin eşi, Muğîs isimli siyah bir köleydi. Nebi (s.a.v.) Berîre'yi (onun nikahı altında kalıp kalmamakta) serbest bıraktı. (Hz. Berîre ayrılmaya karar verince ona boşanan hür kadınlarınki kadar) iddet beklemesini emretti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5280)"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 58
+      }
+    }
+  ]
 }

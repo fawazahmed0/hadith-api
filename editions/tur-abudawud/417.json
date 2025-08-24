@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 417,
-			"arabicnumber": 417,
-			"text": "Seleme bin el-Ekva (r.a.)'dan, demiştir ki; \"Nebi (Sallellahü aleyhi ve sellem), akşam namazını güneşin batıp üst kısmının kaybolduğu bir zamanda kılardı.” Diğer tahric: Buhari, mevakit; Müslim, mesacid; Tirmizî, mevakit; İbn Mace, salat; Darimî, salat ; Ahmed b. Hanbel. IV",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (561) Sahih Muslim (636)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 417,
+      "arabicnumber": 417,
+      "text": "Seleme bin el-Ekva (r.a.)'dan, demiştir ki; \"Nebi (Sallellahü aleyhi ve sellem), akşam namazını güneşin batıp üst kısmının kaybolduğu bir zamanda kılardı.” Diğer tahric: Buhari, mevakit; Müslim, mesacid; Tirmizî, mevakit; İbn Mace, salat; Darimî, salat ; Ahmed b. Hanbel. IV",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (561) Sahih Muslim (636)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 27
+      }
+    }
+  ]
 }

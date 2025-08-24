@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1250,
-				"hadithnumber_last": 1370,
-				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1300,
-			"arabicnumber": 1300,
-			"text": "Ka'b b. Ucre'den şöyle dediği rivayet edilmiştir: Nebi (s.a.v.) (birgün) Abdul eşhel oğularının mescidine gelip akşam namazını orada kıldı. Namazlarını bitirince akşam namazından sonra nafile kılmakta olduklarını gördü. Bunun üzerine: \"Bu, evlerde kılman bir namazdır” buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "5": "Nafile Namazlar Bölümü"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1250,
+        "hadithnumber_last": 1370,
+        "arabicnumber_first": 1250,
+        "arabicnumber_last": 1370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1300,
+      "arabicnumber": 1300,
+      "text": "Ka'b b. Ucre'den şöyle dediği rivayet edilmiştir: Nebi (s.a.v.) (birgün) Abdul eşhel oğularının mescidine gelip akşam namazını orada kıldı. Namazlarını bitirince akşam namazından sonra nafile kılmakta olduklarını gördü. Bunun üzerine: \"Bu, evlerde kılman bir namazdır” buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 51
+      }
+    }
+  ]
 }

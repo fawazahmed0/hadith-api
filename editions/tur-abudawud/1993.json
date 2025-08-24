@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1993,
-			"arabicnumber": 1993,
-			"text": "İbn Abbâs (r.a.)'dan; demiştir ki: Resûlullah (s.a.v.) dört defa umre yaptı: (Birincisi) Hudeybiye, ikincisi, (gelecek sene) umre yapmak üzere (Kuryşlilerle) anlaştıkları zaman (alınan karara uygun olarak yaptığı umre); üçüncüsü, Ci'râne'den (ihrama girerek yaptığı) umre; dördüncüsü de (Veda) Haccıyla birlikte (yaptığı umre)dir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 273
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1993,
+      "arabicnumber": 1993,
+      "text": "İbn Abbâs (r.a.)'dan; demiştir ki: Resûlullah (s.a.v.) dört defa umre yaptı: (Birincisi) Hudeybiye, ikincisi, (gelecek sene) umre yapmak üzere (Kuryşlilerle) anlaştıkları zaman (alınan karara uygun olarak yaptığı umre); üçüncüsü, Ci'râne'den (ihrama girerek yaptığı) umre; dördüncüsü de (Veda) Haccıyla birlikte (yaptığı umre)dir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 273
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 676,
-			"arabicnumber": 676,
-			"text": "Aişe (r.anha)'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem); \"Allah safların sağ tarafında bulunanlara rahmet eder, melekler, de dua ederler,\" buyurdu. Diğer tahric: İbn Mace, ikame",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 286
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 676,
+      "arabicnumber": 676,
+      "text": "Aişe (r.anha)'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem); \"Allah safların sağ tarafında bulunanlara rahmet eder, melekler, de dua ederler,\" buyurdu. Diğer tahric: İbn Mace, ikame",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 286
+      }
+    }
+  ]
 }

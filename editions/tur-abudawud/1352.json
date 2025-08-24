@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1250,
-				"hadithnumber_last": 1370,
-				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1352,
-			"arabicnumber": 1352,
-			"text": "Âişe (r.anhâ) dedi ki: Resûlullah (s.a.v.) halka yatsı namazını kıldırdıktan sonra (evine gelir) yatağına girip uyurdu. Gecenin son üçte biri girince kalkar def-i hacet eder ve abdest suyunun yanına gelerek abdest alıp mescide gider ve sekiz (rekat) namaz kılardı. Bana öyle geliyor ki kıraat, rükû ve sücûdü eşit (uzunlukta) yapardı. Sonra kalkar tek rekatle vitr yapardı. (Vitr'den) sonra oturarak iki rekat daha kılardı. Sonra (sağ) yanını (yatağına) koyardı. Bazan Bilâl gelir kendisine (sabah) namazını haber verirdi. (Bu haberden) sonra hafifçe uyuklardı. Bazan da Bilâl kendisine namazı haber vermeden önce uyuklayıp uyuklamadığında şüphe ederdim. Resûlullah'ın yaşlanıncaya veya şişmanlayıncaya kadar namazı bu şekilde idi. (Hz. Âişe) biraz da şişmanlığından bahsetti. (Daha) sonra (Sa'd b. Hişâm bir önceki) hadisi (bütünüyle) rivayet etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "5": "Nafile Namazlar Bölümü"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1250,
+        "hadithnumber_last": 1370,
+        "arabicnumber_first": 1250,
+        "arabicnumber_last": 1370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1352,
+      "arabicnumber": 1352,
+      "text": "Âişe (r.anhâ) dedi ki: Resûlullah (s.a.v.) halka yatsı namazını kıldırdıktan sonra (evine gelir) yatağına girip uyurdu. Gecenin son üçte biri girince kalkar def-i hacet eder ve abdest suyunun yanına gelerek abdest alıp mescide gider ve sekiz (rekat) namaz kılardı. Bana öyle geliyor ki kıraat, rükû ve sücûdü eşit (uzunlukta) yapardı. Sonra kalkar tek rekatle vitr yapardı. (Vitr'den) sonra oturarak iki rekat daha kılardı. Sonra (sağ) yanını (yatağına) koyardı. Bazan Bilâl gelir kendisine (sabah) namazını haber verirdi. (Bu haberden) sonra hafifçe uyuklardı. Bazan da Bilâl kendisine namazı haber vermeden önce uyuklayıp uyuklamadığında şüphe ederdim. Resûlullah'ın yaşlanıncaya veya şişmanlayıncaya kadar namazı bu şekilde idi. (Hz. Âişe) biraz da şişmanlığından bahsetti. (Daha) sonra (Sa'd b. Hişâm bir önceki) hadisi (bütünüyle) rivayet etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 103
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5011,
-			"arabicnumber": 5011,
-			"text": "İbn Abbas'dan demiştir ki: Bir çöl arabı Nebi (s.a.v.)'e gelerek (huzurunda çok fasih) bir dille konuşma' yaptı. Bunun üzerine Rasûlullah (s.a.v.): \"Kuşkusuz bazı sözler sihir, bazı şiirler hikmettir” buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 239
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5011,
+      "arabicnumber": 5011,
+      "text": "İbn Abbas'dan demiştir ki: Bir çöl arabı Nebi (s.a.v.)'e gelerek (huzurunda çok fasih) bir dille konuşma' yaptı. Bunun üzerine Rasûlullah (s.a.v.): \"Kuşkusuz bazı sözler sihir, bazı şiirler hikmettir” buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 239
+      }
+    }
+  ]
 }

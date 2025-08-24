@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"34": "Clothing (Kitab Al-Libas)"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4020,
-				"hadithnumber_last": 4158,
-				"arabicnumber_first": 4020,
-				"arabicnumber_last": 4158
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4063,
-			"arabicnumber": 4063,
-			"text": "Ebu'l- Ahvas'ın babası Mâlik b. Nadle'den rivayet olunmuştur; dedi ki: Eski bir elbise ile Nebi (s.a.v)'e varmıştım. (Bana): \"Senin (zekat verecek kadar) malın mülkün var mı?\" diye sordu. \"Evet\" cevabını verdi(m). \"Hangi (cins) maldır?\" diye sordu. Allah bana deve, koyun, at ve köle verdi, diye cevap verdi(m). Allah sana bir mal verdiği zaman Allah'ın nimetinin ve ikramının iz(ler)i senin üzerinde görülsün\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 44
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "34": "Giyim Kuşam Bölümü"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4020,
+        "hadithnumber_last": 4158,
+        "arabicnumber_first": 4020,
+        "arabicnumber_last": 4158
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4063,
+      "arabicnumber": 4063,
+      "text": "Ebu'l- Ahvas'ın babası Mâlik b. Nadle'den rivayet olunmuştur; dedi ki: Eski bir elbise ile Nebi (s.a.v)'e varmıştım. (Bana): \"Senin (zekat verecek kadar) malın mülkün var mı?\" diye sordu. \"Evet\" cevabını verdi(m). \"Hangi (cins) maldır?\" diye sordu. Allah bana deve, koyun, at ve köle verdi, diye cevap verdi(m). Allah sana bir mal verdiği zaman Allah'ın nimetinin ve ikramının iz(ler)i senin üzerinde görülsün\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 44
+      }
+    }
+  ]
 }

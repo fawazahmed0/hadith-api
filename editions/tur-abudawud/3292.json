@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3242,
-				"hadithnumber_last": 3325,
-				"arabicnumber_first": 3242,
-				"arabicnumber_last": 3325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3292,
-			"arabicnumber": 3292,
-			"text": "Bize Ahmed b. Muhammed el-Mervezî haber verdi. Bize, Eyyûb b. Süleyman, Ebû Bekir b. Üveys'den, o Süleyman b. Bilâl'den, Süleyman, İbn Ebî Atik ve Musa b. Ukbe'den, onlar İbn Şihâb'dan, îbn Şihâb da Süleyman b. Erkâm'dan haber verdi. Süleyman'a Yahya b. Ebî Kesîr, Ebû Seleme vasıtasıyla Hz. Âişe (r.anha)'dan Rasûlullah (s.a.v.)'in şöyle buyurduğunu bildirmiş: \"(Allah'a) isyan konusunda adak olmaz. (Adanmişsa) onun keffareti, yemin keffarelidir.\" Ahmed b. Muhammed el-Mervezî şöyle dedi: Gerçekte hadis; Ali b. el-Mübârek'in Yahya.b. Ebî Kesîr'den, onun Muhammed b. Zübeyr'den, onun babasından, onun da İmrân b. Husayn vasıtasıyla Hz. Nebi (s.a.v.)'den rivayet ettiği hadistir. Mervezî bu sözüyle), Süleyman b. Erkâm'ın bu hadiste vehm'e düştüğünü ve onu kendisinden Zührî'nin alıp (Süleyman'ı anmadan) mürsel olarak Ebû Seleme'den, onun da Hz. Âişe'den rivayet ettiğini kasdetmiştir. Ebû Dâvûd dedi ki: Bu hadis'in bir benzerini Bakiyye, Evzai'den; Evzaî, Yahya'dan; Yahya, Muhammed' b. Zübeyr'den, Ali b. Mübarek'in isnadı ile rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 22,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "22": "Yeminler ve Nezirler Bölümü"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3242,
+        "hadithnumber_last": 3325,
+        "arabicnumber_first": 3242,
+        "arabicnumber_last": 3325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3292,
+      "arabicnumber": 3292,
+      "text": "Bize Ahmed b. Muhammed el-Mervezî haber verdi. Bize, Eyyûb b. Süleyman, Ebû Bekir b. Üveys'den, o Süleyman b. Bilâl'den, Süleyman, İbn Ebî Atik ve Musa b. Ukbe'den, onlar İbn Şihâb'dan, îbn Şihâb da Süleyman b. Erkâm'dan haber verdi. Süleyman'a Yahya b. Ebî Kesîr, Ebû Seleme vasıtasıyla Hz. Âişe (r.anha)'dan Rasûlullah (s.a.v.)'in şöyle buyurduğunu bildirmiş: \"(Allah'a) isyan konusunda adak olmaz. (Adanmişsa) onun keffareti, yemin keffarelidir.\" Ahmed b. Muhammed el-Mervezî şöyle dedi: Gerçekte hadis; Ali b. el-Mübârek'in Yahya.b. Ebî Kesîr'den, onun Muhammed b. Zübeyr'den, onun babasından, onun da İmrân b. Husayn vasıtasıyla Hz. Nebi (s.a.v.)'den rivayet ettiği hadistir. Mervezî bu sözüyle), Süleyman b. Erkâm'ın bu hadiste vehm'e düştüğünü ve onu kendisinden Zührî'nin alıp (Süleyman'ı anmadan) mürsel olarak Ebû Seleme'den, onun da Hz. Âişe'den rivayet ettiğini kasdetmiştir. Ebû Dâvûd dedi ki: Bu hadis'in bir benzerini Bakiyye, Evzai'den; Evzaî, Yahya'dan; Yahya, Muhammed' b. Zübeyr'den, Ali b. Mübarek'in isnadı ile rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 22,
+        "hadith": 51
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 935,
-			"arabicnumber": 935,
-			"text": "Ebû Hureyre'den rivayet olunduğuna göre: Nebi (s.a.v.) (şöyle) buyurmuştur: \"İmam (ğayril mağdubi aleyhim veleddaaaalliin) dediği zaman, siz de: \"Amin\" deyiniz. Çünkü kimin âmin demesi, meleklerin âmîn demesi (vakti)ne denk gelecek olursa, geçmiş günahları bağışlanır.\" Diğer tahric: Buhârî, bedü'I-hafk, ezan; Müslim, salât; Ebû Dâvûd, vitr; Muvatta', nida; Ahmed b. Hanbel, II",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (782) Sahih Muslim (409)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 546
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 935,
+      "arabicnumber": 935,
+      "text": "Ebû Hureyre'den rivayet olunduğuna göre: Nebi (s.a.v.) (şöyle) buyurmuştur: \"İmam (ğayril mağdubi aleyhim veleddaaaalliin) dediği zaman, siz de: \"Amin\" deyiniz. Çünkü kimin âmin demesi, meleklerin âmîn demesi (vakti)ne denk gelecek olursa, geçmiş günahları bağışlanır.\" Diğer tahric: Buhârî, bedü'I-hafk, ezan; Müslim, salât; Ebû Dâvûd, vitr; Muvatta', nida; Ahmed b. Hanbel, II",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (782) Sahih Muslim (409)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 546
+      }
+    }
+  ]
 }

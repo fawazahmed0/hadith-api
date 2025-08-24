@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2578,
-			"arabicnumber": 2578,
-			"text": "Âişe (r.anhâ)'dan rivayet olunduğuna göre, Kendisi Peygamber (s.a.v.) ile beraber bir seferde imiş. (Âişe sözlerine devam ederek şöyle) dedi; \"Ben Hz. Nebi ile yaya olarak bir koşu yaptım ve onu geçtim. Bir süre sonra şişmanlayınca onunla bir müsabaka daha yaptım bu sefer o beni geçti ve \"işte bu, (benim seni geçmem) şu (daha önceki senin beni) geçme(nin) karşılığıdır\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 102
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2578,
+      "arabicnumber": 2578,
+      "text": "Âişe (r.anhâ)'dan rivayet olunduğuna göre, Kendisi Peygamber (s.a.v.) ile beraber bir seferde imiş. (Âişe sözlerine devam ederek şöyle) dedi; \"Ben Hz. Nebi ile yaya olarak bir koşu yaptım ve onu geçtim. Bir süre sonra şişmanlayınca onunla bir müsabaka daha yaptım bu sefer o beni geçti ve \"işte bu, (benim seni geçmem) şu (daha önceki senin beni) geçme(nin) karşılığıdır\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 102
+      }
+    }
+  ]
 }

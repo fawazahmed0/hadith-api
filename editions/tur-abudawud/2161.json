@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2161,
-			"arabicnumber": 2161,
-			"text": "İbn Abbas (r.a.)'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Eğer biriniz karısına yaklaşmak istediği zaman, \"Allah'ın ismiyle! Ey Allah'ım! Bizden ve bize vereceğin (çocuk)tan şeytanı uzak tut\" der de sonra bu birleşmeden dolayı kendilerine bir çocuk verilecek olursa, şeytan o çocuğa hiçbir zaman zarar veremez.” Diğer tahric: Buhari, Bed'ul-halk; vudu'; nikah; da'vat; tevhid; Müslim, talak; Tirmizi, nikah; İbn Mace, nikah (1919); Darimi, nikah; Ahmed b. Hanbel, I",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (5165) Sahih Muslim (1434)"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 116
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2161,
+      "arabicnumber": 2161,
+      "text": "İbn Abbas (r.a.)'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Eğer biriniz karısına yaklaşmak istediği zaman, \"Allah'ın ismiyle! Ey Allah'ım! Bizden ve bize vereceğin (çocuk)tan şeytanı uzak tut\" der de sonra bu birleşmeden dolayı kendilerine bir çocuk verilecek olursa, şeytan o çocuğa hiçbir zaman zarar veremez.” Diğer tahric: Buhari, Bed'ul-halk; vudu'; nikah; da'vat; tevhid; Müslim, talak; Tirmizi, nikah; İbn Mace, nikah (1919); Darimi, nikah; Ahmed b. Hanbel, I",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5165) Sahih Muslim (1434)"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 116
+      }
+    }
+  ]
 }

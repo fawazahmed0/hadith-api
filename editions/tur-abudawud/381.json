@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 381,
-			"arabicnumber": 381,
-			"text": "Ma'kil bin Mukarrin'den; şöyle demiştir: \"Bir bedevi, Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte namaz kıldı...\" (Ma'kil bundan sonra) Önceki hadisteki hadiseyi (anlattı) ve şunları ilave etti: Resulullah (Sallallahu aleyhi ve Sellem); \"Üzerine bevlettiği toprağı alın ve (Mescidin dışına) atın, yerine de su dökün\" buyurdu. Ebu Davud; \"Bu hadis mürseldir. Çünkü İbn Ma'kil, Resulullah (Sallallahu aleyhi ve Sellem)'i görmemiştir” dedi. Diğer tahric: Buhari, vudu, edeb; Müslim, tahare; Tirmizi, tahare; Nesai, tahare; mjyah, İbn Mace, tahare; Darimîi vudu; Muvatta', tahare, Ahmed b. Hanbel, ÎI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 381
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 381,
+      "arabicnumber": 381,
+      "text": "Ma'kil bin Mukarrin'den; şöyle demiştir: \"Bir bedevi, Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte namaz kıldı...\" (Ma'kil bundan sonra) Önceki hadisteki hadiseyi (anlattı) ve şunları ilave etti: Resulullah (Sallallahu aleyhi ve Sellem); \"Üzerine bevlettiği toprağı alın ve (Mescidin dışına) atın, yerine de su dökün\" buyurdu. Ebu Davud; \"Bu hadis mürseldir. Çünkü İbn Ma'kil, Resulullah (Sallallahu aleyhi ve Sellem)'i görmemiştir” dedi. Diğer tahric: Buhari, vudu, edeb; Müslim, tahare; Tirmizi, tahare; Nesai, tahare; mjyah, İbn Mace, tahare; Darimîi vudu; Muvatta', tahare, Ahmed b. Hanbel, ÎI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 381
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"13": "Divorce (Kitab Al-Talaq)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2175,
-				"hadithnumber_last": 2312,
-				"arabicnumber_first": 2175,
-				"arabicnumber_last": 2312
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2248,
-			"arabicnumber": 2248,
-			"text": "Sehl b. Sa'd 'liân yapan kan-koca hakkında; Peygamber sallâllahu aleyhi ve sellem şöyle buyurdu\" demiştir: Şu kadım gözetleyiniz, eğer gözlerinin siyahı çok siyah, beyazı da çok beyaz, iri kalçalı bir çocuk dünyaya getirirse (Uveymir'in) ancak doğru söylemiş olduğuna kanaat getiririm. Fakat keler gibi kızılca (çocuk) doğurursa ancak (Uveymir'in) yalan söylemiş olduğuna hükmederim.\" (Râvî Sehl) dedi ki: (kadın) çocuğu arzu edilmeyen şekilde (zînâ isnadını doğrulayıcı bir suret'te) dünyaya getirdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 74
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "13": "Boşanma Bölümü"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2175,
+        "hadithnumber_last": 2312,
+        "arabicnumber_first": 2175,
+        "arabicnumber_last": 2312
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2248,
+      "arabicnumber": 2248,
+      "text": "Sehl b. Sa'd 'liân yapan kan-koca hakkında; Peygamber sallâllahu aleyhi ve sellem şöyle buyurdu\" demiştir: Şu kadım gözetleyiniz, eğer gözlerinin siyahı çok siyah, beyazı da çok beyaz, iri kalçalı bir çocuk dünyaya getirirse (Uveymir'in) ancak doğru söylemiş olduğuna kanaat getiririm. Fakat keler gibi kızılca (çocuk) doğurursa ancak (Uveymir'in) yalan söylemiş olduğuna hükmederim.\" (Râvî Sehl) dedi ki: (kadın) çocuğu arzu edilmeyen şekilde (zînâ isnadını doğrulayıcı bir suret'te) dünyaya getirdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 74
+      }
+    }
+  ]
 }

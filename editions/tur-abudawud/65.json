@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 65,
-			"arabicnumber": 65,
-			"text": "Ubeydullah'dan, dedi ki; \"Babam Abdullah b. Ömer bana Resulullah (sallallahu aleyhi ve sellem)'in şöyle buyurduğunu haber verdi: \"Su iki kulle'ye ulaştığında pis olmaz.” Ebu Davud, Hammad b. Zeyd (bu hadisi) asım'dan mevkuf olarak nakletti demiştir. Diğer tahric: Tirmizi, tahare; Nesai, tahare; miyah; İbn Mace, tahare; Darimî, Vudu*; Ahmed b. Hanbel",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 65
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 65,
+      "arabicnumber": 65,
+      "text": "Ubeydullah'dan, dedi ki; \"Babam Abdullah b. Ömer bana Resulullah (sallallahu aleyhi ve sellem)'in şöyle buyurduğunu haber verdi: \"Su iki kulle'ye ulaştığında pis olmaz.” Ebu Davud, Hammad b. Zeyd (bu hadisi) asım'dan mevkuf olarak nakletti demiştir. Diğer tahric: Tirmizi, tahare; Nesai, tahare; miyah; İbn Mace, tahare; Darimî, Vudu*; Ahmed b. Hanbel",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 65
+      }
+    }
+  ]
 }

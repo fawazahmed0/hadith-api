@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"28": "Foods (Kitab Al-At'imah)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3736,
-				"hadithnumber_last": 3854,
-				"arabicnumber_first": 3736,
-				"arabicnumber_last": 3854
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3795,
-			"arabicnumber": 3795,
-			"text": "Sabit b. Vedîa'dan şöyle dediği rivayet olunmuştur: Rasûlullah (s.a.v.) ile beraber bir askeri birlik içerisinde bulunuyordum. Derken birkaç keler yakaladık. Ben onlardan birini kızartıp Rasûlullah (s.a.v.)'e getirdim ve önüne koydum. (Hz. Nebi) bir çöp alıp onunla (kelerin) parmaklarını saymaya başladı; sonra: \"İsrail oğullarından bir topluluk yerde yürüyen hayvanlar şekline çevrilmiştir. Ancak ben (onların çevrildiği) bu hayvanın hangi hayvan olduğunu bilmiyorum\" buyurdu ve (bu keleri) yemedi, (yenmesini de) yasaklamadı. Ayrıca bu hadis'i Nesâî, sayd; İbn Mâce, sayd da tahric etti. İzah; 3796 da",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 60
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "28": "Yiyecekler Bölümü"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3736,
+        "hadithnumber_last": 3854,
+        "arabicnumber_first": 3736,
+        "arabicnumber_last": 3854
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3795,
+      "arabicnumber": 3795,
+      "text": "Sabit b. Vedîa'dan şöyle dediği rivayet olunmuştur: Rasûlullah (s.a.v.) ile beraber bir askeri birlik içerisinde bulunuyordum. Derken birkaç keler yakaladık. Ben onlardan birini kızartıp Rasûlullah (s.a.v.)'e getirdim ve önüne koydum. (Hz. Nebi) bir çöp alıp onunla (kelerin) parmaklarını saymaya başladı; sonra: \"İsrail oğullarından bir topluluk yerde yürüyen hayvanlar şekline çevrilmiştir. Ancak ben (onların çevrildiği) bu hayvanın hangi hayvan olduğunu bilmiyorum\" buyurdu ve (bu keleri) yemedi, (yenmesini de) yasaklamadı. Ayrıca bu hadis'i Nesâî, sayd; İbn Mâce, sayd da tahric etti. İzah; 3796 da",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 60
+      }
+    }
+  ]
 }

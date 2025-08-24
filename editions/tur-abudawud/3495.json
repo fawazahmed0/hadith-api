@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"24": "Wages (Kitab Al-Ijarah)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 3416,
-				"hadithnumber_last": 3570,
-				"arabicnumber_first": 3416,
-				"arabicnumber_last": 3570
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3495,
-			"arabicnumber": 3495,
-			"text": "Abdullah b. Ömer (r.a.)'in şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.), bir kimsenin ölçü ile satın aldığı bir gıda maddesini teslim almadıkça başkasına satmayı nehyetti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 80
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "24": "İcare Bölümü"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 3416,
+        "hadithnumber_last": 3570,
+        "arabicnumber_first": 3416,
+        "arabicnumber_last": 3570
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3495,
+      "arabicnumber": 3495,
+      "text": "Abdullah b. Ömer (r.a.)'in şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.), bir kimsenin ölçü ile satın aldığı bir gıda maddesini teslim almadıkça başkasına satmayı nehyetti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 80
+      }
+    }
+  ]
 }

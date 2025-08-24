@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1138,
-			"arabicnumber": 1138,
-			"text": "Hafsa bint Sîrîn, Ümmü Atiyye'nin şöyle dediğini rivayet etmiştir: \"Biz bununla (yukarıdaki (1137.) hadiste bildirilen haberle) emrolunduk. Hayızlı kadınlar cemaatin arkasında dururlar onlarla birlikte tekbir alırlardı.”",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (971) Sahih Muslim (890)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 749
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1138,
+      "arabicnumber": 1138,
+      "text": "Hafsa bint Sîrîn, Ümmü Atiyye'nin şöyle dediğini rivayet etmiştir: \"Biz bununla (yukarıdaki (1137.) hadiste bildirilen haberle) emrolunduk. Hayızlı kadınlar cemaatin arkasında dururlar onlarla birlikte tekbir alırlardı.”",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (971) Sahih Muslim (890)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 749
+      }
+    }
+  ]
 }

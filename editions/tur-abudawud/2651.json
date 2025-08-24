@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2651,
-			"arabicnumber": 2651,
-			"text": "Şu (bir önceki 2650. hadis-i şerifte geçen) olay Ali (k.v.)'den de rivayet olunmuştur. (Ali r.a.) dedi ki: (Hz. Nebi’in Mekke üzerine yürümeyeceğini Öğrenen) Hatip (meclisten kalkıp) gitti ve Mekke halkına; Muhammed sizin üzerinize bir sefer yapmak üzere kesin karar aldı diye bir mektup yazdı. (Ebu Abdirrahman) dedi ki; (Hz. Ali'nin rivayet ettiği) bu hadiste şu (sözler) bulunmaktadır: (Mektubu götüren kadın yakalandığında); \"Benim yanımda herhangi bir mektup yoktur dedi. Biz de onu (n devesini) çöktürdük. (Fakat) yanında herhangi bir mektup bulamadık. Bunun üzerine Ali b. Ebi Talib; \"Kendisine yemin edilen Zat'a yemin olsun ki seni öldürürüm. Yahut da (bu) mektubu çıkarırsın dedi. (Vehb b. Bakıyye bu sözlerden sonra bir önceki) hadisi (aynen) rivayet etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (3081) Sahih Muslim (2494)"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 175
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2651,
+      "arabicnumber": 2651,
+      "text": "Şu (bir önceki 2650. hadis-i şerifte geçen) olay Ali (k.v.)'den de rivayet olunmuştur. (Ali r.a.) dedi ki: (Hz. Nebi’in Mekke üzerine yürümeyeceğini Öğrenen) Hatip (meclisten kalkıp) gitti ve Mekke halkına; Muhammed sizin üzerinize bir sefer yapmak üzere kesin karar aldı diye bir mektup yazdı. (Ebu Abdirrahman) dedi ki; (Hz. Ali'nin rivayet ettiği) bu hadiste şu (sözler) bulunmaktadır: (Mektubu götüren kadın yakalandığında); \"Benim yanımda herhangi bir mektup yoktur dedi. Biz de onu (n devesini) çöktürdük. (Fakat) yanında herhangi bir mektup bulamadık. Bunun üzerine Ali b. Ebi Talib; \"Kendisine yemin edilen Zat'a yemin olsun ki seni öldürürüm. Yahut da (bu) mektubu çıkarırsın dedi. (Vehb b. Bakıyye bu sözlerden sonra bir önceki) hadisi (aynen) rivayet etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3081) Sahih Muslim (2494)"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 175
+      }
+    }
+  ]
 }

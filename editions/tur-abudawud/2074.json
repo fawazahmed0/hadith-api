@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2074,
-			"arabicnumber": 2074,
-			"text": "İbn Ömer (r.a.)'den rivayet olunduğuna göre Resulullah (Sallallahu aleyhi ve Sellem) Şiğar'ı yasaklamıştır. Müsedded rivayetine (şu cümleyi de) ekledi: Ben Nâfi'a \"şigâr nedir?\" diye sordum, \"Bir adamın mehirsiz olarak birinin kızıyla evlenmesi ve (karşılığında da) kendi kızını onunla evlendirmesidir\" diye cevap verdi. Diğer tahric: Buhari, nikah (5112); Müslim, nikah; Tirmizi, nikah; İbn Mace, nikah (1883); Nesai, nikah; Darimi, nikah; Muvatta, nikah 24; Ahmed b. Hanbel, II",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (5112) Sahih Muslim (1415)"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 29
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2074,
+      "arabicnumber": 2074,
+      "text": "İbn Ömer (r.a.)'den rivayet olunduğuna göre Resulullah (Sallallahu aleyhi ve Sellem) Şiğar'ı yasaklamıştır. Müsedded rivayetine (şu cümleyi de) ekledi: Ben Nâfi'a \"şigâr nedir?\" diye sordum, \"Bir adamın mehirsiz olarak birinin kızıyla evlenmesi ve (karşılığında da) kendi kızını onunla evlendirmesidir\" diye cevap verdi. Diğer tahric: Buhari, nikah (5112); Müslim, nikah; Tirmizi, nikah; İbn Mace, nikah (1883); Nesai, nikah; Darimi, nikah; Muvatta, nikah 24; Ahmed b. Hanbel, II",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5112) Sahih Muslim (1415)"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 29
+      }
+    }
+  ]
 }

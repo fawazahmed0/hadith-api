@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 558,
-			"arabicnumber": 558,
-			"text": "Ebu Umame (r.a.)'den rivayet edilmiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur; \"Evinden abdest alarak farz bir namaz'a çıkan kişinin sevabı, ihrama girip hac edenin sevabı gibidir. Bir kimse kuşluk namazı için bulunduğu yerden çıkar da bu çıkışındaki yorulmanın sebebi yalnız kuşluk namazı olursa o kişinin sevabı Umre yapanın sevabı gibidir. Aralarında boş ve batıl söz olmaksızın bir namaz'ın peşinden kılınan bir namaz illiyînde yazılır.\" Diğer tahric: Ebu Davud, tatavvu'; Ahmed b. Hanbel, V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 168
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 558,
+      "arabicnumber": 558,
+      "text": "Ebu Umame (r.a.)'den rivayet edilmiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur; \"Evinden abdest alarak farz bir namaz'a çıkan kişinin sevabı, ihrama girip hac edenin sevabı gibidir. Bir kimse kuşluk namazı için bulunduğu yerden çıkar da bu çıkışındaki yorulmanın sebebi yalnız kuşluk namazı olursa o kişinin sevabı Umre yapanın sevabı gibidir. Aralarında boş ve batıl söz olmaksızın bir namaz'ın peşinden kılınan bir namaz illiyînde yazılır.\" Diğer tahric: Ebu Davud, tatavvu'; Ahmed b. Hanbel, V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 168
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 702,
-			"arabicnumber": 702,
-			"text": "Ebu Zer' (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Erkeğin önünde eğerin arka kemeri kadar bir nesne bulunmazsa eşek, kara köpek ve kadın(dan birinin geçmesi onun) namazı(nı) bozar. (Ravi Abdullah b. Samit dedi ki;) Ben: \"Ey Eba Zer, siyah köpeğin kırmızı köpekten, sarı veya beyaz köpekten farkı nedir ki?\" dedim. (O da); Ey kardeşimin oğlu, senin bana sorduğun gibi ben de Resulullah (s.a.v.)'e sordum da, \"Kara köpek şeytandır\" buyurdular, dedi. Diğer tahric: Müslim, salat; Tirmizi, salat; sayd; Nesaî, kıble; İbn Mace, ikame; Ahmed b. Hanbel V, 149, 151, 156, 158, 160; VI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (510)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 312
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 702,
+      "arabicnumber": 702,
+      "text": "Ebu Zer' (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Erkeğin önünde eğerin arka kemeri kadar bir nesne bulunmazsa eşek, kara köpek ve kadın(dan birinin geçmesi onun) namazı(nı) bozar. (Ravi Abdullah b. Samit dedi ki;) Ben: \"Ey Eba Zer, siyah köpeğin kırmızı köpekten, sarı veya beyaz köpekten farkı nedir ki?\" dedim. (O da); Ey kardeşimin oğlu, senin bana sorduğun gibi ben de Resulullah (s.a.v.)'e sordum da, \"Kara köpek şeytandır\" buyurdular, dedi. Diğer tahric: Müslim, salat; Tirmizi, salat; sayd; Nesaî, kıble; İbn Mace, ikame; Ahmed b. Hanbel V, 149, 151, 156, 158, 160; VI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (510)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 312
+      }
+    }
+  ]
 }

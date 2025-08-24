@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 1416,
-				"hadithnumber_last": 1555,
-				"arabicnumber_first": 1416,
-				"arabicnumber_last": 1555
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1537,
-			"arabicnumber": 1537,
-			"text": "Abdullah b. Kays (Ebû Musa el-Eş'arî)'dan rivayet edildiğine göre, Resulullah (s.a.v.) bir kavimden korktuğu zaman; \"Allahım! Senin, onların karşısına dikilmeni istiyoruz. Onların şerlerinden sana sığınıyoruz\" derdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 122
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "8": "Vitr Bölümü"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 1416,
+        "hadithnumber_last": 1555,
+        "arabicnumber_first": 1416,
+        "arabicnumber_last": 1555
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1537,
+      "arabicnumber": 1537,
+      "text": "Abdullah b. Kays (Ebû Musa el-Eş'arî)'dan rivayet edildiğine göre, Resulullah (s.a.v.) bir kavimden korktuğu zaman; \"Allahım! Senin, onların karşısına dikilmeni istiyoruz. Onların şerlerinden sana sığınıyoruz\" derdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 122
+      }
+    }
+  ]
 }

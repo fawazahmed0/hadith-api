@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3242,
-				"hadithnumber_last": 3325,
-				"arabicnumber_first": 3242,
-				"arabicnumber_last": 3325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3287,
-			"arabicnumber": 3287,
-			"text": "Abdullah b. Ömer (r.a.)'in şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.) nezir'den nehy etmeye başladı. \"Nezir hiçbir şeyi değiştirmez, ancak onun sebebiyle cimri'den (mal)çıkartıhr.” buyurdu. Müsedded, Rasûlullah (s.a.v.); “Nezir hiçbir şeyi değiştirmez” buyurdu, dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (6608) Sahih Muslim (1639)"
-				}
-			],
-			"reference": {
-				"book": 22,
-				"hadith": 46
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "22": "Yeminler ve Nezirler Bölümü"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3242,
+        "hadithnumber_last": 3325,
+        "arabicnumber_first": 3242,
+        "arabicnumber_last": 3325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3287,
+      "arabicnumber": 3287,
+      "text": "Abdullah b. Ömer (r.a.)'in şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.) nezir'den nehy etmeye başladı. \"Nezir hiçbir şeyi değiştirmez, ancak onun sebebiyle cimri'den (mal)çıkartıhr.” buyurdu. Müsedded, Rasûlullah (s.a.v.); “Nezir hiçbir şeyi değiştirmez” buyurdu, dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6608) Sahih Muslim (1639)"
+        }
+      ],
+      "reference": {
+        "book": 22,
+        "hadith": 46
+      }
+    }
+  ]
 }

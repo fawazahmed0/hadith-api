@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"23": "Commercial Transactions (Kitab Al-Buyu)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3415,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3415
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3382,
-			"arabicnumber": 3382,
-			"text": "Benî Temim (kabilesin)'den bir ihtiyar şöyle demiştir: Ali b. Ebî Tâlib (r.a) bize şöyle hitab etti: Veya Ali şöyle dedi: îbn îsa; \"Hüşeym bize böylece haber verdi\" dedi-. İnsanların üzerine.çok şiddetli bir zaman gelecek; onunla emrolunmadiğı halde zengin elindeki malını ısıracak (sıkı sıkıya sarılıp fakire vermeyecek). Halbuki Allah (c.c), \"Aranızda iyiliği unutmayınız\" buyurmuştur.[Bakara 237] Zorda kalanlar (mallarını) satacaklar. Oysa Rasûlullah (s.a.v.); muzdarr'ın satışını, içerisinde zarar olan satışı ve olgunlaşmadan önceki meyvenin satışını nehyetmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 23,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "23": "Alım Satım Bölümü"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3415,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3415
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3382,
+      "arabicnumber": 3382,
+      "text": "Benî Temim (kabilesin)'den bir ihtiyar şöyle demiştir: Ali b. Ebî Tâlib (r.a) bize şöyle hitab etti: Veya Ali şöyle dedi: îbn îsa; \"Hüşeym bize böylece haber verdi\" dedi-. İnsanların üzerine.çok şiddetli bir zaman gelecek; onunla emrolunmadiğı halde zengin elindeki malını ısıracak (sıkı sıkıya sarılıp fakire vermeyecek). Halbuki Allah (c.c), \"Aranızda iyiliği unutmayınız\" buyurmuştur.[Bakara 237] Zorda kalanlar (mallarını) satacaklar. Oysa Rasûlullah (s.a.v.); muzdarr'ın satışını, içerisinde zarar olan satışı ve olgunlaşmadan önceki meyvenin satışını nehyetmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 23,
+        "hadith": 57
+      }
+    }
+  ]
 }

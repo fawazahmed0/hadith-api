@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"27": "Drinks (Kitab Al-Ashribah)"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 3669,
-				"hadithnumber_last": 3735,
-				"arabicnumber_first": 3669,
-				"arabicnumber_last": 3735
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3717,
-			"arabicnumber": 3717,
-			"text": "Enes (r.a)'den rivayet olunduğuna göre; Rasûlullah (s.a.v.) kişinin ayakta su içmesini yasaklamıştır. Ayrıca bu hadis'i Müslim, eşribe; Tirmizî, eşribe; İbn Mâce, eşribe; Dârimî, eşribe; Ahmed b. Hanbel, III, 32, 45, 54, 118, 131, 147, 182, 199, 214, 250, 291. de tahric ettiler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2024)"
-				}
-			],
-			"reference": {
-				"book": 27,
-				"hadith": 49
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "27": "İçecekler Bölümü"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 3669,
+        "hadithnumber_last": 3735,
+        "arabicnumber_first": 3669,
+        "arabicnumber_last": 3735
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3717,
+      "arabicnumber": 3717,
+      "text": "Enes (r.a)'den rivayet olunduğuna göre; Rasûlullah (s.a.v.) kişinin ayakta su içmesini yasaklamıştır. Ayrıca bu hadis'i Müslim, eşribe; Tirmizî, eşribe; İbn Mâce, eşribe; Dârimî, eşribe; Ahmed b. Hanbel, III, 32, 45, 54, 118, 131, 147, 182, 199, 214, 250, 291. de tahric ettiler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2024)"
+        }
+      ],
+      "reference": {
+        "book": 27,
+        "hadith": 49
+      }
+    }
+  ]
 }

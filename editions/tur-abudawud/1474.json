@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 1416,
-				"hadithnumber_last": 1555,
-				"arabicnumber_first": 1416,
-				"arabicnumber_last": 1555
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1474,
-			"arabicnumber": 1474,
-			"text": "Sa'd b. Ubâde (r.a.)'den; \"Resulullah (s.a.v.) şöyle buyurdu\" demiştir. \"Kur'an-ı Kerim'i okuyup da (ezberleyip) sonra unutan kimse, kıyamet gününde Allah (c.c.) ile ancak eli kesilmiş olarak karşılaşır.”",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 59
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "8": "Vitr Bölümü"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 1416,
+        "hadithnumber_last": 1555,
+        "arabicnumber_first": 1416,
+        "arabicnumber_last": 1555
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1474,
+      "arabicnumber": 1474,
+      "text": "Sa'd b. Ubâde (r.a.)'den; \"Resulullah (s.a.v.) şöyle buyurdu\" demiştir. \"Kur'an-ı Kerim'i okuyup da (ezberleyip) sonra unutan kimse, kıyamet gününde Allah (c.c.) ile ancak eli kesilmiş olarak karşılaşır.”",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 59
+      }
+    }
+  ]
 }

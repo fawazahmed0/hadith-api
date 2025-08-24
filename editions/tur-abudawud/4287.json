@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"38": "The Promised Deliverer (Kitab Al-Mahdi)"
-		},
-		"section_detail": {
-			"38": {
-				"hadithnumber_first": 4279,
-				"hadithnumber_last": 4290,
-				"arabicnumber_first": 4279,
-				"arabicnumber_last": 4290
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4287,
-			"arabicnumber": 4287,
-			"text": "Bize Harun b. Abdullah haber verdi, bize Hemmam'dan naklen Abdüssamed haber verdi. Hemmam'da katâde'den bu (4286 nolu) hadisi rivayet etti. Hemmam rivayetinde \"dokuz sene\" dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 38,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "38": "Mehdî Konusu"
+    },
+    "section_detail": {
+      "38": {
+        "hadithnumber_first": 4279,
+        "hadithnumber_last": 4290,
+        "arabicnumber_first": 4279,
+        "arabicnumber_last": 4290
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4287,
+      "arabicnumber": 4287,
+      "text": "Bize Harun b. Abdullah haber verdi, bize Hemmam'dan naklen Abdüssamed haber verdi. Hemmam'da katâde'den bu (4286 nolu) hadisi rivayet etti. Hemmam rivayetinde \"dokuz sene\" dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 38,
+        "hadith": 9
+      }
+    }
+  ]
 }

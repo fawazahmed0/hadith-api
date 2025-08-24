@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"14": "Fasting (Kitab Al-Siyam)"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2313,
-				"hadithnumber_last": 2476,
-				"arabicnumber_first": 2313,
-				"arabicnumber_last": 2476
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2474,
-			"arabicnumber": 2474,
-			"text": "İbn Ömer (r.a)'dan rivayet edildiğine göre, Ömer (r.a.) Cahiliyye devrinde Kâ'be'nin yanında bir gece veya bir gün [Buradaki şüphe râvidendir.] i'tikâfta kalmayı adadı. (Sonra) Peygamber (s.a.v.)'e sordu, o da: \"İ'tikâfa gir ve oruç tut\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 162
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "14": "Oruç Bölümü"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2313,
+        "hadithnumber_last": 2476,
+        "arabicnumber_first": 2313,
+        "arabicnumber_last": 2476
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2474,
+      "arabicnumber": 2474,
+      "text": "İbn Ömer (r.a)'dan rivayet edildiğine göre, Ömer (r.a.) Cahiliyye devrinde Kâ'be'nin yanında bir gece veya bir gün [Buradaki şüphe râvidendir.] i'tikâfta kalmayı adadı. (Sonra) Peygamber (s.a.v.)'e sordu, o da: \"İ'tikâfa gir ve oruç tut\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 162
+      }
+    }
+  ]
 }

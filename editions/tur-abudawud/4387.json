@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4387,
-			"arabicnumber": 4387,
-			"text": "İbn Abbas (r.a) demiştir ki: \"Rasulullah (s.a.v.) kıymeti bir dinar (altın) veya on dirhem (gümüş) olan bir kalkan (çalan) adamı (n elini) kesti\" Ebû Davûd der ki: Bu hadisi Muhammed b. Seleme ve Sa'dân b. Yahya ibni İshak'tan ay­nı isnadla rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Shadh"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4387,
+      "arabicnumber": 4387,
+      "text": "İbn Abbas (r.a) demiştir ki: \"Rasulullah (s.a.v.) kıymeti bir dinar (altın) veya on dirhem (gümüş) olan bir kalkan (çalan) adamı (n elini) kesti\" Ebû Davûd der ki: Bu hadisi Muhammed b. Seleme ve Sa'dân b. Yahya ibni İshak'tan ay­nı isnadla rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 37
+      }
+    }
+  ]
 }

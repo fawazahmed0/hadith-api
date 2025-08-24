@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"16": "Sacrifice (Kitab Al-Dahaya)"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 2788,
-				"hadithnumber_last": 2843,
-				"arabicnumber_first": 2788,
-				"arabicnumber_last": 2843
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2791,
-			"arabicnumber": 2791,
-			"text": "Ümmü Seleme, Rasûlullah (s.a.v.)'in (şöyle) buyurduğunu rivayet etmiştir: \"Kimin kesecek bir kurbanı varsa, Zilhicce'nin hilali yenilenince kurban'ını kesinceye kadar saçından ve tırnaklarından asla birşey almasın.\" Ebû Dâvûd der ki: (bu hadisin râvileri) Malik (b. Enes) ile Muhammed b. Amr’ın bu hadisi aldıkları ravinin ismi) üzerinde (yani bu ravinin isminin) Amr b. Müslim (olup olmadığı) hakkında ihtilaf ettiler. (Ravilerin bir kısmı (onun ismini) Ömer (b. Müslim olduğunu) söyledi. Ekserisi de Amr (b. Müslim olduğunu) söyledi. (Musannif) Ebû Dâvûd da (Ekseriyetin dediği gibi) O(nun ismi) Amr b. Müslim b. Ükeymete -et Leysî el-Cündeiyyü(dür) dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1977)"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "16": "Kurbanlar Bölümü"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 2788,
+        "hadithnumber_last": 2843,
+        "arabicnumber_first": 2788,
+        "arabicnumber_last": 2843
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2791,
+      "arabicnumber": 2791,
+      "text": "Ümmü Seleme, Rasûlullah (s.a.v.)'in (şöyle) buyurduğunu rivayet etmiştir: \"Kimin kesecek bir kurbanı varsa, Zilhicce'nin hilali yenilenince kurban'ını kesinceye kadar saçından ve tırnaklarından asla birşey almasın.\" Ebû Dâvûd der ki: (bu hadisin râvileri) Malik (b. Enes) ile Muhammed b. Amr’ın bu hadisi aldıkları ravinin ismi) üzerinde (yani bu ravinin isminin) Amr b. Müslim (olup olmadığı) hakkında ihtilaf ettiler. (Ravilerin bir kısmı (onun ismini) Ömer (b. Müslim olduğunu) söyledi. Ekserisi de Amr (b. Müslim olduğunu) söyledi. (Musannif) Ebû Dâvûd da (Ekseriyetin dediği gibi) O(nun ismi) Amr b. Müslim b. Ükeymete -et Leysî el-Cündeiyyü(dür) dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1977)"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 4
+      }
+    }
+  ]
 }

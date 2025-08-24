@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 48,
-			"arabicnumber": 48,
-			"text": "Muhammed b. Yahya b. Hibban, Abdullah b. Ömer (r.a.)'in oğlu Abdullah'dan rivayet ettiği hadiste dedi ki; \"Abdullah b. Ömer'in oğlu Abdullah'a: dedim ki \"Sen (in baban) İbn Ömer'in abdestli ve abdestsiz iken her namaz için abdest almasının sebebi nedir? dedim. Abdullah da; \"(Amcasının kızı) Esma bint-i Zeyd b. El-Hattab'ın kendisine, Abdullah b. Hanzala b. Ebi Amir'in şöyle dediğini nakletti: \"Resulullah (sallallahu aleyhi ve sellem) abdestli ve abdestsiz iken her namaz için abdest almakla emrolundu. Bu ona zor gelince her namaz için misvak kullanmakla emredildi.\" İbn Ömer'e gelince \"O, kendinde bu gücü bulduğundan dolayı her namaz için abdest almaya devam etti.\" Ebu Davud dedi ki, \"Bu hadisi İbrahim, İbn Sa'd, yine Muham-med b. İshak'tan rivayet etmiş, ancak ibrahim, Abdullah b. Abdullah yerine “Ubeydullah b. Abdullah” demiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 48
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 48,
+      "arabicnumber": 48,
+      "text": "Muhammed b. Yahya b. Hibban, Abdullah b. Ömer (r.a.)'in oğlu Abdullah'dan rivayet ettiği hadiste dedi ki; \"Abdullah b. Ömer'in oğlu Abdullah'a: dedim ki \"Sen (in baban) İbn Ömer'in abdestli ve abdestsiz iken her namaz için abdest almasının sebebi nedir? dedim. Abdullah da; \"(Amcasının kızı) Esma bint-i Zeyd b. El-Hattab'ın kendisine, Abdullah b. Hanzala b. Ebi Amir'in şöyle dediğini nakletti: \"Resulullah (sallallahu aleyhi ve sellem) abdestli ve abdestsiz iken her namaz için abdest almakla emrolundu. Bu ona zor gelince her namaz için misvak kullanmakla emredildi.\" İbn Ömer'e gelince \"O, kendinde bu gücü bulduğundan dolayı her namaz için abdest almaya devam etti.\" Ebu Davud dedi ki, \"Bu hadisi İbrahim, İbn Sa'd, yine Muham-med b. İshak'tan rivayet etmiş, ancak ibrahim, Abdullah b. Abdullah yerine “Ubeydullah b. Abdullah” demiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 48
+      }
+    }
+  ]
 }

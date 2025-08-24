@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1111,
-			"arabicnumber": 1111,
-			"text": "Ya'la b. Şeddad b. Evs'den; demiştir ki: Muaviye ile birlikte Beytu'l-Makdis'de bulundum. Bize cum'a namazı kıldırdı. (Cemaate) baktım bir de ne göreyim; mesciddekilerden çoğu Resûlullah'ın ashabından ve imam hutbe okurken ihtibâ hâlinde oturuyorlar! Ebû Dâvûd dedi ki: İbn Ömer, imam hutbe okurken ihtiba eder­di, Enes b. Malik, Şüreyh, Sa'saa b. Suhan, Said b. el-Müseyyeb, İb­rahim en-Nehai, Mekhul, İsmail b. Muhammed b. Sa'd da (aynı şekilde ihtiba ederdi). Nuaym b. Selame de \"İhtibada beis yok\" dedi. Ebû Davûd dedi ki: Ubade b. Nuseyy'den başka hiç bir kimsenin mekruh dediği bana ulaşmadı.\" Diğer tahric: Beyhakî, es-Sıinenu'l-kiıbrâ, III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 722
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1111,
+      "arabicnumber": 1111,
+      "text": "Ya'la b. Şeddad b. Evs'den; demiştir ki: Muaviye ile birlikte Beytu'l-Makdis'de bulundum. Bize cum'a namazı kıldırdı. (Cemaate) baktım bir de ne göreyim; mesciddekilerden çoğu Resûlullah'ın ashabından ve imam hutbe okurken ihtibâ hâlinde oturuyorlar! Ebû Dâvûd dedi ki: İbn Ömer, imam hutbe okurken ihtiba eder­di, Enes b. Malik, Şüreyh, Sa'saa b. Suhan, Said b. el-Müseyyeb, İb­rahim en-Nehai, Mekhul, İsmail b. Muhammed b. Sa'd da (aynı şekilde ihtiba ederdi). Nuaym b. Selame de \"İhtibada beis yok\" dedi. Ebû Davûd dedi ki: Ubade b. Nuseyy'den başka hiç bir kimsenin mekruh dediği bana ulaşmadı.\" Diğer tahric: Beyhakî, es-Sıinenu'l-kiıbrâ, III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 722
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1250,
-				"hadithnumber_last": 1370,
-				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1291,
-			"arabicnumber": 1291,
-			"text": "İbn Ebî Leylâ'dan; demiştir ki; Ümmü Hanî (r.anhâ)'nın -Nebi (s.a.v.)'in Mekke'nin fethi günü kendisinin evinde gusledip sekiz rekat namaz kıldığını nakletmesinin dışında - hiç bir kimse bize Nebi (s.a.v.)'in kuşluk namazı kıldığından bahsetmedi ve o namazı bir daha kıldığını gören de çıkmadı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1103) Sahih Muslim (336 After  719)"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "5": "Nafile Namazlar Bölümü"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1250,
+        "hadithnumber_last": 1370,
+        "arabicnumber_first": 1250,
+        "arabicnumber_last": 1370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1291,
+      "arabicnumber": 1291,
+      "text": "İbn Ebî Leylâ'dan; demiştir ki; Ümmü Hanî (r.anhâ)'nın -Nebi (s.a.v.)'in Mekke'nin fethi günü kendisinin evinde gusledip sekiz rekat namaz kıldığını nakletmesinin dışında - hiç bir kimse bize Nebi (s.a.v.)'in kuşluk namazı kıldığından bahsetmedi ve o namazı bir daha kıldığını gören de çıkmadı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1103) Sahih Muslim (336 After  719)"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 42
+      }
+    }
+  ]
 }

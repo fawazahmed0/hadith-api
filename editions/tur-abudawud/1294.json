@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1250,
-				"hadithnumber_last": 1370,
-				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1294,
-			"arabicnumber": 1294,
-			"text": "Simâk (b. Harb) dedi ki:Câbir b. Semûre'ye; \"Resûlullah (s.a.v.), ile birlikte oturuyor muydun(uz)? diye sordum. O: Evet çok (oturuyorduk). Güneş doğuncaya kadar sabah namazını kıldığı yerden kalkmazdı. Güneş doğunca kalkardı, cevabını verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (670)"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 45
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "5": "Nafile Namazlar Bölümü"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1250,
+        "hadithnumber_last": 1370,
+        "arabicnumber_first": 1250,
+        "arabicnumber_last": 1370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1294,
+      "arabicnumber": 1294,
+      "text": "Simâk (b. Harb) dedi ki:Câbir b. Semûre'ye; \"Resûlullah (s.a.v.), ile birlikte oturuyor muydun(uz)? diye sordum. O: Evet çok (oturuyorduk). Güneş doğuncaya kadar sabah namazını kıldığı yerden kalkmazdı. Güneş doğunca kalkardı, cevabını verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (670)"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 45
+      }
+    }
+  ]
 }

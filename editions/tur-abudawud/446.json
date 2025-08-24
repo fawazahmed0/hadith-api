@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 446,
-			"arabicnumber": 446,
-			"text": "Necaşi'nin kardeşinin oğlu Zu-Mihber önceden zikri ge­çen haberi rivayet edip şöyle dedi: \"(Müezzin) acele etmeden ezan okudu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Shadh"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Shadh"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 446,
+      "arabicnumber": 446,
+      "text": "Necaşi'nin kardeşinin oğlu Zu-Mihber önceden zikri ge­çen haberi rivayet edip şöyle dedi: \"(Müezzin) acele etmeden ezan okudu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 56
+      }
+    }
+  ]
 }

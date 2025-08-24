@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2040,
-			"arabicnumber": 2040,
-			"text": "İbn Ömer'den rivayet olunduğuna göre, Resûlullah sallallahu aleyhi ve sellem bazan yaya, bazan da binitli olarak Küba'ya gelir (ziyaret eder)miş. İbn Numeyr (bu hadisi rivayet ederken) \"ve orada iki rekat namaz kılardı\" (cümlesini) ilâve etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1194) Sahih Muslim (1399)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 320
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2040,
+      "arabicnumber": 2040,
+      "text": "İbn Ömer'den rivayet olunduğuna göre, Resûlullah sallallahu aleyhi ve sellem bazan yaya, bazan da binitli olarak Küba'ya gelir (ziyaret eder)miş. İbn Numeyr (bu hadisi rivayet ederken) \"ve orada iki rekat namaz kılardı\" (cümlesini) ilâve etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1194) Sahih Muslim (1399)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 320
+      }
+    }
+  ]
 }

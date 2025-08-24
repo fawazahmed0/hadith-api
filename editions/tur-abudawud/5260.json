@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5260,
-			"arabicnumber": 5260,
-			"text": "(Abdurrahman b. Ebi Leylâ'nın) babasından (rivayet edildiğine göre) Rasûlullah (s.a.v.)'e evlerde bulunan yılanlar sorulmuş da şöyle buyurmuş: Onlardan birini evlerinizde gördüğünüz zaman \"ünşidikünnel ahdellezi ehaze aieykünne Nuh, üncidü künel ahdellezî ehaze aleykünne Süleyman enlâ tü'zûna: Meali: Bizi rahatsız etmeyeceğinize dair Hz. Nuh ile Hz. Süleyman'a vermiş olduğunuz söz aşkına (evimizi terk ediniz)\" deyiniz. Eğer (buna rağmen yine de evinize) gelirlerse (o zaman) onları öldürünüz. Diğer Tahric eden: Tirmizî sayd",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 488
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5260,
+      "arabicnumber": 5260,
+      "text": "(Abdurrahman b. Ebi Leylâ'nın) babasından (rivayet edildiğine göre) Rasûlullah (s.a.v.)'e evlerde bulunan yılanlar sorulmuş da şöyle buyurmuş: Onlardan birini evlerinizde gördüğünüz zaman \"ünşidikünnel ahdellezi ehaze aieykünne Nuh, üncidü künel ahdellezî ehaze aleykünne Süleyman enlâ tü'zûna: Meali: Bizi rahatsız etmeyeceğinize dair Hz. Nuh ile Hz. Süleyman'a vermiş olduğunuz söz aşkına (evimizi terk ediniz)\" deyiniz. Eğer (buna rağmen yine de evinize) gelirlerse (o zaman) onları öldürünüz. Diğer Tahric eden: Tirmizî sayd",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 488
+      }
+    }
+  ]
 }

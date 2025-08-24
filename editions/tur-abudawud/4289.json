@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"38": "The Promised Deliverer (Kitab Al-Mahdi)"
-		},
-		"section_detail": {
-			"38": {
-				"hadithnumber_first": 4279,
-				"hadithnumber_last": 4290,
-				"arabicnumber_first": 4279,
-				"arabicnumber_last": 4290
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4289,
-			"arabicnumber": 4289,
-			"text": "Ümmü Seleme (r.a) Rasûlullah (s.a.v.)'den (Mekke ile Medine arasında) batırılacak olanların kıssasını haber verip (şöyle devam etti): \"Ya Rasûlullah, bu orduya istemeyerek zorla götürülen ne olacak? dedim. Rasûlullah (s.a.v.): Öbürleriyle birlikte o da batırılacak, ama Kıyamet Günü niyetine göre diriltilir, buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2882)"
-				}
-			],
-			"reference": {
-				"book": 38,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "38": "Mehdî Konusu"
+    },
+    "section_detail": {
+      "38": {
+        "hadithnumber_first": 4279,
+        "hadithnumber_last": 4290,
+        "arabicnumber_first": 4279,
+        "arabicnumber_last": 4290
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4289,
+      "arabicnumber": 4289,
+      "text": "Ümmü Seleme (r.a) Rasûlullah (s.a.v.)'den (Mekke ile Medine arasında) batırılacak olanların kıssasını haber verip (şöyle devam etti): \"Ya Rasûlullah, bu orduya istemeyerek zorla götürülen ne olacak? dedim. Rasûlullah (s.a.v.): Öbürleriyle birlikte o da batırılacak, ama Kıyamet Günü niyetine göre diriltilir, buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2882)"
+        }
+      ],
+      "reference": {
+        "book": 38,
+        "hadith": 11
+      }
+    }
+  ]
 }

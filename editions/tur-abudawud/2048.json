@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2048,
-			"arabicnumber": 2048,
-			"text": "Câbir b. Abdillah (r.a.)'dan, dedi ki: Resûlullah sallallahu aleyhi ve sellem bana; \"Evlendin mi?\" diye sordu. Evet, cevabını verdim. \"Kız mı aldın yoksa dul mu?\" Dul aldım, diye cevap verdim. \"Bir bakireyle evlenseydin ya! Sen onunla oynaşırdın o da seninle oynaşırdı\" buyurdu. Diğer tahric: Buharî, cihad, buyu', istikrad, meğazi, nikah, nefekat, deavat; Müslim, müsakat, reda ; Tirmizî, nikah; Nesaî, nikah, buyu'; İbn Mace, nikah (1860), Dârimî, nikah; Ahmed b. Hanbel, III, 294, 297, 306, 308, 314, 358, 362, 374, 376, 390; IV",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2048,
+      "arabicnumber": 2048,
+      "text": "Câbir b. Abdillah (r.a.)'dan, dedi ki: Resûlullah sallallahu aleyhi ve sellem bana; \"Evlendin mi?\" diye sordu. Evet, cevabını verdim. \"Kız mı aldın yoksa dul mu?\" Dul aldım, diye cevap verdim. \"Bir bakireyle evlenseydin ya! Sen onunla oynaşırdın o da seninle oynaşırdı\" buyurdu. Diğer tahric: Buharî, cihad, buyu', istikrad, meğazi, nikah, nefekat, deavat; Müslim, müsakat, reda ; Tirmizî, nikah; Nesaî, nikah, buyu'; İbn Mace, nikah (1860), Dârimî, nikah; Ahmed b. Hanbel, III, 294, 297, 306, 308, 314, 358, 362, 374, 376, 390; IV",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 3
+      }
+    }
+  ]
 }

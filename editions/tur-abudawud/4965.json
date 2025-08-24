@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4965,
-			"arabicnumber": 4965,
-			"text": "Hz. Ebu Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Benim adımla adlanınız, fakat künyemle künyelenmeyiniz...\"' Ebu Dâvud dedi ki: Bu hadisi aynı şekilde Ebu Hüreyre'den Ebu salih de rivayet etmiştir. Ebu Süfyan'ın Cabir'den (olan) rivâyetiyle Salim İbn Ebu Ca'd'ın Cabir'den; Süleyman el-Yeşkerf nin ve İbnü'l Münkedir'in Cabir'den rivayeti de böyle olduğu gibi, ve Enes b. Mâlik'in rivayeti de (yine böyledir)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (6188) Sahih Muslim (2134)"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 193
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4965,
+      "arabicnumber": 4965,
+      "text": "Hz. Ebu Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Benim adımla adlanınız, fakat künyemle künyelenmeyiniz...\"' Ebu Dâvud dedi ki: Bu hadisi aynı şekilde Ebu Hüreyre'den Ebu salih de rivayet etmiştir. Ebu Süfyan'ın Cabir'den (olan) rivâyetiyle Salim İbn Ebu Ca'd'ın Cabir'den; Süleyman el-Yeşkerf nin ve İbnü'l Münkedir'in Cabir'den rivayeti de böyle olduğu gibi, ve Enes b. Mâlik'in rivayeti de (yine böyledir)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6188) Sahih Muslim (2134)"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 193
+      }
+    }
+  ]
 }

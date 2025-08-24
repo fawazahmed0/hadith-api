@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 622,
-			"arabicnumber": 622,
-			"text": "Muharib b. Disar (şöyle) demiştir: Abdullah b. Yezîd'i minber üzerinde şöyle konuşurken dinledim: \"Bana el-Bera rivayet etti ki, kendileri Resül-i Ekrem (Sallallahu aleyhi ve Sellem) iIe birlikte namaz kılarlarmış. O rüku etti mi onlar da rüku' ederlermiş. (Bera sözlerine şöyle devam etmiştir:) \"Semiallahü limen hamideh\" dediği vakit, Resulullah (Sallallahu aleyhi ve Sellem)'ın alnını yere koyduğunu görünceye kadar ayakta dikilirdik. Sonra (bütün cemaat secdeye vararak) Nebi (Sallallahu aleyhi ve Sellem))'e uyardık. Diğer tahric: Müslim, salat; Nesai, imame",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (474)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 232
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 622,
+      "arabicnumber": 622,
+      "text": "Muharib b. Disar (şöyle) demiştir: Abdullah b. Yezîd'i minber üzerinde şöyle konuşurken dinledim: \"Bana el-Bera rivayet etti ki, kendileri Resül-i Ekrem (Sallallahu aleyhi ve Sellem) iIe birlikte namaz kılarlarmış. O rüku etti mi onlar da rüku' ederlermiş. (Bera sözlerine şöyle devam etmiştir:) \"Semiallahü limen hamideh\" dediği vakit, Resulullah (Sallallahu aleyhi ve Sellem)'ın alnını yere koyduğunu görünceye kadar ayakta dikilirdik. Sonra (bütün cemaat secdeye vararak) Nebi (Sallallahu aleyhi ve Sellem))'e uyardık. Diğer tahric: Müslim, salat; Nesai, imame",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (474)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 232
+      }
+    }
+  ]
 }

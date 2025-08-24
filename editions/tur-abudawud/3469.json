@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"24": "Wages (Kitab Al-Ijarah)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 3416,
-				"hadithnumber_last": 3570,
-				"arabicnumber_first": 3416,
-				"arabicnumber_last": 3570
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3469,
-			"arabicnumber": 3469,
-			"text": "Ebû Saîd el-Hudrî (r.a)'den, şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.) zamanında bir adam'ın satın aldığı meyveler telef oldu, borcu çoğaldı. Bunun üzerine Rasûlullah (s.a.v.): \"Ona yardım ediniz (bağış yapınız)\" buyurdu. Halk da yardım etti, fakat bu, borcunu ödemeye yetmedi. O zaman Rasûlullah (s.a.v.) (alacaklılara); “Ne (yini) bulursanız alınız, size bundan başka birşey yok\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1556)"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "24": "İcare Bölümü"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 3416,
+        "hadithnumber_last": 3570,
+        "arabicnumber_first": 3416,
+        "arabicnumber_last": 3570
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3469,
+      "arabicnumber": 3469,
+      "text": "Ebû Saîd el-Hudrî (r.a)'den, şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.) zamanında bir adam'ın satın aldığı meyveler telef oldu, borcu çoğaldı. Bunun üzerine Rasûlullah (s.a.v.): \"Ona yardım ediniz (bağış yapınız)\" buyurdu. Halk da yardım etti, fakat bu, borcunu ödemeye yetmedi. O zaman Rasûlullah (s.a.v.) (alacaklılara); “Ne (yini) bulursanız alınız, size bundan başka birşey yok\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1556)"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 54
+      }
+    }
+  ]
 }

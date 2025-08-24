@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"26": "Knowledge (Kitab Al-Ilm)"
-		},
-		"section_detail": {
-			"26": {
-				"hadithnumber_first": 3641,
-				"hadithnumber_last": 3668,
-				"arabicnumber_first": 3641,
-				"arabicnumber_last": 3668
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3647,
-			"arabicnumber": 3647,
-			"text": "Muttalib b. Abdullah b. Hantab'tan rivayet olunmuştur; dedi ki: (Bir gün) Zeyd b. Sabit, Muâviye'nin yanına girmişti. (Muâviyç ona, Hz. Nebi'den rivayet ettiği) bir hadisi sordu. (Zeyd ona bu hadisi rivayet edince Mûaviye orada bulunan) bir adam'a bu hadisi yazmasını emretti. Bunun üzerine Zeyd ona: Rasülullah (s.a.v.) bize kendi sözlerinden hiçbirini yazmamamızı emretti, dedi. (O adam da yazmış olduğu) bu hadisi sildi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif Isnaad"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif Isnaad"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 26,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "26": "İlim Bölümü"
+    },
+    "section_detail": {
+      "26": {
+        "hadithnumber_first": 3641,
+        "hadithnumber_last": 3668,
+        "arabicnumber_first": 3641,
+        "arabicnumber_last": 3668
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3647,
+      "arabicnumber": 3647,
+      "text": "Muttalib b. Abdullah b. Hantab'tan rivayet olunmuştur; dedi ki: (Bir gün) Zeyd b. Sabit, Muâviye'nin yanına girmişti. (Muâviyç ona, Hz. Nebi'den rivayet ettiği) bir hadisi sordu. (Zeyd ona bu hadisi rivayet edince Mûaviye orada bulunan) bir adam'a bu hadisi yazmasını emretti. Bunun üzerine Zeyd ona: Rasülullah (s.a.v.) bize kendi sözlerinden hiçbirini yazmamamızı emretti, dedi. (O adam da yazmış olduğu) bu hadisi sildi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 26,
+        "hadith": 7
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"30": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3904,
-				"hadithnumber_last": 3925,
-				"arabicnumber_first": 3904,
-				"arabicnumber_last": 3925
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3913,
-			"arabicnumber": 3913,
-			"text": "Ebû Hureyre'den rivayet olunduğuna göre; Rasûlullah (s.a.v.): “(Kırlarda çeşitli kılıklara girerek insanların yolunu kaybettirebilecek güce sahip bir) cin taifesi yoktur\" buyurmuştur. Ayrıca bu hadis Müslim, selâm; Ahmed b. Hanbel, III, 293, 312, 382. de var. İzah, 3916 da",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "30": "Kehanet ve Uğursuzluğa Yorma"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3904,
+        "hadithnumber_last": 3925,
+        "arabicnumber_first": 3904,
+        "arabicnumber_last": 3925
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3913,
+      "arabicnumber": 3913,
+      "text": "Ebû Hureyre'den rivayet olunduğuna göre; Rasûlullah (s.a.v.): “(Kırlarda çeşitli kılıklara girerek insanların yolunu kaybettirebilecek güce sahip bir) cin taifesi yoktur\" buyurmuştur. Ayrıca bu hadis Müslim, selâm; Ahmed b. Hanbel, III, 293, 312, 382. de var. İzah, 3916 da",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 10
+      }
+    }
+  ]
 }

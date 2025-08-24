@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 462,
-			"arabicnumber": 462,
-			"text": "ibn Ömer (r.a.)'dan, demiştir ki: Rasulullah (Sallallahu aleyhi ve selem); \"Şu kapıyı kadınlara ayırsak (iyi olur)\" buyurdu. Nafi' dedi ki; İbn Ömer, ölünceye kadar o kapıdan (Mescid'e) girmedi. (Ebu Davud şunu da ekledi): (Bu hadisi rivayet edenlerden) Abdulvaris'in dışında biri; (\"Bu kapıyı kadınlara ayırsak\" sözünü Rasulullah değil) Ömer söylemiştir dedi.Bu daha doğrudur. Ebu Davud, salat 53'de 571. hadis olarak tekrar edilmektedir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 72
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 462,
+      "arabicnumber": 462,
+      "text": "ibn Ömer (r.a.)'dan, demiştir ki: Rasulullah (Sallallahu aleyhi ve selem); \"Şu kapıyı kadınlara ayırsak (iyi olur)\" buyurdu. Nafi' dedi ki; İbn Ömer, ölünceye kadar o kapıdan (Mescid'e) girmedi. (Ebu Davud şunu da ekledi): (Bu hadisi rivayet edenlerden) Abdulvaris'in dışında biri; (\"Bu kapıyı kadınlara ayırsak\" sözünü Rasulullah değil) Ömer söylemiştir dedi.Bu daha doğrudur. Ebu Davud, salat 53'de 571. hadis olarak tekrar edilmektedir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 72
+      }
+    }
+  ]
 }

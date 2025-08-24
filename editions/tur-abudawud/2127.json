@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2127,
-			"arabicnumber": 2127,
-			"text": "(Önceki 2126. hadisin bir) benzen de İbn Abbas (r.a.)'dan rivayet olunmuştur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 82
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2127,
+      "arabicnumber": 2127,
+      "text": "(Önceki 2126. hadisin bir) benzen de İbn Abbas (r.a.)'dan rivayet olunmuştur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 82
+      }
+    }
+  ]
 }

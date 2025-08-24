@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 580,
-			"arabicnumber": 580,
-			"text": "Ukbe b. amir (r.a.) demiştir ki; Ben, Nebi (Sallallahu aleyhi ve Sellem)’i şöyle buyururken duydum: \"Bir kimse insanlara İmam olur ve vakte isabet ederse (sevabı) ona ve cemaatadır. Bundan bir şeyi eksiltenin (vakitte kusur edenin) günahı ise, kendisinedir, cemaata değil.\" Diğer tahric: İbn Mace, ikame; Ahmed b. Hanbel, [V, 145, 154, 156; Hakim, el-Müstedrek, I]",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 190
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 580,
+      "arabicnumber": 580,
+      "text": "Ukbe b. amir (r.a.) demiştir ki; Ben, Nebi (Sallallahu aleyhi ve Sellem)’i şöyle buyururken duydum: \"Bir kimse insanlara İmam olur ve vakte isabet ederse (sevabı) ona ve cemaatadır. Bundan bir şeyi eksiltenin (vakitte kusur edenin) günahı ise, kendisinedir, cemaata değil.\" Diğer tahric: İbn Mace, ikame; Ahmed b. Hanbel, [V, 145, 154, 156; Hakim, el-Müstedrek, I]",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 190
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2021,
-			"arabicnumber": 2021,
-			"text": "Bekr b. Abdillah dedi ki: Bir adam İbn Abbâs'a (gelerek): Şu Beyt'in ehline ne oluyor da amcalarının oğulları (hacılara) süt, bal ve kavut sunarlarken bunlar nebîz sunuyorlar. Onlarda cimrilik mi var yoksa muhtaç mıdırlar? dedi. İbn Abbas (r.a.) da: Biz ne cimriyiz, ne de muhtaç! Fakat (birgün) Resûlulah sallallahu aleyhi ve sellem terkisinde Usâme b. Zeyd olduğu halde (yanımıza) geldi de içecek (bir su) istedi. Bunun üzerine kendisine bir üzüm şerbeti getirildi, o bunu içti ve artanını da Usâme'ye sundu. Usâme de onu içti. Sonra Resûlullah sallallahu aleyhi ve sellem: \"Aferin size, ne iyi ettiniz! Hep böyle yapın\" buyurdu. İşte biz de böyle (yapıyoruz) Resûlullah sallallahu aleyhi ve sellemin buyruğunu değiştirmek istemiyoruz dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1316)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 301
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2021,
+      "arabicnumber": 2021,
+      "text": "Bekr b. Abdillah dedi ki: Bir adam İbn Abbâs'a (gelerek): Şu Beyt'in ehline ne oluyor da amcalarının oğulları (hacılara) süt, bal ve kavut sunarlarken bunlar nebîz sunuyorlar. Onlarda cimrilik mi var yoksa muhtaç mıdırlar? dedi. İbn Abbas (r.a.) da: Biz ne cimriyiz, ne de muhtaç! Fakat (birgün) Resûlulah sallallahu aleyhi ve sellem terkisinde Usâme b. Zeyd olduğu halde (yanımıza) geldi de içecek (bir su) istedi. Bunun üzerine kendisine bir üzüm şerbeti getirildi, o bunu içti ve artanını da Usâme'ye sundu. Usâme de onu içti. Sonra Resûlullah sallallahu aleyhi ve sellem: \"Aferin size, ne iyi ettiniz! Hep böyle yapın\" buyurdu. İşte biz de böyle (yapıyoruz) Resûlullah sallallahu aleyhi ve sellemin buyruğunu değiştirmek istemiyoruz dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1316)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 301
+      }
+    }
+  ]
 }

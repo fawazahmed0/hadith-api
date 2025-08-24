@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 855,
-			"arabicnumber": 855,
-			"text": "Ebu Mes'ud el-Bedrî (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Rüku' ve secdede belini düz tutmayan kimsenin namazı sahih değildir.\" Diğer tahric: Tirmizî, mevakît; Nesaî, tatbik, iftitah; İbn Mace, ikame; Darimî, satat; Ahmed b. Hanbel, 11-525; IV; 22-23, 119, 122; V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 465
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 855,
+      "arabicnumber": 855,
+      "text": "Ebu Mes'ud el-Bedrî (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Rüku' ve secdede belini düz tutmayan kimsenin namazı sahih değildir.\" Diğer tahric: Tirmizî, mevakît; Nesaî, tatbik, iftitah; İbn Mace, ikame; Darimî, satat; Ahmed b. Hanbel, 11-525; IV; 22-23, 119, 122; V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 465
+      }
+    }
+  ]
 }

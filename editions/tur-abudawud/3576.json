@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 3571,
-				"hadithnumber_last": 3640,
-				"arabicnumber_first": 3571,
-				"arabicnumber_last": 3640
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3576,
-			"arabicnumber": 3576,
-			"text": "İbn Abbas'dan rivayet olunmuştur; dedi ki: \"Kim Allah'ın indirdiği ile hükmetmezse işte kâfirler onlardır\"[Mâide 44] (âyetinin) \"...yoldan çıkmışlardır\"[Mâide 47] âyetine kadar olan (Mâide süresindeki 44,45,47 numaralı) üç âyet, özel olarak (yahudilerden) Kureyza ve Nadîr (oğulları) hakkında inmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih Isnaad"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "25": "Davalar Bölümü"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 3571,
+        "hadithnumber_last": 3640,
+        "arabicnumber_first": 3571,
+        "arabicnumber_last": 3640
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3576,
+      "arabicnumber": 3576,
+      "text": "İbn Abbas'dan rivayet olunmuştur; dedi ki: \"Kim Allah'ın indirdiği ile hükmetmezse işte kâfirler onlardır\"[Mâide 44] (âyetinin) \"...yoldan çıkmışlardır\"[Mâide 47] âyetine kadar olan (Mâide süresindeki 44,45,47 numaralı) üç âyet, özel olarak (yahudilerden) Kureyza ve Nadîr (oğulları) hakkında inmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 6
+      }
+    }
+  ]
 }

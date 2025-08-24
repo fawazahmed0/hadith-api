@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"22": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3242,
-				"hadithnumber_last": 3325,
-				"arabicnumber_first": 3242,
-				"arabicnumber_last": 3325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3283,
-			"arabicnumber": 3283,
-			"text": "Şerîd (b. Süveyd es-Sakafî)'den rivayet edildiğine göre; Annesi ona kendisi adına bir mü'min köle azad etmesini vasiyet etti. Şerîd, Rasûlullah (s.a.v.)'a gelip: Ya Rasûlallahî Annem bana kendisi adına bir mü'min köle azad etmemi vasiyet etti. Benimse, Nûbiyeli siyah bir cariyem var (onu azad edebilir miyim?), dedi. (Bundan sonra) ravi, önceki (3282.) hadisin benzerini zikretti. Ebû Dâvûd dedi ki: Halid b. Abdiliah, hadisi mürsel olarak rivayet etti, Şerîd'i anmadı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 22,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "22": "Yeminler ve Nezirler Bölümü"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3242,
+        "hadithnumber_last": 3325,
+        "arabicnumber_first": 3242,
+        "arabicnumber_last": 3325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3283,
+      "arabicnumber": 3283,
+      "text": "Şerîd (b. Süveyd es-Sakafî)'den rivayet edildiğine göre; Annesi ona kendisi adına bir mü'min köle azad etmesini vasiyet etti. Şerîd, Rasûlullah (s.a.v.)'a gelip: Ya Rasûlallahî Annem bana kendisi adına bir mü'min köle azad etmemi vasiyet etti. Benimse, Nûbiyeli siyah bir cariyem var (onu azad edebilir miyim?), dedi. (Bundan sonra) ravi, önceki (3282.) hadisin benzerini zikretti. Ebû Dâvûd dedi ki: Halid b. Abdiliah, hadisi mürsel olarak rivayet etti, Şerîd'i anmadı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 22,
+        "hadith": 42
+      }
+    }
+  ]
 }

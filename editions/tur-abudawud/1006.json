@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1006,
-			"arabicnumber": 1006,
-			"text": "Ebû Hureyre (r.a.)'den; demiştir ki: Resulullah (s.a.v.) şöyle buyurdu: \"Biriniz\" -(Müsedded'in) Hammâd'dan yaptığı rivayetteki ziyâdeye göre - \"namazı (yani nafile) için\" -Müsedded'in Abdulvâris rivayetine göre- \"ileriye geriye veya sağa-sola gitmekten âciz mi? (gitsin)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 617
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1006,
+      "arabicnumber": 1006,
+      "text": "Ebû Hureyre (r.a.)'den; demiştir ki: Resulullah (s.a.v.) şöyle buyurdu: \"Biriniz\" -(Müsedded'in) Hammâd'dan yaptığı rivayetteki ziyâdeye göre - \"namazı (yani nafile) için\" -Müsedded'in Abdulvâris rivayetine göre- \"ileriye geriye veya sağa-sola gitmekten âciz mi? (gitsin)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 617
+      }
+    }
+  ]
 }

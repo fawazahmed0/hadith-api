@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"39": "Battles (Kitab Al-Malahim)"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 4291,
-				"hadithnumber_last": 4350,
-				"arabicnumber_first": 4291,
-				"arabicnumber_last": 4350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4321,
-			"arabicnumber": 4321,
-			"text": "Nevvas b. Sem'an el-Kilabî (r.a)'den rivayet edildiğine göre; Rasûlullah (s.a.v.) Deccal'i anıp şöyle demiştir: \"Şayet ben aranızda iken çıkarsa, sizin önünüzde onun hasmı (mağlup edicisi) benim. Eğer ben aranızda yokken çıkarsa herkes kendisinin savunucusu (galip gelicisi) dur. Her müslüman hakkında Allah benim halifemdir. Sizden her kim ona erişirse, ona karşı Kehf (suresinin baş tarafını) okusun. Şüphesiz o fitneye karşı sizin için emandır.\" (Ravi Nevvas der ki): Biz (Rasûlullah'a): Yeryüzünde ne kadar kalacak? dedik. \"Kırk gün; bîr gün bir sene gibi, bir gün bir ay gibi, bir gün bir hafta gibi diğer günleri de sizin (normal) günleriniz gibidir\" buyurdu. Ya Rasûlullah bu bir sene gibi olan günde bir günlük namaz bize yeter mi? dedik; \"Hayır, onun için günü takdir ediniz.\" Sonra Dımeşk (şam)'in doğusundaki beyaz minarenin yanına İsa b. Meryem (A.S.) inecek, Deccal'e yetişip Lüt kapısının yanında onu öldürecek\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2937)"
-				}
-			],
-			"reference": {
-				"book": 39,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "39": "Melâhim (Meydana Gelecek Büyük Olaylar ve Savaşlar)"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 4291,
+        "hadithnumber_last": 4350,
+        "arabicnumber_first": 4291,
+        "arabicnumber_last": 4350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4321,
+      "arabicnumber": 4321,
+      "text": "Nevvas b. Sem'an el-Kilabî (r.a)'den rivayet edildiğine göre; Rasûlullah (s.a.v.) Deccal'i anıp şöyle demiştir: \"Şayet ben aranızda iken çıkarsa, sizin önünüzde onun hasmı (mağlup edicisi) benim. Eğer ben aranızda yokken çıkarsa herkes kendisinin savunucusu (galip gelicisi) dur. Her müslüman hakkında Allah benim halifemdir. Sizden her kim ona erişirse, ona karşı Kehf (suresinin baş tarafını) okusun. Şüphesiz o fitneye karşı sizin için emandır.\" (Ravi Nevvas der ki): Biz (Rasûlullah'a): Yeryüzünde ne kadar kalacak? dedik. \"Kırk gün; bîr gün bir sene gibi, bir gün bir ay gibi, bir gün bir hafta gibi diğer günleri de sizin (normal) günleriniz gibidir\" buyurdu. Ya Rasûlullah bu bir sene gibi olan günde bir günlük namaz bize yeter mi? dedik; \"Hayır, onun için günü takdir ediniz.\" Sonra Dımeşk (şam)'in doğusundaki beyaz minarenin yanına İsa b. Meryem (A.S.) inecek, Deccal'e yetişip Lüt kapısının yanında onu öldürecek\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2937)"
+        }
+      ],
+      "reference": {
+        "book": 39,
+        "hadith": 31
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 437,
-			"arabicnumber": 437,
-			"text": "Ebu Katade (r.a.)'den nakledildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) bir yolculukta idi, birden yoldan ayrıldı; onunla birlikte ben de ayrıldım. \"Bak bakalım (kimseyi görüyor musun)?\" buyurdu. Biz yedi kişi oluncaya kadar, bu bir süvari, bu ikisi iki süvari, bunlar üç süvari... dedim. Sabah namazını kastederek; \"Bize namazımızı geçirtmeyiniz.\" buyurdu. Uyuyakaldılar ve ancak güneşin hararetiyle uyanabildiler. Uyanır uyanmaz hemen kalktılar ve birazcık yürüdüler. Biraz sonra konaklayıp abdest aldılar. Bilal ezan okudu ve önce sabah namazının iki rekat (sünnet)ini, sonra da farzını kılıp (hayvanlarına) bindiler. Ashab, biribirine: Namazımızda kusur yaptık, diyorlardı. Bunun üzerine Resulullah (Sallallahu aleyhi ve Sellem): \"Uyku halinde kusur yoktur, kusur uyanıkkendir. Biriniz namazı unutursa hatırladığı zaman kılsın, ertesi günde ise (onu) vaktinde kılsın\" buyurdular\" Diğer tahric: Müslim,mesacid; Nesai, mevakit; İbn Mace, salat; Tirmizi mevakİt; Ahmed b. Hanbel.V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 437,
+      "arabicnumber": 437,
+      "text": "Ebu Katade (r.a.)'den nakledildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) bir yolculukta idi, birden yoldan ayrıldı; onunla birlikte ben de ayrıldım. \"Bak bakalım (kimseyi görüyor musun)?\" buyurdu. Biz yedi kişi oluncaya kadar, bu bir süvari, bu ikisi iki süvari, bunlar üç süvari... dedim. Sabah namazını kastederek; \"Bize namazımızı geçirtmeyiniz.\" buyurdu. Uyuyakaldılar ve ancak güneşin hararetiyle uyanabildiler. Uyanır uyanmaz hemen kalktılar ve birazcık yürüdüler. Biraz sonra konaklayıp abdest aldılar. Bilal ezan okudu ve önce sabah namazının iki rekat (sünnet)ini, sonra da farzını kılıp (hayvanlarına) bindiler. Ashab, biribirine: Namazımızda kusur yaptık, diyorlardı. Bunun üzerine Resulullah (Sallallahu aleyhi ve Sellem): \"Uyku halinde kusur yoktur, kusur uyanıkkendir. Biriniz namazı unutursa hatırladığı zaman kılsın, ertesi günde ise (onu) vaktinde kılsın\" buyurdular\" Diğer tahric: Müslim,mesacid; Nesai, mevakit; İbn Mace, salat; Tirmizi mevakİt; Ahmed b. Hanbel.V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 47
+      }
+    }
+  ]
 }

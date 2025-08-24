@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"9": "Zakat (Kitab Al-Zakat)"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1556,
-				"hadithnumber_last": 1700,
-				"arabicnumber_first": 1556,
-				"arabicnumber_last": 1700
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1588,
-			"arabicnumber": 1588,
-			"text": "Abdurrahman b. Câbir b. Atık, babası (Câbir b. Atik)'den rivayet ettiğine göre, Resûlullah (s.a.v.) şöyle buyurmuştur: \"(Tarafınızdan kendilerine) buğzedilen binittiler yakında size gelecek. Size geldiklerinde onlara \"hoş geldiniz\" deyin ve kendilerini almak istedikleri şeylerle başbaşa bırakın. Şayet âdil davranırlarsa, kendi lehlerinedir; zulmederlerse, kendi aleyhlerinedir. Onları memnun edin. Zira zekât (sevabı)nızın tam oluşu, onların rızası (nı almanıza bağlı)dır. Onlar da size dua etsinler. Beyhaki, es-Sünnenu'l-kübrâ, IV, 114 Ebu Davud dediki: Ebu'l-Gusn, Sabit b. Kays b. Gusn'dur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "9": "Zekât Bölümü"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1556,
+        "hadithnumber_last": 1700,
+        "arabicnumber_first": 1556,
+        "arabicnumber_last": 1700
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1588,
+      "arabicnumber": 1588,
+      "text": "Abdurrahman b. Câbir b. Atık, babası (Câbir b. Atik)'den rivayet ettiğine göre, Resûlullah (s.a.v.) şöyle buyurmuştur: \"(Tarafınızdan kendilerine) buğzedilen binittiler yakında size gelecek. Size geldiklerinde onlara \"hoş geldiniz\" deyin ve kendilerini almak istedikleri şeylerle başbaşa bırakın. Şayet âdil davranırlarsa, kendi lehlerinedir; zulmederlerse, kendi aleyhlerinedir. Onları memnun edin. Zira zekât (sevabı)nızın tam oluşu, onların rızası (nı almanıza bağlı)dır. Onlar da size dua etsinler. Beyhaki, es-Sünnenu'l-kübrâ, IV, 114 Ebu Davud dediki: Ebu'l-Gusn, Sabit b. Kays b. Gusn'dur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 33
+      }
+    }
+  ]
 }

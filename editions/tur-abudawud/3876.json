@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"29": "Medicine (Kitab Al-Tibb)"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 3855,
-				"hadithnumber_last": 3903,
-				"arabicnumber_first": 3855,
-				"arabicnumber_last": 3903
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3876,
-			"arabicnumber": 3876,
-			"text": "Sa'd b. Ebî Vakkâs'dan rivayet olunduğuna göre; Nebi (s.a.v.) şöyle buyurmuştur: \"Kim her sabah (aç karnına Medine'nin en iyi hurması olan) Acve'den yedi tane yerse ona o gün zehir de zarar vermez, sihir de",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (5769) Sahih Muslim (2047)"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "29": "Tıp Bölümü"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 3855,
+        "hadithnumber_last": 3903,
+        "arabicnumber_first": 3855,
+        "arabicnumber_last": 3903
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3876,
+      "arabicnumber": 3876,
+      "text": "Sa'd b. Ebî Vakkâs'dan rivayet olunduğuna göre; Nebi (s.a.v.) şöyle buyurmuştur: \"Kim her sabah (aç karnına Medine'nin en iyi hurması olan) Acve'den yedi tane yerse ona o gün zehir de zarar vermez, sihir de",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5769) Sahih Muslim (2047)"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 22
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 790,
-			"arabicnumber": 790,
-			"text": "Cabir (r.a.)'den; demiştir ki: Muaz (r.a.) Nebi (Sallallahu aleyhi ve Sellem) ile namaz kılar, sonra gelip bize imam olurdu. (Amr, bu cümleyi:) Bir de \"sonra gelir kavmine imam olurdu\" (şeklinde) rivayet etti. Bir gece Nebi (Sallallahu aleyhi ve Sellem) namazı geç kıldırmıştı. (Amr bu cümleyi) bir de \"yatsıyı geciktirmişti\" (şeklinde) nakletti. Muaz (bir gün yine) Peygamber (s.a.v.)'le namaz kıldı, sonra gelip kavmine imam oldu ve Bakara Suresi'ni okumaya başladı. Bunun üzerine bir adam cemaatten ayrılarak (kendi başına) namaz(ını) kıldı. (O'na): \"Be adam sen münafık oldun\" denilince: Ben münafık olmadım, diye cevab verdi. Sonra Nebi (s.a.v.)'e gelerek: Ey Allah'ın Resülu! Muaz seninle beraber namaz kılıyor, sonra gelip bize imam oluyor. Bizse develerle su taşıyan ve ellerimizle çalışan kimseleriz. Muaz gelip bize imam oldu ve (namazda) Bakara Suresini okudu dedi. Bunun üzerine Nebi (s.a.v.): \"Ey Muaz! Sen fitneci misin? Fitneci misin sen? Filan ve filan sureleri okusaydın ya!\" buyurdular. Ebu'z-Zübeyr dedi ki: \"Nebi (s.a.v.) (Muaz'a) \"Sebbihisme Rabbika'la'la, velleyli iza yağşa (surelerini okusaydın ya)\" demişti. Biz (bunu) Amr'e hatırlattık. (O da); \"Öyle zannediyorum ki (bunu) Cabir de (böyle) söylemişti\" dedi. Diğer tahric: Buharî, ezan; edeb; Müslim, Salat; Nesaî, iftitah; imame",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (700) Sahih Muslim (465)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 400
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 790,
+      "arabicnumber": 790,
+      "text": "Cabir (r.a.)'den; demiştir ki: Muaz (r.a.) Nebi (Sallallahu aleyhi ve Sellem) ile namaz kılar, sonra gelip bize imam olurdu. (Amr, bu cümleyi:) Bir de \"sonra gelir kavmine imam olurdu\" (şeklinde) rivayet etti. Bir gece Nebi (Sallallahu aleyhi ve Sellem) namazı geç kıldırmıştı. (Amr bu cümleyi) bir de \"yatsıyı geciktirmişti\" (şeklinde) nakletti. Muaz (bir gün yine) Peygamber (s.a.v.)'le namaz kıldı, sonra gelip kavmine imam oldu ve Bakara Suresi'ni okumaya başladı. Bunun üzerine bir adam cemaatten ayrılarak (kendi başına) namaz(ını) kıldı. (O'na): \"Be adam sen münafık oldun\" denilince: Ben münafık olmadım, diye cevab verdi. Sonra Nebi (s.a.v.)'e gelerek: Ey Allah'ın Resülu! Muaz seninle beraber namaz kılıyor, sonra gelip bize imam oluyor. Bizse develerle su taşıyan ve ellerimizle çalışan kimseleriz. Muaz gelip bize imam oldu ve (namazda) Bakara Suresini okudu dedi. Bunun üzerine Nebi (s.a.v.): \"Ey Muaz! Sen fitneci misin? Fitneci misin sen? Filan ve filan sureleri okusaydın ya!\" buyurdular. Ebu'z-Zübeyr dedi ki: \"Nebi (s.a.v.) (Muaz'a) \"Sebbihisme Rabbika'la'la, velleyli iza yağşa (surelerini okusaydın ya)\" demişti. Biz (bunu) Amr'e hatırlattık. (O da); \"Öyle zannediyorum ki (bunu) Cabir de (böyle) söylemişti\" dedi. Diğer tahric: Buharî, ezan; edeb; Müslim, Salat; Nesaî, iftitah; imame",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (700) Sahih Muslim (465)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 400
+      }
+    }
+  ]
 }

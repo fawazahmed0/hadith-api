@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"39": "Battles (Kitab Al-Malahim)"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 4291,
-				"hadithnumber_last": 4350,
-				"arabicnumber_first": 4291,
-				"arabicnumber_last": 4350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4317,
-			"arabicnumber": 4317,
-			"text": "Bize Muhammed b. el-Müsenna, Muhammed b. Cafer'den o da Şu'be'den (Deccal'in iki gözü arasında) \" Ke fe re\" yazılı olduğunu haber verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2933)"
-				}
-			],
-			"reference": {
-				"book": 39,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "39": "Melâhim (Meydana Gelecek Büyük Olaylar ve Savaşlar)"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 4291,
+        "hadithnumber_last": 4350,
+        "arabicnumber_first": 4291,
+        "arabicnumber_last": 4350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4317,
+      "arabicnumber": 4317,
+      "text": "Bize Muhammed b. el-Müsenna, Muhammed b. Cafer'den o da Şu'be'den (Deccal'in iki gözü arasında) \" Ke fe re\" yazılı olduğunu haber verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2933)"
+        }
+      ],
+      "reference": {
+        "book": 39,
+        "hadith": 27
+      }
+    }
+  ]
 }

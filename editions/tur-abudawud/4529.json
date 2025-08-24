@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"41": "Types of Blood-Wit (Kitab Al-Diyat)"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 4494,
-				"hadithnumber_last": 4595,
-				"arabicnumber_first": 4494,
-				"arabicnumber_last": 4595
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4529,
-			"arabicnumber": 4529,
-			"text": "Enes (r.a) den; (şöyle dediği) rivayet edilmiştir: Bir Yahudi üzerinde zinet bulunan bir câriye'nin başını taşla ezdi. Ra­sûlullah (s.â.v) câriye ölmek üzere iken yanına girdi. Ona: \"Seni kim öldürdü? Falan mı öldürdü?\" diye sordu. Kadın başı ile \"hayır\" diye işaret etti. Rasûlullah tekrar: \"Falan mı öldürdü?\" dedi. Kadın bu sefer başı ile \"evet\" diye işaret etti. Bunun üzerine, Rasûlullah (s.a.v) emretti ve katilin başı iki taş arasında ezildi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (6877) Sahih Muslim (1672)"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 36
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "41": "Diyetler Bahsi"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 4494,
+        "hadithnumber_last": 4595,
+        "arabicnumber_first": 4494,
+        "arabicnumber_last": 4595
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4529,
+      "arabicnumber": 4529,
+      "text": "Enes (r.a) den; (şöyle dediği) rivayet edilmiştir: Bir Yahudi üzerinde zinet bulunan bir câriye'nin başını taşla ezdi. Ra­sûlullah (s.â.v) câriye ölmek üzere iken yanına girdi. Ona: \"Seni kim öldürdü? Falan mı öldürdü?\" diye sordu. Kadın başı ile \"hayır\" diye işaret etti. Rasûlullah tekrar: \"Falan mı öldürdü?\" dedi. Kadın bu sefer başı ile \"evet\" diye işaret etti. Bunun üzerine, Rasûlullah (s.a.v) emretti ve katilin başı iki taş arasında ezildi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6877) Sahih Muslim (1672)"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 36
+      }
+    }
+  ]
 }

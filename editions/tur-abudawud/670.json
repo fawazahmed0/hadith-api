@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 670,
-			"arabicnumber": 670,
-			"text": "Enes (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) namaz kılmaya kalktığı vakit sağ eline bir sopa alıp (sağ tarafına) dönerek: \"Doğrulunuz, saflarınızı düzeltiniz!\" buyururdu. Sonra sopayı sol eline alıp (sol tarafındakilere:) “Doğrulunuz, saflarınızı düzeltiniz!\" buyururdu. Diğer tahric: Buharî, fedailu ashabi'n-Nebî, Müslim, salat; Nesaî, imame; Ahmed b. Hanbel III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 280
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 670,
+      "arabicnumber": 670,
+      "text": "Enes (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) namaz kılmaya kalktığı vakit sağ eline bir sopa alıp (sağ tarafına) dönerek: \"Doğrulunuz, saflarınızı düzeltiniz!\" buyururdu. Sonra sopayı sol eline alıp (sol tarafındakilere:) “Doğrulunuz, saflarınızı düzeltiniz!\" buyururdu. Diğer tahric: Buharî, fedailu ashabi'n-Nebî, Müslim, salat; Nesaî, imame; Ahmed b. Hanbel III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 280
+      }
+    }
+  ]
 }

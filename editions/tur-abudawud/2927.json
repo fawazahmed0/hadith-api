@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"19": "Shares of Inheritance (Kitab Al-Fara'id)"
-		},
-		"section_detail": {
-			"19": {
-				"hadithnumber_first": 2885,
-				"hadithnumber_last": 2927,
-				"arabicnumber_first": 2885,
-				"arabicnumber_last": 2927
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2927,
-			"arabicnumber": 2927,
-			"text": "Said (b. Müseyyeb (r.a.))'den demiştir ki: Ömer b. Hattab \"diyet akilenindir, kadın kocasının diyetine varis olamaz\" derdi. Nihayet kendisine ed-Dahhak b. Sufyân: \"Eşyem ed-Dibâbî'nin hanımına kocasının diyetinden miras payı vermem için Rasûlullah (s.a.v.) bana mektup yazmıştı.\" dedi de. Hz. Ömer bu görüşünden döndü. Ahmed b. Salih dediki bize bu hadisi Abdurrezzâk Ma'mer'den, O da Zührî'den, O da Said'den rivayet etti ve bu rivayetinde şöyle dedi: (Hz. Peygamber Dahhak b. Süfyan'ı Arablara zekat tahsildarı olarak görevlendirmişti)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 19,
-				"hadith": 43
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "19": "Feraiz Bölümü"
+    },
+    "section_detail": {
+      "19": {
+        "hadithnumber_first": 2885,
+        "hadithnumber_last": 2927,
+        "arabicnumber_first": 2885,
+        "arabicnumber_last": 2927
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2927,
+      "arabicnumber": 2927,
+      "text": "Said (b. Müseyyeb (r.a.))'den demiştir ki: Ömer b. Hattab \"diyet akilenindir, kadın kocasının diyetine varis olamaz\" derdi. Nihayet kendisine ed-Dahhak b. Sufyân: \"Eşyem ed-Dibâbî'nin hanımına kocasının diyetinden miras payı vermem için Rasûlullah (s.a.v.) bana mektup yazmıştı.\" dedi de. Hz. Ömer bu görüşünden döndü. Ahmed b. Salih dediki bize bu hadisi Abdurrezzâk Ma'mer'den, O da Zührî'den, O da Said'den rivayet etti ve bu rivayetinde şöyle dedi: (Hz. Peygamber Dahhak b. Süfyan'ı Arablara zekat tahsildarı olarak görevlendirmişti)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 19,
+        "hadith": 43
+      }
+    }
+  ]
 }

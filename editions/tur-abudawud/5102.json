@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5102,
-			"arabicnumber": 5102,
-			"text": "Hz. Ebu Hureyre'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: \"Horoz ötüşünü duyduğunuzda yüce AIIah'dan fazlını (bereket ve ihsanını) isteyiniz. Çünkü o (anda) melek görmüştür. Eşek anırması işittiğiniz zaman ise şeytan'dan Allah'a sığınınız. Çünkü o (o anda) şeytan görmüştür",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (3303) Sahih Muslim (2729)"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 330
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5102,
+      "arabicnumber": 5102,
+      "text": "Hz. Ebu Hureyre'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: \"Horoz ötüşünü duyduğunuzda yüce AIIah'dan fazlını (bereket ve ihsanını) isteyiniz. Çünkü o (anda) melek görmüştür. Eşek anırması işittiğiniz zaman ise şeytan'dan Allah'a sığınınız. Çünkü o (o anda) şeytan görmüştür",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3303) Sahih Muslim (2729)"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 330
+      }
+    }
+  ]
 }

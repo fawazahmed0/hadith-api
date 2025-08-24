@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4395,
-			"arabicnumber": 4395,
-			"text": "İbn Ömer (r.a) demiştir ki; Mahzûm kabilesinden bir kadın, eşya ariyet alır ve onu inkâr ederdi. Rasulullah (s.a.v.) emretti ve kadının eli kesildi. Bu Hadisi Müslim, hudud’da tahric etti. Ebû Dâvûd der ki: \"Bu hadisi Cüveyriye, Nafi'den o da İbn Ömer veya Safiyye binti Ebu Ubeyd'den rivayet etti, Ravi bu rivayette şunları da ilave etti: Rasulullah (s.a.v.) hitab için kalkıp şöyle buyurdu: \"Allah'a tevbe eden, Rasulullah'dan özür dileyen bir kadın var mı?\" Rasulullah bu sözü üç kez tekrarladı. Kadın da orada hazır olduğu halde kalkıp konuşmadı. Bu hadisi ibn Qanc, Nafi'den o da Safıyye binti Ebû Ubeyd'den riva­yet etti. Bu rivayette: \"(Rasulullah) kadın’ın aleyhine şahitlikte bulundu.\" dedi. İZAH 4397 DE",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 45
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4395,
+      "arabicnumber": 4395,
+      "text": "İbn Ömer (r.a) demiştir ki; Mahzûm kabilesinden bir kadın, eşya ariyet alır ve onu inkâr ederdi. Rasulullah (s.a.v.) emretti ve kadının eli kesildi. Bu Hadisi Müslim, hudud’da tahric etti. Ebû Dâvûd der ki: \"Bu hadisi Cüveyriye, Nafi'den o da İbn Ömer veya Safiyye binti Ebu Ubeyd'den rivayet etti, Ravi bu rivayette şunları da ilave etti: Rasulullah (s.a.v.) hitab için kalkıp şöyle buyurdu: \"Allah'a tevbe eden, Rasulullah'dan özür dileyen bir kadın var mı?\" Rasulullah bu sözü üç kez tekrarladı. Kadın da orada hazır olduğu halde kalkıp konuşmadı. Bu hadisi ibn Qanc, Nafi'den o da Safıyye binti Ebû Ubeyd'den riva­yet etti. Bu rivayette: \"(Rasulullah) kadın’ın aleyhine şahitlikte bulundu.\" dedi. İZAH 4397 DE",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 45
+      }
+    }
+  ]
 }

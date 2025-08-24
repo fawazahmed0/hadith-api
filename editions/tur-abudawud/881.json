@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 881,
-			"arabicnumber": 881,
-			"text": "Ebu Leyla'dan; demiştir ki; Nafile namazı kılmakta olan Resulullah (Sallallahu aleyhi ve Sellem)'in yanında namaza durmuştum. O'nu (şöyle) dua ederken işittim: \"(Cehennem) ateş(in)den Allah'a sığınırım. Cehennemliklerin vay haline!\" Diğer tahric: İbn Mace, ikame",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 491
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 881,
+      "arabicnumber": 881,
+      "text": "Ebu Leyla'dan; demiştir ki; Nafile namazı kılmakta olan Resulullah (Sallallahu aleyhi ve Sellem)'in yanında namaza durmuştum. O'nu (şöyle) dua ederken işittim: \"(Cehennem) ateş(in)den Allah'a sığınırım. Cehennemliklerin vay haline!\" Diğer tahric: İbn Mace, ikame",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 491
+      }
+    }
+  ]
 }

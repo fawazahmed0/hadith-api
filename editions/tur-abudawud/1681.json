@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"9": "Zakat (Kitab Al-Zakat)"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1556,
-				"hadithnumber_last": 1700,
-				"arabicnumber_first": 1556,
-				"arabicnumber_last": 1700
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1681,
-			"arabicnumber": 1681,
-			"text": "Sa'd b. Ubâde'den rivayet edildiğine göre O, şöyle demiştir: Ya Resûlullah! Sa'd'ın annesi öldü. Hangi sadaka (çeşidi) daha faziletlidir? Resûlullah (s.a.v.): \"Su\" buyurdu. Râvi dedi ki: Sa'd bir kuyu kazdırdı ve \"bu kuyu Sa'd'in annesinin kuyusudur.\" dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 126
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "9": "Zekât Bölümü"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1556,
+        "hadithnumber_last": 1700,
+        "arabicnumber_first": 1556,
+        "arabicnumber_last": 1700
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1681,
+      "arabicnumber": 1681,
+      "text": "Sa'd b. Ubâde'den rivayet edildiğine göre O, şöyle demiştir: Ya Resûlullah! Sa'd'ın annesi öldü. Hangi sadaka (çeşidi) daha faziletlidir? Resûlullah (s.a.v.): \"Su\" buyurdu. Râvi dedi ki: Sa'd bir kuyu kazdırdı ve \"bu kuyu Sa'd'in annesinin kuyusudur.\" dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 126
+      }
+    }
+  ]
 }

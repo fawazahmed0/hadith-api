@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1142,
-			"arabicnumber": 1142,
-			"text": "İbn Abbâs (r.anhumâ), Resûlullah (s.a.v.)'e şehâdet ederek şöyle demiştir: Nebi (s.a.v.) Ramazan Bayramı günü (musallaya) çıkıp namazı kıldırdı, sonra da hutbe okudu. Daha sonra yanında Bilâl olduğu halde kadınların yanına geldi. îbn Kesîr dedi ki: \"Şu'be'nin zannı galibine göre\" Onlara bağışta bulunmalarını emretti. Kadınlar da (ellerindekini) atmaya başladılar",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (98) Sahih Muslim (884)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 753
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1142,
+      "arabicnumber": 1142,
+      "text": "İbn Abbâs (r.anhumâ), Resûlullah (s.a.v.)'e şehâdet ederek şöyle demiştir: Nebi (s.a.v.) Ramazan Bayramı günü (musallaya) çıkıp namazı kıldırdı, sonra da hutbe okudu. Daha sonra yanında Bilâl olduğu halde kadınların yanına geldi. îbn Kesîr dedi ki: \"Şu'be'nin zannı galibine göre\" Onlara bağışta bulunmalarını emretti. Kadınlar da (ellerindekini) atmaya başladılar",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (98) Sahih Muslim (884)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 753
+      }
+    }
+  ]
 }

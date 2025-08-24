@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"37": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4240,
-				"hadithnumber_last": 4278,
-				"arabicnumber_first": 4240,
-				"arabicnumber_last": 4278
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4274,
-			"arabicnumber": 4274,
-			"text": "İbn Abbas (r.a) bu (önceki 4273. hadiste geçen) kıssa hakkında; (şöyle dedi) \"Allah'dan başka bir ilâh'a (tapıp) dua edenler [Fûrkan, 68] âyetinde kasdedilenler müşriklerdir. Birde \"Ey kendilerine kötülük edip aşırı giden kullarım; Allah'ın rahmetinden umudunuzu kesmeyin\"[Zümer, 53] âyeti indi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (4810) Sahih Muslim (122)"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 35
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "37": "Fiten ve Melahim Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4240,
+        "hadithnumber_last": 4278,
+        "arabicnumber_first": 4240,
+        "arabicnumber_last": 4278
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4274,
+      "arabicnumber": 4274,
+      "text": "İbn Abbas (r.a) bu (önceki 4273. hadiste geçen) kıssa hakkında; (şöyle dedi) \"Allah'dan başka bir ilâh'a (tapıp) dua edenler [Fûrkan, 68] âyetinde kasdedilenler müşriklerdir. Birde \"Ey kendilerine kötülük edip aşırı giden kullarım; Allah'ın rahmetinden umudunuzu kesmeyin\"[Zümer, 53] âyeti indi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4810) Sahih Muslim (122)"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 35
+      }
+    }
+  ]
 }

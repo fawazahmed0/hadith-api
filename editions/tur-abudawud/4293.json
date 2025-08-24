@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"39": "Battles (Kitab Al-Malahim)"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 4291,
-				"hadithnumber_last": 4350,
-				"arabicnumber_first": 4291,
-				"arabicnumber_last": 4350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4293,
-			"arabicnumber": 4293,
-			"text": "Bize Müemmel b. Fadl. el-Harranî haber verdi ve şöyle dedi: Bize Velid haber verdi. Velid; bize bu (4292nolu) hadisi Hassan b. Atıyye'den Ebu Amr haber verdi dedi. Hassan hadisinde şunu ilave etti: \"... ve müslümanlar silahlarına sarılıp Rumlarla savaşırlar. O birliğe Allah (c.c) şehitliği ikram eder.\" Ancak Velid hadisi, \"Cübeyr'den o da Zi-Mihber vasıtasıyla Rasûlullah'dan\" diye rivayet etti. Ebu Davûd der ki: \"Hadisi Ravh, Yahya b. Hamze ve Bişr b. Bekr Evzai'den İsa'nın dediği gibi rivayet etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 39,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "39": "Melâhim (Meydana Gelecek Büyük Olaylar ve Savaşlar)"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 4291,
+        "hadithnumber_last": 4350,
+        "arabicnumber_first": 4291,
+        "arabicnumber_last": 4350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4293,
+      "arabicnumber": 4293,
+      "text": "Bize Müemmel b. Fadl. el-Harranî haber verdi ve şöyle dedi: Bize Velid haber verdi. Velid; bize bu (4292nolu) hadisi Hassan b. Atıyye'den Ebu Amr haber verdi dedi. Hassan hadisinde şunu ilave etti: \"... ve müslümanlar silahlarına sarılıp Rumlarla savaşırlar. O birliğe Allah (c.c) şehitliği ikram eder.\" Ancak Velid hadisi, \"Cübeyr'den o da Zi-Mihber vasıtasıyla Rasûlullah'dan\" diye rivayet etti. Ebu Davûd der ki: \"Hadisi Ravh, Yahya b. Hamze ve Bişr b. Bekr Evzai'den İsa'nın dediği gibi rivayet etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 39,
+        "hadith": 3
+      }
+    }
+  ]
 }

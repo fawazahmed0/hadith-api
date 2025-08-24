@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 687,
-			"arabicnumber": 687,
-			"text": "İbn Ömer (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) bayram günü namaz kılmağa çıktığı zaman (önüne) bir kargı (dikilmesini) emrederdi. Kargı dikildikten sonra insanlar da arkasında oldukları halde ona doğru namaz kılardı. Seferde de böyle yapardı. Bu yüzden emirler de bunu adet edindiler. Diğer tahric: Buharî, salat; Tirmizî,,mevakitu's-salat; Nesaî, salat; ibn Mace, ikame",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (494) Sahih Muslim (501)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 297
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 687,
+      "arabicnumber": 687,
+      "text": "İbn Ömer (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) bayram günü namaz kılmağa çıktığı zaman (önüne) bir kargı (dikilmesini) emrederdi. Kargı dikildikten sonra insanlar da arkasında oldukları halde ona doğru namaz kılardı. Seferde de böyle yapardı. Bu yüzden emirler de bunu adet edindiler. Diğer tahric: Buharî, salat; Tirmizî,,mevakitu's-salat; Nesaî, salat; ibn Mace, ikame",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (494) Sahih Muslim (501)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 297
+      }
+    }
+  ]
 }

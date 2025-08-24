@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4919,
-			"arabicnumber": 4919,
-			"text": "Ebu'd-Derdâ'dan (rivayet edildiğine göre) Râsulullah (s.a.v.) (bir gün) sahabelere; \"Size oruçtan da namazdan da ve sadakadan da daha faziletli olan bir amel haber vereyim mi?\" demiş.(Onlarda): Evet ya Rasûlullah (haber ver), demişler. (Bunun üzerine Rasûlullah): \"(O) iki kişinin arasını düzeltmektir. İki kişinin arasını açmak (ise usturanın kılı kazıdığı gibi dini kökünden söken) bir kazıyıcıdır,\" buyurmuş",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 147
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4919,
+      "arabicnumber": 4919,
+      "text": "Ebu'd-Derdâ'dan (rivayet edildiğine göre) Râsulullah (s.a.v.) (bir gün) sahabelere; \"Size oruçtan da namazdan da ve sadakadan da daha faziletli olan bir amel haber vereyim mi?\" demiş.(Onlarda): Evet ya Rasûlullah (haber ver), demişler. (Bunun üzerine Rasûlullah): \"(O) iki kişinin arasını düzeltmektir. İki kişinin arasını açmak (ise usturanın kılı kazıdığı gibi dini kökünden söken) bir kazıyıcıdır,\" buyurmuş",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 147
+      }
+    }
+  ]
 }

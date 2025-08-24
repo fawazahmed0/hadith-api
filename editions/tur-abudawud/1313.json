@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1250,
-				"hadithnumber_last": 1370,
-				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1313,
-			"arabicnumber": 1313,
-			"text": "Ömer b. Hattâb (r.a.) demiştir ki: Resûlullah (s.a.v.)'i şöyle buyururken işittim: \"Bir kimse hizbini veya onun bir kısmını okumadan uyur kalır da sonra onu sabah namazı ile Öğle namazı arasında okursa kendisine o hizbi gece okumuş gibi (sevab) yazılır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (747)"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "5": "Nafile Namazlar Bölümü"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1250,
+        "hadithnumber_last": 1370,
+        "arabicnumber_first": 1250,
+        "arabicnumber_last": 1370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1313,
+      "arabicnumber": 1313,
+      "text": "Ömer b. Hattâb (r.a.) demiştir ki: Resûlullah (s.a.v.)'i şöyle buyururken işittim: \"Bir kimse hizbini veya onun bir kısmını okumadan uyur kalır da sonra onu sabah namazı ile Öğle namazı arasında okursa kendisine o hizbi gece okumuş gibi (sevab) yazılır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (747)"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 64
+      }
+    }
+  ]
 }

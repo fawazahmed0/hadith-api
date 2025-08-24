@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"13": "Divorce (Kitab Al-Talaq)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2175,
-				"hadithnumber_last": 2312,
-				"arabicnumber_first": 2175,
-				"arabicnumber_last": 2312
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2238,
-			"arabicnumber": 2238,
-			"text": "İbn Abbas'dan rivayet olunduğuna göre, Nebi (s.a.v.) zamanında bir adam müslüman olup (Hz. Nebi'nin huzuruna) gelmiş sonra müslüman olarak karısı da (çıkıp) gelmiş (adam): Ey Allah'ın Rasûlü, bu da benimle beraber müslüman oldu, deyince (Hz. Nebi) kadını ona iade etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "13": "Boşanma Bölümü"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2175,
+        "hadithnumber_last": 2312,
+        "arabicnumber_first": 2175,
+        "arabicnumber_last": 2312
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2238,
+      "arabicnumber": 2238,
+      "text": "İbn Abbas'dan rivayet olunduğuna göre, Nebi (s.a.v.) zamanında bir adam müslüman olup (Hz. Nebi'nin huzuruna) gelmiş sonra müslüman olarak karısı da (çıkıp) gelmiş (adam): Ey Allah'ın Rasûlü, bu da benimle beraber müslüman oldu, deyince (Hz. Nebi) kadını ona iade etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 64
+      }
+    }
+  ]
 }

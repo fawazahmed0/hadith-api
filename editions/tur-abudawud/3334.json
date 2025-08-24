@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"23": "Commercial Transactions (Kitab Al-Buyu)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3415,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3415
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3334,
-			"arabicnumber": 3334,
-			"text": "Süleyman b. Amr; babası (Amr b. el-Ahfas)'ın şöyle dediğini rivayet etmiştir: Rasûlullah'ı (s.a.v.) Veda Haccmda dinledim. Şöyle diyordu: \"Haberiniz olsun, şüphesiz cahiliye faizlerinden olan tüm faizler kaldırılmıştır. Sermayeleriniz ise kendinize aittir. Siz zulmetmeyiniz, zulme de uğramayınız. Haberiniz olsun, şüphesiz cahiliye devrinin bütün kan davaları kaldırılmıştır. Kaldırdığım ilk kan davası Abdulmuttalib'in oğlu Hâris'in kan davasıdır.\" Haris, Benî Leys kabilesinde çocuğuna süt annesi aramakta idi. onu Huzeyl öldürdü. Hz. Nebi devamla şöyle dedi: \" (Ey Allah'ım!) Tebliğ ettim mi?\" Sahâbîler üç kerre: - Evet, dediler. Rasûlullah da üç sefer: \"Allah'ım, sen şahid ol\" dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 23,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "23": "Alım Satım Bölümü"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3415,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3415
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3334,
+      "arabicnumber": 3334,
+      "text": "Süleyman b. Amr; babası (Amr b. el-Ahfas)'ın şöyle dediğini rivayet etmiştir: Rasûlullah'ı (s.a.v.) Veda Haccmda dinledim. Şöyle diyordu: \"Haberiniz olsun, şüphesiz cahiliye faizlerinden olan tüm faizler kaldırılmıştır. Sermayeleriniz ise kendinize aittir. Siz zulmetmeyiniz, zulme de uğramayınız. Haberiniz olsun, şüphesiz cahiliye devrinin bütün kan davaları kaldırılmıştır. Kaldırdığım ilk kan davası Abdulmuttalib'in oğlu Hâris'in kan davasıdır.\" Haris, Benî Leys kabilesinde çocuğuna süt annesi aramakta idi. onu Huzeyl öldürdü. Hz. Nebi devamla şöyle dedi: \" (Ey Allah'ım!) Tebliğ ettim mi?\" Sahâbîler üç kerre: - Evet, dediler. Rasûlullah da üç sefer: \"Allah'ım, sen şahid ol\" dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 23,
+        "hadith": 9
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 477,
-			"arabicnumber": 477,
-			"text": "Ebu Hureyre (r.a.)'den, Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu rivayet edilmiştir: \"Bir kimse mescid'e girer de oraya tükürür veya balgam çıkarırsa, yeri eşip onu gömsün. Böyle yapmazsa elbisesine tükürsün; sonra da (mescid'den) çıkarsın.\" Diğer tahric: Ahmed b. Hanbel.II, 260, 318, 324, 415, 471 Bazı Hükümler: 1. Mescidin tabanı topraksa, oraya tüküren bir kimse yeri eşeleyerek tükrüğünü gömmeli, zemin sert yada halı v.s. ise bir beze tükürerek onu mescidden dışarıya çıkarmalıdır. 2. Tükrük temizdir. 3. Mescidlere hürmet gösterilmelidir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 87
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 477,
+      "arabicnumber": 477,
+      "text": "Ebu Hureyre (r.a.)'den, Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğu rivayet edilmiştir: \"Bir kimse mescid'e girer de oraya tükürür veya balgam çıkarırsa, yeri eşip onu gömsün. Böyle yapmazsa elbisesine tükürsün; sonra da (mescid'den) çıkarsın.\" Diğer tahric: Ahmed b. Hanbel.II, 260, 318, 324, 415, 471 Bazı Hükümler: 1. Mescidin tabanı topraksa, oraya tüküren bir kimse yeri eşeleyerek tükrüğünü gömmeli, zemin sert yada halı v.s. ise bir beze tükürerek onu mescidden dışarıya çıkarmalıdır. 2. Tükrük temizdir. 3. Mescidlere hürmet gösterilmelidir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 87
+      }
+    }
+  ]
 }

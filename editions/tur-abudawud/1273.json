@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1250,
-				"hadithnumber_last": 1370,
-				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1273,
-			"arabicnumber": 1273,
-			"text": "İbn Abbâs (r.a.)'in azatlı kölesi Kureyb'den (rivayet olunduğuna göre) Abdullah b. Abbâs ile Abdurrahman b. Ezher ve Misver b. Mahreme kendisini Nebi (s.a.v.)'irı eşi Hz. Âişe'ye göndererek şöyle demişler: Âişe'ye bizden selam söyle ve ona ikindiden sonraki (kıldığı) iki rekatı sor ve de ki; Senin bu iki rekati kıldığın bize haber verildi. Halbuki biz Resûlullah (s.a.v.)'in bundan nehyettiğini işitmiştik. (Kureyb sözlerine şöyle devam etti:) Bunun üzerine Âişe'nin yanına gelerek benimle gönderdikleri haberi kendisine tebliğ ettim. Âişe (r.a.): Ümmü Seleme'ye sor, dedi. Bunun üzerine ben, (beni gönderen) kimselerin yanına çıkarak Âişe'nin sözlerim kendilerine haber verdim. Onlar beni Ümmü Seleme'ye de Âişe'ye gönderdikleri suali sormam için gönderdiler. Ümmü Seleme (r.anha şöyle) cevab verdi: Ben Resûlullah (s.a.v.)'i o iki rekati kılmaktan nehyederken işittim, ama sonra kendisini bunları kılarken gördüm. Onları kılarken vakit İkindi idi. Çünkü ikindiyi (yeni) kılmıştı. Sonra yanımda da ensârdan Benî Haram kabilesinden kadınlar vardı. (Yanıma) girdi ve hemen o iki rekatlık namaza durdu. Bunun üzerine ben kendisine kızı göndererek dedim ki; \"Resûlullah (s.a.v.)'in yanına dur da ona; Ümmü Seleme; \"Ya Resûlellah ben senin şu iki rekatı kılmaktan nehyettiğini işitiyorum. Halbuki şimdi onları kendinin kıldığını görüyorum,\" diyor, de. Şayet eliyle işaret ederse geri çekil. Ümmü Seleme; Kız (dediğimi) yaptı; (Resûlullah (s.a.v.) da) eliyle işaret etti, o da geri çekildi» Namazdan çıkınca (bana hitaben): \"Ey Ebû Ümeyye'nin kızı! Sen ikindiden sonra kıldığım iki rekatı sormuşsun. (Sebebi şudur) Bana Abdü'I-Kays kabilesinden bazı kimseler kavimlerinden (ayrılarak) müslüman olmak için geldiler de, öğle namazından sonra kılmakta olduğum iki rekat nafileden beni alıkoydular, işte bu iki rekat o iki rekattır\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1233) Sahih Muslim (834)"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "5": "Nafile Namazlar Bölümü"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1250,
+        "hadithnumber_last": 1370,
+        "arabicnumber_first": 1250,
+        "arabicnumber_last": 1370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1273,
+      "arabicnumber": 1273,
+      "text": "İbn Abbâs (r.a.)'in azatlı kölesi Kureyb'den (rivayet olunduğuna göre) Abdullah b. Abbâs ile Abdurrahman b. Ezher ve Misver b. Mahreme kendisini Nebi (s.a.v.)'irı eşi Hz. Âişe'ye göndererek şöyle demişler: Âişe'ye bizden selam söyle ve ona ikindiden sonraki (kıldığı) iki rekatı sor ve de ki; Senin bu iki rekati kıldığın bize haber verildi. Halbuki biz Resûlullah (s.a.v.)'in bundan nehyettiğini işitmiştik. (Kureyb sözlerine şöyle devam etti:) Bunun üzerine Âişe'nin yanına gelerek benimle gönderdikleri haberi kendisine tebliğ ettim. Âişe (r.a.): Ümmü Seleme'ye sor, dedi. Bunun üzerine ben, (beni gönderen) kimselerin yanına çıkarak Âişe'nin sözlerim kendilerine haber verdim. Onlar beni Ümmü Seleme'ye de Âişe'ye gönderdikleri suali sormam için gönderdiler. Ümmü Seleme (r.anha şöyle) cevab verdi: Ben Resûlullah (s.a.v.)'i o iki rekati kılmaktan nehyederken işittim, ama sonra kendisini bunları kılarken gördüm. Onları kılarken vakit İkindi idi. Çünkü ikindiyi (yeni) kılmıştı. Sonra yanımda da ensârdan Benî Haram kabilesinden kadınlar vardı. (Yanıma) girdi ve hemen o iki rekatlık namaza durdu. Bunun üzerine ben kendisine kızı göndererek dedim ki; \"Resûlullah (s.a.v.)'in yanına dur da ona; Ümmü Seleme; \"Ya Resûlellah ben senin şu iki rekatı kılmaktan nehyettiğini işitiyorum. Halbuki şimdi onları kendinin kıldığını görüyorum,\" diyor, de. Şayet eliyle işaret ederse geri çekil. Ümmü Seleme; Kız (dediğimi) yaptı; (Resûlullah (s.a.v.) da) eliyle işaret etti, o da geri çekildi» Namazdan çıkınca (bana hitaben): \"Ey Ebû Ümeyye'nin kızı! Sen ikindiden sonra kıldığım iki rekatı sormuşsun. (Sebebi şudur) Bana Abdü'I-Kays kabilesinden bazı kimseler kavimlerinden (ayrılarak) müslüman olmak için geldiler de, öğle namazından sonra kılmakta olduğum iki rekat nafileden beni alıkoydular, işte bu iki rekat o iki rekattır\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1233) Sahih Muslim (834)"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 24
+      }
+    }
+  ]
 }

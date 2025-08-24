@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5116,
-			"arabicnumber": 5116,
-			"text": "Ebû Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: \"(Aziz ve Celil olan) Allah, cahiliyye (döneminin) kibrini ve övünme adetini sizden giderdi. (İnsanlar iki kısımdır: Birincisi Allah katında övülmüş olan) takva sahibi mu'min (kimseler, ikincisi de Allah katında yerilmiş olan) bedbaht ve Allah'ın yolundan çıkmış (kimseler. Binaenaleyh) siz (hepiniz) Ademoğlusunuz. Adem topraktan (yaratılmış)tır. (Allah'a yemin olsun ki) insanlar (ya bu) kavimler(i) ile övünmeyi bırakırlar -ki o kavimler (böyle cahiliyye adeti üzere yaşadıkları için şimdi) cehennem kömürlerinden bir kömürdürler- yahud da Allah katında burnuyla dışkı yuvarlayan bok böceğinden (mayıs böceğinden) daha değersiz bir hale düşerler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 344
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5116,
+      "arabicnumber": 5116,
+      "text": "Ebû Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: \"(Aziz ve Celil olan) Allah, cahiliyye (döneminin) kibrini ve övünme adetini sizden giderdi. (İnsanlar iki kısımdır: Birincisi Allah katında övülmüş olan) takva sahibi mu'min (kimseler, ikincisi de Allah katında yerilmiş olan) bedbaht ve Allah'ın yolundan çıkmış (kimseler. Binaenaleyh) siz (hepiniz) Ademoğlusunuz. Adem topraktan (yaratılmış)tır. (Allah'a yemin olsun ki) insanlar (ya bu) kavimler(i) ile övünmeyi bırakırlar -ki o kavimler (böyle cahiliyye adeti üzere yaşadıkları için şimdi) cehennem kömürlerinden bir kömürdürler- yahud da Allah katında burnuyla dışkı yuvarlayan bok böceğinden (mayıs böceğinden) daha değersiz bir hale düşerler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 344
+      }
+    }
+  ]
 }

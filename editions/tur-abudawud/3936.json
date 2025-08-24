@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"31": "The Book of Manumission of Slaves"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 3926,
-				"hadithnumber_last": 3968,
-				"arabicnumber_first": 3926,
-				"arabicnumber_last": 3968
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3936,
-			"arabicnumber": 3936,
-			"text": "(Yine Ehu Hureyre'den) rivayet olunduğuna göre; Nebi (s.a.v.) şöyle buyurmuştur: \"Her kim bir köle üzerindeki hissesini azad ederse, eğer malı varsa (kalan kısmın bedelini de) kendi malından (ödemek suretiyle kölenin vücudunun tümünü) hürriyetine kavuşturur.\" (Bu hadisin senedinde bulunan) ravi İbnül-Müsenna, en-Nadr b. Enes'den söz etmemiştir. (Hadisteki) cümle(lerin rivayeti) İbn Süveyd'e aittir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "31": "Köle Azad Etmek"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 3926,
+        "hadithnumber_last": 3968,
+        "arabicnumber_first": 3926,
+        "arabicnumber_last": 3968
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3936,
+      "arabicnumber": 3936,
+      "text": "(Yine Ehu Hureyre'den) rivayet olunduğuna göre; Nebi (s.a.v.) şöyle buyurmuştur: \"Her kim bir köle üzerindeki hissesini azad ederse, eğer malı varsa (kalan kısmın bedelini de) kendi malından (ödemek suretiyle kölenin vücudunun tümünü) hürriyetine kavuşturur.\" (Bu hadisin senedinde bulunan) ravi İbnül-Müsenna, en-Nadr b. Enes'den söz etmemiştir. (Hadisteki) cümle(lerin rivayeti) İbn Süveyd'e aittir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 11
+      }
+    }
+  ]
 }

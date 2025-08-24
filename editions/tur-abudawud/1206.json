@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"4": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 1198,
-				"hadithnumber_last": 1249,
-				"arabicnumber_first": 1198,
-				"arabicnumber_last": 1249
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1206,
-			"arabicnumber": 1206,
-			"text": "Ebu't-Tufeyl Âmir b. Vâsile'den rivayete göre Muaz b. Cebel (r.a.), kendilerine şu haberi vermiştir: Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte Tebuk gazvesine çıktıklarında (Resulullah (Sallallahu aleyhi ve Sellem) öğley ile ikindiyi, akşam ile de yatsıyı birleştirerek kılardı. Bir gün (öğle) namazı(nı) geciktirmiş, sonra (çadır’dan) çıkıp öğleyle ikindiyi birleştirerek kılmış. Bir süre sonra (tekrar çadıra) girip çıkmış ve akşamla yatsıyı birleştirerek kılmış. Diğer tahric: Buhari, mevakît, taksîrü's-salat; Müslim, musafirîn; Nesai, mevakit; Tirmizî, salat; cuma; Ahmed b. Hanbel, II, 4, 7, 8, 34, 51, :0, 77, ICC",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (706)"
-				}
-			],
-			"reference": {
-				"book": 4,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "4": "Yolculuk Namazı Bölümü"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 1198,
+        "hadithnumber_last": 1249,
+        "arabicnumber_first": 1198,
+        "arabicnumber_last": 1249
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1206,
+      "arabicnumber": 1206,
+      "text": "Ebu't-Tufeyl Âmir b. Vâsile'den rivayete göre Muaz b. Cebel (r.a.), kendilerine şu haberi vermiştir: Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte Tebuk gazvesine çıktıklarında (Resulullah (Sallallahu aleyhi ve Sellem) öğley ile ikindiyi, akşam ile de yatsıyı birleştirerek kılardı. Bir gün (öğle) namazı(nı) geciktirmiş, sonra (çadır’dan) çıkıp öğleyle ikindiyi birleştirerek kılmış. Bir süre sonra (tekrar çadıra) girip çıkmış ve akşamla yatsıyı birleştirerek kılmış. Diğer tahric: Buhari, mevakît, taksîrü's-salat; Müslim, musafirîn; Nesai, mevakit; Tirmizî, salat; cuma; Ahmed b. Hanbel, II, 4, 7, 8, 34, 51, :0, 77, ICC",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (706)"
+        }
+      ],
+      "reference": {
+        "book": 4,
+        "hadith": 9
+      }
+    }
+  ]
 }

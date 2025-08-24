@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2109,
-			"arabicnumber": 2109,
-			"text": "Enes (r.a.)'den rivayet olunduğuna göre; Resûlullah (Sallallahu aleyhi ve Sellem) Abdurrahman b. Avf (r.a.)'ın üzerinde za'ferân izi görünce; “Bu nedir?\" diye sordu. O da: Ya Rasulallah bir kadınla evlendim, cevâbını verdi. (Resûl-i Ekrem'); \"Onun mehri ne kadardır?\" diye sorunca; \"Bir nevat ağırlığında altındır\" diye cevap verdi. (Resûl-i Ekrem'de) \"Bir koyun ile de olsa düğün yemeği ver\" buyurdu. Diğer tahric: Buharî, nikah, Müslim, nikah, Tirmizî, nikah; Nesai, nikah; İbn Mace, nikah (1907); Darimî, nikah; Ahmed b. Hanbei, III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2109,
+      "arabicnumber": 2109,
+      "text": "Enes (r.a.)'den rivayet olunduğuna göre; Resûlullah (Sallallahu aleyhi ve Sellem) Abdurrahman b. Avf (r.a.)'ın üzerinde za'ferân izi görünce; “Bu nedir?\" diye sordu. O da: Ya Rasulallah bir kadınla evlendim, cevâbını verdi. (Resûl-i Ekrem'); \"Onun mehri ne kadardır?\" diye sorunca; \"Bir nevat ağırlığında altındır\" diye cevap verdi. (Resûl-i Ekrem'de) \"Bir koyun ile de olsa düğün yemeği ver\" buyurdu. Diğer tahric: Buharî, nikah, Müslim, nikah, Tirmizî, nikah; Nesai, nikah; İbn Mace, nikah (1907); Darimî, nikah; Ahmed b. Hanbei, III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 64
+      }
+    }
+  ]
 }

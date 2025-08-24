@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"14": "Fasting (Kitab Al-Siyam)"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2313,
-				"hadithnumber_last": 2476,
-				"arabicnumber_first": 2313,
-				"arabicnumber_last": 2476
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2400,
-			"arabicnumber": 2400,
-			"text": "Aişe (r.anha)'dan rivayet edildiğine göre, Nebi (s.a.v.) şöyle buyurmuştur. \"Bir kimse üzerinde oruç borcu olduğu halde ölürse, velisi onun yerine orucunu tutar.\" Buharî, savm; Müslim, siyam; İbn Mâce, keffâret; Ahmet b. Hanbel, VI, 69; Darekutnî, Süaen, II, 195; Beyhâkî, es-Sünenü'l-kübrâ, IV, 255, VI, 279. Ebû Dâvud, \"Bu nezir hakkındadır ve bu Ahmed b. Hanbel'in görüşüdür\" dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1952) Sahih Muslim (1147)"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 88
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "14": "Oruç Bölümü"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2313,
+        "hadithnumber_last": 2476,
+        "arabicnumber_first": 2313,
+        "arabicnumber_last": 2476
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2400,
+      "arabicnumber": 2400,
+      "text": "Aişe (r.anha)'dan rivayet edildiğine göre, Nebi (s.a.v.) şöyle buyurmuştur. \"Bir kimse üzerinde oruç borcu olduğu halde ölürse, velisi onun yerine orucunu tutar.\" Buharî, savm; Müslim, siyam; İbn Mâce, keffâret; Ahmet b. Hanbel, VI, 69; Darekutnî, Süaen, II, 195; Beyhâkî, es-Sünenü'l-kübrâ, IV, 255, VI, 279. Ebû Dâvud, \"Bu nezir hakkındadır ve bu Ahmed b. Hanbel'in görüşüdür\" dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1952) Sahih Muslim (1147)"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 88
+      }
+    }
+  ]
 }

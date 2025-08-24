@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 884,
-			"arabicnumber": 884,
-			"text": "Mus'ab, Ebî Aişe'den; demiştir ki: Bir adam evinin üstünde namaz kılar ve \"bütün bunları yapan (Allah) ölüleri tekrar diriltmeye kaadir değil midir?\"[Kıyame 40] ayetini okuyunca \"Sübhaneke febela = seni tesbih (ve tenzih) ederim, evet (Sen ölüleri tekrar diriltmeye kaadirsin)\" derdi. Bunu kendisine sordular, \"Ben bunu Resulullah (Sallallahu aleyhi ve Sellem)'den işittim\" diye cevab verdi. Ebu Davud dedi ki: Ahmed (b. Hanbel): Farz (namazlarda, Kur'an'daki (dualar)la dua etmek benim hoşuma gider\" dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 494
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 884,
+      "arabicnumber": 884,
+      "text": "Mus'ab, Ebî Aişe'den; demiştir ki: Bir adam evinin üstünde namaz kılar ve \"bütün bunları yapan (Allah) ölüleri tekrar diriltmeye kaadir değil midir?\"[Kıyame 40] ayetini okuyunca \"Sübhaneke febela = seni tesbih (ve tenzih) ederim, evet (Sen ölüleri tekrar diriltmeye kaadirsin)\" derdi. Bunu kendisine sordular, \"Ben bunu Resulullah (Sallallahu aleyhi ve Sellem)'den işittim\" diye cevab verdi. Ebu Davud dedi ki: Ahmed (b. Hanbel): Farz (namazlarda, Kur'an'daki (dualar)la dua etmek benim hoşuma gider\" dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 494
+      }
+    }
+  ]
 }

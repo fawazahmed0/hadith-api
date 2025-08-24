@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2643,
-			"arabicnumber": 2643,
-			"text": "Usame b. Zeyd'den demiştir ki: \"Rasûlullah (s.a.v.) bizi bir seriyye olarak el-Hurakat (denilen kabileler) üzerine gönderdi. Onlar (bizim kendilerine yaklaşmakta olduğumuzu, bizim kendilerine saldırıya geçeceğimizi) hissederek kaçtılar (bunlardan) bir adam'a yetiştik. Biz üzerine çullanınca adam, \"Lâ ilahe illallah\" deyiverdi. Biz ona, öldürünceye kadar (kılıçlarımızla) vurduk. Sonra bunu Nebi (s.a.v.)'e anlattım. \"Kıyamet gününde (bu adam'ın söylediği) lâ ilahe illallah (kelimesi) karşısında senin için (yardımcı olabilecek) kim vardır?\" buyurdu. Ben de: Ey Allah'ın Rasûlü o bunu ancak silah korkusuyla söyledi, dedim. \"Bari onun kalbini yarsaydın da (kalbinin) bu sözü korkudan dolayı söyleyip söylemediğini (iyice bir) bilseydin. (Yarın) kıyamet gününde \"lâ ilahe illallah\" (sözü) karşısında senin için (yardımcı olabilecek) kim vardır?\" buyurdu. Bu sözü (tekrar tekrar) söylemeye o kadar devam etti ki (daha önce) müslüman olmayıp ta o gün müslümanlığa (yeni) girmiş olmamı arzu ettim",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (6872) Sahih Muslim (96)"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 167
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2643,
+      "arabicnumber": 2643,
+      "text": "Usame b. Zeyd'den demiştir ki: \"Rasûlullah (s.a.v.) bizi bir seriyye olarak el-Hurakat (denilen kabileler) üzerine gönderdi. Onlar (bizim kendilerine yaklaşmakta olduğumuzu, bizim kendilerine saldırıya geçeceğimizi) hissederek kaçtılar (bunlardan) bir adam'a yetiştik. Biz üzerine çullanınca adam, \"Lâ ilahe illallah\" deyiverdi. Biz ona, öldürünceye kadar (kılıçlarımızla) vurduk. Sonra bunu Nebi (s.a.v.)'e anlattım. \"Kıyamet gününde (bu adam'ın söylediği) lâ ilahe illallah (kelimesi) karşısında senin için (yardımcı olabilecek) kim vardır?\" buyurdu. Ben de: Ey Allah'ın Rasûlü o bunu ancak silah korkusuyla söyledi, dedim. \"Bari onun kalbini yarsaydın da (kalbinin) bu sözü korkudan dolayı söyleyip söylemediğini (iyice bir) bilseydin. (Yarın) kıyamet gününde \"lâ ilahe illallah\" (sözü) karşısında senin için (yardımcı olabilecek) kim vardır?\" buyurdu. Bu sözü (tekrar tekrar) söylemeye o kadar devam etti ki (daha önce) müslüman olmayıp ta o gün müslümanlığa (yeni) girmiş olmamı arzu ettim",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6872) Sahih Muslim (96)"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 167
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2019,
-			"arabicnumber": 2019,
-			"text": "Aişe (r.anhâ)'dan; demiştir ki: Ben Resûl-i Ekrem'e hitaben: Ya Resûlullah, biz Minâ'da seni güneşten koruyacak bir ev yahut bir bina yapalım mi?\" dedim de (bana); \"Hayır, orası önce gelenin devesini çökertme yeridir\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 299
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2019,
+      "arabicnumber": 2019,
+      "text": "Aişe (r.anhâ)'dan; demiştir ki: Ben Resûl-i Ekrem'e hitaben: Ya Resûlullah, biz Minâ'da seni güneşten koruyacak bir ev yahut bir bina yapalım mi?\" dedim de (bana); \"Hayır, orası önce gelenin devesini çökertme yeridir\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 299
+      }
+    }
+  ]
 }

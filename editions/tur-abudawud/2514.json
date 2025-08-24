@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2514,
-			"arabicnumber": 2514,
-			"text": "Ebu Ali Sümame b. Şüfeyyi'l-Hemdanî, Ukbe b. Amir el-Cühenî'yi şöyle derken işitmiş. Ben Rasûlullah (s.a.v.) minber üzerinde: \"Onlara karşı gücünüz yettiği kadar kuvvet hazırlayın...\"[Enfâl 60] (ayeti kerimesini okuduktan sonra) Dikkat!; kuvvet atmaktır. Dikkat! kuvvet atmaktır. Dikkat! kuvvet atmaktır!\" derken işittim",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1917)"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2514,
+      "arabicnumber": 2514,
+      "text": "Ebu Ali Sümame b. Şüfeyyi'l-Hemdanî, Ukbe b. Amir el-Cühenî'yi şöyle derken işitmiş. Ben Rasûlullah (s.a.v.) minber üzerinde: \"Onlara karşı gücünüz yettiği kadar kuvvet hazırlayın...\"[Enfâl 60] (ayeti kerimesini okuduktan sonra) Dikkat!; kuvvet atmaktır. Dikkat! kuvvet atmaktır. Dikkat! kuvvet atmaktır!\" derken işittim",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1917)"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 38
+      }
+    }
+  ]
 }

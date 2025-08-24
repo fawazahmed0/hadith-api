@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 583,
-			"arabicnumber": 583,
-			"text": "İbn Muaz babası vasıtasıyla Şu'be'den bu (bir önceki (582.)) hadisi(n aynısını) rivayet etmiştir. (Ancak Muaz el-Anberî) bu rivayette (şöyle) demiştir: \"İdaresi altındaki yerde bulunan kimseye her hangi bir kimse imam olamaz\". Ebu Davud dedi ki; Yahya el-Kattan da (Ebu'l-Velîd'in Şu'be'den) rivayet ettiği gibi \"Okumada en kıdemlileri (imam olur)\" ziya­desiyle rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 193
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 583,
+      "arabicnumber": 583,
+      "text": "İbn Muaz babası vasıtasıyla Şu'be'den bu (bir önceki (582.)) hadisi(n aynısını) rivayet etmiştir. (Ancak Muaz el-Anberî) bu rivayette (şöyle) demiştir: \"İdaresi altındaki yerde bulunan kimseye her hangi bir kimse imam olamaz\". Ebu Davud dedi ki; Yahya el-Kattan da (Ebu'l-Velîd'in Şu'be'den) rivayet ettiği gibi \"Okumada en kıdemlileri (imam olur)\" ziya­desiyle rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 193
+      }
+    }
+  ]
 }

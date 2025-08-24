@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3122,
-			"arabicnumber": 3122,
-			"text": "Aişe'den demiştir ki: Zeyd b. Harise ile Ca'fer ve Abdullah öldürüldükleri zaman, Rasûlullah (s.a.v.) mescide oturdu, üzüntü(sü) yüzünden anlaşılıyordu. Bu hadisi Amre vasıtasıyla Hz. Aişe'den nakleden Yahya b. Said, rivâyetine devam ederek Hz. Zeyd, Ca'fer ve Abdullah'ın ölümü ile ilgili olayı anlattı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1305) Sahih Muslim (935)"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3122,
+      "arabicnumber": 3122,
+      "text": "Aişe'den demiştir ki: Zeyd b. Harise ile Ca'fer ve Abdullah öldürüldükleri zaman, Rasûlullah (s.a.v.) mescide oturdu, üzüntü(sü) yüzünden anlaşılıyordu. Bu hadisi Amre vasıtasıyla Hz. Aişe'den nakleden Yahya b. Said, rivâyetine devam ederek Hz. Zeyd, Ca'fer ve Abdullah'ın ölümü ile ilgili olayı anlattı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1305) Sahih Muslim (935)"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 34
+      }
+    }
+  ]
 }

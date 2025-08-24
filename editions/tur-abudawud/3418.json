@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"24": "Wages (Kitab Al-Ijarah)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 3416,
-				"hadithnumber_last": 3570,
-				"arabicnumber_first": 3416,
-				"arabicnumber_last": 3570
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3418,
-			"arabicnumber": 3418,
-			"text": "Ebû Saîd el-Hudrî (r.a.)'den, şöyle (dediği) rivayet edilmiştir: Rasûlullah (s.a.v.)'in ashabından bir grup bir sefer'e çıktı ve Arap kabilelerinden birisinin yanında konakladı. Onlardan kendilerini misafir etmelerini istedik . Kabiledekiler ise misafir etmekten kaçındılar. (O esnada) kabilenin reisini akrep .soktu. O'nun için her şeyle şifa aradılar ama hiçbir şey fayda vermiyordu. Bunlardan bazıları: Şu yanınıza konaklayan kafileye gitseniz, belki onların birinde arkadaşınıza fayda verecek bir şey vardır, dediler. Bunun üzerine birkaç kişi (kafileye gelip): Reisimizi akrep soktu; kendisi için her çareye başvurduk fakat hiçbir şey fayda vermiyor. Sizden birinizin yanında arkadaşımıza şifa verecek bir şey, yani rukye var mı? diye sordular. Kafileden bir adam (ki o Ebû Saîd'dir): Ben dua ederim ama sizden bizi misafir etmenizi istedik, fakat siz misafir etmekten kaçındınız. Onun için ben de şimdi benim için bir ücret tayin edinceye kadar dua etmiyorum, dedi. Bunun üzerine onun için bir sürü koyun kararlaştırdılar, o da hastaya gelip üzerine Fatiha sûresini okudu ve üfledi. Nihayet adam iyileşti, sanki bağından kurtulmuş (hayvan) gibi idi. (Kabile reisi) kafileye anlaştıkları ücreti verdi. Kafiledekiler; \"Sürüyü paylaşınız\" dediler. Okuyup dua eden (Ebû Saîd) ise; Rasûlullah'a gidip de meseleyi danışmadıkça yapmayınız, dedi. Onlar da Rasûlullah'a gidip hâdiseyi anlattılar. Rasûluilah (s.a.v.): \"Onun (Fâtiha'nın) bu kadar tesirli bir dua olduğunu nereden bildiniz? İyi yapmışsınız, sizinle birlikte bana da bir pay ayırınız\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (2276) Sahih Muslim (2201)"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "24": "İcare Bölümü"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 3416,
+        "hadithnumber_last": 3570,
+        "arabicnumber_first": 3416,
+        "arabicnumber_last": 3570
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3418,
+      "arabicnumber": 3418,
+      "text": "Ebû Saîd el-Hudrî (r.a.)'den, şöyle (dediği) rivayet edilmiştir: Rasûlullah (s.a.v.)'in ashabından bir grup bir sefer'e çıktı ve Arap kabilelerinden birisinin yanında konakladı. Onlardan kendilerini misafir etmelerini istedik . Kabiledekiler ise misafir etmekten kaçındılar. (O esnada) kabilenin reisini akrep .soktu. O'nun için her şeyle şifa aradılar ama hiçbir şey fayda vermiyordu. Bunlardan bazıları: Şu yanınıza konaklayan kafileye gitseniz, belki onların birinde arkadaşınıza fayda verecek bir şey vardır, dediler. Bunun üzerine birkaç kişi (kafileye gelip): Reisimizi akrep soktu; kendisi için her çareye başvurduk fakat hiçbir şey fayda vermiyor. Sizden birinizin yanında arkadaşımıza şifa verecek bir şey, yani rukye var mı? diye sordular. Kafileden bir adam (ki o Ebû Saîd'dir): Ben dua ederim ama sizden bizi misafir etmenizi istedik, fakat siz misafir etmekten kaçındınız. Onun için ben de şimdi benim için bir ücret tayin edinceye kadar dua etmiyorum, dedi. Bunun üzerine onun için bir sürü koyun kararlaştırdılar, o da hastaya gelip üzerine Fatiha sûresini okudu ve üfledi. Nihayet adam iyileşti, sanki bağından kurtulmuş (hayvan) gibi idi. (Kabile reisi) kafileye anlaştıkları ücreti verdi. Kafiledekiler; \"Sürüyü paylaşınız\" dediler. Okuyup dua eden (Ebû Saîd) ise; Rasûlullah'a gidip de meseleyi danışmadıkça yapmayınız, dedi. Onlar da Rasûlullah'a gidip hâdiseyi anlattılar. Rasûluilah (s.a.v.): \"Onun (Fâtiha'nın) bu kadar tesirli bir dua olduğunu nereden bildiniz? İyi yapmışsınız, sizinle birlikte bana da bir pay ayırınız\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2276) Sahih Muslim (2201)"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 3
+      }
+    }
+  ]
 }

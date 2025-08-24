@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2079,
-			"arabicnumber": 2079,
-			"text": "İbn Ömer (r.a.)'den rivayet olunduğuna göre, Nebi (s.a.v.): \"Köle efendisinin izni olmadan evlenirse, nikah'ı batıldır\" buyurmuştur. Beyhaki, es-Sünenü'I-kübrâ, VII, 127. Ebû Dâvûd dedi ki: \"bu hadis zayıftır, mevkuftur ve İbn Ömer (r.a.)'in sözüdür",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2079,
+      "arabicnumber": 2079,
+      "text": "İbn Ömer (r.a.)'den rivayet olunduğuna göre, Nebi (s.a.v.): \"Köle efendisinin izni olmadan evlenirse, nikah'ı batıldır\" buyurmuştur. Beyhaki, es-Sünenü'I-kübrâ, VII, 127. Ebû Dâvûd dedi ki: \"bu hadis zayıftır, mevkuftur ve İbn Ömer (r.a.)'in sözüdür",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 34
+      }
+    }
+  ]
 }

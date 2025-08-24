@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"41": "Types of Blood-Wit (Kitab Al-Diyat)"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 4494,
-				"hadithnumber_last": 4595,
-				"arabicnumber_first": 4494,
-				"arabicnumber_last": 4595
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4523,
-			"arabicnumber": 4523,
-			"text": "Beşir b. Yesâr'dan; O, Ensar'dan adının Sehl b. Ebî Has'ame olduğunu zannetiği bir adam'ın kendisine şöyle haber verdiğini söyledi: Kavminden (Sehl b. Has'ame'nin) bir gurup Hayber'e gitmişlerdi. Orada birbirlerinden ayrıldılar. Bilâhere içlerinden birisini öldürülmüş olarak buldular. Arkadaşlarını yanlarında buldukları kavme; \"Arkadaşımızı siz öldürdünüz\" dediler. Onlar: \"Onu biz öldürmedik ve öldüreni de bilmiyoruz\" dediler. Bunun üzerine Rasûlullah (s.a.v)'e gittik. Rasûlullah (s.a.v) onlara: \"Bunu kimin öldürdüğüne dâir bana beyyine getirebilir misiniz?\" dedi. Onlar: “Bizde beyyine yok\" dediler. Rasûlullah (s.a.v): \"(Yahudiler) sizin için yemin etsinler mi?\" Maktulün velileri: \"Yahudilerin yeminine razı olmayız\" dediler. Allah Rasûlü, maktulün kanını heder etmeyi hoş görmedi ve sadaka (zekât) develerinden yüz tanesi ile onun diyetini verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (6898) Sahih Muslim (1669)"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "41": "Diyetler Bahsi"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 4494,
+        "hadithnumber_last": 4595,
+        "arabicnumber_first": 4494,
+        "arabicnumber_last": 4595
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4523,
+      "arabicnumber": 4523,
+      "text": "Beşir b. Yesâr'dan; O, Ensar'dan adının Sehl b. Ebî Has'ame olduğunu zannetiği bir adam'ın kendisine şöyle haber verdiğini söyledi: Kavminden (Sehl b. Has'ame'nin) bir gurup Hayber'e gitmişlerdi. Orada birbirlerinden ayrıldılar. Bilâhere içlerinden birisini öldürülmüş olarak buldular. Arkadaşlarını yanlarında buldukları kavme; \"Arkadaşımızı siz öldürdünüz\" dediler. Onlar: \"Onu biz öldürmedik ve öldüreni de bilmiyoruz\" dediler. Bunun üzerine Rasûlullah (s.a.v)'e gittik. Rasûlullah (s.a.v) onlara: \"Bunu kimin öldürdüğüne dâir bana beyyine getirebilir misiniz?\" dedi. Onlar: “Bizde beyyine yok\" dediler. Rasûlullah (s.a.v): \"(Yahudiler) sizin için yemin etsinler mi?\" Maktulün velileri: \"Yahudilerin yeminine razı olmayız\" dediler. Allah Rasûlü, maktulün kanını heder etmeyi hoş görmedi ve sadaka (zekât) develerinden yüz tanesi ile onun diyetini verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6898) Sahih Muslim (1669)"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 30
+      }
+    }
+  ]
 }

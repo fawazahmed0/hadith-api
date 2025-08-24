@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4422,
-			"arabicnumber": 4422,
-			"text": "Câbir b. Semure (r.a.) şöyle dedi: Mâiz b. Mâlik'i,Rasulullah (s.a.v.)'e getirildiği zaman gördüm. Kısa boylu, dolgun (iri kaslı) bir adamdı. Üzerinde gömleği yoktu.Zinâ ettiğine dair kendi aleyhine dört kez şahitlik etti. Rasulullah (s.a.v.)' kendisine : \"Herhalde sen onu öptün\" dedi. Mâiz ; “Hayır, Vallahi O alçak zina etti \" dedi.Bunun üzerine Rasulullah onu recmedip (recmettirip) halka hitaben şöyle dedi: \"Dikkat edin !.. Biz Allah azze ve celle yolunda her savaşa gidişimizde, teke melemesi gibi meleyen birisi arkada kalır. Kadınlardan birisine az bir süt verir (ve O kadınla zina eder). Dikkat edin, Eğer Allah onlardan birisini elime düşürürse onu mutlak cezalandırırım.\" Diğer Tahric edenler: Müslim, Hudûd; Dârimi, hudûd; Ahmed b. Hanbel V, 86,87,102,103. İzah 4434 te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1692)"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 72
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4422,
+      "arabicnumber": 4422,
+      "text": "Câbir b. Semure (r.a.) şöyle dedi: Mâiz b. Mâlik'i,Rasulullah (s.a.v.)'e getirildiği zaman gördüm. Kısa boylu, dolgun (iri kaslı) bir adamdı. Üzerinde gömleği yoktu.Zinâ ettiğine dair kendi aleyhine dört kez şahitlik etti. Rasulullah (s.a.v.)' kendisine : \"Herhalde sen onu öptün\" dedi. Mâiz ; “Hayır, Vallahi O alçak zina etti \" dedi.Bunun üzerine Rasulullah onu recmedip (recmettirip) halka hitaben şöyle dedi: \"Dikkat edin !.. Biz Allah azze ve celle yolunda her savaşa gidişimizde, teke melemesi gibi meleyen birisi arkada kalır. Kadınlardan birisine az bir süt verir (ve O kadınla zina eder). Dikkat edin, Eğer Allah onlardan birisini elime düşürürse onu mutlak cezalandırırım.\" Diğer Tahric edenler: Müslim, Hudûd; Dârimi, hudûd; Ahmed b. Hanbel V, 86,87,102,103. İzah 4434 te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1692)"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 72
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"17": "Game (Kitab Al-Said)"
-		},
-		"section_detail": {
-			"17": {
-				"hadithnumber_first": 2844,
-				"hadithnumber_last": 2861,
-				"arabicnumber_first": 2844,
-				"arabicnumber_last": 2861
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2845,
-			"arabicnumber": 2845,
-			"text": "Abdullah b. Muğaffel'den demiştir ki:Resûlullah (S.A.V.): \"Eğer köpekler (yeryüzünde Allah'ı tesbih eden) topluluklardan bir topluluk olmasaydı, hemen onları öldürmeyi emrederdim. Artık siz onlardan tamamen siyah olanı öldürünüz.\" Buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 17,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "17": "Av Bölümü"
+    },
+    "section_detail": {
+      "17": {
+        "hadithnumber_first": 2844,
+        "hadithnumber_last": 2861,
+        "arabicnumber_first": 2844,
+        "arabicnumber_last": 2861
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2845,
+      "arabicnumber": 2845,
+      "text": "Abdullah b. Muğaffel'den demiştir ki:Resûlullah (S.A.V.): \"Eğer köpekler (yeryüzünde Allah'ı tesbih eden) topluluklardan bir topluluk olmasaydı, hemen onları öldürmeyi emrederdim. Artık siz onlardan tamamen siyah olanı öldürünüz.\" Buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 17,
+        "hadith": 2
+      }
+    }
+  ]
 }

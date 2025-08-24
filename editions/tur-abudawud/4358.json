@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4358,
-			"arabicnumber": 4358,
-			"text": "İbn Abbas (r.a.) şöyle demiştir: Abdullah b. Sa'd b. Ebi Şerh, Rasulullah (s.a.v.)'e (vahiy) kâtiplik (i) yapardı. Şeytan onu saptırdı. (İslamdan çıkıp) kafirlere iltihak etti. Bunun üzerine Rasulullah (s.a.v.) onun Fetih günü öldürülmesini emretti. (Ancak) Osman b. Affan (r.a) onun için eman istedi. Rasulullah {s.a.v.) de eman verdi. Tahric edenler: Nesai, tahrim",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Isnaad"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4358,
+      "arabicnumber": 4358,
+      "text": "İbn Abbas (r.a.) şöyle demiştir: Abdullah b. Sa'd b. Ebi Şerh, Rasulullah (s.a.v.)'e (vahiy) kâtiplik (i) yapardı. Şeytan onu saptırdı. (İslamdan çıkıp) kafirlere iltihak etti. Bunun üzerine Rasulullah (s.a.v.) onun Fetih günü öldürülmesini emretti. (Ancak) Osman b. Affan (r.a) onun için eman istedi. Rasulullah {s.a.v.) de eman verdi. Tahric edenler: Nesai, tahrim",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 8
+      }
+    }
+  ]
 }

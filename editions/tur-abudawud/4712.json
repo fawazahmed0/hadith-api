@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4712,
-			"arabicnumber": 4712,
-			"text": "Aişe (r.a.)'den (rivayet edilmiştir): Dedi ki: Ben (Hz. Peygambere): \"Ey Allah'ın rasulü mü'minlerin çocukları (nın âhiretteki durumu nedir; onlar cennetlik midirler yoksa cehennemlik midirler)? diye sordum da: \"Onlar babalarındandır\" buyurdu. \"Ey Allah'ın rasulü amelsiz olarak mı (babalarıyla birlikte cennete ya da cehenneme gidecekler)?\" dedim. \"Allah onların (dünyada yaşadıkları takdirde) nasıl amel edeceklerini en iyi bilendir\" buyurdu. Bunun üzerine: \"Ey Allah'ın rasulü, müşrik çocuklarının âhiretteki durumu nedir)?\" dedim. \"Onlar babalarındandır\" cevabını verdi. \"Amelsiz oldukları halde mi?\" dedim. \"Allah onların (dünyada yaşadıkları takdirde) nasıl amel edeceklerini en iyi bilendir\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 117
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4712,
+      "arabicnumber": 4712,
+      "text": "Aişe (r.a.)'den (rivayet edilmiştir): Dedi ki: Ben (Hz. Peygambere): \"Ey Allah'ın rasulü mü'minlerin çocukları (nın âhiretteki durumu nedir; onlar cennetlik midirler yoksa cehennemlik midirler)? diye sordum da: \"Onlar babalarındandır\" buyurdu. \"Ey Allah'ın rasulü amelsiz olarak mı (babalarıyla birlikte cennete ya da cehenneme gidecekler)?\" dedim. \"Allah onların (dünyada yaşadıkları takdirde) nasıl amel edeceklerini en iyi bilendir\" buyurdu. Bunun üzerine: \"Ey Allah'ın rasulü, müşrik çocuklarının âhiretteki durumu nedir)?\" dedim. \"Onlar babalarındandır\" cevabını verdi. \"Amelsiz oldukları halde mi?\" dedim. \"Allah onların (dünyada yaşadıkları takdirde) nasıl amel edeceklerini en iyi bilendir\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 117
+      }
+    }
+  ]
 }

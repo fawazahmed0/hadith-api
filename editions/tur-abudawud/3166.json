@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3166,
-			"arabicnumber": 3166,
-			"text": "Malik b. Hübeyre'den demiştir ki: Rasûlullah (s.a.v.): \"Üzerine müslümanlardan (oluşan) üç saff (lık bir cemaatin) namaz kıldığı bir müslüman ölüye (bu namaz Allah'ın cennet ve mağfiretini) vacib kılar\" buyurdu. (Ravi Mersed b. Abdullah el-Yezenî rivayetine devamla) dedi ki; Mâlik (b. Hubeyre) cenaze için (namaz kılmaya gelen) halkı az bulduğu zaman -bu hadisten dolayı- onları üç saf'a ayırırdı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 78
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3166,
+      "arabicnumber": 3166,
+      "text": "Malik b. Hübeyre'den demiştir ki: Rasûlullah (s.a.v.): \"Üzerine müslümanlardan (oluşan) üç saff (lık bir cemaatin) namaz kıldığı bir müslüman ölüye (bu namaz Allah'ın cennet ve mağfiretini) vacib kılar\" buyurdu. (Ravi Mersed b. Abdullah el-Yezenî rivayetine devamla) dedi ki; Mâlik (b. Hubeyre) cenaze için (namaz kılmaya gelen) halkı az bulduğu zaman -bu hadisten dolayı- onları üç saf'a ayırırdı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 78
+      }
+    }
+  ]
 }

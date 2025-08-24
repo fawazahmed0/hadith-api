@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"4": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 1198,
-				"hadithnumber_last": 1249,
-				"arabicnumber_first": 1198,
-				"arabicnumber_last": 1249
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1229,
-			"arabicnumber": 1229,
-			"text": "İmrân b. Husayn'dan; demiştir ki: Ben Resûlullah (s.a.v.) ile (pek çok) gazvelerde bulundum. (Mekke'nin) fethinde onunla beraberdim. Mekke'de on sekiz gece kaldı. Namaz(Iar)ı ikişer rekat kılardı ve (arkasmdakilere): \"Ey Mekkeliler namaz(lar)ı dörder (rekat olarak) kılınız. Biz (Medineliler) yolcuyuz\" buyururdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 4,
-				"hadith": 32
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "4": "Yolculuk Namazı Bölümü"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 1198,
+        "hadithnumber_last": 1249,
+        "arabicnumber_first": 1198,
+        "arabicnumber_last": 1249
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1229,
+      "arabicnumber": 1229,
+      "text": "İmrân b. Husayn'dan; demiştir ki: Ben Resûlullah (s.a.v.) ile (pek çok) gazvelerde bulundum. (Mekke'nin) fethinde onunla beraberdim. Mekke'de on sekiz gece kaldı. Namaz(Iar)ı ikişer rekat kılardı ve (arkasmdakilere): \"Ey Mekkeliler namaz(lar)ı dörder (rekat olarak) kılınız. Biz (Medineliler) yolcuyuz\" buyururdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 4,
+        "hadith": 32
+      }
+    }
+  ]
 }

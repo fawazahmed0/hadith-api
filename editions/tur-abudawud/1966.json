@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1966,
-			"arabicnumber": 1966,
-			"text": "Süleyman b. Amr'ın rivayetine göre annesi demiştir ki: Ben Resûlullah (s.a.v.)'i binitli olduğu halde her (attığı) çakıl taşları ile birlikte tekbir getirerek cemreleri -vadinin içerisinden- atarken gördüm. Arkasında da Hz. Peygamberi koruyan bir adam vardı, bu adamın kim olduğunu sordum. el-FadI b. el-Abbâs'dır, dediler. Halk sıkışıklık meydana getiriyordu. Bunun üzerine Peygamber (s.a.v.) (şöyle) buyurdu: \"Ey insanlar sakın taşları atarken kiminiz, kiminizi öldürmesin. (Öyleyse) fiske taşları gibi (küçük taşlar) atınız",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 246
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1966,
+      "arabicnumber": 1966,
+      "text": "Süleyman b. Amr'ın rivayetine göre annesi demiştir ki: Ben Resûlullah (s.a.v.)'i binitli olduğu halde her (attığı) çakıl taşları ile birlikte tekbir getirerek cemreleri -vadinin içerisinden- atarken gördüm. Arkasında da Hz. Peygamberi koruyan bir adam vardı, bu adamın kim olduğunu sordum. el-FadI b. el-Abbâs'dır, dediler. Halk sıkışıklık meydana getiriyordu. Bunun üzerine Peygamber (s.a.v.) (şöyle) buyurdu: \"Ey insanlar sakın taşları atarken kiminiz, kiminizi öldürmesin. (Öyleyse) fiske taşları gibi (küçük taşlar) atınız",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 246
+      }
+    }
+  ]
 }

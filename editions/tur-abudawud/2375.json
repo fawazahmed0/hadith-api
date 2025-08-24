@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"14": "Fasting (Kitab Al-Siyam)"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2313,
-				"hadithnumber_last": 2476,
-				"arabicnumber_first": 2313,
-				"arabicnumber_last": 2476
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2375,
-			"arabicnumber": 2375,
-			"text": "Enes (b. Mâlik r.a.)' şöyle demiştir: Biz (sahâbîler) oruçlu iken kan aldırmayı, sadece meşakkate düşmemek için (meşakkatten korkarak) terkederdik",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "14": "Oruç Bölümü"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2313,
+        "hadithnumber_last": 2476,
+        "arabicnumber_first": 2313,
+        "arabicnumber_last": 2476
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2375,
+      "arabicnumber": 2375,
+      "text": "Enes (b. Mâlik r.a.)' şöyle demiştir: Biz (sahâbîler) oruçlu iken kan aldırmayı, sadece meşakkate düşmemek için (meşakkatten korkarak) terkederdik",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 63
+      }
+    }
+  ]
 }

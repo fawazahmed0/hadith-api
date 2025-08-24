@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 297,
-			"arabicnumber": 297,
-			"text": "Adiy bin Sabit, babası tarikiyla dedesinden Nebi (Sallallahu aleyhi ve Sellem)'in müstehaza hakkında şöyle buyurduğunu rivayet etmiştir: (Müstehaza hastalanmadan evvelki) hayız günlerinde namazı terk eder, sonra (hayız günleri bitince) ğusleder ve namazını kılar. Her namaz da da abdest alması lazımdır. Ebu Davud dedi ki: (Ravi)i Osman \"Oruç tutar ve namaz kılar\", ibaresini ilave etti. Diğer tahric: Tirmizi, tahare; Dârimi, vudu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 297
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 297,
+      "arabicnumber": 297,
+      "text": "Adiy bin Sabit, babası tarikiyla dedesinden Nebi (Sallallahu aleyhi ve Sellem)'in müstehaza hakkında şöyle buyurduğunu rivayet etmiştir: (Müstehaza hastalanmadan evvelki) hayız günlerinde namazı terk eder, sonra (hayız günleri bitince) ğusleder ve namazını kılar. Her namaz da da abdest alması lazımdır. Ebu Davud dedi ki: (Ravi)i Osman \"Oruç tutar ve namaz kılar\", ibaresini ilave etti. Diğer tahric: Tirmizi, tahare; Dârimi, vudu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 297
+      }
+    }
+  ]
 }

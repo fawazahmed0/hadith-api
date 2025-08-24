@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 2928,
-				"hadithnumber_last": 3088,
-				"arabicnumber_first": 2928,
-				"arabicnumber_last": 3088
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3054,
-			"arabicnumber": 3054,
-			"text": "Muhammed b. Kesir dedi ki: Süfyan'a şu (bir önceki 3053. ) hadis'in tefsîri soruldu da (bir zımmî) \"müslüman olunca o'na cizye (vermesi) gerekmez\" cevabını verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Maqtu"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih Maqtu"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 127
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "20": "Kitabü'l Harac-İmare ve Fey"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 2928,
+        "hadithnumber_last": 3088,
+        "arabicnumber_first": 2928,
+        "arabicnumber_last": 3088
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3054,
+      "arabicnumber": 3054,
+      "text": "Muhammed b. Kesir dedi ki: Süfyan'a şu (bir önceki 3053. ) hadis'in tefsîri soruldu da (bir zımmî) \"müslüman olunca o'na cizye (vermesi) gerekmez\" cevabını verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 127
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1901,
-			"arabicnumber": 1901,
-			"text": "Urve b. ez-Zübeyr'den; demiştir ki: Ben küçük yaşta bir çocuk iken Nebi (S.A.V.)'in ailesi Hz. Âişe'ye; Aziz ve celil olan Allah'ın, \"Safa ile Merve, Allah'ın nişanlarındandır. Kim evi (Kabe'yi) hacceder ya da umre yaparsa ikisi arasında sa'y etmesinde kendisine bir günah yoktur.\" sözü hakkında görüşün nedir? Ben bugün bir kimsenin Safa ile Merve arasında sa'yetmemesinde bir sakınca görmüyorum\", dedim. Âişe (r.anhâ) da bana; Hayır (mesele) senin dediğin gibi olsaydı (âyet); \"O kimseye Safa ile merve arasında sa'y etmemekte bir sakınca yoktur\" şeklinde inerdi. Bu âyet-i kerime ensar(dan bazı kimseler) hakkında nazil olmuştur. Bunlar (câhiliyet devrinde ihrama girerlerken) Kudeyd'in karşısında bulunan Menât için telbiye getirirlerdi ve (Menât'a saygılarından dolayı) Safa ile Merve arasında sa'y etmekten çekinirlerdi. İslâm gelince bunu Resûlullah (S.A.V.)'e sordular bunun üzerine: \"Azîz ve celîl olan Allah; \"Safa ile Merve Allah'ın nişânlarındandır\" (âyet-i kerimesini) indirdi\" diye cevap verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1790) Sahih Muslim (1277)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 181
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1901,
+      "arabicnumber": 1901,
+      "text": "Urve b. ez-Zübeyr'den; demiştir ki: Ben küçük yaşta bir çocuk iken Nebi (S.A.V.)'in ailesi Hz. Âişe'ye; Aziz ve celil olan Allah'ın, \"Safa ile Merve, Allah'ın nişanlarındandır. Kim evi (Kabe'yi) hacceder ya da umre yaparsa ikisi arasında sa'y etmesinde kendisine bir günah yoktur.\" sözü hakkında görüşün nedir? Ben bugün bir kimsenin Safa ile Merve arasında sa'yetmemesinde bir sakınca görmüyorum\", dedim. Âişe (r.anhâ) da bana; Hayır (mesele) senin dediğin gibi olsaydı (âyet); \"O kimseye Safa ile merve arasında sa'y etmemekte bir sakınca yoktur\" şeklinde inerdi. Bu âyet-i kerime ensar(dan bazı kimseler) hakkında nazil olmuştur. Bunlar (câhiliyet devrinde ihrama girerlerken) Kudeyd'in karşısında bulunan Menât için telbiye getirirlerdi ve (Menât'a saygılarından dolayı) Safa ile Merve arasında sa'y etmekten çekinirlerdi. İslâm gelince bunu Resûlullah (S.A.V.)'e sordular bunun üzerine: \"Azîz ve celîl olan Allah; \"Safa ile Merve Allah'ın nişânlarındandır\" (âyet-i kerimesini) indirdi\" diye cevap verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1790) Sahih Muslim (1277)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 181
+      }
+    }
+  ]
 }

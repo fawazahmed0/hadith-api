@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3214,
-			"arabicnumber": 3214,
-			"text": "Ali (R.A.)'dan demiştir ki: (Babam Ebû Talib ölünce) Nebi (s.a.v.)'e (vardım ve): Senin dalalette olan amcan öldü, dedim. \"Git baba'nı kabr'e koy! Sonra yanıma gelinceye kadar (kimse ye bununla ilgili) bir söz söyleme\" buyurdu. Bunun üzerine gidip o'nu kabre koydum ve (Hz. Nebi'in) yanına geldim. Bana yıkanmamı emretti. Ben de yıkandım. Bana dua etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 126
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3214,
+      "arabicnumber": 3214,
+      "text": "Ali (R.A.)'dan demiştir ki: (Babam Ebû Talib ölünce) Nebi (s.a.v.)'e (vardım ve): Senin dalalette olan amcan öldü, dedim. \"Git baba'nı kabr'e koy! Sonra yanıma gelinceye kadar (kimse ye bununla ilgili) bir söz söyleme\" buyurdu. Bunun üzerine gidip o'nu kabre koydum ve (Hz. Nebi'in) yanına geldim. Bana yıkanmamı emretti. Ben de yıkandım. Bana dua etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 126
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"37": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4240,
-				"hadithnumber_last": 4278,
-				"arabicnumber_first": 4240,
-				"arabicnumber_last": 4278
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4272,
-			"arabicnumber": 4272,
-			"text": "Harice b. Zeyd şöyle dedi: Zeyd b. Sabit'i, şu bulunduğum yerde şöyle derken işittim: Kim bir mu'min'i kasden öldürürse cezası, içinde temelli kalacağı cehennemdir\"[Nisa 93] âyet-i kerimesi Fûrkan süresindeki \"Onlar, Allah'ın yanında başka İlah tutup o'na yalvarmazlar, Allah'ın haram kıldığı can'a haksız yere kıymazlar.\"[Fûrkan, 68] mânâsına gelen âyetten altı ay sonra indirildi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munkar"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "37": "Fiten ve Melahim Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4240,
+        "hadithnumber_last": 4278,
+        "arabicnumber_first": 4240,
+        "arabicnumber_last": 4278
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4272,
+      "arabicnumber": 4272,
+      "text": "Harice b. Zeyd şöyle dedi: Zeyd b. Sabit'i, şu bulunduğum yerde şöyle derken işittim: Kim bir mu'min'i kasden öldürürse cezası, içinde temelli kalacağı cehennemdir\"[Nisa 93] âyet-i kerimesi Fûrkan süresindeki \"Onlar, Allah'ın yanında başka İlah tutup o'na yalvarmazlar, Allah'ın haram kıldığı can'a haksız yere kıymazlar.\"[Fûrkan, 68] mânâsına gelen âyetten altı ay sonra indirildi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 33
+      }
+    }
+  ]
 }

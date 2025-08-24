@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2550,
-			"arabicnumber": 2550,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Bir adam yolda giderken çok susamıştı. Bir kuyu buldu. Ona inip, su içti, sonra çıktı. Bir de ne görsün, (dilini çıkarmış) soluyan, susuzluktan ıslak toprağı yalayan bir köpek. Adam (kendi kendine); \"Gerçekten bana gelen susuzluğun aynısı bu köpeğe de gelmiş\" de­yip kuyuya indi ve mestini suyla doldurdu. Mesti ağzıyla tutup (kuyudan) çıktı, köpeği suladı. Allah onun bu iyiliğini kabul etti ve onu bağışladı. (Orada bulunan ashab); Ey Allah'ın Rasûlü, hayvanlarda olan davranışlarımızdan dolayı bizim için sevap var mıdır? dediler. (Nebi (s.a.v.)de); \"Her karaciğeri yaş olan (hayvan) da bizim için sevap vardır.\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (2363) Sahih Muslim (2244)"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 74
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2550,
+      "arabicnumber": 2550,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Bir adam yolda giderken çok susamıştı. Bir kuyu buldu. Ona inip, su içti, sonra çıktı. Bir de ne görsün, (dilini çıkarmış) soluyan, susuzluktan ıslak toprağı yalayan bir köpek. Adam (kendi kendine); \"Gerçekten bana gelen susuzluğun aynısı bu köpeğe de gelmiş\" de­yip kuyuya indi ve mestini suyla doldurdu. Mesti ağzıyla tutup (kuyudan) çıktı, köpeği suladı. Allah onun bu iyiliğini kabul etti ve onu bağışladı. (Orada bulunan ashab); Ey Allah'ın Rasûlü, hayvanlarda olan davranışlarımızdan dolayı bizim için sevap var mıdır? dediler. (Nebi (s.a.v.)de); \"Her karaciğeri yaş olan (hayvan) da bizim için sevap vardır.\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2363) Sahih Muslim (2244)"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 74
+      }
+    }
+  ]
 }

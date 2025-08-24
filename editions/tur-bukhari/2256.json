@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"35": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 2239,
-				"hadithnumber_last": 2256,
-				"arabicnumber_first": 2239,
-				"arabicnumber_last": 2256
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2256,
-			"arabicnumber": 2256,
-			"text": "Abdullah İbn Ömer r.a. şöyle anlatır: İnsanlar, devenin karnındakxi deveden doğacak yavrunun alım-satımını yapıyordu. Resulullah Sallallahu Aleyhi ve Sellem bunu yasakladı",
-			"grades": [],
-			"reference": {
-				"book": 35,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "35": "Selem Akdi"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 2239,
+        "hadithnumber_last": 2256,
+        "arabicnumber_first": 2239,
+        "arabicnumber_last": 2256
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2256,
+      "arabicnumber": 2256,
+      "text": "Abdullah İbn Ömer r.a. şöyle anlatır: İnsanlar, devenin karnındakxi deveden doğacak yavrunun alım-satımını yapıyordu. Resulullah Sallallahu Aleyhi ve Sellem bunu yasakladı",
+      "grades": [],
+      "reference": {
+        "book": 35,
+        "hadith": 16
+      }
+    }
+  ]
 }

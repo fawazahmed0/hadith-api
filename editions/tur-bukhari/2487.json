@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"47": "Partnership"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2483,
-				"hadithnumber_last": 2507,
-				"arabicnumber_first": 2483,
-				"arabicnumber_last": 2507
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2487,
-			"arabicnumber": 2487,
-			"text": "Sümame İbn Abdullah İbn Enes'ten rivayet edilmiştir: Ebu Bekir r.a. Hz. Enes'e Allah Resulü'nün belirlemiş olduğu zekat farızasını yazdıktan sonra \"Malı ortak olanların mallarından da zekat al. Sonra onlar eşit olarak kendi aralarında paylaşırlar\" demiştir",
-			"grades": [],
-			"reference": {
-				"book": 47,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "47": "Ortaklık"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2483,
+        "hadithnumber_last": 2507,
+        "arabicnumber_first": 2483,
+        "arabicnumber_last": 2507
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2487,
+      "arabicnumber": 2487,
+      "text": "Sümame İbn Abdullah İbn Enes'ten rivayet edilmiştir: Ebu Bekir r.a. Hz. Enes'e Allah Resulü'nün belirlemiş olduğu zekat farızasını yazdıktan sonra \"Malı ortak olanların mallarından da zekat al. Sonra onlar eşit olarak kendi aralarında paylaşırlar\" demiştir",
+      "grades": [],
+      "reference": {
+        "book": 47,
+        "hadith": 5
+      }
+    }
+  ]
 }

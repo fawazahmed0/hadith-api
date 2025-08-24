@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"8": "Prayers (Salat)"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 349,
-				"hadithnumber_last": 520,
-				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 360,
-			"arabicnumber": 360,
-			"text": "Yahya b. Ebî Kesîr, İkrime'den şöyle nakletmiştir: Ebu Hureyre'nin şöyle dediğini işittim: Şehadet ederim ki, Rasulullah (Sallallahu aleyhi ve Sellem)'in şu şekilde buyurduğunu duydum: 'Kim bir elbise ile namaz kılarsa, elbisenin iki ucunu birbirinin üstüne çaprazlama atsın",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "8": "Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 349,
+        "hadithnumber_last": 520,
+        "arabicnumber_first": 349,
+        "arabicnumber_last": 520
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 360,
+      "arabicnumber": 360,
+      "text": "Yahya b. Ebî Kesîr, İkrime'den şöyle nakletmiştir: Ebu Hureyre'nin şöyle dediğini işittim: Şehadet ederim ki, Rasulullah (Sallallahu aleyhi ve Sellem)'in şu şekilde buyurduğunu duydum: 'Kim bir elbise ile namaz kılarsa, elbisenin iki ucunu birbirinin üstüne çaprazlama atsın",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 12
+      }
+    }
+  ]
 }

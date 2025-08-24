@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"21": "Actions while Praying"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 1198,
-				"hadithnumber_last": 1223,
-				"arabicnumber_first": 1198,
-				"arabicnumber_last": 1223
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1219,
-			"arabicnumber": 1219,
-			"text": "Ebû Hureyre r.a.'den rivayet edildiğine göre namazda elleri böğre koymak yasaklandı. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 23
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "21": "Namaz İçinde Amel"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 1198,
+        "hadithnumber_last": 1223,
+        "arabicnumber_first": 1198,
+        "arabicnumber_last": 1223
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1219,
+      "arabicnumber": 1219,
+      "text": "Ebû Hureyre r.a.'den rivayet edildiğine göre namazda elleri böğre koymak yasaklandı. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 23
+      }
+    }
+  ]
 }

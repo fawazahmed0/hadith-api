@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"18": "Shortening the Prayers (At-Taqseer)"
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 1080,
-				"hadithnumber_last": 1119,
-				"arabicnumber_first": 1080,
-				"arabicnumber_last": 1119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1085,
-			"arabicnumber": 1085,
-			"text": "Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem ve ashabı Zilhicce'nin dördüncü gününün sabahında geldiler ve hac için telbiye getirdiler. Fakat Nebi Sallallahu Aleyhi ve Sellem kurbanları (hedy) bulunanlar dışındakilerin hepsinin bunu umreye çevirmesini emretti. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "18": "Namazların Kısaltılması"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 1080,
+        "hadithnumber_last": 1119,
+        "arabicnumber_first": 1080,
+        "arabicnumber_last": 1119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1085,
+      "arabicnumber": 1085,
+      "text": "Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem ve ashabı Zilhicce'nin dördüncü gününün sabahında geldiler ve hac için telbiye getirdiler. Fakat Nebi Sallallahu Aleyhi ve Sellem kurbanları (hedy) bulunanlar dışındakilerin hepsinin bunu umreye çevirmesini emretti. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 6
+      }
+    }
+  ]
 }

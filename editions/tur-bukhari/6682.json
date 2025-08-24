@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"83": "Oaths and Vows"
-		},
-		"section_detail": {
-			"83": {
-				"hadithnumber_first": 6621,
-				"hadithnumber_last": 6707,
-				"arabicnumber_first": 6621,
-				"arabicnumber_last": 6707
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6682,
-			"arabicnumber": 6682,
-			"text": "Ebu Hureyre'nin nakline göre ResuIullah Sallallahu Aleyhi ve Sellem şöyIe 'demiştir: \"Subhanallahi ve bihamdihi, subhannallahi'l-azim, dile hafif, mizanda ağır, Rahman'a sevgili iki kelimedir",
-			"grades": [],
-			"reference": {
-				"book": 83,
-				"hadith": 59
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "83": "Yeminler ve Nezirler"
+    },
+    "section_detail": {
+      "83": {
+        "hadithnumber_first": 6621,
+        "hadithnumber_last": 6707,
+        "arabicnumber_first": 6621,
+        "arabicnumber_last": 6707
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6682,
+      "arabicnumber": 6682,
+      "text": "Ebu Hureyre'nin nakline göre ResuIullah Sallallahu Aleyhi ve Sellem şöyIe 'demiştir: \"Subhanallahi ve bihamdihi, subhannallahi'l-azim, dile hafif, mizanda ağır, Rahman'a sevgili iki kelimedir",
+      "grades": [],
+      "reference": {
+        "book": 83,
+        "hadith": 59
+      }
+    }
+  ]
 }

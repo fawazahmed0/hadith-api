@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1448,
-			"arabicnumber": 1448,
-			"text": "Sümame'nin naklettiğine göre, Ebu Bekir, Enes İbn Malik'e yazdığı bir mektupta şöyle demiştir: Bir yaşını doldurmuş bir deveyi zekat olarak vermesi gereken kimsede bu deve bulunmayıp da iki yaşında bir dişi deve bulunursa, zekat olarak bu deve kabul edilir. Fakat o kişiye, ya yirmi dirhem ya da iki koyun geri verilir. Zekat mükellefinde, bir yaşında dişi deve bulunmayıp da iki yaşında bir erkek deve bulunuyorsa bu da kabul edilir. Fakat bu durumda ona geri bir şey verilmez. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1448,
+      "arabicnumber": 1448,
+      "text": "Sümame'nin naklettiğine göre, Ebu Bekir, Enes İbn Malik'e yazdığı bir mektupta şöyle demiştir: Bir yaşını doldurmuş bir deveyi zekat olarak vermesi gereken kimsede bu deve bulunmayıp da iki yaşında bir dişi deve bulunursa, zekat olarak bu deve kabul edilir. Fakat o kişiye, ya yirmi dirhem ya da iki koyun geri verilir. Zekat mükellefinde, bir yaşında dişi deve bulunmayıp da iki yaşında bir erkek deve bulunuyorsa bu da kabul edilir. Fakat bu durumda ona geri bir şey verilmez. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 51
+      }
+    }
+  ]
 }

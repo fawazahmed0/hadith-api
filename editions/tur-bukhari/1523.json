@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1523,
-			"arabicnumber": 1523,
-			"text": "İbn Abbas r.a. şöyle anlatır: \"Yemenliler hacca geldikleri zaman azık getirmezler ve \"Biz tevekkül ediyoruz derler, Mekke'ye geldikleri zaman da insanlardan dilenirlerdi. Bunun üzerine Allah Teala, \"(Ey Mu'minler) Azık edinin. Bilin ki azığın en hayırlısı takvadır\"[Bakara 197] buyurmuştur",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1523,
+      "arabicnumber": 1523,
+      "text": "İbn Abbas r.a. şöyle anlatır: \"Yemenliler hacca geldikleri zaman azık getirmezler ve \"Biz tevekkül ediyoruz derler, Mekke'ye geldikleri zaman da insanlardan dilenirlerdi. Bunun üzerine Allah Teala, \"(Ey Mu'minler) Azık edinin. Bilin ki azığın en hayırlısı takvadır\"[Bakara 197] buyurmuştur",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 11
+      }
+    }
+  ]
 }

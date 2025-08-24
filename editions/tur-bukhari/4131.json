@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4131,
-			"arabicnumber": 4131,
-			"text": "Sehl b. Ebi Hasme dedi ki: \"İmam kıbleye dönerek namaza durur. Askerlerden bir grup da onunla birlikte dururken bir diğer grup yüzleri düşmanlara dönük olarak düşmanın karşısında dururlar. Kendisiyle birlikte olanlarla bir rekat kılar. Sonra onlar kalkıp kendi kendilerine ve bulundukları yerde bir rekat kılıp, iki secde yaparlar. Daha sonra bunlar öbürlerinin yerine gider. Öbürleri gelir (imarnın arkasında dururlar.) O da onlarla bir rekat kılar. Böylelikle o iki rekat kılmış olur. Daha sonra onlar (sonra gelenler) rüku edip, iki defa secde yaparlar",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 175
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4131,
+      "arabicnumber": 4131,
+      "text": "Sehl b. Ebi Hasme dedi ki: \"İmam kıbleye dönerek namaza durur. Askerlerden bir grup da onunla birlikte dururken bir diğer grup yüzleri düşmanlara dönük olarak düşmanın karşısında dururlar. Kendisiyle birlikte olanlarla bir rekat kılar. Sonra onlar kalkıp kendi kendilerine ve bulundukları yerde bir rekat kılıp, iki secde yaparlar. Daha sonra bunlar öbürlerinin yerine gider. Öbürleri gelir (imarnın arkasında dururlar.) O da onlarla bir rekat kılar. Böylelikle o iki rekat kılmış olur. Daha sonra onlar (sonra gelenler) rüku edip, iki defa secde yaparlar",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 175
+      }
+    }
+  ]
 }

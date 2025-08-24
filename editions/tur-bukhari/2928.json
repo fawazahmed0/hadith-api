@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2928,
-			"arabicnumber": 2928,
-			"text": "Ebu Hureyre'nin naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Siz küçük / çekik gözlü, kızıl yüzlü ve ince burunlu Türklerle savaşmadıkça kıyamet kopmayacak. Onların yüzlerinin iriliği ve tombulluğu adeta üstlerine kalıp kalıp şekiller verilmiş kalkanları andırır. Ayrıca siz hayvan kürklerinden (derilerinden) ayakkabılar yapıp giyen bir topluluk ile savaşmadıkça kıyamet kopmayacaktır",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 141
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2928,
+      "arabicnumber": 2928,
+      "text": "Ebu Hureyre'nin naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Siz küçük / çekik gözlü, kızıl yüzlü ve ince burunlu Türklerle savaşmadıkça kıyamet kopmayacak. Onların yüzlerinin iriliği ve tombulluğu adeta üstlerine kalıp kalıp şekiller verilmiş kalkanları andırır. Ayrıca siz hayvan kürklerinden (derilerinden) ayakkabılar yapıp giyen bir topluluk ile savaşmadıkça kıyamet kopmayacaktır",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 141
+      }
+    }
+  ]
 }

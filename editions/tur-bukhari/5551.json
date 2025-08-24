@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"73": "Al-Adha Festival Sacrifice (Adaahi)"
-		},
-		"section_detail": {
-			"73": {
-				"hadithnumber_first": 5545,
-				"hadithnumber_last": 5574,
-				"arabicnumber_first": 5545,
-				"arabicnumber_last": 5574
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5551,
-			"arabicnumber": 5551,
-			"text": "Nafi'den, dedi ki: \"Abdullah menhar (denilen nahr yerinde) kurbanını kesereii.\" Ubeydullah da: Nebi Sallallahu Aleyhi ve Sellem'in menharını (kurbanını kestiği yeri) kastetmektedir, demiştir",
-			"grades": [],
-			"reference": {
-				"book": 73,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "73": "Udhiyeler"
+    },
+    "section_detail": {
+      "73": {
+        "hadithnumber_first": 5545,
+        "hadithnumber_last": 5574,
+        "arabicnumber_first": 5545,
+        "arabicnumber_last": 5574
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5551,
+      "arabicnumber": 5551,
+      "text": "Nafi'den, dedi ki: \"Abdullah menhar (denilen nahr yerinde) kurbanını kesereii.\" Ubeydullah da: Nebi Sallallahu Aleyhi ve Sellem'in menharını (kurbanını kestiği yeri) kastetmektedir, demiştir",
+      "grades": [],
+      "reference": {
+        "book": 73,
+        "hadith": 7
+      }
+    }
+  ]
 }

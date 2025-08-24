@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 629,
-			"arabicnumber": 629,
-			"text": "Ebu Zer' (r.a.)'den şöyle nakledilmiştir: \"Bir seferde Nebi Sallallahu Aleyhi ve Sellem ile birlikteydik. Müezzin ezan okumak istedi. Allah Resulü Sallallahu Aleyhi ve Sellem ona: 'Serinlik düşünceye kadar bekle' dedi. Bir müddet sonra müezzin tekrar ezan okumak istedi. Allah Resulü yine ona: 'Serinlik düşünceye kadar bekle' dedi. Aradan biraz zaman geçtikten sonra müezzin tek­rar ezan okumak istedi. Allah Resulü yine ona 'Serinlik düşün­ceye kadar, tepelerin gölgesi kendi yükseklikleri boyuna varıncaya kadar bekle!' dedi ve şöyle buyurdu: Zira havanın sıcak olması cehennem'in kaynamasından ileri gelir",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 629,
+      "arabicnumber": 629,
+      "text": "Ebu Zer' (r.a.)'den şöyle nakledilmiştir: \"Bir seferde Nebi Sallallahu Aleyhi ve Sellem ile birlikteydik. Müezzin ezan okumak istedi. Allah Resulü Sallallahu Aleyhi ve Sellem ona: 'Serinlik düşünceye kadar bekle' dedi. Bir müddet sonra müezzin tekrar ezan okumak istedi. Allah Resulü yine ona: 'Serinlik düşünceye kadar bekle' dedi. Aradan biraz zaman geçtikten sonra müezzin tek­rar ezan okumak istedi. Allah Resulü yine ona 'Serinlik düşün­ceye kadar, tepelerin gölgesi kendi yükseklikleri boyuna varıncaya kadar bekle!' dedi ve şöyle buyurdu: Zira havanın sıcak olması cehennem'in kaynamasından ileri gelir",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 26
+      }
+    }
+  ]
 }

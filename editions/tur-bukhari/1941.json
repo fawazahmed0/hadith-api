@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1941,
-			"arabicnumber": 1941,
-			"text": "Abdullah İbn Ebu Evfa'nın şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem ile birlikte bir yolculukta bulunuyorduk. Bu sırada Resulullah Sallallahu Aleyhi ve Sellem birisine: İnip bana suyla karıştırarak biraz sevîk hazırlar mısın?' dedi. Adam: '’Ama ey Allah'ın Resulü, güneş!'’ diye karşılık verdi. Nebi Sallallahu Aleyhi ve Sellem tekrar: İnip bana suyla karıştırarak biraz sevîk hazırlar mısın?' dedi. Adam da aynı karşılığı verdi: 'Ama ey Allah'ın Resulü, güneş!' Bunun üzerine Resu­lullah Sallallahu Aleyhi ve Sellem aynı talebini üçüncü kez iletti: inip bana suyla karıştırarak biraz sevîk hazırlar mısın?' Adam da bineğinden indi ve suyla karıştırarak sevikî hazırladı. Nebi Sallallahu Aleyhi ve Sellem bunu içtikten sonra elini (doğu tarafına) uzatarak: 'Gece karanlığının bu taraftan bastırdığını görürseniz artık oruçlunun iftar etme vakti gelmiştir' buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 48
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1941,
+      "arabicnumber": 1941,
+      "text": "Abdullah İbn Ebu Evfa'nın şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem ile birlikte bir yolculukta bulunuyorduk. Bu sırada Resulullah Sallallahu Aleyhi ve Sellem birisine: İnip bana suyla karıştırarak biraz sevîk hazırlar mısın?' dedi. Adam: '’Ama ey Allah'ın Resulü, güneş!'’ diye karşılık verdi. Nebi Sallallahu Aleyhi ve Sellem tekrar: İnip bana suyla karıştırarak biraz sevîk hazırlar mısın?' dedi. Adam da aynı karşılığı verdi: 'Ama ey Allah'ın Resulü, güneş!' Bunun üzerine Resu­lullah Sallallahu Aleyhi ve Sellem aynı talebini üçüncü kez iletti: inip bana suyla karıştırarak biraz sevîk hazırlar mısın?' Adam da bineğinden indi ve suyla karıştırarak sevikî hazırladı. Nebi Sallallahu Aleyhi ve Sellem bunu içtikten sonra elini (doğu tarafına) uzatarak: 'Gece karanlığının bu taraftan bastırdığını görürseniz artık oruçlunun iftar etme vakti gelmiştir' buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 48
+      }
+    }
+  ]
 }

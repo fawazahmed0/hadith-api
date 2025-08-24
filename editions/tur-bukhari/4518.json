@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4518,
-			"arabicnumber": 4518,
-			"text": "İmran İbn Husayn'dan şöyle dediği rivayet edilmiştir: \"Allah'ın kitabında temettu' haccı ile ilgili ayet indi. Biz de Allah Resulü ile birlikte bu şekilde haccettik. Bunu haram kılan bir ayet nazil olmadı. Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiği zaman bu hac yasaklanmamıştı. Ancak adamın biri, kendi kafasından dilediği gibi konuşuyor.\" Fethu'l-Bari Açıklaması: \"Kim hac günlerine kadar umre ile faydalanmak isterse ... ayetinin tefsıri.\" İmam Buhar! bu başlık altında İmran İbn Husayn'dan nakledilen hadise yer verdi. Bu hadis temettu' haccını konu edinir. Bu rivayetin açıklaması ile- \"adamın biri\" ifadesinden maksadın Hz. Ömer olduğu daha önce geçmişti",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 43
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4518,
+      "arabicnumber": 4518,
+      "text": "İmran İbn Husayn'dan şöyle dediği rivayet edilmiştir: \"Allah'ın kitabında temettu' haccı ile ilgili ayet indi. Biz de Allah Resulü ile birlikte bu şekilde haccettik. Bunu haram kılan bir ayet nazil olmadı. Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiği zaman bu hac yasaklanmamıştı. Ancak adamın biri, kendi kafasından dilediği gibi konuşuyor.\" Fethu'l-Bari Açıklaması: \"Kim hac günlerine kadar umre ile faydalanmak isterse ... ayetinin tefsıri.\" İmam Buhar! bu başlık altında İmran İbn Husayn'dan nakledilen hadise yer verdi. Bu hadis temettu' haccını konu edinir. Bu rivayetin açıklaması ile- \"adamın biri\" ifadesinden maksadın Hz. Ömer olduğu daha önce geçmişti",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 43
+      }
+    }
+  ]
 }

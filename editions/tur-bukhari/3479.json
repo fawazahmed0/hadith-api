@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3479,
-			"arabicnumber": 3479,
-			"text": "Ukbe, Huzeyfe'ye: Nebi Sallallahu Aleyhi ve Sellem'den dinlediğin bir hadisi bize nakletmez misin? dedi. Huzeyfe dedi ki: \"Ben onu şöyle buyururken dinledim: Bir adamın ölüm vakti yaklaşmıştı. Hayattan ümidini kesince, ailesine şu vasiyeti yaptı: Öldüğü m takdirde benim için çok miktarda odun toplayın. Sonra bir ateş yakın. Ateş etimi yiyip kemiklerime ulaşınca kemiklerim; alın, öğütün. Beni sıcak -ya da rüzgarlı- bir günde savurun. Allah onu bir araya getirip, topladı. Niye yaptın, diye sordu. O: Senden haşyetim dolayısıyla deyince, ona mağfiret etti",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 146
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3479,
+      "arabicnumber": 3479,
+      "text": "Ukbe, Huzeyfe'ye: Nebi Sallallahu Aleyhi ve Sellem'den dinlediğin bir hadisi bize nakletmez misin? dedi. Huzeyfe dedi ki: \"Ben onu şöyle buyururken dinledim: Bir adamın ölüm vakti yaklaşmıştı. Hayattan ümidini kesince, ailesine şu vasiyeti yaptı: Öldüğü m takdirde benim için çok miktarda odun toplayın. Sonra bir ateş yakın. Ateş etimi yiyip kemiklerime ulaşınca kemiklerim; alın, öğütün. Beni sıcak -ya da rüzgarlı- bir günde savurun. Allah onu bir araya getirip, topladı. Niye yaptın, diye sordu. O: Senden haşyetim dolayısıyla deyince, ona mağfiret etti",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 146
+      }
+    }
+  ]
 }

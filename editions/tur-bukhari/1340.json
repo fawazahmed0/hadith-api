@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"23": "Funerals (Al-Janaa'iz)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1237,
-				"hadithnumber_last": 1394,
-				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1340,
-			"arabicnumber": 1340,
-			"text": "İbn Abbas r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem geceleyin defnedilmiş olan bir adam'ın cenaze namazını kıldı. Nebi Sallallahu Aleyhi ve Sellem ve ashabı namaza durdular. Nebi (Sallallahu Aleyhi ve Sellem): \"Bu kimdir?\" diye sordu. Sahabe: \"Falan kişidir. Dün gece defnedildi\" dediler. Bunun üzerine onun namazını kıldılar",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 95
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "23": "Cenazeler"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1237,
+        "hadithnumber_last": 1394,
+        "arabicnumber_first": 1237,
+        "arabicnumber_last": 1394
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1340,
+      "arabicnumber": 1340,
+      "text": "İbn Abbas r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem geceleyin defnedilmiş olan bir adam'ın cenaze namazını kıldı. Nebi Sallallahu Aleyhi ve Sellem ve ashabı namaza durdular. Nebi (Sallallahu Aleyhi ve Sellem): \"Bu kimdir?\" diye sordu. Sahabe: \"Falan kişidir. Dün gece defnedildi\" dediler. Bunun üzerine onun namazını kıldılar",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 95
+      }
+    }
+  ]
 }

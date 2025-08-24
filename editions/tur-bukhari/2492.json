@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"47": "Partnership"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2483,
-				"hadithnumber_last": 2507,
-				"arabicnumber_first": 2483,
-				"arabicnumber_last": 2507
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2492,
-			"arabicnumber": 2492,
-			"text": "Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bir kimse kölesini kısmen azad ederse kendi malından köleyi özgürlüğüne kavuşturması gerekir. Malı yoksa köleye adil bir kişi tarafından değer biçilir, sonra zorlanmaksızın değerini ödeyinceye kadar çalıştırılır. \" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 47,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "47": "Ortaklık"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2483,
+        "hadithnumber_last": 2507,
+        "arabicnumber_first": 2483,
+        "arabicnumber_last": 2507
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2492,
+      "arabicnumber": 2492,
+      "text": "Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bir kimse kölesini kısmen azad ederse kendi malından köleyi özgürlüğüne kavuşturması gerekir. Malı yoksa köleye adil bir kişi tarafından değer biçilir, sonra zorlanmaksızın değerini ödeyinceye kadar çalıştırılır. \" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 47,
+        "hadith": 10
+      }
+    }
+  ]
 }

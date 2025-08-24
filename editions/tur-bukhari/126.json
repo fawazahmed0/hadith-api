@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 126,
-			"arabicnumber": 126,
-			"text": "Esved şöyle demiştir: İbnü'z-Zübeyr bana şöyle dedi: \"Aişe sana çokça gizli şeyler söylerdi. Kabe konusunda sana ne söyledi?\" Ben dedim ki: \"Bana Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söyledi: \"Ey Âişe! Kavmin küfürden daha yeni kurtulmuş olmasaydı, Kabe'yi yıkar ve ona insanların birinden girmesi, diğerinden çıkmast için iki kapı yapardım\". Bunun üzerine Abdullah İbnü'z-Zübeyr böyle yaptı. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 68
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 126,
+      "arabicnumber": 126,
+      "text": "Esved şöyle demiştir: İbnü'z-Zübeyr bana şöyle dedi: \"Aişe sana çokça gizli şeyler söylerdi. Kabe konusunda sana ne söyledi?\" Ben dedim ki: \"Bana Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söyledi: \"Ey Âişe! Kavmin küfürden daha yeni kurtulmuş olmasaydı, Kabe'yi yıkar ve ona insanların birinden girmesi, diğerinden çıkmast için iki kapı yapardım\". Bunun üzerine Abdullah İbnü'z-Zübeyr böyle yaptı. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 68
+      }
+    }
+  ]
 }

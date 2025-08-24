@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"78": "Good Manners and Form (Al-Adab)"
-		},
-		"section_detail": {
-			"78": {
-				"hadithnumber_first": 5970,
-				"hadithnumber_last": 6226,
-				"arabicnumber_first": 5970,
-				"arabicnumber_last": 6226
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6044,
-			"arabicnumber": 6044,
-			"text": "Abdullah'tan, dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem: Müslümana sövmek fasıklık, onunla kıtal etmek küfürdür, buyurmuştur.\" Bu hadisi Muhammed İbn Ca'fer de Şu'be'den rivayet hususunda ona (Süleyman İbn Harb'e) mutabaat etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 78,
-				"hadith": 74
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "78": "Edeb"
+    },
+    "section_detail": {
+      "78": {
+        "hadithnumber_first": 5970,
+        "hadithnumber_last": 6226,
+        "arabicnumber_first": 5970,
+        "arabicnumber_last": 6226
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6044,
+      "arabicnumber": 6044,
+      "text": "Abdullah'tan, dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem: Müslümana sövmek fasıklık, onunla kıtal etmek küfürdür, buyurmuştur.\" Bu hadisi Muhammed İbn Ca'fer de Şu'be'den rivayet hususunda ona (Süleyman İbn Harb'e) mutabaat etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 78,
+        "hadith": 74
+      }
+    }
+  ]
 }

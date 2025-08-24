@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"80": "Invocations"
-		},
-		"section_detail": {
-			"80": {
-				"hadithnumber_first": 6304,
-				"hadithnumber_last": 6411,
-				"arabicnumber_first": 6304,
-				"arabicnumber_last": 6411
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6396,
-			"arabicnumber": 6396,
-			"text": "Ali İbn Ebi Talib r.a. şöyle demiştir: \"Hendek savaşında Resulullah Sallallahu Aleyhi ve Sellem'in yanındaydık \"Allah onların kabirlerini ve evlerini ateşle doldursun. Güneş batana kadar ikindi namazını kıldırmadılar\". Fethu'l-Bari Açıklaması: Düşmanlardan kimin kastedildiği bir kaç hadis önce açıklanmıştı. Hesabı hızlı görmek ya bizzat hesabın kendisini hızlı görmek ya da hesabın gelişini yakın tutmak anlamına gelmektedir",
-			"grades": [],
-			"reference": {
-				"book": 80,
-				"hadith": 91
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "80": "Dualar"
+    },
+    "section_detail": {
+      "80": {
+        "hadithnumber_first": 6304,
+        "hadithnumber_last": 6411,
+        "arabicnumber_first": 6304,
+        "arabicnumber_last": 6411
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6396,
+      "arabicnumber": 6396,
+      "text": "Ali İbn Ebi Talib r.a. şöyle demiştir: \"Hendek savaşında Resulullah Sallallahu Aleyhi ve Sellem'in yanındaydık \"Allah onların kabirlerini ve evlerini ateşle doldursun. Güneş batana kadar ikindi namazını kıldırmadılar\". Fethu'l-Bari Açıklaması: Düşmanlardan kimin kastedildiği bir kaç hadis önce açıklanmıştı. Hesabı hızlı görmek ya bizzat hesabın kendisini hızlı görmek ya da hesabın gelişini yakın tutmak anlamına gelmektedir",
+      "grades": [],
+      "reference": {
+        "book": 80,
+        "hadith": 91
+      }
+    }
+  ]
 }

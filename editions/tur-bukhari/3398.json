@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3398,
-			"arabicnumber": 3398,
-			"text": "Ebu Said r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kıyamet gününde insanlar baygın düşeceklerdir. İlk ayılacak kişi ben olacağım. Bir de ne göreyim: Musa, Arş'ın ayaklarından birisini yakalamış duruyor. Bilemiyorum benden önce mi ayılmış olacak, yoksa Tur'daki baygınlığının karşılığı mı ona verilmiş olacak?",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 71
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3398,
+      "arabicnumber": 3398,
+      "text": "Ebu Said r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kıyamet gününde insanlar baygın düşeceklerdir. İlk ayılacak kişi ben olacağım. Bir de ne göreyim: Musa, Arş'ın ayaklarından birisini yakalamış duruyor. Bilemiyorum benden önce mi ayılmış olacak, yoksa Tur'daki baygınlığının karşılığı mı ona verilmiş olacak?",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 71
+      }
+    }
+  ]
 }

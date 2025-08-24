@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1532,
-			"arabicnumber": 1532,
-			"text": "Abdullah İbn Ömer r.a.'den nakledildiğine göre Resûlullah Sallallahu Aleyhi ve Sellem Zu'l-huleyfe'deki vadide devesinden İnmiş ve namaz kılmıştır. İbn Ömer de buraya geldiği zaman böyle yapardı",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 20
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1532,
+      "arabicnumber": 1532,
+      "text": "Abdullah İbn Ömer r.a.'den nakledildiğine göre Resûlullah Sallallahu Aleyhi ve Sellem Zu'l-huleyfe'deki vadide devesinden İnmiş ve namaz kılmıştır. İbn Ömer de buraya geldiği zaman böyle yapardı",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 20
+      }
+    }
+  ]
 }

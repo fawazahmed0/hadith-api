@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4183,
-			"arabicnumber": 4183,
-			"text": "Nafi'den rivayete göre Abdullah b. Ömer r.a., fitne döneminde umre yapmak üzere çıktı. Dedi ki: Eğer Beytle ulaşmam engellenecek olursa biz de Resulullah Sallallahu Aleyhi ve Sellem ile birlikte yaptığımız gibi yaparız. Resulullah Sallallahu Aleyhi ve Sellem Hudeybiye yılında umre niyeti ile ihrama girdiğinden ötürü o da umre için ihrama girmiştL",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 223
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4183,
+      "arabicnumber": 4183,
+      "text": "Nafi'den rivayete göre Abdullah b. Ömer r.a., fitne döneminde umre yapmak üzere çıktı. Dedi ki: Eğer Beytle ulaşmam engellenecek olursa biz de Resulullah Sallallahu Aleyhi ve Sellem ile birlikte yaptığımız gibi yaparız. Resulullah Sallallahu Aleyhi ve Sellem Hudeybiye yılında umre niyeti ile ihrama girdiğinden ötürü o da umre için ihrama girmiştL",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 223
+      }
+    }
+  ]
 }

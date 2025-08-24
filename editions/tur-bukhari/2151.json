@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2151,
-			"arabicnumber": 2151,
-			"text": "Ebu Hureyre r.a. Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini belirtmiştir: \"Sütlü görünsün diye sütü sağılmamış bir koyun satın alan ve onu sağan kimse (durumu anladıktan sonra), razı olursa hayvanı elinde tutar. Razı olmazsa sağması karşılığında bir sa' hurma verir",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2151,
+      "arabicnumber": 2151,
+      "text": "Ebu Hureyre r.a. Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini belirtmiştir: \"Sütlü görünsün diye sütü sağılmamış bir koyun satın alan ve onu sağan kimse (durumu anladıktan sonra), razı olursa hayvanı elinde tutar. Razı olmazsa sağması karşılığında bir sa' hurma verir",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 103
+      }
+    }
+  ]
 }

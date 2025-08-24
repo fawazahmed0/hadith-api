@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1600,
-			"arabicnumber": 1600,
-			"text": "Abdullah İbn Ebû Evfa şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem umre ve tavaf yaptı. Sonra makam-ı ibrahim'in arkasında iki rekat namaz kıldı. Yanıbaşında kimselerin onu görmemesi için perde vazifesi yapan birisi de vardı.\" Adamın biri gelip bu şahsa Resulullah Sallallahu Aleyhi ve Sellem'in Kabe'ye girip girmediğini sordu. O da, \"hayır\" diye cevap verdi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 86
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1600,
+      "arabicnumber": 1600,
+      "text": "Abdullah İbn Ebû Evfa şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem umre ve tavaf yaptı. Sonra makam-ı ibrahim'in arkasında iki rekat namaz kıldı. Yanıbaşında kimselerin onu görmemesi için perde vazifesi yapan birisi de vardı.\" Adamın biri gelip bu şahsa Resulullah Sallallahu Aleyhi ve Sellem'in Kabe'ye girip girmediğini sordu. O da, \"hayır\" diye cevap verdi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 86
+      }
+    }
+  ]
 }

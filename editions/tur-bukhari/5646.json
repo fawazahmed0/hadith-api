@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"75": "Patients"
-		},
-		"section_detail": {
-			"75": {
-				"hadithnumber_first": 5640,
-				"hadithnumber_last": 5677,
-				"arabicnumber_first": 5640,
-				"arabicnumber_last": 5677
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5646,
-			"arabicnumber": 5646,
-			"text": "Aişe r.anha'dan, dedi ki: \"Ben Rasulullah Sallallahu Aleyhi ve Sellem'den daha şiddetli ağrı çeken kimse görmedim",
-			"grades": [],
-			"reference": {
-				"book": 75,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "75": "Hastalar ve Tıbb"
+    },
+    "section_detail": {
+      "75": {
+        "hadithnumber_first": 5640,
+        "hadithnumber_last": 5677,
+        "arabicnumber_first": 5640,
+        "arabicnumber_last": 5677
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5646,
+      "arabicnumber": 5646,
+      "text": "Aişe r.anha'dan, dedi ki: \"Ben Rasulullah Sallallahu Aleyhi ve Sellem'den daha şiddetli ağrı çeken kimse görmedim",
+      "grades": [],
+      "reference": {
+        "book": 75,
+        "hadith": 6
+      }
+    }
+  ]
 }

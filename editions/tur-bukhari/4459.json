@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4459,
-			"arabicnumber": 4459,
-			"text": "İbrahim, el-Esved'den rivayetle dedi ki: \"Aişe'nin huzurunda Nebi Sallallahu Aleyhi ve Sellem'in Ali'ye vasiyette bulunmuş olduğundan sözedilinee:' Bunu kim söyledi? Andolsun ben Nebi Sallallahu Aleyhi ve Sellem'i göğsüme dayamış olduğum halde gördüm. Bir leğen getirilmesini istedi ve akabinde kucağımda bütün vücudu sarkıverdi. Ölmüş de ben fark etmemiştim. Nasıloldu da Ali'ye vasiyet etti, dedi",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 475
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4459,
+      "arabicnumber": 4459,
+      "text": "İbrahim, el-Esved'den rivayetle dedi ki: \"Aişe'nin huzurunda Nebi Sallallahu Aleyhi ve Sellem'in Ali'ye vasiyette bulunmuş olduğundan sözedilinee:' Bunu kim söyledi? Andolsun ben Nebi Sallallahu Aleyhi ve Sellem'i göğsüme dayamış olduğum halde gördüm. Bir leğen getirilmesini istedi ve akabinde kucağımda bütün vücudu sarkıverdi. Ölmüş de ben fark etmemiştim. Nasıloldu da Ali'ye vasiyet etti, dedi",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 475
+      }
+    }
+  ]
 }

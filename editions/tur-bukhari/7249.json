@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"95": "Accepting Information Given by a Truthful Person"
-		},
-		"section_detail": {
-			"95": {
-				"hadithnumber_first": 7246,
-				"hadithnumber_last": 7267,
-				"arabicnumber_first": 7246,
-				"arabicnumber_last": 7267
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7249,
-			"arabicnumber": 7249,
-			"text": "Abdullah b. Mes'ud şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bizlere öğle namazını beş rekat olarak kıldırdı. Kendisine \"Namazda arttırılma mı yapıldı?\" diye soruldu. Resulullah Sallallahu Aleyhi ve Sellem \"Neden sordunuz?\" dedi. Sahabiler \"Beş rekat olarak kıldırdınız\" dediler. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem selam verdikten sonra iki sehv secdesi yaptı",
-			"grades": [],
-			"reference": {
-				"book": 95,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "95": "Vâhidlerin (Tek Kişilerin) Haberleri"
+    },
+    "section_detail": {
+      "95": {
+        "hadithnumber_first": 7246,
+        "hadithnumber_last": 7267,
+        "arabicnumber_first": 7246,
+        "arabicnumber_last": 7267
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7249,
+      "arabicnumber": 7249,
+      "text": "Abdullah b. Mes'ud şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bizlere öğle namazını beş rekat olarak kıldırdı. Kendisine \"Namazda arttırılma mı yapıldı?\" diye soruldu. Resulullah Sallallahu Aleyhi ve Sellem \"Neden sordunuz?\" dedi. Sahabiler \"Beş rekat olarak kıldırdınız\" dediler. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem selam verdikten sonra iki sehv secdesi yaptı",
+      "grades": [],
+      "reference": {
+        "book": 95,
+        "hadith": 4
+      }
+    }
+  ]
 }

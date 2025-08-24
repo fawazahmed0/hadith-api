@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"61": "Virtues and Merits of the Prophet (pbuh) and his Companions"
-		},
-		"section_detail": {
-			"61": {
-				"hadithnumber_first": 3489,
-				"hadithnumber_last": 3648,
-				"arabicnumber_first": 3489,
-				"arabicnumber_last": 3648
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3489,
-			"arabicnumber": 3489,
-			"text": "İbn Abbas r.a.'dan rivayete göre: \"Ve sizi birbirinizle tanışasınız diye kavimlere ve kabileiere ayırdık\" buyruğu hakkında dedi ki: \"şu'ub (kavimler), büyük kabileler demektir. Kabileler (el-kabail) ise batınlar (boylar) demektir",
-			"grades": [],
-			"reference": {
-				"book": 61,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "61": "Menkıbeler"
+    },
+    "section_detail": {
+      "61": {
+        "hadithnumber_first": 3489,
+        "hadithnumber_last": 3648,
+        "arabicnumber_first": 3489,
+        "arabicnumber_last": 3648
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3489,
+      "arabicnumber": 3489,
+      "text": "İbn Abbas r.a.'dan rivayete göre: \"Ve sizi birbirinizle tanışasınız diye kavimlere ve kabileiere ayırdık\" buyruğu hakkında dedi ki: \"şu'ub (kavimler), büyük kabileler demektir. Kabileler (el-kabail) ise batınlar (boylar) demektir",
+      "grades": [],
+      "reference": {
+        "book": 61,
+        "hadith": 1
+      }
+    }
+  ]
 }

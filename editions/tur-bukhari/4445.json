@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4445,
-			"arabicnumber": 4445,
-			"text": "Aişe dedi ki: \"Bu hususta Resulullah Sallallahu Aleyhi ve Sellem'e (vazgeçmesi için) müracaat etmiştim. Beni ona çokça müracaat etmeye iten tek sebep ise, kalbime insanların ondan sonra onun yerinde ayakta duracak bir kimseyi ebediyyen sevmeyeceklerine dair kalbime yerleşen kanaat olmuştu. Benim görüşüme göre bir kimse onun ayakta durduğu yerde duracak olursa mutlaka insanlar onun bu halini uğursuz kabul ederlerdi. Bu sebepten dolayı Resulullah Sallallahu Aleyhi ve Sellem'in bu işi Ebu Bekr'den başkasına havale etmesini istemiştim",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 465
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4445,
+      "arabicnumber": 4445,
+      "text": "Aişe dedi ki: \"Bu hususta Resulullah Sallallahu Aleyhi ve Sellem'e (vazgeçmesi için) müracaat etmiştim. Beni ona çokça müracaat etmeye iten tek sebep ise, kalbime insanların ondan sonra onun yerinde ayakta duracak bir kimseyi ebediyyen sevmeyeceklerine dair kalbime yerleşen kanaat olmuştu. Benim görüşüme göre bir kimse onun ayakta durduğu yerde duracak olursa mutlaka insanlar onun bu halini uğursuz kabul ederlerdi. Bu sebepten dolayı Resulullah Sallallahu Aleyhi ve Sellem'in bu işi Ebu Bekr'den başkasına havale etmesini istemiştim",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 465
+      }
+    }
+  ]
 }

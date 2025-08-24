@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"5": "Bathing (Ghusl)"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 248,
-				"hadithnumber_last": 293,
-				"arabicnumber_first": 248,
-				"arabicnumber_last": 293
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 285,
-			"arabicnumber": 285,
-			"text": "Ebu Hureyre r.a.'den şöyle nakledilmiştir: \"Cünüp olduğum bir sırada Nebi s.a.v. bana rastladı. Elimden tutu. Bir miktar beraber yürüdük nihayet bir yere oturdu. O esnada yanından sessizce ayrıldım. Eve varıp gusül abdesti aldım. Sonra tekrar Rasulullah (Sallallahu aleyhi ve Sellem)'in yanına geldim. Hala oturuyordu. Bana nereye gittiğimi sordu. Ben de, anlattım. Bunun üzerine şöyle buyurdu: \"Subhanallah! Ya Eba Hureyre Mumin asla pis olmaz",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "5": "Gusül"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 248,
+        "hadithnumber_last": 293,
+        "arabicnumber_first": 248,
+        "arabicnumber_last": 293
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 285,
+      "arabicnumber": 285,
+      "text": "Ebu Hureyre r.a.'den şöyle nakledilmiştir: \"Cünüp olduğum bir sırada Nebi s.a.v. bana rastladı. Elimden tutu. Bir miktar beraber yürüdük nihayet bir yere oturdu. O esnada yanından sessizce ayrıldım. Eve varıp gusül abdesti aldım. Sonra tekrar Rasulullah (Sallallahu aleyhi ve Sellem)'in yanına geldim. Hala oturuyordu. Bana nereye gittiğimi sordu. Ben de, anlattım. Bunun üzerine şöyle buyurdu: \"Subhanallah! Ya Eba Hureyre Mumin asla pis olmaz",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 37
+      }
+    }
+  ]
 }

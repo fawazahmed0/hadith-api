@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"57": "One-fifth of Booty to the Cause of Allah (Khumus)"
-		},
-		"section_detail": {
-			"57": {
-				"hadithnumber_first": 3091,
-				"hadithnumber_last": 3155,
-				"arabicnumber_first": 3091,
-				"arabicnumber_last": 3155
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3139,
-			"arabicnumber": 3139,
-			"text": "Muhammed İbn Cübeyr babası Cübeyr İbn Mut'im r.a.'in şöyle dediğini nakletmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem Bedir esirleri hakkında şöyle buyurdu: \"Mut'im İbn Adiyy sağ olsaydı sonra da benimle bu iğrenç adamlar (ın bırakılması) hakkında konuşsaydı kesinlikle hepsini ona bırakırdım",
-			"grades": [],
-			"reference": {
-				"book": 57,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "57": "Ganimetin Beşte Biri"
+    },
+    "section_detail": {
+      "57": {
+        "hadithnumber_first": 3091,
+        "hadithnumber_last": 3155,
+        "arabicnumber_first": 3091,
+        "arabicnumber_last": 3155
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3139,
+      "arabicnumber": 3139,
+      "text": "Muhammed İbn Cübeyr babası Cübeyr İbn Mut'im r.a.'in şöyle dediğini nakletmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem Bedir esirleri hakkında şöyle buyurdu: \"Mut'im İbn Adiyy sağ olsaydı sonra da benimle bu iğrenç adamlar (ın bırakılması) hakkında konuşsaydı kesinlikle hepsini ona bırakırdım",
+      "grades": [],
+      "reference": {
+        "book": 57,
+        "hadith": 47
+      }
+    }
+  ]
 }

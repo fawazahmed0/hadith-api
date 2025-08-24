@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"23": "Funerals (Al-Janaa'iz)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1237,
-				"hadithnumber_last": 1394,
-				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1388,
-			"arabicnumber": 1388,
-			"text": "Aişe r.a. şöyle dedi: Bir adam Nebi Sallallahu Aleyhi ve Sellem'e: \"Annem aniden öldü. öyle zannediyorum ki yaşasaydı malını tasadduk ederdi. Ben onun yerine sadaka versem onun için ecir var mıdır?\" diye sordu. Nebi Sallallahu Aleyhi ve Sellem: \"Evet\" dedi",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 140
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "23": "Cenazeler"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1237,
+        "hadithnumber_last": 1394,
+        "arabicnumber_first": 1237,
+        "arabicnumber_last": 1394
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1388,
+      "arabicnumber": 1388,
+      "text": "Aişe r.a. şöyle dedi: Bir adam Nebi Sallallahu Aleyhi ve Sellem'e: \"Annem aniden öldü. öyle zannediyorum ki yaşasaydı malını tasadduk ederdi. Ben onun yerine sadaka versem onun için ecir var mıdır?\" diye sordu. Nebi Sallallahu Aleyhi ve Sellem: \"Evet\" dedi",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 140
+      }
+    }
+  ]
 }

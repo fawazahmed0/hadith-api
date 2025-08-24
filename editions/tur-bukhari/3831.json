@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"63": "Merits of the Helpers in Madinah (Ansaar)"
-		},
-		"section_detail": {
-			"63": {
-				"hadithnumber_first": 3776,
-				"hadithnumber_last": 3948,
-				"arabicnumber_first": 3776,
-				"arabicnumber_last": 3948
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3831,
-			"arabicnumber": 3831,
-			"text": "Aişe r.anha dedi ki: \"Cahiliye döneminde Kureyş Aşure günü oruç tutardı. Nebi Sallallahu Aleyhi ve Sellem de o günü oruçla geçirirdi. Medine'ye geldiğinde kendisi o gün oruç tuttuğu gibi oruç tutulmasını da emretti. Ramazan orucuna dair hüküm nazil olunca dileyen o günü oruç tutar, istemeyen de tutmazdı",
-			"grades": [],
-			"reference": {
-				"book": 63,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "63": "Ensâr'ın Menkıbeleri"
+    },
+    "section_detail": {
+      "63": {
+        "hadithnumber_first": 3776,
+        "hadithnumber_last": 3948,
+        "arabicnumber_first": 3776,
+        "arabicnumber_last": 3948
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3831,
+      "arabicnumber": 3831,
+      "text": "Aişe r.anha dedi ki: \"Cahiliye döneminde Kureyş Aşure günü oruç tutardı. Nebi Sallallahu Aleyhi ve Sellem de o günü oruçla geçirirdi. Medine'ye geldiğinde kendisi o gün oruç tuttuğu gibi oruç tutulmasını da emretti. Ramazan orucuna dair hüküm nazil olunca dileyen o günü oruç tutar, istemeyen de tutmazdı",
+      "grades": [],
+      "reference": {
+        "book": 63,
+        "hadith": 56
+      }
+    }
+  ]
 }

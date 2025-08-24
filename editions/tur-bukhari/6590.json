@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6590,
-			"arabicnumber": 6590,
-			"text": "Ukbe b. Amir şöyle anlatmıştır: Nebi Sallallahu Aleyhi ve Sellem bir gün dışarı çıkıp Uhud şehitleri üzerine ölüye cenaze namazı kılar gibi namaz kıldı. Sonra (Medine'ye) dönüp minbere çıktı ve şöyle buyurdu: \"Ben sizin havuz başına ilk ulaşanınız olacağım ve sizin hak yolundaki hizmetlerinize şehadet edeceğim. VAllahi ben şu anda muhakkak (cennetteki) havuzuma bakıp görüyorum. Şüphesiz bana arzın hazinelerinin anahtarları -yahut arzın anahtarları- verilmiştir. VAllahi ben, benden sonra sizin üzerinize müşrikliğe dönmenizden korkmam. Lakin ben sizin bu hazineler (yahut dünya) hususunda birbirinizle nefsaniyet yarışma girip didişmenizden korkarım",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 178
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6590,
+      "arabicnumber": 6590,
+      "text": "Ukbe b. Amir şöyle anlatmıştır: Nebi Sallallahu Aleyhi ve Sellem bir gün dışarı çıkıp Uhud şehitleri üzerine ölüye cenaze namazı kılar gibi namaz kıldı. Sonra (Medine'ye) dönüp minbere çıktı ve şöyle buyurdu: \"Ben sizin havuz başına ilk ulaşanınız olacağım ve sizin hak yolundaki hizmetlerinize şehadet edeceğim. VAllahi ben şu anda muhakkak (cennetteki) havuzuma bakıp görüyorum. Şüphesiz bana arzın hazinelerinin anahtarları -yahut arzın anahtarları- verilmiştir. VAllahi ben, benden sonra sizin üzerinize müşrikliğe dönmenizden korkmam. Lakin ben sizin bu hazineler (yahut dünya) hususunda birbirinizle nefsaniyet yarışma girip didişmenizden korkarım",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 178
+      }
+    }
+  ]
 }

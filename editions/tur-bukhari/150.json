@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"4": "Ablutions (Wudu')"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 135,
-				"hadithnumber_last": 247,
-				"arabicnumber_first": 135,
-				"arabicnumber_last": 247
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 150,
-			"arabicnumber": 150,
-			"text": "Enes İbn Mâlik r.a. şöyle demiştir: \"Nebi Sallallahu aleyhi ve sellem tuvalet ihtiyacını görmek üzere çıkınca ben ve benimle birlikte bir çocuk -tuvalet temizliği için- yanımızda bir su kırbası götürürdük. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "4": "Abdest"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 135,
+        "hadithnumber_last": 247,
+        "arabicnumber_first": 135,
+        "arabicnumber_last": 247
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 150,
+      "arabicnumber": 150,
+      "text": "Enes İbn Mâlik r.a. şöyle demiştir: \"Nebi Sallallahu aleyhi ve sellem tuvalet ihtiyacını görmek üzere çıkınca ben ve benimle birlikte bir çocuk -tuvalet temizliği için- yanımızda bir su kırbası götürürdük. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 16
+      }
+    }
+  ]
 }

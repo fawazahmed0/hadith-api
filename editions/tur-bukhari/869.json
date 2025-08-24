@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 869,
-			"arabicnumber": 869,
-			"text": "Aişe (r.anha)'nın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem şu an yaşayıp kadınların (giyim kuşam, koku sürünme, takılar takma gibi konularda) ne garip işler ortaya çıkardığını görseydi kesinlikle onların mescidlere gelmelerine mani olurdu; Tıpkı İsrail oğullarının kadınlarının mescidlere gitmekten alıkonması gibi...\" Bu rivayeti nakledenlerden Yahya İbn Saîd Amra Binti Abdurrahmân'a: \"İsrâiloğullarının kadınlarına mescide gelmeleri yasaklanmış mıydı?\" diye sorunca ondan \"Evet\" cevabını almıştır",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 260
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 869,
+      "arabicnumber": 869,
+      "text": "Aişe (r.anha)'nın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem şu an yaşayıp kadınların (giyim kuşam, koku sürünme, takılar takma gibi konularda) ne garip işler ortaya çıkardığını görseydi kesinlikle onların mescidlere gelmelerine mani olurdu; Tıpkı İsrail oğullarının kadınlarının mescidlere gitmekten alıkonması gibi...\" Bu rivayeti nakledenlerden Yahya İbn Saîd Amra Binti Abdurrahmân'a: \"İsrâiloğullarının kadınlarına mescide gelmeleri yasaklanmış mıydı?\" diye sorunca ondan \"Evet\" cevabını almıştır",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 260
+      }
+    }
+  ]
 }

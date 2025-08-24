@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"95": "Accepting Information Given by a Truthful Person"
-		},
-		"section_detail": {
-			"95": {
-				"hadithnumber_first": 7246,
-				"hadithnumber_last": 7267,
-				"arabicnumber_first": 7246,
-				"arabicnumber_last": 7267
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7247,
-			"arabicnumber": 7247,
-			"text": "Yahya'nın Teymi, Ebu Osman isnadıyla İbn Mesud'dan nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Sizden herhangi birinizi müezzin Bilal'in ezanı sahur yemeğini yemekten alıkoymasını Çünkü Bilal gece vakti ezan okur -veya gece vakti nida eder.- Bunu teheccüd namazı kılanları sahur yemeğine döndürmek ve uykuda olanlarınızı da (sahur yemeğine) uyandırmak için okur. Fecr şöyle demek değildir.\" Yahya iki avucunu birleştirip, şöyle diye açıklayıp göstermiştir. Sonra iki şehadet parmağını yan yana getirerek \"fecir böyle olmaktır\" demiştir",
-			"grades": [],
-			"reference": {
-				"book": 95,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "95": "Vâhidlerin (Tek Kişilerin) Haberleri"
+    },
+    "section_detail": {
+      "95": {
+        "hadithnumber_first": 7246,
+        "hadithnumber_last": 7267,
+        "arabicnumber_first": 7246,
+        "arabicnumber_last": 7267
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7247,
+      "arabicnumber": 7247,
+      "text": "Yahya'nın Teymi, Ebu Osman isnadıyla İbn Mesud'dan nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Sizden herhangi birinizi müezzin Bilal'in ezanı sahur yemeğini yemekten alıkoymasını Çünkü Bilal gece vakti ezan okur -veya gece vakti nida eder.- Bunu teheccüd namazı kılanları sahur yemeğine döndürmek ve uykuda olanlarınızı da (sahur yemeğine) uyandırmak için okur. Fecr şöyle demek değildir.\" Yahya iki avucunu birleştirip, şöyle diye açıklayıp göstermiştir. Sonra iki şehadet parmağını yan yana getirerek \"fecir böyle olmaktır\" demiştir",
+      "grades": [],
+      "reference": {
+        "book": 95,
+        "hadith": 2
+      }
+    }
+  ]
 }

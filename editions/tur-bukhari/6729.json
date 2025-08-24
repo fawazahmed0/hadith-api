@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"85": "Laws of Inheritance (Al-Faraa'id)"
-		},
-		"section_detail": {
-			"85": {
-				"hadithnumber_first": 6723,
-				"hadithnumber_last": 6771,
-				"arabicnumber_first": 6723,
-				"arabicnumber_last": 6771
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6729,
-			"arabicnumber": 6729,
-			"text": "Ebu Hureyre r.a.'nin nakline göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"(Vefatımda) benim mirasçılarım dinar paylaşmazlar. Eşlerimin nafakalanndan ve işçimin ücretinden geri kalanlar sadakadır",
-			"grades": [],
-			"reference": {
-				"book": 85,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "85": "Ferîzalar, yânı Mîrâs Payları"
+    },
+    "section_detail": {
+      "85": {
+        "hadithnumber_first": 6723,
+        "hadithnumber_last": 6771,
+        "arabicnumber_first": 6723,
+        "arabicnumber_last": 6771
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6729,
+      "arabicnumber": 6729,
+      "text": "Ebu Hureyre r.a.'nin nakline göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"(Vefatımda) benim mirasçılarım dinar paylaşmazlar. Eşlerimin nafakalanndan ve işçimin ücretinden geri kalanlar sadakadır",
+      "grades": [],
+      "reference": {
+        "book": 85,
+        "hadith": 6
+      }
+    }
+  ]
 }

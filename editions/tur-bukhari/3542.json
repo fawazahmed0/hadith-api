@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"61": "Virtues and Merits of the Prophet (pbuh) and his Companions"
-		},
-		"section_detail": {
-			"61": {
-				"hadithnumber_first": 3489,
-				"hadithnumber_last": 3648,
-				"arabicnumber_first": 3489,
-				"arabicnumber_last": 3648
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3542,
-			"arabicnumber": 3542,
-			"text": "Ukbe b. el-Haris dedi ki: \"Ebu Bekir r.a ikindi namazını kıldı. Sonra dışarı çıktı, yürüdü. el-Hasen'i küçük çocuklarla birlikte oynarken gördü. Onu omzuna alıp, taşıdı ve: Babam hakkı için Nebi'ye benziyor, Ali'ye benzemiyor. Ali de gülüyordu.\" Bu Hadis 3750 numara ile gelecektir",
-			"grades": [],
-			"reference": {
-				"book": 61,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "61": "Menkıbeler"
+    },
+    "section_detail": {
+      "61": {
+        "hadithnumber_first": 3489,
+        "hadithnumber_last": 3648,
+        "arabicnumber_first": 3489,
+        "arabicnumber_last": 3648
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3542,
+      "arabicnumber": 3542,
+      "text": "Ukbe b. el-Haris dedi ki: \"Ebu Bekir r.a ikindi namazını kıldı. Sonra dışarı çıktı, yürüdü. el-Hasen'i küçük çocuklarla birlikte oynarken gördü. Onu omzuna alıp, taşıdı ve: Babam hakkı için Nebi'ye benziyor, Ali'ye benzemiyor. Ali de gülüyordu.\" Bu Hadis 3750 numara ile gelecektir",
+      "grades": [],
+      "reference": {
+        "book": 61,
+        "hadith": 51
+      }
+    }
+  ]
 }

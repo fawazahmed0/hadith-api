@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6531,
-			"arabicnumber": 6531,
-			"text": "İbn Ömer'in nakline göre Nebi Sallallahu Aleyhi ve Sellem \"yevme yekumu'n-nasu li Rabbi'l-alemin\" ayetini \"Onlardan her biri kulaklannın yanlarına kadar kendi terleri içinde ayağa kalkacaklar\" şeklinde açıklamıştır",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 120
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6531,
+      "arabicnumber": 6531,
+      "text": "İbn Ömer'in nakline göre Nebi Sallallahu Aleyhi ve Sellem \"yevme yekumu'n-nasu li Rabbi'l-alemin\" ayetini \"Onlardan her biri kulaklannın yanlarına kadar kendi terleri içinde ayağa kalkacaklar\" şeklinde açıklamıştır",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 120
+      }
+    }
+  ]
 }

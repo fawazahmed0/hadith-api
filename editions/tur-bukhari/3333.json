@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3333,
-			"arabicnumber": 3333,
-			"text": "Enes bin Malik r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Şüphesiz Allah rahimde bir melek görevlendirmiştir. Melek: Rabbim, nutfe oldu, Rabbim alaka oldu, Rabbim mudğa oldu, der. (Allah) onu yaratmayı murad ederse (melek): Rabbim, erkek mi yoksa dişi mi olacak, bedbaht mı yoksa bahtiyar mı olacak, rızkı nedir, eceli nedir, diye sorar. Annesinin karnında iken bunlar yazılır",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3333,
+      "arabicnumber": 3333,
+      "text": "Enes bin Malik r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Şüphesiz Allah rahimde bir melek görevlendirmiştir. Melek: Rabbim, nutfe oldu, Rabbim alaka oldu, Rabbim mudğa oldu, der. (Allah) onu yaratmayı murad ederse (melek): Rabbim, erkek mi yoksa dişi mi olacak, bedbaht mı yoksa bahtiyar mı olacak, rızkı nedir, eceli nedir, diye sorar. Annesinin karnında iken bunlar yazılır",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 8
+      }
+    }
+  ]
 }

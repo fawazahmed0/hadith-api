@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"49": "Manumission of Slaves"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 2517,
-				"hadithnumber_last": 2559,
-				"arabicnumber_first": 2517,
-				"arabicnumber_last": 2559
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2519,
-			"arabicnumber": 2519,
-			"text": "Esma binti Ebu Bekir r.anha'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem güneş tutulması sırasında köle azat edilmesini emretmiştir",
-			"grades": [],
-			"reference": {
-				"book": 49,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "49": "Köleyi Hürriyetine Kavuşturma"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 2517,
+        "hadithnumber_last": 2559,
+        "arabicnumber_first": 2517,
+        "arabicnumber_last": 2559
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2519,
+      "arabicnumber": 2519,
+      "text": "Esma binti Ebu Bekir r.anha'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem güneş tutulması sırasında köle azat edilmesini emretmiştir",
+      "grades": [],
+      "reference": {
+        "book": 49,
+        "hadith": 3
+      }
+    }
+  ]
 }

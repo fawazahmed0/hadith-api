@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 855,
-			"arabicnumber": 855,
-			"text": "Cabir İbn Abdullah Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Sarımsak veya soğan yiyen bir kimse biz'den - veya bizim mescidimizden -uzak dursun; kendi evinde durup beklesin.\" Bir defasında Resûlullah Sallallahu Aleyhi ve Sellem'e sebze dolu bir kap getirdiler. Resûlullah Sallallahu Aleyhi ve Sellem bu sebzelerden bir koku geldiğini fark etti. Oradakilere bu kokunun nereden geldiğini sorunca kabın içinde bulunan sebzeleri saydılar. Bunun üzerine Resûlullah Sallallahu Aleyhi ve Sellem onlardan bunu yanıbaşında bulunan bir sahâbîye vermelerini istedi. O sahâbînin bunu yemek istemediğini gören Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: Çekinme, ye, ben yemiyorum çünkü ben senin konuşmadığın meleklerle konuşuyorum",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 246
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 855,
+      "arabicnumber": 855,
+      "text": "Cabir İbn Abdullah Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Sarımsak veya soğan yiyen bir kimse biz'den - veya bizim mescidimizden -uzak dursun; kendi evinde durup beklesin.\" Bir defasında Resûlullah Sallallahu Aleyhi ve Sellem'e sebze dolu bir kap getirdiler. Resûlullah Sallallahu Aleyhi ve Sellem bu sebzelerden bir koku geldiğini fark etti. Oradakilere bu kokunun nereden geldiğini sorunca kabın içinde bulunan sebzeleri saydılar. Bunun üzerine Resûlullah Sallallahu Aleyhi ve Sellem onlardan bunu yanıbaşında bulunan bir sahâbîye vermelerini istedi. O sahâbînin bunu yemek istemediğini gören Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: Çekinme, ye, ben yemiyorum çünkü ben senin konuşmadığın meleklerle konuşuyorum",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 246
+      }
+    }
+  ]
 }

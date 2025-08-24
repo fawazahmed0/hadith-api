@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"66": "Virtues of the Qur'an"
-		},
-		"section_detail": {
-			"66": {
-				"hadithnumber_first": 4979,
-				"hadithnumber_last": 5062,
-				"arabicnumber_first": 4979,
-				"arabicnumber_last": 5062
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5061,
-			"arabicnumber": 5061,
-			"text": "Cündeb'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edilmiştir: \"Kalpleriniz onun hakkında birleştiği sürece Kur'an okuyun! İhtilafa düşünce onu okumaktan uzak durun",
-			"grades": [],
-			"reference": {
-				"book": 66,
-				"hadith": 86
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "66": "Kur'ân’ın Faziletleri"
+    },
+    "section_detail": {
+      "66": {
+        "hadithnumber_first": 4979,
+        "hadithnumber_last": 5062,
+        "arabicnumber_first": 4979,
+        "arabicnumber_last": 5062
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5061,
+      "arabicnumber": 5061,
+      "text": "Cündeb'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet edilmiştir: \"Kalpleriniz onun hakkında birleştiği sürece Kur'an okuyun! İhtilafa düşünce onu okumaktan uzak durun",
+      "grades": [],
+      "reference": {
+        "book": 66,
+        "hadith": 86
+      }
+    }
+  ]
 }

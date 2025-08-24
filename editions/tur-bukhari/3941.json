@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"63": "Merits of the Helpers in Madinah (Ansaar)"
-		},
-		"section_detail": {
-			"63": {
-				"hadithnumber_first": 3776,
-				"hadithnumber_last": 3948,
-				"arabicnumber_first": 3776,
-				"arabicnumber_last": 3948
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3941,
-			"arabicnumber": 3941,
-			"text": "Ebu Hureyre'den rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Yahudilerden on kişi bana iman etse, şüphesiz (bütün) Yahudiler bana iman ederdi",
-			"grades": [],
-			"reference": {
-				"book": 63,
-				"hadith": 165
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "63": "Ensâr'ın Menkıbeleri"
+    },
+    "section_detail": {
+      "63": {
+        "hadithnumber_first": 3776,
+        "hadithnumber_last": 3948,
+        "arabicnumber_first": 3776,
+        "arabicnumber_last": 3948
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3941,
+      "arabicnumber": 3941,
+      "text": "Ebu Hureyre'den rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Yahudilerden on kişi bana iman etse, şüphesiz (bütün) Yahudiler bana iman ederdi",
+      "grades": [],
+      "reference": {
+        "book": 63,
+        "hadith": 165
+      }
+    }
+  ]
 }

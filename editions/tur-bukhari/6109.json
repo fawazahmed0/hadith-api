@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"78": "Good Manners and Form (Al-Adab)"
-		},
-		"section_detail": {
-			"78": {
-				"hadithnumber_first": 5970,
-				"hadithnumber_last": 6226,
-				"arabicnumber_first": 5970,
-				"arabicnumber_last": 6226
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6109,
-			"arabicnumber": 6109,
-			"text": "Aişe r.anha'dan, dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem adama girdi. Evde, üzerinde suretler bulunan bir perde de vardı. Derhal Nebi Sallallahu Aleyhi ve Sellem'in yüzünün rengi değişti, sonra perdeyi alıp parçaladı. Aişe dedi ki: Nebi Sallallahu Aleyhi ve Sellem de: Şüphesiz bu suretleri yapan kimseler kıyamet gününde insanlar arasında azabı en şiddetli olacak kimselerdendir, buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 78,
-				"hadith": 136
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "78": "Edeb"
+    },
+    "section_detail": {
+      "78": {
+        "hadithnumber_first": 5970,
+        "hadithnumber_last": 6226,
+        "arabicnumber_first": 5970,
+        "arabicnumber_last": 6226
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6109,
+      "arabicnumber": 6109,
+      "text": "Aişe r.anha'dan, dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem adama girdi. Evde, üzerinde suretler bulunan bir perde de vardı. Derhal Nebi Sallallahu Aleyhi ve Sellem'in yüzünün rengi değişti, sonra perdeyi alıp parçaladı. Aişe dedi ki: Nebi Sallallahu Aleyhi ve Sellem de: Şüphesiz bu suretleri yapan kimseler kıyamet gününde insanlar arasında azabı en şiddetli olacak kimselerdendir, buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 78,
+        "hadith": 136
+      }
+    }
+  ]
 }

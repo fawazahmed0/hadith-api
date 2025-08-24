@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"68": "Divorce"
-		},
-		"section_detail": {
-			"68": {
-				"hadithnumber_first": 5251,
-				"hadithnumber_last": 5350,
-				"arabicnumber_first": 5251,
-				"arabicnumber_last": 5350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5276,
-			"arabicnumber": 5276,
-			"text": "İbn Abbas R.A.'dan, dedi ki: \"Sabit İbn Kays İbn Şemmas'ın kansı Nebi Sallallahu Aleyhi ve Sellem'e gelerek: Ey Allah'ın Raslilü, ben dini ve ahlakı hususunda Sabit'in aleyhine bir şey söylemiyorum. Fakat ben nankörlük etmekten korkuyorum, dedi. Bunun üzerine RasliluIlah Sallallahu Aleyhi ve Sellem: Bahçesini ona geri verecek misin, diye sordu. Hanımı: Evet deyip bahçesini ona geri verdi. Allah Raslilünün emri üzerine kocası da ondan aynıdı",
-			"grades": [],
-			"reference": {
-				"book": 68,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "68": "Boşamak-Boşanmak"
+    },
+    "section_detail": {
+      "68": {
+        "hadithnumber_first": 5251,
+        "hadithnumber_last": 5350,
+        "arabicnumber_first": 5251,
+        "arabicnumber_last": 5350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5276,
+      "arabicnumber": 5276,
+      "text": "İbn Abbas R.A.'dan, dedi ki: \"Sabit İbn Kays İbn Şemmas'ın kansı Nebi Sallallahu Aleyhi ve Sellem'e gelerek: Ey Allah'ın Raslilü, ben dini ve ahlakı hususunda Sabit'in aleyhine bir şey söylemiyorum. Fakat ben nankörlük etmekten korkuyorum, dedi. Bunun üzerine RasliluIlah Sallallahu Aleyhi ve Sellem: Bahçesini ona geri verecek misin, diye sordu. Hanımı: Evet deyip bahçesini ona geri verdi. Allah Raslilünün emri üzerine kocası da ondan aynıdı",
+      "grades": [],
+      "reference": {
+        "book": 68,
+        "hadith": 25
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"75": "Patients"
-		},
-		"section_detail": {
-			"75": {
-				"hadithnumber_first": 5640,
-				"hadithnumber_last": 5677,
-				"arabicnumber_first": 5640,
-				"arabicnumber_last": 5677
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5643,
-			"arabicnumber": 5643,
-			"text": "Abdullah b. Ka'b'dan, onun babasından rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: Mu'min kimsenin misali, yeni bitmiş bir ekin gibidir. Rüzgar üzerine nereden eserse onu eğer. Bu ekin dimdik doğrulduğu vakit bela ile bir tarafa eğilir. Facir kimse ise -Allah dilediği vakit kökünden imha edinceye kadar- sert ve dimdik duran bir dağ servisine benzer.\" Bu Hadis 7466 numara ilede geçiyor",
-			"grades": [],
-			"reference": {
-				"book": 75,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "75": "Hastalar ve Tıbb"
+    },
+    "section_detail": {
+      "75": {
+        "hadithnumber_first": 5640,
+        "hadithnumber_last": 5677,
+        "arabicnumber_first": 5640,
+        "arabicnumber_last": 5677
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5643,
+      "arabicnumber": 5643,
+      "text": "Abdullah b. Ka'b'dan, onun babasından rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: Mu'min kimsenin misali, yeni bitmiş bir ekin gibidir. Rüzgar üzerine nereden eserse onu eğer. Bu ekin dimdik doğrulduğu vakit bela ile bir tarafa eğilir. Facir kimse ise -Allah dilediği vakit kökünden imha edinceye kadar- sert ve dimdik duran bir dağ servisine benzer.\" Bu Hadis 7466 numara ilede geçiyor",
+      "grades": [],
+      "reference": {
+        "book": 75,
+        "hadith": 3
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4209,
-			"arabicnumber": 4209,
-			"text": "Seleme r.a. dedi ki: \"Ali r.a. Hayber'de Nebi Sallallahu Aleyhi ve Sellem'den geri kalmıştı. Gözlerinde bir rahatsızlık vardı. Ben Nebi Sallallahu Aleyhi ve Sellem'den geri kalacağım ha deyip, arkasından yetişti. Hayber'in (sabahında) fethedileceği gecede (Allah Resulü): Andalsun yarın bu sancağı Allah'ın ve Resulünün sevdiği ve kendisine fethin nasip kılınacağı bir adama vereceğim -yahut da: Yarın bir adam bu sancağı alacak (diye buyurdu.)- Hepimiz sancağı almayı ümit ediyorduk. İşte Ali (geldi), denilince sancağı ona verdi ve fetih ona hasip oldu",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 249
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4209,
+      "arabicnumber": 4209,
+      "text": "Seleme r.a. dedi ki: \"Ali r.a. Hayber'de Nebi Sallallahu Aleyhi ve Sellem'den geri kalmıştı. Gözlerinde bir rahatsızlık vardı. Ben Nebi Sallallahu Aleyhi ve Sellem'den geri kalacağım ha deyip, arkasından yetişti. Hayber'in (sabahında) fethedileceği gecede (Allah Resulü): Andalsun yarın bu sancağı Allah'ın ve Resulünün sevdiği ve kendisine fethin nasip kılınacağı bir adama vereceğim -yahut da: Yarın bir adam bu sancağı alacak (diye buyurdu.)- Hepimiz sancağı almayı ümit ediyorduk. İşte Ali (geldi), denilince sancağı ona verdi ve fetih ona hasip oldu",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 249
+      }
+    }
+  ]
 }

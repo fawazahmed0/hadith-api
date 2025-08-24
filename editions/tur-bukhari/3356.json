@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3356,
-			"arabicnumber": 3356,
-			"text": "Ebu Hureyre r.a. dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"İbrahim aleyhisselam seksen yaşında iken el-Kaddum denilen yerde sünnet olmuştur.\" Ebu'z-Zinad, dal harfi şeddesiz olarak. \"el-Kadum\" diye rivayet etmiştir. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3356,
+      "arabicnumber": 3356,
+      "text": "Ebu Hureyre r.a. dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"İbrahim aleyhisselam seksen yaşında iken el-Kaddum denilen yerde sünnet olmuştur.\" Ebu'z-Zinad, dal harfi şeddesiz olarak. \"el-Kadum\" diye rivayet etmiştir. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 31
+      }
+    }
+  ]
 }

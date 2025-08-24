@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4349,
-			"arabicnumber": 4349,
-			"text": "Ebu İshak: Bera r.a.'ın şöyle dediğini aktarmıştır: \"Resulullah Sallallahu Aleyhi ve Sellem bizleri Halid b. Velid ile birlikte Yemen'e gönderdi. (Bera) dedi ki: Daha sonra bunun akabinde onun yerine Ali'yi gönderdi ve dedi ki: Halid ile birlikte bulunanlara şunu emret: Onlardan kim seninle beraber yola devam etmek isterse devam etsin, dileyen de geri dönsün. Ben de onunla birlikte kalanlar arasında oldum. Çok miktarda ukiye (para), ganimet aldım",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 376
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4349,
+      "arabicnumber": 4349,
+      "text": "Ebu İshak: Bera r.a.'ın şöyle dediğini aktarmıştır: \"Resulullah Sallallahu Aleyhi ve Sellem bizleri Halid b. Velid ile birlikte Yemen'e gönderdi. (Bera) dedi ki: Daha sonra bunun akabinde onun yerine Ali'yi gönderdi ve dedi ki: Halid ile birlikte bulunanlara şunu emret: Onlardan kim seninle beraber yola devam etmek isterse devam etsin, dileyen de geri dönsün. Ben de onunla birlikte kalanlar arasında oldum. Çok miktarda ukiye (para), ganimet aldım",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 376
+      }
+    }
+  ]
 }

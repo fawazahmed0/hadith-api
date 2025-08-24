@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"23": "Funerals (Al-Janaa'iz)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1237,
-				"hadithnumber_last": 1394,
-				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1373,
-			"arabicnumber": 1373,
-			"text": "Urve İbn Zübeyir, annesi ve aynı zamanda Ebu Bekir r.a.'in kızı Esma'nın şöyle dediğini rivayet etmiştir: Resulullah Sallallahu Aleyhi ve Sellem hutbe okumak üzere kalktı ve kişinin kabrinde mübtela olacağı kabir azabından bahsetti. Nebi Sallallahu Aleyhi ve Sellem bunu zikredince Müslümanlar bundan dolayı endişe duydular",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 125
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "23": "Cenazeler"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1237,
+        "hadithnumber_last": 1394,
+        "arabicnumber_first": 1237,
+        "arabicnumber_last": 1394
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1373,
+      "arabicnumber": 1373,
+      "text": "Urve İbn Zübeyir, annesi ve aynı zamanda Ebu Bekir r.a.'in kızı Esma'nın şöyle dediğini rivayet etmiştir: Resulullah Sallallahu Aleyhi ve Sellem hutbe okumak üzere kalktı ve kişinin kabrinde mübtela olacağı kabir azabından bahsetti. Nebi Sallallahu Aleyhi ve Sellem bunu zikredince Müslümanlar bundan dolayı endişe duydular",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 125
+      }
+    }
+  ]
 }

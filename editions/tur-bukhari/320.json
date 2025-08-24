@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"6": "Menstrual Periods"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 294,
-				"hadithnumber_last": 333,
-				"arabicnumber_first": 294,
-				"arabicnumber_last": 333
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 320,
-			"arabicnumber": 320,
-			"text": "Aişe (r.anha)'den şöyle nakledilmiştir: \"Fâtıma bintu Ebî Hubeyş özür kanı görürdü. Bu durumu Nebi (Sallallahu aleyhi ve Sellem)'e sordu. O da şöyle bu­yurdu: Bu damardan gelen bir kanamadır. Hayız değildir. O halde, hayızın başladığı zaman namazı bırak, sona erince gusül abdesti al ve namaz kılmaya başla",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "6": "Hayız"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 294,
+        "hadithnumber_last": 333,
+        "arabicnumber_first": 294,
+        "arabicnumber_last": 333
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 320,
+      "arabicnumber": 320,
+      "text": "Aişe (r.anha)'den şöyle nakledilmiştir: \"Fâtıma bintu Ebî Hubeyş özür kanı görürdü. Bu durumu Nebi (Sallallahu aleyhi ve Sellem)'e sordu. O da şöyle bu­yurdu: Bu damardan gelen bir kanamadır. Hayız değildir. O halde, hayızın başladığı zaman namazı bırak, sona erince gusül abdesti al ve namaz kılmaya başla",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 25
+      }
+    }
+  ]
 }

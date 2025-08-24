@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1734,
-			"arabicnumber": 1734,
-			"text": "İbn Abbas r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem'e kurban kesme, tıraş olma ve şeytan taşlamanın vaktinden önce ya da sonra yapılması konusunda sorular soruldu. O: \"Bir sakıncası yok\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 212
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1734,
+      "arabicnumber": 1734,
+      "text": "İbn Abbas r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem'e kurban kesme, tıraş olma ve şeytan taşlamanın vaktinden önce ya da sonra yapılması konusunda sorular soruldu. O: \"Bir sakıncası yok\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 212
+      }
+    }
+  ]
 }

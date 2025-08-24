@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1649,
-			"arabicnumber": 1649,
-			"text": "İbn Abbas r.a. şöyle demiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem sadece, müşriklere gücünü göstermek için Kabe'yi tavaf ederken ve Safa ile Merve arasında say ederken koşmuştur.\" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 130
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1649,
+      "arabicnumber": 1649,
+      "text": "İbn Abbas r.a. şöyle demiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem sadece, müşriklere gücünü göstermek için Kabe'yi tavaf ederken ve Safa ile Merve arasında say ederken koşmuştur.\" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 130
+      }
+    }
+  ]
 }

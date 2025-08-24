@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 800,
-			"arabicnumber": 800,
-			"text": "Sabit şöyle demiştir: \"Enes İbn Mâlik (r.a.) bize Resulullah Sallallahu Aleyhi ve Sellem'in nasıl namaz kıldığını anlatırken şunları söyledi: Resulullah Sallallahu Aleyhi ve Sellem rüku'dan başını kaldırıp doğrulunca o kadar çok kıyamda beklerdi ki secdeye gitmeyi unuttuğunu zannederdik. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 195
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 800,
+      "arabicnumber": 800,
+      "text": "Sabit şöyle demiştir: \"Enes İbn Mâlik (r.a.) bize Resulullah Sallallahu Aleyhi ve Sellem'in nasıl namaz kıldığını anlatırken şunları söyledi: Resulullah Sallallahu Aleyhi ve Sellem rüku'dan başını kaldırıp doğrulunca o kadar çok kıyamda beklerdi ki secdeye gitmeyi unuttuğunu zannederdik. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 195
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"83": "Oaths and Vows"
-		},
-		"section_detail": {
-			"83": {
-				"hadithnumber_first": 6621,
-				"hadithnumber_last": 6707,
-				"arabicnumber_first": 6621,
-				"arabicnumber_last": 6707
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6663,
-			"arabicnumber": 6663,
-			"text": "Hişam babasından naklen Aişe r.anha'nın \"Allah sizi yeminlerinizdeki lağiv'den (yemin niyeti olmadan yemin sözlerini söylemek'ten) dolayı sorumlu tutmaz\" ayetinin \"hayır vallahi\" gibi sözler hakkında nazil olduğunu söylemiştir. Diğer tahric: Ebu Davud (3254); Nesa (s-kübra), 11084; İbn Hibban",
-			"grades": [],
-			"reference": {
-				"book": 83,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "83": "Yeminler ve Nezirler"
+    },
+    "section_detail": {
+      "83": {
+        "hadithnumber_first": 6621,
+        "hadithnumber_last": 6707,
+        "arabicnumber_first": 6621,
+        "arabicnumber_last": 6707
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6663,
+      "arabicnumber": 6663,
+      "text": "Hişam babasından naklen Aişe r.anha'nın \"Allah sizi yeminlerinizdeki lağiv'den (yemin niyeti olmadan yemin sözlerini söylemek'ten) dolayı sorumlu tutmaz\" ayetinin \"hayır vallahi\" gibi sözler hakkında nazil olduğunu söylemiştir. Diğer tahric: Ebu Davud (3254); Nesa (s-kübra), 11084; İbn Hibban",
+      "grades": [],
+      "reference": {
+        "book": 83,
+        "hadith": 41
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4154,
-			"arabicnumber": 4154,
-			"text": "Cabir b. Abdullah r.a. dedi ki: \"Hudeybiye günü Resulullah Sallallahu Aleyhi ve Sellem bize dedi ki: Sizler yeryüzündekilerin en hayırlılarısınız. O sırada biz 1400 kişi idik. Eğer bugün gözlerim görmüş olsaydı, size ağacın bulunduğu yeri gösterirdim.\" Bu hususta el-A'meş de ona mutabaat ederek: \"Salim'den dinlediğini, onun da Cabir'den 1400 kişi olduklarını söylediğini işitmiştir",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 198
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4154,
+      "arabicnumber": 4154,
+      "text": "Cabir b. Abdullah r.a. dedi ki: \"Hudeybiye günü Resulullah Sallallahu Aleyhi ve Sellem bize dedi ki: Sizler yeryüzündekilerin en hayırlılarısınız. O sırada biz 1400 kişi idik. Eğer bugün gözlerim görmüş olsaydı, size ağacın bulunduğu yeri gösterirdim.\" Bu hususta el-A'meş de ona mutabaat ederek: \"Salim'den dinlediğini, onun da Cabir'den 1400 kişi olduklarını söylediğini işitmiştir",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 198
+      }
+    }
+  ]
 }

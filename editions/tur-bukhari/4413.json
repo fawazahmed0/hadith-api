@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4413,
-			"arabicnumber": 4413,
-			"text": "Hişam dedi ki: Bana babam anlattı dedi ki: \"Benim huzurumda Usame'ye, Nebi Sallallahu Aleyhi ve Sellem'e Veda haccında yol alışma dair soru soruldu. Usame: Süratle yavaşlık arasında, ama geniş bir alan buldu mu hızlıca hareket ederdi, dedi",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 435
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4413,
+      "arabicnumber": 4413,
+      "text": "Hişam dedi ki: Bana babam anlattı dedi ki: \"Benim huzurumda Usame'ye, Nebi Sallallahu Aleyhi ve Sellem'e Veda haccında yol alışma dair soru soruldu. Usame: Süratle yavaşlık arasında, ama geniş bir alan buldu mu hızlıca hareket ederdi, dedi",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 435
+      }
+    }
+  ]
 }

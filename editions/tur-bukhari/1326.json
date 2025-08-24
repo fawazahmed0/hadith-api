@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"23": "Funerals (Al-Janaa'iz)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1237,
-				"hadithnumber_last": 1394,
-				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1326,
-			"arabicnumber": 1326,
-			"text": "İbn-i Abbas r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem bir kabrin yanına geldi. Yanındakiler: \"Bu kadın dün gece gömüldü\" dediler. (İbn Abbas dedi ki): Bunun üzerine (Nebi cenaze namazı kıldırmak için öne geçti) biz de onun arkasında saf yaptık. Nebi Sallallahu Aleyhi ve Sellem onun namazını kıldırdı",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 82
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "23": "Cenazeler"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1237,
+        "hadithnumber_last": 1394,
+        "arabicnumber_first": 1237,
+        "arabicnumber_last": 1394
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1326,
+      "arabicnumber": 1326,
+      "text": "İbn-i Abbas r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem bir kabrin yanına geldi. Yanındakiler: \"Bu kadın dün gece gömüldü\" dediler. (İbn Abbas dedi ki): Bunun üzerine (Nebi cenaze namazı kıldırmak için öne geçti) biz de onun arkasında saf yaptık. Nebi Sallallahu Aleyhi ve Sellem onun namazını kıldırdı",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 82
+      }
+    }
+  ]
 }

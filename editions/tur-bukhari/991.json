@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"14": "Witr Prayer"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 990,
-				"hadithnumber_last": 1004,
-				"arabicnumber_first": 990,
-				"arabicnumber_last": 1004
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 991,
-			"arabicnumber": 991,
-			"text": "Nafi'in naklettiğine göre Abdullah İbn Ömer (radiyallahu anh) vitir namazı kıldığında iki rekat ile tek rekat arasında selam verir ve hatta bu arada bazı ihtiyaçları için talimatlar verdikten sonra kalan bir rekatı kılardı",
-			"grades": [],
-			"reference": {
-				"book": 14,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "14": "Vitir Namazı"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 990,
+        "hadithnumber_last": 1004,
+        "arabicnumber_first": 990,
+        "arabicnumber_last": 1004
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 991,
+      "arabicnumber": 991,
+      "text": "Nafi'in naklettiğine göre Abdullah İbn Ömer (radiyallahu anh) vitir namazı kıldığında iki rekat ile tek rekat arasında selam verir ve hatta bu arada bazı ihtiyaçları için talimatlar verdikten sonra kalan bir rekatı kılardı",
+      "grades": [],
+      "reference": {
+        "book": 14,
+        "hadith": 2
+      }
+    }
+  ]
 }

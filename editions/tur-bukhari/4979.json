@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"66": "Virtues of the Qur'an"
-		},
-		"section_detail": {
-			"66": {
-				"hadithnumber_first": 4979,
-				"hadithnumber_last": 5062,
-				"arabicnumber_first": 4979,
-				"arabicnumber_last": 5062
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4979,
-			"arabicnumber": 4979,
-			"text": "Hz. Aişe ve İbn Abbas'tan şöyle dedikleri rivayet edilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem, vahiy inmeye başladıktan sonra Mekke'de on yıl kaldı. Medine'de de on yıl kaldı",
-			"grades": [],
-			"reference": {
-				"book": 66,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "66": "Kur'ân’ın Faziletleri"
+    },
+    "section_detail": {
+      "66": {
+        "hadithnumber_first": 4979,
+        "hadithnumber_last": 5062,
+        "arabicnumber_first": 4979,
+        "arabicnumber_last": 5062
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4979,
+      "arabicnumber": 4979,
+      "text": "Hz. Aişe ve İbn Abbas'tan şöyle dedikleri rivayet edilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem, vahiy inmeye başladıktan sonra Mekke'de on yıl kaldı. Medine'de de on yıl kaldı",
+      "grades": [],
+      "reference": {
+        "book": 66,
+        "hadith": 1
+      }
+    }
+  ]
 }

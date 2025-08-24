@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 704,
-			"arabicnumber": 704,
-			"text": "Ebu Mesûd (radiyallahu anh) anlatıyor: \"Bir adam Resûlullah Sallallahu Aleyhi ve Sellem'e gelip; 'Ey Allah'ın Resulü, falanca imam namaz'ı çok uzun kıldırdığı için sabah namazlarına gidemiyorum' diyerek şikayette bulunmuştu. Ben Resûlullah Sallallahu Aleyhi ve Sellem'in hiçbir yerde o gün kızdığı kadar kızdığını görmemiştim- Bunun üzerine ashabına dönüp şöyle buyurdu; Ey insanlar, sizin içinizde halkı (namazdan ve dinden) soğutanlar var. Kim halka imamlık yapıp namaz kıldırtyorsa kısa tutsun. Çünkü arkasında zayıf, yaşlı ve iş - güç (ihtiyaç) sahibi kimseler vardır",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 99
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 704,
+      "arabicnumber": 704,
+      "text": "Ebu Mesûd (radiyallahu anh) anlatıyor: \"Bir adam Resûlullah Sallallahu Aleyhi ve Sellem'e gelip; 'Ey Allah'ın Resulü, falanca imam namaz'ı çok uzun kıldırdığı için sabah namazlarına gidemiyorum' diyerek şikayette bulunmuştu. Ben Resûlullah Sallallahu Aleyhi ve Sellem'in hiçbir yerde o gün kızdığı kadar kızdığını görmemiştim- Bunun üzerine ashabına dönüp şöyle buyurdu; Ey insanlar, sizin içinizde halkı (namazdan ve dinden) soğutanlar var. Kim halka imamlık yapıp namaz kıldırtyorsa kısa tutsun. Çünkü arkasında zayıf, yaşlı ve iş - güç (ihtiyaç) sahibi kimseler vardır",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 99
+      }
+    }
+  ]
 }

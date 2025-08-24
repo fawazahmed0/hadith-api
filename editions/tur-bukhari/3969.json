@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3969,
-			"arabicnumber": 3969,
-			"text": "Kays b. Ubad dedi ki: \"Ben Ebu Zer'i yemin ederek (şöyle dediğini) dinledim: Şüphesiz şu: \"Bu ikisi Rableri hakkında davalaşan iki hasımdırlar.\"[Hacc, 19] ayeti Bedir günü teke tek çarpışan şu kimseler hakkında inmiştir: Hamza, Ali ve Ubeyde b. Haris ile (karşılarındaki) Rabia'nın oğulları Utbe ve Şeybe ile el-Velid b. Utbe",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3969,
+      "arabicnumber": 3969,
+      "text": "Kays b. Ubad dedi ki: \"Ben Ebu Zer'i yemin ederek (şöyle dediğini) dinledim: Şüphesiz şu: \"Bu ikisi Rableri hakkında davalaşan iki hasımdırlar.\"[Hacc, 19] ayeti Bedir günü teke tek çarpışan şu kimseler hakkında inmiştir: Hamza, Ali ve Ubeyde b. Haris ile (karşılarındaki) Rabia'nın oğulları Utbe ve Şeybe ile el-Velid b. Utbe",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 22
+      }
+    }
+  ]
 }

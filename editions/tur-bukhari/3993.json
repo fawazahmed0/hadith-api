@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3993,
-			"arabicnumber": 3993,
-			"text": "Muaz b. Rifaa b. Rafi --ki (babası) Rifaa Bedir'e katılanlardandı-- (onun da babası) Rafi' -Akabe'de bulunanlardandı- oğluna şöyle derdi: Akabe yerine Bedir'de bulunmuş olmak beni daha çok sevindirmez. Rafi': Cibril Nebi Sallallahu Aleyhi ve Sellem'e sordu ... deyip, bu hadisi zikretti",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 44
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3993,
+      "arabicnumber": 3993,
+      "text": "Muaz b. Rifaa b. Rafi --ki (babası) Rifaa Bedir'e katılanlardandı-- (onun da babası) Rafi' -Akabe'de bulunanlardandı- oğluna şöyle derdi: Akabe yerine Bedir'de bulunmuş olmak beni daha çok sevindirmez. Rafi': Cibril Nebi Sallallahu Aleyhi ve Sellem'e sordu ... deyip, bu hadisi zikretti",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 44
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"8": "Prayers (Salat)"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 349,
-				"hadithnumber_last": 520,
-				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 496,
-			"arabicnumber": 496,
-			"text": "Sehl (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellemin namaz kıldığı yer ile duvar arasında bir koyunun geçebileceği kadar mesafe vardı. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 143
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "8": "Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 349,
+        "hadithnumber_last": 520,
+        "arabicnumber_first": 349,
+        "arabicnumber_last": 520
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 496,
+      "arabicnumber": 496,
+      "text": "Sehl (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellemin namaz kıldığı yer ile duvar arasında bir koyunun geçebileceği kadar mesafe vardı. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 143
+      }
+    }
+  ]
 }

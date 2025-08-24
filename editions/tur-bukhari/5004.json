@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"66": "Virtues of the Qur'an"
-		},
-		"section_detail": {
-			"66": {
-				"hadithnumber_first": 4979,
-				"hadithnumber_last": 5062,
-				"arabicnumber_first": 4979,
-				"arabicnumber_last": 5062
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5004,
-			"arabicnumber": 5004,
-			"text": "Enes'in şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem vefat ettiği zaman Kur'an'ı dört kişiden başkası ezberlememişti. Onlar Ebu'd-Derda, Muaz İbn Cebel, Zeyd İbn Sabit ve Ebu Zeyd'dir. Bizler, Kur'an'ı onlardan miras aldık",
-			"grades": [],
-			"reference": {
-				"book": 66,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "66": "Kur'ân’ın Faziletleri"
+    },
+    "section_detail": {
+      "66": {
+        "hadithnumber_first": 4979,
+        "hadithnumber_last": 5062,
+        "arabicnumber_first": 4979,
+        "arabicnumber_last": 5062
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5004,
+      "arabicnumber": 5004,
+      "text": "Enes'in şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem vefat ettiği zaman Kur'an'ı dört kişiden başkası ezberlememişti. Onlar Ebu'd-Derda, Muaz İbn Cebel, Zeyd İbn Sabit ve Ebu Zeyd'dir. Bizler, Kur'an'ı onlardan miras aldık",
+      "grades": [],
+      "reference": {
+        "book": 66,
+        "hadith": 26
+      }
+    }
+  ]
 }

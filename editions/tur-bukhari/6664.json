@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"83": "Oaths and Vows"
-		},
-		"section_detail": {
-			"83": {
-				"hadithnumber_first": 6621,
-				"hadithnumber_last": 6707,
-				"arabicnumber_first": 6621,
-				"arabicnumber_last": 6707
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6664,
-			"arabicnumber": 6664,
-			"text": "Ebu Hureyre merfu olarak şöyle rivayet etmiştir: \"Aııah ümmetime, kalbine giren vesveselere karşı, bunlarla amel etmedikçe ve bunlardan söz etmediği sürece, müsamaha göstermiştir",
-			"grades": [],
-			"reference": {
-				"book": 83,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "83": "Yeminler ve Nezirler"
+    },
+    "section_detail": {
+      "83": {
+        "hadithnumber_first": 6621,
+        "hadithnumber_last": 6707,
+        "arabicnumber_first": 6621,
+        "arabicnumber_last": 6707
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6664,
+      "arabicnumber": 6664,
+      "text": "Ebu Hureyre merfu olarak şöyle rivayet etmiştir: \"Aııah ümmetime, kalbine giren vesveselere karşı, bunlarla amel etmedikçe ve bunlardan söz etmediği sürece, müsamaha göstermiştir",
+      "grades": [],
+      "reference": {
+        "book": 83,
+        "hadith": 42
+      }
+    }
+  ]
 }

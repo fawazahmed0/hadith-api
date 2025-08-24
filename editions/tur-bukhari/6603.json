@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"82": "Divine Will (Al-Qadar)"
-		},
-		"section_detail": {
-			"82": {
-				"hadithnumber_first": 6594,
-				"hadithnumber_last": 6620,
-				"arabicnumber_first": 6594,
-				"arabicnumber_last": 6620
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6603,
-			"arabicnumber": 6603,
-			"text": "Abdullah b. Muhayriz el-Cumahi şöyle rivayet etmiştir: Ebu Said el-Hıidri Nebi Sallallahu Aleyhi ve Sellem'in yanında otururken Ensardan bir adam gelip Nebi Sallallahu Aleyhi ve Sellem'e: Bizim esirlerimiz var. Malı mülkü de severiz. Azil (doğum kontrolü) yapabilir miyiz?\" diye sordu. Nebi Sallallahu Aleyhi ve Sellem ona şöyle cevap verdi: \"Siz bunu yapıyor musunuz? Yapmanızda bir sakınca yoktur. Ancak Allah'ın dünyaya gelmesini takdir ettiği her canlı mutlaka dünyaya gelir",
-			"grades": [],
-			"reference": {
-				"book": 82,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "82": "Kaza ve Kaderle İlgili Hadisler Kitabı"
+    },
+    "section_detail": {
+      "82": {
+        "hadithnumber_first": 6594,
+        "hadithnumber_last": 6620,
+        "arabicnumber_first": 6594,
+        "arabicnumber_last": 6620
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6603,
+      "arabicnumber": 6603,
+      "text": "Abdullah b. Muhayriz el-Cumahi şöyle rivayet etmiştir: Ebu Said el-Hıidri Nebi Sallallahu Aleyhi ve Sellem'in yanında otururken Ensardan bir adam gelip Nebi Sallallahu Aleyhi ve Sellem'e: Bizim esirlerimiz var. Malı mülkü de severiz. Azil (doğum kontrolü) yapabilir miyiz?\" diye sordu. Nebi Sallallahu Aleyhi ve Sellem ona şöyle cevap verdi: \"Siz bunu yapıyor musunuz? Yapmanızda bir sakınca yoktur. Ancak Allah'ın dünyaya gelmesini takdir ettiği her canlı mutlaka dünyaya gelir",
+      "grades": [],
+      "reference": {
+        "book": 82,
+        "hadith": 9
+      }
+    }
+  ]
 }

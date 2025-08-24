@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1990,
-			"arabicnumber": 1990,
-			"text": "İbn Ezher'in azatlısı Ebu Ubeyd şöyle demiştir: Ömer İbn Hattab r.a. ile bir bayrama şahit oldum. O şöyle dedi: \"Şu İki gün Resulullah Sallallahu Aleyhi ve Sellem'in oruç tutmayı yasakladığı günlerdir: Birisi orucunuzdan iftar ettiğiniz bayram günü, diğeri de kurbanınızdan yediğiniz gün\". Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 97
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1990,
+      "arabicnumber": 1990,
+      "text": "İbn Ezher'in azatlısı Ebu Ubeyd şöyle demiştir: Ömer İbn Hattab r.a. ile bir bayrama şahit oldum. O şöyle dedi: \"Şu İki gün Resulullah Sallallahu Aleyhi ve Sellem'in oruç tutmayı yasakladığı günlerdir: Birisi orucunuzdan iftar ettiğiniz bayram günü, diğeri de kurbanınızdan yediğiniz gün\". Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 97
+      }
+    }
+  ]
 }

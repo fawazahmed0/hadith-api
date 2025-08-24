@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"93": "Judgments (Ahkaam)"
-		},
-		"section_detail": {
-			"93": {
-				"hadithnumber_first": 7137,
-				"hadithnumber_last": 7225,
-				"arabicnumber_first": 7137,
-				"arabicnumber_last": 7225
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7169,
-			"arabicnumber": 7169,
-			"text": "Ümmü Seleme'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Şüphesiz ben ancak bir beşerim. Sizler bana davalarınızı getiriyorsunuz. Belki bazılarınız delilini diğerinden daha düzgün ifade etmiş olabilir. Ben de ondan işitmekte olduğuma göre hükmederim. Dolayısıyla her kimin kardeşinin hakkı olan bir şeyi onun lehine hükmetmiş isem sakın onu almasın. Ben ona ancak ateşten bir parça kesmiş olurum",
-			"grades": [],
-			"reference": {
-				"book": 93,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "93": "Hükümler"
+    },
+    "section_detail": {
+      "93": {
+        "hadithnumber_first": 7137,
+        "hadithnumber_last": 7225,
+        "arabicnumber_first": 7137,
+        "arabicnumber_last": 7225
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7169,
+      "arabicnumber": 7169,
+      "text": "Ümmü Seleme'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Şüphesiz ben ancak bir beşerim. Sizler bana davalarınızı getiriyorsunuz. Belki bazılarınız delilini diğerinden daha düzgün ifade etmiş olabilir. Ben de ondan işitmekte olduğuma göre hükmederim. Dolayısıyla her kimin kardeşinin hakkı olan bir şeyi onun lehine hükmetmiş isem sakın onu almasın. Ben ona ancak ateşten bir parça kesmiş olurum",
+      "grades": [],
+      "reference": {
+        "book": 93,
+        "hadith": 33
+      }
+    }
+  ]
 }

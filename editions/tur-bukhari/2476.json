@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"46": "Oppressions"
-		},
-		"section_detail": {
-			"46": {
-				"hadithnumber_first": 2440,
-				"hadithnumber_last": 2482,
-				"arabicnumber_first": 2440,
-				"arabicnumber_last": 2482
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2476,
-			"arabicnumber": 2476,
-			"text": "Ebu Hureyre r.a.'den rivayet edilmiştir. Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Meryem'in oğlu aranıza adaleti sağlayan bir hakem olarak indirilip haç'ı kırıncaya, domuzu öldürünceye, cizyeyi kaldırıncaya ve mal, hiç kimse kabul etmeyecek derecede çoğalıncaya dek kıyamet kopmaz",
-			"grades": [],
-			"reference": {
-				"book": 46,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "46": "Zulümler ve Gasb"
+    },
+    "section_detail": {
+      "46": {
+        "hadithnumber_first": 2440,
+        "hadithnumber_last": 2482,
+        "arabicnumber_first": 2440,
+        "arabicnumber_last": 2482
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2476,
+      "arabicnumber": 2476,
+      "text": "Ebu Hureyre r.a.'den rivayet edilmiştir. Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Meryem'in oğlu aranıza adaleti sağlayan bir hakem olarak indirilip haç'ı kırıncaya, domuzu öldürünceye, cizyeyi kaldırıncaya ve mal, hiç kimse kabul etmeyecek derecede çoğalıncaya dek kıyamet kopmaz",
+      "grades": [],
+      "reference": {
+        "book": 46,
+        "hadith": 37
+      }
+    }
+  ]
 }

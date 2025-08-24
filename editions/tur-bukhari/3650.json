@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"62": "Companions of the Prophet"
-		},
-		"section_detail": {
-			"62": {
-				"hadithnumber_first": 3649,
-				"hadithnumber_last": 3775,
-				"arabicnumber_first": 3649,
-				"arabicnumber_last": 3775
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3650,
-			"arabicnumber": 3650,
-			"text": "İmran b. Husayn r.a. dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Ümmetimin hayırlıları benim çağdaşlarımdır. Sonra onlardan sonra gelecekler, sonra onlardan sonra gelecekler. İmran dedi ki: Kendi çağdaşlarından sonra iki mi yoksa üç defa mı böyle zikrettiğini bilemiyorum. Daha sonra da sizin ardınızdan şahit!ik etmeleri istenmediği halde şahitlik edecek, emanete hainlik edecek, kendilerine güvenilmeyecek. Adaklarda bulunup, adaklarını yerine getirmeyecek kimseler gelecektir. Aralarında şişmanlık da baş gösterecektir",
-			"grades": [],
-			"reference": {
-				"book": 62,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "62": "Peygamber Aleyhisselamın Sahâbîlerinin Faziletleri"
+    },
+    "section_detail": {
+      "62": {
+        "hadithnumber_first": 3649,
+        "hadithnumber_last": 3775,
+        "arabicnumber_first": 3649,
+        "arabicnumber_last": 3775
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3650,
+      "arabicnumber": 3650,
+      "text": "İmran b. Husayn r.a. dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Ümmetimin hayırlıları benim çağdaşlarımdır. Sonra onlardan sonra gelecekler, sonra onlardan sonra gelecekler. İmran dedi ki: Kendi çağdaşlarından sonra iki mi yoksa üç defa mı böyle zikrettiğini bilemiyorum. Daha sonra da sizin ardınızdan şahit!ik etmeleri istenmediği halde şahitlik edecek, emanete hainlik edecek, kendilerine güvenilmeyecek. Adaklarda bulunup, adaklarını yerine getirmeyecek kimseler gelecektir. Aralarında şişmanlık da baş gösterecektir",
+      "grades": [],
+      "reference": {
+        "book": 62,
+        "hadith": 2
+      }
+    }
+  ]
 }

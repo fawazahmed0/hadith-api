@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1418,
-			"arabicnumber": 1418,
-			"text": "Aişe r.anha şöyle anlatır: Bir şeyler istemek üzere yanıma, iki kızıyla birlikte bir kadın geldi. Bende bir hurmadan başka bir şey yoktu. Bunu ona verdim. Kadın hurmayı kızlarına paylaştırdı ve kendisi hiç bir şey yemedi. Sonra kalktı ve gitti. Daha sonra Resûlullah Sallallahu Aleyhi ve Sellem geldi. Olan biteni ona. anlattım. Bunun üzerine o, \"Kim şu kız çocukları yüzünden bir sıkıntıya maruz kalırsa bu, onun için cehennem'e karşı bir perde olur\" buyurdu. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1418,
+      "arabicnumber": 1418,
+      "text": "Aişe r.anha şöyle anlatır: Bir şeyler istemek üzere yanıma, iki kızıyla birlikte bir kadın geldi. Bende bir hurmadan başka bir şey yoktu. Bunu ona verdim. Kadın hurmayı kızlarına paylaştırdı ve kendisi hiç bir şey yemedi. Sonra kalktı ve gitti. Daha sonra Resûlullah Sallallahu Aleyhi ve Sellem geldi. Olan biteni ona. anlattım. Bunun üzerine o, \"Kim şu kız çocukları yüzünden bir sıkıntıya maruz kalırsa bu, onun için cehennem'e karşı bir perde olur\" buyurdu. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 22
+      }
+    }
+  ]
 }

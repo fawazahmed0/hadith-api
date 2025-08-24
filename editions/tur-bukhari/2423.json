@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"44": "Khusoomaat"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 2410,
-				"hadithnumber_last": 2425,
-				"arabicnumber_first": 2410,
-				"arabicnumber_last": 2425
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2423,
-			"arabicnumber": 2423,
-			"text": "Said İbn Ebu Said r.a., Ebu Hureyre'nin şöyle dediğini işitmiştir: Resulullah Sallallahu Aleyhi ve Sellem Necd tarafına bir süvari grubu gönderdi. Müfreze, beraberinde Beni Hanife kabilesinden Sümame İbn Usal adında birini getirip mescidin bir direğine bağladılar. باب: الملازمة. 9. ALACAKLININ BORÇLUYU TAKİBİ",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "44": "Hukukî Çekişmeler"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 2410,
+        "hadithnumber_last": 2425,
+        "arabicnumber_first": 2410,
+        "arabicnumber_last": 2425
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2423,
+      "arabicnumber": 2423,
+      "text": "Said İbn Ebu Said r.a., Ebu Hureyre'nin şöyle dediğini işitmiştir: Resulullah Sallallahu Aleyhi ve Sellem Necd tarafına bir süvari grubu gönderdi. Müfreze, beraberinde Beni Hanife kabilesinden Sümame İbn Usal adında birini getirip mescidin bir direğine bağladılar. باب: الملازمة. 9. ALACAKLININ BORÇLUYU TAKİBİ",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 13
+      }
+    }
+  ]
 }

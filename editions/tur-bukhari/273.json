@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"5": "Bathing (Ghusl)"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 248,
-				"hadithnumber_last": 293,
-				"arabicnumber_first": 248,
-				"arabicnumber_last": 293
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 273,
-			"arabicnumber": 273,
-			"text": "Aişe r.anha'dan şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) ğusül abdesti aldığı zaman, namaz için abdest alır gibi abdest alırdı. Sonra ğusle başlardı, sonra elleriyle saçlarını hilallerdi (ovardı). Derisine kadar suyu ulaştırdığına kanaat getirince üç kez üzerine su döküp vücudunun geri kalan kısmını yıkadı",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "5": "Gusül"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 248,
+        "hadithnumber_last": 293,
+        "arabicnumber_first": 248,
+        "arabicnumber_last": 293
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 273,
+      "arabicnumber": 273,
+      "text": "Aişe r.anha'dan şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) ğusül abdesti aldığı zaman, namaz için abdest alır gibi abdest alırdı. Sonra ğusle başlardı, sonra elleriyle saçlarını hilallerdi (ovardı). Derisine kadar suyu ulaştırdığına kanaat getirince üç kez üzerine su döküp vücudunun geri kalan kısmını yıkadı",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 25
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"57": "One-fifth of Booty to the Cause of Allah (Khumus)"
-		},
-		"section_detail": {
-			"57": {
-				"hadithnumber_first": 3091,
-				"hadithnumber_last": 3155,
-				"arabicnumber_first": 3091,
-				"arabicnumber_last": 3155
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3122,
-			"arabicnumber": 3122,
-			"text": "Cabir İbn Abdullah r.a., Nebi Sallallahu Aleyhi ve Sellem'in: \"Ganimet bana helal kılındı\" dediğini nakletmiştir",
-			"grades": [],
-			"reference": {
-				"book": 57,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "57": "Ganimetin Beşte Biri"
+    },
+    "section_detail": {
+      "57": {
+        "hadithnumber_first": 3091,
+        "hadithnumber_last": 3155,
+        "arabicnumber_first": 3091,
+        "arabicnumber_last": 3155
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3122,
+      "arabicnumber": 3122,
+      "text": "Cabir İbn Abdullah r.a., Nebi Sallallahu Aleyhi ve Sellem'in: \"Ganimet bana helal kılındı\" dediğini nakletmiştir",
+      "grades": [],
+      "reference": {
+        "book": 57,
+        "hadith": 31
+      }
+    }
+  ]
 }

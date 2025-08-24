@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"68": "Divorce"
-		},
-		"section_detail": {
-			"68": {
-				"hadithnumber_first": 5251,
-				"hadithnumber_last": 5350,
-				"arabicnumber_first": 5251,
-				"arabicnumber_last": 5350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5346,
-			"arabicnumber": 5346,
-			"text": "Ebu Mes'ud r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem köpeğin bedelini, kahinin kahinlik karşısında aldığı ücreti ve fahişeye verilen ücreti yasaklamıştır",
-			"grades": [],
-			"reference": {
-				"book": 68,
-				"hadith": 91
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "68": "Boşamak-Boşanmak"
+    },
+    "section_detail": {
+      "68": {
+        "hadithnumber_first": 5251,
+        "hadithnumber_last": 5350,
+        "arabicnumber_first": 5251,
+        "arabicnumber_last": 5350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5346,
+      "arabicnumber": 5346,
+      "text": "Ebu Mes'ud r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem köpeğin bedelini, kahinin kahinlik karşısında aldığı ücreti ve fahişeye verilen ücreti yasaklamıştır",
+      "grades": [],
+      "reference": {
+        "book": 68,
+        "hadith": 91
+      }
+    }
+  ]
 }

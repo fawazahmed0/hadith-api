@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"67": "Wedlock, Marriage (Nikaah)"
-		},
-		"section_detail": {
-			"67": {
-				"hadithnumber_first": 5063,
-				"hadithnumber_last": 5250,
-				"arabicnumber_first": 5063,
-				"arabicnumber_last": 5250
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5245,
-			"arabicnumber": 5245,
-			"text": "Cabir'den, dedi ki: \"Bir gazvede Rasulullah Sallallahu Aleyhi ve Sellem ile birlikte idim. Geri döndüğümüzde ben ağır yürüyen bir deve üzerinde acele etmek istedim. Arkamdan bir binekli bana yetişti. Dönüp baktığımda Rasulullah Sallallahu Aleyhi ve Sellem'i gördüm. Acele etmene sebep ne, diye sordu. Ben yeni evlenmiş birisiyim, dedim. O: Bakire birisi ile mi evIendin yoksa duI ile mi evIendin, diye sordu. Ben: Hayır, duI ile dedim. O: Niçin kendisiyIe oynaşacağın ve seninIe oynaşacak bir kız ile evIenmedin ki, diye sordu. (Cabir devamIa) dedi ki: Medine'ye vardığımızda evIerimize girmek için gittik. O: GeceIeyin -yani akşam vaktinde- girmek üzere biraz aceIe etmeyin ki, kocasından ayrı kaImış saçı başı karışık oIan kadın taransın ve etek traşı oIup temizIensin",
-			"grades": [],
-			"reference": {
-				"book": 67,
-				"hadith": 178
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "67": "Nikâh"
+    },
+    "section_detail": {
+      "67": {
+        "hadithnumber_first": 5063,
+        "hadithnumber_last": 5250,
+        "arabicnumber_first": 5063,
+        "arabicnumber_last": 5250
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5245,
+      "arabicnumber": 5245,
+      "text": "Cabir'den, dedi ki: \"Bir gazvede Rasulullah Sallallahu Aleyhi ve Sellem ile birlikte idim. Geri döndüğümüzde ben ağır yürüyen bir deve üzerinde acele etmek istedim. Arkamdan bir binekli bana yetişti. Dönüp baktığımda Rasulullah Sallallahu Aleyhi ve Sellem'i gördüm. Acele etmene sebep ne, diye sordu. Ben yeni evlenmiş birisiyim, dedim. O: Bakire birisi ile mi evIendin yoksa duI ile mi evIendin, diye sordu. Ben: Hayır, duI ile dedim. O: Niçin kendisiyIe oynaşacağın ve seninIe oynaşacak bir kız ile evIenmedin ki, diye sordu. (Cabir devamIa) dedi ki: Medine'ye vardığımızda evIerimize girmek için gittik. O: GeceIeyin -yani akşam vaktinde- girmek üzere biraz aceIe etmeyin ki, kocasından ayrı kaImış saçı başı karışık oIan kadın taransın ve etek traşı oIup temizIensin",
+      "grades": [],
+      "reference": {
+        "book": 67,
+        "hadith": 178
+      }
+    }
+  ]
 }

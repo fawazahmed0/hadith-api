@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 132,
-			"arabicnumber": 132,
-			"text": "Ali r.a. şöyle demiştir: \"Ben kendisinden çokça mezi gelen bir kimseydim. Mikdad'dan bunu Nebi Sallallahu Aleyhi ve Sellem'e sormasını istedim. Mikdad bunu Nebi (Sallallahu aleyhi ve Sellem)'e sordu, o da şöyle dedi: \"Bundan dolayı abdest vardır. Tekrar yerler:",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 74
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 132,
+      "arabicnumber": 132,
+      "text": "Ali r.a. şöyle demiştir: \"Ben kendisinden çokça mezi gelen bir kimseydim. Mikdad'dan bunu Nebi Sallallahu Aleyhi ve Sellem'e sormasını istedim. Mikdad bunu Nebi (Sallallahu aleyhi ve Sellem)'e sordu, o da şöyle dedi: \"Bundan dolayı abdest vardır. Tekrar yerler:",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 74
+      }
+    }
+  ]
 }

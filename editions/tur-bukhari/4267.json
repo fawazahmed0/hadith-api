@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4267,
-			"arabicnumber": 4267,
-			"text": "Nu'man b. Beşir r.a. dedi ki: \"Abdullah b. Revaha baygın düştü. Kızkardeşi Amra: Ey benim dağ gibi kardeşim, ey şöyle olan, ey böyle olan deyip onun için ağlayarak ağıt yakmaya başladı. Kendisine gelince: Sen ne dedinse mutlaka bana: Vay, sen böyle miymişsin denilmiştir, dedi.\" Bu Hadis 4268 numara ile gelecektir",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 301
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4267,
+      "arabicnumber": 4267,
+      "text": "Nu'man b. Beşir r.a. dedi ki: \"Abdullah b. Revaha baygın düştü. Kızkardeşi Amra: Ey benim dağ gibi kardeşim, ey şöyle olan, ey böyle olan deyip onun için ağlayarak ağıt yakmaya başladı. Kendisine gelince: Sen ne dedinse mutlaka bana: Vay, sen böyle miymişsin denilmiştir, dedi.\" Bu Hadis 4268 numara ile gelecektir",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 301
+      }
+    }
+  ]
 }

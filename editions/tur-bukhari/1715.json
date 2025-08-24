@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1715,
-			"arabicnumber": 1715,
-			"text": "Enes r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem namazını Medine'de dört rekat, ikindi namazını Zu'l-Huleyfe'de iki rekat kıldı. Sonra orada geceledi. Sabah olunca namazı kılıp devesine bindi. Beydaya gelince umre ve hac için niyet etti",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 193
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1715,
+      "arabicnumber": 1715,
+      "text": "Enes r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem namazını Medine'de dört rekat, ikindi namazını Zu'l-Huleyfe'de iki rekat kıldı. Sonra orada geceledi. Sabah olunca namazı kılıp devesine bindi. Beydaya gelince umre ve hac için niyet etti",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 193
+      }
+    }
+  ]
 }

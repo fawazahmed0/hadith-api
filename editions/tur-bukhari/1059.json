@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"16": "Eclipses"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 1040,
-				"hadithnumber_last": 1066,
-				"arabicnumber_first": 1040,
-				"arabicnumber_last": 1066
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1059,
-			"arabicnumber": 1059,
-			"text": "Ebu Musa (el-Eş'ari r.a.)'den nakledilmiştir: Güneş tutulmuştu. Bunu gören Nebi Sallallahu Aleyhi ve Sellem yerinden dehşet içinde kalktı. Bunun kıyamet olacağından korkuya kapılmış gibiydi. Bu dehşet içinde mescide girdi ve daha önce hiç görmediğim şekilde kıyamı, rükuu ve secdesi çok uzun olan bir namaz kıldırdı. Namazın ardından da şöyle buyurdu: \"Allah'ın gömdermiş olduğu bu ayetler / deliller asla bir kimsenin ölümü ve hayatı yüzünden meydana gelmez. Fakat Allah Teala bunlar ile kullarına korku salar. Siz bu tür olağandışı olaylar görürseniz hemen Allah'ı zikretmeye, Ona yalvarmaya ve Ondan af dilemeye (istiğfar) başlayın",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "16": "Güneş ve Ay Tutulması"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 1040,
+        "hadithnumber_last": 1066,
+        "arabicnumber_first": 1040,
+        "arabicnumber_last": 1066
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1059,
+      "arabicnumber": 1059,
+      "text": "Ebu Musa (el-Eş'ari r.a.)'den nakledilmiştir: Güneş tutulmuştu. Bunu gören Nebi Sallallahu Aleyhi ve Sellem yerinden dehşet içinde kalktı. Bunun kıyamet olacağından korkuya kapılmış gibiydi. Bu dehşet içinde mescide girdi ve daha önce hiç görmediğim şekilde kıyamı, rükuu ve secdesi çok uzun olan bir namaz kıldırdı. Namazın ardından da şöyle buyurdu: \"Allah'ın gömdermiş olduğu bu ayetler / deliller asla bir kimsenin ölümü ve hayatı yüzünden meydana gelmez. Fakat Allah Teala bunlar ile kullarına korku salar. Siz bu tür olağandışı olaylar görürseniz hemen Allah'ı zikretmeye, Ona yalvarmaya ve Ondan af dilemeye (istiğfar) başlayın",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 18
+      }
+    }
+  ]
 }

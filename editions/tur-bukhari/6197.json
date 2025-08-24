@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"78": "Good Manners and Form (Al-Adab)"
-		},
-		"section_detail": {
-			"78": {
-				"hadithnumber_first": 5970,
-				"hadithnumber_last": 6226,
-				"arabicnumber_first": 5970,
-				"arabicnumber_last": 6226
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6197,
-			"arabicnumber": 6197,
-			"text": "Ebu Hureyre r.a.'dan rivSyete göre; \"Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Benim adımı ad olarak veriniz, ama benim künyemle künyelenmeyiniz, Beni rüyasında gören bir kimse, beni gördü demektir. Çünkü şeytan benim suretime giremez. Kasten benim hakkımda yalan uyduran bir kimse de cehennemdeki yerine hazırlansın",
-			"grades": [],
-			"reference": {
-				"book": 78,
-				"hadith": 221
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "78": "Edeb"
+    },
+    "section_detail": {
+      "78": {
+        "hadithnumber_first": 5970,
+        "hadithnumber_last": 6226,
+        "arabicnumber_first": 5970,
+        "arabicnumber_last": 6226
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6197,
+      "arabicnumber": 6197,
+      "text": "Ebu Hureyre r.a.'dan rivSyete göre; \"Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Benim adımı ad olarak veriniz, ama benim künyemle künyelenmeyiniz, Beni rüyasında gören bir kimse, beni gördü demektir. Çünkü şeytan benim suretime giremez. Kasten benim hakkımda yalan uyduran bir kimse de cehennemdeki yerine hazırlansın",
+      "grades": [],
+      "reference": {
+        "book": 78,
+        "hadith": 221
+      }
+    }
+  ]
 }

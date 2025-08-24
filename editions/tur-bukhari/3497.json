@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"61": "Virtues and Merits of the Prophet (pbuh) and his Companions"
-		},
-		"section_detail": {
-			"61": {
-				"hadithnumber_first": 3489,
-				"hadithnumber_last": 3648,
-				"arabicnumber_first": 3489,
-				"arabicnumber_last": 3648
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3497,
-			"arabicnumber": 3497,
-			"text": "İbn Abbas r.a.'dan: \"Akrabalıkta sevgiden başka\"[Şura, 23] (buyruğunu okuyunca) Said b. Cubeyr: \"Maksat\" Muhammed'in akrabalığıdır deyince, İbn Abbas dedi ki: Nebi Sallallahu Aleyhi ve Sellem'in kendileriyle akrabalığı bulunmadığı Kureyş'in hiçbir kolu yoktur. İşte bu ayet ona bu hususta nazil olmuştur. Benimle sizin aranızdaki akrabalık bağını gözetmenizden başka(sını istemiyorum, demektir.)\" Bu Hadis 4818 numara lle gelecektir",
-			"grades": [],
-			"reference": {
-				"book": 61,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "61": "Menkıbeler"
+    },
+    "section_detail": {
+      "61": {
+        "hadithnumber_first": 3489,
+        "hadithnumber_last": 3648,
+        "arabicnumber_first": 3489,
+        "arabicnumber_last": 3648
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3497,
+      "arabicnumber": 3497,
+      "text": "İbn Abbas r.a.'dan: \"Akrabalıkta sevgiden başka\"[Şura, 23] (buyruğunu okuyunca) Said b. Cubeyr: \"Maksat\" Muhammed'in akrabalığıdır deyince, İbn Abbas dedi ki: Nebi Sallallahu Aleyhi ve Sellem'in kendileriyle akrabalığı bulunmadığı Kureyş'in hiçbir kolu yoktur. İşte bu ayet ona bu hususta nazil olmuştur. Benimle sizin aranızdaki akrabalık bağını gözetmenizden başka(sını istemiyorum, demektir.)\" Bu Hadis 4818 numara lle gelecektir",
+      "grades": [],
+      "reference": {
+        "book": 61,
+        "hadith": 7
+      }
+    }
+  ]
 }

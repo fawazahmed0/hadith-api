@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"72": "Hunting, Slaughtering"
-		},
-		"section_detail": {
-			"72": {
-				"hadithnumber_first": 5475,
-				"hadithnumber_last": 5544,
-				"arabicnumber_first": 5475,
-				"arabicnumber_last": 5544
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5515,
-			"arabicnumber": 5515,
-			"text": "Said b. Cubeyr'den, dedi ki: \"İbn Ömer'in yanında idim. Beraberindekiler ile atış yaptıkları bir tavuğu hedef olarak dikmiş birkaç gencin -yahut bir grup insanın- yanından geçtiler. Bunlar İbn Ömer'i görünce o tavuğun etrafından dağıldılar. İbn Ömer de: Bunu kim yaptı? Şüphesiz Nebi Sallallahu Aleyhi ve Sellem bu işi yapana la'net etmiştir, dedi.\" Süleyman bu hadisi Şu'be'den rivayet ederek ona (Ebu Bişr'e) mutabaat etmiştir. Bize el-Minhal, Said'den tahdis etti, o İbn Ömer'den (şöyle dediğini nakletti): \"Nebi Sallallahu Aleyhi ve Sellem hayvana musle yapan (canlı iken organını kesen) kimselere lanet etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 72,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "72": "Boğazlanan ve Avlanan Hayvanlar"
+    },
+    "section_detail": {
+      "72": {
+        "hadithnumber_first": 5475,
+        "hadithnumber_last": 5544,
+        "arabicnumber_first": 5475,
+        "arabicnumber_last": 5544
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5515,
+      "arabicnumber": 5515,
+      "text": "Said b. Cubeyr'den, dedi ki: \"İbn Ömer'in yanında idim. Beraberindekiler ile atış yaptıkları bir tavuğu hedef olarak dikmiş birkaç gencin -yahut bir grup insanın- yanından geçtiler. Bunlar İbn Ömer'i görünce o tavuğun etrafından dağıldılar. İbn Ömer de: Bunu kim yaptı? Şüphesiz Nebi Sallallahu Aleyhi ve Sellem bu işi yapana la'net etmiştir, dedi.\" Süleyman bu hadisi Şu'be'den rivayet ederek ona (Ebu Bişr'e) mutabaat etmiştir. Bize el-Minhal, Said'den tahdis etti, o İbn Ömer'den (şöyle dediğini nakletti): \"Nebi Sallallahu Aleyhi ve Sellem hayvana musle yapan (canlı iken organını kesen) kimselere lanet etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 72,
+        "hadith": 41
+      }
+    }
+  ]
 }

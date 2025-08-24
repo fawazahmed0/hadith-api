@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1584,
-			"arabicnumber": 1584,
-			"text": "Aişe (r.anha) şöyle anlatır: \"Hz. Nebi'e, (Hicr) duvarının Kabe'ye ait olup olmadığını sordum. Bana, \"evet\" diye cevap verdi. \"Neden burayı Kabe'ye dahil etmemişler?\" diye sordum. \"Kavmin (Kureyş), orayı içeriye katma bütçesi bulamadı\" buyurdu. \"Kabe'nin kapısı neden yüksektedir\" dedim. Bana, \"Kavmin, Kabe'ye dilediği kimseleri sokuyor, dilemediklerini ise sokmuyordu. Eğer kavmin cahiliyye dönemine yakın bir zamanda olmasaydı ve bundan dolayı inkara kalkışacaklarından endişe etmeseydim muhakkak ki Hicr duvarını Kabe'nin içine alır, kapısını da yer seviyesine indirirdim\" diye cevap verdi",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 70
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1584,
+      "arabicnumber": 1584,
+      "text": "Aişe (r.anha) şöyle anlatır: \"Hz. Nebi'e, (Hicr) duvarının Kabe'ye ait olup olmadığını sordum. Bana, \"evet\" diye cevap verdi. \"Neden burayı Kabe'ye dahil etmemişler?\" diye sordum. \"Kavmin (Kureyş), orayı içeriye katma bütçesi bulamadı\" buyurdu. \"Kabe'nin kapısı neden yüksektedir\" dedim. Bana, \"Kavmin, Kabe'ye dilediği kimseleri sokuyor, dilemediklerini ise sokmuyordu. Eğer kavmin cahiliyye dönemine yakın bir zamanda olmasaydı ve bundan dolayı inkara kalkışacaklarından endişe etmeseydim muhakkak ki Hicr duvarını Kabe'nin içine alır, kapısını da yer seviyesine indirirdim\" diye cevap verdi",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 70
+      }
+    }
+  ]
 }

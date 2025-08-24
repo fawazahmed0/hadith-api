@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6512,
-			"arabicnumber": 6512,
-			"text": "Ebu Katade b. Rib'i el-Ensari'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem'in yanından bir cenaze geçirilmişti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem \"Kendisi rahatlayan veya kendisinden kurtulunmuş alandır\" dedi. Sahabiler \"Ya Resulallah! Rahatlayan veya kendisinden rahatlanan nedir?\" diye sordular. Resulullah Sallallahu Aleyhi ve Sellem şöyle cevap verdi: \"Mu'min olan kul, dünyanın yorgunluklarından ve ezalarından aziz olan Allah'ın rahmetine gidip istirahat eder. Facir olan kul'a gelince, onlar da diğer kul/ar, şehirler, ağaçlar ve hayvanlar kurtulup istirahat ederler!\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 101
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6512,
+      "arabicnumber": 6512,
+      "text": "Ebu Katade b. Rib'i el-Ensari'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem'in yanından bir cenaze geçirilmişti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem \"Kendisi rahatlayan veya kendisinden kurtulunmuş alandır\" dedi. Sahabiler \"Ya Resulallah! Rahatlayan veya kendisinden rahatlanan nedir?\" diye sordular. Resulullah Sallallahu Aleyhi ve Sellem şöyle cevap verdi: \"Mu'min olan kul, dünyanın yorgunluklarından ve ezalarından aziz olan Allah'ın rahmetine gidip istirahat eder. Facir olan kul'a gelince, onlar da diğer kul/ar, şehirler, ağaçlar ve hayvanlar kurtulup istirahat ederler!\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 101
+      }
+    }
+  ]
 }

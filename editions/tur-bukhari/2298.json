@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"39": "Kafalah"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 2290,
-				"hadithnumber_last": 2298,
-				"arabicnumber_first": 2290,
-				"arabicnumber_last": 2298
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2298,
-			"arabicnumber": 2298,
-			"text": "Ebu Hureyre r.a. şöyle anlatır: Resuılullah Sallallahu Aleyhi ve Sellem'e borcu bulunan bir cenaze getirildiği zaman \"Borcu için (techiz masraflarını) aşan bir mal bıraktı mı?\" diye sorardı. Eğer borcunu karşılayacak kadar mal bıraktığı söylenirse onun cenaze namazını kılardı. Aksi halde, müminlere, \"Arkadaşınızın namazını kılın\" buyururdu. Fetihler artıp (mallar çoğalınca), \"Ben, mu'minlere kendi nefislerinden daha yakınım. Bir müslüman borçlu olarak ölürse borcunu ödemek bana aittir. Mal bıraktığı zaman ise malı mirasçılarınındır\" buyurmuştur. Tekra:",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "39": "Kafalet"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 2290,
+        "hadithnumber_last": 2298,
+        "arabicnumber_first": 2290,
+        "arabicnumber_last": 2298
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2298,
+      "arabicnumber": 2298,
+      "text": "Ebu Hureyre r.a. şöyle anlatır: Resuılullah Sallallahu Aleyhi ve Sellem'e borcu bulunan bir cenaze getirildiği zaman \"Borcu için (techiz masraflarını) aşan bir mal bıraktı mı?\" diye sorardı. Eğer borcunu karşılayacak kadar mal bıraktığı söylenirse onun cenaze namazını kılardı. Aksi halde, müminlere, \"Arkadaşınızın namazını kılın\" buyururdu. Fetihler artıp (mallar çoğalınca), \"Ben, mu'minlere kendi nefislerinden daha yakınım. Bir müslüman borçlu olarak ölürse borcunu ödemek bana aittir. Mal bıraktığı zaman ise malı mirasçılarınındır\" buyurmuştur. Tekra:",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 9
+      }
+    }
+  ]
 }

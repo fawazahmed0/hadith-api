@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 799,
-			"arabicnumber": 799,
-			"text": "Rifâa İbn Râfi' ez-Zürakî (radiyallahu anh) şöyle demiştir: \"Biz bir gün Resûlullah Sallallahu Aleyhi ve Sellem'in arkasında namaz kılıyorduk. Zât-ı âlîleri rükû'dan başlarını kaldırırlarken (Semi'allahu limen hamideh) deyince cemaatte bulunanlardan birisi ربنا ولك الحمد، حمدا طيبا مباركا فيه. فلما انصرف (Rabbimiz hamd sana mahsustur; bol, her türlü gösterişten uzak, halisane ve hayırlarla dolu bir hamd ile sana hamd ederiz) dedi. Resûlullah Sallallahu Aleyhi ve Sellem selâm verip namazdan çıkınca: 'O hamdi söyleyen kimdi?' diye sordu. Bunu söyleyen zât: 'Bendim ey Allah'ın Resulü' deyince Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Otuzdan daha fazla bir melek topluluğu gördüm; bu sözü daha önce yazabilmek için birbirleriyle yarışıyorlardı",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 194
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 799,
+      "arabicnumber": 799,
+      "text": "Rifâa İbn Râfi' ez-Zürakî (radiyallahu anh) şöyle demiştir: \"Biz bir gün Resûlullah Sallallahu Aleyhi ve Sellem'in arkasında namaz kılıyorduk. Zât-ı âlîleri rükû'dan başlarını kaldırırlarken (Semi'allahu limen hamideh) deyince cemaatte bulunanlardan birisi ربنا ولك الحمد، حمدا طيبا مباركا فيه. فلما انصرف (Rabbimiz hamd sana mahsustur; bol, her türlü gösterişten uzak, halisane ve hayırlarla dolu bir hamd ile sana hamd ederiz) dedi. Resûlullah Sallallahu Aleyhi ve Sellem selâm verip namazdan çıkınca: 'O hamdi söyleyen kimdi?' diye sordu. Bunu söyleyen zât: 'Bendim ey Allah'ın Resulü' deyince Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Otuzdan daha fazla bir melek topluluğu gördüm; bu sözü daha önce yazabilmek için birbirleriyle yarışıyorlardı",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 194
+      }
+    }
+  ]
 }

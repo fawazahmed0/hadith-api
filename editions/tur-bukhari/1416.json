@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1416,
-			"arabicnumber": 1416,
-			"text": "Ebû Mes'ud el-Ensarî şöyle anlatır: Resûlullah Sallallahu Aleyhi ve Sellem bize sadaka vermemizi emredince (malî durumu yeterli olmayanlardan) İçimizden biri çarşıya gider hammallık yapar ve bir miktar kazanıp bunu tasadduk ederdi. Şimdi bu şekilde yapanlardan bir kısmının, yüz binlerle ifade edilebilecek kadar malı bulunmaktadır",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 20
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1416,
+      "arabicnumber": 1416,
+      "text": "Ebû Mes'ud el-Ensarî şöyle anlatır: Resûlullah Sallallahu Aleyhi ve Sellem bize sadaka vermemizi emredince (malî durumu yeterli olmayanlardan) İçimizden biri çarşıya gider hammallık yapar ve bir miktar kazanıp bunu tasadduk ederdi. Şimdi bu şekilde yapanlardan bir kısmının, yüz binlerle ifade edilebilecek kadar malı bulunmaktadır",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 20
+      }
+    }
+  ]
 }

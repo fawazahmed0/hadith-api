@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"45": "Lost Things Picked up by Someone (Luqatah)"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 2426,
-				"hadithnumber_last": 2439,
-				"arabicnumber_first": 2426,
-				"arabicnumber_last": 2439
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2438,
-			"arabicnumber": 2438,
-			"text": "Zeyd İbn Halid r.a.'den rivayet edilmiştir: Bir bedevi, Nebi Sallallahu Aleyhi ve Sellem'e bulunan yitik malın hükmünü sordu. Nebi Sallallahu Aleyhi ve Sellem: \"Bir yıl ilan et. Birisi gelip malının kabını, bağını ve özelliklerin' söylerse ona ver, yoksa kendin harca\" buyurdu. Bedevı Hz. Nebi'e sahipsiz devenin hükmünü sordu. Bunun üzerine Hz. Nebi'in yüzü değişti ve \"Sahipsiz deve ile senin ne işin var? Onun suluğu da var, ayağı da var. Suya gider, ağaca uzanıp yer. Onu serbest bırak. Sahibi gelip onu bulur\" buyurdu. Sonra bedevi, sahipsiz koyunun hükmünü sordu. Nebi Sallallahu Aleyhi ve Sellem \"O ya senindir; ya kardeşinin, ya da kurdun\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 14
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "45": "Yerde Bulunup Kaldırılan Şey"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 2426,
+        "hadithnumber_last": 2439,
+        "arabicnumber_first": 2426,
+        "arabicnumber_last": 2439
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2438,
+      "arabicnumber": 2438,
+      "text": "Zeyd İbn Halid r.a.'den rivayet edilmiştir: Bir bedevi, Nebi Sallallahu Aleyhi ve Sellem'e bulunan yitik malın hükmünü sordu. Nebi Sallallahu Aleyhi ve Sellem: \"Bir yıl ilan et. Birisi gelip malının kabını, bağını ve özelliklerin' söylerse ona ver, yoksa kendin harca\" buyurdu. Bedevı Hz. Nebi'e sahipsiz devenin hükmünü sordu. Bunun üzerine Hz. Nebi'in yüzü değişti ve \"Sahipsiz deve ile senin ne işin var? Onun suluğu da var, ayağı da var. Suya gider, ağaca uzanıp yer. Onu serbest bırak. Sahibi gelip onu bulur\" buyurdu. Sonra bedevi, sahipsiz koyunun hükmünü sordu. Nebi Sallallahu Aleyhi ve Sellem \"O ya senindir; ya kardeşinin, ya da kurdun\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 14
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"9": "Times of the Prayers"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 522,
-				"hadithnumber_last": 602,
-				"arabicnumber_first": 522,
-				"arabicnumber_last": 602
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 577,
-			"arabicnumber": 577,
-			"text": "Ebu Hazim Sehl İbn Sa'd'ın şöyle dediğini işittiğini nakletmiştir: \"Ailemle birlikte sahur yapardım. Nebi Sallallahu Aleyhi ve Sellem ile sabah namazını kılmaya yetişmek için acele ederdim. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 9,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "9": "Namaz Vakitleri"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 522,
+        "hadithnumber_last": 602,
+        "arabicnumber_first": 522,
+        "arabicnumber_last": 602
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 577,
+      "arabicnumber": 577,
+      "text": "Ebu Hazim Sehl İbn Sa'd'ın şöyle dediğini işittiğini nakletmiştir: \"Ailemle birlikte sahur yapardım. Nebi Sallallahu Aleyhi ve Sellem ile sabah namazını kılmaya yetişmek için acele ederdim. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 9,
+        "hadith": 53
+      }
+    }
+  ]
 }

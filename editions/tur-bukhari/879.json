@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"11": "Friday Prayer"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 876,
-				"hadithnumber_last": 941,
-				"arabicnumber_first": 876,
-				"arabicnumber_last": 941
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 879,
-			"arabicnumber": 879,
-			"text": "Ebu Saîd el-Hudrî (Radiyallahu Anh) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Cum'a günü boy abdesti (ğusül) almak ihtilam olan (ergenlik çağına giren) herkese vaciptir",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "11": "Cuma"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 876,
+        "hadithnumber_last": 941,
+        "arabicnumber_first": 876,
+        "arabicnumber_last": 941
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 879,
+      "arabicnumber": 879,
+      "text": "Ebu Saîd el-Hudrî (Radiyallahu Anh) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Cum'a günü boy abdesti (ğusül) almak ihtilam olan (ergenlik çağına giren) herkese vaciptir",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 4
+      }
+    }
+  ]
 }

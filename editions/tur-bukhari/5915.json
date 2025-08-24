@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"77": "Dress"
-		},
-		"section_detail": {
-			"77": {
-				"hadithnumber_first": 5783,
-				"hadithnumber_last": 5969,
-				"arabicnumber_first": 5783,
-				"arabicnumber_last": 5969
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5915,
-			"arabicnumber": 5915,
-			"text": "İbn Ömer r.a.'dan, dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem'i başındaki saçları toplayıp yapıştırmış olarak yüksek sesle telbiye getirip: \"Lebbeyk, Allahumme lebbeyk, la şerike leke lebbeyk, inne'l-hamde ve'n-ni'mete leke ve'lmülk la şerike lek: Buyur Allah'ım buyur, Senin hiçbir ortağın yoktur. Şüphesiz, hamd de, nimet de, mülk de Senindir, Senin hiçbir ortağın yoktur, derken işitmişimdir. Bu kelimelere ayrıca hiçbir şey eklemiyordu",
-			"grades": [],
-			"reference": {
-				"book": 77,
-				"hadith": 130
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "77": "Giyilen Şeyler ve Hükümleri"
+    },
+    "section_detail": {
+      "77": {
+        "hadithnumber_first": 5783,
+        "hadithnumber_last": 5969,
+        "arabicnumber_first": 5783,
+        "arabicnumber_last": 5969
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5915,
+      "arabicnumber": 5915,
+      "text": "İbn Ömer r.a.'dan, dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem'i başındaki saçları toplayıp yapıştırmış olarak yüksek sesle telbiye getirip: \"Lebbeyk, Allahumme lebbeyk, la şerike leke lebbeyk, inne'l-hamde ve'n-ni'mete leke ve'lmülk la şerike lek: Buyur Allah'ım buyur, Senin hiçbir ortağın yoktur. Şüphesiz, hamd de, nimet de, mülk de Senindir, Senin hiçbir ortağın yoktur, derken işitmişimdir. Bu kelimelere ayrıca hiçbir şey eklemiyordu",
+      "grades": [],
+      "reference": {
+        "book": 77,
+        "hadith": 130
+      }
+    }
+  ]
 }

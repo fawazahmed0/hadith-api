@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"1": "Revelation"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 7,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4,
-			"arabicnumber": 4,
-			"text": "Cabir b. Abdullah el-Ensari r.a. (O da hadîs-i sâbıkı rivâyet edip) şöyle demiştir: Resulullah sallallahu aleyhi ve sellem fetret-i vahiyden bahsederken söz arasında buyurdu ki: \"Ben (bir gün) yürürken birdenbire gökyüzü tarafından bir ses işitttim. Başımı kaldırdım. Bir de baktım ki Hıra`da bana gelen Melek (yâni Cibrîl a.s.) semâ ile arz arasında bir kürsî üzerinde oturmuş. Pek ziyade korktum. (Evime) dönüp: beni örtün, beni örtün, dedim. Bunun üzerine Allahu Teâlâ (Müddessir suresinin ilk dört) ayet-i kerîmesini inzâl etti. Artık vahiy kızıştı da ardı arası kesilmedi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "1": "Vahy"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 7,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4,
+      "arabicnumber": 4,
+      "text": "Cabir b. Abdullah el-Ensari r.a. (O da hadîs-i sâbıkı rivâyet edip) şöyle demiştir: Resulullah sallallahu aleyhi ve sellem fetret-i vahiyden bahsederken söz arasında buyurdu ki: \"Ben (bir gün) yürürken birdenbire gökyüzü tarafından bir ses işitttim. Başımı kaldırdım. Bir de baktım ki Hıra`da bana gelen Melek (yâni Cibrîl a.s.) semâ ile arz arasında bir kürsî üzerinde oturmuş. Pek ziyade korktum. (Evime) dönüp: beni örtün, beni örtün, dedim. Bunun üzerine Allahu Teâlâ (Müddessir suresinin ilk dört) ayet-i kerîmesini inzâl etti. Artık vahiy kızıştı da ardı arası kesilmedi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 4
+      }
+    }
+  ]
 }

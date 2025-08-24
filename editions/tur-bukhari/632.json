@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 632,
-			"arabicnumber": 632,
-			"text": "Nâfi\"den şöyle nakledilmiştir: \"İbn Ömer Dacnan'da soğuk bir gecede ezan okudu. Sonra 'Bulunduğunuz yerde namaz kılın' diye seslendi. Sonra Nebi Sallallahu Aleyhi ve Sellem'in müezzine ezan okumasını ve peşi sıra şöyle demesini emrettiğini bildirdi: Seferde iken, soğuk ve yağışlı gecelerde, bulunduğunuz yerde namaz kılın. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 29
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 632,
+      "arabicnumber": 632,
+      "text": "Nâfi\"den şöyle nakledilmiştir: \"İbn Ömer Dacnan'da soğuk bir gecede ezan okudu. Sonra 'Bulunduğunuz yerde namaz kılın' diye seslendi. Sonra Nebi Sallallahu Aleyhi ve Sellem'in müezzine ezan okumasını ve peşi sıra şöyle demesini emrettiğini bildirdi: Seferde iken, soğuk ve yağışlı gecelerde, bulunduğunuz yerde namaz kılın. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 29
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"93": "Judgments (Ahkaam)"
-		},
-		"section_detail": {
-			"93": {
-				"hadithnumber_first": 7137,
-				"hadithnumber_last": 7225,
-				"arabicnumber_first": 7137,
-				"arabicnumber_last": 7225
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7195,
-			"arabicnumber": 7195,
-			"text": "Zeyd b. Sabit'in ifadesine göre Resulullah Sallallahu Aleyhi ve Sellem kendisine Yahudilerin yazısını öğrenmesini emretmiştir. Zeyd b. Sabit, ben Nebi Sallallahu Aleyhi ve Sellem'in (onlara gönderdiği) mektuplarını yazardım, onların da Nebi Sallallahu Aleyhi ve Sellem'e yazdıkları mektupları kendisine okurdum, demiştir",
-			"grades": [],
-			"reference": {
-				"book": 93,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "93": "Hükümler"
+    },
+    "section_detail": {
+      "93": {
+        "hadithnumber_first": 7137,
+        "hadithnumber_last": 7225,
+        "arabicnumber_first": 7137,
+        "arabicnumber_last": 7225
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7195,
+      "arabicnumber": 7195,
+      "text": "Zeyd b. Sabit'in ifadesine göre Resulullah Sallallahu Aleyhi ve Sellem kendisine Yahudilerin yazısını öğrenmesini emretmiştir. Zeyd b. Sabit, ben Nebi Sallallahu Aleyhi ve Sellem'in (onlara gönderdiği) mektuplarını yazardım, onların da Nebi Sallallahu Aleyhi ve Sellem'e yazdıkları mektupları kendisine okurdum, demiştir",
+      "grades": [],
+      "reference": {
+        "book": 93,
+        "hadith": 56
+      }
+    }
+  ]
 }

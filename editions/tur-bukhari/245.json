@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"4": "Ablutions (Wudu')"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 135,
-				"hadithnumber_last": 247,
-				"arabicnumber_first": 135,
-				"arabicnumber_last": 247
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 245,
-			"arabicnumber": 245,
-			"text": "Huzeyfe (bin el-Yeman r.a.) şöyle demiştir: \"Nebi Sallallahu aleyhi ve sellem geceleyin kalkınca ağzını misvakla temizlerdi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "4": "Abdest"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 135,
+        "hadithnumber_last": 247,
+        "arabicnumber_first": 135,
+        "arabicnumber_last": 247
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 245,
+      "arabicnumber": 245,
+      "text": "Huzeyfe (bin el-Yeman r.a.) şöyle demiştir: \"Nebi Sallallahu aleyhi ve sellem geceleyin kalkınca ağzını misvakla temizlerdi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 111
+      }
+    }
+  ]
 }

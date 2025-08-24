@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2080,
-			"arabicnumber": 2080,
-			"text": "Ebu Saîd r.a. şöyle demiştir; Bize rızık olarak katışık hurma verilirdi. Biz de bunun iki sa'ınıı bîr sa' hurma karşılığında satardık. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"İki sa'ı bir sa' karşılığında, iki dirhemi bir dirhem karşılığında satmayın",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2080,
+      "arabicnumber": 2080,
+      "text": "Ebu Saîd r.a. şöyle demiştir; Bize rızık olarak katışık hurma verilirdi. Biz de bunun iki sa'ınıı bîr sa' hurma karşılığında satardık. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"İki sa'ı bir sa' karşılığında, iki dirhemi bir dirhem karşılığında satmayın",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 33
+      }
+    }
+  ]
 }

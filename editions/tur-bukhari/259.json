@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"5": "Bathing (Ghusl)"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 248,
-				"hadithnumber_last": 293,
-				"arabicnumber_first": 248,
-				"arabicnumber_last": 293
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 259,
-			"arabicnumber": 259,
-			"text": "Meymûne validemizden şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem)'in gusletmesi için suyunu doldurdum. Suyu sağ eline alıp sol eline akıttı ve ellerini yıkadı. Sonra avret mahallini yıkadı. Sonra elini yere vurup toprağa sürdükten sonra tekrar yıkadı. Sonra ağzını çalkaladı ve burnuna su verdi. Sonra yüzünü yıkadı ve başından aşağı su döktü. Sonra yıkandığı yerden biraz kenara çekilip ayaklarını yıkadı. Daha sonra kendisine bir havlu takdim edildi. Ama onunla kurulanmadı",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "5": "Gusül"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 248,
+        "hadithnumber_last": 293,
+        "arabicnumber_first": 248,
+        "arabicnumber_last": 293
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 259,
+      "arabicnumber": 259,
+      "text": "Meymûne validemizden şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem)'in gusletmesi için suyunu doldurdum. Suyu sağ eline alıp sol eline akıttı ve ellerini yıkadı. Sonra avret mahallini yıkadı. Sonra elini yere vurup toprağa sürdükten sonra tekrar yıkadı. Sonra ağzını çalkaladı ve burnuna su verdi. Sonra yüzünü yıkadı ve başından aşağı su döktü. Sonra yıkandığı yerden biraz kenara çekilip ayaklarını yıkadı. Daha sonra kendisine bir havlu takdim edildi. Ama onunla kurulanmadı",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 12
+      }
+    }
+  ]
 }

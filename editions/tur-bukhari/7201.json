@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"93": "Judgments (Ahkaam)"
-		},
-		"section_detail": {
-			"93": {
-				"hadithnumber_first": 7137,
-				"hadithnumber_last": 7225,
-				"arabicnumber_first": 7137,
-				"arabicnumber_last": 7225
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7201,
-			"arabicnumber": 7201,
-			"text": "Enes b. Malik r.a. şöyle demiştir. Nebi Sallallahu Aleyhi ve Sellem (Ahzab savaşı esnasında) soğuk bir günün sabahında hendek kazılan yere çıktı ve Muhacirlerle Ensar hendek kazıyorlardı. Resulullah Sallallahu Aleyhi ve Sellem; \"Allahumme inne'l-hayra hayru'l-ahire, Fağfir li'l-ensari ve'l-muhacira Allah'ım hayır ancak hayrıdır ahiretin, Lutfeyle ensara ve muhacire mağfiretini\" diye dua etti. Orada bulunan sahabiler Resulullah Sallallahu Aleyhi ve Sellem'e; Nahnullezine bayeu Muhammedu A!e'l-cihadi ma bakina ebeda Bizleriz bey'at eden Muhammed'e Cihada yaşadıkça devam edeceğiz. diye cevap verdiler",
-			"grades": [],
-			"reference": {
-				"book": 93,
-				"hadith": 61
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "93": "Hükümler"
+    },
+    "section_detail": {
+      "93": {
+        "hadithnumber_first": 7137,
+        "hadithnumber_last": 7225,
+        "arabicnumber_first": 7137,
+        "arabicnumber_last": 7225
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7201,
+      "arabicnumber": 7201,
+      "text": "Enes b. Malik r.a. şöyle demiştir. Nebi Sallallahu Aleyhi ve Sellem (Ahzab savaşı esnasında) soğuk bir günün sabahında hendek kazılan yere çıktı ve Muhacirlerle Ensar hendek kazıyorlardı. Resulullah Sallallahu Aleyhi ve Sellem; \"Allahumme inne'l-hayra hayru'l-ahire, Fağfir li'l-ensari ve'l-muhacira Allah'ım hayır ancak hayrıdır ahiretin, Lutfeyle ensara ve muhacire mağfiretini\" diye dua etti. Orada bulunan sahabiler Resulullah Sallallahu Aleyhi ve Sellem'e; Nahnullezine bayeu Muhammedu A!e'l-cihadi ma bakina ebeda Bizleriz bey'at eden Muhammed'e Cihada yaşadıkça devam edeceğiz. diye cevap verdiler",
+      "grades": [],
+      "reference": {
+        "book": 93,
+        "hadith": 61
+      }
+    }
+  ]
 }

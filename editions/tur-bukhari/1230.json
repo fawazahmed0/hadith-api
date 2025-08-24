@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"22": "Forgetfulness in Prayer"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 1224,
-				"hadithnumber_last": 1236,
-				"arabicnumber_first": 1224,
-				"arabicnumber_last": 1236
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1230,
-			"arabicnumber": 1230,
-			"text": "Abdullah İbn Buhayne el-Esedî şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem öğle namazında oturması gereken yerde (ikinci rekatta) ayağa kalktı. Namazını tamamlayınca iki secde yaptı ve selam vermeden önce otururken her bir secde için bir secde yaptı. Ona uyanlar da onunla birlikte secde ettiler. (Resulullah) bunu oturmayı unuttuğu için yaptı",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "22": "Namazda Unutup Yanılma ile İlgili"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 1224,
+        "hadithnumber_last": 1236,
+        "arabicnumber_first": 1224,
+        "arabicnumber_last": 1236
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1230,
+      "arabicnumber": 1230,
+      "text": "Abdullah İbn Buhayne el-Esedî şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem öğle namazında oturması gereken yerde (ikinci rekatta) ayağa kalktı. Namazını tamamlayınca iki secde yaptı ve selam vermeden önce otururken her bir secde için bir secde yaptı. Ona uyanlar da onunla birlikte secde ettiler. (Resulullah) bunu oturmayı unuttuğu için yaptı",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 8
+      }
+    }
+  ]
 }

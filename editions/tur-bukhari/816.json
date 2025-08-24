@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 816,
-			"arabicnumber": 816,
-			"text": "İbn Abbas (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle dediğini nakletmiştir: \"Bana yedi âza üzerine secde etmem ve namazda iken elbiselerle ve saçla başla oynamamam emredildi",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 211
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 816,
+      "arabicnumber": 816,
+      "text": "İbn Abbas (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle dediğini nakletmiştir: \"Bana yedi âza üzerine secde etmem ve namazda iken elbiselerle ve saçla başla oynamamam emredildi",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 211
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"8": "Prayers (Salat)"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 349,
-				"hadithnumber_last": 520,
-				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 511,
-			"arabicnumber": 511,
-			"text": "Aişe (r.anha)'dan şöyle nakledilmiştir: Aişe (r.anha)'nın yanında namazı bozan hallerden bahsedildi. Köpek, merkep ve kadının erkeğin namazını bozacağını söylediler. Bunun üzerine Aişe (r.anha) şöyle tepki gösterdi: \"Bizi köpek yerine mi koydunuz! Oysa ben, kıble ile Nebi Sallallahu Aleyhi ve Sellem arasında yatağa yan gelmiş yatarken O'nun namaz kıldığını gördüm. Bazen bir ihtiyacım olurdu. Onun karşısına geçmek hoşuma gitmezdi, bu yüzden sessizce (yatağın ucundan) sıyrılıp kalkardım",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 158
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "8": "Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 349,
+        "hadithnumber_last": 520,
+        "arabicnumber_first": 349,
+        "arabicnumber_last": 520
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 511,
+      "arabicnumber": 511,
+      "text": "Aişe (r.anha)'dan şöyle nakledilmiştir: Aişe (r.anha)'nın yanında namazı bozan hallerden bahsedildi. Köpek, merkep ve kadının erkeğin namazını bozacağını söylediler. Bunun üzerine Aişe (r.anha) şöyle tepki gösterdi: \"Bizi köpek yerine mi koydunuz! Oysa ben, kıble ile Nebi Sallallahu Aleyhi ve Sellem arasında yatağa yan gelmiş yatarken O'nun namaz kıldığını gördüm. Bazen bir ihtiyacım olurdu. Onun karşısına geçmek hoşuma gitmezdi, bu yüzden sessizce (yatağın ucundan) sıyrılıp kalkardım",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 158
+      }
+    }
+  ]
 }

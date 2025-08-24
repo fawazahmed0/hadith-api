@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"8": "Prayers (Salat)"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 349,
-				"hadithnumber_last": 520,
-				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 401,
-			"arabicnumber": 401,
-			"text": "Alkame'den şöyle nakledilmiştir: Abdullah İbn Mes'ûd Nebi Sallallahu Aleyhi ve Sellem'in kendilerine namaz kıldırdığını anlattı. (Alkame'nin rivayet ettiği ravi İbrahim, fazla mı yoksa eksik mi kıldırdığını hatırlamıyorum demiştir.) Allah Resulü (Sallallahu aleyhi ve Sellem) selam verince ona, \"Ey Allah'ın elçisi namazla ilgili yeni bir gelişme mi oldu?\" diye sordular. O da, \"Böyle bir şey olmadı\" diye cevap verdi. Ashab-ı kiram: \"Şöyle şöyle namaz kıldırdın\" deyince Nebi Sallallahu Aleyhi ve Sellem ayaklarını büküp kıbleye yöneldi ve iki kez secdeye gitti, sonra selâm verdi. Yüzünü bize çevirdikten sonra ise şöyle buyurdu: Eğer namazda bir değişiklik olsaydı elbette size haber verirdim. Ancak ben de sizin gibi bir insanım. Nasıl ki siz unutuyorsanız, ben de unuturum. O halde unuttuğum zaman bana hatırlatın. İçinizden kim namazı konusunda şüpheye düşerse doğru olanı esas alıp ona göre namazını tamamlasın. Sonra selâm verip iki kez secde etsin. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 52
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "8": "Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 349,
+        "hadithnumber_last": 520,
+        "arabicnumber_first": 349,
+        "arabicnumber_last": 520
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 401,
+      "arabicnumber": 401,
+      "text": "Alkame'den şöyle nakledilmiştir: Abdullah İbn Mes'ûd Nebi Sallallahu Aleyhi ve Sellem'in kendilerine namaz kıldırdığını anlattı. (Alkame'nin rivayet ettiği ravi İbrahim, fazla mı yoksa eksik mi kıldırdığını hatırlamıyorum demiştir.) Allah Resulü (Sallallahu aleyhi ve Sellem) selam verince ona, \"Ey Allah'ın elçisi namazla ilgili yeni bir gelişme mi oldu?\" diye sordular. O da, \"Böyle bir şey olmadı\" diye cevap verdi. Ashab-ı kiram: \"Şöyle şöyle namaz kıldırdın\" deyince Nebi Sallallahu Aleyhi ve Sellem ayaklarını büküp kıbleye yöneldi ve iki kez secdeye gitti, sonra selâm verdi. Yüzünü bize çevirdikten sonra ise şöyle buyurdu: Eğer namazda bir değişiklik olsaydı elbette size haber verirdim. Ancak ben de sizin gibi bir insanım. Nasıl ki siz unutuyorsanız, ben de unuturum. O halde unuttuğum zaman bana hatırlatın. İçinizden kim namazı konusunda şüpheye düşerse doğru olanı esas alıp ona göre namazını tamamlasın. Sonra selâm verip iki kez secde etsin. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 52
+      }
+    }
+  ]
 }

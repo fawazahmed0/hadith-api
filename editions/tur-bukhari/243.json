@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"4": "Ablutions (Wudu')"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 135,
-				"hadithnumber_last": 247,
-				"arabicnumber_first": 135,
-				"arabicnumber_last": 247
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 243,
-			"arabicnumber": 243,
-			"text": "Ebû Hazim, Sehl İbn Sa'd es-Sâidî'nin, İnsanlar kendisine Nebi (Sallallahu aleyhi ve Sellem)'in yarasının ne ile tedavi edildiğini sorduklarında, şöyle söylediğini duymuştur: \"Bunu benden iyi bilen kimse kalmadı. Ali, (r.a.) Uhud günü kalkanına su doldurarak getiriyordu. Fâtıma da Resulullah Sallallahu aleyhi ve sellem'in yüzünden kanı silîyordu. Bir hasır alınarak yakıldı ve yarasına bastırıldı. Tekrar: 2903, 2911, 3037, 4075, 5248, 5722 Diğer tahric: Tirmizî, Tıp",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 109
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "4": "Abdest"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 135,
+        "hadithnumber_last": 247,
+        "arabicnumber_first": 135,
+        "arabicnumber_last": 247
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 243,
+      "arabicnumber": 243,
+      "text": "Ebû Hazim, Sehl İbn Sa'd es-Sâidî'nin, İnsanlar kendisine Nebi (Sallallahu aleyhi ve Sellem)'in yarasının ne ile tedavi edildiğini sorduklarında, şöyle söylediğini duymuştur: \"Bunu benden iyi bilen kimse kalmadı. Ali, (r.a.) Uhud günü kalkanına su doldurarak getiriyordu. Fâtıma da Resulullah Sallallahu aleyhi ve sellem'in yüzünden kanı silîyordu. Bir hasır alınarak yakıldı ve yarasına bastırıldı. Tekrar: 2903, 2911, 3037, 4075, 5248, 5722 Diğer tahric: Tirmizî, Tıp",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 109
+      }
+    }
+  ]
 }

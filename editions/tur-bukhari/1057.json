@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"16": "Eclipses"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 1040,
-				"hadithnumber_last": 1066,
-				"arabicnumber_first": 1040,
-				"arabicnumber_last": 1066
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1057,
-			"arabicnumber": 1057,
-			"text": "Ebu Mes'ud'dan nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Ay ve güneş bir kimsenin ne ölümü ne de hayatı yüzünden tutulurlar. Ancak bunlar Allah’ın birer ayetidir. Eğer ay ve güneşin tutulduğunu görürseniz hemen namaz kılın",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "16": "Güneş ve Ay Tutulması"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 1040,
+        "hadithnumber_last": 1066,
+        "arabicnumber_first": 1040,
+        "arabicnumber_last": 1066
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1057,
+      "arabicnumber": 1057,
+      "text": "Ebu Mes'ud'dan nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Ay ve güneş bir kimsenin ne ölümü ne de hayatı yüzünden tutulurlar. Ancak bunlar Allah’ın birer ayetidir. Eğer ay ve güneşin tutulduğunu görürseniz hemen namaz kılın",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 16
+      }
+    }
+  ]
 }

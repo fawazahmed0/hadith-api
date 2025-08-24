@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 665,
-			"arabicnumber": 665,
-			"text": "Aişe (r.anha)'dan nakledilen bir rivayet şöyledir: \"Resulullah Sallallahu Aleyhi ve Sellem'in hastalığı ilerleyip ıztırabı artınca eşlerinden izin alarak hastalığını benim yanımda geçirmek istedi. Onlar Resûlullah Sallallahu Aleyhi ve Sellem'in bu isteğini kırmayıp kabul ettiler. Bunun üzerine iki kişinin kolları arasında çıkıp odama gelen Resûl-i Ekrem Sallallahu Aleyhi ve Sellem yürümekte zorlandığı için ayaklarını yere sürüyordu. Resulullah Sallallahu Aleyhi ve Sellem Abbas (r.a.) ile ashabtan başka birisinin kolları arasında gelmişti.\" Aişe (r.a.)'nın sözünü İbn Abbas'a anlatan Ubeydullah bin Abdullah ile Ibn Abbas arasında şöyle bir konuşma geçmiştir: Aişe'nin addını zikretmediği kişinin kim olduğunu biliyor musun? Hayır. O zat Ali İbn Ebu Talibtir",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 59
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 665,
+      "arabicnumber": 665,
+      "text": "Aişe (r.anha)'dan nakledilen bir rivayet şöyledir: \"Resulullah Sallallahu Aleyhi ve Sellem'in hastalığı ilerleyip ıztırabı artınca eşlerinden izin alarak hastalığını benim yanımda geçirmek istedi. Onlar Resûlullah Sallallahu Aleyhi ve Sellem'in bu isteğini kırmayıp kabul ettiler. Bunun üzerine iki kişinin kolları arasında çıkıp odama gelen Resûl-i Ekrem Sallallahu Aleyhi ve Sellem yürümekte zorlandığı için ayaklarını yere sürüyordu. Resulullah Sallallahu Aleyhi ve Sellem Abbas (r.a.) ile ashabtan başka birisinin kolları arasında gelmişti.\" Aişe (r.a.)'nın sözünü İbn Abbas'a anlatan Ubeydullah bin Abdullah ile Ibn Abbas arasında şöyle bir konuşma geçmiştir: Aişe'nin addını zikretmediği kişinin kim olduğunu biliyor musun? Hayır. O zat Ali İbn Ebu Talibtir",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 59
+      }
+    }
+  ]
 }

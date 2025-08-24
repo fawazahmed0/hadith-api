@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"59": "Beginning of Creation"
-		},
-		"section_detail": {
-			"59": {
-				"hadithnumber_first": 3190,
-				"hadithnumber_last": 3325,
-				"arabicnumber_first": 3190,
-				"arabicnumber_last": 3325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3242,
-			"arabicnumber": 3242,
-			"text": "Ebu Hureyre r.a. anlatıyor: \"Biz bir defasında Nebi Sallallahu Aleyhi ve Sellem'in yanında iken bize şunları söylemişti: \"Bir gün rüyamda kendimi cennette gördüm. Orada bir köşkün yanı başında duran çok güzel bir kadın vardı 'Bu köşk kime aittir?' diye sorduğumda: 'Ömer İbnü'l-Hattab'ındır' dediler. Ben de onun kıskançlığını bildiğim için hemen geriye döndüm.\" Bunun üzerine Ömer ağladı ve: \"Senden neyi kıskanırım ki, ey Allah'ın Resulü!\" dedi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 59,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "59": "Allah'ın Mahlûkları İlk Yaratışı"
+    },
+    "section_detail": {
+      "59": {
+        "hadithnumber_first": 3190,
+        "hadithnumber_last": 3325,
+        "arabicnumber_first": 3190,
+        "arabicnumber_last": 3325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3242,
+      "arabicnumber": 3242,
+      "text": "Ebu Hureyre r.a. anlatıyor: \"Biz bir defasında Nebi Sallallahu Aleyhi ve Sellem'in yanında iken bize şunları söylemişti: \"Bir gün rüyamda kendimi cennette gördüm. Orada bir köşkün yanı başında duran çok güzel bir kadın vardı 'Bu köşk kime aittir?' diye sorduğumda: 'Ömer İbnü'l-Hattab'ındır' dediler. Ben de onun kıskançlığını bildiğim için hemen geriye döndüm.\" Bunun üzerine Ömer ağladı ve: \"Senden neyi kıskanırım ki, ey Allah'ın Resulü!\" dedi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 59,
+        "hadith": 53
+      }
+    }
+  ]
 }

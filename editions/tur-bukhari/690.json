@@ -1,38 +1,38 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 690,
-			"arabicnumber": 690,
-			"text": "Abdullah İbn Yezîd şöyle demiştir: Bana Bera' bin Âzib - o kesinlikle yalancı biri değildir - Resûlullah Sallallahu Aleyhi ve Sellem ile birlikte kıldıkları namazı şu şekilde nakletti: \"Resûlullah Sallallahu Aleyhi ve Sellem namaz kıldırırken سمع الله لمن حمده (Semi'allahu limen hamideh) deyip secdeye varana kadar bizden hiç kimse belini bükmezdi. Biz secdeyi O'ndan sonra yapardık. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 84
-			}
-		},
-		{
-			"hadithnumber": 690.2,
-			"arabicnumber": 690.2,
-			"text": "",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 690,
+      "arabicnumber": 690,
+      "text": "Abdullah İbn Yezîd şöyle demiştir: Bana Bera' bin Âzib - o kesinlikle yalancı biri değildir - Resûlullah Sallallahu Aleyhi ve Sellem ile birlikte kıldıkları namazı şu şekilde nakletti: \"Resûlullah Sallallahu Aleyhi ve Sellem namaz kıldırırken سمع الله لمن حمده (Semi'allahu limen hamideh) deyip secdeye varana kadar bizden hiç kimse belini bükmezdi. Biz secdeyi O'ndan sonra yapardık. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 84
+      }
+    },
+    {
+      "hadithnumber": 690.2,
+      "arabicnumber": 690.2,
+      "text": "",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 85
+      }
+    }
+  ]
 }

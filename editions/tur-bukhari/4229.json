@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4229,
-			"arabicnumber": 4229,
-			"text": "Cubeyr b. Mut'im dedi ki: \"Ben ve Osman b. Affan birlikte Nebi Sallallahu Aleyhi ve Sellem'e gittik. Muttalib oğullarına Hayber'in beşte birinden pay verdiğin halde bizi bıraktın. Oysa biz sana aynı derecede yakınız, dedik. Şöyle buyurdu: Şüphesiz Haşim oğulları ile Muttalib oğulları aynı şeydir. Cubeyr dedi ki: Nebi Sallallahu Aleyhi ve Sellem Abdi Şems oğulları ile Nevfel oğullarına (beşte birden) hiçbir pay vermedL",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 267
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4229,
+      "arabicnumber": 4229,
+      "text": "Cubeyr b. Mut'im dedi ki: \"Ben ve Osman b. Affan birlikte Nebi Sallallahu Aleyhi ve Sellem'e gittik. Muttalib oğullarına Hayber'in beşte birinden pay verdiğin halde bizi bıraktın. Oysa biz sana aynı derecede yakınız, dedik. Şöyle buyurdu: Şüphesiz Haşim oğulları ile Muttalib oğulları aynı şeydir. Cubeyr dedi ki: Nebi Sallallahu Aleyhi ve Sellem Abdi Şems oğulları ile Nevfel oğullarına (beşte birden) hiçbir pay vermedL",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 267
+      }
+    }
+  ]
 }

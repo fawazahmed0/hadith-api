@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2231,
-			"arabicnumber": 2231,
-			"text": "Amr ibnu Dînâr, Câbir ibn Abdillah'tan; Rasûlüllah (sallallahü aleyhi ve sellem.a.v.) hürriyeti efendisinin ölümüne bağlanmış olan müdebber köleyi sattı, derken işitmiştir",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 178
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2231,
+      "arabicnumber": 2231,
+      "text": "Amr ibnu Dînâr, Câbir ibn Abdillah'tan; Rasûlüllah (sallallahü aleyhi ve sellem.a.v.) hürriyeti efendisinin ölümüne bağlanmış olan müdebber köleyi sattı, derken işitmiştir",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 178
+      }
+    }
+  ]
 }

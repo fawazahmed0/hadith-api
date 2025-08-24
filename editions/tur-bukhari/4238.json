@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4238,
-			"arabicnumber": 4238,
-			"text": "Ebu Hureyre, Said b. el-As'a haber vererek dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem Eban'ı Medine'den Necid taraflarına doğru bir seriyenin başında kumandan olarak gönderdi. Ebu Hureyre dedi ki: Eban ve arkadaşları Nebi Sallallahu Aleyhi ve Sellem'in yanına Hayber'i fethettikten sonra Hayber'de kavuştu. Atlarının yularları liften yapılmıştı. Ebu Hureyre dedi ki: Ey Allah'ın Resulü, onlara pay verme, dedim. Eban dedi ki: Bu sözü sen mi söylüyorsun, ey Da'n'ın tepesinden yuvarlanıp gelmiş yabani kedi! Nebi Sallallahu Aleyhi ve Sellem bunun üzerine: Ey Eban otur, dedi ve onlara ganimetten pay ayırmad",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 276
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4238,
+      "arabicnumber": 4238,
+      "text": "Ebu Hureyre, Said b. el-As'a haber vererek dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem Eban'ı Medine'den Necid taraflarına doğru bir seriyenin başında kumandan olarak gönderdi. Ebu Hureyre dedi ki: Eban ve arkadaşları Nebi Sallallahu Aleyhi ve Sellem'in yanına Hayber'i fethettikten sonra Hayber'de kavuştu. Atlarının yularları liften yapılmıştı. Ebu Hureyre dedi ki: Ey Allah'ın Resulü, onlara pay verme, dedim. Eban dedi ki: Bu sözü sen mi söylüyorsun, ey Da'n'ın tepesinden yuvarlanıp gelmiş yabani kedi! Nebi Sallallahu Aleyhi ve Sellem bunun üzerine: Ey Eban otur, dedi ve onlara ganimetten pay ayırmad",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 276
+      }
+    }
+  ]
 }

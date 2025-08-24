@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"70": "Food, Meals"
-		},
-		"section_detail": {
-			"70": {
-				"hadithnumber_first": 5373,
-				"hadithnumber_last": 5466,
-				"arabicnumber_first": 5373,
-				"arabicnumber_last": 5466
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5418,
-			"arabicnumber": 5418,
-			"text": "Ebu Musa el-Eş'ari'den rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Erkeklerden pek çok kişi kemale ermiştir. Kadınlardan ise İmran'ın kızı Meryem, Firavun'un karısı Asiyelden başka kimse kl?male ermemiştir. Aişe'nin diğer kadınlara üstünlüğü ise tiridin diğer yemeklere olan üstünlüğü gibidir",
-			"grades": [],
-			"reference": {
-				"book": 70,
-				"hadith": 46
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "70": "Yiyecek Şeyler"
+    },
+    "section_detail": {
+      "70": {
+        "hadithnumber_first": 5373,
+        "hadithnumber_last": 5466,
+        "arabicnumber_first": 5373,
+        "arabicnumber_last": 5466
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5418,
+      "arabicnumber": 5418,
+      "text": "Ebu Musa el-Eş'ari'den rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Erkeklerden pek çok kişi kemale ermiştir. Kadınlardan ise İmran'ın kızı Meryem, Firavun'un karısı Asiyelden başka kimse kl?male ermemiştir. Aişe'nin diğer kadınlara üstünlüğü ise tiridin diğer yemeklere olan üstünlüğü gibidir",
+      "grades": [],
+      "reference": {
+        "book": 70,
+        "hadith": 46
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"49": "Manumission of Slaves"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 2517,
-				"hadithnumber_last": 2559,
-				"arabicnumber_first": 2517,
-				"arabicnumber_last": 2559
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2554,
-			"arabicnumber": 2554,
-			"text": "Abdullah r.a.'dan şöyle rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem: \"Hepiniz çobansınız ve güttüğünüzden sorumlusunuz. İnsanların yöneticisi onların çobanıdır ve onlardan sorumludur. Kişi ailesinin çobanıdır ve onlardan sorumludur. Kadın kocasının evinin ve çocuğunun çobanıdır ve onlardan sorumludur. Köle efendisinin malının çobanıdır ve ondan sorumludur. Kısaca hepiniz çobansınız ve güttüğünüzden sorumlusunuz\" buyurmuştur",
-			"grades": [],
-			"reference": {
-				"book": 49,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "49": "Köleyi Hürriyetine Kavuşturma"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 2517,
+        "hadithnumber_last": 2559,
+        "arabicnumber_first": 2517,
+        "arabicnumber_last": 2559
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2554,
+      "arabicnumber": 2554,
+      "text": "Abdullah r.a.'dan şöyle rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem: \"Hepiniz çobansınız ve güttüğünüzden sorumlusunuz. İnsanların yöneticisi onların çobanıdır ve onlardan sorumludur. Kişi ailesinin çobanıdır ve onlardan sorumludur. Kadın kocasının evinin ve çocuğunun çobanıdır ve onlardan sorumludur. Köle efendisinin malının çobanıdır ve ondan sorumludur. Kısaca hepiniz çobansınız ve güttüğünüzden sorumlusunuz\" buyurmuştur",
+      "grades": [],
+      "reference": {
+        "book": 49,
+        "hadith": 37
+      }
+    }
+  ]
 }

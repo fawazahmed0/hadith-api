@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"78": "Good Manners and Form (Al-Adab)"
-		},
-		"section_detail": {
-			"78": {
-				"hadithnumber_first": 5970,
-				"hadithnumber_last": 6226,
-				"arabicnumber_first": 5970,
-				"arabicnumber_last": 6226
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6209,
-			"arabicnumber": 6209,
-			"text": "Enes İbn Malik'ten, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem bir gece yolculuk yaparken deve sürücüsü, develere ezgi söyledi. Resulullah Sallallahu Aleyhi ve Sellem da: Ey Enceşe, vay sana! Cam şişelere karşı yumuşak ol (develeri böyle hızlı sürecek şekilde ezgi söyleme), buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 78,
-				"hadith": 233
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "78": "Edeb"
+    },
+    "section_detail": {
+      "78": {
+        "hadithnumber_first": 5970,
+        "hadithnumber_last": 6226,
+        "arabicnumber_first": 5970,
+        "arabicnumber_last": 6226
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6209,
+      "arabicnumber": 6209,
+      "text": "Enes İbn Malik'ten, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem bir gece yolculuk yaparken deve sürücüsü, develere ezgi söyledi. Resulullah Sallallahu Aleyhi ve Sellem da: Ey Enceşe, vay sana! Cam şişelere karşı yumuşak ol (develeri böyle hızlı sürecek şekilde ezgi söyleme), buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 78,
+        "hadith": 233
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1973,
-			"arabicnumber": 1973,
-			"text": "Humeyd şöyle demiştir: Enes'e Nebi'in Sallallahu Aleyhi ve Sellem orucunu sordum o şöyle dedi: Ay içinde onu oruçlu görmek istesem görürdüm. Oruçsuz görmek istesem mutlaka görürdüm. Geceleri namaz kılarken görmek istesem görürdüm, uyurken görmek istesem mutlaka görürdüm. Resulullah'ın Sallallahu Aleyhi ve Sellem avucundan daha yumuşak bir ipeğe asla dokunmadım. Resulullah'ın kokusundan daha güzel bir misk koklamadım",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 80
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1973,
+      "arabicnumber": 1973,
+      "text": "Humeyd şöyle demiştir: Enes'e Nebi'in Sallallahu Aleyhi ve Sellem orucunu sordum o şöyle dedi: Ay içinde onu oruçlu görmek istesem görürdüm. Oruçsuz görmek istesem mutlaka görürdüm. Geceleri namaz kılarken görmek istesem görürdüm, uyurken görmek istesem mutlaka görürdüm. Resulullah'ın Sallallahu Aleyhi ve Sellem avucundan daha yumuşak bir ipeğe asla dokunmadım. Resulullah'ın kokusundan daha güzel bir misk koklamadım",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 80
+      }
+    }
+  ]
 }

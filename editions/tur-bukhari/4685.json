@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4685,
-			"arabicnumber": 4685,
-			"text": "Safvan İbn Muhriz'den rivayet edildiğine göre, o şöyle demiştir: İbn Ömer Ka'be'yi tavaf ederken bir adam onun önünü kesip; \"Ey Abdurrahman'ın babası!\" veya \"Ey Ömer'in oğlu\" diyerek söze başladı ve \"Kıyamet günü Allah'ın kulu ile konuşması konusunda Hz. Nebi'den bir şey duydun mu?\" diye sordu. İbn Ömer de şu şekilde cevap verdi: Bu konuda Hz. Nebi'in şöyle buyurduğunu işitim: Mümin kul Rabbine yaklaştırılır, [Hadisin ravilerinden Hişam bu kısmı \"Mümin kul Rabbine yaklaşır,\" şeklinde rivayet etmiştir] Nihayet Allah Tedld onun üzerine örtüsünü örter. Sonra günahlarını ona ikrar ettirir. \"Şu günahı biliyor musun?\" diye sorar. O da; \"Evet biliyorum,\" diye cevap verir. Ardından iki kez; \"Ey Rabbim! Biliyorum,\" der. Bunun üzerine Allah Tedld şöyle buyurur: \"Onları dünyada iken gizledim. Bugün ise senin için bağışlıyorum!\" Bundan sonra kulun iyiliklerinin yazıldığı defter dürüıür. Diğerlerine veya kafirlere gelince; şahitlerin huzurunda onlara; \"İşte bunlar Rablerine karşı yalan söyleyenlerdir,\" diye seslenilecek",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 207
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4685,
+      "arabicnumber": 4685,
+      "text": "Safvan İbn Muhriz'den rivayet edildiğine göre, o şöyle demiştir: İbn Ömer Ka'be'yi tavaf ederken bir adam onun önünü kesip; \"Ey Abdurrahman'ın babası!\" veya \"Ey Ömer'in oğlu\" diyerek söze başladı ve \"Kıyamet günü Allah'ın kulu ile konuşması konusunda Hz. Nebi'den bir şey duydun mu?\" diye sordu. İbn Ömer de şu şekilde cevap verdi: Bu konuda Hz. Nebi'in şöyle buyurduğunu işitim: Mümin kul Rabbine yaklaştırılır, [Hadisin ravilerinden Hişam bu kısmı \"Mümin kul Rabbine yaklaşır,\" şeklinde rivayet etmiştir] Nihayet Allah Tedld onun üzerine örtüsünü örter. Sonra günahlarını ona ikrar ettirir. \"Şu günahı biliyor musun?\" diye sorar. O da; \"Evet biliyorum,\" diye cevap verir. Ardından iki kez; \"Ey Rabbim! Biliyorum,\" der. Bunun üzerine Allah Tedld şöyle buyurur: \"Onları dünyada iken gizledim. Bugün ise senin için bağışlıyorum!\" Bundan sonra kulun iyiliklerinin yazıldığı defter dürüıür. Diğerlerine veya kafirlere gelince; şahitlerin huzurunda onlara; \"İşte bunlar Rablerine karşı yalan söyleyenlerdir,\" diye seslenilecek",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 207
+      }
+    }
+  ]
 }

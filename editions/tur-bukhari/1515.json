@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1515,
-			"arabicnumber": 1515,
-			"text": "Cabir r.a. Şöyle nakletmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem bineği doğrulduğu zaman Zu'l-huleyfe'de telbiye getirip ihrama girdi",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1515,
+      "arabicnumber": 1515,
+      "text": "Cabir r.a. Şöyle nakletmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem bineği doğrulduğu zaman Zu'l-huleyfe'de telbiye getirip ihrama girdi",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 3
+      }
+    }
+  ]
 }

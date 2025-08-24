@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1492,
-			"arabicnumber": 1492,
-			"text": "İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Meymûne'nin azadlı kölesine zekat malından verilmiş bir koyunun murdar bir şekilde ölmüş olduğunu görünce onlara, \"Derisinden faydalansanız ya!\" buyurmuştu. Onlar hayvanın \"leş\" olduğunu söyleyince ise, \"Onun sadece yenilmesi haram kılınmıştır\" buyurmuştur. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 92
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1492,
+      "arabicnumber": 1492,
+      "text": "İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Meymûne'nin azadlı kölesine zekat malından verilmiş bir koyunun murdar bir şekilde ölmüş olduğunu görünce onlara, \"Derisinden faydalansanız ya!\" buyurmuştu. Onlar hayvanın \"leş\" olduğunu söyleyince ise, \"Onun sadece yenilmesi haram kılınmıştır\" buyurmuştur. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 92
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4699,
-			"arabicnumber": 4699,
-			"text": "Bera İbn Azib'den rivayet edildiğine göre, Nebi Sallallahu Alyhi ve Sellem şöyle buyurmuştur: Kabirde iken Müslümana sorulduğu zaman, o Allah'tan başka ilah olmadığına ve Muhammed'in O'nun elçisi olduğuna şehadet edecektir. İşte bu şu ayetin anlamıdır: Allah inananlan, dünya hayatında ve ahirette sağlam bir söz üzerinde tutar. Fethu'l-Bari Açıklaması: İmam Buhar! burada Bera İbn Azib'den gelen hadisi muhtasar olarak zikretti. Bu hadis, \"Kitabu'l-cenaiz\"de tam olarak geçmişti. Ayrıntılı açıklaması da orada yapılmıştı",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 221
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4699,
+      "arabicnumber": 4699,
+      "text": "Bera İbn Azib'den rivayet edildiğine göre, Nebi Sallallahu Alyhi ve Sellem şöyle buyurmuştur: Kabirde iken Müslümana sorulduğu zaman, o Allah'tan başka ilah olmadığına ve Muhammed'in O'nun elçisi olduğuna şehadet edecektir. İşte bu şu ayetin anlamıdır: Allah inananlan, dünya hayatında ve ahirette sağlam bir söz üzerinde tutar. Fethu'l-Bari Açıklaması: İmam Buhar! burada Bera İbn Azib'den gelen hadisi muhtasar olarak zikretti. Bu hadis, \"Kitabu'l-cenaiz\"de tam olarak geçmişti. Ayrıntılı açıklaması da orada yapılmıştı",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 221
+      }
+    }
+  ]
 }

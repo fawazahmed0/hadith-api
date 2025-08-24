@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"70": "Food, Meals"
-		},
-		"section_detail": {
-			"70": {
-				"hadithnumber_first": 5373,
-				"hadithnumber_last": 5466,
-				"arabicnumber_first": 5373,
-				"arabicnumber_last": 5466
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5414,
-			"arabicnumber": 5414,
-			"text": "Ebli Hureyre r.a.'dan rivayete göre o önlerinde kebap yapılmış bir koyun bulunan topluluğun yanından geçti. Onu da davet ettiler. Fakat o yemek tekliflerini kabul etmeyerek: \"RasuluIlah Sallallahu Aleyhi ve Sellem karnı arpa ekmeğinden doymadığı halde dünyadan çıkıp gitti, dedi",
-			"grades": [],
-			"reference": {
-				"book": 70,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "70": "Yiyecek Şeyler"
+    },
+    "section_detail": {
+      "70": {
+        "hadithnumber_first": 5373,
+        "hadithnumber_last": 5466,
+        "arabicnumber_first": 5373,
+        "arabicnumber_last": 5466
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5414,
+      "arabicnumber": 5414,
+      "text": "Ebli Hureyre r.a.'dan rivayete göre o önlerinde kebap yapılmış bir koyun bulunan topluluğun yanından geçti. Onu da davet ettiler. Fakat o yemek tekliflerini kabul etmeyerek: \"RasuluIlah Sallallahu Aleyhi ve Sellem karnı arpa ekmeğinden doymadığı halde dünyadan çıkıp gitti, dedi",
+      "grades": [],
+      "reference": {
+        "book": 70,
+        "hadith": 42
+      }
+    }
+  ]
 }

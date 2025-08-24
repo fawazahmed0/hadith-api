@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2070,
-			"arabicnumber": 2070,
-			"text": "Aişe r.anha şöyle demiştir: Ebu Bekir Sıddîk r.a. halife seçilince şöyle dedi: \"Andolsun halkım bilir ki benim kazancım ailemin geçimini sağlamaktan aciz değil idi. Şu anda ise Müslümanların işleri ile meşgul oluyorum. Bundan böyle Ebu Bekir'in ailesi bu maldan (devlet hazinesinden) yiyecek. Benim de bugünden sonra mesleğim Müslümanların işlerini görmek olacaktır",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 23
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2070,
+      "arabicnumber": 2070,
+      "text": "Aişe r.anha şöyle demiştir: Ebu Bekir Sıddîk r.a. halife seçilince şöyle dedi: \"Andolsun halkım bilir ki benim kazancım ailemin geçimini sağlamaktan aciz değil idi. Şu anda ise Müslümanların işleri ile meşgul oluyorum. Bundan böyle Ebu Bekir'in ailesi bu maldan (devlet hazinesinden) yiyecek. Benim de bugünden sonra mesleğim Müslümanların işlerini görmek olacaktır",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 23
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"23": "Funerals (Al-Janaa'iz)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1237,
-				"hadithnumber_last": 1394,
-				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1374,
-			"arabicnumber": 1374,
-			"text": "Enes ibn Malik r.a. Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: \"Kul kabre konulup da arkadaş ve yakını geri dönüp gittiklerinde -ki ölü, bunlar yürürken ayakkabılarının seslerini işitir- ona iki melek gelerek onu oturturlar. Melekler: 'Şu Muhammed (Sallallahu Aleyhi ve Sellem) denilen kimse hakkında ne dersin?' derler. Adam: 'Ben onun Allah'ın kulu ve Resulü olduğuna şahitlik ederim' der. Melekler: Ateşteki (cehennemdeki) yerine bak. Allah onun yerine sana cemnetten bir makam verdi' derler. Kişi her iki makamı da görür.\" (Hadisin burasında Katade şöyle dedi: Bize aktarıldığına göre mu'min kişinin kabri genişletilir. Katade daha sonra Enes'in hadisinin devamını şu şekilde aktardı): \"Kafire -yahut münafığa- gelince o: 'Bilmiyorum, ben insanların dediği gibi dedim' der. Ona: \"Anlamaz ol! Okuduğun veya dinlediğinden yararlanamayasın.'\" derler. Sonra demirden bir topuzla iki kulağı arasına vurulur. Öyle bir bağırır ki onun bu feryadını insan ve cinden başka o ölüye yakın olan her şey işitir",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 126
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "23": "Cenazeler"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1237,
+        "hadithnumber_last": 1394,
+        "arabicnumber_first": 1237,
+        "arabicnumber_last": 1394
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1374,
+      "arabicnumber": 1374,
+      "text": "Enes ibn Malik r.a. Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: \"Kul kabre konulup da arkadaş ve yakını geri dönüp gittiklerinde -ki ölü, bunlar yürürken ayakkabılarının seslerini işitir- ona iki melek gelerek onu oturturlar. Melekler: 'Şu Muhammed (Sallallahu Aleyhi ve Sellem) denilen kimse hakkında ne dersin?' derler. Adam: 'Ben onun Allah'ın kulu ve Resulü olduğuna şahitlik ederim' der. Melekler: Ateşteki (cehennemdeki) yerine bak. Allah onun yerine sana cemnetten bir makam verdi' derler. Kişi her iki makamı da görür.\" (Hadisin burasında Katade şöyle dedi: Bize aktarıldığına göre mu'min kişinin kabri genişletilir. Katade daha sonra Enes'in hadisinin devamını şu şekilde aktardı): \"Kafire -yahut münafığa- gelince o: 'Bilmiyorum, ben insanların dediği gibi dedim' der. Ona: \"Anlamaz ol! Okuduğun veya dinlediğinden yararlanamayasın.'\" derler. Sonra demirden bir topuzla iki kulağı arasına vurulur. Öyle bir bağırır ki onun bu feryadını insan ve cinden başka o ölüye yakın olan her şey işitir",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 126
+      }
+    }
+  ]
 }

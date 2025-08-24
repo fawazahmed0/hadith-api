@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"63": "Merits of the Helpers in Madinah (Ansaar)"
-		},
-		"section_detail": {
-			"63": {
-				"hadithnumber_first": 3776,
-				"hadithnumber_last": 3948,
-				"arabicnumber_first": 3776,
-				"arabicnumber_last": 3948
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3924,
-			"arabicnumber": 3924,
-			"text": "Bera r.a. dedi ki: \"Yanımıza ilk gelen kişi Mus'ab b. Umeyr ile İbn Ümmü Mektum oldu. Daha sonra yanımıza Ammar b. Yasir ile Bilal (Allah hepsinden razı olsun) geldi",
-			"grades": [],
-			"reference": {
-				"book": 63,
-				"hadith": 149
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "63": "Ensâr'ın Menkıbeleri"
+    },
+    "section_detail": {
+      "63": {
+        "hadithnumber_first": 3776,
+        "hadithnumber_last": 3948,
+        "arabicnumber_first": 3776,
+        "arabicnumber_last": 3948
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3924,
+      "arabicnumber": 3924,
+      "text": "Bera r.a. dedi ki: \"Yanımıza ilk gelen kişi Mus'ab b. Umeyr ile İbn Ümmü Mektum oldu. Daha sonra yanımıza Ammar b. Yasir ile Bilal (Allah hepsinden razı olsun) geldi",
+      "grades": [],
+      "reference": {
+        "book": 63,
+        "hadith": 149
+      }
+    }
+  ]
 }

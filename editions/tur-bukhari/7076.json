@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"92": "Afflictions and the End of the World"
-		},
-		"section_detail": {
-			"92": {
-				"hadithnumber_first": 7048,
-				"hadithnumber_last": 7136,
-				"arabicnumber_first": 7048,
-				"arabicnumber_last": 7136
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7076,
-			"arabicnumber": 7076,
-			"text": "Şeki'k'in, Abdullah b. Mesud' dan nakline göre Resulullah Sallallahu Aleyhi ve Sellem: \"Müslümana sövmek fısk, onunla çarpışmak küfürdür\" buyurmuştur",
-			"grades": [],
-			"reference": {
-				"book": 92,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "92": "Fitneler"
+    },
+    "section_detail": {
+      "92": {
+        "hadithnumber_first": 7048,
+        "hadithnumber_last": 7136,
+        "arabicnumber_first": 7048,
+        "arabicnumber_last": 7136
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7076,
+      "arabicnumber": 7076,
+      "text": "Şeki'k'in, Abdullah b. Mesud' dan nakline göre Resulullah Sallallahu Aleyhi ve Sellem: \"Müslümana sövmek fısk, onunla çarpışmak küfürdür\" buyurmuştur",
+      "grades": [],
+      "reference": {
+        "book": 92,
+        "hadith": 27
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"59": "Beginning of Creation"
-		},
-		"section_detail": {
-			"59": {
-				"hadithnumber_first": 3190,
-				"hadithnumber_last": 3325,
-				"arabicnumber_first": 3190,
-				"arabicnumber_last": 3325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3269,
-			"arabicnumber": 3269,
-			"text": "Ebu Hureyre r.a. Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Sizden biri uyuduğu zaman şeytan onun kafasının arka tarafına üç düğüm atar ve her düğümü attıkça: \"Önünde uzun bir gece var, haydi uyu!\" der. Kişi uyanıp Allah'ı zikrederse bu düğümlerden biri çözülür. Kalkıp abdest alırsa ikincisi, namaz kıldığında da düğümlerin tamamı çözülür. Böylece o kişi dinç ve huzurlu bir şekilde sabaha kavuşur. Aksi halde uyuşuk, tembel ve huzursuz bir halde sabaha girer",
-			"grades": [],
-			"reference": {
-				"book": 59,
-				"hadith": 79
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "59": "Allah'ın Mahlûkları İlk Yaratışı"
+    },
+    "section_detail": {
+      "59": {
+        "hadithnumber_first": 3190,
+        "hadithnumber_last": 3325,
+        "arabicnumber_first": 3190,
+        "arabicnumber_last": 3325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3269,
+      "arabicnumber": 3269,
+      "text": "Ebu Hureyre r.a. Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Sizden biri uyuduğu zaman şeytan onun kafasının arka tarafına üç düğüm atar ve her düğümü attıkça: \"Önünde uzun bir gece var, haydi uyu!\" der. Kişi uyanıp Allah'ı zikrederse bu düğümlerden biri çözülür. Kalkıp abdest alırsa ikincisi, namaz kıldığında da düğümlerin tamamı çözülür. Böylece o kişi dinç ve huzurlu bir şekilde sabaha kavuşur. Aksi halde uyuşuk, tembel ve huzursuz bir halde sabaha girer",
+      "grades": [],
+      "reference": {
+        "book": 59,
+        "hadith": 79
+      }
+    }
+  ]
 }

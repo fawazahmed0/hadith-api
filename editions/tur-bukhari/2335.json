@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"41": "Agriculture"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 2320,
-				"hadithnumber_last": 2350,
-				"arabicnumber_first": 2320,
-				"arabicnumber_last": 2350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2335,
-			"arabicnumber": 2335,
-			"text": "Aişe r.anha'nın rivayet ettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kim sahipsiz bir araziyi imar ederse o kimse söz konusu arazide, diğerlerinden daha çok hak sahibi olur.\" Urve r.a., \"Ömer, hilafeti sırasında bu şekilde hüküm vermiştir\" demiştir",
-			"grades": [],
-			"reference": {
-				"book": 41,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "41": "Ekincilik Akdi Yapma"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 2320,
+        "hadithnumber_last": 2350,
+        "arabicnumber_first": 2320,
+        "arabicnumber_last": 2350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2335,
+      "arabicnumber": 2335,
+      "text": "Aişe r.anha'nın rivayet ettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kim sahipsiz bir araziyi imar ederse o kimse söz konusu arazide, diğerlerinden daha çok hak sahibi olur.\" Urve r.a., \"Ömer, hilafeti sırasında bu şekilde hüküm vermiştir\" demiştir",
+      "grades": [],
+      "reference": {
+        "book": 41,
+        "hadith": 16
+      }
+    }
+  ]
 }

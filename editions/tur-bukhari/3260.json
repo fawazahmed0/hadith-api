@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"59": "Beginning of Creation"
-		},
-		"section_detail": {
-			"59": {
-				"hadithnumber_first": 3190,
-				"hadithnumber_last": 3325,
-				"arabicnumber_first": 3190,
-				"arabicnumber_last": 3325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3260,
-			"arabicnumber": 3260,
-			"text": "Ebu Hureyre r.a.'den nakledildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Cehennem, Allah'a derdini yanarak: 'Rabbim, kendi kendimi yiyip tüketiyorum! (Beni rahatlatacak bir çare ver!)' dedi. Allah Teala da ona biri yazın diğer kışın olmak üzere rahatlaması için iki defa nefes almasına müsaade etti. İşte yazın hissettiğiniz en yüksek sıcaklık ve kışın hissettiğiniz en düşük soğukluk bu sebepledir",
-			"grades": [],
-			"reference": {
-				"book": 59,
-				"hadith": 70
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "59": "Allah'ın Mahlûkları İlk Yaratışı"
+    },
+    "section_detail": {
+      "59": {
+        "hadithnumber_first": 3190,
+        "hadithnumber_last": 3325,
+        "arabicnumber_first": 3190,
+        "arabicnumber_last": 3325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3260,
+      "arabicnumber": 3260,
+      "text": "Ebu Hureyre r.a.'den nakledildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Cehennem, Allah'a derdini yanarak: 'Rabbim, kendi kendimi yiyip tüketiyorum! (Beni rahatlatacak bir çare ver!)' dedi. Allah Teala da ona biri yazın diğer kışın olmak üzere rahatlaması için iki defa nefes almasına müsaade etti. İşte yazın hissettiğiniz en yüksek sıcaklık ve kışın hissettiğiniz en düşük soğukluk bu sebepledir",
+      "grades": [],
+      "reference": {
+        "book": 59,
+        "hadith": 70
+      }
+    }
+  ]
 }

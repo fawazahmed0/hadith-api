@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"41": "Agriculture"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 2320,
-				"hadithnumber_last": 2350,
-				"arabicnumber_first": 2320,
-				"arabicnumber_last": 2350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2325,
-			"arabicnumber": 2325,
-			"text": "Ebu Hureyre r.a. şöyle anlatır: Ensar, Nebi Sallallahu Aleyhi ve Sellem'e, \"(Hurmalıklarımızı) bizimle, (muhacir) kardeşlerimiz arasında paylaştır\" dedi. Resulullah Sallallahu Aleyhi ve Sellem onlara, \"Hayır\" dedi. Bunun üzerine, ensar, \"Hurmalıklarla ilgili sulama ve bakımı bize siz yapın. meyvelerini de paylaşalım\" dediler. Muhacirler de, \"İşittik ve itaat ettik\" dediler. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 41,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "41": "Ekincilik Akdi Yapma"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 2320,
+        "hadithnumber_last": 2350,
+        "arabicnumber_first": 2320,
+        "arabicnumber_last": 2350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2325,
+      "arabicnumber": 2325,
+      "text": "Ebu Hureyre r.a. şöyle anlatır: Ensar, Nebi Sallallahu Aleyhi ve Sellem'e, \"(Hurmalıklarımızı) bizimle, (muhacir) kardeşlerimiz arasında paylaştır\" dedi. Resulullah Sallallahu Aleyhi ve Sellem onlara, \"Hayır\" dedi. Bunun üzerine, ensar, \"Hurmalıklarla ilgili sulama ve bakımı bize siz yapın. meyvelerini de paylaşalım\" dediler. Muhacirler de, \"İşittik ve itaat ettik\" dediler. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 41,
+        "hadith": 6
+      }
+    }
+  ]
 }

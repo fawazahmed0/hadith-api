@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6560,
-			"arabicnumber": 6560,
-			"text": "Ebu Said el-Hudrl'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: \"Cennet ehli cennete, cehennem ehli cehenneme girdikten sonra Allahu Teala 'Kimin kalbinde bir hardal tanesi ağırlığınca iman varsa ateşten çıkarınız!' diye emir buyuracaktır. Bunun üzerine (bu gibiler) simsiyah yanmış ve kömüre dönmüş oldukları halde çıkacaklar ve hemen hayat nehrinin içine atılacaklar ve orada sel uğrağında -yahut selin kokmuş kara çamuru içinde- kalan yabani reyhan tohumları nasıl süratle biterse öylece biteceklerdir.\" Ve Nebi Sallallahu Aleyhi ve Sellem \"Görmez misin bu tohumlar (ne güzel) sapsarı olarak ve iki tarafına salınarak çıkıp sürerler!\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 149
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6560,
+      "arabicnumber": 6560,
+      "text": "Ebu Said el-Hudrl'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: \"Cennet ehli cennete, cehennem ehli cehenneme girdikten sonra Allahu Teala 'Kimin kalbinde bir hardal tanesi ağırlığınca iman varsa ateşten çıkarınız!' diye emir buyuracaktır. Bunun üzerine (bu gibiler) simsiyah yanmış ve kömüre dönmüş oldukları halde çıkacaklar ve hemen hayat nehrinin içine atılacaklar ve orada sel uğrağında -yahut selin kokmuş kara çamuru içinde- kalan yabani reyhan tohumları nasıl süratle biterse öylece biteceklerdir.\" Ve Nebi Sallallahu Aleyhi ve Sellem \"Görmez misin bu tohumlar (ne güzel) sapsarı olarak ve iki tarafına salınarak çıkıp sürerler!\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 149
+      }
+    }
+  ]
 }

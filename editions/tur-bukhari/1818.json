@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"27": "Pilgrims Prevented from Completing the Pilgrimage"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 1806,
-				"hadithnumber_last": 1820,
-				"arabicnumber_first": 1806,
-				"arabicnumber_last": 1820
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1818,
-			"arabicnumber": 1818,
-			"text": "Ka'b İbn Ucre'den rivayet edildiğine göre saçlarındaki bitler yüzüne doğru inerken Resulullah Sallallahu Aleyhi ve Sellem onu gördü",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "27": "Men Olunan Kimse ve Avlanma Cezası"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 1806,
+        "hadithnumber_last": 1820,
+        "arabicnumber_first": 1806,
+        "arabicnumber_last": 1820
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1818,
+      "arabicnumber": 1818,
+      "text": "Ka'b İbn Ucre'den rivayet edildiğine göre saçlarındaki bitler yüzüne doğru inerken Resulullah Sallallahu Aleyhi ve Sellem onu gördü",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 13
+      }
+    }
+  ]
 }

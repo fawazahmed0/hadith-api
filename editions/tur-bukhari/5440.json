@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"70": "Food, Meals"
-		},
-		"section_detail": {
-			"70": {
-				"hadithnumber_first": 5373,
-				"hadithnumber_last": 5466,
-				"arabicnumber_first": 5373,
-				"arabicnumber_last": 5466
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5440,
-			"arabicnumber": 5440,
-			"text": "Abdullah b. Cafer b. Ebi Talib r.a.'dan, dedi ki: \"Ben Nebi Sallallahu Aleyhi ve Sellem'i olgunlaşmış taze hurma ile birlikte acur yerken gördüm. \" Bu Hadis 5447 ve 5449 numara da da geçior 40. BAB",
-			"grades": [],
-			"reference": {
-				"book": 70,
-				"hadith": 68
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "70": "Yiyecek Şeyler"
+    },
+    "section_detail": {
+      "70": {
+        "hadithnumber_first": 5373,
+        "hadithnumber_last": 5466,
+        "arabicnumber_first": 5373,
+        "arabicnumber_last": 5466
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5440,
+      "arabicnumber": 5440,
+      "text": "Abdullah b. Cafer b. Ebi Talib r.a.'dan, dedi ki: \"Ben Nebi Sallallahu Aleyhi ve Sellem'i olgunlaşmış taze hurma ile birlikte acur yerken gördüm. \" Bu Hadis 5447 ve 5449 numara da da geçior 40. BAB",
+      "grades": [],
+      "reference": {
+        "book": 70,
+        "hadith": 68
+      }
+    }
+  ]
 }

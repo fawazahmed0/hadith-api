@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"63": "Merits of the Helpers in Madinah (Ansaar)"
-		},
-		"section_detail": {
-			"63": {
-				"hadithnumber_first": 3776,
-				"hadithnumber_last": 3948,
-				"arabicnumber_first": 3776,
-				"arabicnumber_last": 3948
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3796,
-			"arabicnumber": 3796,
-			"text": "Humeyd et-Tavll'den: Enes b. Malik r.a.'ı şöyle derken dinledim: Hendek gününde Ensar şöyle diyordu: \"Biz Muhammed'e bey'at etmiş olanlarız- Hayatta kaldığımız sürece ebediyyen cihad etmek üzere.\" O da onlara şöyle cevap vermişti: \"Allah'ım, hayat dediğin ahiret hayatıdır. Ensarı ve Muhacirleri keremli kıl",
-			"grades": [],
-			"reference": {
-				"book": 63,
-				"hadith": 21
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "63": "Ensâr'ın Menkıbeleri"
+    },
+    "section_detail": {
+      "63": {
+        "hadithnumber_first": 3776,
+        "hadithnumber_last": 3948,
+        "arabicnumber_first": 3776,
+        "arabicnumber_last": 3948
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3796,
+      "arabicnumber": 3796,
+      "text": "Humeyd et-Tavll'den: Enes b. Malik r.a.'ı şöyle derken dinledim: Hendek gününde Ensar şöyle diyordu: \"Biz Muhammed'e bey'at etmiş olanlarız- Hayatta kaldığımız sürece ebediyyen cihad etmek üzere.\" O da onlara şöyle cevap vermişti: \"Allah'ım, hayat dediğin ahiret hayatıdır. Ensarı ve Muhacirleri keremli kıl",
+      "grades": [],
+      "reference": {
+        "book": 63,
+        "hadith": 21
+      }
+    }
+  ]
 }

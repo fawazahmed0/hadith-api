@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4007,
-			"arabicnumber": 4007,
-			"text": "Zühri'den rivayete göre \"Ben Urve b. Zübeyr'den işittim: Ömer b. Abdulaziz'e emidiği sırasında (Muaviye'nin) Kufe valiliğini yapan Muğire b. Şu'be'nin ikindi namazını geciktirdiğini anlatıyordu. Bedir'de bulunmuş ve Zeyd b. Hasen'(b. Ali b. Talib)in dedesi olan Ebu Mes'ud Ukbe b. Amr el-Ensari girerek (Muğire'ye) dedi ki: Andalsun sen de biliyorsun ki Cibril indi ve namaz kıldı. Resulullah Sallallahu Aleyhi ve Sellem da beş vakit namaz kıldı, sonra: İşte ben böylece emrolundum dedi. (Urve dedi ki): İşte Beşir b. Ebi Mes'ud, hadisi babasından böylece naklediyordu",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4007,
+      "arabicnumber": 4007,
+      "text": "Zühri'den rivayete göre \"Ben Urve b. Zübeyr'den işittim: Ömer b. Abdulaziz'e emidiği sırasında (Muaviye'nin) Kufe valiliğini yapan Muğire b. Şu'be'nin ikindi namazını geciktirdiğini anlatıyordu. Bedir'de bulunmuş ve Zeyd b. Hasen'(b. Ali b. Talib)in dedesi olan Ebu Mes'ud Ukbe b. Amr el-Ensari girerek (Muğire'ye) dedi ki: Andalsun sen de biliyorsun ki Cibril indi ve namaz kıldı. Resulullah Sallallahu Aleyhi ve Sellem da beş vakit namaz kıldı, sonra: İşte ben böylece emrolundum dedi. (Urve dedi ki): İşte Beşir b. Ebi Mes'ud, hadisi babasından böylece naklediyordu",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 58
+      }
+    }
+  ]
 }

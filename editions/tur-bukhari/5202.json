@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"67": "Wedlock, Marriage (Nikaah)"
-		},
-		"section_detail": {
-			"67": {
-				"hadithnumber_first": 5063,
-				"hadithnumber_last": 5250,
-				"arabicnumber_first": 5063,
-				"arabicnumber_last": 5250
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5202,
-			"arabicnumber": 5202,
-			"text": "Ümmü Seleme'den rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem, hanımlarından bazısının yanına bir ay girmemek üzere yemin etti. Yirmi dokuz gün geçtikten sonra onların yanına gitti. Ona: Ey Allah'ın Nebii, sen onların yanına bir ay girmemek üzere yemin etmiştin, denilince, O: Şüphesiz ay yirmi dokuz gün de çeker, diye cevap vermiştir",
-			"grades": [],
-			"reference": {
-				"book": 67,
-				"hadith": 136
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "67": "Nikâh"
+    },
+    "section_detail": {
+      "67": {
+        "hadithnumber_first": 5063,
+        "hadithnumber_last": 5250,
+        "arabicnumber_first": 5063,
+        "arabicnumber_last": 5250
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5202,
+      "arabicnumber": 5202,
+      "text": "Ümmü Seleme'den rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem, hanımlarından bazısının yanına bir ay girmemek üzere yemin etti. Yirmi dokuz gün geçtikten sonra onların yanına gitti. Ona: Ey Allah'ın Nebii, sen onların yanına bir ay girmemek üzere yemin etmiştin, denilince, O: Şüphesiz ay yirmi dokuz gün de çeker, diye cevap vermiştir",
+      "grades": [],
+      "reference": {
+        "book": 67,
+        "hadith": 136
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2981,
-			"arabicnumber": 2981,
-			"text": "Büşeyr İbn Yesar'ın naklettiğine göre Süveyd İbnü'n-Nu'man ona şu olayı anlatmıştır: \"Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Hayber savaşında bulundum. Hayber yakınlarında Sahba denen yere geldiğimizde mola verip ikindi namazını kıldık. Resulullah Sallallahu Aleyhi ve Sellem yemek getirilmesini istedi. Nebi Sallallahu Aleyhi ve Sellem'e sadece sevik getirildi. Biz de onu yemeye başladık. Yemeğimizi bitirip suyumuzu içtikten sonra Resulullah Sallallahu Aleyhi ve Sellem kalktı ve suyla ağzını çalkaladı. Biz de ağzımızı çalkaladık ve sonra namazımızı kıldık",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 190
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2981,
+      "arabicnumber": 2981,
+      "text": "Büşeyr İbn Yesar'ın naklettiğine göre Süveyd İbnü'n-Nu'man ona şu olayı anlatmıştır: \"Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Hayber savaşında bulundum. Hayber yakınlarında Sahba denen yere geldiğimizde mola verip ikindi namazını kıldık. Resulullah Sallallahu Aleyhi ve Sellem yemek getirilmesini istedi. Nebi Sallallahu Aleyhi ve Sellem'e sadece sevik getirildi. Biz de onu yemeye başladık. Yemeğimizi bitirip suyumuzu içtikten sonra Resulullah Sallallahu Aleyhi ve Sellem kalktı ve suyla ağzını çalkaladı. Biz de ağzımızı çalkaladık ve sonra namazımızı kıldık",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 190
+      }
+    }
+  ]
 }

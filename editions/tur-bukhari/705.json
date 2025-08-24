@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 705,
-			"arabicnumber": 705,
-			"text": "Cabir bin Abdullah el-Ensârî (r.a.) anlatıyor: \"Bir gece yanında tarım ve sulamada kullandığı iki devesiyle bir adam gelmişti. O sırada Muaz'ın namaz kıldırmakta olduğunu gördü. Develerini bırakıp Muâz'a uydu. Muaz o gece namazda Bakara veya Nisa sûresini okuyordu. Bunun üzerine adam namazdan çıktı. Bu adamcağız daha sonra, namazı bıraktığı için Muâz'ın kendisi hakkında ileri geri konuştuğunu duydu. Resûlullah Sallallahu Aleyhi ve Sellem'e gelip Muâz'ı şikayet etti. Resûlullah Sallallahu Aleyhi ve Sellem Muâz'a üç defa ‘Sen fettan –veya- fatin (insanları (namazdan) soğutan) biri misin ey Muâz' deyip ekledi; Alâ, Şems ve Leyi sûrelerini okuyarak namaz kıldırsan olmaz mıydı!? Arkanda yaşlı, zayıf ve İş -güç (ihtiyaç) sahibi insanlar namaz kılıyor...\" Rivayette geçen gece kelimesi kılınan namazın yatsı namazı olduğunu gös­terir",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 100
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 705,
+      "arabicnumber": 705,
+      "text": "Cabir bin Abdullah el-Ensârî (r.a.) anlatıyor: \"Bir gece yanında tarım ve sulamada kullandığı iki devesiyle bir adam gelmişti. O sırada Muaz'ın namaz kıldırmakta olduğunu gördü. Develerini bırakıp Muâz'a uydu. Muaz o gece namazda Bakara veya Nisa sûresini okuyordu. Bunun üzerine adam namazdan çıktı. Bu adamcağız daha sonra, namazı bıraktığı için Muâz'ın kendisi hakkında ileri geri konuştuğunu duydu. Resûlullah Sallallahu Aleyhi ve Sellem'e gelip Muâz'ı şikayet etti. Resûlullah Sallallahu Aleyhi ve Sellem Muâz'a üç defa ‘Sen fettan –veya- fatin (insanları (namazdan) soğutan) biri misin ey Muâz' deyip ekledi; Alâ, Şems ve Leyi sûrelerini okuyarak namaz kıldırsan olmaz mıydı!? Arkanda yaşlı, zayıf ve İş -güç (ihtiyaç) sahibi insanlar namaz kılıyor...\" Rivayette geçen gece kelimesi kılınan namazın yatsı namazı olduğunu gös­terir",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 100
+      }
+    }
+  ]
 }

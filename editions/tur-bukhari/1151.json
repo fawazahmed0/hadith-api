@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"19": "Prayer at Night (Tahajjud)"
-		},
-		"section_detail": {
-			"19": {
-				"hadithnumber_first": 1120,
-				"hadithnumber_last": 1187,
-				"arabicnumber_first": 1120,
-				"arabicnumber_last": 1187
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1151,
-			"arabicnumber": 1151,
-			"text": "Aişe (radıyallahu anha) şöyle dedi: Yanımda Benî Esed kabilesinden bir kadın vardı. Bu sırada odama Resulullah Sallallahu Aleyhi ve Sellem girdi ve: \"Bu kimdir?\" diye sordu. Ben: \"Falan kadındır. O kadın geceleri uyumaz\" diyerek kıldığı namazları anlattım. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem : \"Bunu bırak. Amellerden gücünüzün yettiğini yapın. Çünkü siz bıkıp usanmadıkça Allah bıkıp usanmaz.\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 19,
-				"hadith": 32
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "19": "Teheccüd"
+    },
+    "section_detail": {
+      "19": {
+        "hadithnumber_first": 1120,
+        "hadithnumber_last": 1187,
+        "arabicnumber_first": 1120,
+        "arabicnumber_last": 1187
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1151,
+      "arabicnumber": 1151,
+      "text": "Aişe (radıyallahu anha) şöyle dedi: Yanımda Benî Esed kabilesinden bir kadın vardı. Bu sırada odama Resulullah Sallallahu Aleyhi ve Sellem girdi ve: \"Bu kimdir?\" diye sordu. Ben: \"Falan kadındır. O kadın geceleri uyumaz\" diyerek kıldığı namazları anlattım. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem : \"Bunu bırak. Amellerden gücünüzün yettiğini yapın. Çünkü siz bıkıp usanmadıkça Allah bıkıp usanmaz.\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 19,
+        "hadith": 32
+      }
+    }
+  ]
 }

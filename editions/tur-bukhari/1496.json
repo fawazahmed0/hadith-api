@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1496,
-			"arabicnumber": 1496,
-			"text": "İbn Abbas r.a. şöyle anlatır: Resûlullah Sallallahu Aleyhi ve Sellem Muaz İbn Cebel'i Yemen'e gönderirken ona şöyle buyurdu: \"Sen ehl-i kitap olan bir topluluğa gidiyorsun. Yanlarına varınca onları \"Allah'tan başka ilah olmadığına ve Muhammed'in onun Resulü olduğuna\" şahitlikte bulunmaya davet et. Bu konuda sana itaat ederlerse onlara, Allah'ın günde beş vakit namaz kılmayı farz kıldığını haber ver. Bu konuda da sana itaat ederlerse onlara, Allah'ın, zenginlerden alınıp fakirlere verilmek üzere zekatı farz kıldığını haber ver. Eğer bu konuda da sana itaat ederlerse mallarının en değerli olanlarını almaktan sakın. Mazlumun duasından da kork. Çünkü mazlum ile Allah arasında hiçbir perde yoktur",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 96
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1496,
+      "arabicnumber": 1496,
+      "text": "İbn Abbas r.a. şöyle anlatır: Resûlullah Sallallahu Aleyhi ve Sellem Muaz İbn Cebel'i Yemen'e gönderirken ona şöyle buyurdu: \"Sen ehl-i kitap olan bir topluluğa gidiyorsun. Yanlarına varınca onları \"Allah'tan başka ilah olmadığına ve Muhammed'in onun Resulü olduğuna\" şahitlikte bulunmaya davet et. Bu konuda sana itaat ederlerse onlara, Allah'ın günde beş vakit namaz kılmayı farz kıldığını haber ver. Bu konuda da sana itaat ederlerse onlara, Allah'ın, zenginlerden alınıp fakirlere verilmek üzere zekatı farz kıldığını haber ver. Eğer bu konuda da sana itaat ederlerse mallarının en değerli olanlarını almaktan sakın. Mazlumun duasından da kork. Çünkü mazlum ile Allah arasında hiçbir perde yoktur",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 96
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1528,
-			"arabicnumber": 1528,
-			"text": "Zührî'nin Salim'den onun da babasından naklettiğine göre Resûlullah Sallallahu Aleyhi ve Sellem (mîkat yerlerini) belirlemiştir. [-1528-] Salim babasından şöyle nakleder: Resûlullah'ı şöyle buyururken işittim: \"Medinelilerin ihrama girme yeri Zu'l-huleyfe; Suriyelilerin Mehye'a yani Cuhfe; Necidliîerinki ise Karn'dır\" İbn Ömer şöyle demiştir: \"Hz. Nebiin, \"Yemenlilerin ihram'a girme yeri Yelemlem'dir\" dediğini iddia etmişlerdir. Oysa ben bunu işitmedim.\" باب: مهل من كان دون المواقيت. 11- Mîkat Sınırları İçerisinde Bulunanlar İçin İhrama Girme Yeri",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1528,
+      "arabicnumber": 1528,
+      "text": "Zührî'nin Salim'den onun da babasından naklettiğine göre Resûlullah Sallallahu Aleyhi ve Sellem (mîkat yerlerini) belirlemiştir. [-1528-] Salim babasından şöyle nakleder: Resûlullah'ı şöyle buyururken işittim: \"Medinelilerin ihrama girme yeri Zu'l-huleyfe; Suriyelilerin Mehye'a yani Cuhfe; Necidliîerinki ise Karn'dır\" İbn Ömer şöyle demiştir: \"Hz. Nebiin, \"Yemenlilerin ihram'a girme yeri Yelemlem'dir\" dediğini iddia etmişlerdir. Oysa ben bunu işitmedim.\" باب: مهل من كان دون المواقيت. 11- Mîkat Sınırları İçerisinde Bulunanlar İçin İhrama Girme Yeri",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 16
+      }
+    }
+  ]
 }

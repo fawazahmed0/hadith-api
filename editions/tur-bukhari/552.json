@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"9": "Times of the Prayers"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 522,
-				"hadithnumber_last": 602,
-				"arabicnumber_first": 522,
-				"arabicnumber_last": 602
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 552,
-			"arabicnumber": 552,
-			"text": "İbn Ömer (r.a.)'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu nakledilmiştir: \"İkindi namazını kaçıran kimse, ailesi helak olmuş, serveti batmış kimse gibidir.\" Diğer tahric: Tirmizi Salat; Nesâî, Mesâcid",
-			"grades": [],
-			"reference": {
-				"book": 9,
-				"hadith": 29
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "9": "Namaz Vakitleri"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 522,
+        "hadithnumber_last": 602,
+        "arabicnumber_first": 522,
+        "arabicnumber_last": 602
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 552,
+      "arabicnumber": 552,
+      "text": "İbn Ömer (r.a.)'den Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu nakledilmiştir: \"İkindi namazını kaçıran kimse, ailesi helak olmuş, serveti batmış kimse gibidir.\" Diğer tahric: Tirmizi Salat; Nesâî, Mesâcid",
+      "grades": [],
+      "reference": {
+        "book": 9,
+        "hadith": 29
+      }
+    }
+  ]
 }

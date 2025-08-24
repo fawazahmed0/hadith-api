@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"86": "Limits and Punishments set by Allah (Hudood)"
-		},
-		"section_detail": {
-			"86": {
-				"hadithnumber_first": 6772,
-				"hadithnumber_last": 6860,
-				"arabicnumber_first": 6772,
-				"arabicnumber_last": 6860
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6832,
-			"arabicnumber": 6832,
-			"text": "Zeyd b. Halid el-Cüheni şöyle demiştir: Ben Nebi Sallallahu Aleyhi ve Sellem'den işittim, evlenmemiş olarak zina eden muhsan olmayan (evli yada dul) kimseler hakkında yüz sapa vurmayı ve bir yıl sürgüne göndermeyi emrediyordu",
-			"grades": [],
-			"reference": {
-				"book": 86,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "86": "Sert Cezalar"
+    },
+    "section_detail": {
+      "86": {
+        "hadithnumber_first": 6772,
+        "hadithnumber_last": 6860,
+        "arabicnumber_first": 6772,
+        "arabicnumber_last": 6860
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6832,
+      "arabicnumber": 6832,
+      "text": "Zeyd b. Halid el-Cüheni şöyle demiştir: Ben Nebi Sallallahu Aleyhi ve Sellem'den işittim, evlenmemiş olarak zina eden muhsan olmayan (evli yada dul) kimseler hakkında yüz sapa vurmayı ve bir yıl sürgüne göndermeyi emrediyordu",
+      "grades": [],
+      "reference": {
+        "book": 86,
+        "hadith": 57
+      }
+    }
+  ]
 }

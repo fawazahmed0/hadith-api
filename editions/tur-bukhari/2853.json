@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2853,
-			"arabicnumber": 2853,
-			"text": "Ebu Hureyre'nin naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kim Allah'a iman ederek ve O'nun vermiş olduğu va'di tasdık ederek Allah yolunda bir at vakfederse şüphesiz o atın tokluğu, susuzluğu, suya kanması ve hatta pisliği ve idrarı kıyamet gününde vakfeden kişinin mizanındaki sevap hanesinde olacaktır",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 69
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2853,
+      "arabicnumber": 2853,
+      "text": "Ebu Hureyre'nin naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kim Allah'a iman ederek ve O'nun vermiş olduğu va'di tasdık ederek Allah yolunda bir at vakfederse şüphesiz o atın tokluğu, susuzluğu, suya kanması ve hatta pisliği ve idrarı kıyamet gününde vakfeden kişinin mizanındaki sevap hanesinde olacaktır",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 69
+      }
+    }
+  ]
 }

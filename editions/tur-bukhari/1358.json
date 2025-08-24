@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"23": "Funerals (Al-Janaa'iz)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1237,
-				"hadithnumber_last": 1394,
-				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1358,
-			"arabicnumber": 1358,
-			"text": "İbn Şihab şöyle demiştir: Ölen çocuk zina mahsulü de olsa onun namazı kılınır. Çünkü çocuk İslam fıtratı üzerine doğmuştur. Ana-babası, yahut yalnızca babası Müslüman olduğunu iddia ederse, annesi Müslüman olmasa bile, çocuk ağlıyarak doğmuş ise namazı kılınır. Doğum sırasında ağlamayan çocuk, düşük olduğu için onun namazı kılınmaz. Ebu Hureyre Nebi Sallallahu Aleyhi ve Sellem'den şunu aktarırdı: \"Doğan her çocuk (İslam) fıtrat üzerine doğar. Daha sonra ana-babası onu Yahudi, Hristiyan veya Mecusî (ateşperest) yapar. Nitekim her hayvan'ın yavrusu organları tam olarak doğar. Hiç yavrunun burnunda, kulağında eksik bir şey görüyor musunuz?\" Daha sonra Ebu Hureyre şu ayeti okumuştur: \"Yüzünü hanif olarak (şirkten uzak olarak) dine döndür. Allah'ın fıtratına, ki O insanları bu fıtrat üzerine yaratmıştır.[Rum 30] Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "23": "Cenazeler"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1237,
+        "hadithnumber_last": 1394,
+        "arabicnumber_first": 1237,
+        "arabicnumber_last": 1394
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1358,
+      "arabicnumber": 1358,
+      "text": "İbn Şihab şöyle demiştir: Ölen çocuk zina mahsulü de olsa onun namazı kılınır. Çünkü çocuk İslam fıtratı üzerine doğmuştur. Ana-babası, yahut yalnızca babası Müslüman olduğunu iddia ederse, annesi Müslüman olmasa bile, çocuk ağlıyarak doğmuş ise namazı kılınır. Doğum sırasında ağlamayan çocuk, düşük olduğu için onun namazı kılınmaz. Ebu Hureyre Nebi Sallallahu Aleyhi ve Sellem'den şunu aktarırdı: \"Doğan her çocuk (İslam) fıtrat üzerine doğar. Daha sonra ana-babası onu Yahudi, Hristiyan veya Mecusî (ateşperest) yapar. Nitekim her hayvan'ın yavrusu organları tam olarak doğar. Hiç yavrunun burnunda, kulağında eksik bir şey görüyor musunuz?\" Daha sonra Ebu Hureyre şu ayeti okumuştur: \"Yüzünü hanif olarak (şirkten uzak olarak) dine döndür. Allah'ın fıtratına, ki O insanları bu fıtrat üzerine yaratmıştır.[Rum 30] Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 111
+      }
+    }
+  ]
 }

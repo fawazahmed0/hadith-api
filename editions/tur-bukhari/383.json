@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"8": "Prayers (Salat)"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 349,
-				"hadithnumber_last": 520,
-				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 383,
-			"arabicnumber": 383,
-			"text": "Aişe (r.anha)'den şöyle nakledilmiştir: \"Rasulullah Sallallahu Aleyhi ve Sellem ben cenazenin imamın önünde durduğu şekilde onun önünde durduğum sırada, ailesiyle birlikte olduğu döşeğin üzerinde namaz kılardı",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 35
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "8": "Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 349,
+        "hadithnumber_last": 520,
+        "arabicnumber_first": 349,
+        "arabicnumber_last": 520
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 383,
+      "arabicnumber": 383,
+      "text": "Aişe (r.anha)'den şöyle nakledilmiştir: \"Rasulullah Sallallahu Aleyhi ve Sellem ben cenazenin imamın önünde durduğu şekilde onun önünde durduğum sırada, ailesiyle birlikte olduğu döşeğin üzerinde namaz kılardı",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 35
+      }
+    }
+  ]
 }

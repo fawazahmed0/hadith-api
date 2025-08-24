@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"49": "Manumission of Slaves"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 2517,
-				"hadithnumber_last": 2559,
-				"arabicnumber_first": 2517,
-				"arabicnumber_last": 2559
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2525,
-			"arabicnumber": 2525,
-			"text": "İbn Ömer'den rivayet edilmiştir: İbn Ömer r.a. kişinin, başkasıyla ortak olduğu köle veya cariyedeki payını az at etmesi durumunda şöyle fetva verirdi: \"Azat edenin azat ettiği kölenin piyasa değeri miktarında malı varsa diğer ortakların pay değerlerini vererek köleye tek başına sahip olması ve onun tamamını az at etmesi gerekir.\" İbn Ömer r.a. bu bilgileri Hz. Nebi'den aldığını anlatmıştır",
-			"grades": [],
-			"reference": {
-				"book": 49,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "49": "Köleyi Hürriyetine Kavuşturma"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 2517,
+        "hadithnumber_last": 2559,
+        "arabicnumber_first": 2517,
+        "arabicnumber_last": 2559
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2525,
+      "arabicnumber": 2525,
+      "text": "İbn Ömer'den rivayet edilmiştir: İbn Ömer r.a. kişinin, başkasıyla ortak olduğu köle veya cariyedeki payını az at etmesi durumunda şöyle fetva verirdi: \"Azat edenin azat ettiği kölenin piyasa değeri miktarında malı varsa diğer ortakların pay değerlerini vererek köleye tek başına sahip olması ve onun tamamını az at etmesi gerekir.\" İbn Ömer r.a. bu bilgileri Hz. Nebi'den aldığını anlatmıştır",
+      "grades": [],
+      "reference": {
+        "book": 49,
+        "hadith": 9
+      }
+    }
+  ]
 }

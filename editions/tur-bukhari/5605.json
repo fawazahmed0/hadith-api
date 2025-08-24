@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"74": "Drinks"
-		},
-		"section_detail": {
-			"74": {
-				"hadithnumber_first": 5575,
-				"hadithnumber_last": 5639,
-				"arabicnumber_first": 5575,
-				"arabicnumber_last": 5639
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5605,
-			"arabicnumber": 5605,
-			"text": "Cabir b. Abdullah'tan dedi ki: \"Ebu Humeyd,en-Naki' denilen mera(da otlayan koyunlar)dan bir kase süt getirmişti. Rasulullah Sallallahu Aleyhi ve Sellem ona: Üzerine enine bir çubuk koymak suretiyle dahi olsa keşke üzerini örtseydin, dedi.\" Tekrar",
-			"grades": [],
-			"reference": {
-				"book": 74,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "74": "İçecek Şeyler"
+    },
+    "section_detail": {
+      "74": {
+        "hadithnumber_first": 5575,
+        "hadithnumber_last": 5639,
+        "arabicnumber_first": 5575,
+        "arabicnumber_last": 5639
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5605,
+      "arabicnumber": 5605,
+      "text": "Cabir b. Abdullah'tan dedi ki: \"Ebu Humeyd,en-Naki' denilen mera(da otlayan koyunlar)dan bir kase süt getirmişti. Rasulullah Sallallahu Aleyhi ve Sellem ona: Üzerine enine bir çubuk koymak suretiyle dahi olsa keşke üzerini örtseydin, dedi.\" Tekrar",
+      "grades": [],
+      "reference": {
+        "book": 74,
+        "hadith": 31
+      }
+    }
+  ]
 }

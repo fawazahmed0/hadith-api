@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"40": "Representation, Authorization, Business by Proxy"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 2299,
-				"hadithnumber_last": 2319,
-				"arabicnumber_first": 2299,
-				"arabicnumber_last": 2319
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2315,
-			"arabicnumber": 2315,
-			"text": "Zeyd İbn Halid ve Ebu Hureyre'nin rivayet ettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Ey Uneys' (Zina ettiği iddia edilen) o kadına git, eğer suçunu itiraf ederse ona recim cezası uygula. \" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 40,
-				"hadith": 14
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "40": "Vekâlet"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 2299,
+        "hadithnumber_last": 2319,
+        "arabicnumber_first": 2299,
+        "arabicnumber_last": 2319
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2315,
+      "arabicnumber": 2315,
+      "text": "Zeyd İbn Halid ve Ebu Hureyre'nin rivayet ettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Ey Uneys' (Zina ettiği iddia edilen) o kadına git, eğer suçunu itiraf ederse ona recim cezası uygula. \" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 40,
+        "hadith": 14
+      }
+    }
+  ]
 }

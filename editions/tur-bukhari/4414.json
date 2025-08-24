@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4414,
-			"arabicnumber": 4414,
-			"text": "Abdullah b. Yezid el-Hatmı'deri rivayete göre \"Ebu Eyyub ona şunu bildirmiştir: Kendisi Veda haccında Resulullah Sallallahu Aleyhi ve Sellem ile birlikte akşam ile yatsı namazını birlikte kılmıştır",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 436
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4414,
+      "arabicnumber": 4414,
+      "text": "Abdullah b. Yezid el-Hatmı'deri rivayete göre \"Ebu Eyyub ona şunu bildirmiştir: Kendisi Veda haccında Resulullah Sallallahu Aleyhi ve Sellem ile birlikte akşam ile yatsı namazını birlikte kılmıştır",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 436
+      }
+    }
+  ]
 }

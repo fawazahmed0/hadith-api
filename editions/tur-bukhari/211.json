@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"4": "Ablutions (Wudu')"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 135,
-				"hadithnumber_last": 247,
-				"arabicnumber_first": 135,
-				"arabicnumber_last": 247
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 211,
-			"arabicnumber": 211,
-			"text": "İbn Abbas r.a.'den rivayet edildiğine göre, Resûlullah (Sallallahu aleyhi ve Sellem) süt içip ağzını çalkaladıktan sonra şöyle buyurdu: \"Onun (sütün), yağı vardır. Tekrar: 5609. Diğer tahric edenler: Tirmizi Tahare; Nesâî, Tahara:",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 77
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "4": "Abdest"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 135,
+        "hadithnumber_last": 247,
+        "arabicnumber_first": 135,
+        "arabicnumber_last": 247
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 211,
+      "arabicnumber": 211,
+      "text": "İbn Abbas r.a.'den rivayet edildiğine göre, Resûlullah (Sallallahu aleyhi ve Sellem) süt içip ağzını çalkaladıktan sonra şöyle buyurdu: \"Onun (sütün), yağı vardır. Tekrar: 5609. Diğer tahric edenler: Tirmizi Tahare; Nesâî, Tahara:",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 77
+      }
+    }
+  ]
 }

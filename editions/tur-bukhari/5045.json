@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"66": "Virtues of the Qur'an"
-		},
-		"section_detail": {
-			"66": {
-				"hadithnumber_first": 4979,
-				"hadithnumber_last": 5062,
-				"arabicnumber_first": 4979,
-				"arabicnumber_last": 5062
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5045,
-			"arabicnumber": 5045,
-			"text": "Katade'den şöyle dediği rivayet edilmiştir: \"Enes İbn Malik'e Nebi Sallallahu Aleyhi ve Sellem'in nasıl Kur'an okuduğunu sordum. 'İyice uzatarak okurdu' diye cevap verdi.\" Hadisin geçtiği diğer yer:",
-			"grades": [],
-			"reference": {
-				"book": 66,
-				"hadith": 69
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "66": "Kur'ân’ın Faziletleri"
+    },
+    "section_detail": {
+      "66": {
+        "hadithnumber_first": 4979,
+        "hadithnumber_last": 5062,
+        "arabicnumber_first": 4979,
+        "arabicnumber_last": 5062
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5045,
+      "arabicnumber": 5045,
+      "text": "Katade'den şöyle dediği rivayet edilmiştir: \"Enes İbn Malik'e Nebi Sallallahu Aleyhi ve Sellem'in nasıl Kur'an okuduğunu sordum. 'İyice uzatarak okurdu' diye cevap verdi.\" Hadisin geçtiği diğer yer:",
+      "grades": [],
+      "reference": {
+        "book": 66,
+        "hadith": 69
+      }
+    }
+  ]
 }

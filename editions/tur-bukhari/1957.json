@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1957,
-			"arabicnumber": 1957,
-			"text": "Sehl Ibn Sa'd'dan nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur; İftar vakti girer girmez oruçlarını açtıkları sürece insanlar hayır üzerindedir",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1957,
+      "arabicnumber": 1957,
+      "text": "Sehl Ibn Sa'd'dan nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur; İftar vakti girer girmez oruçlarını açtıkları sürece insanlar hayır üzerindedir",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 64
+      }
+    }
+  ]
 }

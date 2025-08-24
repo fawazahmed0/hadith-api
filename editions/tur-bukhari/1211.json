@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"21": "Actions while Praying"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 1198,
-				"hadithnumber_last": 1223,
-				"arabicnumber_first": 1198,
-				"arabicnumber_last": 1223
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1211,
-			"arabicnumber": 1211,
-			"text": "Ezrak İbn Kays şöyle demiştir: Ahvaz'da Harurîler'le (Haricîlerle) savaşıyorduk. Bir de baktım ki nehrin kenarında binitinin gemini elinde tutarak namaz kılan bir adam duruyor. Hayvan adam'ın elinden kurtulmaya çalışıyor, adam da hayvan ile birlikte gidiyordu. Haricîler'den bir adam: 'Ya Rab! Şu ihtiyar'a cezasını ver\" dedi. İhtiyar namazını bitirince şöyle dedi: \"Söylediğinizi duydum. Ben Resulullah Sallallahu Aleyhi ve Sellem ile altı, yedi yahut sekiz defa gazaya katıldım. Onun ne kadar kolaylık gösterdiğini gördüm. Benim hayvanın peşine takılarak namaz kılmam, onu koyverip de otlanacağı yere kaçıp gitmesinden daha iyidir. O zaman da onu yakalayıp getirmek zor olur.. Hadisi rivayet eden Şu'be, bu adamın Ebu Berze el-Eslemî olduğunu söylemiştir. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "21": "Namaz İçinde Amel"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 1198,
+        "hadithnumber_last": 1223,
+        "arabicnumber_first": 1198,
+        "arabicnumber_last": 1223
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1211,
+      "arabicnumber": 1211,
+      "text": "Ezrak İbn Kays şöyle demiştir: Ahvaz'da Harurîler'le (Haricîlerle) savaşıyorduk. Bir de baktım ki nehrin kenarında binitinin gemini elinde tutarak namaz kılan bir adam duruyor. Hayvan adam'ın elinden kurtulmaya çalışıyor, adam da hayvan ile birlikte gidiyordu. Haricîler'den bir adam: 'Ya Rab! Şu ihtiyar'a cezasını ver\" dedi. İhtiyar namazını bitirince şöyle dedi: \"Söylediğinizi duydum. Ben Resulullah Sallallahu Aleyhi ve Sellem ile altı, yedi yahut sekiz defa gazaya katıldım. Onun ne kadar kolaylık gösterdiğini gördüm. Benim hayvanın peşine takılarak namaz kılmam, onu koyverip de otlanacağı yere kaçıp gitmesinden daha iyidir. O zaman da onu yakalayıp getirmek zor olur.. Hadisi rivayet eden Şu'be, bu adamın Ebu Berze el-Eslemî olduğunu söylemiştir. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 15
+      }
+    }
+  ]
 }

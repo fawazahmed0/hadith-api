@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"18": "Shortening the Prayers (At-Taqseer)"
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 1080,
-				"hadithnumber_last": 1119,
-				"arabicnumber_first": 1080,
-				"arabicnumber_last": 1119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1084,
-			"arabicnumber": 1084,
-			"text": "Abdurrahman İbn Yezîd'in şöyle dediği nakledilmiştir: \"Osman bize Mina'da dört rekat namaz kıldırdı. Bu durum Abdullah İbn Mes'ud'a arzedildi ve şikayetler iletildi. Bunun üzerine İbn Mes'ud فاسترجع [istirca etti yani inna ileyhi raciun] diyerek şaşkınlığını ve üzüntüsünü belirtti. Ardından da şöyle dedi: \"Ben Nebi Sallallahu Aleyhi ve Sellem ile birlikte Mîna'da iki rekat namaz kıldım, ardından Hz. Ebu Bekir ve Ömer (r.a.) ile de Mina'da namazı iki rekat kıldım. Dört rekat kılmaktansa kabul olunmuş iki rekatlık namaz kılmak daha çok hoşuma gider. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "18": "Namazların Kısaltılması"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 1080,
+        "hadithnumber_last": 1119,
+        "arabicnumber_first": 1080,
+        "arabicnumber_last": 1119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1084,
+      "arabicnumber": 1084,
+      "text": "Abdurrahman İbn Yezîd'in şöyle dediği nakledilmiştir: \"Osman bize Mina'da dört rekat namaz kıldırdı. Bu durum Abdullah İbn Mes'ud'a arzedildi ve şikayetler iletildi. Bunun üzerine İbn Mes'ud فاسترجع [istirca etti yani inna ileyhi raciun] diyerek şaşkınlığını ve üzüntüsünü belirtti. Ardından da şöyle dedi: \"Ben Nebi Sallallahu Aleyhi ve Sellem ile birlikte Mîna'da iki rekat namaz kıldım, ardından Hz. Ebu Bekir ve Ömer (r.a.) ile de Mina'da namazı iki rekat kıldım. Dört rekat kılmaktansa kabul olunmuş iki rekatlık namaz kılmak daha çok hoşuma gider. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 5
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2190,
-			"arabicnumber": 2190,
-			"text": "Ebu Hureyre r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem beş vesk'te ve daha azında araya satışına izin verdi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 137
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2190,
+      "arabicnumber": 2190,
+      "text": "Ebu Hureyre r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem beş vesk'te ve daha azında araya satışına izin verdi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 137
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4425,
-			"arabicnumber": 4425,
-			"text": "Ebu Bekre dedi ki: \"Cemel vakası günlerinde Cemel savaşına katılmış bulunanlara yetişip, onlarla birlikte savaşmaya tam gidecekken, Resulullah Sallallahu Aleyhi ve Sellem'den işitmiş olduğum bir söz ile Allah beni faydalandırmıştır. Resulullah Sallallahu Aleyhi ve Sellem'e Farslılar'ın başlarına Kisra'nın kızını hükümdar yaptıkları haberi ulaşınca şöyle buyurmuştu: İşlerini yönetmek üzere başlanna bir kadın getiren bir toplum asla iflah olmaz. \" Bu Hadis 7099 numara ile gelecektir",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 447
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4425,
+      "arabicnumber": 4425,
+      "text": "Ebu Bekre dedi ki: \"Cemel vakası günlerinde Cemel savaşına katılmış bulunanlara yetişip, onlarla birlikte savaşmaya tam gidecekken, Resulullah Sallallahu Aleyhi ve Sellem'den işitmiş olduğum bir söz ile Allah beni faydalandırmıştır. Resulullah Sallallahu Aleyhi ve Sellem'e Farslılar'ın başlarına Kisra'nın kızını hükümdar yaptıkları haberi ulaşınca şöyle buyurmuştu: İşlerini yönetmek üzere başlanna bir kadın getiren bir toplum asla iflah olmaz. \" Bu Hadis 7099 numara ile gelecektir",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 447
+      }
+    }
+  ]
 }

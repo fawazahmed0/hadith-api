@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6577,
-			"arabicnumber": 6577,
-			"text": "İbn Ömer'in nakline göre Nebi Sallallahu Aleyhi ve Sellem \"Önünüzde bir havuz vardır ki (büyüklüğü) Cerba ile Ezruh arası gibidir\" buyurmuştur",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 165
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6577,
+      "arabicnumber": 6577,
+      "text": "İbn Ömer'in nakline göre Nebi Sallallahu Aleyhi ve Sellem \"Önünüzde bir havuz vardır ki (büyüklüğü) Cerba ile Ezruh arası gibidir\" buyurmuştur",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 165
+      }
+    }
+  ]
 }

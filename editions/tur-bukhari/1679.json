@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1679,
-			"arabicnumber": 1679,
-			"text": "(Abdullah İbn Keysan şöyle rivayet etmiştir:) Esma, namazların cem' edildiği gece Müzdelife'de durup namaz kıldı. Sonra bir süre (nafile) namaz kıldıktan sonra, \"Yavrum, ay battı mı?\" diye sordu ve ben de, \"Hayır\" dedim. Bunun üzerine bir süre daha namaz kıldı ve \"Ay battı mı\" diye sordu. Ben de, \"Evet\" diye cevap verdim. Biz, \"O halde artık hareket edin\" dedi. Biz de yola koyulduk. Akabe cemresine taş attı. Sonra dönüp (Müzdelife'deki) evinde sabah namazını kıldı. Ben, \"Biz meşru olan vakitten biraz önce davranmadık mı?\" diye sordum. Bana, 'Yavrum, Resulullah (Sallallahu aleyhi ve Sellem), deve hevdecinde (mahfilde) bulunan kadınlara izin vermiştir\" dedi",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 159
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1679,
+      "arabicnumber": 1679,
+      "text": "(Abdullah İbn Keysan şöyle rivayet etmiştir:) Esma, namazların cem' edildiği gece Müzdelife'de durup namaz kıldı. Sonra bir süre (nafile) namaz kıldıktan sonra, \"Yavrum, ay battı mı?\" diye sordu ve ben de, \"Hayır\" dedim. Bunun üzerine bir süre daha namaz kıldı ve \"Ay battı mı\" diye sordu. Ben de, \"Evet\" diye cevap verdim. Biz, \"O halde artık hareket edin\" dedi. Biz de yola koyulduk. Akabe cemresine taş attı. Sonra dönüp (Müzdelife'deki) evinde sabah namazını kıldı. Ben, \"Biz meşru olan vakitten biraz önce davranmadık mı?\" diye sordum. Bana, 'Yavrum, Resulullah (Sallallahu aleyhi ve Sellem), deve hevdecinde (mahfilde) bulunan kadınlara izin vermiştir\" dedi",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 159
+      }
+    }
+  ]
 }

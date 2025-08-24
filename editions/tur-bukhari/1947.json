@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1947,
-			"arabicnumber": 1947,
-			"text": "Enes İbn Malik'in şöyle dediği nakledilmiştir: \"Biz Nebi Sallallahu Aleyhi ve Sellem ile birlikte yolculuk yapardık ve bu sırada oruç tutanlar tutmayanları, oruç tutmayanlar da tutanları kınamazdı",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1947,
+      "arabicnumber": 1947,
+      "text": "Enes İbn Malik'in şöyle dediği nakledilmiştir: \"Biz Nebi Sallallahu Aleyhi ve Sellem ile birlikte yolculuk yapardık ve bu sırada oruç tutanlar tutmayanları, oruç tutmayanlar da tutanları kınamazdı",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 54
+      }
+    }
+  ]
 }

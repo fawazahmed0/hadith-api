@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1404,
-			"arabicnumber": 1404,
-			"text": "Rivayet edildiğine göre Halid İbn Eslem şöyle anlatır: \"Abdullah İbn Ömer ile birlikte (Medine dışına) çıkmıştık. Bir bedevi Abdullah İbn Ömer'e, \"Bana, 'Altın ve gümüşü biriktirip de Allah yolunda infak etmeyenler...' ayetini açıkla\" dedi. Abdullah İbn Ömer ona, \"Kim altın ve gümüş biriktirip (kenz) de zekatını vermezse yazık ona. Bu ayet, zekat ayeti inmeden önceki durum için geçerlidir. Bu ayet inince Allah zekatı malı temizleyici kıldı\" diyerek cevap vermiştir. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1404,
+      "arabicnumber": 1404,
+      "text": "Rivayet edildiğine göre Halid İbn Eslem şöyle anlatır: \"Abdullah İbn Ömer ile birlikte (Medine dışına) çıkmıştık. Bir bedevi Abdullah İbn Ömer'e, \"Bana, 'Altın ve gümüşü biriktirip de Allah yolunda infak etmeyenler...' ayetini açıkla\" dedi. Abdullah İbn Ömer ona, \"Kim altın ve gümüş biriktirip (kenz) de zekatını vermezse yazık ona. Bu ayet, zekat ayeti inmeden önceki durum için geçerlidir. Bu ayet inince Allah zekatı malı temizleyici kıldı\" diyerek cevap vermiştir. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 9
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"46": "Oppressions"
-		},
-		"section_detail": {
-			"46": {
-				"hadithnumber_first": 2440,
-				"hadithnumber_last": 2482,
-				"arabicnumber_first": 2440,
-				"arabicnumber_last": 2482
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2448,
-			"arabicnumber": 2448,
-			"text": "İbn Abbas r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem Muaz'ı Yemen'e gönderdi ve ona \"Mazlumun (haksızlığa uğrayanın) bedduasından sakın. Çünkü onun duası ile Allah arasında perde yoktur\" buyurdu. Not: Zekat bölümünün sonunda bu konu ayrıntılı olarak ele alınmıştır. O AÇIKLAMA İÇİN BURAYA TIKLAYABİLİRSİNİZ",
-			"grades": [],
-			"reference": {
-				"book": 46,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "46": "Zulümler ve Gasb"
+    },
+    "section_detail": {
+      "46": {
+        "hadithnumber_first": 2440,
+        "hadithnumber_last": 2482,
+        "arabicnumber_first": 2440,
+        "arabicnumber_last": 2482
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2448,
+      "arabicnumber": 2448,
+      "text": "İbn Abbas r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem Muaz'ı Yemen'e gönderdi ve ona \"Mazlumun (haksızlığa uğrayanın) bedduasından sakın. Çünkü onun duası ile Allah arasında perde yoktur\" buyurdu. Not: Zekat bölümünün sonunda bu konu ayrıntılı olarak ele alınmıştır. O AÇIKLAMA İÇİN BURAYA TIKLAYABİLİRSİNİZ",
+      "grades": [],
+      "reference": {
+        "book": 46,
+        "hadith": 9
+      }
+    }
+  ]
 }

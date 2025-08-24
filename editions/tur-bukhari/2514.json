@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"48": "Mortgaging"
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 2508,
-				"hadithnumber_last": 2515,
-				"arabicnumber_first": 2508,
-				"arabicnumber_last": 2515
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2514,
-			"arabicnumber": 2514,
-			"text": "İbn Ebi Müleyke'den rivayet edilmiştir: İbn Abbas'a (dava ile ilgili) bir mektup yazmıştım. Bana \"Nebi Sallallahu Aleyhi ve Sellem yeminin davalıya ait bir yükümlülük olduğuna hükmetti\" diye cevap yazdı. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 48,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "48": "Rehin"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 2508,
+        "hadithnumber_last": 2515,
+        "arabicnumber_first": 2508,
+        "arabicnumber_last": 2515
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2514,
+      "arabicnumber": 2514,
+      "text": "İbn Ebi Müleyke'den rivayet edilmiştir: İbn Abbas'a (dava ile ilgili) bir mektup yazmıştım. Bana \"Nebi Sallallahu Aleyhi ve Sellem yeminin davalıya ait bir yükümlülük olduğuna hükmetti\" diye cevap yazdı. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 48,
+        "hadith": 7
+      }
+    }
+  ]
 }

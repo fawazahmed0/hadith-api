@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1976,
-			"arabicnumber": 1976,
-			"text": "Abdullah İbn Amr şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem'e benim \"vallahi yaşadığım sürece gündüzleri oruç tutacak, geceleri de namaz kılacağım\" dediğim haber verilmiş. Ben: \"Evet bunu söyledim, anam babam sana feda olsun ey Allah'ın Resulü\" dedim. Nebi Sallallahu Aleyhi ve Sellem: \"Buna güç yetiremezsin. Bazen oruç tut, bazen terk et. Bazen namaz kıl bazen uyu. Her aydan üç gün oruç tut. İyiliklere on kat sevap verilir. Bu ise bütün yılı oruçlu geçirmek gibidir\" buyurdu. Ben: \"Ey Allah'ın resulü benim bundan daha faziletlisini yapmaya gücüm yeter\" dedim. Resulullah: \"O halde bir gün oruç tut, iki gün bırak\" dedi. Ben: \"Ben bundan daha faziletlisini de yapabilirim\" dedim. Resulullah: \"Bir gün oruç tut, bir gün bırak. Bu Davud (A.S.)'ın orucudur. Bu en faziletli oruçtur\" buyurdu. Ben: \"Ben bundan daha faziletlisini yapabilirim\" dedim. Resulullah: \"Bundan daha faziletlisi yoktur buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1976,
+      "arabicnumber": 1976,
+      "text": "Abdullah İbn Amr şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem'e benim \"vallahi yaşadığım sürece gündüzleri oruç tutacak, geceleri de namaz kılacağım\" dediğim haber verilmiş. Ben: \"Evet bunu söyledim, anam babam sana feda olsun ey Allah'ın Resulü\" dedim. Nebi Sallallahu Aleyhi ve Sellem: \"Buna güç yetiremezsin. Bazen oruç tut, bazen terk et. Bazen namaz kıl bazen uyu. Her aydan üç gün oruç tut. İyiliklere on kat sevap verilir. Bu ise bütün yılı oruçlu geçirmek gibidir\" buyurdu. Ben: \"Ey Allah'ın resulü benim bundan daha faziletlisini yapmaya gücüm yeter\" dedim. Resulullah: \"O halde bir gün oruç tut, iki gün bırak\" dedi. Ben: \"Ben bundan daha faziletlisini de yapabilirim\" dedim. Resulullah: \"Bir gün oruç tut, bir gün bırak. Bu Davud (A.S.)'ın orucudur. Bu en faziletli oruçtur\" buyurdu. Ben: \"Ben bundan daha faziletlisini yapabilirim\" dedim. Resulullah: \"Bundan daha faziletlisi yoktur buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 83
+      }
+    }
+  ]
 }

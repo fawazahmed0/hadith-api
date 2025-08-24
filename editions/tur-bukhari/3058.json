@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3058,
-			"arabicnumber": 3058,
-			"text": "Usame İbn Zeyd r.a.'in şöyle dediği nakledilmiştir: Resulullah Sallallahu Aleyhi ve Sellem'e haccını yaparken: \"Ey Allah'ın Resulü yarın nerede konaklayacaksınız? diye sordum. Nebi Sallallahu Aleyhi ve Sellem: \"Akil bize inip konaklayacak bir yer mi bıraktı ki?\" dedi ve şöyle devam etti: \"Biz yarın Kinane oğulları vadisina el-Muhassab denilen yerde konaklayacağız. Kureyş kabilesi burada inkarlarını devam ettireceklerine dair birbirlerine yemin etmişlerdi. Burası Kinane oğullarının, Haşim oğullarına karşı Kureyş ile sözleşerek ittifak kurdukları yerdir. Kureyşlilere onlara beyat etmeyeceklerine ve onları korumaları altına almayacaklarına söz vermişlerdi",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 263
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3058,
+      "arabicnumber": 3058,
+      "text": "Usame İbn Zeyd r.a.'in şöyle dediği nakledilmiştir: Resulullah Sallallahu Aleyhi ve Sellem'e haccını yaparken: \"Ey Allah'ın Resulü yarın nerede konaklayacaksınız? diye sordum. Nebi Sallallahu Aleyhi ve Sellem: \"Akil bize inip konaklayacak bir yer mi bıraktı ki?\" dedi ve şöyle devam etti: \"Biz yarın Kinane oğulları vadisina el-Muhassab denilen yerde konaklayacağız. Kureyş kabilesi burada inkarlarını devam ettireceklerine dair birbirlerine yemin etmişlerdi. Burası Kinane oğullarının, Haşim oğullarına karşı Kureyş ile sözleşerek ittifak kurdukları yerdir. Kureyşlilere onlara beyat etmeyeceklerine ve onları korumaları altına almayacaklarına söz vermişlerdi",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 263
+      }
+    }
+  ]
 }

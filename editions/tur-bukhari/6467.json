@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6467,
-			"arabicnumber": 6467,
-			"text": "Aişe r.anha'nın nakline göre Resulullah Sallallahu Aleyhi ve Sellem: \"Doğru yolu tutunuz, ifrat'a gitmeyiniz, müjdeleyip sevindiriniz. Sonra şu muhakkak ki hiçbir kimseyi kendi ameli cennete girdiremez\" buyurdu. Sahabiler: \"Seni de mi ya Resulallah?\" diye sordular. Resulullah Sallallahu Aleyhi ve Sellem: \"Evet beni de! Ancak Allah beni bir mağfiret ve bir rahmetle bürüyüp korumuş olması müstesnadır\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6467,
+      "arabicnumber": 6467,
+      "text": "Aişe r.anha'nın nakline göre Resulullah Sallallahu Aleyhi ve Sellem: \"Doğru yolu tutunuz, ifrat'a gitmeyiniz, müjdeleyip sevindiriniz. Sonra şu muhakkak ki hiçbir kimseyi kendi ameli cennete girdiremez\" buyurdu. Sahabiler: \"Seni de mi ya Resulallah?\" diye sordular. Resulullah Sallallahu Aleyhi ve Sellem: \"Evet beni de! Ancak Allah beni bir mağfiret ve bir rahmetle bürüyüp korumuş olması müstesnadır\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 56
+      }
+    }
+  ]
 }

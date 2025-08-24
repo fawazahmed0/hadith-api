@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"6": "Menstrual Periods"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 294,
-				"hadithnumber_last": 333,
-				"arabicnumber_first": 294,
-				"arabicnumber_last": 333
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 307,
-			"arabicnumber": 307,
-			"text": "Ebu Bekr r.a.'in kızı Esma'dan şöyle nakledilmiştir: \"Bir kadın Nebi Sallallahu Aleyhi ve Sellem'e: 'Ey Allah'ın elçisi, bizden birinin elbisesine hayız kanı bulaşırsa ne yapması gerekir? Bu konuda ne buyurursunuz? diye sordu. Rasulullah (Sallallahu Aleyhi ve Sellem) de şöyle cevap verdi; 'Eğer sizin elbiselerinize hayız kanı bulaşırsa, onu çitileyip üzerine su döküp yıkayın. Daha sonra o elbiseyle namaz kılın",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "6": "Hayız"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 294,
+        "hadithnumber_last": 333,
+        "arabicnumber_first": 294,
+        "arabicnumber_last": 333
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 307,
+      "arabicnumber": 307,
+      "text": "Ebu Bekr r.a.'in kızı Esma'dan şöyle nakledilmiştir: \"Bir kadın Nebi Sallallahu Aleyhi ve Sellem'e: 'Ey Allah'ın elçisi, bizden birinin elbisesine hayız kanı bulaşırsa ne yapması gerekir? Bu konuda ne buyurursunuz? diye sordu. Rasulullah (Sallallahu Aleyhi ve Sellem) de şöyle cevap verdi; 'Eğer sizin elbiselerinize hayız kanı bulaşırsa, onu çitileyip üzerine su döküp yıkayın. Daha sonra o elbiseyle namaz kılın",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 12
+      }
+    }
+  ]
 }

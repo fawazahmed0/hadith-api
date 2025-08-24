@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"6": "Menstrual Periods"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 294,
-				"hadithnumber_last": 333,
-				"arabicnumber_first": 294,
-				"arabicnumber_last": 333
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 311,
-			"arabicnumber": 311,
-			"text": "Aişe (r.anha)'den nakledildiğine göre, özür kanı gören müminlerin annelerinden biri itikafa girmiştir",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "6": "Hayız"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 294,
+        "hadithnumber_last": 333,
+        "arabicnumber_first": 294,
+        "arabicnumber_last": 333
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 311,
+      "arabicnumber": 311,
+      "text": "Aişe (r.anha)'den nakledildiğine göre, özür kanı gören müminlerin annelerinden biri itikafa girmiştir",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 16
+      }
+    }
+  ]
 }

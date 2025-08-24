@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"73": "Al-Adha Festival Sacrifice (Adaahi)"
-		},
-		"section_detail": {
-			"73": {
-				"hadithnumber_first": 5545,
-				"hadithnumber_last": 5574,
-				"arabicnumber_first": 5545,
-				"arabicnumber_last": 5574
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5572,
-			"arabicnumber": 5572,
-			"text": "Eba. Ubeyd dedi ki: \"Sonra Osman b. Affan ile (bayramda) hazır bulundum. O gün Cuma günü idi. Hutbeden önce namaz kıldırdı, sonra hutbe vererek: Ey insanlar' Şüphesiz bugün sizin için iki bayramın bir arada olduğu bir gündür. Her kim Avaıi ahalisinden cumayı beklemeyi arzu ederse beklesin. Kim de dönmeyi arzu ederse ona izin verdim, dedi",
-			"grades": [],
-			"reference": {
-				"book": 73,
-				"hadith": 28
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "73": "Udhiyeler"
+    },
+    "section_detail": {
+      "73": {
+        "hadithnumber_first": 5545,
+        "hadithnumber_last": 5574,
+        "arabicnumber_first": 5545,
+        "arabicnumber_last": 5574
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5572,
+      "arabicnumber": 5572,
+      "text": "Eba. Ubeyd dedi ki: \"Sonra Osman b. Affan ile (bayramda) hazır bulundum. O gün Cuma günü idi. Hutbeden önce namaz kıldırdı, sonra hutbe vererek: Ey insanlar' Şüphesiz bugün sizin için iki bayramın bir arada olduğu bir gündür. Her kim Avaıi ahalisinden cumayı beklemeyi arzu ederse beklesin. Kim de dönmeyi arzu ederse ona izin verdim, dedi",
+      "grades": [],
+      "reference": {
+        "book": 73,
+        "hadith": 28
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 858,
-			"arabicnumber": 858,
-			"text": "Ebu Saîd el-Hudrî (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Cum'a günü boy abdesti (ğusüi) almak, ihtilam olan (ergenlik çağına giren) herkese vaciptir. Tekrar: 879, 880, 895 ve",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 249
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 858,
+      "arabicnumber": 858,
+      "text": "Ebu Saîd el-Hudrî (r.a.) Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Cum'a günü boy abdesti (ğusüi) almak, ihtilam olan (ergenlik çağına giren) herkese vaciptir. Tekrar: 879, 880, 895 ve",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 249
+      }
+    }
+  ]
 }

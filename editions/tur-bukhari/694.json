@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 694,
-			"arabicnumber": 694,
-			"text": "Ebu Hureyre (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"İmamlar sizin için namaz kıldırıyorlar. Eğer doğru kıldırırlarsa kıldığınız namaz'ın sevabını alırsınız. Buna karşılık hatalı kıldırırlarsa kıldığınız namaz'ın sevabını siz alırsınız, günahı İse namazı kıldıran imamlara olur",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 89
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 694,
+      "arabicnumber": 694,
+      "text": "Ebu Hureyre (r.a.) Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"İmamlar sizin için namaz kıldırıyorlar. Eğer doğru kıldırırlarsa kıldığınız namaz'ın sevabını alırsınız. Buna karşılık hatalı kıldırırlarsa kıldığınız namaz'ın sevabını siz alırsınız, günahı İse namazı kıldıran imamlara olur",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 89
+      }
+    }
+  ]
 }

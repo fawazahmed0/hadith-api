@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"52": "Witnesses"
-		},
-		"section_detail": {
-			"52": {
-				"hadithnumber_first": 2637,
-				"hadithnumber_last": 2689,
-				"arabicnumber_first": 2637,
-				"arabicnumber_last": 2689
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2652,
-			"arabicnumber": 2652,
-			"text": "Abdullah r.a.'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"En hayırlı nesil benim zamanımda yaşayan nesildir; sonra onların ardından gelenler; sonra da onların ardından gelenlerdir. Sonra öyle bir topluluk gelecek ki şahitlikleri yeminlerini; yeminleri şahitliklerini geçecek.\" İbrahim (en-Nahai) şöyle demiştir: \"(Biz küçükken) şahitlik ediyoruz ve söz veriyoruz diye (büyüklerimiz) bizi döverdi",
-			"grades": [],
-			"reference": {
-				"book": 52,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "52": "Şehâdetler"
+    },
+    "section_detail": {
+      "52": {
+        "hadithnumber_first": 2637,
+        "hadithnumber_last": 2689,
+        "arabicnumber_first": 2637,
+        "arabicnumber_last": 2689
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2652,
+      "arabicnumber": 2652,
+      "text": "Abdullah r.a.'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"En hayırlı nesil benim zamanımda yaşayan nesildir; sonra onların ardından gelenler; sonra da onların ardından gelenlerdir. Sonra öyle bir topluluk gelecek ki şahitlikleri yeminlerini; yeminleri şahitliklerini geçecek.\" İbrahim (en-Nahai) şöyle demiştir: \"(Biz küçükken) şahitlik ediyoruz ve söz veriyoruz diye (büyüklerimiz) bizi döverdi",
+      "grades": [],
+      "reference": {
+        "book": 52,
+        "hadith": 16
+      }
+    }
+  ]
 }

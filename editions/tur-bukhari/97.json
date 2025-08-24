@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 97,
-			"arabicnumber": 97,
-			"text": "Ebu Bürde'nin babasından (Ebu Musa el-Eş'ari r.a.) rivayet ettiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Üç kişinin ikişer (iki kat) sevabı vardır: Ehl-i kitaptan (Yahudi ve Hıristiyanlardan) olup, hem kendi Nebilerine hem de Muhammede sallallahu aleyhi ve sellem'e inanan kişi, hem Allah'ın hem de efendilerinin hakkını yerine getiren köle, bir cariyesi olup da onu güzelce terbiye eden ve ona güzelce (İlim) Öğreten sonra da onu azat ederek onunla evlenen kişi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 39
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 97,
+      "arabicnumber": 97,
+      "text": "Ebu Bürde'nin babasından (Ebu Musa el-Eş'ari r.a.) rivayet ettiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Üç kişinin ikişer (iki kat) sevabı vardır: Ehl-i kitaptan (Yahudi ve Hıristiyanlardan) olup, hem kendi Nebilerine hem de Muhammede sallallahu aleyhi ve sellem'e inanan kişi, hem Allah'ın hem de efendilerinin hakkını yerine getiren köle, bir cariyesi olup da onu güzelce terbiye eden ve ona güzelce (İlim) Öğreten sonra da onu azat ederek onunla evlenen kişi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 39
+      }
+    }
+  ]
 }

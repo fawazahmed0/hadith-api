@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1960,
-			"arabicnumber": 1960,
-			"text": "Rübeyyi' binti Muavviz r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem aşure gününün sabahı ensarın oturduğu köylere şu haberi gönderdi: \"Oruçsuz olarak sabahlayan günün geri kalan kısmını (bir şey yiyip içmeksizin) tamamlasın. Oruçlu olarak sabahlayan ise orucunu tutsun\". Rübeyyi' şöyle dedi: Bundan sonraki zamanlarda biz o günü oruçlu geçirir, çocuklarımıza da oruç tuttururduk. Onlara (açlığı unutturmak için) yünden oyuncaklar yapardık. Onlardan biri açlıktan ağladığında kendisine oyuncağı verir, böylece iftara kadar onları oyalardık",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 67
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1960,
+      "arabicnumber": 1960,
+      "text": "Rübeyyi' binti Muavviz r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem aşure gününün sabahı ensarın oturduğu köylere şu haberi gönderdi: \"Oruçsuz olarak sabahlayan günün geri kalan kısmını (bir şey yiyip içmeksizin) tamamlasın. Oruçlu olarak sabahlayan ise orucunu tutsun\". Rübeyyi' şöyle dedi: Bundan sonraki zamanlarda biz o günü oruçlu geçirir, çocuklarımıza da oruç tuttururduk. Onlara (açlığı unutturmak için) yünden oyuncaklar yapardık. Onlardan biri açlıktan ağladığında kendisine oyuncağı verir, böylece iftara kadar onları oyalardık",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 67
+      }
+    }
+  ]
 }

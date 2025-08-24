@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"47": "The Book of Knowledge"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 6775,
-				"hadithnumber_last": 6804,
-				"arabicnumber_first": 2665,
-				"arabicnumber_last": 2674
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6779,
-			"arabicnumber": "2667.03",
-			"text": "{M-4} Bana Ahmed b. Said b. Sahr Ed-Dârimî rivayet etti. (Dediki): Bize Habban rivayet etli. (Dediki): Bize Ebân rivayet etti. (Dediki): Bize Ebû İmrân rivayet etti. (Dediki): Biz Kûfe'de çocukken Cündeb bize şunu söyledi: Resûlullah (Sallallahu Aleyhi ve Sellem) ; «Kur'ân'ı okuyun...» buyurdular. Râvi yukardakilerin hadîsi gibi rivayet etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 47,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "47": "İlim"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 6775,
+        "hadithnumber_last": 6804,
+        "arabicnumber_first": 2665,
+        "arabicnumber_last": 2674
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6779,
+      "arabicnumber": "2667.03",
+      "text": "{M-4} Bana Ahmed b. Said b. Sahr Ed-Dârimî rivayet etti. (Dediki): Bize Habban rivayet etli. (Dediki): Bize Ebân rivayet etti. (Dediki): Bize Ebû İmrân rivayet etti. (Dediki): Biz Kûfe'de çocukken Cündeb bize şunu söyledi: Resûlullah (Sallallahu Aleyhi ve Sellem) ; «Kur'ân'ı okuyun...» buyurdular. Râvi yukardakilerin hadîsi gibi rivayet etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 47,
+        "hadith": 5
+      }
+    }
+  ]
 }

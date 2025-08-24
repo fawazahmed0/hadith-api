@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1241,
-			"arabicnumber": "557.01",
-			"text": "Bana Amrü'n-Nâkıd ile Züheyr b. Harb ve Ebu Bekir b. Ebî Şeybe haber verdiler. Dedilerki: Bize Sûfyân b. Uyeyne Zühri'den o da Enes b. Mâlik'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Efendimiz şöyle buyurmuşlar: «Akşam yemeği hazır olurda namaza da ikaamet getirilirse evvelâ yemeği yiyiniz!»",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 79
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1241,
+      "arabicnumber": "557.01",
+      "text": "Bana Amrü'n-Nâkıd ile Züheyr b. Harb ve Ebu Bekir b. Ebî Şeybe haber verdiler. Dedilerki: Bize Sûfyân b. Uyeyne Zühri'den o da Enes b. Mâlik'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Efendimiz şöyle buyurmuşlar: «Akşam yemeği hazır olurda namaza da ikaamet getirilirse evvelâ yemeği yiyiniz!»",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 79
+      }
+    }
+  ]
 }

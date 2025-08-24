@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3421,
-			"arabicnumber": "1406.03",
-			"text": "{…} Bana Ahmed b. Saîd b. Sahr Ed-Dârimî rivayet etti. (Dediki): Bize Ebu Nu'man rivayet etti. (Dediki): Bize Vüheyb rivayet etti. (Dediki): Bize Umaretü'bnü Gaziyye rivayet eyledi. (Dediki): Bana Rabi' b. Sebrate'l-Cühenî, babasından rivayet etti. (Şöyle demiş): «Fetih yılında Resulullah (Sallallahu Aleyhi ve Sellem) ile birlikte Mekke'ye müteveccihen yola çıktık...» Râvî Beşir hadîsi gibi rivayette bulunmuş. Şunu da ziyâde etmiştir: «Kadın bu işe yarar mı? dedi.» Bu hadisde: «Bunun kaftanı eski püsküdür, dedi» cümlesi de vardır",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3421,
+      "arabicnumber": "1406.03",
+      "text": "{…} Bana Ahmed b. Saîd b. Sahr Ed-Dârimî rivayet etti. (Dediki): Bize Ebu Nu'man rivayet etti. (Dediki): Bize Vüheyb rivayet etti. (Dediki): Bize Umaretü'bnü Gaziyye rivayet eyledi. (Dediki): Bana Rabi' b. Sebrate'l-Cühenî, babasından rivayet etti. (Şöyle demiş): «Fetih yılında Resulullah (Sallallahu Aleyhi ve Sellem) ile birlikte Mekke'ye müteveccihen yola çıktık...» Râvî Beşir hadîsi gibi rivayette bulunmuş. Şunu da ziyâde etmiştir: «Kadın bu işe yarar mı? dedi.» Bu hadisde: «Bunun kaftanı eski püsküdür, dedi» cümlesi de vardır",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 24
+      }
+    }
+  ]
 }

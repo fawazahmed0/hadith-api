@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"7": "The Book of Prayer - Friday"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1951,
-				"hadithnumber_last": 2043,
-				"arabicnumber_first": 844.01,
-				"arabicnumber_last": 883.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2007,
-			"arabicnumber": "867.03",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Vekî', Süfyân'dan, o da Ca'fer'den, o da babasından, o da Câbir'den naklen rivayet etti. Şöyle demiş: «Resûlullah (Sallallahu Aleyhi ve Sellem) cemaate hutbe okurken. (Evvelâ) Allaha lâyık olduğu veçhile hamdü sena eyler; sonra : «Bir kimseye Allah hidâyet verirse artık onu saptıracak yoktur; Allahın saptırdığına da hidâyet verecek yoktur. Sözün en hayırlısı Allanın Kitabıdır.» [Men yehdillahu.... ila ahir....] buyururdu. Bundan sonra râvî hadîsi Sakafî'nin hadisi gibi rivayet etti. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 7,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "7": "Cuma"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1951,
+        "hadithnumber_last": 2043,
+        "arabicnumber_first": 844.01,
+        "arabicnumber_last": 883.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2007,
+      "arabicnumber": "867.03",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Vekî', Süfyân'dan, o da Ca'fer'den, o da babasından, o da Câbir'den naklen rivayet etti. Şöyle demiş: «Resûlullah (Sallallahu Aleyhi ve Sellem) cemaate hutbe okurken. (Evvelâ) Allaha lâyık olduğu veçhile hamdü sena eyler; sonra : «Bir kimseye Allah hidâyet verirse artık onu saptıracak yoktur; Allahın saptırdığına da hidâyet verecek yoktur. Sözün en hayırlısı Allanın Kitabıdır.» [Men yehdillahu.... ila ahir....] buyururdu. Bundan sonra râvî hadîsi Sakafî'nin hadisi gibi rivayet etti. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 7,
+        "hadith": 57
+      }
+    }
+  ]
 }

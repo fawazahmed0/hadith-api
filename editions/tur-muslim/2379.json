@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2379,
-			"arabicnumber": "1031.01",
-			"text": "Bana Züheyr b. Harb ile Muhammedü'bnü'l-Müsennâ hep birden Yahye'l-Kattan dan rivayet ettiler. Züheyr (Dediki): Bize Yahya b. Saîd, Ubeydullah'dan rivayet etti. (Demişki): Bana Hubeyd b. Abdirrahmân, Hafs b. Asımdan, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen haber verdi; şöyle buyurmuşlar: Yedi sınıf İnsan vardır ki Allah onları kendi (arş'ının) gölgesinden başka hiç bir gölge bulunmayan (kıyamet) gün(ün)de (arş'ının) gölgesinde gölgelendirecektir. (Bunlar): Âdil hükümdar, Allah'a ibâdet ede ede yetişen genç, kalbi mescidlere bağlı olan kimse, Allah için sevişen, onun için bir yere gelen; onun için biribirinden ayrılan iki kimse, kendisini mevkii sahibi, güzel bir kadın (fenâlığa) davet ettiği hâlde: — Ben Allah'dan korkarım; diyen adam, sol elinin verdiğini sağ eli duymayacak derecede gizli sadaka veren kimse ve tenha bir yerde Allah'ı zikrederek gözleri boşanan kimselerdir.»",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 117
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2379,
+      "arabicnumber": "1031.01",
+      "text": "Bana Züheyr b. Harb ile Muhammedü'bnü'l-Müsennâ hep birden Yahye'l-Kattan dan rivayet ettiler. Züheyr (Dediki): Bize Yahya b. Saîd, Ubeydullah'dan rivayet etti. (Demişki): Bana Hubeyd b. Abdirrahmân, Hafs b. Asımdan, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen haber verdi; şöyle buyurmuşlar: Yedi sınıf İnsan vardır ki Allah onları kendi (arş'ının) gölgesinden başka hiç bir gölge bulunmayan (kıyamet) gün(ün)de (arş'ının) gölgesinde gölgelendirecektir. (Bunlar): Âdil hükümdar, Allah'a ibâdet ede ede yetişen genç, kalbi mescidlere bağlı olan kimse, Allah için sevişen, onun için bir yere gelen; onun için biribirinden ayrılan iki kimse, kendisini mevkii sahibi, güzel bir kadın (fenâlığa) davet ettiği hâlde: — Ben Allah'dan korkarım; diyen adam, sol elinin verdiğini sağ eli duymayacak derecede gizli sadaka veren kimse ve tenha bir yerde Allah'ı zikrederek gözleri boşanan kimselerdir.»",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 117
+      }
+    }
+  ]
 }

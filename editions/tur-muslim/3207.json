@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3207,
-			"arabicnumber": "1321.14",
-			"text": "{…} Bize Muhammedu'bnu'l-Müsennâ rivayet etti. (Dediki): Bize Abdülvahhâb rivayet etti. (Dediki): Bize Dâvûd rivayet etti. H. Bize İbni Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. (dediki); Bize Zekeriyyâ rivayet eyledi. (Dâvûd'la Zekeriyyâ'nın) ikisi birden Şa'bî'den, o da Mesrûk'dan, o da Âişe'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet etmişlerdir. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 411
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3207,
+      "arabicnumber": "1321.14",
+      "text": "{…} Bize Muhammedu'bnu'l-Müsennâ rivayet etti. (Dediki): Bize Abdülvahhâb rivayet etti. (Dediki): Bize Dâvûd rivayet etti. H. Bize İbni Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. (dediki); Bize Zekeriyyâ rivayet eyledi. (Dâvûd'la Zekeriyyâ'nın) ikisi birden Şa'bî'den, o da Mesrûk'dan, o da Âişe'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet etmişlerdir. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 411
+      }
+    }
+  ]
 }

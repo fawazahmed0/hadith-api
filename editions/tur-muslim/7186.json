@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"53": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
-		},
-		"section_detail": {
-			"53": {
-				"hadithnumber_first": 7130,
-				"hadithnumber_last": 7234,
-				"arabicnumber_first": 2822,
-				"arabicnumber_last": 2879
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7186,
-			"arabicnumber": "2852",
-			"text": "Bize Ebû Kureyb ile Ahmed b. Ömer El-Vekîî rivayet ettiler. (Dedilerki): Bize İbni FudayI babasından, o da Ebû Hâzim'den, o da Ebû Hureyre'den meklan rivayet etti. Resûlullah (Sallallahu Aleyhi ve Sellem): «Cehennemde kâfirin iki omuzunun arası hızlı giden binek kimsenin Üç günlük yolu kadardır.» buyurmuşlar. Vekiî: «Cehennemde...» kaydını anmamıştır. Diğer tahric: Buharî Rikak",
-			"grades": [],
-			"reference": {
-				"book": 53,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "53": "Cennet Ve Onun Nimetleri İle Cennetliklerin Sıfatı Bahsi"
+    },
+    "section_detail": {
+      "53": {
+        "hadithnumber_first": 7130,
+        "hadithnumber_last": 7234,
+        "arabicnumber_first": 2822,
+        "arabicnumber_last": 2879
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7186,
+      "arabicnumber": "2852",
+      "text": "Bize Ebû Kureyb ile Ahmed b. Ömer El-Vekîî rivayet ettiler. (Dedilerki): Bize İbni FudayI babasından, o da Ebû Hâzim'den, o da Ebû Hureyre'den meklan rivayet etti. Resûlullah (Sallallahu Aleyhi ve Sellem): «Cehennemde kâfirin iki omuzunun arası hızlı giden binek kimsenin Üç günlük yolu kadardır.» buyurmuşlar. Vekiî: «Cehennemde...» kaydını anmamıştır. Diğer tahric: Buharî Rikak",
+      "grades": [],
+      "reference": {
+        "book": 53,
+        "hadith": 55
+      }
+    }
+  ]
 }

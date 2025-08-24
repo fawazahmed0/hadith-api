@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6178,
-			"arabicnumber": "2385",
-			"text": "Bana Hasan b. Ali El-Hulvâni rivayet etti. (Dediki): Bize Ca'fer b. Avn, Ebû Umeys'den rivayet etti. H. Bize Abd b. Humeyd de rivayet etti. Lâfız onundur. (Dediki): Bize Ca'fer b. Avn haber verdi. (Dediki): Bize Ebû Umeys, İbni Ebi Müleyke'den naklen haber verdi. (Demişki): Ben Âişe'den dinledim. Kendisine: — Resulullah (Sallallahu Aleyhi ve Sellem) yerine halife bıraksa, bu zât kim oturdu? diye soruldu da: — Ebû Bekr! dedi. Müteakiben kendisine : — Ebû Bekr'den sonra kim? olurdu denildi: — Ömer! cevâbını verdi. Sonra kendisine: — Ömer'den sonra kim? dediler. — Ebû Ubeyde b. Cerrah! Ve bunda karar kıldı",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6178,
+      "arabicnumber": "2385",
+      "text": "Bana Hasan b. Ali El-Hulvâni rivayet etti. (Dediki): Bize Ca'fer b. Avn, Ebû Umeys'den rivayet etti. H. Bize Abd b. Humeyd de rivayet etti. Lâfız onundur. (Dediki): Bize Ca'fer b. Avn haber verdi. (Dediki): Bize Ebû Umeys, İbni Ebi Müleyke'den naklen haber verdi. (Demişki): Ben Âişe'den dinledim. Kendisine: — Resulullah (Sallallahu Aleyhi ve Sellem) yerine halife bıraksa, bu zât kim oturdu? diye soruldu da: — Ebû Bekr! dedi. Müteakiben kendisine : — Ebû Bekr'den sonra kim? olurdu denildi: — Ömer! cevâbını verdi. Sonra kendisine: — Ömer'den sonra kim? dediler. — Ebû Ubeyde b. Cerrah! Ve bunda karar kıldı",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 10
+      }
+    }
+  ]
 }

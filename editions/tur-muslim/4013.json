@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4013,
-			"arabicnumber": "1568.03",
-			"text": "{…} Bize İshâk b. İbrâhîm rivayet etti. (Dediki): Bize Abdürrezzâk haber verdi. (Dediki): Bize Ma'mer, Yahya b. Ebî Kesîr'den bu isnâdla bu hadîsin mislini rivayet eyledi",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 52
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4013,
+      "arabicnumber": "1568.03",
+      "text": "{…} Bize İshâk b. İbrâhîm rivayet etti. (Dediki): Bize Abdürrezzâk haber verdi. (Dediki): Bize Ma'mer, Yahya b. Ebî Kesîr'den bu isnâdla bu hadîsin mislini rivayet eyledi",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 52
+      }
+    }
+  ]
 }

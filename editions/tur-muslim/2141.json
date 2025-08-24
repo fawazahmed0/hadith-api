@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2141,
-			"arabicnumber": "926.03",
-			"text": "{…} Bize, bu hadîsi Yahya b. Habîb El-Hârisî dahî rivayet etti (dediki): Bize Hâlîd yâni Îbni-Hâris rivayet etti. H. Bize Ukbetü'bnü Mükrem-i Ammî de rivayet etti. (dediki): Bize Abdülmelik b. Amr rivayet etti. H. Bana Ahmed b. îbrâhim Ed-Devrakî dahî rivayet etti. (dediki): Bize Abdü's-Samet rivayet etti. Bunlar hep birden: «Bize Şu'be bu isnâdla, Osman b. Ömer'in hadisi gibi rivayette bulundu.» dediler. Abdü's-Samed'in rivayetinde: Nebi (Sallallahu Aleyhi ve Sellem) kabir yanında bir kadına uğradı...» denilmiştir. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 19
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2141,
+      "arabicnumber": "926.03",
+      "text": "{…} Bize, bu hadîsi Yahya b. Habîb El-Hârisî dahî rivayet etti (dediki): Bize Hâlîd yâni Îbni-Hâris rivayet etti. H. Bize Ukbetü'bnü Mükrem-i Ammî de rivayet etti. (dediki): Bize Abdülmelik b. Amr rivayet etti. H. Bana Ahmed b. îbrâhim Ed-Devrakî dahî rivayet etti. (dediki): Bize Abdü's-Samet rivayet etti. Bunlar hep birden: «Bize Şu'be bu isnâdla, Osman b. Ömer'in hadisi gibi rivayette bulundu.» dediler. Abdü's-Samed'in rivayetinde: Nebi (Sallallahu Aleyhi ve Sellem) kabir yanında bir kadına uğradı...» denilmiştir. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 19
+      }
+    }
+  ]
 }

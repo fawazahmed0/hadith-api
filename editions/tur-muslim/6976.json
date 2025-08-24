@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"50": "The Book of Repentance"
-		},
-		"section_detail": {
-			"50": {
-				"hadithnumber_first": 6952,
-				"hadithnumber_last": 7023,
-				"arabicnumber_first": 2744.01,
-				"arabicnumber_last": 2771
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6976,
-			"arabicnumber": "2753.02",
-			"text": "{M-20} Bize bu hadîsi Muhammed b. Abdi'l-A'lâ da rivayet etti. (Dediki): Bize Mu'temir, babasından bu isnâdla rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 50,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "50": "Tevbe"
+    },
+    "section_detail": {
+      "50": {
+        "hadithnumber_first": 6952,
+        "hadithnumber_last": 7023,
+        "arabicnumber_first": 2744.01,
+        "arabicnumber_last": 2771
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6976,
+      "arabicnumber": "2753.02",
+      "text": "{M-20} Bize bu hadîsi Muhammed b. Abdi'l-A'lâ da rivayet etti. (Dediki): Bize Mu'temir, babasından bu isnâdla rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 50,
+        "hadith": 24
+      }
+    }
+  ]
 }

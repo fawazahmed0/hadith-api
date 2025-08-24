@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"56": "The Book of Commentary on the Qur'an"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 7523,
-				"hadithnumber_last": 7563,
-				"arabicnumber_first": 3015,
-				"arabicnumber_last": 3033.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7544,
-			"arabicnumber": "3023.04",
-			"text": "Bana Harun b. Abdullah rivayet etti. (Dediki): Bize Ebû'n-Nadr Hâşim b. Kaâsım El-Leysî rivayet etti. (Dediki): Bize Ebû Muâviye (yâni; Şeyban) Mansûr b. Mu'temir'den, o da Saîd b. Cübeyr'den, o da İbni Abbâs'dan naklen rivayet etti. (ŞÖyîe demiş) : Şu âyet: «O kimseler ki, Allah'la birlikte başka bir ilah'a dua etmezler...» [Furkan 68] «Mâhânen» kavline kadar Mekke'de inmiştir. Bunun üzerine müşrikler: Bize İslâm'ın ne faydası olur. Biz Allah'a şirk koşmuş, Allah'ın haram kıldığı nefsi öldürmüş ve bütün kötülükleri yapmışızdır, dediler. Allah (Âzze ve Ceîle) de : «Ancak tevbe ve iman edip, sâiih amel işleyenler müstesna!» [Furkan 70] âyetini sonuna kadar indirdi. Ama İslâm'a girip, onun hükümlerini öğrendikten sonra öldürürse, onun için tevbe yoktur",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "56": "Tefsir"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 7523,
+        "hadithnumber_last": 7563,
+        "arabicnumber_first": 3015,
+        "arabicnumber_last": 3033.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7544,
+      "arabicnumber": "3023.04",
+      "text": "Bana Harun b. Abdullah rivayet etti. (Dediki): Bize Ebû'n-Nadr Hâşim b. Kaâsım El-Leysî rivayet etti. (Dediki): Bize Ebû Muâviye (yâni; Şeyban) Mansûr b. Mu'temir'den, o da Saîd b. Cübeyr'den, o da İbni Abbâs'dan naklen rivayet etti. (ŞÖyîe demiş) : Şu âyet: «O kimseler ki, Allah'la birlikte başka bir ilah'a dua etmezler...» [Furkan 68] «Mâhânen» kavline kadar Mekke'de inmiştir. Bunun üzerine müşrikler: Bize İslâm'ın ne faydası olur. Biz Allah'a şirk koşmuş, Allah'ın haram kıldığı nefsi öldürmüş ve bütün kötülükleri yapmışızdır, dediler. Allah (Âzze ve Ceîle) de : «Ancak tevbe ve iman edip, sâiih amel işleyenler müstesna!» [Furkan 70] âyetini sonuna kadar indirdi. Ama İslâm'a girip, onun hükümlerini öğrendikten sonra öldürürse, onun için tevbe yoktur",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 22
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2265,
-			"arabicnumber": "979.03",
-			"text": "{…} Bize Muhammedü'bnü Râfi' rivayet etti. (Dediki): Bize Abdurrazzâk rivayet etti. (Dediki): Bize îbni Cüreyc haber verdi. (Dediki): Bana Amr b. Yahya b. Umara, babasından, o da Yahya b. Umara' dan naklen haber verdi. Yahya şöyle demiş: Ben, Ebû Saîd-i Hudrî'yi şunları söylerken işittim: «Resulullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken dinledim; Hem avucuna beş parmağı ile işaret ediyordu.» Bundan sonra îbni Uyeyne hadîsi gibi rivayette bulundu",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2265,
+      "arabicnumber": "979.03",
+      "text": "{…} Bize Muhammedü'bnü Râfi' rivayet etti. (Dediki): Bize Abdurrazzâk rivayet etti. (Dediki): Bize îbni Cüreyc haber verdi. (Dediki): Bana Amr b. Yahya b. Umara, babasından, o da Yahya b. Umara' dan naklen haber verdi. Yahya şöyle demiş: Ben, Ebû Saîd-i Hudrî'yi şunları söylerken işittim: «Resulullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken dinledim; Hem avucuna beş parmağı ile işaret ediyordu.» Bundan sonra îbni Uyeyne hadîsi gibi rivayette bulundu",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 3
+      }
+    }
+  ]
 }

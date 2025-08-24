@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 39,
-			"text": "Bana el-Fadl b. Sehl de rivâyet etti. ki: Muallâ er-Râzı'ye, Abbâd’ın kendisinden hadîs rivâyet ettiği Muhammed b. Saîd'i sordum. O da bana Îsâ b. Yunus'dan naklen haber verdi, Îsâ Şöyle dedi: onun yanında bulunduğu bir sırada ben de onun kapısında idim. Süfyân çıktığı zaman ona Muhammed'i sordum. Bana onun yalancı olduğunu haber verdi.»",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 39
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 39,
+      "text": "Bana el-Fadl b. Sehl de rivâyet etti. ki: Muallâ er-Râzı'ye, Abbâd’ın kendisinden hadîs rivâyet ettiği Muhammed b. Saîd'i sordum. O da bana Îsâ b. Yunus'dan naklen haber verdi, Îsâ Şöyle dedi: onun yanında bulunduğu bir sırada ben de onun kapısında idim. Süfyân çıktığı zaman ona Muhammed'i sordum. Bana onun yalancı olduğunu haber verdi.»",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 39
+      }
+    }
+  ]
 }

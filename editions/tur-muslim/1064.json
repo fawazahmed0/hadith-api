@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"4": "The Book of Prayers "
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 837,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1064,
-			"arabicnumber": "474.03",
-			"text": "Bize Muhammed b. Abdirrahmân b. Sehm El-Antâkî rivayet etti. (Dediki): Bize İbrahim b. Muhammed Ebu İshâk El-Fezârî, Ebu İshâk Eş-Şeybânî'den, o da Muharip b. Disâr'dan naklen rivayet etti. Muharip şöyle demiş: Abdullah b. Yezidi minber Üzerinde şöyle derken işittim: Bize Berâ' rivayet ettiki. Kendileri ResuluIIah (Sallallahu Aleyhi ve Sellem) ile birlikte namaz kılarlarmış. O rüku etti mi onlar da rüku ederlermiş. Berâ' demiş İd: Başını rükudan kaldırarak: «Semiallâhu limen hamideh» dediği vakit, yüzünü yere koyduğunu görmedikçe ayakta dururduk, sonra ona tâbi olurduk",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 226
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "4": "Namaz"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 837,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 377,
+        "arabicnumber_last": 519.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1064,
+      "arabicnumber": "474.03",
+      "text": "Bize Muhammed b. Abdirrahmân b. Sehm El-Antâkî rivayet etti. (Dediki): Bize İbrahim b. Muhammed Ebu İshâk El-Fezârî, Ebu İshâk Eş-Şeybânî'den, o da Muharip b. Disâr'dan naklen rivayet etti. Muharip şöyle demiş: Abdullah b. Yezidi minber Üzerinde şöyle derken işittim: Bize Berâ' rivayet ettiki. Kendileri ResuluIIah (Sallallahu Aleyhi ve Sellem) ile birlikte namaz kılarlarmış. O rüku etti mi onlar da rüku ederlermiş. Berâ' demiş İd: Başını rükudan kaldırarak: «Semiallâhu limen hamideh» dediği vakit, yüzünü yere koyduğunu görmedikçe ayakta dururduk, sonra ona tâbi olurduk",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 226
+      }
+    }
+  ]
 }

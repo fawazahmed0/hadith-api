@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5571,
-			"text": "(Bize Muhammed b. Abdillah b. Nümeyr rivâyet etti. ki): Bize babam rivâyet etti. H. Züheyr b. Harb ile Muhammed b. Müsennâ da rîvâyei ettiler. Lâfız Züheyr'indir. (Dediler ki): Bize Yahya (bu zat Kattan'dır) Ubeydullah'dan rivâyet etti. ki): Bana Nâfi', İbn Ömer'den naklen haber verdi İd, Resûlüllah (sallallahü aleyhi ve sellem) saç ekleyenle ekletene, döğme yapanla yaptırana lanet buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5571,
+      "text": "(Bize Muhammed b. Abdillah b. Nümeyr rivâyet etti. ki): Bize babam rivâyet etti. H. Züheyr b. Harb ile Muhammed b. Müsennâ da rîvâyei ettiler. Lâfız Züheyr'indir. (Dediler ki): Bize Yahya (bu zat Kattan'dır) Ubeydullah'dan rivâyet etti. ki): Bana Nâfi', İbn Ömer'den naklen haber verdi İd, Resûlüllah (sallallahü aleyhi ve sellem) saç ekleyenle ekletene, döğme yapanla yaptırana lanet buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

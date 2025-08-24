@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3889,
-			"arabicnumber": "1540.03",
-			"text": "Bize Mulhammed b. Müsennâ ile ishâk b. İbrahim ve ibni Ebî Ömer hep birden Sekafî'den rivayet ettiler. Demişki: Ben Yahya b. Saîd'i şöyle derken işittim: Bana Büşeyr b. Yesâr hemşehrileri bâzı ashab-ı Resûlullâh (Sallallahu Aleyhi ve Sellem)'den naklen haber verdiki, ResûluIIah (Sallallahu Aleyhi ve Sellem) nehîy buyurmuş... Ravi Sekafî, Süleyman b. Bilâl'in Yahya'dan rivayet ettiği hadîs gibi rivayette bulunmuş; yalnız îshâk ile İbni Müsennâ (ribâ) yerine (zebn) kelimesini koymuşlar; İbni Ebî Ömer ise (ribâ) demiştir",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 88
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3889,
+      "arabicnumber": "1540.03",
+      "text": "Bize Mulhammed b. Müsennâ ile ishâk b. İbrahim ve ibni Ebî Ömer hep birden Sekafî'den rivayet ettiler. Demişki: Ben Yahya b. Saîd'i şöyle derken işittim: Bana Büşeyr b. Yesâr hemşehrileri bâzı ashab-ı Resûlullâh (Sallallahu Aleyhi ve Sellem)'den naklen haber verdiki, ResûluIIah (Sallallahu Aleyhi ve Sellem) nehîy buyurmuş... Ravi Sekafî, Süleyman b. Bilâl'in Yahya'dan rivayet ettiği hadîs gibi rivayette bulunmuş; yalnız îshâk ile İbni Müsennâ (ribâ) yerine (zebn) kelimesini koymuşlar; İbni Ebî Ömer ise (ribâ) demiştir",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 88
+      }
+    }
+  ]
 }

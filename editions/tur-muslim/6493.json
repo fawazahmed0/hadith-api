@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6493,
-			"arabicnumber": "2543.01",
-			"text": "Bana Ebu't-Tâhir rivayet etti. (Dediki): Bize İbnü Vehb haber verdi. (Dediki): Bana Harmele haber verdi. H. Bana Harun b. Said El-Eyli de rivayet etti. (Dediki): Bize İbni Vehb rivayet etti. (Dediki): Bana Harmele (bu zât İbni İmrân Et-Tücibi'dir) Ahdurrahman b. Sümâsete'l-Mehri'den rivayet etti. (Demişki): Ben Ehû Zerr'i şunu söylerken işittim: Resûlullah (Sallallahu Aleyhi ve Seliem): «Siz öyle bir yer fethedeceksiniz ki, orada kirat söylenir. 0 yerin ahâlisi hakkında birbirinize hayr tavsiyesinde bulunun! Çünkü onların bir zimmet ve rahim (hörmet)'i vardır. Bir kerpiç yeri hakkında kavga eden iki adam gördünüz mü hemen oradan çık!» buyurdular. Râvi demiş ki: Ebû Zer Şurahbil b, Hasene'nin oğulları Rabia ile Abdurrahman, bir kerpiç yeri hakkında kavga ederken yanlarına uğramış da hemen oradan çıkmış",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 322
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6493,
+      "arabicnumber": "2543.01",
+      "text": "Bana Ebu't-Tâhir rivayet etti. (Dediki): Bize İbnü Vehb haber verdi. (Dediki): Bana Harmele haber verdi. H. Bana Harun b. Said El-Eyli de rivayet etti. (Dediki): Bize İbni Vehb rivayet etti. (Dediki): Bana Harmele (bu zât İbni İmrân Et-Tücibi'dir) Ahdurrahman b. Sümâsete'l-Mehri'den rivayet etti. (Demişki): Ben Ehû Zerr'i şunu söylerken işittim: Resûlullah (Sallallahu Aleyhi ve Seliem): «Siz öyle bir yer fethedeceksiniz ki, orada kirat söylenir. 0 yerin ahâlisi hakkında birbirinize hayr tavsiyesinde bulunun! Çünkü onların bir zimmet ve rahim (hörmet)'i vardır. Bir kerpiç yeri hakkında kavga eden iki adam gördünüz mü hemen oradan çık!» buyurdular. Râvi demiş ki: Ebû Zer Şurahbil b, Hasene'nin oğulları Rabia ile Abdurrahman, bir kerpiç yeri hakkında kavga ederken yanlarına uğramış da hemen oradan çıkmış",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 322
+      }
+    }
+  ]
 }

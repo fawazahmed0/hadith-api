@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5706,
-			"arabicnumber": "2190.02",
-			"text": "{…} Bize Harun b. Abdillah da rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Ben Hişâm b. Zeyd'den dinledim. (Dediki): Ben Enes b. Mâlik'i rivayet ederken dinledim ki: Bir yahudi karısı etin içine zehir koynuış. Sonra onu Resûlullah (Sallallahu Aleyhi ve Sellem)'e getirmiş... Râvi Hâlid'in hadîsi gibi rivayette bulunmuştur",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 60
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5706,
+      "arabicnumber": "2190.02",
+      "text": "{…} Bize Harun b. Abdillah da rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Ben Hişâm b. Zeyd'den dinledim. (Dediki): Ben Enes b. Mâlik'i rivayet ederken dinledim ki: Bir yahudi karısı etin içine zehir koynuış. Sonra onu Resûlullah (Sallallahu Aleyhi ve Sellem)'e getirmiş... Râvi Hâlid'in hadîsi gibi rivayette bulunmuştur",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 60
+      }
+    }
+  ]
 }

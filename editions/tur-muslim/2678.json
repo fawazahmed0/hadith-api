@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2678,
-			"arabicnumber": "1141.02",
-			"text": "{…} Bize Muhammed b. Abdillah b. Numeyr rivayet etti. (Dediki) Bize İsmail yani İbni Uleyye, Hâlid-i Hazzâ'dan rivayet etti. (Demişki): Bana Ebî Kılâbe, Ebûl-Melih'den, o da, Nübeyşe'den naklen rivayet eyledi. Hâlid Demişki: Ben, Ebul-Melih'e rastladunda sordum, bu hadisi bana o anlattı. Nebi (Sallallahu Aleyhi ve Sellem)'den naklen Hüşeym hadîsi gibi rivayette bulundu, o: «Bir de Allah için zikir günleridir.» ibaresini ziyâde eyledi. İzah 1142 de",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 184
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2678,
+      "arabicnumber": "1141.02",
+      "text": "{…} Bize Muhammed b. Abdillah b. Numeyr rivayet etti. (Dediki) Bize İsmail yani İbni Uleyye, Hâlid-i Hazzâ'dan rivayet etti. (Demişki): Bana Ebî Kılâbe, Ebûl-Melih'den, o da, Nübeyşe'den naklen rivayet eyledi. Hâlid Demişki: Ben, Ebul-Melih'e rastladunda sordum, bu hadisi bana o anlattı. Nebi (Sallallahu Aleyhi ve Sellem)'den naklen Hüşeym hadîsi gibi rivayette bulundu, o: «Bir de Allah için zikir günleridir.» ibaresini ziyâde eyledi. İzah 1142 de",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 184
+      }
+    }
+  ]
 }

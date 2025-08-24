@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"33": "The Book on Government"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 4701,
-				"hadithnumber_last": 4967,
-				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4867,
-			"arabicnumber": "1877.01",
-			"text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dedikî): Bize Ebû Hâlid EI-Ahmar, Şu'be'den, o da Katâde ile Humeyd'den, onlar da Enes b. Mâlik'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti : «Ölen hiç bîr nefis yoktur ki, Allah indînde bir hayrı olsun da dünyaya dönmeyi ve dünya ile onun içinde bulunan büfün varlıkların kendisinin olmasını arzu etsin. Yalnız şehîd müstesna! Çünkü o, şehîdliğin faziletini gördüğü için dönmeyi ve dünyâda tekrar öldürülmeyi temenni eder. buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 33,
-				"hadith": 163
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "33": "Emirlik"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 4701,
+        "hadithnumber_last": 4967,
+        "arabicnumber_first": 1818.01,
+        "arabicnumber_last": 1928.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4867,
+      "arabicnumber": "1877.01",
+      "text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dedikî): Bize Ebû Hâlid EI-Ahmar, Şu'be'den, o da Katâde ile Humeyd'den, onlar da Enes b. Mâlik'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti : «Ölen hiç bîr nefis yoktur ki, Allah indînde bir hayrı olsun da dünyaya dönmeyi ve dünya ile onun içinde bulunan büfün varlıkların kendisinin olmasını arzu etsin. Yalnız şehîd müstesna! Çünkü o, şehîdliğin faziletini gördüğü için dönmeyi ve dünyâda tekrar öldürülmeyi temenni eder. buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 33,
+        "hadith": 163
+      }
+    }
+  ]
 }

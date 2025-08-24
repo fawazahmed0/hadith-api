@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1671,
-			"arabicnumber": "720",
-			"text": "Bize Abdullah b. Muhammed b. Esma' Ed-Dubai rivayet etti. (Dediki): Bize, Mehdî (yâni İbni Meymûn) rivayet etti. (Dediki): Bize, Ebû Uyeyne'nin âzâdlısı Vâsıl, Yahya b. Ukayl'den, o da Yahya b. Ya'mer'den, o da Ebû'l-Esved-i Düelî'den, o da Ebû Zerr'den, o da Peygamber (Sallallahu Aleyhi ve Sellem)'den naklen rivayet ettiki, şöyle buyurmuşlar : «Her birinizin, her bir mafsalına karşı, bir sadaka vardır. Her tesbîh, bir sadakadır. Her tahmid bir sadakadır. Her tahlîl bir sadakadır. Her tekbîr bir sadakadır. İyiliği emretmek, kötülükden nehî'de bulunmak da bir sadakadır. Bütün bunlar nâmına kişinin kılacağı iki rek'ât kuşluk namazı, kâfidir.»",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 101
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1671,
+      "arabicnumber": "720",
+      "text": "Bize Abdullah b. Muhammed b. Esma' Ed-Dubai rivayet etti. (Dediki): Bize, Mehdî (yâni İbni Meymûn) rivayet etti. (Dediki): Bize, Ebû Uyeyne'nin âzâdlısı Vâsıl, Yahya b. Ukayl'den, o da Yahya b. Ya'mer'den, o da Ebû'l-Esved-i Düelî'den, o da Ebû Zerr'den, o da Peygamber (Sallallahu Aleyhi ve Sellem)'den naklen rivayet ettiki, şöyle buyurmuşlar : «Her birinizin, her bir mafsalına karşı, bir sadaka vardır. Her tesbîh, bir sadakadır. Her tahmid bir sadakadır. Her tahlîl bir sadakadır. Her tekbîr bir sadakadır. İyiliği emretmek, kötülükden nehî'de bulunmak da bir sadakadır. Bütün bunlar nâmına kişinin kılacağı iki rek'ât kuşluk namazı, kâfidir.»",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 101
+      }
+    }
+  ]
 }

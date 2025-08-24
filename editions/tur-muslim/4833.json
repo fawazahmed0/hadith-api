@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"33": "The Book on Government"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 4701,
-				"hadithnumber_last": 4967,
-				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4833,
-			"arabicnumber": "1865.02",
-			"text": "{…} Bize bu hadîsi Abdullah b. Abdirrahmân Ed-Dârimî dahî rivayet etti. (Dediki): Bize Muhammed b. Yûsuf, Evzâî'den bu isnadla bu hadîsin mislini rivayet etti. Şu kadar ki o: «Şüphesiz Allah senin amelinden hiç bir şeyi eksiltecek değildir.» dedi; ve hadîsde: «Suya geldikleri gün onları sağıyor musun? Diye sordu. Bedevi: — Evet! Dedi.» ibaresini ziyâde eyledi",
-			"grades": [],
-			"reference": {
-				"book": 33,
-				"hadith": 129
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "33": "Emirlik"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 4701,
+        "hadithnumber_last": 4967,
+        "arabicnumber_first": 1818.01,
+        "arabicnumber_last": 1928.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4833,
+      "arabicnumber": "1865.02",
+      "text": "{…} Bize bu hadîsi Abdullah b. Abdirrahmân Ed-Dârimî dahî rivayet etti. (Dediki): Bize Muhammed b. Yûsuf, Evzâî'den bu isnadla bu hadîsin mislini rivayet etti. Şu kadar ki o: «Şüphesiz Allah senin amelinden hiç bir şeyi eksiltecek değildir.» dedi; ve hadîsde: «Suya geldikleri gün onları sağıyor musun? Diye sordu. Bedevi: — Evet! Dedi.» ibaresini ziyâde eyledi",
+      "grades": [],
+      "reference": {
+        "book": 33,
+        "hadith": 129
+      }
+    }
+  ]
 }

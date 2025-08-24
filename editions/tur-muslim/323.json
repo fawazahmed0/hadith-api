@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 323,
-			"arabicnumber": "123.01",
-			"text": "Bana Harmeletü'bnü Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yunus, İbni Şıhap'tan naklen haber verdi. Demiş ki: Bana Urvetü'bnü'z-Zübeyr haber verdi onada Hakîm b. Hizam haber vermiş kendisi Resulullah (Sallallahu Aleyhi ve Sellem) 'e: Cahiliye döneminde iken ibadet kastıyla yaptığım bazı işlerim vardı. Ne dersin benim onlardan bir faydam olur mu diye sormuş, Resulullah (Sallallahu aleyhi ve Sellem)'de ona: \"Sen geçmişte yaptığın hayırlarla Müslüman oldun\" buyurmuştur. Tehannus, taabbud (ibadet etmek) demektir. Diğer tahric: Buhari, 1369, 2107, 2401, 5646; Tuhfetu'I-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 230
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 323,
+      "arabicnumber": "123.01",
+      "text": "Bana Harmeletü'bnü Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yunus, İbni Şıhap'tan naklen haber verdi. Demiş ki: Bana Urvetü'bnü'z-Zübeyr haber verdi onada Hakîm b. Hizam haber vermiş kendisi Resulullah (Sallallahu Aleyhi ve Sellem) 'e: Cahiliye döneminde iken ibadet kastıyla yaptığım bazı işlerim vardı. Ne dersin benim onlardan bir faydam olur mu diye sormuş, Resulullah (Sallallahu aleyhi ve Sellem)'de ona: \"Sen geçmişte yaptığın hayırlarla Müslüman oldun\" buyurmuştur. Tehannus, taabbud (ibadet etmek) demektir. Diğer tahric: Buhari, 1369, 2107, 2401, 5646; Tuhfetu'I-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 230
+      }
+    }
+  ]
 }

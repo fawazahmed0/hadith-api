@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2407,
-			"arabicnumber": "1045.03",
-			"text": "{…} Bana Ebu't-Tâhir rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Âmir şunları söyledi: Bana da İbni Şihâb bu hadîsin mislini de Sâib b. Yezîd'den, o da Abdullah b. Sadi'den, o da Ömerû'bnu'l-Hattâb (Radiyallahu anh)'dan, oda Resulullah {Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 144
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2407,
+      "arabicnumber": "1045.03",
+      "text": "{…} Bana Ebu't-Tâhir rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Âmir şunları söyledi: Bana da İbni Şihâb bu hadîsin mislini de Sâib b. Yezîd'den, o da Abdullah b. Sadi'den, o da Ömerû'bnu'l-Hattâb (Radiyallahu anh)'dan, oda Resulullah {Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 144
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4008,
-			"arabicnumber": "1566.03",
-			"text": "Bize Ahmed b. Osman En-Nevfelî rivayet etti. (Dediki): Bize Ebû Âsim Dahhâk b. Mahled rivayet etti. (Dediki): Bize İbni Cüreyc rivayet etti. (Dediki): Bana Ziyâd b. Sa'd haber verdi. Ona da Hilâl b. Usâme, ona da Ebû Seleme b. Abdirrahmân haber vermiş ki, kendisi Ebû Hureyre'yi şunu söylerken işitmiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Dolayısiyle ot satılmış olacağı için, suyun fazlası satılamaz.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4008,
+      "arabicnumber": "1566.03",
+      "text": "Bize Ahmed b. Osman En-Nevfelî rivayet etti. (Dediki): Bize Ebû Âsim Dahhâk b. Mahled rivayet etti. (Dediki): Bize İbni Cüreyc rivayet etti. (Dediki): Bana Ziyâd b. Sa'd haber verdi. Ona da Hilâl b. Usâme, ona da Ebû Seleme b. Abdirrahmân haber vermiş ki, kendisi Ebû Hureyre'yi şunu söylerken işitmiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Dolayısiyle ot satılmış olacağı için, suyun fazlası satılamaz.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 47
+      }
+    }
+  ]
 }

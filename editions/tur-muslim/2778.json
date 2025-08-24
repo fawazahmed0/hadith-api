@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2778,
-			"arabicnumber": "762.05",
-			"text": "Bize Muhammed b. El-Müsenna rivayet etti. (Dediki) Bize Muhammed b. Ca'fer rivayet elti. (Dediki) Bize Şu'be rivayet etti. (Dediki) Ahdetü'bnü Ebî Lübâbe'yi, Zır b. Hubeyş'den, o da Übeyyü'bnü Ka'b (Radiyallahû anh)'dan naklen rivayet ederken dinledim. Zır şöyle demiş : Ubeyy, Kadir Gecesi hakkında: «Vallahi onu ben pek ala bilirim.» dedi. Şû'be: «Zann-ı galibime göre bu gece Resulullah (Sallallahu Aleyhi ve Sellem) 'in bize ihyasını emrettiği gece olacaktır. O gece ayın yirmiyedinci gecesidir.» şeklinde rivayet etmiştir. Yalnız Şû'be şu cümlede (yâni) «Bu gece Resulullah (Sallallahu Aleyhi ve Sellem)'in bize ihyasını emrettiği gecedir.» ifâdesinde şekketmiş : «Bunu bana, ondan bir dostum rivayet etti.» demiştir. İzah 1170 de",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 284
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2778,
+      "arabicnumber": "762.05",
+      "text": "Bize Muhammed b. El-Müsenna rivayet etti. (Dediki) Bize Muhammed b. Ca'fer rivayet elti. (Dediki) Bize Şu'be rivayet etti. (Dediki) Ahdetü'bnü Ebî Lübâbe'yi, Zır b. Hubeyş'den, o da Übeyyü'bnü Ka'b (Radiyallahû anh)'dan naklen rivayet ederken dinledim. Zır şöyle demiş : Ubeyy, Kadir Gecesi hakkında: «Vallahi onu ben pek ala bilirim.» dedi. Şû'be: «Zann-ı galibime göre bu gece Resulullah (Sallallahu Aleyhi ve Sellem) 'in bize ihyasını emrettiği gece olacaktır. O gece ayın yirmiyedinci gecesidir.» şeklinde rivayet etmiştir. Yalnız Şû'be şu cümlede (yâni) «Bu gece Resulullah (Sallallahu Aleyhi ve Sellem)'in bize ihyasını emrettiği gecedir.» ifâdesinde şekketmiş : «Bunu bana, ondan bir dostum rivayet etti.» demiştir. İzah 1170 de",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 284
+      }
+    }
+  ]
 }

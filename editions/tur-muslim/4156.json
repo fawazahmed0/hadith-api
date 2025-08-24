@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"23": "The Book of the Rules of Inheritance"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 4140,
-				"hadithnumber_last": 4162,
-				"arabicnumber_first": 1614,
-				"arabicnumber_last": 1619.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4156,
-			"arabicnumber": "1618.05",
-			"text": "Bize Amru'n-Nâkıd rivayet etti. (Dediki): Bize Ebû Ahmed Ez-Zübeyrî rivayet etti. (Dediki): Bize Mâlik b. Miğvel Ebu's-Sefer'den, o da Berâ'dan naklen rivayet etti. Berâ': «İndirilen son âyet: Senden fetva istiyorlar... âyetidir.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "23": "Ferâîz"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 4140,
+        "hadithnumber_last": 4162,
+        "arabicnumber_first": 1614,
+        "arabicnumber_last": 1619.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4156,
+      "arabicnumber": "1618.05",
+      "text": "Bize Amru'n-Nâkıd rivayet etti. (Dediki): Bize Ebû Ahmed Ez-Zübeyrî rivayet etti. (Dediki): Bize Mâlik b. Miğvel Ebu's-Sefer'den, o da Berâ'dan naklen rivayet etti. Berâ': «İndirilen son âyet: Senden fetva istiyorlar... âyetidir.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 17
+      }
+    }
+  ]
 }

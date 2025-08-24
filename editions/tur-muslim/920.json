@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"4": "The Book of Prayers "
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 837,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 920,
-			"arabicnumber": "410.06",
-			"text": "Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Yakub, yâni İbni Abdurrahman, Süheyl'den, o da babasından, o da Ebu Hureyre'den naklen rivayet ettiki: Resulullah (Sallallahu Aleyhi ve Sellem) : «Okuyan imam [ ğayril mağdubi aleyhim veleddaallin ] dediği vakit arkasında ki de Amin, der ve sözü Ehl'i Semânın sözüne tesadüf ederse geçmiş günâhları affolunur.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 82
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "4": "Namaz"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 837,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 377,
+        "arabicnumber_last": 519.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 920,
+      "arabicnumber": "410.06",
+      "text": "Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Yakub, yâni İbni Abdurrahman, Süheyl'den, o da babasından, o da Ebu Hureyre'den naklen rivayet ettiki: Resulullah (Sallallahu Aleyhi ve Sellem) : «Okuyan imam [ ğayril mağdubi aleyhim veleddaallin ] dediği vakit arkasında ki de Amin, der ve sözü Ehl'i Semânın sözüne tesadüf ederse geçmiş günâhları affolunur.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 82
+      }
+    }
+  ]
 }

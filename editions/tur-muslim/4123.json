@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4123,
-			"arabicnumber": "1605.02",
-			"text": "Bize Saîd b. Amr EI-Eş'asî rivayet etti. (Dediki): Bize Hatim b. İsmail, Muhammed b. Aclân'dan, o da Muhammed b. Amr b. Atâ'dan, o da Said b. El-Müseyyeb'den, o da Ma'mer b. Abdillâh'dan, o da Resûlullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet ettiki: «Asîden başka kimse ihtikâr yapmaz!» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 162
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4123,
+      "arabicnumber": "1605.02",
+      "text": "Bize Saîd b. Amr EI-Eş'asî rivayet etti. (Dediki): Bize Hatim b. İsmail, Muhammed b. Aclân'dan, o da Muhammed b. Amr b. Atâ'dan, o da Said b. El-Müseyyeb'den, o da Ma'mer b. Abdillâh'dan, o da Resûlullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet ettiki: «Asîden başka kimse ihtikâr yapmaz!» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 162
+      }
+    }
+  ]
 }

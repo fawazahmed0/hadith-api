@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6312,
-			"arabicnumber": "2450.01",
-			"text": "Bize Mansûr b. Ebi Müzahim rivayet etti. (Dediki): Bize İbrahim (yâni İbni Sa'd) babasından, o da Urve'den, o da Âişe'den naklen rivayet etti. H. Bana Züheyr b. Harb da rivayet etti. Lâfız onundur. (Dediki): Bize Ya'kub b. İbrahim rivayet etti. (Dediki): Bize babam, babasından rivayet etti. Ona da Urve b. Zübeyr rivayet etmiş. Ona da Âişe rivayet etmiş ki, (Aişe r.a. dediki) Resûlullah (Sallallahu Aleyhi ve Sellem) kızı Fâtime'yi çağırarak kendisine bir şeyler fısıldamış ve Fâtime ağlamış. Sonra ona bir şeyler fısıldamış (bu sefer) gülmüş. Âişe demiş ki, Fâtıme'ye : Resûlullah (Sallallahu Aleyhi ve Sellem) sana neler fısıldadı ki ağladın? Sonra sana bir şeyler fısıldadı da güldün? dedim, Fâtıme şu cevabı verdi : — Bana fısıldayarak öleceğini haber verdi. Ben de ağladım. Sonra bana fısıldayarak; ailesinden ilk olarak kendisini ben takip edeceğimi haber verdi. Ben de güldüm",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 142
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6312,
+      "arabicnumber": "2450.01",
+      "text": "Bize Mansûr b. Ebi Müzahim rivayet etti. (Dediki): Bize İbrahim (yâni İbni Sa'd) babasından, o da Urve'den, o da Âişe'den naklen rivayet etti. H. Bana Züheyr b. Harb da rivayet etti. Lâfız onundur. (Dediki): Bize Ya'kub b. İbrahim rivayet etti. (Dediki): Bize babam, babasından rivayet etti. Ona da Urve b. Zübeyr rivayet etmiş. Ona da Âişe rivayet etmiş ki, (Aişe r.a. dediki) Resûlullah (Sallallahu Aleyhi ve Sellem) kızı Fâtime'yi çağırarak kendisine bir şeyler fısıldamış ve Fâtime ağlamış. Sonra ona bir şeyler fısıldamış (bu sefer) gülmüş. Âişe demiş ki, Fâtıme'ye : Resûlullah (Sallallahu Aleyhi ve Sellem) sana neler fısıldadı ki ağladın? Sonra sana bir şeyler fısıldadı da güldün? dedim, Fâtıme şu cevabı verdi : — Bana fısıldayarak öleceğini haber verdi. Ben de ağladım. Sonra bana fısıldayarak; ailesinden ilk olarak kendisini ben takip edeceğimi haber verdi. Ben de güldüm",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 142
+      }
+    }
+  ]
 }

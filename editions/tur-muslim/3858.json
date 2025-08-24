@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3858,
-			"arabicnumber": "1532.01",
-			"text": "Bize Muhammed b. Müsennâ rivayet etti. (Dediki): Bize Yahya b. Saîd, Şu'be'den rivayet etti. H. Bize Amr b. Alî rivayet etti. (Dediki): Bize Yahya b. Saîd ile Abdurrahmân b. Mehdî rivayet ettiler. (Dedilerki): Bize Şu'be, Katâde'den, o da Ebu'l-Halîrden, o da Abdullah b. Hâris'den, o da Hakîm b. Hizâm'dan, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti: «Alış veriş yapanlar birbirlerinden ayrılmadıkça muhayyerdirler. Eğer doğru söyler ve (her şeyi) beyân ederlerse satışlarında kendilerine bereket verilir; yalan söyler ve (hakikati) gizlerlerse satışlarının bereketi gider.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3858,
+      "arabicnumber": "1532.01",
+      "text": "Bize Muhammed b. Müsennâ rivayet etti. (Dediki): Bize Yahya b. Saîd, Şu'be'den rivayet etti. H. Bize Amr b. Alî rivayet etti. (Dediki): Bize Yahya b. Saîd ile Abdurrahmân b. Mehdî rivayet ettiler. (Dedilerki): Bize Şu'be, Katâde'den, o da Ebu'l-Halîrden, o da Abdullah b. Hâris'den, o da Hakîm b. Hizâm'dan, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti: «Alış veriş yapanlar birbirlerinden ayrılmadıkça muhayyerdirler. Eğer doğru söyler ve (her şeyi) beyân ederlerse satışlarında kendilerine bereket verilir; yalan söyler ve (hakikati) gizlerlerse satışlarının bereketi gider.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 57
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"32": "The Book of Jihad and Expeditions"
-		},
-		"section_detail": {
-			"32": {
-				"hadithnumber_first": 4519,
-				"hadithnumber_last": 4700,
-				"arabicnumber_first": 1730.01,
-				"arabicnumber_last": 1817
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4638,
-			"arabicnumber": "1786.02",
-			"text": "{…} Bize Asım b. Nııdr El-Temîmî de rivayet etti. (Dediki): Bize Mu'temir rivayet etti. (Dedîki): Babamdan dinledim. (Dediki); Bize Katâde rivayet etti. (Dediki): Ben Enes b. Mâlik'ten dinledim. H. Bize ibnü'l-Müsennâ da rivayet etti. (Dediki): Bize Ebû Dâvûd rivayet etti. (Dediki): Bize Hemmâm rivayet etti. H. Bize Abd h. Humeyd dahî rivayet etti. (Dediki): Bize Yûnus b. Muhammed rivayet etti. (Dediki): Bize Şeybân rivayet etti. Bu râvHcrin hepsi Katâde'den, o da Enes'den naklen ibni Ebî Arûbe'nin hadîsi gibi rivayette bulunmuşlardır",
-			"grades": [],
-			"reference": {
-				"book": 32,
-				"hadith": 120
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "32": "Cihâd Ve Siyer"
+    },
+    "section_detail": {
+      "32": {
+        "hadithnumber_first": 4519,
+        "hadithnumber_last": 4700,
+        "arabicnumber_first": 1730.01,
+        "arabicnumber_last": 1817
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4638,
+      "arabicnumber": "1786.02",
+      "text": "{…} Bize Asım b. Nııdr El-Temîmî de rivayet etti. (Dediki): Bize Mu'temir rivayet etti. (Dedîki): Babamdan dinledim. (Dediki); Bize Katâde rivayet etti. (Dediki): Ben Enes b. Mâlik'ten dinledim. H. Bize ibnü'l-Müsennâ da rivayet etti. (Dediki): Bize Ebû Dâvûd rivayet etti. (Dediki): Bize Hemmâm rivayet etti. H. Bize Abd h. Humeyd dahî rivayet etti. (Dediki): Bize Yûnus b. Muhammed rivayet etti. (Dediki): Bize Şeybân rivayet etti. Bu râvHcrin hepsi Katâde'den, o da Enes'den naklen ibni Ebî Arûbe'nin hadîsi gibi rivayette bulunmuşlardır",
+      "grades": [],
+      "reference": {
+        "book": 32,
+        "hadith": 120
+      }
+    }
+  ]
 }

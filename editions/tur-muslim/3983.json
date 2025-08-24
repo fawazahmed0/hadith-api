@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3983,
-			"arabicnumber": "1557",
-			"text": "Bana arkadaşlarımızdan birçok kimseler rivayet ettiler. (Dedilerki): Bize İsmâîl b. Ebî Üveys rivayet etti. (Dediki): Bana kardeşim, Süleyman yâni İbni Bilâl'den, o da Yahya b. Saîd'den, o da Ebu'r-Ricâl Muhammed b. Abdirrahmân'dan naklen rivayet etti ki, annesi Amra binti Abdirrahmân şunları söylemiş: Ben Aişe'yi şöyle derken işittim : Resûlullah (Sallallahu Aleyhi ve Sellem) kapıda yüksek sesle konuşan davacı sesleri işitti. Bir de baktı ki, biri diğerinden borcunu indirmesini istiyor; ondan bir şey hakkında hoş muamele rica ediyordu. O da: Vallahi yapamam, diyordu. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) yanlarına çıkarak: «Nerede o iyilik yapmayacağına Allah'a yemin veren?» diye sordu. O zât: — Benim yâ Resûlâllah! (Borç indirimi ile hoş muameleden) hangisini dilerse onun olsun! dedi",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3983,
+      "arabicnumber": "1557",
+      "text": "Bana arkadaşlarımızdan birçok kimseler rivayet ettiler. (Dedilerki): Bize İsmâîl b. Ebî Üveys rivayet etti. (Dediki): Bana kardeşim, Süleyman yâni İbni Bilâl'den, o da Yahya b. Saîd'den, o da Ebu'r-Ricâl Muhammed b. Abdirrahmân'dan naklen rivayet etti ki, annesi Amra binti Abdirrahmân şunları söylemiş: Ben Aişe'yi şöyle derken işittim : Resûlullah (Sallallahu Aleyhi ve Sellem) kapıda yüksek sesle konuşan davacı sesleri işitti. Bir de baktı ki, biri diğerinden borcunu indirmesini istiyor; ondan bir şey hakkında hoş muamele rica ediyordu. O da: Vallahi yapamam, diyordu. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) yanlarına çıkarak: «Nerede o iyilik yapmayacağına Allah'a yemin veren?» diye sordu. O zât: — Benim yâ Resûlâllah! (Borç indirimi ile hoş muameleden) hangisini dilerse onun olsun! dedi",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 22
+      }
+    }
+  ]
 }

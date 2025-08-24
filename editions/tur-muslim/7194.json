@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"53": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
-		},
-		"section_detail": {
-			"53": {
-				"hadithnumber_first": 7130,
-				"hadithnumber_last": 7234,
-				"arabicnumber_first": 2822,
-				"arabicnumber_last": 2879
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7194,
-			"arabicnumber": "2128.02",
-			"text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Cerir Süheyl'den, o da babasından, o da Ebû Hureyre'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) : «Cehennemliklerden iki sınıf vardır ki, ben onları görmedim. (Biri) Beraberlerinde sığır kuyrukları gibi kamçılar olup, onlarla İnsanları döğen bir kavm, (diğeri} giyinmiş, çıplak, eğrilmiş ve eğrilten bir takım kadınlardır! Başları eğri deve börgüçleri gibidir. Bunlar cennete giremeyecek, onun kokusunu da duyamayacaklardır. Halbuki cennetin kokusu şu kadar ve şu kadar mesafeden duyulacaktır.» buyurdular. İZAH 2857 DE",
-			"grades": [],
-			"reference": {
-				"book": 53,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "53": "Cennet Ve Onun Nimetleri İle Cennetliklerin Sıfatı Bahsi"
+    },
+    "section_detail": {
+      "53": {
+        "hadithnumber_first": 7130,
+        "hadithnumber_last": 7234,
+        "arabicnumber_first": 2822,
+        "arabicnumber_last": 2879
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7194,
+      "arabicnumber": "2128.02",
+      "text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Cerir Süheyl'den, o da babasından, o da Ebû Hureyre'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) : «Cehennemliklerden iki sınıf vardır ki, ben onları görmedim. (Biri) Beraberlerinde sığır kuyrukları gibi kamçılar olup, onlarla İnsanları döğen bir kavm, (diğeri} giyinmiş, çıplak, eğrilmiş ve eğrilten bir takım kadınlardır! Başları eğri deve börgüçleri gibidir. Bunlar cennete giremeyecek, onun kokusunu da duyamayacaklardır. Halbuki cennetin kokusu şu kadar ve şu kadar mesafeden duyulacaktır.» buyurdular. İZAH 2857 DE",
+      "grades": [],
+      "reference": {
+        "book": 53,
+        "hadith": 63
+      }
+    }
+  ]
 }

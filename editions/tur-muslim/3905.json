@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3905,
-			"arabicnumber": "1543.05",
-			"text": "Bize Yahya b. Yahya ile Muhammed b. Rumh rivayet ettiler. (Dedilerki): Bize Leys haber verdi. H. Bize Kuteybe b. Saîd de rivayet etti. (Dediki): Bize Leys, İbni Şibâb'dan, o da Salim b. Abdillâh b. Ömer'den, o da Abdullah b. Ömer'den naklen rivayet etti. (Demiş ki): Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim : «Her kim bir hurmalığı aşılandıktan sonra satın alırsa, o hurmalığın meyvesi satana aid olur; meğer ki, müşteri şart koşmuş ola! Ve her kim bir köle satın alırsa, o kölenin malı satana aiddir; meğer ki, müşteri şart koşmuş ola!»",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 104
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3905,
+      "arabicnumber": "1543.05",
+      "text": "Bize Yahya b. Yahya ile Muhammed b. Rumh rivayet ettiler. (Dedilerki): Bize Leys haber verdi. H. Bize Kuteybe b. Saîd de rivayet etti. (Dediki): Bize Leys, İbni Şibâb'dan, o da Salim b. Abdillâh b. Ömer'den, o da Abdullah b. Ömer'den naklen rivayet etti. (Demiş ki): Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim : «Her kim bir hurmalığı aşılandıktan sonra satın alırsa, o hurmalığın meyvesi satana aid olur; meğer ki, müşteri şart koşmuş ola! Ve her kim bir köle satın alırsa, o kölenin malı satana aiddir; meğer ki, müşteri şart koşmuş ola!»",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 104
+      }
+    }
+  ]
 }

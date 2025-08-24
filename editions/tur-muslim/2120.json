@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"10": "The Book of Prayer - Eclipses"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 2089,
-				"hadithnumber_last": 2122,
-				"arabicnumber_first": 901.01,
-				"arabicnumber_last": 915
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2120,
-			"arabicnumber": "913.03",
-			"text": "Bize Muhammedü'bnül-Müsennâ rivayet etti. (Dediki): Bize Salim b. Nuh rivayet etti. (Dediki): Bize Cüreyrî, Hayyân b. Umeyr'den, o da Abdurrahmân b. Semura'dan naklen haber verdi. Abdurrahmân şöyle demiş: Bir defa ben, Resulullah (Sallallahu Aleyhi ve Sellem) zamanında oklarımla atış yaptığım sırada birden bire güneş tutuldu...» Bundan sonra râvi hadisi yukarkilerin hadîsi gibi rivayette bulunmuştur. İzah 915 te",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 29
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "10": "Küsûf"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 2089,
+        "hadithnumber_last": 2122,
+        "arabicnumber_first": 901.01,
+        "arabicnumber_last": 915
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2120,
+      "arabicnumber": "913.03",
+      "text": "Bize Muhammedü'bnül-Müsennâ rivayet etti. (Dediki): Bize Salim b. Nuh rivayet etti. (Dediki): Bize Cüreyrî, Hayyân b. Umeyr'den, o da Abdurrahmân b. Semura'dan naklen haber verdi. Abdurrahmân şöyle demiş: Bir defa ben, Resulullah (Sallallahu Aleyhi ve Sellem) zamanında oklarımla atış yaptığım sırada birden bire güneş tutuldu...» Bundan sonra râvi hadisi yukarkilerin hadîsi gibi rivayette bulunmuştur. İzah 915 te",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 29
+      }
+    }
+  ]
 }

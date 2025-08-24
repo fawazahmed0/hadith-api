@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6568,
-			"arabicnumber": "2573",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb rivayet ettiler. (Dedilerki): Bize Ebû Usâme Velid b. Kesir'den, o da Muhammed b. Amr b. Ata'dan, o da Ata' b. Yesâr'dan, o da Ebû Saîd ile Ebû Hureyre'den naklen rivayet etti. Ebû Saîd ile Ebû Hureyre Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işitmişler: «Mu'minİn başına sabit bir sızı veya bir meşakkat, bir hastalık, bir hüzün, hattâ kendini üzen bîr keder gelirse, onunla günahlarından bâzısı örtbas edilir.»",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 66
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6568,
+      "arabicnumber": "2573",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb rivayet ettiler. (Dedilerki): Bize Ebû Usâme Velid b. Kesir'den, o da Muhammed b. Amr b. Ata'dan, o da Ata' b. Yesâr'dan, o da Ebû Saîd ile Ebû Hureyre'den naklen rivayet etti. Ebû Saîd ile Ebû Hureyre Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işitmişler: «Mu'minİn başına sabit bir sızı veya bir meşakkat, bir hastalık, bir hüzün, hattâ kendini üzen bîr keder gelirse, onunla günahlarından bâzısı örtbas edilir.»",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 66
+      }
+    }
+  ]
 }

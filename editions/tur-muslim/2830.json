@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2830,
-			"arabicnumber": "1189.07",
-			"text": "Bize, bu hadisi Ebû Kureyb dahi rivayet etti. (Dediki): Bize Ebû Usâme Hişâm'dan, o da Osman b. Urve'den naklen rivayet etti. (Demişki): Ben, Urve'yİ Aişe (Radiyallahû anha)'dan naklen rivây«t ederken dinledim. Aişe şöyle demi;: «Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i ihrama girmezden evvel bulabildiğim en güzel koku ile kokulardım, sonra ihrama girerdi.»",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2830,
+      "arabicnumber": "1189.07",
+      "text": "Bize, bu hadisi Ebû Kureyb dahi rivayet etti. (Dediki): Bize Ebû Usâme Hişâm'dan, o da Osman b. Urve'den naklen rivayet etti. (Demişki): Ben, Urve'yİ Aişe (Radiyallahû anha)'dan naklen rivây«t ederken dinledim. Aişe şöyle demi;: «Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i ihrama girmezden evvel bulabildiğim en güzel koku ile kokulardım, sonra ihrama girerdi.»",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 40
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"18": "The Book of Divorce "
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 3652,
-				"hadithnumber_last": 3742,
-				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3736,
-			"arabicnumber": "1490.02",
-			"text": "{…} Bize bu hadîsi Şeybân b. Ferrûh da rivayet etti. (Dediki): Bize Abdülâzîz yâni İbni Müslim rivayet etti. (Dediki): Bize Abdullah b. Dînâr, Nâfi'den Leys hadîsinin isnâdiyle onun rivayeti gibi rivayette bulundu",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 81
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "18": "Boşama"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 3652,
+        "hadithnumber_last": 3742,
+        "arabicnumber_first": 1471.01,
+        "arabicnumber_last": 1491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3736,
+      "arabicnumber": "1490.02",
+      "text": "{…} Bize bu hadîsi Şeybân b. Ferrûh da rivayet etti. (Dediki): Bize Abdülâzîz yâni İbni Müslim rivayet etti. (Dediki): Bize Abdullah b. Dînâr, Nâfi'den Leys hadîsinin isnâdiyle onun rivayeti gibi rivayette bulundu",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 81
+      }
+    }
+  ]
 }

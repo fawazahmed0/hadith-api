@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3031,
-			"arabicnumber": "1252.02",
-			"text": "{…} Bana, bu hadîsi Harmeletü'bnü Yahya da rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihâb'dan, o da Hanzaletü'bnü Aliy El-Eslemî'den, naklen haber verdi. Hanzale Ebû Hureyre (Radiyallahu anh)'ı şunu söylerken işitmiş : «Resulullah (Sallallahu Aleyhi ve Sellem): — «Nefsim yed-i kudretinde olan Allah'a yemin ederim ki...» buyurdular. Râvî, bu hadîsi yukarkilerin hadîsleri gibi rivayet etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 238
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3031,
+      "arabicnumber": "1252.02",
+      "text": "{…} Bana, bu hadîsi Harmeletü'bnü Yahya da rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihâb'dan, o da Hanzaletü'bnü Aliy El-Eslemî'den, naklen haber verdi. Hanzale Ebû Hureyre (Radiyallahu anh)'ı şunu söylerken işitmiş : «Resulullah (Sallallahu Aleyhi ve Sellem): — «Nefsim yed-i kudretinde olan Allah'a yemin ederim ki...» buyurdular. Râvî, bu hadîsi yukarkilerin hadîsleri gibi rivayet etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 238
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2599,
-			"arabicnumber": "1111.05",
-			"text": "Bana Muhammed b. Râfi' rivayet etti. (Dediki) Bize Abdurrazzâk rivayet eyledi. (Dediki) Bize İbni Cüreyc haber verdi. (Dediki) Bana İbni Şihâb, Humeyd b. Abdirrahman'dan naklen rivayet etli. Ona da Ebû Hureyre anlatmış ki : Nebi (Sallallahu Aleyhi ve Sellem) Ramazanda orucunu bozan bir adama bir köle âzad etmesini yahut iki ay oruç tutmasını yahut da altmış fakiri doyurmasını emir buyurmuş",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 105
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2599,
+      "arabicnumber": "1111.05",
+      "text": "Bana Muhammed b. Râfi' rivayet etti. (Dediki) Bize Abdurrazzâk rivayet eyledi. (Dediki) Bize İbni Cüreyc haber verdi. (Dediki) Bana İbni Şihâb, Humeyd b. Abdirrahman'dan naklen rivayet etli. Ona da Ebû Hureyre anlatmış ki : Nebi (Sallallahu Aleyhi ve Sellem) Ramazanda orucunu bozan bir adama bir köle âzad etmesini yahut iki ay oruç tutmasını yahut da altmış fakiri doyurmasını emir buyurmuş",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 105
+      }
+    }
+  ]
 }

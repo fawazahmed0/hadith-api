@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"38": "The Book of Manners and Etiquette"
-		},
-		"section_detail": {
-			"38": {
-				"hadithnumber_first": 5586,
-				"hadithnumber_last": 5645,
-				"arabicnumber_first": 2131,
-				"arabicnumber_last": 2159.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5619,
-			"arabicnumber": "2147",
-			"text": "Bize Ebu Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdullah b. Numeyr rivayet etti. (Dediki): Bize Hişam (yâni İbni Urve) babasından, o da Âişe'den naklen rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem)'e çocuklar getirilir de onlara bereket duasında bulunur. Ve hurma çiğnermiş. İzah 2150 de",
-			"grades": [],
-			"reference": {
-				"book": 38,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "38": "Âdâb"
+    },
+    "section_detail": {
+      "38": {
+        "hadithnumber_first": 5586,
+        "hadithnumber_last": 5645,
+        "arabicnumber_first": 2131,
+        "arabicnumber_last": 2159.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5619,
+      "arabicnumber": "2147",
+      "text": "Bize Ebu Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdullah b. Numeyr rivayet etti. (Dediki): Bize Hişam (yâni İbni Urve) babasından, o da Âişe'den naklen rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem)'e çocuklar getirilir de onlara bereket duasında bulunur. Ve hurma çiğnermiş. İzah 2150 de",
+      "grades": [],
+      "reference": {
+        "book": 38,
+        "hadith": 34
+      }
+    }
+  ]
 }

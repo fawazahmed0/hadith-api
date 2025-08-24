@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"3": "The Book of Menstruation"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 679,
-				"hadithnumber_last": 836,
-				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 762,
-			"arabicnumber": "335.02",
-			"text": "Bize Muhammedü'bnü'I - Müsenna da rivayet etti. (Dediki): Bize Muhammed b. Cafer rivayet etti: (Dediki): Bize Şu'be Yezid'den naklen rivayet eyledi. Demişki. Ben Muaze'den dinledim. Muaze, Aişe'ye: Ay hali kadın namazı kaza eder mi diye sordu. Aişe: Sen Haruri misin, dedi. Biz Resulullah (Sallallahu aleyhi ve Sellem)'in hanımları ay hali olurduk. Onun karşılığını (kılamadıkları namazlarını kaza etmelerini) emretti mi hiç, dedi. Muhammed b. Cafer dedi ki: Namazlarını kaza etmelerini kastetmektedir, dedi",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 84
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "3": "Hayz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 679,
+        "hadithnumber_last": 836,
+        "arabicnumber_first": 293.01,
+        "arabicnumber_last": 376.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 762,
+      "arabicnumber": "335.02",
+      "text": "Bize Muhammedü'bnü'I - Müsenna da rivayet etti. (Dediki): Bize Muhammed b. Cafer rivayet etti: (Dediki): Bize Şu'be Yezid'den naklen rivayet eyledi. Demişki. Ben Muaze'den dinledim. Muaze, Aişe'ye: Ay hali kadın namazı kaza eder mi diye sordu. Aişe: Sen Haruri misin, dedi. Biz Resulullah (Sallallahu aleyhi ve Sellem)'in hanımları ay hali olurduk. Onun karşılığını (kılamadıkları namazlarını kaza etmelerini) emretti mi hiç, dedi. Muhammed b. Cafer dedi ki: Namazlarını kaza etmelerini kastetmektedir, dedi",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 84
+      }
+    }
+  ]
 }

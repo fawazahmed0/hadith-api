@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"53": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
-		},
-		"section_detail": {
-			"53": {
-				"hadithnumber_first": 7130,
-				"hadithnumber_last": 7234,
-				"arabicnumber_first": 2822,
-				"arabicnumber_last": 2879
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7182,
-			"arabicnumber": "2849.02",
-			"text": "Bize Osman b. Ebî Şeybe rivayet etti. (Dediki): Bize Cerir, A'meş'den, o da Ebû Sâlih'den, o da Ebû Saîd'den naklen rivayet etti. (Demişki): Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdular: «Cennetlikler cennete, cehennemlikler de cehenneme konulduğu vakit: — Ey cennetlikler! denilecek...» Sonra râvî Ebû Muâviye hadîsi mânâsında rivayette bulunmuştur. Yalnız o: «İşte Allah (Azze ve Celle)'nin kavli budur.» demiş. «Sonra Resûlullah (Sallallahu Aleyhi ve Sellem) okudu.» dememiştir. «Eliyle de dünyaya İşaret etti.» cümlesini dahi anmamıştır. İZAH 2850 DE",
-			"grades": [],
-			"reference": {
-				"book": 53,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "53": "Cennet Ve Onun Nimetleri İle Cennetliklerin Sıfatı Bahsi"
+    },
+    "section_detail": {
+      "53": {
+        "hadithnumber_first": 7130,
+        "hadithnumber_last": 7234,
+        "arabicnumber_first": 2822,
+        "arabicnumber_last": 2879
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7182,
+      "arabicnumber": "2849.02",
+      "text": "Bize Osman b. Ebî Şeybe rivayet etti. (Dediki): Bize Cerir, A'meş'den, o da Ebû Sâlih'den, o da Ebû Saîd'den naklen rivayet etti. (Demişki): Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdular: «Cennetlikler cennete, cehennemlikler de cehenneme konulduğu vakit: — Ey cennetlikler! denilecek...» Sonra râvî Ebû Muâviye hadîsi mânâsında rivayette bulunmuştur. Yalnız o: «İşte Allah (Azze ve Celle)'nin kavli budur.» demiş. «Sonra Resûlullah (Sallallahu Aleyhi ve Sellem) okudu.» dememiştir. «Eliyle de dünyaya İşaret etti.» cümlesini dahi anmamıştır. İZAH 2850 DE",
+      "grades": [],
+      "reference": {
+        "book": 53,
+        "hadith": 51
+      }
+    }
+  ]
 }

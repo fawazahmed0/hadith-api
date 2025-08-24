@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 191,
-			"arabicnumber": "52.10",
-			"text": "Bize Kuteybe b. Said ve Zuheyr b. Harb da tahdis edip dediler ki: Bize Cerir A'meş'ten bu isnad ile hadisi buna yakın olarak tahdis etti ve: \"Küfrün başı doğu tarafındadır\" ibaresini zikretmedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 98
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 191,
+      "arabicnumber": "52.10",
+      "text": "Bize Kuteybe b. Said ve Zuheyr b. Harb da tahdis edip dediler ki: Bize Cerir A'meş'ten bu isnad ile hadisi buna yakın olarak tahdis etti ve: \"Küfrün başı doğu tarafındadır\" ibaresini zikretmedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 98
+      }
+    }
+  ]
 }

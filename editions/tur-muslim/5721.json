@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5721,
-			"arabicnumber": "2195.02",
-			"text": "(Bize İbn Nümeyr de rivâyet etti. ki): Bize babam rivâyet etti. ki): Bize Süfyân, Ma'bed b. Hâlid'den, o da Abdullah b. Şeddad'dan, o da Âişe'den naklen rivâyet etti. Şöyle dedi: Resûlüllah (sallallahü aleyhi ve sellem)'. değmesinden rukye yapmamı bana emir buyururdu.»",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5721,
+      "arabicnumber": "2195.02",
+      "text": "(Bize İbn Nümeyr de rivâyet etti. ki): Bize babam rivâyet etti. ki): Bize Süfyân, Ma'bed b. Hâlid'den, o da Abdullah b. Şeddad'dan, o da Âişe'den naklen rivâyet etti. Şöyle dedi: Resûlüllah (sallallahü aleyhi ve sellem)'. değmesinden rukye yapmamı bana emir buyururdu.»",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 75
+      }
+    }
+  ]
 }

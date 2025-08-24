@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3854,
-			"arabicnumber": "1531.02",
-			"text": "{…} Bize Züheyr b. Harb ile Muhammed b. Müsennâ rivayet ettiler. (Dedilerki): Bize Yahya yâni El-Kattân rivayet etti. H. Bize Ebû Bekr b. Ebî Şeybe de rivayet etti. (Dediki): Bize Muhammed b. Bişr rivayet etti. H. Bize İbni Numeyr dahî rivayet etti. (Dediki): Bize babam rivayet etti. Bu râvilerin hepsi Ubeydullah'dan, o da Nâfi'den, o da İbnİ Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayette bulunmuşlardır. H. Bana Züheyr b. Harb ile Aliy b. Hucr da rivayet ettiler. (Dedilerki): Bize İsmâîl rivayet eyledi. H. Bize Ebu'r-Rabî' ile Ebu Kâmil dahî rivayet ettiler. (Dedilerki): Bize Hammâd yâni İbni Zeyd rivayet etti. Bunlar toptan Eyyûb'dan, o da Nâfi'den, o da İbni Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayette bulunmuşlardır. H. Bize İbni Müsennâ ile İbni Ebî Ömer de rivayet ettiler. (Dedilerki): Bize Abdülvehhâb rivayet etti. (Dediki): Ben Yahya b. Saîd'den dinledim H. Bize İbni Râfi' dahî rivayet etti. (Dediki): Bize İbni Ebî Füdeyk rivayet etti. (Dediki): Bize Dahhâk haber verdi. Bunların ikisi de Nâfi'den, o da îbni Ömer'den, o da Nebi (Sallallahu Aleyhi ve Seliem)'den naklen Mâlik'in Nâfi'den naklettiği hadîs gibi rivayette bulunmuşlardır",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3854,
+      "arabicnumber": "1531.02",
+      "text": "{…} Bize Züheyr b. Harb ile Muhammed b. Müsennâ rivayet ettiler. (Dedilerki): Bize Yahya yâni El-Kattân rivayet etti. H. Bize Ebû Bekr b. Ebî Şeybe de rivayet etti. (Dediki): Bize Muhammed b. Bişr rivayet etti. H. Bize İbni Numeyr dahî rivayet etti. (Dediki): Bize babam rivayet etti. Bu râvilerin hepsi Ubeydullah'dan, o da Nâfi'den, o da İbnİ Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayette bulunmuşlardır. H. Bana Züheyr b. Harb ile Aliy b. Hucr da rivayet ettiler. (Dedilerki): Bize İsmâîl rivayet eyledi. H. Bize Ebu'r-Rabî' ile Ebu Kâmil dahî rivayet ettiler. (Dedilerki): Bize Hammâd yâni İbni Zeyd rivayet etti. Bunlar toptan Eyyûb'dan, o da Nâfi'den, o da İbni Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayette bulunmuşlardır. H. Bize İbni Müsennâ ile İbni Ebî Ömer de rivayet ettiler. (Dedilerki): Bize Abdülvehhâb rivayet etti. (Dediki): Ben Yahya b. Saîd'den dinledim H. Bize İbni Râfi' dahî rivayet etti. (Dediki): Bize İbni Ebî Füdeyk rivayet etti. (Dediki): Bize Dahhâk haber verdi. Bunların ikisi de Nâfi'den, o da îbni Ömer'den, o da Nebi (Sallallahu Aleyhi ve Seliem)'den naklen Mâlik'in Nâfi'den naklettiği hadîs gibi rivayette bulunmuşlardır",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 53
+      }
+    }
+  ]
 }

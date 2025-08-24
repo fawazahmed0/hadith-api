@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2708,
-			"arabicnumber": "1151.06",
-			"text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Muhammed b. Fudeyl, Ebû Sinan'dan, o da Ebû Salih'den o da Ebû Hureyre ile Ebû Saîd (Radiyallahû anhûma)'dun naklen rivayet etti. Demişlerki: Resulullah (Sallallahu Aleyhi ve Sellem) : «Allah (Azze ve Cell) Muhakkak oruç benimdir, onun mükâfaatını verecek olan da benim.) buyurmaktadır. Ge.çekten oruçlu için iki ferah vardır. İftar ettiği vakit bir ferah, Allah'a kavuştuğu vakit de bir ferah. Muhammedin nefsi yed-i kudretinde olan Allah'a yemin ederim ki oruçlunun ağız kokusu, Allah indinde misk kokusundan daha güzeldir.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 214
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2708,
+      "arabicnumber": "1151.06",
+      "text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Muhammed b. Fudeyl, Ebû Sinan'dan, o da Ebû Salih'den o da Ebû Hureyre ile Ebû Saîd (Radiyallahû anhûma)'dun naklen rivayet etti. Demişlerki: Resulullah (Sallallahu Aleyhi ve Sellem) : «Allah (Azze ve Cell) Muhakkak oruç benimdir, onun mükâfaatını verecek olan da benim.) buyurmaktadır. Ge.çekten oruçlu için iki ferah vardır. İftar ettiği vakit bir ferah, Allah'a kavuştuğu vakit de bir ferah. Muhammedin nefsi yed-i kudretinde olan Allah'a yemin ederim ki oruçlunun ağız kokusu, Allah indinde misk kokusundan daha güzeldir.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 214
+      }
+    }
+  ]
 }

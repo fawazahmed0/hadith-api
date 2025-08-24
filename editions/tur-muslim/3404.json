@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3404,
-			"arabicnumber": "1402.01",
-			"text": "Bize Ebu Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdullah b. Mübarek rivayet etti. H. Bize Ebu Kureyb Muhammed b. Alâ' dahi rivayet etti. Lâfız onundur. (Dediki): Bize ibni Mübarek, Ma'mer'den, o da Zuhri'den, o da Saîd b. El-Müseyyeb'den. o da Sa'd b. Ebî Vakkâas'dan naklen haber verdi. Sâ'd şöyle demiş: «Resulullah (Sallallahu Aleyhi ve Sellem) Osman b. Maz'un'un tebettülünü (bekârlığı) kabul etmedi. Şayet ona izin verseydi biz de hayalarımızı çıkarırdık.»",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3404,
+      "arabicnumber": "1402.01",
+      "text": "Bize Ebu Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdullah b. Mübarek rivayet etti. H. Bize Ebu Kureyb Muhammed b. Alâ' dahi rivayet etti. Lâfız onundur. (Dediki): Bize ibni Mübarek, Ma'mer'den, o da Zuhri'den, o da Saîd b. El-Müseyyeb'den. o da Sa'd b. Ebî Vakkâas'dan naklen haber verdi. Sâ'd şöyle demiş: «Resulullah (Sallallahu Aleyhi ve Sellem) Osman b. Maz'un'un tebettülünü (bekârlığı) kabul etmedi. Şayet ona izin verseydi biz de hayalarımızı çıkarırdık.»",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 7
+      }
+    }
+  ]
 }

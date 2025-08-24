@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7365,
-			"arabicnumber": "2933.03",
-			"text": "Bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Affan rivayet etti. (Dediki): Bize Abdû'l-Vâris, Şuayb b. Habhab'dan, o da Enes b. Mâlik'den naklen rivayet etti. Enes şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem); «Deccal gözü silik bir kimsedir, iki gözünün arasında kâfir yazıtıdır.» buyurdu. Sonra bunu heceleyerek : «Ke fe re!» diye okudu. «Bunu her müslüman okuyacaktır.» buyurdular. İZAH 2936 DA",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 127
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7365,
+      "arabicnumber": "2933.03",
+      "text": "Bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Affan rivayet etti. (Dediki): Bize Abdû'l-Vâris, Şuayb b. Habhab'dan, o da Enes b. Mâlik'den naklen rivayet etti. Enes şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem); «Deccal gözü silik bir kimsedir, iki gözünün arasında kâfir yazıtıdır.» buyurdu. Sonra bunu heceleyerek : «Ke fe re!» diye okudu. «Bunu her müslüman okuyacaktır.» buyurdular. İZAH 2936 DA",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 127
+      }
+    }
+  ]
 }

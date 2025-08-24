@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2602,
-			"arabicnumber": "1112.02",
-			"text": "Bize Muhammedü'bnü'l-Müsennâ rivayet etti. (Dediki): Bize Abdülvahhâb Es-Sekafî haber verdi. (Dediki) Yahya b. Said'i şöyle derken işittim : Bana Abdurrahman b. Kaasim haber verdi, ona da Muhammed b. Cafer b. Zübeyr haber vermiş. Ona da Abbâd b. Abdillah b. Zübeyr rivayet etmiş ki, kendisi Âişe (Radiyallahû anha)'yi : «Resulullah (Sallallahu Aleyhi ve Sellem)'e bir adam geldi...» derken işitmiş. Müteakiben ravi hadisi rivayet etmiş. Bu hadîsin başında «Sadaka ver, sadaka ver.» ibaresiyle «güpegündüz» kaydı yoktur",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 108
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2602,
+      "arabicnumber": "1112.02",
+      "text": "Bize Muhammedü'bnü'l-Müsennâ rivayet etti. (Dediki): Bize Abdülvahhâb Es-Sekafî haber verdi. (Dediki) Yahya b. Said'i şöyle derken işittim : Bana Abdurrahman b. Kaasim haber verdi, ona da Muhammed b. Cafer b. Zübeyr haber vermiş. Ona da Abbâd b. Abdillah b. Zübeyr rivayet etmiş ki, kendisi Âişe (Radiyallahû anha)'yi : «Resulullah (Sallallahu Aleyhi ve Sellem)'e bir adam geldi...» derken işitmiş. Müteakiben ravi hadisi rivayet etmiş. Bu hadîsin başında «Sadaka ver, sadaka ver.» ibaresiyle «güpegündüz» kaydı yoktur",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 108
+      }
+    }
+  ]
 }

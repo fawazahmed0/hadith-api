@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"56": "The Book of Commentary on the Qur'an"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 7523,
-				"hadithnumber_last": 7563,
-				"arabicnumber_first": 3015,
-				"arabicnumber_last": 3033.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7550,
-			"arabicnumber": "3027",
-			"text": "Bana Yûnus b. Abdl'l-A'la Es-Sadefî rivayet etti. (Dediki): Bize Abdullah b. Vehb haber verdi. (Dediki): Bana Amr b. Haris, Saîd b. Ebı Hilâl'den, o da Avn b. Abdillah'dan, o da babasından naklen haber verdi ki, İbni Mes'ud şöyle demiş: Bizim müsliiman oluşumuz ve Allah Teâlâ'nın bizi şu : «İman edenler için, kalblerinin Zikrullah'a yatışması zamanı gelmedi mİ?» [Hadis 16] âyetiyle muaheze buyurması arasında ancak dört sene vardır",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 28
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "56": "Tefsir"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 7523,
+        "hadithnumber_last": 7563,
+        "arabicnumber_first": 3015,
+        "arabicnumber_last": 3033.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7550,
+      "arabicnumber": "3027",
+      "text": "Bana Yûnus b. Abdl'l-A'la Es-Sadefî rivayet etti. (Dediki): Bize Abdullah b. Vehb haber verdi. (Dediki): Bana Amr b. Haris, Saîd b. Ebı Hilâl'den, o da Avn b. Abdillah'dan, o da babasından naklen haber verdi ki, İbni Mes'ud şöyle demiş: Bizim müsliiman oluşumuz ve Allah Teâlâ'nın bizi şu : «İman edenler için, kalblerinin Zikrullah'a yatışması zamanı gelmedi mİ?» [Hadis 16] âyetiyle muaheze buyurması arasında ancak dört sene vardır",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 28
+      }
+    }
+  ]
 }

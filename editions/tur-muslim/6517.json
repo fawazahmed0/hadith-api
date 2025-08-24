@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6517,
-			"arabicnumber": "2553.02",
-			"text": "Bana Harun b. Saîd El-Eylî rivayet etti. (Dediki): Bize Abdullah b. Vehb rivayet etti. (Dediki): Bana Muaviye (yani İbni Salih) Abdurrahman b. Cübeyr b. Nüfeyr'den, o da babasından, o da Nevvas b. Sem'an'dan naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem)'e birlikte Medine'de bir sene kaldım. Sual sormaktan başka beni hicretten men eden bir şey yoktu. Bizden bîrimiz hicret etti mi, Resûlullah (Sallallahu Aleyhi ve Sellem)'e bir şey sormazdı. Ben kendisine birr ve günah'ı sordum. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem); «Birr, ahlak güzelliğidir. Günah ise, kalbinde gıcık yapan ve başkalarının muttali olmasını istemediğin şeydir.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6517,
+      "arabicnumber": "2553.02",
+      "text": "Bana Harun b. Saîd El-Eylî rivayet etti. (Dediki): Bize Abdullah b. Vehb rivayet etti. (Dediki): Bana Muaviye (yani İbni Salih) Abdurrahman b. Cübeyr b. Nüfeyr'den, o da babasından, o da Nevvas b. Sem'an'dan naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem)'e birlikte Medine'de bir sene kaldım. Sual sormaktan başka beni hicretten men eden bir şey yoktu. Bizden bîrimiz hicret etti mi, Resûlullah (Sallallahu Aleyhi ve Sellem)'e bir şey sormazdı. Ben kendisine birr ve günah'ı sordum. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem); «Birr, ahlak güzelliğidir. Günah ise, kalbinde gıcık yapan ve başkalarının muttali olmasını istemediğin şeydir.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 17
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6465,
-			"arabicnumber": "2530",
-			"text": "Bize Ebû Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Abdullah b, Numeyr ile Ebû Üsânıe Zekeriyya'dan, o da Sa'd b. İbrahim'den, o da babasından, o da Cübeyr b. Mut'ım'den naklen rivayet ettiler. Cübeyr şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «İslâm'da ahidleşme yoktur. Cahiliyyet devrinde olan herhangi bir ahidleşmeyi islâm ancak şiddet yönünden artırmıştır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 294
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6465,
+      "arabicnumber": "2530",
+      "text": "Bize Ebû Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Abdullah b, Numeyr ile Ebû Üsânıe Zekeriyya'dan, o da Sa'd b. İbrahim'den, o da babasından, o da Cübeyr b. Mut'ım'den naklen rivayet ettiler. Cübeyr şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «İslâm'da ahidleşme yoktur. Cahiliyyet devrinde olan herhangi bir ahidleşmeyi islâm ancak şiddet yönünden artırmıştır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 294
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"33": "The Book on Government"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 4701,
-				"hadithnumber_last": 4967,
-				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4924,
-			"arabicnumber": "1905.02",
-			"text": "{…} Bu hadîsi bize Alî b. Haşrem de rivayet elti. (Dediki): Bize Haccâc (yânı îbni Muhammed), ibnü Cüreyc'den naklen haber verdi. (Demişki): Bana Yûnus b. Yusuf, Süleyman b. Yesâr'dan rivayet etti. (Demişki): Halk Ebû Hureyre'nin yanından dağıldı da Nâtil-i Şâmî ona şunu söyledi... Ve hadîsi Hâlid b. Hâlis hadîsi gibi hikâye etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 33,
-				"hadith": 219
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "33": "Emirlik"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 4701,
+        "hadithnumber_last": 4967,
+        "arabicnumber_first": 1818.01,
+        "arabicnumber_last": 1928.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4924,
+      "arabicnumber": "1905.02",
+      "text": "{…} Bu hadîsi bize Alî b. Haşrem de rivayet elti. (Dediki): Bize Haccâc (yânı îbni Muhammed), ibnü Cüreyc'den naklen haber verdi. (Demişki): Bana Yûnus b. Yusuf, Süleyman b. Yesâr'dan rivayet etti. (Demişki): Halk Ebû Hureyre'nin yanından dağıldı da Nâtil-i Şâmî ona şunu söyledi... Ve hadîsi Hâlid b. Hâlis hadîsi gibi hikâye etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 33,
+        "hadith": 219
+      }
+    }
+  ]
 }

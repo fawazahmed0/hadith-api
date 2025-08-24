@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2231,
-			"arabicnumber": "962.05",
-			"text": "{…} Bize, bu hadisi Muhammedü'bnü Ebî Bekir El-Mukaddemi ile Ubeydullah b. Saîd de rivayet ettiler. Dedilerki: Bize Yahya yâni Kattan, Şu'be'den bu isnâdla rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 108
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2231,
+      "arabicnumber": "962.05",
+      "text": "{…} Bize, bu hadisi Muhammedü'bnü Ebî Bekir El-Mukaddemi ile Ubeydullah b. Saîd de rivayet ettiler. Dedilerki: Bize Yahya yâni Kattan, Şu'be'den bu isnâdla rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 108
+      }
+    }
+  ]
 }

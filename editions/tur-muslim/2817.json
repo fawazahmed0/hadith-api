@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2817,
-			"arabicnumber": "1186.02",
-			"text": "Bize, bu hadîsi Kuteybetü'bnü Saîd dahî rivayet etti. (Dediki): Bize Hatim yani îbni İsmail, Musa b. Ukbe'den, o da Salim'den naklen rivayet etti. Salim şöyle demiş: İbni Ömer (Radiyallahu anhuma)'ya: «İhram denildiği vakit, Beyda: «Resulullah (Sallallahu Aleyhi ve Sellem)'e iftira ettiğiniz yerdir. Resûlullah (Sallallahu Aleyhi ve Sellem) ancak ağacın yanında hayvanı kendisini kaldırdığı vakit telbiye etmiştir.» derdi. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2817,
+      "arabicnumber": "1186.02",
+      "text": "Bize, bu hadîsi Kuteybetü'bnü Saîd dahî rivayet etti. (Dediki): Bize Hatim yani îbni İsmail, Musa b. Ukbe'den, o da Salim'den naklen rivayet etti. Salim şöyle demiş: İbni Ömer (Radiyallahu anhuma)'ya: «İhram denildiği vakit, Beyda: «Resulullah (Sallallahu Aleyhi ve Sellem)'e iftira ettiğiniz yerdir. Resûlullah (Sallallahu Aleyhi ve Sellem) ancak ağacın yanında hayvanı kendisini kaldırdığı vakit telbiye etmiştir.» derdi. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 27
+      }
+    }
+  ]
 }

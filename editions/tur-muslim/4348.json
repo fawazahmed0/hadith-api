@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"28": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 4342,
-				"hadithnumber_last": 4397,
-				"arabicnumber_first": 1669.01,
-				"arabicnumber_last": 1683
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4348,
-			"arabicnumber": "1669.07",
-			"text": "Bize Muhammed b. Abdillâh b. Numeyr rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Saîd b. Ubeyd rivayet etti. (Dediki): Bize Büşeyr b. Yesâr El-Ensâri, Sehl b. Ebî Hasmete'l-Ensârf-den naklen rivayet etti, ki ona: Kendilerinden birkaç kişinin Hayber'e gittiklerini, orada birbirlerinden ayrıldıklarını, kendilerinden birini ölü olarak bulduklarını haber vermiş... ve hadisi nakletmiştir. O bu hadiste şunu da söylemiştir: Resûlullah (Sallallahu Aleyhi ve Sellem), onun kanını heder etmeyi doğru bulmadı da ona diyet olarak sadaka develerinden yüz deve verdi",
-			"grades": [],
-			"reference": {
-				"book": 28,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "28": "Kasâme, Muhakibler, Kısas ve Diyetler Bahsi"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 4342,
+        "hadithnumber_last": 4397,
+        "arabicnumber_first": 1669.01,
+        "arabicnumber_last": 1683
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4348,
+      "arabicnumber": "1669.07",
+      "text": "Bize Muhammed b. Abdillâh b. Numeyr rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Saîd b. Ubeyd rivayet etti. (Dediki): Bize Büşeyr b. Yesâr El-Ensâri, Sehl b. Ebî Hasmete'l-Ensârf-den naklen rivayet etti, ki ona: Kendilerinden birkaç kişinin Hayber'e gittiklerini, orada birbirlerinden ayrıldıklarını, kendilerinden birini ölü olarak bulduklarını haber vermiş... ve hadisi nakletmiştir. O bu hadiste şunu da söylemiştir: Resûlullah (Sallallahu Aleyhi ve Sellem), onun kanını heder etmeyi doğru bulmadı da ona diyet olarak sadaka develerinden yüz deve verdi",
+      "grades": [],
+      "reference": {
+        "book": 28,
+        "hadith": 7
+      }
+    }
+  ]
 }

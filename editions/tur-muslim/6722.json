@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6722,
-			"arabicnumber": "2642.02",
-			"text": "{m-166} Bize Ebû Bekr b. Ebî Şeybe ile İshâk b. İbrahim Vekî'den rivayet ettiler. H. Bize Muhammed b. Beşşâr da rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bize Muhammed b. Müseıınâ dahi rivayet etti, (Dediki): Bana Abdilssamcd rivayet etti. H. Bize İshâk dahi rivayet etti. (Dediki): Bize Nadr haber verdi. Bu râvilerin hepsi Şu'be'den, o da Ebû İmran El-Cevnî'den naklen Hammad b. Zeyd'in isnadiyle onun hadîsi gibi rivayette bulunmuşlardır. Şu kadar var ki: Ahdüssamed'den maada hepsinin Şu'be'den rivayet ettikleri hadîsde: «Bundan dolayı halk onu severse...» cümlesi vardır. Abdüssamed'in hadîsinde ise: Hamınad'ın dediği gibi: «Halk onu överse» denilmiştir",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 217
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6722,
+      "arabicnumber": "2642.02",
+      "text": "{m-166} Bize Ebû Bekr b. Ebî Şeybe ile İshâk b. İbrahim Vekî'den rivayet ettiler. H. Bize Muhammed b. Beşşâr da rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bize Muhammed b. Müseıınâ dahi rivayet etti, (Dediki): Bana Abdilssamcd rivayet etti. H. Bize İshâk dahi rivayet etti. (Dediki): Bize Nadr haber verdi. Bu râvilerin hepsi Şu'be'den, o da Ebû İmran El-Cevnî'den naklen Hammad b. Zeyd'in isnadiyle onun hadîsi gibi rivayette bulunmuşlardır. Şu kadar var ki: Ahdüssamed'den maada hepsinin Şu'be'den rivayet ettikleri hadîsde: «Bundan dolayı halk onu severse...» cümlesi vardır. Abdüssamed'in hadîsinde ise: Hamınad'ın dediği gibi: «Halk onu överse» denilmiştir",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 217
+      }
+    }
+  ]
 }

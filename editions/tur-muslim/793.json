@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"3": "The Book of Menstruation"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 679,
-				"hadithnumber_last": 836,
-				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 793,
-			"arabicnumber": "355.02",
-			"text": "Bana Ahmet b. İsa rivayet etti. (Dediki): Bana İbni Vehb rivayet etti. (Dediki): Bana Amr b. Haris, İbni Şihab'dan, o da Cafer b. Amr b. Ümeyyete'd Damri'den o da babasından naklen haber verdi. Babası şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem)'i bir koyun küreğinden kesip yerken gördüm, Müteakiben namaza davet edildi. Hemen kalkarak bıçağı attı ve namaz kıldı, fakat abdest almadı. İbni Şihab: «Bunu bana Ali b. Abdillah b. Abbas babasından, o da Resulullah (Sallallahu Aleyhi ve Sellem)'den bunu rivayet etti» demiş. İzah 359 nolu Hadiste",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 115
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "3": "Hayz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 679,
+        "hadithnumber_last": 836,
+        "arabicnumber_first": 293.01,
+        "arabicnumber_last": 376.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 793,
+      "arabicnumber": "355.02",
+      "text": "Bana Ahmet b. İsa rivayet etti. (Dediki): Bana İbni Vehb rivayet etti. (Dediki): Bana Amr b. Haris, İbni Şihab'dan, o da Cafer b. Amr b. Ümeyyete'd Damri'den o da babasından naklen haber verdi. Babası şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem)'i bir koyun küreğinden kesip yerken gördüm, Müteakiben namaza davet edildi. Hemen kalkarak bıçağı attı ve namaz kıldı, fakat abdest almadı. İbni Şihab: «Bunu bana Ali b. Abdillah b. Abbas babasından, o da Resulullah (Sallallahu Aleyhi ve Sellem)'den bunu rivayet etti» demiş. İzah 359 nolu Hadiste",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 115
+      }
+    }
+  ]
 }

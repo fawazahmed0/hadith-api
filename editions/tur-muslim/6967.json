@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"50": "The Book of Repentance"
-		},
-		"section_detail": {
-			"50": {
-				"hadithnumber_first": 6952,
-				"hadithnumber_last": 7023,
-				"arabicnumber_first": 2744.01,
-				"arabicnumber_last": 2771
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6967,
-			"arabicnumber": "2750.02",
-			"text": "Bize İshâk b. Mansur rivayet etti. (Dediki): Bize Abdûssamed haber verdi. (Dediki): Babamı rivayet ederken dinledim. (Dediki): Bize Saîd El-Cüreyrî, Ebû Osman En-Nehdî'den, o da Hanzale'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem)'in yanında idik. Bize nasihat etti. Ve cehennemi hatırlattı. Sonra ev’e geldim. Çocuklarla gülüp söyleştim ve kadınla oynaştım. Müteakiben (evden) çıktım ve Ebû Bekr'e rasladım, bunu kendisine anlattım. Ebû Bekr: Senin anlattığının mislini ben de yaptım, dedi. Derken Resûlullah (Sallallahu Aleyhi ve Sellem)'e rastladık. Ben: — Yâ Resûlallah! Hanzale münafık oldu, dedim «Ne söylüyorsun?» dedi. Ve kendisine hikâyeyi anlattım. Ebû Bekr — Onun yaptığının mislini ben de yaptım! dedi. Bunun üzerine: «Yâ Hanzale! Bazı zaman öyle, bazı zaman böyle! Sizin kalbleriniz zikir anındaki hal üzere devam etse, melekler sizinle musâfaha ederler, hatta yollarda size selâm verirlerdi.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 50,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "50": "Tevbe"
+    },
+    "section_detail": {
+      "50": {
+        "hadithnumber_first": 6952,
+        "hadithnumber_last": 7023,
+        "arabicnumber_first": 2744.01,
+        "arabicnumber_last": 2771
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6967,
+      "arabicnumber": "2750.02",
+      "text": "Bize İshâk b. Mansur rivayet etti. (Dediki): Bize Abdûssamed haber verdi. (Dediki): Babamı rivayet ederken dinledim. (Dediki): Bize Saîd El-Cüreyrî, Ebû Osman En-Nehdî'den, o da Hanzale'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem)'in yanında idik. Bize nasihat etti. Ve cehennemi hatırlattı. Sonra ev’e geldim. Çocuklarla gülüp söyleştim ve kadınla oynaştım. Müteakiben (evden) çıktım ve Ebû Bekr'e rasladım, bunu kendisine anlattım. Ebû Bekr: Senin anlattığının mislini ben de yaptım, dedi. Derken Resûlullah (Sallallahu Aleyhi ve Sellem)'e rastladık. Ben: — Yâ Resûlallah! Hanzale münafık oldu, dedim «Ne söylüyorsun?» dedi. Ve kendisine hikâyeyi anlattım. Ebû Bekr — Onun yaptığının mislini ben de yaptım! dedi. Bunun üzerine: «Yâ Hanzale! Bazı zaman öyle, bazı zaman böyle! Sizin kalbleriniz zikir anındaki hal üzere devam etse, melekler sizinle musâfaha ederler, hatta yollarda size selâm verirlerdi.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 50,
+        "hadith": 15
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"34": "The Book of Hunting, Slaughter, and what may be Eaten"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4972,
-				"hadithnumber_last": 5063,
-				"arabicnumber_first": 1929.01,
-				"arabicnumber_last": 1959
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5005,
-			"arabicnumber": "1407.06",
-			"text": "Bize Yahya b. Yahya rivayet etti. (Dediki) Mâlik b. Enes'e, ibni Şihab'dan dinlediğim onunda Muhammed b. Ali'nin iki oğlu Abdullah ile Hasan'den, onlarında babalarından, onun da Ali b. Ebî Tâlib'den naklen rivayet ettiği şu hadisi okudum: «Resûlullah (Sallallalıu Aleyhi ve. Sellem) Hayber (vak'ası) günü kadınlara müi'a yapmaktan ve ehli eşeklerin elinden nehiy buyurdu.»",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "34": "Av, Kesilen Ve Eti Yenen Hayvanlar Bahsi"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4972,
+        "hadithnumber_last": 5063,
+        "arabicnumber_first": 1929.01,
+        "arabicnumber_last": 1959
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5005,
+      "arabicnumber": "1407.06",
+      "text": "Bize Yahya b. Yahya rivayet etti. (Dediki) Mâlik b. Enes'e, ibni Şihab'dan dinlediğim onunda Muhammed b. Ali'nin iki oğlu Abdullah ile Hasan'den, onlarında babalarından, onun da Ali b. Ebî Tâlib'den naklen rivayet ettiği şu hadisi okudum: «Resûlullah (Sallallalıu Aleyhi ve. Sellem) Hayber (vak'ası) günü kadınlara müi'a yapmaktan ve ehli eşeklerin elinden nehiy buyurdu.»",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 34
+      }
+    }
+  ]
 }

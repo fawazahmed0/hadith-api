@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"38": "The Book of Manners and Etiquette"
-		},
-		"section_detail": {
-			"38": {
-				"hadithnumber_first": 5586,
-				"hadithnumber_last": 5645,
-				"arabicnumber_first": 2131,
-				"arabicnumber_last": 2159.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5604,
-			"arabicnumber": "2139.01",
-			"text": "Bize Ahmed b. Hanbel ile Züheyr b. Harb, Muhammed b. Müsennâ, Ubeydullah b. Saîd ve Muhammed b. Beşşar rivayet ettiler. (Dedilerki): Bize Yahya b. Saîd, Ubeydullah'dan rivayet etti. (Demişki): Bana Nâfi', İbni Ömer'den naklen haber verdi ki: Resûlullah (Sallailahu Aleyhi ve Sellem) Asiye ismini değiştirmiş ve: «Sen Cemîle'sin!» buyurmuştur. Ahmed «Ahberanî»(Bana haber verdi) yerine «an» (... dan) demiştir",
-			"grades": [],
-			"reference": {
-				"book": 38,
-				"hadith": 19
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "38": "Âdâb"
+    },
+    "section_detail": {
+      "38": {
+        "hadithnumber_first": 5586,
+        "hadithnumber_last": 5645,
+        "arabicnumber_first": 2131,
+        "arabicnumber_last": 2159.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5604,
+      "arabicnumber": "2139.01",
+      "text": "Bize Ahmed b. Hanbel ile Züheyr b. Harb, Muhammed b. Müsennâ, Ubeydullah b. Saîd ve Muhammed b. Beşşar rivayet ettiler. (Dedilerki): Bize Yahya b. Saîd, Ubeydullah'dan rivayet etti. (Demişki): Bana Nâfi', İbni Ömer'den naklen haber verdi ki: Resûlullah (Sallailahu Aleyhi ve Sellem) Asiye ismini değiştirmiş ve: «Sen Cemîle'sin!» buyurmuştur. Ahmed «Ahberanî»(Bana haber verdi) yerine «an» (... dan) demiştir",
+      "grades": [],
+      "reference": {
+        "book": 38,
+        "hadith": 19
+      }
+    }
+  ]
 }

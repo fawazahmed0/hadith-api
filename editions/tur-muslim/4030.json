@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4030,
-			"arabicnumber": "1575.01",
-			"text": "Bana Ebu't-Tâhir ile Harmele rivayet ettiler. (Dedilerki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihâb'dan, o da Saîd b. Müseyyeb'den, o da Ebû Hureyre'den, o da Resûlullah (Sallallahu Aleyhi ve Sellem)'den naklen haber verdi: «Bir kimse av, koyun veya arazi köpeği olmayan bir köpek edinirse gerçekten o kimsenin ecrinden her gün iki kırât eksilir.» buyurmuşlar. Ebu't-Tâhir'in hadîsinde «Arazî köpeği» yoktur",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 69
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4030,
+      "arabicnumber": "1575.01",
+      "text": "Bana Ebu't-Tâhir ile Harmele rivayet ettiler. (Dedilerki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihâb'dan, o da Saîd b. Müseyyeb'den, o da Ebû Hureyre'den, o da Resûlullah (Sallallahu Aleyhi ve Sellem)'den naklen haber verdi: «Bir kimse av, koyun veya arazi köpeği olmayan bir köpek edinirse gerçekten o kimsenin ecrinden her gün iki kırât eksilir.» buyurmuşlar. Ebu't-Tâhir'in hadîsinde «Arazî köpeği» yoktur",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 69
+      }
+    }
+  ]
 }

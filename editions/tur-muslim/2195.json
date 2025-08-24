@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2195,
-			"arabicnumber": "945.07",
-			"text": "Bana Muhammed b. Abdillâh b. Numeyr rivayet etti. (dediki): Bize, Abdullah b. Yezîd rivayet etti. (dediki):Bana Hayve rivayet etti. (dediki): Bana Ebü Sahr, Yezîd b. Abdillâh b. Kuseyt'den naklen rivayet etti, ona da Dâvûd b. Âmir b. Sa'd b. Ebî Vakkaas, babasından naklen rivayet etmiş ki, babası Abdullah b. Ömer'in yanında oturuyormuş. Birden Maksûre'nin sahibi Habbâb çıkagelmiş. Ve: — Yâ Abdallah b. Ömer! Ebû Hureyre'nin ne söylediğini işitmiyor musun? (Baksana) Resulullah (Sallallahu Aleyhi ve Sellem), «Her kim cenaze ile birlikte onun evinden çıkar da; namazını kılar, sonra defnedüinceye kadar cenazenin arkasından giderse, o kimseye iki kırat ecir vardır. Her bir kırat Unut Dağı kadardır. Cenazenin namazını kılıp da, dönen kimseye ise Uhut Dağı kadar bir ecir vardır.» buyururken işitmiş: demiş. Bunun üzerine İbni Ömer Habbâb'ı Ebû Hureyre'nin söylediklerini sorarak, gelip kendisine haber vermek için Âişe'ye göndermiş. İbni Ömer mescidin çakıllarından bir avuç almış, onları elinde evirip çeviriyormuş. Nihayet elçi dönüp gelmiş ve Âişe'nin: «Ebü Hureyre doğru söylemiş.- dediğini bildirmiş. Bunun üzerine îbni Ömer elindeki çakılları yere vurarak: «Vallahi biz bir çok kıratlarda kusur ettik.» demiş. İzah 946 da",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 73
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2195,
+      "arabicnumber": "945.07",
+      "text": "Bana Muhammed b. Abdillâh b. Numeyr rivayet etti. (dediki): Bize, Abdullah b. Yezîd rivayet etti. (dediki):Bana Hayve rivayet etti. (dediki): Bana Ebü Sahr, Yezîd b. Abdillâh b. Kuseyt'den naklen rivayet etti, ona da Dâvûd b. Âmir b. Sa'd b. Ebî Vakkaas, babasından naklen rivayet etmiş ki, babası Abdullah b. Ömer'in yanında oturuyormuş. Birden Maksûre'nin sahibi Habbâb çıkagelmiş. Ve: — Yâ Abdallah b. Ömer! Ebû Hureyre'nin ne söylediğini işitmiyor musun? (Baksana) Resulullah (Sallallahu Aleyhi ve Sellem), «Her kim cenaze ile birlikte onun evinden çıkar da; namazını kılar, sonra defnedüinceye kadar cenazenin arkasından giderse, o kimseye iki kırat ecir vardır. Her bir kırat Unut Dağı kadardır. Cenazenin namazını kılıp da, dönen kimseye ise Uhut Dağı kadar bir ecir vardır.» buyururken işitmiş: demiş. Bunun üzerine İbni Ömer Habbâb'ı Ebû Hureyre'nin söylediklerini sorarak, gelip kendisine haber vermek için Âişe'ye göndermiş. İbni Ömer mescidin çakıllarından bir avuç almış, onları elinde evirip çeviriyormuş. Nihayet elçi dönüp gelmiş ve Âişe'nin: «Ebü Hureyre doğru söylemiş.- dediğini bildirmiş. Bunun üzerine îbni Ömer elindeki çakılları yere vurarak: «Vallahi biz bir çok kıratlarda kusur ettik.» demiş. İzah 946 da",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 73
+      }
+    }
+  ]
 }

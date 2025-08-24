@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3152,
-			"arabicnumber": "1305.01",
-			"text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Hafs b. Gıyâs, Hişâm'dan, o da Muhammed b. Sîrîn'den, o da Enes b. Mâlik'den naklen haber verdiki, Resulullah (Sallallahu Aleyhi ve Sellem) Mina'ya varmış. Müteakiben cemreye giderek orada taş atmış. Sonra Mina'daki menziline gelmiş ve kurban kesmiş. Arkasından berbere: — Al! diye evvelâ sağ tarafına, sonra sol tarafına işaret buyurmuş. Bilâhare saçları halka dağılmaya başlamış",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 356
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3152,
+      "arabicnumber": "1305.01",
+      "text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Hafs b. Gıyâs, Hişâm'dan, o da Muhammed b. Sîrîn'den, o da Enes b. Mâlik'den naklen haber verdiki, Resulullah (Sallallahu Aleyhi ve Sellem) Mina'ya varmış. Müteakiben cemreye giderek orada taş atmış. Sonra Mina'daki menziline gelmiş ve kurban kesmiş. Arkasından berbere: — Al! diye evvelâ sağ tarafına, sonra sol tarafına işaret buyurmuş. Bilâhare saçları halka dağılmaya başlamış",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 356
+      }
+    }
+  ]
 }

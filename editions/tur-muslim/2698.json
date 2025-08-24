@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2698,
-			"arabicnumber": "1149.02",
-			"text": "Bu hadisi Bize Ebû Bekir b. Ebî Şeybe de rivayet etti. (Dediki): Bize Abdullah b. Numeyr, Abdullah b. Atâ'dan, o da Abdullah b. Büreyde'den, o da babası (Radiyallahû anh)'dan naklen rivayet eyledi. Babası: «Ben, Nebi (Sallallahu Aleyhi ve Sellem) İn yanında oturuyordum» diyerek İbni Müshir hadisi gibi rivayette bulunmuş. Yalnız o «İki ayın orucu» demiştir",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 204
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2698,
+      "arabicnumber": "1149.02",
+      "text": "Bu hadisi Bize Ebû Bekir b. Ebî Şeybe de rivayet etti. (Dediki): Bize Abdullah b. Numeyr, Abdullah b. Atâ'dan, o da Abdullah b. Büreyde'den, o da babası (Radiyallahû anh)'dan naklen rivayet eyledi. Babası: «Ben, Nebi (Sallallahu Aleyhi ve Sellem) İn yanında oturuyordum» diyerek İbni Müshir hadisi gibi rivayette bulunmuş. Yalnız o «İki ayın orucu» demiştir",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 204
+      }
+    }
+  ]
 }

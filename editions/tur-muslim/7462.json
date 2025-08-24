@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7462,
-			"text": "Bana Ebû't-Tâhir Ahmed b. Amr b. Şerh rivayet etti. (Dediki): Bize ibnû Vehb haber verdi. (Dediki): Bana Ebû Hani haber verdi, o da Ebû Abdirrahman El-Hubuliy'i şöyIe derken işitmiş. Ben Abdullah b. Amr b. Âs'dan dinledim. Ondan bir adam dilen»., muhacirlerin fakirlerinden değil mîyi»? demiş,. Bunun üzerine Abdullah ona — Senin kendisine sığınacak karın var mı? diye sordu. Adam: -- Evet! cevâbını verdi. — Oturacak evin var mı? dedi. (Yine) : — Evet! cevâbını verdi. Abdullah : -- Öyle ise sen zenginlerdensin, dedi. Adam : — Benim bir hizmetçim de var! dedi. Abdullah: O halde sen kırallardansm, dedi",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7462,
+      "text": "Bana Ebû't-Tâhir Ahmed b. Amr b. Şerh rivayet etti. (Dediki): Bize ibnû Vehb haber verdi. (Dediki): Bana Ebû Hani haber verdi, o da Ebû Abdirrahman El-Hubuliy'i şöyIe derken işitmiş. Ben Abdullah b. Amr b. Âs'dan dinledim. Ondan bir adam dilen»., muhacirlerin fakirlerinden değil mîyi»? demiş,. Bunun üzerine Abdullah ona — Senin kendisine sığınacak karın var mı? diye sordu. Adam: -- Evet! cevâbını verdi. — Oturacak evin var mı? dedi. (Yine) : — Evet! cevâbını verdi. Abdullah : -- Öyle ise sen zenginlerdensin, dedi. Adam : — Benim bir hizmetçim de var! dedi. Abdullah: O halde sen kırallardansm, dedi",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

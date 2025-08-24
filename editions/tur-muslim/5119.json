@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"35": "The Book of Sacrifices"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 5064,
-				"hadithnumber_last": 5126,
-				"arabicnumber_first": 1960.01,
-				"arabicnumber_last": 1978.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5119,
-			"arabicnumber": "1977.03",
-			"text": "Bize İbıı-î Ebî Ömer El-Mekkî rivayet etti. (Dediki): Bize Süfyâıı, Abdurrahman b. Humeyd b. Abdirrahman b. Avf'dan rivayet etti, o da Saîd b. Müseyyeb'i Ümmü Seleme'den naklen rivayet ederken dinlemîşki, Nebi (Sallallahu Aleyhi ve Sellem): «Malûm on gün girdi de biriniz kurban kesmek istedi mi artık (kendi) saçından ve cildinden hiç bir şeye dokunmasın!» buyurmuşlar. Süfyân'a: «Bâzıları bu hadîsi merfu' rivayet etmiyor.» dediler. — Lâkin onu ben merfu* olarak rivayet ediyorum, cevâbını verdi",
-			"grades": [],
-			"reference": {
-				"book": 35,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "35": "Kurbanlar"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 5064,
+        "hadithnumber_last": 5126,
+        "arabicnumber_first": 1960.01,
+        "arabicnumber_last": 1978.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5119,
+      "arabicnumber": "1977.03",
+      "text": "Bize İbıı-î Ebî Ömer El-Mekkî rivayet etti. (Dediki): Bize Süfyâıı, Abdurrahman b. Humeyd b. Abdirrahman b. Avf'dan rivayet etti, o da Saîd b. Müseyyeb'i Ümmü Seleme'den naklen rivayet ederken dinlemîşki, Nebi (Sallallahu Aleyhi ve Sellem): «Malûm on gün girdi de biriniz kurban kesmek istedi mi artık (kendi) saçından ve cildinden hiç bir şeye dokunmasın!» buyurmuşlar. Süfyân'a: «Bâzıları bu hadîsi merfu' rivayet etmiyor.» dediler. — Lâkin onu ben merfu* olarak rivayet ediyorum, cevâbını verdi",
+      "grades": [],
+      "reference": {
+        "book": 35,
+        "hadith": 53
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2522,
-			"arabicnumber": "1084.02",
-			"text": "Bana Hârûn b, Abdillâh ile Haccâc b. Şâir rivayet ettiler. (Dediler ki) : Bize Haccâcü'hnü Muhammed rivayet etti. Dediki.: İbni Cüreyc şunları söyledi: Bana Ebû'z-Zübeyr haber verdi; o da Câbir b. Abdillâh (Radiyallahu anh)'ı şöyle derken işitmiş: Nebi (Sallallahu Aleyhi ve Sellem) bir ay kadınlarından ayrıldı. Nihayet yirmidokuzuncu günün sabahı yanımıza çıktı. Cemâatdan biri: — -Yâ Resûlallah! Ancak yirmidokuzuncu günün sabahın dayız. dedi. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): — «Ay bazen yirmidokuz gün olur.» buyurdu. Sonra üç defa ellerini birbiri üzerine kapadı. İki defasında ellerinin bütün parmakları ile, Üçüncüsünde ise dokuz parmağı ile işaret etti. İzah 1086 da",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 28
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2522,
+      "arabicnumber": "1084.02",
+      "text": "Bana Hârûn b, Abdillâh ile Haccâc b. Şâir rivayet ettiler. (Dediler ki) : Bize Haccâcü'hnü Muhammed rivayet etti. Dediki.: İbni Cüreyc şunları söyledi: Bana Ebû'z-Zübeyr haber verdi; o da Câbir b. Abdillâh (Radiyallahu anh)'ı şöyle derken işitmiş: Nebi (Sallallahu Aleyhi ve Sellem) bir ay kadınlarından ayrıldı. Nihayet yirmidokuzuncu günün sabahı yanımıza çıktı. Cemâatdan biri: — -Yâ Resûlallah! Ancak yirmidokuzuncu günün sabahın dayız. dedi. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): — «Ay bazen yirmidokuz gün olur.» buyurdu. Sonra üç defa ellerini birbiri üzerine kapadı. İki defasında ellerinin bütün parmakları ile, Üçüncüsünde ise dokuz parmağı ile işaret etti. İzah 1086 da",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 28
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1845,
-			"arabicnumber": "792.01",
-			"text": "Bana, Amru'n-Nâkıd ile Züheyr b. Harb rivayet ettiler. Dedilerki: Bize, Süfyân b. Uyeyne, Zührî'den, o da Ebû Seleme'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Seltem)'e vardırarak rivayet etti. Resûlullah (Sallallahu Aleyhi ve Sellem) : «Allah, Kur'ân'ı tegannî eden bir Nebie verdiği kadar, hiç bîr şey'e ihsanda bulunmamışdır.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 273
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1845,
+      "arabicnumber": "792.01",
+      "text": "Bana, Amru'n-Nâkıd ile Züheyr b. Harb rivayet ettiler. Dedilerki: Bize, Süfyân b. Uyeyne, Zührî'den, o da Ebû Seleme'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Seltem)'e vardırarak rivayet etti. Resûlullah (Sallallahu Aleyhi ve Sellem) : «Allah, Kur'ân'ı tegannî eden bir Nebie verdiği kadar, hiç bîr şey'e ihsanda bulunmamışdır.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 273
+      }
+    }
+  ]
 }

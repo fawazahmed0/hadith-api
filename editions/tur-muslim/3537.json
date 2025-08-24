@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3537,
-			"arabicnumber": "1435.03",
-			"text": "Bize bu hadîsi Kuteybetü'bnu Saîd de rivayet etti. (Dediki): Bize Ebu Avâne rivayet etti. H. Bize Abdülvâris b. Abdissamed dahî rivayet eyledi. (Dedikî): Bana babam, dedemden, o da Eyyub'dan naklen rivayet etti. H. Bize Muhammed b, El-Müsennâ da rivayet etti. (Dediki): Bana Vehb b. Cerîr rivayet etti. (Dediki): Bize Şu'be rivayet eyledi. H. Bize yine Muhammed b. el-Müsennâ rivayet etti. (Dediki): Bize Abdurrahmân rivayet etti. (Dediki): Bize Süfyân rivayet etti. H. Bana Ubeydullah b. Saîd ile Hârun b. Abdillâh ve Ebu Ma'ne'r-Rakaaşî dahî rivayet ettiler. (Dedilerki): Bize Vehb b. Cerir rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Nu'mân b. Râşid'i, Zührî'den naklen rivayet ederken dinledim. H. Bana Süleyman b. Ma'bed'de rivayet etti. (Dediki): Bize Muallâ b. Esed rivayet etti. (Dediki): Bize Abdülazîz yâni ibni'I-Muhtâr, Süheyl b. Ebî Salih'den rivayet etti. Bu râvilerin hepsi Muhammed b. Münkedir'den, o da Câbir'den bu hadîsi rivayet etmişlerdir. Nu'man'ın Zührî'den rivayet ettiği hadîsde: «isterse yüzükoyun, isterse daha başka şekilde yalnız bir deliğe olmak şartı ile...» ifâdesini ziyade etmiştir. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 139
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3537,
+      "arabicnumber": "1435.03",
+      "text": "Bize bu hadîsi Kuteybetü'bnu Saîd de rivayet etti. (Dediki): Bize Ebu Avâne rivayet etti. H. Bize Abdülvâris b. Abdissamed dahî rivayet eyledi. (Dedikî): Bana babam, dedemden, o da Eyyub'dan naklen rivayet etti. H. Bize Muhammed b, El-Müsennâ da rivayet etti. (Dediki): Bana Vehb b. Cerîr rivayet etti. (Dediki): Bize Şu'be rivayet eyledi. H. Bize yine Muhammed b. el-Müsennâ rivayet etti. (Dediki): Bize Abdurrahmân rivayet etti. (Dediki): Bize Süfyân rivayet etti. H. Bana Ubeydullah b. Saîd ile Hârun b. Abdillâh ve Ebu Ma'ne'r-Rakaaşî dahî rivayet ettiler. (Dedilerki): Bize Vehb b. Cerir rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Nu'mân b. Râşid'i, Zührî'den naklen rivayet ederken dinledim. H. Bana Süleyman b. Ma'bed'de rivayet etti. (Dediki): Bize Muallâ b. Esed rivayet etti. (Dediki): Bize Abdülazîz yâni ibni'I-Muhtâr, Süheyl b. Ebî Salih'den rivayet etti. Bu râvilerin hepsi Muhammed b. Münkedir'den, o da Câbir'den bu hadîsi rivayet etmişlerdir. Nu'man'ın Zührî'den rivayet ettiği hadîsde: «isterse yüzükoyun, isterse daha başka şekilde yalnız bir deliğe olmak şartı ile...» ifâdesini ziyade etmiştir. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 139
+      }
+    }
+  ]
 }

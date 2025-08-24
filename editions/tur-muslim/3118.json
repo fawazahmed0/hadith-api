@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3118,
-			"arabicnumber": "1290.01",
-			"text": "Bize Abdullah b, Meslemete'bnİ Ka'neb rivayet etti. (Dediki): Bize Eflâh yani ibni Humeyd, Kasım'dan, o da Âişe'den naklen rivayet etti ki, şöyle demiş: «Müzdelife gecesi Sevde, Resulullah (Sallallahu Aleyhi ve Sellem)'den önce izdiham olmadan (Mina'ya dönmek için) ondan izin istedi. Sevde, sebita bir kadındı. — Kasim, sebita'nın: Ağır mânâsına geldiğini söylemiş.— Resûlullah (Sallallahu Aleyhi ve Sellem), ona izin verdi. Bu suretle Sevde ondan önce yola çıktı. Resulullah (Sallallahu Aleyhi ve Sellem), bizi sabahlayıncaya kadar alıkoydu, biz de onunla beraber döndük. Resulullah (Sallallahu Aleyhi ve Sellem)'den, Sevde'nin yaptığı gibi izin isteyerek, onun izniyle dönmüş olsam benim için bu her sevinilecek şeyden daha iyi idi.»",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 322
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3118,
+      "arabicnumber": "1290.01",
+      "text": "Bize Abdullah b, Meslemete'bnİ Ka'neb rivayet etti. (Dediki): Bize Eflâh yani ibni Humeyd, Kasım'dan, o da Âişe'den naklen rivayet etti ki, şöyle demiş: «Müzdelife gecesi Sevde, Resulullah (Sallallahu Aleyhi ve Sellem)'den önce izdiham olmadan (Mina'ya dönmek için) ondan izin istedi. Sevde, sebita bir kadındı. — Kasim, sebita'nın: Ağır mânâsına geldiğini söylemiş.— Resûlullah (Sallallahu Aleyhi ve Sellem), ona izin verdi. Bu suretle Sevde ondan önce yola çıktı. Resulullah (Sallallahu Aleyhi ve Sellem), bizi sabahlayıncaya kadar alıkoydu, biz de onunla beraber döndük. Resulullah (Sallallahu Aleyhi ve Sellem)'den, Sevde'nin yaptığı gibi izin isteyerek, onun izniyle dönmüş olsam benim için bu her sevinilecek şeyden daha iyi idi.»",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 322
+      }
+    }
+  ]
 }

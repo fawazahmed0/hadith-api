@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4112,
-			"arabicnumber": "1601.03",
-			"text": "Bize Muhammed b. Abdillâh b. Numeyr rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Süfyân, Seleme b. Küheyl'den, o da Ebû Seleme'den, o da Ebû Hureyre'den naklen rivayette bulundu. Şöyle demiş: Bir adam Resûlullah (Sallallahu Aleyhi ve Sellem)'den alacaklı olduğu bir deveyi istemeğe geldi de: «Ona kendi devesinden daha üstün bir baş deve verin!» buyurdu. Bir de: «Sizin en hayırlınız, borç ödeme hususunda en iyi olanınızdır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 151
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4112,
+      "arabicnumber": "1601.03",
+      "text": "Bize Muhammed b. Abdillâh b. Numeyr rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Süfyân, Seleme b. Küheyl'den, o da Ebû Seleme'den, o da Ebû Hureyre'den naklen rivayette bulundu. Şöyle demiş: Bir adam Resûlullah (Sallallahu Aleyhi ve Sellem)'den alacaklı olduğu bir deveyi istemeğe geldi de: «Ona kendi devesinden daha üstün bir baş deve verin!» buyurdu. Bir de: «Sizin en hayırlınız, borç ödeme hususunda en iyi olanınızdır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 151
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2332,
-			"arabicnumber": "1007.03",
-			"text": "{…} Bana Ebû Bekir b. Nâfi' El-Abdi rivayet etti. (Dediki): Bize Yahya b. Kesir rivayet etti. (Dediki): Bize Alîy yâni îbnü'l-Mübarek rivayet etti. (Dediki): Bize Yahya, Zeyd b. Sellâm'dan, o da dedesi Ebû Sellâm'dan naklen rivayet etti. Demişki: Bana Abdullah b. Ferrûh rivayet etti. O da Âişe'yi şöyle derken işitmiş: Resulullah (Sallallahu Aleyhi ve Sellem), «Her insan... yaratıldı.» buyurdu. Râvî hadîsi Muâviye'nin Zeyd'den rivayet ettiği şekilde rivayette bulunmuş ve: «O kimse, o gün (kendini cehennemden uzaklaştırmış olarak) hareket eder.» demiştir",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 69
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2332,
+      "arabicnumber": "1007.03",
+      "text": "{…} Bana Ebû Bekir b. Nâfi' El-Abdi rivayet etti. (Dediki): Bize Yahya b. Kesir rivayet etti. (Dediki): Bize Alîy yâni îbnü'l-Mübarek rivayet etti. (Dediki): Bize Yahya, Zeyd b. Sellâm'dan, o da dedesi Ebû Sellâm'dan naklen rivayet etti. Demişki: Bana Abdullah b. Ferrûh rivayet etti. O da Âişe'yi şöyle derken işitmiş: Resulullah (Sallallahu Aleyhi ve Sellem), «Her insan... yaratıldı.» buyurdu. Râvî hadîsi Muâviye'nin Zeyd'den rivayet ettiği şekilde rivayette bulunmuş ve: «O kimse, o gün (kendini cehennemden uzaklaştırmış olarak) hareket eder.» demiştir",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 69
+      }
+    }
+  ]
 }

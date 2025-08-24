@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2455,
-			"arabicnumber": "1064.05",
-			"text": "Bize, Muhammedü'bnü'I - Müsenna rivayet etti. (Dediki): Bize Abdülvahhab rivayet etti. (Dediki): Yahya b. Said'i şöyle derken dinledim: Bana, Muhammed b. İbrahim, Ebû Seleme ile Ata' b. Yesar'dan naklen haber verdi ki, bu iki zat Ebû Saıd-i Hudrî'ye gelerek Harüriler hakkında sual sormuşlar: — «Sen, Resulullah (Sallallahu Aleyhi ve Sellem) bunların lafını ederken işittin mi?» demişler. Ebû Saîd: — «Ben, Harûrilerin kim olduklarını bilmiyorum. Lakin Resûlullah (Sallallahu Aleyhi ve Sellem)'i — Bu ümmetin içinde —bu ümmetten dememiş— öyle bir kavim türeyecek ki, onların namazlarına bakarak siz kendi namazınızı küçümseyeceksiniz. Kur'an'ı okuyacaklar fakat boğazlarını —yahut gırtlaklarını— geçmiyecek. Dinden ok'un avı delip geçtiği gibi çıkacaklar. (Hani) avcı, ok'una ok'un demirine, giriş yerine bakar da acaba ok'a kandan bir şey yapıştı mı? diye nasıl şüphe eder, buyururken işittim.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 192
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2455,
+      "arabicnumber": "1064.05",
+      "text": "Bize, Muhammedü'bnü'I - Müsenna rivayet etti. (Dediki): Bize Abdülvahhab rivayet etti. (Dediki): Yahya b. Said'i şöyle derken dinledim: Bana, Muhammed b. İbrahim, Ebû Seleme ile Ata' b. Yesar'dan naklen haber verdi ki, bu iki zat Ebû Saıd-i Hudrî'ye gelerek Harüriler hakkında sual sormuşlar: — «Sen, Resulullah (Sallallahu Aleyhi ve Sellem) bunların lafını ederken işittin mi?» demişler. Ebû Saîd: — «Ben, Harûrilerin kim olduklarını bilmiyorum. Lakin Resûlullah (Sallallahu Aleyhi ve Sellem)'i — Bu ümmetin içinde —bu ümmetten dememiş— öyle bir kavim türeyecek ki, onların namazlarına bakarak siz kendi namazınızı küçümseyeceksiniz. Kur'an'ı okuyacaklar fakat boğazlarını —yahut gırtlaklarını— geçmiyecek. Dinden ok'un avı delip geçtiği gibi çıkacaklar. (Hani) avcı, ok'una ok'un demirine, giriş yerine bakar da acaba ok'a kandan bir şey yapıştı mı? diye nasıl şüphe eder, buyururken işittim.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 192
+      }
+    }
+  ]
 }

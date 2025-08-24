@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1443,
-			"arabicnumber": "638.01",
-			"text": "Bize Amr b. Sevvâd El-Âmiri ile Harmeletü'bnü Yahya rivayet ettiler. Dedilerki: Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus haber verdi; ona da İbni Şihâb haber vermiş. Demişki: Bana Urvetü'bnü Zübeyr haber verdi, ki: Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Âişe şöyle demiş : — «Resulullah (Sallallahu Aleyhi ve Sellem) gecelerden bir gece yatsı namazını karanlık basıncaya kadar geciktirdi. Ateme denilen namaz işte budur. Resulullah (Sallallahu Aleyhi ve Sellem) (o gece hücresinden erken) çıkmadı. Nihayet Ömerü'bnü'l-Hattâb: Kadınlarla çocuklar uyudu; dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) (Namaza) çıktı. Ve mesciddekilerin yanına varınca, onlara: «Bu namazı sizden başka yeryüzünde yaşıyanlann hiç biri bsklemez.» buyurdular. Bu (söylediklerim) islâmiyet henüz insanlar arasında yayılmazdan evveldi.» Harmele, kendi rivayetinde şunu ziyâde eyledi: «ibni Şihâb Dediki: Bana anlatıldığına göre Resulullah (Sallallahu Aleyhi ve Sellem) «Resûlullâha namaz hususunda ısrar etmeye hakkınız yokdu.» buyurmuş. Bunu Ömerü'bnü'l-Hattâb seslendiği vakit söylemiş",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 276
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1443,
+      "arabicnumber": "638.01",
+      "text": "Bize Amr b. Sevvâd El-Âmiri ile Harmeletü'bnü Yahya rivayet ettiler. Dedilerki: Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus haber verdi; ona da İbni Şihâb haber vermiş. Demişki: Bana Urvetü'bnü Zübeyr haber verdi, ki: Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Âişe şöyle demiş : — «Resulullah (Sallallahu Aleyhi ve Sellem) gecelerden bir gece yatsı namazını karanlık basıncaya kadar geciktirdi. Ateme denilen namaz işte budur. Resulullah (Sallallahu Aleyhi ve Sellem) (o gece hücresinden erken) çıkmadı. Nihayet Ömerü'bnü'l-Hattâb: Kadınlarla çocuklar uyudu; dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) (Namaza) çıktı. Ve mesciddekilerin yanına varınca, onlara: «Bu namazı sizden başka yeryüzünde yaşıyanlann hiç biri bsklemez.» buyurdular. Bu (söylediklerim) islâmiyet henüz insanlar arasında yayılmazdan evveldi.» Harmele, kendi rivayetinde şunu ziyâde eyledi: «ibni Şihâb Dediki: Bana anlatıldığına göre Resulullah (Sallallahu Aleyhi ve Sellem) «Resûlullâha namaz hususunda ısrar etmeye hakkınız yokdu.» buyurmuş. Bunu Ömerü'bnü'l-Hattâb seslendiği vakit söylemiş",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 276
+      }
+    }
+  ]
 }

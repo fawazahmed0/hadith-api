@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4304,
-			"arabicnumber": "1658.04",
-			"text": "Bize Abdülvâris b. Abdissamed de rivayet etti. (Dedidi): Bana babam rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Bana Muhammed b. Ei-Münkedir: İsmin nedir? diye sordu. Şu'be, dedim. Bunun üzerine Muhammed dedi ki; Bana Ebû Şu'bete'l-lrâkî, Süveyd b. Mukarrin'den naklen rivayet etti ki, Süveyd'in bir cariyesini birisi tokatlamış da Süveyd ona: Bilmedinmiki surat haramdır, demiş ve şunları söylemiş: — Vallahi ben kendimi Resûlullah (Sallallahu Aleyhi ve Sellem)'le beraber bulunmuş yedi kardeşimin yedincisi olduğumu görmüşümdür. Bir hizmetçiden başka hizmetkârımız yoktu. Derken birimiz kasden ona tokat vurdu. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) onu âzâd etmemizi bize emir buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4304,
+      "arabicnumber": "1658.04",
+      "text": "Bize Abdülvâris b. Abdissamed de rivayet etti. (Dedidi): Bana babam rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Bana Muhammed b. Ei-Münkedir: İsmin nedir? diye sordu. Şu'be, dedim. Bunun üzerine Muhammed dedi ki; Bana Ebû Şu'bete'l-lrâkî, Süveyd b. Mukarrin'den naklen rivayet etti ki, Süveyd'in bir cariyesini birisi tokatlamış da Süveyd ona: Bilmedinmiki surat haramdır, demiş ve şunları söylemiş: — Vallahi ben kendimi Resûlullah (Sallallahu Aleyhi ve Sellem)'le beraber bulunmuş yedi kardeşimin yedincisi olduğumu görmüşümdür. Bir hizmetçiden başka hizmetkârımız yoktu. Derken birimiz kasden ona tokat vurdu. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) onu âzâd etmemizi bize emir buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 51
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3234,
-			"arabicnumber": "1329.05",
-			"text": "Bana Humeyd b. Mes'ade rivayet etli. (Dediki): Bize Hâlid yâni İbnü'l-Hâris rivayet etti, (Dediki): Abdullah b. Avn, Nâfi'den, o da Abdullah b. Ömer'den naklen rivayet etti. Abdullah Kabe'ye varmış, Nebi (Sallallahu Aleyhi ve Sellem) ile Bilâl ve Usâme Kabe'ye girmiş bulunuyorlarrmş. Osman b. Talha üzerlerinden kapıyı kapamış. Abdullah şöyle demiş : «Orada uzun müddet kaldılar. Sonra kapı açıldı ve Nebi (Sallallahu Aleyhi ve Sellem) çıktı. Ben merdivenden adımlayarak Beyt-i Şerîf'e girdim. Ve: Nebi (Sallallahu Aleyhi ve Sellem) nerede namaz kıldı? diye sordum. — Şurada! dediler. Fakat onlara kaç rekât namaz kıldığını sormağa unuttum.»",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 438
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3234,
+      "arabicnumber": "1329.05",
+      "text": "Bana Humeyd b. Mes'ade rivayet etli. (Dediki): Bize Hâlid yâni İbnü'l-Hâris rivayet etti, (Dediki): Abdullah b. Avn, Nâfi'den, o da Abdullah b. Ömer'den naklen rivayet etti. Abdullah Kabe'ye varmış, Nebi (Sallallahu Aleyhi ve Sellem) ile Bilâl ve Usâme Kabe'ye girmiş bulunuyorlarrmş. Osman b. Talha üzerlerinden kapıyı kapamış. Abdullah şöyle demiş : «Orada uzun müddet kaldılar. Sonra kapı açıldı ve Nebi (Sallallahu Aleyhi ve Sellem) çıktı. Ben merdivenden adımlayarak Beyt-i Şerîf'e girdim. Ve: Nebi (Sallallahu Aleyhi ve Sellem) nerede namaz kıldı? diye sordum. — Şurada! dediler. Fakat onlara kaç rekât namaz kıldığını sormağa unuttum.»",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 438
+      }
+    }
+  ]
 }

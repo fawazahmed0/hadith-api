@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"55": "The Book of Zuhd and Softening of Hearts "
-		},
-		"section_detail": {
-			"55": {
-				"hadithnumber_first": 7417,
-				"hadithnumber_last": 7522,
-				"arabicnumber_first": 2956,
-				"arabicnumber_last": 3014
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7501,
-			"arabicnumber": "3000.01",
-			"text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Yezid b. Zürey', Hâlid EI-Hazzâ*dan, o da Abdurrahman b. Ebi Bekra'dan, o da hatasından naklen rivayet etti. (Şöyle demiş),: Nebiyyullah (Sallallahu Aleyhi ve Sellem)'in huzurunda bir adam birini medhetlt. Bunun üzerine tekrar tekrar : «Yazık sana! Arkadaşının boynunu kestin! Arkadaşının boynunu kestin!» buyurdu (ve şöyle devam etti) : «Biriniz behemehal arkadaşını methedecekse, bari filânı zannediyorum; Allah ona kâfidir; ben Allah'a karşı kimseyi tezkiye etmem —onu biliyorsa— zannederim şöyle şöyledir gibi sözler söylesin!»",
-			"grades": [],
-			"reference": {
-				"book": 55,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "55": "Zühd Ve Rakâik"
+    },
+    "section_detail": {
+      "55": {
+        "hadithnumber_first": 7417,
+        "hadithnumber_last": 7522,
+        "arabicnumber_first": 2956,
+        "arabicnumber_last": 3014
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7501,
+      "arabicnumber": "3000.01",
+      "text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Yezid b. Zürey', Hâlid EI-Hazzâ*dan, o da Abdurrahman b. Ebi Bekra'dan, o da hatasından naklen rivayet etti. (Şöyle demiş),: Nebiyyullah (Sallallahu Aleyhi ve Sellem)'in huzurunda bir adam birini medhetlt. Bunun üzerine tekrar tekrar : «Yazık sana! Arkadaşının boynunu kestin! Arkadaşının boynunu kestin!» buyurdu (ve şöyle devam etti) : «Biriniz behemehal arkadaşını methedecekse, bari filânı zannediyorum; Allah ona kâfidir; ben Allah'a karşı kimseyi tezkiye etmem —onu biliyorsa— zannederim şöyle şöyledir gibi sözler söylesin!»",
+      "grades": [],
+      "reference": {
+        "book": 55,
+        "hadith": 83
+      }
+    }
+  ]
 }

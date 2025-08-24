@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"55": "The Book of Zuhd and Softening of Hearts "
-		},
-		"section_detail": {
-			"55": {
-				"hadithnumber_first": 7417,
-				"hadithnumber_last": 7522,
-				"arabicnumber_first": 2956,
-				"arabicnumber_last": 3014
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7477,
-			"arabicnumber": "2987.01",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki', Süfyan'dan, o da Seleme b. Küheyl'den naklen rivayet etti. (Demişki): Ben Cündeb El-Alakî'den dinledim. (Dediki): Resulullah (Sallallahu Aleyhi ve Sellem): «Her kim (yaptığını) işittirirse, Allah o kimseyi işittirir. Ve her kim riya yaparsa, Allah da onun içyüzünü meydana çıkarır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 55,
-				"hadith": 60
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "55": "Zühd Ve Rakâik"
+    },
+    "section_detail": {
+      "55": {
+        "hadithnumber_first": 7417,
+        "hadithnumber_last": 7522,
+        "arabicnumber_first": 2956,
+        "arabicnumber_last": 3014
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7477,
+      "arabicnumber": "2987.01",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki', Süfyan'dan, o da Seleme b. Küheyl'den naklen rivayet etti. (Demişki): Ben Cündeb El-Alakî'den dinledim. (Dediki): Resulullah (Sallallahu Aleyhi ve Sellem): «Her kim (yaptığını) işittirirse, Allah o kimseyi işittirir. Ve her kim riya yaparsa, Allah da onun içyüzünü meydana çıkarır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 55,
+        "hadith": 60
+      }
+    }
+  ]
 }

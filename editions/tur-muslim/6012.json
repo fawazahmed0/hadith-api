@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6012,
-			"arabicnumber": "2309.02",
-			"text": "{M-51} Bize bu hadîsi Şeyban b. Ferruh dahi rivayet etti. (Dediki): Bize Sellam b. Miskin rivayet etti. (Dediki): Bize Sabit El-Bünânî, Enes'den bu hadîsin mislini rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 71
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6012,
+      "arabicnumber": "2309.02",
+      "text": "{M-51} Bize bu hadîsi Şeyban b. Ferruh dahi rivayet etti. (Dediki): Bize Sellam b. Miskin rivayet etti. (Dediki): Bize Sabit El-Bünânî, Enes'den bu hadîsin mislini rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 71
+      }
+    }
+  ]
 }

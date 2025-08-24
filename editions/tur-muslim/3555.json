@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3555,
-			"arabicnumber": "1438.12",
-			"text": "{…} Bana Ahmed b. el-Münzir el-Basri rivayet etti. (Dedikî): Bize Zeyd b. Hubâb rivayet etti. (Dediki): Bize Muâviye rivayet etti. (Dediki): Bana Aliy b. Ebî Talhate'l-Hâşimî, Ebu'l-Veddâk'dan, o da Ebu Saîd-i Hudrî'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den bu hadîsin mislini haber verdi. İzah 1440 da",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 157
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3555,
+      "arabicnumber": "1438.12",
+      "text": "{…} Bana Ahmed b. el-Münzir el-Basri rivayet etti. (Dedikî): Bize Zeyd b. Hubâb rivayet etti. (Dediki): Bize Muâviye rivayet etti. (Dediki): Bana Aliy b. Ebî Talhate'l-Hâşimî, Ebu'l-Veddâk'dan, o da Ebu Saîd-i Hudrî'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den bu hadîsin mislini haber verdi. İzah 1440 da",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 157
+      }
+    }
+  ]
 }

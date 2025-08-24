@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2310,
-			"arabicnumber": "994",
-			"text": "Bize Ebû'r-Rabî' Ez-Zehrânî ile Kuteybetü'bnu Saîd ikisi birden Hammâd b. Zeyd'den rivayet ettiler. Ebû'r-Rabî' Dediki: Bize Hammâd rivayet etti. (Dediki): Bize Eyyüb, Ebû Kılâbe'den, o da Ebû Esma'dan, o da Sevbân'dan naklen rivayet etti. Sevbân şöyle demiş: Resulullah (Sullallahu Aleyhi ve Sellem): «Bir kimsenin infâk edeceği en faziletli dînâr, çoluğuna çocuğuna infâk ettiği dinar ile Allah yolunda hayvanına infâk ettiği dînâr bir de yine Allah yolunda arkadaşlarına sarfettiği dinardır.» buyurdular. Ebû Kılâbe: «Resulullah (Sallallahu Aleyhi ve Sellem) (infâk işine) çoluk çocuktan başlamıştır.» demiş, sonra sözüne şöyle devam etmiştir: «Küçük çocuklarının namuslu yetişmesini sağlayan yahut onları Allah'ın menfaatlendirip, kendisi ile zengin kılacağı nafakayı çoluğuna çocuğuna infâk eden bir adamdan daha sevaplı kim olabilir.?» İzah 996 da",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2310,
+      "arabicnumber": "994",
+      "text": "Bize Ebû'r-Rabî' Ez-Zehrânî ile Kuteybetü'bnu Saîd ikisi birden Hammâd b. Zeyd'den rivayet ettiler. Ebû'r-Rabî' Dediki: Bize Hammâd rivayet etti. (Dediki): Bize Eyyüb, Ebû Kılâbe'den, o da Ebû Esma'dan, o da Sevbân'dan naklen rivayet etti. Sevbân şöyle demiş: Resulullah (Sullallahu Aleyhi ve Sellem): «Bir kimsenin infâk edeceği en faziletli dînâr, çoluğuna çocuğuna infâk ettiği dinar ile Allah yolunda hayvanına infâk ettiği dînâr bir de yine Allah yolunda arkadaşlarına sarfettiği dinardır.» buyurdular. Ebû Kılâbe: «Resulullah (Sallallahu Aleyhi ve Sellem) (infâk işine) çoluk çocuktan başlamıştır.» demiş, sonra sözüne şöyle devam etmiştir: «Küçük çocuklarının namuslu yetişmesini sağlayan yahut onları Allah'ın menfaatlendirip, kendisi ile zengin kılacağı nafakayı çoluğuna çocuğuna infâk eden bir adamdan daha sevaplı kim olabilir.?» İzah 996 da",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 47
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2634,
-			"arabicnumber": "1123.03",
-			"text": "{…} Bana Züheyr b. Harb rivayet etti. (Dediki) Bize Abdurrahman b. Mehdi, Süfyân'dan, o da Ebu'n-Nadr Sâlim'den bu isnâdla İbni Uyeyne hadisi gibi rivayette bulundu. Ebu'n-Nadr bu rivayette de «Ümmü Fadi'ın azatlısı Umeyr'den...» demiş",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 140
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2634,
+      "arabicnumber": "1123.03",
+      "text": "{…} Bana Züheyr b. Harb rivayet etti. (Dediki) Bize Abdurrahman b. Mehdi, Süfyân'dan, o da Ebu'n-Nadr Sâlim'den bu isnâdla İbni Uyeyne hadisi gibi rivayette bulundu. Ebu'n-Nadr bu rivayette de «Ümmü Fadi'ın azatlısı Umeyr'den...» demiş",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 140
+      }
+    }
+  ]
 }

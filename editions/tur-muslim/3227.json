@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3227,
-			"text": "(Bize Kuteybe yani İbn Saîd rivâyet etti. ki): Bize Leys rivâyet etti. H. Züheyr b. Harb da rivâyet etti, ki): Bize Süfyân rivâyet etti. H. Muhammedu'bnü'l-Mûsennâ dahi rivâyet etti. ki): Bize Abdü'l-Vehhâb rivâyet etti. ki): Bize Eyyûb rivâyet etti, Bu râvilerin hepsi Abdurrahmân b. Kâsım'dan, o da babasından, o da Âişe’den naklen onun Resûlüllah (sallallahü aleyhi ve sellem)’e Safiyye'nin hayız gördüğünü söylediğini Zührî'nin hadîsi mânâsında rivâyet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3227,
+      "text": "(Bize Kuteybe yani İbn Saîd rivâyet etti. ki): Bize Leys rivâyet etti. H. Züheyr b. Harb da rivâyet etti, ki): Bize Süfyân rivâyet etti. H. Muhammedu'bnü'l-Mûsennâ dahi rivâyet etti. ki): Bize Abdü'l-Vehhâb rivâyet etti. ki): Bize Eyyûb rivâyet etti, Bu râvilerin hepsi Abdurrahmân b. Kâsım'dan, o da babasından, o da Âişe’den naklen onun Resûlüllah (sallallahü aleyhi ve sellem)’e Safiyye'nin hayız gördüğünü söylediğini Zührî'nin hadîsi mânâsında rivâyet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

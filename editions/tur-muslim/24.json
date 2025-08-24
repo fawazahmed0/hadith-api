@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 24,
-			"text": "(Bize Hasen b. Alî el-Hulvânî rivâyet etti. ki): Bize Yahya b. Âdem rivâyet etti. ki): Bize İbn İdris, A'meş'den o da Ebû İshâk'dan naklen rivâyet etti. Ebû İshâk Şöyle dedi: Alî (radıyallahü anh)'dan sonra bu şeyleri îcâd ettikleri vakit Alî'nin arkadaşlarından bir zât: belâlarını versin! Ne kadar muhteşem bir ilmi ifsâd ettiler!...» dedi",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 24,
+      "text": "(Bize Hasen b. Alî el-Hulvânî rivâyet etti. ki): Bize Yahya b. Âdem rivâyet etti. ki): Bize İbn İdris, A'meş'den o da Ebû İshâk'dan naklen rivâyet etti. Ebû İshâk Şöyle dedi: Alî (radıyallahü anh)'dan sonra bu şeyleri îcâd ettikleri vakit Alî'nin arkadaşlarından bir zât: belâlarını versin! Ne kadar muhteşem bir ilmi ifsâd ettiler!...» dedi",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 24
+      }
+    }
+  ]
 }

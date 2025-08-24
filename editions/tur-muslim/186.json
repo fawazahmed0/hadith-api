@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 186,
-			"arabicnumber": "52.05",
-			"text": "Bize Yahya b. Eyyub ile Kuteybe ve İbni Hucr, İsmail b. Ca'fer'den rivayet ettiler. İbni Eyyub dedi ki: Bize İsmail rivayet etti. Dediki: Bana el-Alâ', babasından, o da Ebu Hüreyre'den naklen haber verdi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"İman Yemenlidir, küfür doğu tarafındadır. Vakar ise koyun sahiplerindedir. Böbürlenmek ve riyakarlık ise at ve deve sahibi bağırışıp çağıranıardadır. \" Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 93
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 186,
+      "arabicnumber": "52.05",
+      "text": "Bize Yahya b. Eyyub ile Kuteybe ve İbni Hucr, İsmail b. Ca'fer'den rivayet ettiler. İbni Eyyub dedi ki: Bize İsmail rivayet etti. Dediki: Bana el-Alâ', babasından, o da Ebu Hüreyre'den naklen haber verdi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"İman Yemenlidir, küfür doğu tarafındadır. Vakar ise koyun sahiplerindedir. Böbürlenmek ve riyakarlık ise at ve deve sahibi bağırışıp çağıranıardadır. \" Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 93
+      }
+    }
+  ]
 }

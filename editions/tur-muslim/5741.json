@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5741,
-			"arabicnumber": "2204",
-			"text": "Bize Harun b. Ma'ruf ile Ebu't-Tâhir ve Ahmed b. İsa rivayet ettiler. (Dedilerki): Bize İbnl Vehb rivayet etti. (Dediki): Bana Amr (bu zat İbni Hâris'dir.) Abdü Rabbib b. Saîd'den, o da Ebu'z-Zübeyr'den, o da Câbir'den, o da Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen haber verdi ki: «Her derdin bir devası vardır. Derdin devasına rastlanırsa Allah (Azze ve Celle)'nin izniyle düzelir.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 95
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5741,
+      "arabicnumber": "2204",
+      "text": "Bize Harun b. Ma'ruf ile Ebu't-Tâhir ve Ahmed b. İsa rivayet ettiler. (Dedilerki): Bize İbnl Vehb rivayet etti. (Dediki): Bana Amr (bu zat İbni Hâris'dir.) Abdü Rabbib b. Saîd'den, o da Ebu'z-Zübeyr'den, o da Câbir'den, o da Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen haber verdi ki: «Her derdin bir devası vardır. Derdin devasına rastlanırsa Allah (Azze ve Celle)'nin izniyle düzelir.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 95
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"33": "The Book on Government"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 4701,
-				"hadithnumber_last": 4967,
-				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4731,
-			"arabicnumber": "142.07",
-			"text": "Bize Ebû Gassân El-Mismai ile İshâk b. İbrâhîm ve Muhammed b. El-Müsennâ da rivayet ettiler. (İshâk: Bize haber verdi, tâbirini kullandı. Ötekiler: Bize Muâz b. Hişâm rivayet etti; dediler.) (Demiş ki): Bana babam, Katâde'den, o da Ebû'l-Melîh'den naklen rivayet ettiki, hastalığında Ma'kıl b. Yesâr'ın yanına Ubeydullah b. Ziyâd girmiş. Ma'kıl ona: — Ben sana bîr hadis söyliyeceğim! ölüm hâlinde olmasam onu sana söylemezdim. Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i: «Eğer bir âmir müslümanların işini üzerine alır; sonra onlar için çalışıp samimiyet göstermezse onlarla birlikte cennete giremez!» buyururken işittim, demiş",
-			"grades": [],
-			"reference": {
-				"book": 33,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "33": "Emirlik"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 4701,
+        "hadithnumber_last": 4967,
+        "arabicnumber_first": 1818.01,
+        "arabicnumber_last": 1928.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4731,
+      "arabicnumber": "142.07",
+      "text": "Bize Ebû Gassân El-Mismai ile İshâk b. İbrâhîm ve Muhammed b. El-Müsennâ da rivayet ettiler. (İshâk: Bize haber verdi, tâbirini kullandı. Ötekiler: Bize Muâz b. Hişâm rivayet etti; dediler.) (Demiş ki): Bana babam, Katâde'den, o da Ebû'l-Melîh'den naklen rivayet ettiki, hastalığında Ma'kıl b. Yesâr'ın yanına Ubeydullah b. Ziyâd girmiş. Ma'kıl ona: — Ben sana bîr hadis söyliyeceğim! ölüm hâlinde olmasam onu sana söylemezdim. Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i: «Eğer bir âmir müslümanların işini üzerine alır; sonra onlar için çalışıp samimiyet göstermezse onlarla birlikte cennete giremez!» buyururken işittim, demiş",
+      "grades": [],
+      "reference": {
+        "book": 33,
+        "hadith": 30
+      }
+    }
+  ]
 }

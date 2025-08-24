@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 52,
-			"text": "Bize Ebû Gassân Muhammed b. Amr er Râzî rivâyet etti. ki: Cerîr'i şöyle derken işittim: b. Yezîd el-Cu'fî ile görüştüm, fakat ondan hadîs yazmadım. (Zira) o rac'ata inanırdı.»",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 52
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 52,
+      "text": "Bize Ebû Gassân Muhammed b. Amr er Râzî rivâyet etti. ki: Cerîr'i şöyle derken işittim: b. Yezîd el-Cu'fî ile görüştüm, fakat ondan hadîs yazmadım. (Zira) o rac'ata inanırdı.»",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 52
+      }
+    }
+  ]
 }

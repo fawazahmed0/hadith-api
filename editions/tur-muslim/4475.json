@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"30": "The Book of Judicial Decisions"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 4470,
-				"hadithnumber_last": 4497,
-				"arabicnumber_first": 1711.01,
-				"arabicnumber_last": 1721
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4475,
-			"arabicnumber": "1713.01",
-			"text": "Bize Yahya b. Yahya Et-Temîmî rivayet etti. (Dediki): Bize Ebû Muâviye, Hişâm b. Urve'den, o da babasından, o da Zeyneb binti Ebî Seleme'den, o da Ümmü Seleme'den naklen haber verdi. Ümmü Seleme şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Gerçekten siz bana davaya geliyorsunuz. Ama ihtimal bâzınız hüccetini bâzınızdan daha iyi anlatır da ben de ona kendisinden dinlediğime göre hüküm vermiş olurum! İmdi her kimse din kardeşinin hakkından bu suretle bir şey bölersem, onu hemen alıvermesin! Zîrâ bununla ona ancak ateşten bir parça bölmüş olurum!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "30": "Da'vâlar"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 4470,
+        "hadithnumber_last": 4497,
+        "arabicnumber_first": 1711.01,
+        "arabicnumber_last": 1721
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4475,
+      "arabicnumber": "1713.01",
+      "text": "Bize Yahya b. Yahya Et-Temîmî rivayet etti. (Dediki): Bize Ebû Muâviye, Hişâm b. Urve'den, o da babasından, o da Zeyneb binti Ebî Seleme'den, o da Ümmü Seleme'den naklen haber verdi. Ümmü Seleme şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Gerçekten siz bana davaya geliyorsunuz. Ama ihtimal bâzınız hüccetini bâzınızdan daha iyi anlatır da ben de ona kendisinden dinlediğime göre hüküm vermiş olurum! İmdi her kimse din kardeşinin hakkından bu suretle bir şey bölersem, onu hemen alıvermesin! Zîrâ bununla ona ancak ateşten bir parça bölmüş olurum!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 4
+      }
+    }
+  ]
 }

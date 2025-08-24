@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"17": "The Book of Suckling"
-		},
-		"section_detail": {
-			"17": {
-				"hadithnumber_first": 3568,
-				"hadithnumber_last": 3651,
-				"arabicnumber_first": 1444.01,
-				"arabicnumber_last": 1470.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3577,
-			"arabicnumber": "1445.07",
-			"text": "{…} Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Ebu Muâviye, Hişam'dan bu isnâdla bu hadîsin benzerini rivayet eyledi. Şu kadar var ki, o «Ebu'l-Kuays, Âişe'nin yanına girmek için izin istedi.» demiştir",
-			"grades": [],
-			"reference": {
-				"book": 17,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "17": "Süt Emme"
+    },
+    "section_detail": {
+      "17": {
+        "hadithnumber_first": 3568,
+        "hadithnumber_last": 3651,
+        "arabicnumber_first": 1444.01,
+        "arabicnumber_last": 1470.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3577,
+      "arabicnumber": "1445.07",
+      "text": "{…} Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Ebu Muâviye, Hişam'dan bu isnâdla bu hadîsin benzerini rivayet eyledi. Şu kadar var ki, o «Ebu'l-Kuays, Âişe'nin yanına girmek için izin istedi.» demiştir",
+      "grades": [],
+      "reference": {
+        "book": 17,
+        "hadith": 10
+      }
+    }
+  ]
 }

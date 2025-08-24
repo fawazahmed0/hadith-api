@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"4": "The Book of Prayers "
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 837,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 958,
-			"arabicnumber": "424",
-			"text": "Bize Kuteybetü'bnü Saîd, Mâlik b. Enes'den, o da Ebu Zinâd'dan, o da Â'rac'dan, o da Ebu Hureyre'den naklen rivayet ettiki: Resulullah (Sallallahu Aleyhi ve Sellem) : «Siz benim kıblemi bu tarafa doğrumu görüyorsunuz? Vallahi bana sizin ne rükünüz gizli kalıyor ne de sücudunuz. Ben sizi arkamdan pek âlâ görüyorum.» buyurmuşlar. İzah 425 te",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 120
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "4": "Namaz"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 837,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 377,
+        "arabicnumber_last": 519.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 958,
+      "arabicnumber": "424",
+      "text": "Bize Kuteybetü'bnü Saîd, Mâlik b. Enes'den, o da Ebu Zinâd'dan, o da Â'rac'dan, o da Ebu Hureyre'den naklen rivayet ettiki: Resulullah (Sallallahu Aleyhi ve Sellem) : «Siz benim kıblemi bu tarafa doğrumu görüyorsunuz? Vallahi bana sizin ne rükünüz gizli kalıyor ne de sücudunuz. Ben sizi arkamdan pek âlâ görüyorum.» buyurmuşlar. İzah 425 te",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 120
+      }
+    }
+  ]
 }

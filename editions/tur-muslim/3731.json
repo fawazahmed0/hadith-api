@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"18": "The Book of Divorce "
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 3652,
-				"hadithnumber_last": 3742,
-				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3731,
-			"arabicnumber": "1488.02",
-			"text": "{…} Bu hadîsi Zeyneb, annesi île Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Zeyneb'den, yahut Nebi (Sallallahu Aleyhi ve Sellem)'in zevcelerinden birinden naklen rivayet etmiştir. İzah 1489 da",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "18": "Boşama"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 3652,
+        "hadithnumber_last": 3742,
+        "arabicnumber_first": 1471.01,
+        "arabicnumber_last": 1491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3731,
+      "arabicnumber": "1488.02",
+      "text": "{…} Bu hadîsi Zeyneb, annesi île Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Zeyneb'den, yahut Nebi (Sallallahu Aleyhi ve Sellem)'in zevcelerinden birinden naklen rivayet etmiştir. İzah 1489 da",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 75
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"53": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
-		},
-		"section_detail": {
-			"53": {
-				"hadithnumber_first": 7130,
-				"hadithnumber_last": 7234,
-				"arabicnumber_first": 2822,
-				"arabicnumber_last": 2879
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7208,
-			"arabicnumber": "2865.02",
-			"text": "{m-63} Bize bu hadîsi Muhammed b. Müsennâ El-Anezî de rivayet etti. (Dediki): Bize Muhammed b. Ebi Adiy Saîd'den, o da Katade'den naklen bu îsnadla rivayet etti. Ama o hadisinde: «Bir kul'a verdiğim her mal helâldir...» cümlesini anmamıştır",
-			"grades": [],
-			"reference": {
-				"book": 53,
-				"hadith": 77
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "53": "Cennet Ve Onun Nimetleri İle Cennetliklerin Sıfatı Bahsi"
+    },
+    "section_detail": {
+      "53": {
+        "hadithnumber_first": 7130,
+        "hadithnumber_last": 7234,
+        "arabicnumber_first": 2822,
+        "arabicnumber_last": 2879
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7208,
+      "arabicnumber": "2865.02",
+      "text": "{m-63} Bize bu hadîsi Muhammed b. Müsennâ El-Anezî de rivayet etti. (Dediki): Bize Muhammed b. Ebi Adiy Saîd'den, o da Katade'den naklen bu îsnadla rivayet etti. Ama o hadisinde: «Bir kul'a verdiğim her mal helâldir...» cümlesini anmamıştır",
+      "grades": [],
+      "reference": {
+        "book": 53,
+        "hadith": 77
+      }
+    }
+  ]
 }

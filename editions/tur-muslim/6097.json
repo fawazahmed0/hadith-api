@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6097,
-			"arabicnumber": "2351.02",
-			"text": "Bize İbnî Ebi Ömer de rivayet etti. (Dediki): Bize Bişr b. Seriy rivayet etti. (Dediki): Bize Hammâd, Ebû Cemrete'd-Dübai'den, o da İbni Abbâs'dan naklen rivayet etti. İbni Abbas şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem) kendisine vahy geldiği halde Mekke'de onüç sene, Medine'de ise on sene kaldı. Altmışüç yaşında iken de vefat etti. İzah 2353 te",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 155
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6097,
+      "arabicnumber": "2351.02",
+      "text": "Bize İbnî Ebi Ömer de rivayet etti. (Dediki): Bize Bişr b. Seriy rivayet etti. (Dediki): Bize Hammâd, Ebû Cemrete'd-Dübai'den, o da İbni Abbâs'dan naklen rivayet etti. İbni Abbas şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem) kendisine vahy geldiği halde Mekke'de onüç sene, Medine'de ise on sene kaldı. Altmışüç yaşında iken de vefat etti. İzah 2353 te",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 155
+      }
+    }
+  ]
 }

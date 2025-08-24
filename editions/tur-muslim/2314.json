@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2314,
-			"arabicnumber": "997.02",
-			"text": "{…} Bana Ya'kûb b. îbrâhîm Ed -Devrakî rivayet etti. (Dediki): Bize İsmail yâni İbni Uleyye, Eyyûb'dan, o da Ebû'z - Zübeyr'den, o da Câbir'den naklen rivayet etti, Ensâr'dan Ebû Mezkûr ismini taşıyan bir zât Ya'kûb denilen bir kölesini müdebber olarak azâd etmiş... Râvi hadîsi Leys hadisi mânâsında rivayet etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2314,
+      "arabicnumber": "997.02",
+      "text": "{…} Bana Ya'kûb b. îbrâhîm Ed -Devrakî rivayet etti. (Dediki): Bize İsmail yâni İbni Uleyye, Eyyûb'dan, o da Ebû'z - Zübeyr'den, o da Câbir'den naklen rivayet etti, Ensâr'dan Ebû Mezkûr ismini taşıyan bir zât Ya'kûb denilen bir kölesini müdebber olarak azâd etmiş... Râvi hadîsi Leys hadisi mânâsında rivayet etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 51
+      }
+    }
+  ]
 }

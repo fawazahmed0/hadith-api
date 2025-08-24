@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"42": "The Book of Dreams"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 5897,
-				"hadithnumber_last": 5937,
-				"arabicnumber_first": 2261.01,
-				"arabicnumber_last": 2275
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5902,
-			"arabicnumber": "2261.06",
-			"text": "Bana Ebu't-Tâhir de rivayet etti. (Demişki): Bize Abdullah b. Vehb haber verdi. (Demişki): Bana Amr b. Haris, Abdürrahim b. Saîd'den, o da Ebû Seleme b. Abdirrahman'dan, o da Ebû Katâde'den, o da Resûlullah (Sallailahu Aleyhi ve Sellem)'den naklen haber verdi ki: «Salih rü'ya Allah'dan, kötü rü'ya ise şeytandandır. İmdi her kim bir rü'ya görür de onun bîr şeyinden hoşlanmazsa sol tarafına tükürsün ve şeytandan Allah'a sığınsın! Bu rü'ya ona zarar vermez. Onu kimseye söylemesin. Şayet iyi rü'ya görürse sevinsin. Sevdiği kimselerden başka kimseye söylemesin!» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 42,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "42": "Rü’ya"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 5897,
+        "hadithnumber_last": 5937,
+        "arabicnumber_first": 2261.01,
+        "arabicnumber_last": 2275
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5902,
+      "arabicnumber": "2261.06",
+      "text": "Bana Ebu't-Tâhir de rivayet etti. (Demişki): Bize Abdullah b. Vehb haber verdi. (Demişki): Bana Amr b. Haris, Abdürrahim b. Saîd'den, o da Ebû Seleme b. Abdirrahman'dan, o da Ebû Katâde'den, o da Resûlullah (Sallailahu Aleyhi ve Sellem)'den naklen haber verdi ki: «Salih rü'ya Allah'dan, kötü rü'ya ise şeytandandır. İmdi her kim bir rü'ya görür de onun bîr şeyinden hoşlanmazsa sol tarafına tükürsün ve şeytandan Allah'a sığınsın! Bu rü'ya ona zarar vermez. Onu kimseye söylemesin. Şayet iyi rü'ya görürse sevinsin. Sevdiği kimselerden başka kimseye söylemesin!» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 42,
+        "hadith": 6
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2763,
-			"arabicnumber": "1165.03",
-			"text": "Bana Amru'n-Nâkıd ile Züheyr b. Harb rivayet ettiler. Züheyr (Dediki): Bize Süfyan b. Uyeyne, ZÜhrî'den, o da Salim'den, o da babası (Radiyallahû anh,) dan naklen rivayet etti. Babası (Abdullah b. Ömer) şöyle demiş; Bir adam Kadir Gecesinin yirmiyedinci gece olduğunu (rüyasında) gördü. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem) : «(Kadir Gecesi hakkındaki) rüyalarımızın son on gün içinde olduğunu görüyorum. Binâenaleyh siz onu bu on günün tek gecelerinde arayın.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 269
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2763,
+      "arabicnumber": "1165.03",
+      "text": "Bana Amru'n-Nâkıd ile Züheyr b. Harb rivayet ettiler. Züheyr (Dediki): Bize Süfyan b. Uyeyne, ZÜhrî'den, o da Salim'den, o da babası (Radiyallahû anh,) dan naklen rivayet etti. Babası (Abdullah b. Ömer) şöyle demiş; Bir adam Kadir Gecesinin yirmiyedinci gece olduğunu (rüyasında) gördü. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem) : «(Kadir Gecesi hakkındaki) rüyalarımızın son on gün içinde olduğunu görüyorum. Binâenaleyh siz onu bu on günün tek gecelerinde arayın.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 269
+      }
+    }
+  ]
 }

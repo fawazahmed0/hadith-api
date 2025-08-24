@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"56": "The Book of Commentary on the Qur'an"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 7523,
-				"hadithnumber_last": 7563,
-				"arabicnumber_first": 3015,
-				"arabicnumber_last": 3033.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7546,
-			"arabicnumber": "3024.01",
-			"text": "Bİze Ebü Bekr b. Ebî Şeybe ile Harun b. Abdillah ve Abd b. Humeyd rivayet ettiler. (Abd: Ahberanâ; Ötekiler: Haddesenâ tâbirlerini kullandılar. Dedilerki): Bize Ca'fer b. Avn rivayet etti. (Dediki): Bize Ebû Umeys, Abdu'l-Mecîd b. Süheyl'den, o da Ubeydullah b. Abdullah b. Utbe'den naklen haller verdi. (Şöyle demiş): Bana İbni Abbâs: — Bilir misin (Harun, dirayetin var mı? dedi.) Kur'ân'dan son ve bütiin olarak inen sûre nedir? dedi. — Evet! «Allah'ın yardımı ve fetih geldiği vakit...» süresidir cevabını Verdim, İbni Abbâs : — Doğru söyledin, dedi, İbni Ebî Şeybe'nin rivayetinde : «Bilir misin hangi sûredir?» demiş. «Son» dememiştir",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "56": "Tefsir"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 7523,
+        "hadithnumber_last": 7563,
+        "arabicnumber_first": 3015,
+        "arabicnumber_last": 3033.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7546,
+      "arabicnumber": "3024.01",
+      "text": "Bİze Ebü Bekr b. Ebî Şeybe ile Harun b. Abdillah ve Abd b. Humeyd rivayet ettiler. (Abd: Ahberanâ; Ötekiler: Haddesenâ tâbirlerini kullandılar. Dedilerki): Bize Ca'fer b. Avn rivayet etti. (Dediki): Bize Ebû Umeys, Abdu'l-Mecîd b. Süheyl'den, o da Ubeydullah b. Abdullah b. Utbe'den naklen haller verdi. (Şöyle demiş): Bana İbni Abbâs: — Bilir misin (Harun, dirayetin var mı? dedi.) Kur'ân'dan son ve bütiin olarak inen sûre nedir? dedi. — Evet! «Allah'ın yardımı ve fetih geldiği vakit...» süresidir cevabını Verdim, İbni Abbâs : — Doğru söyledin, dedi, İbni Ebî Şeybe'nin rivayetinde : «Bilir misin hangi sûredir?» demiş. «Son» dememiştir",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 24
+      }
+    }
+  ]
 }

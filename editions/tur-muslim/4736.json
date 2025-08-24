@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"33": "The Book on Government"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 4701,
-				"hadithnumber_last": 4967,
-				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4736,
-			"arabicnumber": "1831.03",
-			"text": "Bana Ahmed b. Saîd b. Sahr Ed-Dârimî de rivayet ettiJ, (Dediki): Bize Süleyman b. Harb rivayet etti, (Dediki): Bize Hammâd (yâni İbni Zeyd) Eyyûb'dan, o da Yahya b. Saîd'den, o da Ebû Zür'a b, Amr b. Cerîr'den, o da Ebû Hureyre'den naklen rivayet etti. (Şöyle demiş) : Resûlullah (Sallallahu Aleyhi ve Sellem) hıyaneti anarak onu büyüttü. Ve râvi hadîsi kıssa eylemiştir. Hammâd: «Bilâhare Yahya'yı bu hadîsi rivayet ederken işittim. Bize Eyyub'un kendisinden rivayet ettiği gibi rivayette bulundu",
-			"grades": [],
-			"reference": {
-				"book": 33,
-				"hadith": 35
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "33": "Emirlik"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 4701,
+        "hadithnumber_last": 4967,
+        "arabicnumber_first": 1818.01,
+        "arabicnumber_last": 1928.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4736,
+      "arabicnumber": "1831.03",
+      "text": "Bana Ahmed b. Saîd b. Sahr Ed-Dârimî de rivayet ettiJ, (Dediki): Bize Süleyman b. Harb rivayet etti, (Dediki): Bize Hammâd (yâni İbni Zeyd) Eyyûb'dan, o da Yahya b. Saîd'den, o da Ebû Zür'a b, Amr b. Cerîr'den, o da Ebû Hureyre'den naklen rivayet etti. (Şöyle demiş) : Resûlullah (Sallallahu Aleyhi ve Sellem) hıyaneti anarak onu büyüttü. Ve râvi hadîsi kıssa eylemiştir. Hammâd: «Bilâhare Yahya'yı bu hadîsi rivayet ederken işittim. Bize Eyyub'un kendisinden rivayet ettiği gibi rivayette bulundu",
+      "grades": [],
+      "reference": {
+        "book": 33,
+        "hadith": 35
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2699,
-			"arabicnumber": "1149.03",
-			"text": "{…} Bize Abd b. Hameyd rivayet etti. (Dediki) Bize Abdürrazzâk haber yerdi (Dediki): Bize Sevr!, Abdullah b. Atâ'dan, o da îbni Büreyde'den, o da babası (Radiyallahû anh) 'dan naklen haber verdi. Babası: «Bir kadın Nebi (Sallallahu Aleyhi ve Sellem)'e geldi...» diyerek yukardaki hadîsin mislini rivayet etmiş ve: «Bir ayın orucu demiştir",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 205
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2699,
+      "arabicnumber": "1149.03",
+      "text": "{…} Bize Abd b. Hameyd rivayet etti. (Dediki) Bize Abdürrazzâk haber yerdi (Dediki): Bize Sevr!, Abdullah b. Atâ'dan, o da îbni Büreyde'den, o da babası (Radiyallahû anh) 'dan naklen haber verdi. Babası: «Bir kadın Nebi (Sallallahu Aleyhi ve Sellem)'e geldi...» diyerek yukardaki hadîsin mislini rivayet etmiş ve: «Bir ayın orucu demiştir",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 205
+      }
+    }
+  ]
 }

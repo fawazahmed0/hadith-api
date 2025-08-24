@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 427,
-			"arabicnumber": "169.03",
-			"text": "Bize İbnü Nümeyr rivayet etti. (Dedi ki): Bize babam rivayet etti. (Dedi ki): Bize Hanzale, Salim'den, o da İbn-i Ömer'den rivayete göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: (Rüyamda) Kabe'nin yanında buğday tenli, düz saçlı, ellerini iki adamın üzerine koymuş, saçından su dökülen -yahut su damlayan- bir adam gördüm. Bu kim diye sordum. Meryem oğlu İsa'dır yahut Meryem oğlu Mesih'tir -ravi bunlardan hangisini söylediğini bilmiyor- dediler. Arkasından ise kırmızı tenli, kıvırcık saçlı, sağ gözü kör, gördüklerim arasında en çok İbn Katan'ın kendisine benzediği bir adam daha gördüm. Bu kimdir dedim. Bu Mesih Deccal'dir dediler. \" Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 6755 409 – 429 NEVEVİ ŞERHİ VE 424 – 429 DAVUDOĞLU ŞERHİ 172.sayfada",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 332
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 427,
+      "arabicnumber": "169.03",
+      "text": "Bize İbnü Nümeyr rivayet etti. (Dedi ki): Bize babam rivayet etti. (Dedi ki): Bize Hanzale, Salim'den, o da İbn-i Ömer'den rivayete göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: (Rüyamda) Kabe'nin yanında buğday tenli, düz saçlı, ellerini iki adamın üzerine koymuş, saçından su dökülen -yahut su damlayan- bir adam gördüm. Bu kim diye sordum. Meryem oğlu İsa'dır yahut Meryem oğlu Mesih'tir -ravi bunlardan hangisini söylediğini bilmiyor- dediler. Arkasından ise kırmızı tenli, kıvırcık saçlı, sağ gözü kör, gördüklerim arasında en çok İbn Katan'ın kendisine benzediği bir adam daha gördüm. Bu kimdir dedim. Bu Mesih Deccal'dir dediler. \" Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 6755 409 – 429 NEVEVİ ŞERHİ VE 424 – 429 DAVUDOĞLU ŞERHİ 172.sayfada",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 332
+      }
+    }
+  ]
 }

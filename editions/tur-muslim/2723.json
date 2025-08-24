@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2723,
-			"arabicnumber": "782.03",
-			"text": "Bize İshâk b. İbrahim rivayet etti. (Dediki) Bize Muâz b. Hişâm haber verdi (Dediki): Bana babam, Yahya b. Ebi Kesir'den rivayet etti. (Demişki): Bize Ebû Seleme, Âişe (Radiyallahû anha)'dan naklen rivayet etti. Âişe şöyle demiş . «Resulullah (Sallallahu Aleyhi ve Sellem) senenin hiç bir ayında Şa'ban uyındakinden daha fazla oruç tutmaz, ve: — Amellerden gücünüzün yetebileceğini yapın. Çünkü siz bıkmadıkça Allah da asla bıkmaz, buyurur bir de şunu söyledi: — Allah indinde amelin en makbulü sahibinin az da olsa davam üzere işlediği ameldir.»",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 229
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2723,
+      "arabicnumber": "782.03",
+      "text": "Bize İshâk b. İbrahim rivayet etti. (Dediki) Bize Muâz b. Hişâm haber verdi (Dediki): Bana babam, Yahya b. Ebi Kesir'den rivayet etti. (Demişki): Bize Ebû Seleme, Âişe (Radiyallahû anha)'dan naklen rivayet etti. Âişe şöyle demiş . «Resulullah (Sallallahu Aleyhi ve Sellem) senenin hiç bir ayında Şa'ban uyındakinden daha fazla oruç tutmaz, ve: — Amellerden gücünüzün yetebileceğini yapın. Çünkü siz bıkmadıkça Allah da asla bıkmaz, buyurur bir de şunu söyledi: — Allah indinde amelin en makbulü sahibinin az da olsa davam üzere işlediği ameldir.»",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 229
+      }
+    }
+  ]
 }

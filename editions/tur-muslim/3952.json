@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3952,
-			"arabicnumber": "1547.12",
-			"text": "Bize İsha rivayet etti. (Dediki): Bize îsâ b. Yûnus haber verdi, (Dediki): Bize Evzâî, Rabîa b. Ebî Abdirrahmân'dan rivayet etti. (Demişki): Bana Hanzale b. Kays el-Ensârî rivayet etti. (Dediki): Râfi' b. Hadic'e arazîyi altın ve gümüşle kâr meselesini sordum da : Onda bir beis yoktur; halk Nebi (Sallallahu Aleyhi ve Sellem) zamanında su boyları, ark başları tarla sahiplerine tahsis edilmek veya ekinden bîr şeyler vermek şartiyle îcâr yaparlar; kimi birine aid olan yer telef olur, ötekinin hissesi selâmette kalır; kimi ötekinin hissesi kurtulur, berikininki telef olurdu. Halk için bundan başka îcâr şekli yoktu îşte bu sebepten dolayı ondan nehî buyuruldu. Ama malûm ve garantili bir şey olursa onda beis yoktur, dedi",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 151
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3952,
+      "arabicnumber": "1547.12",
+      "text": "Bize İsha rivayet etti. (Dediki): Bize îsâ b. Yûnus haber verdi, (Dediki): Bize Evzâî, Rabîa b. Ebî Abdirrahmân'dan rivayet etti. (Demişki): Bana Hanzale b. Kays el-Ensârî rivayet etti. (Dediki): Râfi' b. Hadic'e arazîyi altın ve gümüşle kâr meselesini sordum da : Onda bir beis yoktur; halk Nebi (Sallallahu Aleyhi ve Sellem) zamanında su boyları, ark başları tarla sahiplerine tahsis edilmek veya ekinden bîr şeyler vermek şartiyle îcâr yaparlar; kimi birine aid olan yer telef olur, ötekinin hissesi selâmette kalır; kimi ötekinin hissesi kurtulur, berikininki telef olurdu. Halk için bundan başka îcâr şekli yoktu îşte bu sebepten dolayı ondan nehî buyuruldu. Ama malûm ve garantili bir şey olursa onda beis yoktur, dedi",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 151
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"34": "The Book of Hunting, Slaughter, and what may be Eaten"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4972,
-				"hadithnumber_last": 5063,
-				"arabicnumber_first": 1929.01,
-				"arabicnumber_last": 1959
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5052,
-			"arabicnumber": "1954.03",
-			"text": "Bize Muhammed b. Müsennâ da rivayet etti. (Dediki): Bize Muhammed b. Ca'fer ile Abdurralıman b. Mehdî rivayet ettiler. (Dedilerki): Bize Şu'be Katade'den, o da Ukbe b. Suhban'dan, o da Abdullah b. Mugaffel'den naklen rivayet etti. Şöyle demiş: — Resûlullah (Sallallahu Aleyhi ve Sellem) ufak taş atmaktan nehiy buyurdu. ibnü Ca'fer kendi hadîsinde şöyle demiştir: «Dediki: Çünkü bu taş ne düşmanı bozguna uğratır. Ne de avı öldürür; Lâkin o dişi kırar ve gözü çıkarır.» ibni Mehdî ise: «Bu taşlar düşmanı bozguna uğratamaz» demiş, «Gözü çıkarır» kaydını anmamıştır",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 81
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "34": "Av, Kesilen Ve Eti Yenen Hayvanlar Bahsi"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4972,
+        "hadithnumber_last": 5063,
+        "arabicnumber_first": 1929.01,
+        "arabicnumber_last": 1959
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5052,
+      "arabicnumber": "1954.03",
+      "text": "Bize Muhammed b. Müsennâ da rivayet etti. (Dediki): Bize Muhammed b. Ca'fer ile Abdurralıman b. Mehdî rivayet ettiler. (Dedilerki): Bize Şu'be Katade'den, o da Ukbe b. Suhban'dan, o da Abdullah b. Mugaffel'den naklen rivayet etti. Şöyle demiş: — Resûlullah (Sallallahu Aleyhi ve Sellem) ufak taş atmaktan nehiy buyurdu. ibnü Ca'fer kendi hadîsinde şöyle demiştir: «Dediki: Çünkü bu taş ne düşmanı bozguna uğratır. Ne de avı öldürür; Lâkin o dişi kırar ve gözü çıkarır.» ibni Mehdî ise: «Bu taşlar düşmanı bozguna uğratamaz» demiş, «Gözü çıkarır» kaydını anmamıştır",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 81
+      }
+    }
+  ]
 }

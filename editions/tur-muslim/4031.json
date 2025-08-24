@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4031,
-			"arabicnumber": "1575.02",
-			"text": "Bize Abd b. Humeyd rivayet etti. (Dediki); Bize Abdurrezzâk rivayet etti. (Dediki): Bize Ma'mer, Zührî'den, o da Ebû Seleme'den, o da Ebû Hureyre'den naklen haber verdi. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Koyun, av veya ekinlik köpeği müstesna, bir kimse köpek edinirse ecrinden her gün bir kırât eksilir.» buyurdular. Zührî şunu söylemiş: «İbni Ömer'e Ebû Hureyre'nin sözünü andılar da: Allah Ebû Hureyre'ye rahmet eylesin, ziraat sahibi idi; dedi.»",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 70
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4031,
+      "arabicnumber": "1575.02",
+      "text": "Bize Abd b. Humeyd rivayet etti. (Dediki); Bize Abdurrezzâk rivayet etti. (Dediki): Bize Ma'mer, Zührî'den, o da Ebû Seleme'den, o da Ebû Hureyre'den naklen haber verdi. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Koyun, av veya ekinlik köpeği müstesna, bir kimse köpek edinirse ecrinden her gün bir kırât eksilir.» buyurdular. Zührî şunu söylemiş: «İbni Ömer'e Ebû Hureyre'nin sözünü andılar da: Allah Ebû Hureyre'ye rahmet eylesin, ziraat sahibi idi; dedi.»",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 70
+      }
+    }
+  ]
 }

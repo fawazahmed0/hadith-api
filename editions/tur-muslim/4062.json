@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4062,
-			"arabicnumber": "1587.02",
-			"text": "{…} Bize İshâk b. İbrahim ile İbni Ebî Ömer beraberce Abdülvehhâb es-Sekafî'den, o da Eyyub'dan bu isnadla bu hadîsin benzerini rivayet ettiler",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 101
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4062,
+      "arabicnumber": "1587.02",
+      "text": "{…} Bize İshâk b. İbrahim ile İbni Ebî Ömer beraberce Abdülvehhâb es-Sekafî'den, o da Eyyub'dan bu isnadla bu hadîsin benzerini rivayet ettiler",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 101
+      }
+    }
+  ]
 }

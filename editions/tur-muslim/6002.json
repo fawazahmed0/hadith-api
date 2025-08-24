@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6002,
-			"text": "Bana Velîd b. Şüca' b. Velid Es-Sekûnî rivayet etti. (Dediki): Bana babam Rahimehullah rivayet etti. (Dediki): Bana Ziyad b. Hayseme, Simak b. Harb'den, o da Câbir b. Semura'dan, o da Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Şöyle buyurmuşlar: «Dikkat! Ben sizin için havzın başına önce varacağım. Onun iki tarafının mesafesi, San'a ile Eyle arası gibidir. Ondaki ibrikler sanki yıldızlardır.»",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6002,
+      "text": "Bana Velîd b. Şüca' b. Velid Es-Sekûnî rivayet etti. (Dediki): Bana babam Rahimehullah rivayet etti. (Dediki): Bana Ziyad b. Hayseme, Simak b. Harb'den, o da Câbir b. Semura'dan, o da Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Şöyle buyurmuşlar: «Dikkat! Ben sizin için havzın başına önce varacağım. Onun iki tarafının mesafesi, San'a ile Eyle arası gibidir. Ondaki ibrikler sanki yıldızlardır.»",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 443,
-			"arabicnumber": "178.01",
-			"text": "Bize Ebu Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki', Yezid b. İbrahim'den, o da Katade'den, o da Abdullah b. Şaktk'ten, o da Ebu Zerr'den naklen rivayet etti. Ebu Zerr dedi ki: Resulullah (Sallallahu aleyhi ve Sellem)'e: Rabbini gördün mü, dedim. O: \"(O) bir nurdur, onu nasıl görebilirim\" buyurdu. Diğer tahric: Tirmizi, 3282; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 348
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 443,
+      "arabicnumber": "178.01",
+      "text": "Bize Ebu Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki', Yezid b. İbrahim'den, o da Katade'den, o da Abdullah b. Şaktk'ten, o da Ebu Zerr'den naklen rivayet etti. Ebu Zerr dedi ki: Resulullah (Sallallahu aleyhi ve Sellem)'e: Rabbini gördün mü, dedim. O: \"(O) bir nurdur, onu nasıl görebilirim\" buyurdu. Diğer tahric: Tirmizi, 3282; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 348
+      }
+    }
+  ]
 }

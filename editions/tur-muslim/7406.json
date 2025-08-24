@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7406,
-			"arabicnumber": "2951.03",
-			"text": "{m-134} Bize Ubeydullah b. Muâz da rivayet etti. (Dediki): Bize babam rivayet etti. H. Bize Muhammed b. Velid dahi rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. Her iki râvi demişler ki: Bize Şu'be, Ebû't-Teyyah'dan, o da Enes'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu isnadla rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 167
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7406,
+      "arabicnumber": "2951.03",
+      "text": "{m-134} Bize Ubeydullah b. Muâz da rivayet etti. (Dediki): Bize babam rivayet etti. H. Bize Muhammed b. Velid dahi rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. Her iki râvi demişler ki: Bize Şu'be, Ebû't-Teyyah'dan, o da Enes'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu isnadla rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 167
+      }
+    }
+  ]
 }

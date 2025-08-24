@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2738,
-			"arabicnumber": "1159.10",
-			"text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki) Bize Süfyân b. Uyeyne, Amr'dan, o da Ebu'l-Abbâs'dan, o da Abdullah b. Amr (Radiyallahu anhûma)'dan naklen rivayet eyledi. Amr şöyle demiş: Bana Resulullah (Sallallahu Aleyhi ve Sellem): — Senin geceleyin namaz kıldığını, gündüzleyin de oruç tuttuğunu ben haber almadım mı sanıyorsun? dedi. — Ben bunu yapıyorum, dedim. — Ama sen bunu yaparsan gözlerin obalır, nefsin bîtab düşer. Gözünün bir hakkı vardır, nefsinin hakkı vardı, ailenin de bir hakkı vardır. Kimi namaz kıl, kimi uyu, kâh oruç tut, kâh tutma, buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 244
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2738,
+      "arabicnumber": "1159.10",
+      "text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki) Bize Süfyân b. Uyeyne, Amr'dan, o da Ebu'l-Abbâs'dan, o da Abdullah b. Amr (Radiyallahu anhûma)'dan naklen rivayet eyledi. Amr şöyle demiş: Bana Resulullah (Sallallahu Aleyhi ve Sellem): — Senin geceleyin namaz kıldığını, gündüzleyin de oruç tuttuğunu ben haber almadım mı sanıyorsun? dedi. — Ben bunu yapıyorum, dedim. — Ama sen bunu yaparsan gözlerin obalır, nefsin bîtab düşer. Gözünün bir hakkı vardır, nefsinin hakkı vardı, ailenin de bir hakkı vardır. Kimi namaz kıl, kimi uyu, kâh oruç tut, kâh tutma, buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 244
+      }
+    }
+  ]
 }

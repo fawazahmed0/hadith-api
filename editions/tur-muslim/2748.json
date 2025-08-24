@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2748,
-			"arabicnumber": "1162.03",
-			"text": "{…} Bize bu hadîsi Ubeydullah b. Muâz dahî rivayet etti. (Dedikî): Bize babam rivayet etti. H. Bize Ebû Bekir b. Ebî Şeybe de rivâyet etti. (Dedikî): Bize Şebabe rivayet etti. H. Bize İshâk b. İbrahim dahî rivayet etti. (Dediki) Bize Nadr b. Şumeyl haber verdi. Bu râvilerin hepsi Şu'be'den bu isnâdla rivayette bulunmuşlardır",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 254
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2748,
+      "arabicnumber": "1162.03",
+      "text": "{…} Bize bu hadîsi Ubeydullah b. Muâz dahî rivayet etti. (Dedikî): Bize babam rivayet etti. H. Bize Ebû Bekir b. Ebî Şeybe de rivâyet etti. (Dedikî): Bize Şebabe rivayet etti. H. Bize İshâk b. İbrahim dahî rivayet etti. (Dediki) Bize Nadr b. Şumeyl haber verdi. Bu râvilerin hepsi Şu'be'den bu isnâdla rivayette bulunmuşlardır",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 254
+      }
+    }
+  ]
 }

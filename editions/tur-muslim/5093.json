@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"35": "The Book of Sacrifices"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 5064,
-				"hadithnumber_last": 5126,
-				"arabicnumber_first": 1960.01,
-				"arabicnumber_last": 1978.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5093,
-			"arabicnumber": "1968.02",
-			"text": "Bize İshak b. İbrahim de rivayet etti. (Dediki): Bize Veki haber verdi. (Dediki): Bize Süfyan b. Saîd b. Mesrûk, babasından, o da Abâye b. Rifâa b. Râfi b. Hadîc'den. o da Râfi' b. Hadîc'den naklen rivayet etti. Şöyle demiş. Resulullah (Sallallahu Aleyhi ve Sellem)'le birlikte Tihâme'den (Madrid) Zülhuleyfe'de idik. Ve birkaç koyunla deve ele geçirdik. Derken cemâat acele ederek onlarla çömlekleri kaynattılar. Nebi (Sallallahu Aleyhi ve Sellem) Efendiimiz de emir vererek çömlekler döküldü, sonra on koyun yerine bir deve yavrusu verdi. Râvi hadîsin geri kalanur: Yahya b. Saîd'in hadîsi gibi anlatmıştır",
-			"grades": [],
-			"reference": {
-				"book": 35,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "35": "Kurbanlar"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 5064,
+        "hadithnumber_last": 5126,
+        "arabicnumber_first": 1960.01,
+        "arabicnumber_last": 1978.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5093,
+      "arabicnumber": "1968.02",
+      "text": "Bize İshak b. İbrahim de rivayet etti. (Dediki): Bize Veki haber verdi. (Dediki): Bize Süfyan b. Saîd b. Mesrûk, babasından, o da Abâye b. Rifâa b. Râfi b. Hadîc'den. o da Râfi' b. Hadîc'den naklen rivayet etti. Şöyle demiş. Resulullah (Sallallahu Aleyhi ve Sellem)'le birlikte Tihâme'den (Madrid) Zülhuleyfe'de idik. Ve birkaç koyunla deve ele geçirdik. Derken cemâat acele ederek onlarla çömlekleri kaynattılar. Nebi (Sallallahu Aleyhi ve Sellem) Efendiimiz de emir vererek çömlekler döküldü, sonra on koyun yerine bir deve yavrusu verdi. Râvi hadîsin geri kalanur: Yahya b. Saîd'in hadîsi gibi anlatmıştır",
+      "grades": [],
+      "reference": {
+        "book": 35,
+        "hadith": 30
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5258,
-			"arabicnumber": "2016",
-			"text": "Bize Saîd b. Amr EI-Eş'asî ile Ebû Bekr b. Ebî Şeybe, Muhammed b. Abdillah b. Numeyr, EBû Amir EI-Eş'arî ve Ebû Kureyb rivayet ettiler. Lâfız Ebû Âmir'indir. (Dedilerki): Bize Ebû Usâme, Kureyb'den, o da Ebû Bürde'den, o da Ebû Musa'dan naklen rivayet etti. şŞöyle demiş): Medine'de bir ev geceleyin sâhiblerinîn üzerine yandı. Bunların hali Nebi (Sallallahu Aleyhi ve Sellem)'e anlatılınca: «Şüphesiz ki bu ateş size ancak düşmandır. O halde uyuduğunuz zaman onu yanınızdan söndürün!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 132
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5258,
+      "arabicnumber": "2016",
+      "text": "Bize Saîd b. Amr EI-Eş'asî ile Ebû Bekr b. Ebî Şeybe, Muhammed b. Abdillah b. Numeyr, EBû Amir EI-Eş'arî ve Ebû Kureyb rivayet ettiler. Lâfız Ebû Âmir'indir. (Dedilerki): Bize Ebû Usâme, Kureyb'den, o da Ebû Bürde'den, o da Ebû Musa'dan naklen rivayet etti. şŞöyle demiş): Medine'de bir ev geceleyin sâhiblerinîn üzerine yandı. Bunların hali Nebi (Sallallahu Aleyhi ve Sellem)'e anlatılınca: «Şüphesiz ki bu ateş size ancak düşmandır. O halde uyuduğunuz zaman onu yanınızdan söndürün!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 132
+      }
+    }
+  ]
 }

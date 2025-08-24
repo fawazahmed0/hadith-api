@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2984,
-			"arabicnumber": "1229.01",
-			"text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Mâlik'e Nâfi'den dinlediğim, onun da Abdullah b. Ömer'den naklen rivayet ettiği şu hadîsi okudum: Nebi {Sallallahu Aleyhi ve Sellem)'in zevcesi Hafsa (Radiyallahu anha) : «Yâ Resûlallah! Bu insanlara ne oluyorki, sen Umrenden hille çıkmadığın hâlde ihramdan çıktılar?» demiş. Resulullah {Sallallahu Aleyhi ve Sellem): «Ben, başımı keçelerim, kurbanıma nişan da taktım. Binâenaleyh kurban kesmeden hille çıkamam.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 192
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2984,
+      "arabicnumber": "1229.01",
+      "text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Mâlik'e Nâfi'den dinlediğim, onun da Abdullah b. Ömer'den naklen rivayet ettiği şu hadîsi okudum: Nebi {Sallallahu Aleyhi ve Sellem)'in zevcesi Hafsa (Radiyallahu anha) : «Yâ Resûlallah! Bu insanlara ne oluyorki, sen Umrenden hille çıkmadığın hâlde ihramdan çıktılar?» demiş. Resulullah {Sallallahu Aleyhi ve Sellem): «Ben, başımı keçelerim, kurbanıma nişan da taktım. Binâenaleyh kurban kesmeden hille çıkamam.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 192
+      }
+    }
+  ]
 }

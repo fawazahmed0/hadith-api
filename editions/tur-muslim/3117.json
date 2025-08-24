@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3117,
-			"arabicnumber": "1289.02",
-			"text": "{…} Bize Osman b. Ebî Şeybe ile İshâk b. İbrahim hep birden Ceıir'den, o da A'meş'den bu isnâdla rivayet ettiler. Abdullah: «Sabah namazını vaktinden önce alaca karanlıkta kıldı.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 321
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3117,
+      "arabicnumber": "1289.02",
+      "text": "{…} Bize Osman b. Ebî Şeybe ile İshâk b. İbrahim hep birden Ceıir'den, o da A'meş'den bu isnâdla rivayet ettiler. Abdullah: «Sabah namazını vaktinden önce alaca karanlıkta kıldı.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 321
+      }
+    }
+  ]
 }

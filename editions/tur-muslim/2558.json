@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2558,
-			"arabicnumber": "1100",
-			"text": "Bize Yahya b. Yahya ile Ebû Kureyb ve İbni Numeyr rivayet ettiler. Hepsinln lâfizları birdir. Yahya: «Bize Ebû Muâviye haber verdi. dedi, İbni Numeyr: «Bize babam rivayet etti.», Ebû Kureyb ise «Bize Ebû Usâme rivayet etti.» dediler. Bu râviler toptan Hişâm b. Urve'den, o da babasından, o da Âsim b. Ömer'den, o da Ömer (Radiyallahu anh)'dan naklen rivayette bulundular. Ömer (Radiyallahu anh) şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Gece geldi de gündüz gitti ve güneş kayboldu mu oruçlu iftar eder.» buyurdular. İbn-i Numeyr: «Fakat» kelimesini zikretmedi",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2558,
+      "arabicnumber": "1100",
+      "text": "Bize Yahya b. Yahya ile Ebû Kureyb ve İbni Numeyr rivayet ettiler. Hepsinln lâfizları birdir. Yahya: «Bize Ebû Muâviye haber verdi. dedi, İbni Numeyr: «Bize babam rivayet etti.», Ebû Kureyb ise «Bize Ebû Usâme rivayet etti.» dediler. Bu râviler toptan Hişâm b. Urve'den, o da babasından, o da Âsim b. Ömer'den, o da Ömer (Radiyallahu anh)'dan naklen rivayette bulundular. Ömer (Radiyallahu anh) şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Gece geldi de gündüz gitti ve güneş kayboldu mu oruçlu iftar eder.» buyurdular. İbn-i Numeyr: «Fakat» kelimesini zikretmedi",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 64
+      }
+    }
+  ]
 }

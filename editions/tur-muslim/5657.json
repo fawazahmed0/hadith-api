@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5657,
-			"arabicnumber": "2165.02",
-			"text": "{m-10} Bize bu hadîsi Hasen b. Ali El-Hulvânî ile Ahd b. Humeyd hep birden Ya'kûb b. İbrahim b. Sa'd'dan rivayet ettiler. (Demişki): Bize babam Sâlih'den rivayet etti. H. Bize Abd b. Humeyd de rivayet etti. (Dediki): Bize Abdürezzâk haber verdi. (Dediki): Bize Ma'mer haber verdi. Her iki râvî Zührî'den bu isnadla rivayet etmişlerdir. Her İkisinin hadîsinde de: «Resûlullah (Sallallahu Aleyhi ve Sellem): «Ben \"aleyküm\" dedim.» buyurdular» ibaresi vardır. (Vav)'i anmamışlardır",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5657,
+      "arabicnumber": "2165.02",
+      "text": "{m-10} Bize bu hadîsi Hasen b. Ali El-Hulvânî ile Ahd b. Humeyd hep birden Ya'kûb b. İbrahim b. Sa'd'dan rivayet ettiler. (Demişki): Bize babam Sâlih'den rivayet etti. H. Bize Abd b. Humeyd de rivayet etti. (Dediki): Bize Abdürezzâk haber verdi. (Dediki): Bize Ma'mer haber verdi. Her iki râvî Zührî'den bu isnadla rivayet etmişlerdir. Her İkisinin hadîsinde de: «Resûlullah (Sallallahu Aleyhi ve Sellem): «Ben \"aleyküm\" dedim.» buyurdular» ibaresi vardır. (Vav)'i anmamışlardır",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 12
+      }
+    }
+  ]
 }

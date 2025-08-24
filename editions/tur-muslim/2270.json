@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2270,
-			"arabicnumber": "979.08",
-			"text": "{…} Bana Muhammed b. Rafi' rivayet etti. (Dediki): Bize Abdurrazzâk rivayet etti. (Dediki): Bize Sevrî ile Ma'mer, İsmâil b. Ümeyye'den bu isnâdla İbni Mehdî ve Yahya b. Âdem hadîsi gibi haber verdi. Yalnız o «Hurma» yerine «Yemiş» demiştir. İzah 980 de",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2270,
+      "arabicnumber": "979.08",
+      "text": "{…} Bana Muhammed b. Rafi' rivayet etti. (Dediki): Bize Abdurrazzâk rivayet etti. (Dediki): Bize Sevrî ile Ma'mer, İsmâil b. Ümeyye'den bu isnâdla İbni Mehdî ve Yahya b. Âdem hadîsi gibi haber verdi. Yalnız o «Hurma» yerine «Yemiş» demiştir. İzah 980 de",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 8
+      }
+    }
+  ]
 }

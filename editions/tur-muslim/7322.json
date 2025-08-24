@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7322,
-			"arabicnumber": "2916.01",
-			"text": "Bana Muhammed b. Anır b. Cebele de rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bize Ukbe b. Mükrem EI-Ammî ile Ebû Bekir b. Nâfi' dahî rivayet ettiler. (Ukbe: Haddesenâ; Ebû Bekr ise: Ahberanâ tâbirlerini kullandılar. Dedilerki): Bize Gunder haber verdi. (Dediki): Bize Şu'be rivayet etti. (Dediki): Hâlid'i, Saîd b. Ebi'i-Hasen'den, o da annesinden, o da Ümmü Seleme'den naklen rivayet ederken dinledim ki : ResûluIIah (Sailallahu Aleyhi ve Sellem) Ammar'a : «Seni azgın çete öldürecektir.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 88
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7322,
+      "arabicnumber": "2916.01",
+      "text": "Bana Muhammed b. Anır b. Cebele de rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bize Ukbe b. Mükrem EI-Ammî ile Ebû Bekir b. Nâfi' dahî rivayet ettiler. (Ukbe: Haddesenâ; Ebû Bekr ise: Ahberanâ tâbirlerini kullandılar. Dedilerki): Bize Gunder haber verdi. (Dediki): Bize Şu'be rivayet etti. (Dediki): Hâlid'i, Saîd b. Ebi'i-Hasen'den, o da annesinden, o da Ümmü Seleme'den naklen rivayet ederken dinledim ki : ResûluIIah (Sailallahu Aleyhi ve Sellem) Ammar'a : «Seni azgın çete öldürecektir.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 88
+      }
+    }
+  ]
 }

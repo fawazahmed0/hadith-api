@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5816,
-			"arabicnumber": "2228.01",
-			"text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrezzâk haber verdi. (Dediki): Bize Ma'mer Zührî'den, o da Yahya b. Urve b. Zübeyr'den, o da babasından, o da Âİşe'den naklen haber ver­di. Âişe şöyle demiş: Ben : — Yâ Resûlallah! Kâhinler bize bir şey söyler de onu hakikat bulurduk, dedim. «Bu doğru olan sözdür, onu cinni kapar da velîsinin kulağına atar; ona yüz tane de yalan katar.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 168
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5816,
+      "arabicnumber": "2228.01",
+      "text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrezzâk haber verdi. (Dediki): Bize Ma'mer Zührî'den, o da Yahya b. Urve b. Zübeyr'den, o da babasından, o da Âİşe'den naklen haber ver­di. Âişe şöyle demiş: Ben : — Yâ Resûlallah! Kâhinler bize bir şey söyler de onu hakikat bulurduk, dedim. «Bu doğru olan sözdür, onu cinni kapar da velîsinin kulağına atar; ona yüz tane de yalan katar.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 168
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"41": "The Book of Poetry"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 5887,
-				"hadithnumber_last": 5896,
-				"arabicnumber_first": 2255.03,
-				"arabicnumber_last": 2260
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5895,
-			"arabicnumber": "2259",
-			"text": "Bize Kuteybe b. Saîd Es-Sekafî rivayet etti. (Dediki): Bize Leys, İbnü'l-Hâd'dan, o da Mus'ab b. Zübeyr'in azatlısı Yuhannis'den, o da Ebû Saîdi Hudrî'den, naklen rivayet etti. Ebû Saîd şöyle demiş: Bir defa biz Arc denilen yerde Resûlullah (Sallallahu Aleyhi ve Sellem) ile birlikte yürürken aniden önümüze şiir okuyan bir şâir çıktı. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem): «Bu şeytanı alın! Yahut bu şeytanı tutun! Bir adamın içinin İrinle dolması, şiirle dolmasından kendisi için daha hayırlıdır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 41,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "41": "Şiir"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 5887,
+        "hadithnumber_last": 5896,
+        "arabicnumber_first": 2255.03,
+        "arabicnumber_last": 2260
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5895,
+      "arabicnumber": "2259",
+      "text": "Bize Kuteybe b. Saîd Es-Sekafî rivayet etti. (Dediki): Bize Leys, İbnü'l-Hâd'dan, o da Mus'ab b. Zübeyr'in azatlısı Yuhannis'den, o da Ebû Saîdi Hudrî'den, naklen rivayet etti. Ebû Saîd şöyle demiş: Bir defa biz Arc denilen yerde Resûlullah (Sallallahu Aleyhi ve Sellem) ile birlikte yürürken aniden önümüze şiir okuyan bir şâir çıktı. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem): «Bu şeytanı alın! Yahut bu şeytanı tutun! Bir adamın içinin İrinle dolması, şiirle dolmasından kendisi için daha hayırlıdır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 41,
+        "hadith": 10
+      }
+    }
+  ]
 }

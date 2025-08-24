@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6181,
-			"arabicnumber": "2387",
-			"text": "Bize Ubeydullah b. Said rivayet etti. (Dediki): Bize Yezid b. Hârun rivayet etti. (Dediki): Bize İbrahim, b. Sa'd haber verdi. (Dediki): Bize Salih b. Keysan, Zühri'den, o da Urve'den, o da Âişe'den naklen rivayet etti. Âişe şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) hastalığında bana şöyle buyurdu: «Bana Ebu Bekr'i ve kardeşini çağır da bir yazı yazacağım. Çünkü ben bir arzukeşin temenni etmesinden ve birinin: Ben daha lâyıkım, demesinden korkarım. —Halbuki bunu Allah ve mü'minler kabul etmez.— Yalnız Ebû Bekr müstesna!»",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6181,
+      "arabicnumber": "2387",
+      "text": "Bize Ubeydullah b. Said rivayet etti. (Dediki): Bize Yezid b. Hârun rivayet etti. (Dediki): Bize İbrahim, b. Sa'd haber verdi. (Dediki): Bize Salih b. Keysan, Zühri'den, o da Urve'den, o da Âişe'den naklen rivayet etti. Âişe şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) hastalığında bana şöyle buyurdu: «Bana Ebu Bekr'i ve kardeşini çağır da bir yazı yazacağım. Çünkü ben bir arzukeşin temenni etmesinden ve birinin: Ben daha lâyıkım, demesinden korkarım. —Halbuki bunu Allah ve mü'minler kabul etmez.— Yalnız Ebû Bekr müstesna!»",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 12
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"29": "The Book of Legal Punishments"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 4398,
-				"hadithnumber_last": 4469,
-				"arabicnumber_first": 1684.01,
-				"arabicnumber_last": 1710.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4454,
-			"arabicnumber": "1706.03",
-			"text": "Bize Muhammed b. EI-Müsennâ rivayet etti. (Dediki): Bize Muâz b. Hişâm rivayet etti. (Dediki): Bana babam, Katâde'den, o da Enes b. Mâlik'den naklen rivayet etti ki, Nebiyyullah (Sallallahu Aleyhi ve Sellem) şarap hakkında hurma dalları ve ayakkaplan ile had vurmuş. Sonra Ebû Bekir 40 değnek hadd vurmuş. Ömer halîfe olup insanlar verimli yerlere ve köylere sarkınca: — Şarabın haddi hususunda ne diyorsunuz? diye sormuş. Abdurrahmân b. Avf: — Onu cezaların en hafifi gibi yapman fikrindeyim; demiş. Enes: Ömer de 80 değnek hadd vurdu; demiş",
-			"grades": [],
-			"reference": {
-				"book": 29,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "29": "Hudûd"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 4398,
+        "hadithnumber_last": 4469,
+        "arabicnumber_first": 1684.01,
+        "arabicnumber_last": 1710.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4454,
+      "arabicnumber": "1706.03",
+      "text": "Bize Muhammed b. EI-Müsennâ rivayet etti. (Dediki): Bize Muâz b. Hişâm rivayet etti. (Dediki): Bana babam, Katâde'den, o da Enes b. Mâlik'den naklen rivayet etti ki, Nebiyyullah (Sallallahu Aleyhi ve Sellem) şarap hakkında hurma dalları ve ayakkaplan ile had vurmuş. Sonra Ebû Bekir 40 değnek hadd vurmuş. Ömer halîfe olup insanlar verimli yerlere ve köylere sarkınca: — Şarabın haddi hususunda ne diyorsunuz? diye sormuş. Abdurrahmân b. Avf: — Onu cezaların en hafifi gibi yapman fikrindeyim; demiş. Enes: Ömer de 80 değnek hadd vurdu; demiş",
+      "grades": [],
+      "reference": {
+        "book": 29,
+        "hadith": 57
+      }
+    }
+  ]
 }

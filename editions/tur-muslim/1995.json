@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"7": "The Book of Prayer - Friday"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1951,
-				"hadithnumber_last": 2043,
-				"arabicnumber_first": 844.01,
-				"arabicnumber_last": 883.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1995,
-			"arabicnumber": "862.01",
-			"text": "Bize Yahya b. Yahya ile Hasanu'bnü'r-Rabî' ve Ebû Bekir b. Ebî Şeybe rivâyet ettiler. Yahya (Bize haber verdi.) tâbirini kullandı. Ötekiler: Bize Ebû'I-Ahvas, Simâk'den, o da Câbir b. Semura'dan naklen rivayet etti. dediler. Câbir : «Nebi (Sallallahu Aleyhi Sellem)'in iki hutbesi vardı. Aralarında oturur; Kur'ân okur ve cemaata hatırlatma yapardı.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 7,
-				"hadith": 45
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "7": "Cuma"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1951,
+        "hadithnumber_last": 2043,
+        "arabicnumber_first": 844.01,
+        "arabicnumber_last": 883.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1995,
+      "arabicnumber": "862.01",
+      "text": "Bize Yahya b. Yahya ile Hasanu'bnü'r-Rabî' ve Ebû Bekir b. Ebî Şeybe rivâyet ettiler. Yahya (Bize haber verdi.) tâbirini kullandı. Ötekiler: Bize Ebû'I-Ahvas, Simâk'den, o da Câbir b. Semura'dan naklen rivayet etti. dediler. Câbir : «Nebi (Sallallahu Aleyhi Sellem)'in iki hutbesi vardı. Aralarında oturur; Kur'ân okur ve cemaata hatırlatma yapardı.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 7,
+        "hadith": 45
+      }
+    }
+  ]
 }

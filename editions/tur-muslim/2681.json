@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2681,
-			"arabicnumber": "1143.01",
-			"text": "Bize Amru'n-Nâkıd rivayet etti. (Dediki): Bize Sufyân b. Uyeyne, Abdülhamid b. Cübeyr'den, o da Muhammed b. Abbâd b. Ca'fer'den naklen rivayet etti. (Demişki): Câbir b. Abdullah (Radiyallahu anhuma)'ya Kabe'yi tavaf ederken: — «Resûlullah (Sallallahu Aleyhi ve Sellem) cuma günü oruç tutmaktan nehi buyurdu mu ? diye sordu. — «Evet, şu beytin Rabbine yemin olsun (nehyetti.) dedi",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 187
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2681,
+      "arabicnumber": "1143.01",
+      "text": "Bize Amru'n-Nâkıd rivayet etti. (Dediki): Bize Sufyân b. Uyeyne, Abdülhamid b. Cübeyr'den, o da Muhammed b. Abbâd b. Ca'fer'den naklen rivayet etti. (Demişki): Câbir b. Abdullah (Radiyallahu anhuma)'ya Kabe'yi tavaf ederken: — «Resûlullah (Sallallahu Aleyhi ve Sellem) cuma günü oruç tutmaktan nehi buyurdu mu ? diye sordu. — «Evet, şu beytin Rabbine yemin olsun (nehyetti.) dedi",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 187
+      }
+    }
+  ]
 }

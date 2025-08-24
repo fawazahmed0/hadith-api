@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"25": "The Book of Wills"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 4204,
-				"hadithnumber_last": 4234,
-				"arabicnumber_first": 1627.01,
-				"arabicnumber_last": 1637.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4229,
-			"arabicnumber": "1635.01",
-			"text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdullah b. Numeyr ile Ebû Muâviye, A'meş'den rivayet ettiler. H. Bize Muhammed b. Abdillâh b. Numeyr de rivayet etti. (Dediki): Bize babamla Ebû Muâviye rivayet ettiler. (Dedilerki): Bize A'meş' Ebû Vâil'den, o da Mesrûk'dan, o da Âişe'den naklen rivayette bulundu. Âişe: «Resûlullah (Sallallahu Aleyhi ve Sellem) hiç bir dinar, dirhem, koyun ve deve bırakmadı; hiç bir şeyi vasiyyet de etmedi.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "25": "Vasiyyet"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 4204,
+        "hadithnumber_last": 4234,
+        "arabicnumber_first": 1627.01,
+        "arabicnumber_last": 1637.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4229,
+      "arabicnumber": "1635.01",
+      "text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdullah b. Numeyr ile Ebû Muâviye, A'meş'den rivayet ettiler. H. Bize Muhammed b. Abdillâh b. Numeyr de rivayet etti. (Dediki): Bize babamla Ebû Muâviye rivayet ettiler. (Dedilerki): Bize A'meş' Ebû Vâil'den, o da Mesrûk'dan, o da Âişe'den naklen rivayette bulundu. Âişe: «Resûlullah (Sallallahu Aleyhi ve Sellem) hiç bir dinar, dirhem, koyun ve deve bırakmadı; hiç bir şeyi vasiyyet de etmedi.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 26
+      }
+    }
+  ]
 }

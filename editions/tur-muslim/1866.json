@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1866,
-			"arabicnumber": "799.03",
-			"text": "{….} Bize Yahya b. Habîb El-Hârisî rivayet etti. (Dediki): Bize Hâlid (yânî İbni'I-Hâris) rivayet etti. (Dediki): Bize Şu'be, Katade'den rivayet etti. Demişki: Ben, Enes'i şöyle derken işittim: «Resûlullah (Sallallahu Aleyhi ve Sellem) Ubeyy'e buyurdular ki...» (diye başlayarak) yukarki hadîsin mislini rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 294
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1866,
+      "arabicnumber": "799.03",
+      "text": "{….} Bize Yahya b. Habîb El-Hârisî rivayet etti. (Dediki): Bize Hâlid (yânî İbni'I-Hâris) rivayet etti. (Dediki): Bize Şu'be, Katade'den rivayet etti. Demişki: Ben, Enes'i şöyle derken işittim: «Resûlullah (Sallallahu Aleyhi ve Sellem) Ubeyy'e buyurdular ki...» (diye başlayarak) yukarki hadîsin mislini rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 294
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5144,
-			"arabicnumber": "1985.03",
-			"text": "Bize Züheyr b. Harb ile Ebû Kureyb de rivayet ettiler. (Dedilerki): Bize Veki', Evzâî ile İkrime b. Ammar ve Ukbe b. Tev'em'den, onlar da Ebû Kesir'den, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Şarab şu iki ağaçtandır: Bağ ve hurma!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5144,
+      "arabicnumber": "1985.03",
+      "text": "Bize Züheyr b. Harb ile Ebû Kureyb de rivayet ettiler. (Dedilerki): Bize Veki', Evzâî ile İkrime b. Ammar ve Ukbe b. Tev'em'den, onlar da Ebû Kesir'den, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Şarab şu iki ağaçtandır: Bağ ve hurma!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 18
+      }
+    }
+  ]
 }

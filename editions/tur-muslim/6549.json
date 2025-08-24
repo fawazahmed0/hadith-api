@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6549,
-			"arabicnumber": "2567.01",
-			"text": "Bana Abdü'l-A'lâ b. Hammad rivayet etti. (Dediki): Bize Hammad b. Seleme Sâbit'ten, o da Ebû Râfi'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti ki: «Bir adam başka bir köydeki kardeşini ziyaret etmiş. Bunun üzerine Allah onun için yoluna bir gözcü melek oturtmuş. Adam meleğin yanına gelince (ona) : — Nereye gitmek istiyorsun? diye sormuş. Adam : — Şu köydeki kardeşime gitmek istiyorum! cevâbını vermiş. Melek : — Onun üzerinde ıslâhına çalıştığın bir nimetin varmı? diye sormuş. Adam : — Hayır! Şu kadar var ki, ben onu Allah (Azze ve Celle) için sevdim, cevabını vermiş. Melek : — O halde ben senin o kardeşini Allah için sevdiğin gibi, Allah da seni sevdiğini bildirmek üzere Allah'ın sana gönderdiği elçiyim.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6549,
+      "arabicnumber": "2567.01",
+      "text": "Bana Abdü'l-A'lâ b. Hammad rivayet etti. (Dediki): Bize Hammad b. Seleme Sâbit'ten, o da Ebû Râfi'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti ki: «Bir adam başka bir köydeki kardeşini ziyaret etmiş. Bunun üzerine Allah onun için yoluna bir gözcü melek oturtmuş. Adam meleğin yanına gelince (ona) : — Nereye gitmek istiyorsun? diye sormuş. Adam : — Şu köydeki kardeşime gitmek istiyorum! cevâbını vermiş. Melek : — Onun üzerinde ıslâhına çalıştığın bir nimetin varmı? diye sormuş. Adam : — Hayır! Şu kadar var ki, ben onu Allah (Azze ve Celle) için sevdim, cevabını vermiş. Melek : — O halde ben senin o kardeşini Allah için sevdiğin gibi, Allah da seni sevdiğini bildirmek üzere Allah'ın sana gönderdiği elçiyim.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 47
+      }
+    }
+  ]
 }

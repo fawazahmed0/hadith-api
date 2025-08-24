@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2475,
-			"arabicnumber": "1069.03",
-			"text": "{…} Bize Muhammedü'bnü Beşşâr rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bize îbnü'l-Müsennâ da rivayet etti. (Dediki): Bize Îbni Ebî Adiyy rivayet etti. Bu râvilerin ikisi birden Şu'be*den bu isnâdla îbni Muâz'ın dediği gibi: «Bizim sadaka yemezdiğimizi bilmiyor musun?» şeklinde rivayette bulunmuşlardır. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 212
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2475,
+      "arabicnumber": "1069.03",
+      "text": "{…} Bize Muhammedü'bnü Beşşâr rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bize îbnü'l-Müsennâ da rivayet etti. (Dediki): Bize Îbni Ebî Adiyy rivayet etti. Bu râvilerin ikisi birden Şu'be*den bu isnâdla îbni Muâz'ın dediği gibi: «Bizim sadaka yemezdiğimizi bilmiyor musun?» şeklinde rivayette bulunmuşlardır. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 212
+      }
+    }
+  ]
 }

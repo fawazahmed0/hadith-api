@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"50": "The Book of Repentance"
-		},
-		"section_detail": {
-			"50": {
-				"hadithnumber_first": 6952,
-				"hadithnumber_last": 7023,
-				"arabicnumber_first": 2744.01,
-				"arabicnumber_last": 2771
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7010,
-			"arabicnumber": "2766.03",
-			"text": "Bize Muhammed b. Beşşâr rivayet etti, (Dediki): Bize İbni Ebî Adiy rivayet etti. (Dediki): Bize Şu'be, Katâde'den bu isnadla Muâz b. Muâz'ın hadîsi gibi rivayette bulundu. O bu hadîse şunu da ziyâde etmiştir: «Bunun üzerine Allah beriki meleklere: Uzaklasın! Ötekilere de: Yaklaşın! dîye vahy buyurdu.»",
-			"grades": [],
-			"reference": {
-				"book": 50,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "50": "Tevbe"
+    },
+    "section_detail": {
+      "50": {
+        "hadithnumber_first": 6952,
+        "hadithnumber_last": 7023,
+        "arabicnumber_first": 2744.01,
+        "arabicnumber_last": 2771
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7010,
+      "arabicnumber": "2766.03",
+      "text": "Bize Muhammed b. Beşşâr rivayet etti, (Dediki): Bize İbni Ebî Adiy rivayet etti. (Dediki): Bize Şu'be, Katâde'den bu isnadla Muâz b. Muâz'ın hadîsi gibi rivayette bulundu. O bu hadîse şunu da ziyâde etmiştir: «Bunun üzerine Allah beriki meleklere: Uzaklasın! Ötekilere de: Yaklaşın! dîye vahy buyurdu.»",
+      "grades": [],
+      "reference": {
+        "book": 50,
+        "hadith": 56
+      }
+    }
+  ]
 }

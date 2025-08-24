@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5141,
-			"arabicnumber": "1984",
-			"text": "Bize Muhammet! b. Müsennâ ile Muhammed b. Beşşâr rivayet ettiler. Lâfız İbn-i Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki); Bize Şu'be, Simak b. Harb'den, o da Alkame b. Vâil'den, o da babası Vâil El-Hadramînden naklen rivayet etti ki, Târik b. Süveyd El-Cu'fî, Nebi (Sallallahu Aleyhi ve Sellem)'e şarabın hükmünü sormuş; o da kendisini men etmiş. Yahut onu yapmasını kerih görmüş. Bunun üzerine Târik : — Ben onu ancak ilâç için yapıyorum, demiş. Efendimiz (Sallallahu Aleyhi ve Sellem): «— O ilâç değildir Lâkin derddir,: buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5141,
+      "arabicnumber": "1984",
+      "text": "Bize Muhammet! b. Müsennâ ile Muhammed b. Beşşâr rivayet ettiler. Lâfız İbn-i Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki); Bize Şu'be, Simak b. Harb'den, o da Alkame b. Vâil'den, o da babası Vâil El-Hadramînden naklen rivayet etti ki, Târik b. Süveyd El-Cu'fî, Nebi (Sallallahu Aleyhi ve Sellem)'e şarabın hükmünü sormuş; o da kendisini men etmiş. Yahut onu yapmasını kerih görmüş. Bunun üzerine Târik : — Ben onu ancak ilâç için yapıyorum, demiş. Efendimiz (Sallallahu Aleyhi ve Sellem): «— O ilâç değildir Lâkin derddir,: buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 15
+      }
+    }
+  ]
 }

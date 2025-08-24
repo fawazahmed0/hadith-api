@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2815,
-			"arabicnumber": "1185",
-			"text": "Bana Abbâs b. Abdilaziz El-Anberl rivayet etti. (Dediki): Bize Nadr b. Muhammed El-Yemâmi rivayet etti. (Dediki): Bize İkrime yani İbni Ammar rivayet etti. (Dediki): Bize Ebû Zümeyl, İbni Abbâs (Radiyallahu anhüma)'dan naklen rivayet etti. Şöyle demiş: Müşrikler «Tekrar icabet sana. Senin şerikin yoktur.» derlerdi. Resulullah (Sallallahu Aleyhi ve Sellem) de : «Yazık size, «Yeter yeter.» buyurur, bunun üzerine müşrikler: «Yalnız bir şerik müstesna, o senin şerikindir, sen, ona ve onun mâlik olduğu her şey'e mâliksin.» derlerdi. Onlar, bunu Kabe'yi tavaf ederken söylerlerdi",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2815,
+      "arabicnumber": "1185",
+      "text": "Bana Abbâs b. Abdilaziz El-Anberl rivayet etti. (Dediki): Bize Nadr b. Muhammed El-Yemâmi rivayet etti. (Dediki): Bize İkrime yani İbni Ammar rivayet etti. (Dediki): Bize Ebû Zümeyl, İbni Abbâs (Radiyallahu anhüma)'dan naklen rivayet etti. Şöyle demiş: Müşrikler «Tekrar icabet sana. Senin şerikin yoktur.» derlerdi. Resulullah (Sallallahu Aleyhi ve Sellem) de : «Yazık size, «Yeter yeter.» buyurur, bunun üzerine müşrikler: «Yalnız bir şerik müstesna, o senin şerikindir, sen, ona ve onun mâlik olduğu her şey'e mâliksin.» derlerdi. Onlar, bunu Kabe'yi tavaf ederken söylerlerdi",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 25
+      }
+    }
+  ]
 }

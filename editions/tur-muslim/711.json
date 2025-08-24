@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"3": "The Book of Menstruation"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 679,
-				"hadithnumber_last": 836,
-				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 711,
-			"arabicnumber": "312",
-			"text": "Bize Davud b. Ruşeyd rivayet etti. (Dediki): Bize Salih b. Ömer rivayet etti. (Dediki): Bize Ebu Malik-i Eşcaî, Enes h, Malik'ten naklen rivayet etti. Enes şöyle demiş: Bir kadın Resulullah (Sallallahu aleyhi ve Sellem)'e erkeğin rüyasında gördüğünü rüyasında gören kadının durumu hakkında soru sordu, O: \"(Böyle bir durumda) erkekten görülen hal onda da görülürse guslediversin\" buyurdu. Yalnız Müslim rivayet etmiştir AÇIKLAMALAR 314.sayfada",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "3": "Hayz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 679,
+        "hadithnumber_last": 836,
+        "arabicnumber_first": 293.01,
+        "arabicnumber_last": 376.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 711,
+      "arabicnumber": "312",
+      "text": "Bize Davud b. Ruşeyd rivayet etti. (Dediki): Bize Salih b. Ömer rivayet etti. (Dediki): Bize Ebu Malik-i Eşcaî, Enes h, Malik'ten naklen rivayet etti. Enes şöyle demiş: Bir kadın Resulullah (Sallallahu aleyhi ve Sellem)'e erkeğin rüyasında gördüğünü rüyasında gören kadının durumu hakkında soru sordu, O: \"(Böyle bir durumda) erkekten görülen hal onda da görülürse guslediversin\" buyurdu. Yalnız Müslim rivayet etmiştir AÇIKLAMALAR 314.sayfada",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 33
+      }
+    }
+  ]
 }

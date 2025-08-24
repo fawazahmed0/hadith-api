@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5704,
-			"arabicnumber": "2189.02",
-			"text": "{m44} Bize Ebû Kureyb rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. (Dediki): Bize Hişâm, babasından, o da Âişe'den naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) büyülendi... Ve Ebû Kureyb hadisi kıssasıyla İbnü Numeyr'in hadîsi gibi nakletmiştir. O bu hadîste şunu da söylemiş ki: «Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) kuyuya gitti ve ona baktı, kuyunun üzerinde hurma ağacı vardı. Âişe demiş ki: Ben: — Yâ Resûlallah! Onu çıkarıver, dedim.» «Onu yaksaydın a!» dememiş; «Ve emir vererek onu gömdürdüm.» cümlesini de anmamıştır. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5704,
+      "arabicnumber": "2189.02",
+      "text": "{m44} Bize Ebû Kureyb rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. (Dediki): Bize Hişâm, babasından, o da Âişe'den naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) büyülendi... Ve Ebû Kureyb hadisi kıssasıyla İbnü Numeyr'in hadîsi gibi nakletmiştir. O bu hadîste şunu da söylemiş ki: «Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) kuyuya gitti ve ona baktı, kuyunun üzerinde hurma ağacı vardı. Âişe demiş ki: Ben: — Yâ Resûlallah! Onu çıkarıver, dedim.» «Onu yaksaydın a!» dememiş; «Ve emir vererek onu gömdürdüm.» cümlesini de anmamıştır. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 58
+      }
+    }
+  ]
 }

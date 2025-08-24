@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6525,
-			"arabicnumber": "2558.01",
-			"text": "Bana Muhammed b. Müsennâ ile Muhammed b. Beşşâr rivayet ettiler. Lâfız İbni Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Alâ' b. Abdirrahman'ı, babasından, o da Ebû Hureyre'den naklen rivayet ederken dinledim ki, Bir adam : — Yâ Resûlallah! Benim hısımlarım var! Ben onlara sıla yapıyorum; onlar benimle alâkayı kesiyorlar! Ben onlara iyilik ediyorum; onlar bana kötülük! Ben onlara yumuşak davranıyorum; onlar bana karşı cahillik ediyorlar! Demiş. Bunun üzerine : «Eğer dediğin gibi isen, sanki onlara sıcak kül yediriyor gibisin! Sen bu minval üzere devam eitikçe Allah tarafından onlara karşı seninle daima bir yardımcı bulunacaktır!» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6525,
+      "arabicnumber": "2558.01",
+      "text": "Bana Muhammed b. Müsennâ ile Muhammed b. Beşşâr rivayet ettiler. Lâfız İbni Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Alâ' b. Abdirrahman'ı, babasından, o da Ebû Hureyre'den naklen rivayet ederken dinledim ki, Bir adam : — Yâ Resûlallah! Benim hısımlarım var! Ben onlara sıla yapıyorum; onlar benimle alâkayı kesiyorlar! Ben onlara iyilik ediyorum; onlar bana kötülük! Ben onlara yumuşak davranıyorum; onlar bana karşı cahillik ediyorlar! Demiş. Bunun üzerine : «Eğer dediğin gibi isen, sanki onlara sıcak kül yediriyor gibisin! Sen bu minval üzere devam eitikçe Allah tarafından onlara karşı seninle daima bir yardımcı bulunacaktır!» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 25
+      }
+    }
+  ]
 }

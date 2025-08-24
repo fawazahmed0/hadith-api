@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2364,
-			"arabicnumber": "1024.01",
-			"text": "Bize Yahya b. Yahya ile Züheyr b. Harb ve ishâk b. İbrahim toptan Cerîr'den rivayet ettiler. Yahya (Dediki): Bize Cerir, Mansûr'dan, o da Şakîk'den, o da Mesrûk'dan, o da Aişe'den naklen haber verdi. Aişe şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem), «Kadın zarar vermeksizin evinin yiyeceğinden infak ederse, infâki sebebiyle kendisine; malı kazanması sebebiyle de kocasına ecir verilir. Vekîl-i harc için de bunun gibi ecir vardır. Bunlar birbirlerinin ecirlerinden hiç bir şey azaltmazlar.» buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 101
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2364,
+      "arabicnumber": "1024.01",
+      "text": "Bize Yahya b. Yahya ile Züheyr b. Harb ve ishâk b. İbrahim toptan Cerîr'den rivayet ettiler. Yahya (Dediki): Bize Cerir, Mansûr'dan, o da Şakîk'den, o da Mesrûk'dan, o da Aişe'den naklen haber verdi. Aişe şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem), «Kadın zarar vermeksizin evinin yiyeceğinden infak ederse, infâki sebebiyle kendisine; malı kazanması sebebiyle de kocasına ecir verilir. Vekîl-i harc için de bunun gibi ecir vardır. Bunlar birbirlerinin ecirlerinden hiç bir şey azaltmazlar.» buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 101
+      }
+    }
+  ]
 }

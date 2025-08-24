@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 355,
-			"arabicnumber": "138.01",
-			"text": "Bize Ebu Bekr b. Ebi Şeybe de tahdis etti. Bize Vekl' tahdis etti (H). Bize İbn Numeyr de tahdis etti, bize Ebu Muaviye ve Vekl' tahdis etti (H). Bize İshak b. İbrahim el-Hanzali -ki lafız onundur- de tahdis etti. Bize Vekl' haber verdi. Bize A'meş, Ebu Vail'den tahdis etti. O Abdullah'tan, o Resulullah (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: \"Kim yalancı olduğu halde bir sabr yemini edip, onunla Müslüman bir kimsenin malını haksızca alırsa Allah'ın huzuruna O kendisine gazap etmiş olduğu halde çıkar.\" (Ebu Vail) dedi ki: Derken Eş'as b. Kays girdi ve Ebu Abdurrahman size neler anlalıyor, dedi. Oradakiler şunları şunları anlalıyor, dediler. Eş'as: Ebu Abdurrahman doğru söylemiştir. Ayet benim hakkımda indi. Benimle bir adam arasında (anlaşmazlık konusu) Yemen'de bir arazi parçası vardı. Onu Nebi (Sallallahu aleyhi ve Sellem)'e dava ettim (beyyinen -delilin- var mı?) Ben, hayır dedim. Allah Resulü: \"O halde o yemin etsin\" buyurdu. Ben: O da yemin ediverir, dedim. Resulullah (Sallallahu aleyhi ve Sellem) O vakit şöyle buyurdu: \"Kim yalancı olduğu halde o yolla Müslüman bir kimsenin malını haksızca alacağı bir sabr yemini ederse Allah kendisine gazap etmiş olduğu halde huzuruna çıkar.\" Sonra da: \"Şüphesiz Allah'a olan ahitlerini ve yeminlerini az bir pahaya satanlar ... \" (AJ-i İmran, 77) ayeti sonuna kadar nazil oldu. Diğer tahric: Buhari, 2356, 2515, 2666, 2676 -muhtasar olarak-, 2673, 2416, 4549, 6659, 6676, 7183, 7184; Ebu Davud, 3243; Tirmizi, 1269, 2996; İbn Mace, 2322, 2323'te de muhtasar olarak; Tuhfetu'I-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 262
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 355,
+      "arabicnumber": "138.01",
+      "text": "Bize Ebu Bekr b. Ebi Şeybe de tahdis etti. Bize Vekl' tahdis etti (H). Bize İbn Numeyr de tahdis etti, bize Ebu Muaviye ve Vekl' tahdis etti (H). Bize İshak b. İbrahim el-Hanzali -ki lafız onundur- de tahdis etti. Bize Vekl' haber verdi. Bize A'meş, Ebu Vail'den tahdis etti. O Abdullah'tan, o Resulullah (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: \"Kim yalancı olduğu halde bir sabr yemini edip, onunla Müslüman bir kimsenin malını haksızca alırsa Allah'ın huzuruna O kendisine gazap etmiş olduğu halde çıkar.\" (Ebu Vail) dedi ki: Derken Eş'as b. Kays girdi ve Ebu Abdurrahman size neler anlalıyor, dedi. Oradakiler şunları şunları anlalıyor, dediler. Eş'as: Ebu Abdurrahman doğru söylemiştir. Ayet benim hakkımda indi. Benimle bir adam arasında (anlaşmazlık konusu) Yemen'de bir arazi parçası vardı. Onu Nebi (Sallallahu aleyhi ve Sellem)'e dava ettim (beyyinen -delilin- var mı?) Ben, hayır dedim. Allah Resulü: \"O halde o yemin etsin\" buyurdu. Ben: O da yemin ediverir, dedim. Resulullah (Sallallahu aleyhi ve Sellem) O vakit şöyle buyurdu: \"Kim yalancı olduğu halde o yolla Müslüman bir kimsenin malını haksızca alacağı bir sabr yemini ederse Allah kendisine gazap etmiş olduğu halde huzuruna çıkar.\" Sonra da: \"Şüphesiz Allah'a olan ahitlerini ve yeminlerini az bir pahaya satanlar ... \" (AJ-i İmran, 77) ayeti sonuna kadar nazil oldu. Diğer tahric: Buhari, 2356, 2515, 2666, 2676 -muhtasar olarak-, 2673, 2416, 4549, 6659, 6676, 7183, 7184; Ebu Davud, 3243; Tirmizi, 1269, 2996; İbn Mace, 2322, 2323'te de muhtasar olarak; Tuhfetu'I-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 262
+      }
+    }
+  ]
 }

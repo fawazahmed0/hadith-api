@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5760,
-			"arabicnumber": "2212.02",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe ile Muhammed b. Müsennâ, Muhammed b. Hatim ve Ebû Bekr b. Nâfl' rivayet ettiler. (Dedilerki): Bize Abdurrahman b. Mehdî Süfyân'dan, o da babasından, o da Abâye b. Rifâa'dan naklen rivayet etti. (Demişki): Bana Râfi' b. Hadic rivayet etti. (Dediki): Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i: «Humma Cehennemin kükremesİndendir. Binâenaleyh siz onu su ile kendinizden serinletin.» buyururken İşittim. Ebû Bekr: «Sizden..,» kaydını zikretmedi ve şöyle dedi: «Bana Râfi' b. Hadîc haber verdi, dedi.»",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 114
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5760,
+      "arabicnumber": "2212.02",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe ile Muhammed b. Müsennâ, Muhammed b. Hatim ve Ebû Bekr b. Nâfl' rivayet ettiler. (Dedilerki): Bize Abdurrahman b. Mehdî Süfyân'dan, o da babasından, o da Abâye b. Rifâa'dan naklen rivayet etti. (Demişki): Bana Râfi' b. Hadic rivayet etti. (Dediki): Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i: «Humma Cehennemin kükremesİndendir. Binâenaleyh siz onu su ile kendinizden serinletin.» buyururken İşittim. Ebû Bekr: «Sizden..,» kaydını zikretmedi ve şöyle dedi: «Bana Râfi' b. Hadîc haber verdi, dedi.»",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 114
+      }
+    }
+  ]
 }

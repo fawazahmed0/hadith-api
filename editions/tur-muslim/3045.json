@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3045,
-			"arabicnumber": "1259.02",
-			"text": "Bize Ebû'r-Rabî' Ez-Zehrânî rivayet etti. (Dediki): Bize Hammâd rivayet etti. (Dediki): Bize Eyyûb Nâfi''den rivayet ettiki, İbni Ömer Zi Tavâ'da gecelemeden ve sabahlayıp da yıkanmadan Mekke'ye gelmezmiş» Sonra Mekke'ye gündüzün girer Nebi (Sallallahu Aleyhi ye Sellem)'den naklen onun da böyle yapdığını söylermiş",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 251
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3045,
+      "arabicnumber": "1259.02",
+      "text": "Bize Ebû'r-Rabî' Ez-Zehrânî rivayet etti. (Dediki): Bize Hammâd rivayet etti. (Dediki): Bize Eyyûb Nâfi''den rivayet ettiki, İbni Ömer Zi Tavâ'da gecelemeden ve sabahlayıp da yıkanmadan Mekke'ye gelmezmiş» Sonra Mekke'ye gündüzün girer Nebi (Sallallahu Aleyhi ye Sellem)'den naklen onun da böyle yapdığını söylermiş",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 251
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5280,
-			"arabicnumber": "2027.01",
-			"text": "Bize Ebû Kâmil El-Cahderî rivayet etti. (Dediki): Bize Ebû Avâne, Âsim'dan, o da Şa'bî'den, o da îbn-i Abbâs'dan naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem)'e zemzem sundum; ayakta olduğu halde içti",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 154
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5280,
+      "arabicnumber": "2027.01",
+      "text": "Bize Ebû Kâmil El-Cahderî rivayet etti. (Dediki): Bize Ebû Avâne, Âsim'dan, o da Şa'bî'den, o da îbn-i Abbâs'dan naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem)'e zemzem sundum; ayakta olduğu halde içti",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 154
+      }
+    }
+  ]
 }

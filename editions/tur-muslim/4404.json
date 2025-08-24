@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"29": "The Book of Legal Punishments"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 4398,
-				"hadithnumber_last": 4469,
-				"arabicnumber_first": 1684.01,
-				"arabicnumber_last": 1710.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4404,
-			"arabicnumber": "1685.01",
-			"text": "Bize Muhammed b. Abdillâh b. Nuraeyr rivayet etti. (Dediki): Bize Humeyd b. Abdirrahmân El-Ruâsî, Hişâm b. Urve'den, o da babasından, o da Âişe'den naklen rivayet etti. Âişe şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) zamanında hırsızın eli çelik veya deriden mamul bir kalkan kıymetinden —ki İkisi de kıymet sahibidir— daha azda kesilmemiştir",
-			"grades": [],
-			"reference": {
-				"book": 29,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "29": "Hudûd"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 4398,
+        "hadithnumber_last": 4469,
+        "arabicnumber_first": 1684.01,
+        "arabicnumber_last": 1710.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4404,
+      "arabicnumber": "1685.01",
+      "text": "Bize Muhammed b. Abdillâh b. Nuraeyr rivayet etti. (Dediki): Bize Humeyd b. Abdirrahmân El-Ruâsî, Hişâm b. Urve'den, o da babasından, o da Âişe'den naklen rivayet etti. Âişe şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) zamanında hırsızın eli çelik veya deriden mamul bir kalkan kıymetinden —ki İkisi de kıymet sahibidir— daha azda kesilmemiştir",
+      "grades": [],
+      "reference": {
+        "book": 29,
+        "hadith": 7
+      }
+    }
+  ]
 }

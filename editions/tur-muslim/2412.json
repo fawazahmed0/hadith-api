@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2412,
-			"arabicnumber": "1047.01",
-			"text": "Bana Yahya b. Yahya ile Saîd b. Mansûr ve Kuteybetü'bnu Saîd hep birden Ebû Avâne'den rivayet ettiler. (Dediki): Bize Ebû Avâne, Katâde'den, o da Enes'den naklen haber verdi. Enes şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Âdem oğlu ihtiyarlar fakat onun iki şeyi genç kalır, (Bunlardan biri) mal'â tama' (diğeri) yaşama hırsıdır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 149
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2412,
+      "arabicnumber": "1047.01",
+      "text": "Bana Yahya b. Yahya ile Saîd b. Mansûr ve Kuteybetü'bnu Saîd hep birden Ebû Avâne'den rivayet ettiler. (Dediki): Bize Ebû Avâne, Katâde'den, o da Enes'den naklen haber verdi. Enes şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Âdem oğlu ihtiyarlar fakat onun iki şeyi genç kalır, (Bunlardan biri) mal'â tama' (diğeri) yaşama hırsıdır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 149
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3399,
-			"arabicnumber": "1400.02",
-			"text": "Bize Osman b. Eli Şeybe rivayet etti. (Dediki): Bize Cerîr, Â'meş'den, o da İbrahim'den, o da Aîkame'den naklen rivayet etti. Alkame şöyle demiş: Ben Abdullah b. Mes'ud ile Mina'da yürüyordum birden ona Osman b. Affan rastladı. Ve : — Beri gel ya Ebâ Abdirrahman! diyerek onu tenhaya çekti. Abdullah onun bir haceti olmadığını görünce bana : — Gel ya Alkame! dedi. Ben de gittim. Osman ona : — Seni bakire bir kızla evlendirsek ya ey Ebâ Abdirrahman! Olurki, nefsinden kaybettiğin bazı şeyleri sana döner, dedi. Bunun üzerine Abdullah : — Sen böyle dedinse... diyerek Ebu Muâviye hadîsi gibi anlattı",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3399,
+      "arabicnumber": "1400.02",
+      "text": "Bize Osman b. Eli Şeybe rivayet etti. (Dediki): Bize Cerîr, Â'meş'den, o da İbrahim'den, o da Aîkame'den naklen rivayet etti. Alkame şöyle demiş: Ben Abdullah b. Mes'ud ile Mina'da yürüyordum birden ona Osman b. Affan rastladı. Ve : — Beri gel ya Ebâ Abdirrahman! diyerek onu tenhaya çekti. Abdullah onun bir haceti olmadığını görünce bana : — Gel ya Alkame! dedi. Ben de gittim. Osman ona : — Seni bakire bir kızla evlendirsek ya ey Ebâ Abdirrahman! Olurki, nefsinden kaybettiğin bazı şeyleri sana döner, dedi. Bunun üzerine Abdullah : — Sen böyle dedinse... diyerek Ebu Muâviye hadîsi gibi anlattı",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 2
+      }
+    }
+  ]
 }

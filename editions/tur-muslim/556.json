@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"2": "The Book of Purification"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 534,
-				"hadithnumber_last": 678,
-				"arabicnumber_first": 223,
-				"arabicnumber_last": 292.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 556,
-			"arabicnumber": "235.02",
-			"text": "Bana Kasım b. Zekeriyya'da rivayet etti. (Dedi ki) : Bize Hâlid b. Mahled, Süleyman'dan, —ki İbni Bilâl'dır— o da Amr b. Yahya'dan bu isnadla bu hadisin mislini rivayet etti. (Yalnız) o topukları zikretmedi",
-			"grades": [],
-			"reference": {
-				"book": 2,
-				"hadith": 23
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "2": "Taharet"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 534,
+        "hadithnumber_last": 678,
+        "arabicnumber_first": 223,
+        "arabicnumber_last": 292.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 556,
+      "arabicnumber": "235.02",
+      "text": "Bana Kasım b. Zekeriyya'da rivayet etti. (Dedi ki) : Bize Hâlid b. Mahled, Süleyman'dan, —ki İbni Bilâl'dır— o da Amr b. Yahya'dan bu isnadla bu hadisin mislini rivayet etti. (Yalnız) o topukları zikretmedi",
+      "grades": [],
+      "reference": {
+        "book": 2,
+        "hadith": 23
+      }
+    }
+  ]
 }

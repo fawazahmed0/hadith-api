@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5257,
-			"arabicnumber": "2015",
-			"text": "Bize Ebu Bekir b. Ebî Şeybe ile Amru'n-Nâkid ve Züheyr b. Harb rivayet ettiler. (Dedilerki): Bize Süfyân b. Uyeyne, Zührî'den, o da Sâlîm'den, o da babasından, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti: «Uyuduğunuz zaman ateşi evlerinizde bırakmayın!» buyurmuşlar. İzah 2016 da",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 131
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5257,
+      "arabicnumber": "2015",
+      "text": "Bize Ebu Bekir b. Ebî Şeybe ile Amru'n-Nâkid ve Züheyr b. Harb rivayet ettiler. (Dedilerki): Bize Süfyân b. Uyeyne, Zührî'den, o da Sâlîm'den, o da babasından, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti: «Uyuduğunuz zaman ateşi evlerinizde bırakmayın!» buyurmuşlar. İzah 2016 da",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 131
+      }
+    }
+  ]
 }

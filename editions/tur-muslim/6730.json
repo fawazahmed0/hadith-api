@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"46": "The Book of Destiny"
-		},
-		"section_detail": {
-			"46": {
-				"hadithnumber_first": 6723,
-				"hadithnumber_last": 6774,
-				"arabicnumber_first": 2643.01,
-				"arabicnumber_last": 2664
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6730,
-			"arabicnumber": "2646",
-			"text": "Bana Ebû Kamil Fudayl b. Hüseyn El-Cahderî rivayet etti. (Dediki): Bize Hammâd h. Zeyd rivayet etti. (Dediki): Bize Ubeydullah b. Ebî Bekr Enes b. Mâtik'den naklen rivayet etti. Ve hadîsi ref etti. Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar: «Gerçekten Allah (Azze ve Celle) rohime bir melek vekîl kılmıştır. (Bu melek) : — Ey Rabbim! Nutfe. Ey Rabbim! Pıhtı. Ey Rabbim! Et parçası, der. Allah bir şeyi yaratmak murad ettiği vakit melek : — Ey Rabbim i Erkek mi, yokta dişi mi? Şakî mi, yoksa saîd mî? Rızk ne olacak? Ecel ne olacak? diye sorar. Ve böylece annesinin karnında iken yazılır.» İzah 2651 de",
-			"grades": [],
-			"reference": {
-				"book": 46,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "46": "Kader"
+    },
+    "section_detail": {
+      "46": {
+        "hadithnumber_first": 6723,
+        "hadithnumber_last": 6774,
+        "arabicnumber_first": 2643.01,
+        "arabicnumber_last": 2664
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6730,
+      "arabicnumber": "2646",
+      "text": "Bana Ebû Kamil Fudayl b. Hüseyn El-Cahderî rivayet etti. (Dediki): Bize Hammâd h. Zeyd rivayet etti. (Dediki): Bize Ubeydullah b. Ebî Bekr Enes b. Mâtik'den naklen rivayet etti. Ve hadîsi ref etti. Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar: «Gerçekten Allah (Azze ve Celle) rohime bir melek vekîl kılmıştır. (Bu melek) : — Ey Rabbim! Nutfe. Ey Rabbim! Pıhtı. Ey Rabbim! Et parçası, der. Allah bir şeyi yaratmak murad ettiği vakit melek : — Ey Rabbim i Erkek mi, yokta dişi mi? Şakî mi, yoksa saîd mî? Rızk ne olacak? Ecel ne olacak? diye sorar. Ve böylece annesinin karnında iken yazılır.» İzah 2651 de",
+      "grades": [],
+      "reference": {
+        "book": 46,
+        "hadith": 8
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3835,
-			"arabicnumber": "1524.06",
-			"text": "Bize Muhammed b. Râfi' rivayet etti. (Dediki): Bize Abdürrezzâk rivayet etti. (Dediki): Bize Ma'mer, Hemmâm b. Münebbih'den rivayet etti. Hemmâm: Ebû Hureyre'nin Resûlüllah (Sallallahu Aleyhi ve Sellem)'den bize rivayet ettiği şudur, diyerek bir takım hadîsler zikretmiş ezcümle şunu söylemiştir: Ebû Hureyre dediki : Resûlullah (Sallallahu Aleyhi ve Sellem): «Biriniz memesinde süt'ü biriktirilen yeni doğurmuş bir deve yahut sütü biriktirilen bir koyun satın alırsa, onu sağdıktan sonra iki görüş arasında muhayyerdir. Ya hayvanı alsın yahut onu bir ölçek kuru hurma ile birlikte iade etsin!» buyurdu. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 35
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3835,
+      "arabicnumber": "1524.06",
+      "text": "Bize Muhammed b. Râfi' rivayet etti. (Dediki): Bize Abdürrezzâk rivayet etti. (Dediki): Bize Ma'mer, Hemmâm b. Münebbih'den rivayet etti. Hemmâm: Ebû Hureyre'nin Resûlüllah (Sallallahu Aleyhi ve Sellem)'den bize rivayet ettiği şudur, diyerek bir takım hadîsler zikretmiş ezcümle şunu söylemiştir: Ebû Hureyre dediki : Resûlullah (Sallallahu Aleyhi ve Sellem): «Biriniz memesinde süt'ü biriktirilen yeni doğurmuş bir deve yahut sütü biriktirilen bir koyun satın alırsa, onu sağdıktan sonra iki görüş arasında muhayyerdir. Ya hayvanı alsın yahut onu bir ölçek kuru hurma ile birlikte iade etsin!» buyurdu. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 35
+      }
+    }
+  ]
 }

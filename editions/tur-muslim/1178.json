@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1178,
-			"arabicnumber": "526.01",
-			"text": "Bize Şeybân b. Ferrûh rivayet etti. (Dediki): Bize Abdülâziz b. Müslim rivayet etti. (Dediki): Bize Abdullah b. Dinar, İbni Ömer'den rivayet etti. H. Bize Kuteybetü'bnü Saîd de rivayet etti. Lâfız onundur. Kuteybe, Mâlik b. Enes'den, o da Abdullah b. Dinar'dan, o da ibni Ömer'den naklen rivayet etti. ibni Ömer şöyle demiş: Cemâat Kuba'da sabah namazını kılarken anîden kendilerine biri gelerek: — Gerçekden bu gece Resulullah (Sallallahu Aleyhi ve Sellem)'e Kur'ân indirildi ve Kabe'ye doğru dönmesi emrolundu. Binâenaleyh siz de Ka'be'ye dönün! dedi. Kubalıların yüzleri Şam'a doğru bulunuyordu. Hemen Kabe'ye döndüler",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1178,
+      "arabicnumber": "526.01",
+      "text": "Bize Şeybân b. Ferrûh rivayet etti. (Dediki): Bize Abdülâziz b. Müslim rivayet etti. (Dediki): Bize Abdullah b. Dinar, İbni Ömer'den rivayet etti. H. Bize Kuteybetü'bnü Saîd de rivayet etti. Lâfız onundur. Kuteybe, Mâlik b. Enes'den, o da Abdullah b. Dinar'dan, o da ibni Ömer'den naklen rivayet etti. ibni Ömer şöyle demiş: Cemâat Kuba'da sabah namazını kılarken anîden kendilerine biri gelerek: — Gerçekden bu gece Resulullah (Sallallahu Aleyhi ve Sellem)'e Kur'ân indirildi ve Kabe'ye doğru dönmesi emrolundu. Binâenaleyh siz de Ka'be'ye dönün! dedi. Kubalıların yüzleri Şam'a doğru bulunuyordu. Hemen Kabe'ye döndüler",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 18
+      }
+    }
+  ]
 }

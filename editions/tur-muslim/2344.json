@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2344,
-			"arabicnumber": "1014.03",
-			"text": "{…} Bana Ümeyyetübnü Bistâm rivayet etti. (Dediki): Bize Yezîd yâni îbnü Zürey' rivayet etti. (Dediki): Bize Ravh b. Kaasim rivayet etti. H. Bana bu hadîsi Ahmed b. Osman el-Evdi de rivayet etti. (Dediki): Bize Hâlid b. Mahled rivayet etti. (Dediki): Bana Süleyman yâni İbni Bilâl rivayet eyledi. {Ravh ile Süleyman'ın) ikisi birden Süheyl'den bu isnâd ile rivayette bulundular. Ravh hadîsinde: «Helâl olan kazancdan tesadduk ederek onu gerektiği yere verirse...» ifâdesi vardır. Süleyman'ın hadîsinde ise; «Onu yerine koyarsa...» denilmiştir",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 81
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2344,
+      "arabicnumber": "1014.03",
+      "text": "{…} Bana Ümeyyetübnü Bistâm rivayet etti. (Dediki): Bize Yezîd yâni îbnü Zürey' rivayet etti. (Dediki): Bize Ravh b. Kaasim rivayet etti. H. Bana bu hadîsi Ahmed b. Osman el-Evdi de rivayet etti. (Dediki): Bize Hâlid b. Mahled rivayet etti. (Dediki): Bana Süleyman yâni İbni Bilâl rivayet eyledi. {Ravh ile Süleyman'ın) ikisi birden Süheyl'den bu isnâd ile rivayette bulundular. Ravh hadîsinde: «Helâl olan kazancdan tesadduk ederek onu gerektiği yere verirse...» ifâdesi vardır. Süleyman'ın hadîsinde ise; «Onu yerine koyarsa...» denilmiştir",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 81
+      }
+    }
+  ]
 }

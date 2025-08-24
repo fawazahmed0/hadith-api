@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1187,
-			"arabicnumber": "531",
-			"text": "Bana Hârun b. Saîd El-Eyi ile Harmeletü'bnü Yahya rivayet ettiler. Harmele (Bize haber verdi): tâbirini kullandı. Harun: Bize ibni Vehb rivayet etti, dedi. ibni Vehb: Bana Yûnus, İbni Şihâb'dan naklen haber verdi, demiş, ibni Şihâb: Bana Ubeydullah b. Abdillah haber verdi ki Âişe ile Abdullah b. Abbâs şunları söylemişler, demiş: «Resulullah (Sallallahu Aleyhi ve Sellem) son deminde kendisine âit bir elbiseyi yüzüne örtmeye başladı. Bunaldıkça onu yüzünden açıyordu. Bu hâlde iken yahudilerle, hırisliyanların yaptıklarından ümmetini sakındırmak için: «Allâhın laneti yahudilerle, Hıristiyanlara olsun! Nebilerinin kabirlerini mescid ittihâz ettiler.» buyurdular.» 528’in izahına ek olarak izah için 532 ye gidin",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1187,
+      "arabicnumber": "531",
+      "text": "Bana Hârun b. Saîd El-Eyi ile Harmeletü'bnü Yahya rivayet ettiler. Harmele (Bize haber verdi): tâbirini kullandı. Harun: Bize ibni Vehb rivayet etti, dedi. ibni Vehb: Bana Yûnus, İbni Şihâb'dan naklen haber verdi, demiş, ibni Şihâb: Bana Ubeydullah b. Abdillah haber verdi ki Âişe ile Abdullah b. Abbâs şunları söylemişler, demiş: «Resulullah (Sallallahu Aleyhi ve Sellem) son deminde kendisine âit bir elbiseyi yüzüne örtmeye başladı. Bunaldıkça onu yüzünden açıyordu. Bu hâlde iken yahudilerle, hırisliyanların yaptıklarından ümmetini sakındırmak için: «Allâhın laneti yahudilerle, Hıristiyanlara olsun! Nebilerinin kabirlerini mescid ittihâz ettiler.» buyurdular.» 528’in izahına ek olarak izah için 532 ye gidin",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 27
+      }
+    }
+  ]
 }

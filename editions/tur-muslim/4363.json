@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"28": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 4342,
-				"hadithnumber_last": 4397,
-				"arabicnumber_first": 1669.01,
-				"arabicnumber_last": 1683
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4363,
-			"arabicnumber": "1672.03",
-			"text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrazzâk rivayet etti, (Dediki): Bize Ma'mer, Eyyûb'dan, o da Ebû Kılâbe'den, o da Enes'den naklen haber verdi ki, Yahudîlerden bir adam, Ensâr'dan bir cariyeyi zinetleri için öldürmüş; sonra onu kuyuya atmış. Başını da taşlarla ezmiş. Arkacığından yahudî yakalanarak Resûlullah (Sallallahu Aleyhi ve Sellem)'e getirilmiş. O da ölünceye kadar recm edilmesini emir buyurmuş; ve yahudî recmedilmiş; nihayet ölmüş",
-			"grades": [],
-			"reference": {
-				"book": 28,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "28": "Kasâme, Muhakibler, Kısas ve Diyetler Bahsi"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 4342,
+        "hadithnumber_last": 4397,
+        "arabicnumber_first": 1669.01,
+        "arabicnumber_last": 1683
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4363,
+      "arabicnumber": "1672.03",
+      "text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrazzâk rivayet etti, (Dediki): Bize Ma'mer, Eyyûb'dan, o da Ebû Kılâbe'den, o da Enes'den naklen haber verdi ki, Yahudîlerden bir adam, Ensâr'dan bir cariyeyi zinetleri için öldürmüş; sonra onu kuyuya atmış. Başını da taşlarla ezmiş. Arkacığından yahudî yakalanarak Resûlullah (Sallallahu Aleyhi ve Sellem)'e getirilmiş. O da ölünceye kadar recm edilmesini emir buyurmuş; ve yahudî recmedilmiş; nihayet ölmüş",
+      "grades": [],
+      "reference": {
+        "book": 28,
+        "hadith": 22
+      }
+    }
+  ]
 }

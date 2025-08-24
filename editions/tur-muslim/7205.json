@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"53": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
-		},
-		"section_detail": {
-			"53": {
-				"hadithnumber_first": 7130,
-				"hadithnumber_last": 7234,
-				"arabicnumber_first": 2822,
-				"arabicnumber_last": 2879
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7205,
-			"arabicnumber": "2863",
-			"text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Abdû'I-Aziz (yâni; îbni Muhammed) Sevr'den, o da Ebû'l-Gays'dan, o da Ebû Hureyre'den naklen rivayet etti ki: Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar: «Şüphesiz ki, kıyamet gününde ter, yerin içîne yetmiş kulaç inecektir. Ve şüphesiz ki, o insanların ağızlarına yahut kulaklarına ulaşacaktır.» Sevr bunların hangisini söylediğinde şekketmiştir. İZAH 2864 TE",
-			"grades": [],
-			"reference": {
-				"book": 53,
-				"hadith": 74
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "53": "Cennet Ve Onun Nimetleri İle Cennetliklerin Sıfatı Bahsi"
+    },
+    "section_detail": {
+      "53": {
+        "hadithnumber_first": 7130,
+        "hadithnumber_last": 7234,
+        "arabicnumber_first": 2822,
+        "arabicnumber_last": 2879
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7205,
+      "arabicnumber": "2863",
+      "text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Abdû'I-Aziz (yâni; îbni Muhammed) Sevr'den, o da Ebû'l-Gays'dan, o da Ebû Hureyre'den naklen rivayet etti ki: Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar: «Şüphesiz ki, kıyamet gününde ter, yerin içîne yetmiş kulaç inecektir. Ve şüphesiz ki, o insanların ağızlarına yahut kulaklarına ulaşacaktır.» Sevr bunların hangisini söylediğinde şekketmiştir. İZAH 2864 TE",
+      "grades": [],
+      "reference": {
+        "book": 53,
+        "hadith": 74
+      }
+    }
+  ]
 }

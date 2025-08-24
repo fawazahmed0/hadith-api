@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5351,
-			"arabicnumber": "2051.02",
-			"text": "Bize bu hadîsi Musa b. Kureyş b. Nâfi' Et-Temîmi de rivayet etti. (Dediki); Bize Yahya b. Salih El-Vuhazî rivayet etti. (Dediki): Bize Süleyman b. Bilâl bu isnadla rivayette bulundu ve : «Ne güzel katıklardır.» dedi; şekketmedi. İzah 2052 de",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 225
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5351,
+      "arabicnumber": "2051.02",
+      "text": "Bize bu hadîsi Musa b. Kureyş b. Nâfi' Et-Temîmi de rivayet etti. (Dediki); Bize Yahya b. Salih El-Vuhazî rivayet etti. (Dediki): Bize Süleyman b. Bilâl bu isnadla rivayette bulundu ve : «Ne güzel katıklardır.» dedi; şekketmedi. İzah 2052 de",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 225
+      }
+    }
+  ]
 }

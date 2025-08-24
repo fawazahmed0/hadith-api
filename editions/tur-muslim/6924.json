@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"48": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness "
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 6805,
-				"hadithnumber_last": 6936,
-				"arabicnumber_first": 2675.01,
-				"arabicnumber_last": 2735.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6924,
-			"arabicnumber": "2730.04",
-			"text": "{M-83-3} Bana Muhammed b. Hatim de rivayet etti. (Dedikî): Bize Behz rivayet etti. (Dedikî): Bize Hammad b. Seleme rivayet etti. (Dedikî): Bana Yûsuf b. Abdillah b. Haris, Ebû'l-Âliye'den, o da İbni Abbas'dan naklen haber verdi ki, Nebi (Sallallahu Aleyhi ve Sellem) kendisini bir şey üzdüğü vakit şöyle buyururmuş... Râvi, Muâz'ın babasından rivayet ettiği hadîs gibi rivayette bulunmuş; o hadîsdeki kelimelerle birlikte: «Kıymetli arşın Rabbi olan Allah'dan başka ilâh yoktur.» cümlesini ziyâde etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 48,
-				"hadith": 116
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "48": "Zikir, Dua, Tevbe ve İstiğfar Bahsi"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 6805,
+        "hadithnumber_last": 6936,
+        "arabicnumber_first": 2675.01,
+        "arabicnumber_last": 2735.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6924,
+      "arabicnumber": "2730.04",
+      "text": "{M-83-3} Bana Muhammed b. Hatim de rivayet etti. (Dedikî): Bize Behz rivayet etti. (Dedikî): Bize Hammad b. Seleme rivayet etti. (Dedikî): Bana Yûsuf b. Abdillah b. Haris, Ebû'l-Âliye'den, o da İbni Abbas'dan naklen haber verdi ki, Nebi (Sallallahu Aleyhi ve Sellem) kendisini bir şey üzdüğü vakit şöyle buyururmuş... Râvi, Muâz'ın babasından rivayet ettiği hadîs gibi rivayette bulunmuş; o hadîsdeki kelimelerle birlikte: «Kıymetli arşın Rabbi olan Allah'dan başka ilâh yoktur.» cümlesini ziyâde etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 48,
+        "hadith": 116
+      }
+    }
+  ]
 }

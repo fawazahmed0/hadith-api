@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6638,
-			"arabicnumber": "2607.02",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe ile Hennad b. Seriy rivayet ettiler. (Dedilerki): Bize Ebu'l-Ahvâs, Mansûr'dan, o da Ebû Vâil'den, o da Abdullah b. Mes'ûd'dan naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem)', «Şüphesiz doğruluk birr dir. Birr de cennete götürür. Kul doğruluğu araya araya nihayet Allah indinde doğrucu yazılır. Yalancılık da fucurdur. Şüphesiz fucur cehenneme götürür. Kul yalancılığı araya araya nihayet yalancı yazılır.» buyurdular. İbni Ebî Şeybe kendi rivayetinde: «Nebi (Sallallahu Aleyhi ve Sellem)'den naklen» dedi",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 135
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6638,
+      "arabicnumber": "2607.02",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe ile Hennad b. Seriy rivayet ettiler. (Dedilerki): Bize Ebu'l-Ahvâs, Mansûr'dan, o da Ebû Vâil'den, o da Abdullah b. Mes'ûd'dan naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem)', «Şüphesiz doğruluk birr dir. Birr de cennete götürür. Kul doğruluğu araya araya nihayet Allah indinde doğrucu yazılır. Yalancılık da fucurdur. Şüphesiz fucur cehenneme götürür. Kul yalancılığı araya araya nihayet yalancı yazılır.» buyurdular. İbni Ebî Şeybe kendi rivayetinde: «Nebi (Sallallahu Aleyhi ve Sellem)'den naklen» dedi",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 135
+      }
+    }
+  ]
 }

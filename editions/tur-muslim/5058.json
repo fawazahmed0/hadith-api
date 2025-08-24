@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"34": "The Book of Hunting, Slaughter, and what may be Eaten"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4972,
-				"hadithnumber_last": 5063,
-				"arabicnumber_first": 1929.01,
-				"arabicnumber_last": 1959
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5058,
-			"arabicnumber": "1956.02",
-			"text": "{…} Bu hadîsi bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Yahya b. Saîd ile Abdurrahman b. Mehdî rivayet ettiler. H. Bana Yahya b. Habîb dahî rivayet etti. (Dediki): Bize Hâlid b. Haris rivayet etti. H. Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. Bu râvilerin hepsi Şu'be'den bu isnadla rivayette bulunmuşlardır. İzah 1959 da",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 87
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "34": "Av, Kesilen Ve Eti Yenen Hayvanlar Bahsi"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4972,
+        "hadithnumber_last": 5063,
+        "arabicnumber_first": 1929.01,
+        "arabicnumber_last": 1959
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5058,
+      "arabicnumber": "1956.02",
+      "text": "{…} Bu hadîsi bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Yahya b. Saîd ile Abdurrahman b. Mehdî rivayet ettiler. H. Bana Yahya b. Habîb dahî rivayet etti. (Dediki): Bize Hâlid b. Haris rivayet etti. H. Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. Bu râvilerin hepsi Şu'be'den bu isnadla rivayette bulunmuşlardır. İzah 1959 da",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 87
+      }
+    }
+  ]
 }

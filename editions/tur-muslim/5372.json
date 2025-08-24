@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5372,
-			"arabicnumber": "2060.01",
-			"text": "(Bana Muhammed b. Müsenna rivâyet etti. ki): Bize Abdurrahman, Süfyan'dan, o da Ebû'z-Zübeyr'den, o da Câbir ile İbn Ömer'den naklen rivâyet etti ki, Resûlüllah (sallallahü aleyhi ve sellem): bir bağırsağa yer; kâfirse yedi bağırsağa yer.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 246
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5372,
+      "arabicnumber": "2060.01",
+      "text": "(Bana Muhammed b. Müsenna rivâyet etti. ki): Bize Abdurrahman, Süfyan'dan, o da Ebû'z-Zübeyr'den, o da Câbir ile İbn Ömer'den naklen rivâyet etti ki, Resûlüllah (sallallahü aleyhi ve sellem): bir bağırsağa yer; kâfirse yedi bağırsağa yer.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 246
+      }
+    }
+  ]
 }

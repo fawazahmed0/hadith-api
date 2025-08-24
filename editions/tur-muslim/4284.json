@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4284,
-			"arabicnumber": "1653.02",
-			"text": "Bize Ebû Bekir b. Ebi Şeybe de rivayet etti. (Dediki): Bize Yezîd b. Hârûn, Huşeym'den, o da Abbâd b. Ebî Sâlih'den, o da babasından, o da Ebû Hureyre'den naklen rivayette bulundu. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Yemîn, yemîn isteyenin niyetine göredir.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4284,
+      "arabicnumber": "1653.02",
+      "text": "Bize Ebû Bekir b. Ebi Şeybe de rivayet etti. (Dediki): Bize Yezîd b. Hârûn, Huşeym'den, o da Abbâd b. Ebî Sâlih'den, o da babasından, o da Ebû Hureyre'den naklen rivayette bulundu. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Yemîn, yemîn isteyenin niyetine göredir.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 31
+      }
+    }
+  ]
 }

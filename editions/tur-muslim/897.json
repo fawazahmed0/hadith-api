@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"4": "The Book of Prayers "
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 837,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 897,
-			"arabicnumber": "402.01",
-			"text": "Bize Zuheyr b. Harb ile Osman b. Ebî Şeybe ve îshâk b. İbrahim rivayet ettiler. İshâk bize haber verdi tâbirini kullandı. Ötekiler; Bize Cerîr Mansur'dan, o da Ebu Vâil'den, o da Abdullah'dan naklen rivayet etti, dediler. Abdullah şunu söylemiş: Biz Resulullah (Sallallahu Aleyhi ve Sellem)'in arkasında namaz kılarken «Allah'a selam, filan’a selam» derdik. Bir gün Resulullah (Sallallahu Aleyhi ve Sellem) bize şunları söyledi: «Hiç şüphe yok ki; selam Allah’ın kendisidir. Binaenaleyh biriniz namazda oturduğu vakit; Bütün tehiyyeler, salavat ve tayyibat Allah'adır selam sana ey Nebiy Allah'ın rahmet ve bereketleri de senin üzerine olsun. Selâm bize ve Allah'ın sâlih kullarına!... [Ettehiyatu lillahi ve's-Salevatu ve't-Tayyibatu es-Selamu aleyke eyyuhe'n-Nebiyyu ve Rahmetullâhi ve berekâtuhû es-Selâmu aleyna ve alâ ibadillâhi's-Salihîn ] desin Çünkü bunu Dedikii, bu söz gökte ve yerde Allah'ın her salih kuluna isabet eder Bundan sonra; Ben Allahtan başka ilâh olmadığına şahadet ederim. Ben Muhammed'in Allah'ın kulu ve Resulü olduğuna da şahadet ederim: [ Eşhedu en la ilahe illallah ve Eşhedu enne Muhammeden abduhu ve Resuluhu ] (desin) bundan sonra dilediğini istemekte muhayyerdir",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 59
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "4": "Namaz"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 837,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 377,
+        "arabicnumber_last": 519.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 897,
+      "arabicnumber": "402.01",
+      "text": "Bize Zuheyr b. Harb ile Osman b. Ebî Şeybe ve îshâk b. İbrahim rivayet ettiler. İshâk bize haber verdi tâbirini kullandı. Ötekiler; Bize Cerîr Mansur'dan, o da Ebu Vâil'den, o da Abdullah'dan naklen rivayet etti, dediler. Abdullah şunu söylemiş: Biz Resulullah (Sallallahu Aleyhi ve Sellem)'in arkasında namaz kılarken «Allah'a selam, filan’a selam» derdik. Bir gün Resulullah (Sallallahu Aleyhi ve Sellem) bize şunları söyledi: «Hiç şüphe yok ki; selam Allah’ın kendisidir. Binaenaleyh biriniz namazda oturduğu vakit; Bütün tehiyyeler, salavat ve tayyibat Allah'adır selam sana ey Nebiy Allah'ın rahmet ve bereketleri de senin üzerine olsun. Selâm bize ve Allah'ın sâlih kullarına!... [Ettehiyatu lillahi ve's-Salevatu ve't-Tayyibatu es-Selamu aleyke eyyuhe'n-Nebiyyu ve Rahmetullâhi ve berekâtuhû es-Selâmu aleyna ve alâ ibadillâhi's-Salihîn ] desin Çünkü bunu Dedikii, bu söz gökte ve yerde Allah'ın her salih kuluna isabet eder Bundan sonra; Ben Allahtan başka ilâh olmadığına şahadet ederim. Ben Muhammed'in Allah'ın kulu ve Resulü olduğuna da şahadet ederim: [ Eşhedu en la ilahe illallah ve Eşhedu enne Muhammeden abduhu ve Resuluhu ] (desin) bundan sonra dilediğini istemekte muhayyerdir",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 59
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"14": "The Book of I'tikaf"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2780,
-				"hadithnumber_last": 2790,
-				"arabicnumber_first": 1171.01,
-				"arabicnumber_last": 1176.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2788,
-			"arabicnumber": "1175",
-			"text": "Bize Kuteybetü'bnü Saîd ile Ebû Kâmil-i Cahderi ikisi birden Abdülvâhid b. Ziyâd'dan rivayet ettiler. Kuteybe (Dediki): Bize Abdülvâhid, Hasen b. Ubeydillah'dan rivayet etti. (Demişki): Ben, İbrahim'i şunu söylerken işittim : Ben, Esved b. Yezîd'i şöyle derken işittim: Âişe (Radtyallahu anha) : «Resûlullah (Sallallahu Aleyhi ve Sellem) Ramazan'ın son on gününde, başka zamanlarda ibâdet hususunda göstermediği cehd-u gayreti gösterirdi.» dedi",
-			"grades": [],
-			"reference": {
-				"book": 14,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "14": "Î'tikâf"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2780,
+        "hadithnumber_last": 2790,
+        "arabicnumber_first": 1171.01,
+        "arabicnumber_last": 1176.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2788,
+      "arabicnumber": "1175",
+      "text": "Bize Kuteybetü'bnü Saîd ile Ebû Kâmil-i Cahderi ikisi birden Abdülvâhid b. Ziyâd'dan rivayet ettiler. Kuteybe (Dediki): Bize Abdülvâhid, Hasen b. Ubeydillah'dan rivayet etti. (Demişki): Ben, İbrahim'i şunu söylerken işittim : Ben, Esved b. Yezîd'i şöyle derken işittim: Âişe (Radtyallahu anha) : «Resûlullah (Sallallahu Aleyhi ve Sellem) Ramazan'ın son on gününde, başka zamanlarda ibâdet hususunda göstermediği cehd-u gayreti gösterirdi.» dedi",
+      "grades": [],
+      "reference": {
+        "book": 14,
+        "hadith": 9
+      }
+    }
+  ]
 }

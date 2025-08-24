@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5347,
-			"arabicnumber": "2049.06",
-			"text": "(Bize İbn Ebî Ömer rivâyet etti. ki): Bize Süfyân, Abdül-Melik b. Umeyr'den rivâyet etti. ki): Ben Amr b. Hureys'i şunu söylerken işittim. ki): Ben Saîd b. Zeyd'i şöyle derken dinledim. Resûlüllah (sallallahü aleyhi ve sellem): Allah (azze ve celle)'nin Benî İsrail'e indirdiği mendendir. Onun suyu da göze şifadır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 221
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5347,
+      "arabicnumber": "2049.06",
+      "text": "(Bize İbn Ebî Ömer rivâyet etti. ki): Bize Süfyân, Abdül-Melik b. Umeyr'den rivâyet etti. ki): Ben Amr b. Hureys'i şunu söylerken işittim. ki): Ben Saîd b. Zeyd'i şöyle derken dinledim. Resûlüllah (sallallahü aleyhi ve sellem): Allah (azze ve celle)'nin Benî İsrail'e indirdiği mendendir. Onun suyu da göze şifadır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 221
+      }
+    }
+  ]
 }

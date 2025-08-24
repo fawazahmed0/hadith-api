@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5850,
-			"arabicnumber": "2241.02",
-			"text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Muğîre yâni İbni Abdirrahman El-Hızâmî Ebu'z-Zînad'dan, o da A'rac'dan, o da Ebû Hureyre'den naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ye Sellem) şöyle buyurmuşlar : «Nebilerden biri bir ağacın altına indi de kendisini bîr karınca ısırdı. O da eşyasını emrederek ağacın altından çıkarttı. Sonra emir verdi ve karınca yuvası yakıldı. Bunun üzerine Allah ona bir tek karınca yaksaydın ya! diye vahy buyurdu.»",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 201
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5850,
+      "arabicnumber": "2241.02",
+      "text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Muğîre yâni İbni Abdirrahman El-Hızâmî Ebu'z-Zînad'dan, o da A'rac'dan, o da Ebû Hureyre'den naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ye Sellem) şöyle buyurmuşlar : «Nebilerden biri bir ağacın altına indi de kendisini bîr karınca ısırdı. O da eşyasını emrederek ağacın altından çıkarttı. Sonra emir verdi ve karınca yuvası yakıldı. Bunun üzerine Allah ona bir tek karınca yaksaydın ya! diye vahy buyurdu.»",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 201
+      }
+    }
+  ]
 }

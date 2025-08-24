@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"2": "The Book of Purification"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 534,
-				"hadithnumber_last": 678,
-				"arabicnumber_first": 223,
-				"arabicnumber_last": 292.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 604,
-			"arabicnumber": "261.01",
-			"text": "Bize Kuteybetü'bnü Said ile Ebu Bekr b. Ebi Şeybe ve Züheyr b. Harb rivayet ettiler. Dedilerki: Bize Vekî', Zekeriyya b. Ebi Zaide'den, o da Mus'ab b. Şeybe'den, o da Talk b. Habîb'den, o da Abdullah b. Zübeyr'den, o da Aişe'den naklen rivayet etti; Şöyle demiş Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: \"On şey fıtrattandır: Bıyıklan kesmek, sakalları bırakmak, misvak kullanmak, buruna su çekmek, tırnakları kesmek, parmak eklem ve boğumlarını yıkamak, koltuk altlarını yolmak, etek tıraşı olmak ve temizlenirken su kullanmak. \" (Ravilerden} Zekeriya dedi ki: Mus'ab: Onuncusunu unuttum. Ancak o mazmaza olmalıdır, dedi. Kuteybe şunu ekledi: Veki' dedi ki: Temizlenirken su kullanmak istinca yapmak demektir. Diğer tahric: Ebu Davud, 53; Tırmizi, 2757; Nesai, 5055, 5056, 5057; İbn Mace, 293; Tuhfetu'lEşraf",
-			"grades": [],
-			"reference": {
-				"book": 2,
-				"hadith": 71
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "2": "Taharet"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 534,
+        "hadithnumber_last": 678,
+        "arabicnumber_first": 223,
+        "arabicnumber_last": 292.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 604,
+      "arabicnumber": "261.01",
+      "text": "Bize Kuteybetü'bnü Said ile Ebu Bekr b. Ebi Şeybe ve Züheyr b. Harb rivayet ettiler. Dedilerki: Bize Vekî', Zekeriyya b. Ebi Zaide'den, o da Mus'ab b. Şeybe'den, o da Talk b. Habîb'den, o da Abdullah b. Zübeyr'den, o da Aişe'den naklen rivayet etti; Şöyle demiş Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: \"On şey fıtrattandır: Bıyıklan kesmek, sakalları bırakmak, misvak kullanmak, buruna su çekmek, tırnakları kesmek, parmak eklem ve boğumlarını yıkamak, koltuk altlarını yolmak, etek tıraşı olmak ve temizlenirken su kullanmak. \" (Ravilerden} Zekeriya dedi ki: Mus'ab: Onuncusunu unuttum. Ancak o mazmaza olmalıdır, dedi. Kuteybe şunu ekledi: Veki' dedi ki: Temizlenirken su kullanmak istinca yapmak demektir. Diğer tahric: Ebu Davud, 53; Tırmizi, 2757; Nesai, 5055, 5056, 5057; İbn Mace, 293; Tuhfetu'lEşraf",
+      "grades": [],
+      "reference": {
+        "book": 2,
+        "hadith": 71
+      }
+    }
+  ]
 }

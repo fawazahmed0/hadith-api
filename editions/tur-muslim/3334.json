@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3334,
-			"arabicnumber": "1373.01",
-			"text": "Bize Kuteybetü'bnü Saîd, Mâlik b. Enes'den, ona da Süheyl b. Ebî Sâlih'den naklen okunan hadîsler meyanında Süheyl'in, babasından, onun da Ebû Hureyre'den rivayet ettiği şu hadîsi tahdîs eyledi. Ebû Hureyre şöyle demiş : «Halk ilk mahsûlü gördüler mi onu Nebi (Sallallahu Aleyhi ve Sellem)'e getirirler; Resulullah (Sallallahu Aleyhi ve Sellem) onu alınca: — Ya Rabbî! Bize mahsûlümüzde bereket, Medînemizde bereket, sâ'ımızda bereket, müddümüzde bereket ihsan oyle! Allah! Şüphesizki İbrahim senin kulun, halilin ve Nebiindir; ben de senin kulun ve Nebiinim. O sana Mekke için dua'da bulunmuş; ben de onun Mekke için yaptığı dua'nın bir mislini, bir misli daha beraberinde olmak üzere sana Medine için yapıyorum.» buyurur; sonra en küçük çocuğunu çağırır da bu mahsulü ona verirdi.»",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 538
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3334,
+      "arabicnumber": "1373.01",
+      "text": "Bize Kuteybetü'bnü Saîd, Mâlik b. Enes'den, ona da Süheyl b. Ebî Sâlih'den naklen okunan hadîsler meyanında Süheyl'in, babasından, onun da Ebû Hureyre'den rivayet ettiği şu hadîsi tahdîs eyledi. Ebû Hureyre şöyle demiş : «Halk ilk mahsûlü gördüler mi onu Nebi (Sallallahu Aleyhi ve Sellem)'e getirirler; Resulullah (Sallallahu Aleyhi ve Sellem) onu alınca: — Ya Rabbî! Bize mahsûlümüzde bereket, Medînemizde bereket, sâ'ımızda bereket, müddümüzde bereket ihsan oyle! Allah! Şüphesizki İbrahim senin kulun, halilin ve Nebiindir; ben de senin kulun ve Nebiinim. O sana Mekke için dua'da bulunmuş; ben de onun Mekke için yaptığı dua'nın bir mislini, bir misli daha beraberinde olmak üzere sana Medine için yapıyorum.» buyurur; sonra en küçük çocuğunu çağırır da bu mahsulü ona verirdi.»",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 538
+      }
+    }
+  ]
 }

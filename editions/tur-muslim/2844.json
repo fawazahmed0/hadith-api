@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2844,
-			"arabicnumber": "1192.03",
-			"text": "Bize Ebû Kureyb rivayet etti. (Dediki): Bize Veki', Mis'ar ile Süfyân'dan, onlar da İbrahim b. Muhammed b. Münteşirden, o da babasından naklen rivayet etti. Babası şöyle demiş: Ben, İbni Ömer (Radiyallahu anhuma)'yı: «Katrana bulanmış olarak sabahlamam, benim için ihrâmlı sabahlayıp da koku saçmamdan daha makbuldür, derken işittim. Bunun üzerine Aişe (Radiyallahû anha)'nın yanına girerek İbni Ömer'in söylediklerini ona haber verdim. Âişe: «Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i kokuladım da kadınlarını dolaştı, sonra ihrâmlı olarak sabahladı.» dedi",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2844,
+      "arabicnumber": "1192.03",
+      "text": "Bize Ebû Kureyb rivayet etti. (Dediki): Bize Veki', Mis'ar ile Süfyân'dan, onlar da İbrahim b. Muhammed b. Münteşirden, o da babasından naklen rivayet etti. Babası şöyle demiş: Ben, İbni Ömer (Radiyallahu anhuma)'yı: «Katrana bulanmış olarak sabahlamam, benim için ihrâmlı sabahlayıp da koku saçmamdan daha makbuldür, derken işittim. Bunun üzerine Aişe (Radiyallahû anha)'nın yanına girerek İbni Ömer'in söylediklerini ona haber verdim. Âişe: «Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i kokuladım da kadınlarını dolaştı, sonra ihrâmlı olarak sabahladı.» dedi",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 54
+      }
+    }
+  ]
 }

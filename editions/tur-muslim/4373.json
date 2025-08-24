@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"28": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 4342,
-				"hadithnumber_last": 4397,
-				"arabicnumber_first": 1669.01,
-				"arabicnumber_last": 1683
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4373,
-			"arabicnumber": "1674.04",
-			"text": "{…} Bize bu hadîsi Amr b. Zürâra da rivayet etti, (Dediki): Bize İsmail b. İbrahim haber verdi. (Dediki): Bize İbni Cüreyc bu isnâdla bu hadisin benzerini haber verdi",
-			"grades": [],
-			"reference": {
-				"book": 28,
-				"hadith": 32
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "28": "Kasâme, Muhakibler, Kısas ve Diyetler Bahsi"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 4342,
+        "hadithnumber_last": 4397,
+        "arabicnumber_first": 1669.01,
+        "arabicnumber_last": 1683
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4373,
+      "arabicnumber": "1674.04",
+      "text": "{…} Bize bu hadîsi Amr b. Zürâra da rivayet etti, (Dediki): Bize İsmail b. İbrahim haber verdi. (Dediki): Bize İbni Cüreyc bu isnâdla bu hadisin benzerini haber verdi",
+      "grades": [],
+      "reference": {
+        "book": 28,
+        "hadith": 32
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 253,
-			"arabicnumber": "85.02",
-			"text": "Bize Muhammed b. Ebî Ömer el-Mekki rivayet etti. (Dedi ki): Bize Mervân el-Fezân rivayet etti. (Dediki): Bize Ebu Ya'fur, el-Velid b. el-Ayzâr'dan, o da Ebu Amr Şeybânî'den, o da Abdullah b. Mes'ud'dan naklen rivayet etti. Şöyle demiş: Ey Allah'ın Nebisi hangi amel cennete daha yakın(laştırıcı)dır dedim. O: \"Vakitlerinde kılınan namazdır\" buyurdu. Ben: Başka hangisidir ey Allah'ın Nebisi, dedim. O: ''Anne babaya iyiliktir\" buyurdu. Ben: Başka hangisidir ey Allah'ın Nebisi, dedim. O: ''Allah yolunda cihaddır\" buyurdu.595 Diğer tahric: Buhari, 504, 2630, 5625, 7096; Tirmizi, 173; Nesai, 609, 610; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 159
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 253,
+      "arabicnumber": "85.02",
+      "text": "Bize Muhammed b. Ebî Ömer el-Mekki rivayet etti. (Dedi ki): Bize Mervân el-Fezân rivayet etti. (Dediki): Bize Ebu Ya'fur, el-Velid b. el-Ayzâr'dan, o da Ebu Amr Şeybânî'den, o da Abdullah b. Mes'ud'dan naklen rivayet etti. Şöyle demiş: Ey Allah'ın Nebisi hangi amel cennete daha yakın(laştırıcı)dır dedim. O: \"Vakitlerinde kılınan namazdır\" buyurdu. Ben: Başka hangisidir ey Allah'ın Nebisi, dedim. O: ''Anne babaya iyiliktir\" buyurdu. Ben: Başka hangisidir ey Allah'ın Nebisi, dedim. O: ''Allah yolunda cihaddır\" buyurdu.595 Diğer tahric: Buhari, 504, 2630, 5625, 7096; Tirmizi, 173; Nesai, 609, 610; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 159
+      }
+    }
+  ]
 }

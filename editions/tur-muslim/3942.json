@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3942,
-			"arabicnumber": "1547.08",
-			"text": "Bize Muhammed b. Müsennâ rivayet etti. (Dediki): Bize Hüseyn yâni İbni Hasan b. Yesâr rivayet etti. (Dediki): Bize îbni Avn, Nâfi'den naklen rivayet etti ki, îbni Ömer toprağı kiraya veriyormuş. Nâfi' demiş ki: Sonra Râft b. Hadic'in bir hadîs rivayet ettiğini duydu. Hemen beni alarak onun yanma gitti. O da amcalarının bazısından rivayette bulundu. Bu hadîste Nebi (Sallallahu Aleyhi ve Sellem)'den naklen onun yeri kiraya vermekten nehî buyurduğunu söyledi. Bunun üzerine İbni Ömer bu işi bıraktı; ve tarlayı kiraya vermez oldu",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 141
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3942,
+      "arabicnumber": "1547.08",
+      "text": "Bize Muhammed b. Müsennâ rivayet etti. (Dediki): Bize Hüseyn yâni İbni Hasan b. Yesâr rivayet etti. (Dediki): Bize îbni Avn, Nâfi'den naklen rivayet etti ki, îbni Ömer toprağı kiraya veriyormuş. Nâfi' demiş ki: Sonra Râft b. Hadic'in bir hadîs rivayet ettiğini duydu. Hemen beni alarak onun yanma gitti. O da amcalarının bazısından rivayette bulundu. Bu hadîste Nebi (Sallallahu Aleyhi ve Sellem)'den naklen onun yeri kiraya vermekten nehî buyurduğunu söyledi. Bunun üzerine İbni Ömer bu işi bıraktı; ve tarlayı kiraya vermez oldu",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 141
+      }
+    }
+  ]
 }

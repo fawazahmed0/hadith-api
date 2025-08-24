@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6529,
-			"text": "(Bize Ebû Kâmil rivâyet etti. ki): Bize Yezîd (yani İbn Zürey') rivâyet etti. H. Muhammed b. Râfi' ile Abd b. Humeyd de ikisi birden Abdürrazzâk'dan rivâyet ettiler. Bu râvilerin hepsi Ma'mer'den, o da Zührî'den bu İsnadla rivâyette bulunmuşlardır. Ma'mer'den rivâyeti, Süfyân'ın Zührî'den rivâyeti gihidir; dört hasleti birden zikreder. Abdürrazzâk'ın rivâyetinde ise: «Birbirinize hasedlik çekmeyin! Birbirinizle alâkayı kesmeyn! Ve birbirinize sırt çevirmeyin!» şeklindedir",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6529,
+      "text": "(Bize Ebû Kâmil rivâyet etti. ki): Bize Yezîd (yani İbn Zürey') rivâyet etti. H. Muhammed b. Râfi' ile Abd b. Humeyd de ikisi birden Abdürrazzâk'dan rivâyet ettiler. Bu râvilerin hepsi Ma'mer'den, o da Zührî'den bu İsnadla rivâyette bulunmuşlardır. Ma'mer'den rivâyeti, Süfyân'ın Zührî'den rivâyeti gihidir; dört hasleti birden zikreder. Abdürrazzâk'ın rivâyetinde ise: «Birbirinize hasedlik çekmeyin! Birbirinizle alâkayı kesmeyn! Ve birbirinize sırt çevirmeyin!» şeklindedir",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

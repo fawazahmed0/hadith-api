@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6161,
-			"arabicnumber": "2378",
-			"text": "Bize Züheyr b. Harb ile Muhammed b. Müsennâ ve Ubeydullah b. Saîd rivayet ettiler. (Dedilerki): Bize Yahya b. Saîd, Ubeydullah'dan rivayet etti. (Demişki): Bana Saîd b, Ebî Saîd, babasından, o da Ebû Hureyre'den naklen haber verdi. Ebû Hureyre şöyle demiş: — Yâ Resûlallah! İnsanların en hayırlısı kimdir? diye soruldu: «En ziyade takva sahibi olanıdır.» — Bunu sormuyoruz, dediler. «O halde Halilullah'ın oğlu Nebiyyullah'ın oğlu, Nebiyyullah'ın oğlu Nebiyyullah Yûsuf’dur.» buyurdu. — Bunu sormuyoruz, dediler. «Şu halde bana Arabların madenlerini mi soruyorsunuz? Onların cahiliyyet devrindeki hayırlıları fakih olurlarsa İslâm'da da en hayırlılarıdır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 219
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6161,
+      "arabicnumber": "2378",
+      "text": "Bize Züheyr b. Harb ile Muhammed b. Müsennâ ve Ubeydullah b. Saîd rivayet ettiler. (Dedilerki): Bize Yahya b. Saîd, Ubeydullah'dan rivayet etti. (Demişki): Bana Saîd b, Ebî Saîd, babasından, o da Ebû Hureyre'den naklen haber verdi. Ebû Hureyre şöyle demiş: — Yâ Resûlallah! İnsanların en hayırlısı kimdir? diye soruldu: «En ziyade takva sahibi olanıdır.» — Bunu sormuyoruz, dediler. «O halde Halilullah'ın oğlu Nebiyyullah'ın oğlu, Nebiyyullah'ın oğlu Nebiyyullah Yûsuf’dur.» buyurdu. — Bunu sormuyoruz, dediler. «Şu halde bana Arabların madenlerini mi soruyorsunuz? Onların cahiliyyet devrindeki hayırlıları fakih olurlarsa İslâm'da da en hayırlılarıdır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 219
+      }
+    }
+  ]
 }

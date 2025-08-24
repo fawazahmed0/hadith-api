@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3903,
-			"arabicnumber": "1543.03",
-			"text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Leys rivayet etti. H. Bize İbni Rumh dahî rivayet etti. (Dediki): Bize Leys, Nâfi'den, o da ibni Ömer'den naklen haber verdi ki. Nebi (Sallallahu Aleyhi ve Sellem): «Herhangi bir kimse bir hurmalığı aşılar da sonra ağaçlarını satarsa, hurmalığın meyvesi aşılayana aittir; meğer ki müşteri şart koşmuş ola!» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 102
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3903,
+      "arabicnumber": "1543.03",
+      "text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Leys rivayet etti. H. Bize İbni Rumh dahî rivayet etti. (Dediki): Bize Leys, Nâfi'den, o da ibni Ömer'den naklen haber verdi ki. Nebi (Sallallahu Aleyhi ve Sellem): «Herhangi bir kimse bir hurmalığı aşılar da sonra ağaçlarını satarsa, hurmalığın meyvesi aşılayana aittir; meğer ki müşteri şart koşmuş ola!» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 102
+      }
+    }
+  ]
 }

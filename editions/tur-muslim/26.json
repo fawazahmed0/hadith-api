@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 26,
-			"text": "(Bize Hasen b. Rabî rivâyet etti. ki): Bize Hammâd b. Zeyd, Eyyûb'la Hişâm'den, onlar da Muhammed'din naklen rivâyet ettiler. bize; Fudayl, Hişâm'dan naklen rivâyet etti. ki: Bize de Mahled b. Hüseyin, Hişâm'dan, o da Muhammed b. Sîrîn'den naklen rivâyet etti. Muhammed Şöyle dedi: ki bu ilim dindir. Öyle ise dinînizi kimlerden aldığınıza dikkat edin!...»",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 26,
+      "text": "(Bize Hasen b. Rabî rivâyet etti. ki): Bize Hammâd b. Zeyd, Eyyûb'la Hişâm'den, onlar da Muhammed'din naklen rivâyet ettiler. bize; Fudayl, Hişâm'dan naklen rivâyet etti. ki: Bize de Mahled b. Hüseyin, Hişâm'dan, o da Muhammed b. Sîrîn'den naklen rivâyet etti. Muhammed Şöyle dedi: ki bu ilim dindir. Öyle ise dinînizi kimlerden aldığınıza dikkat edin!...»",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 26
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6194,
-			"arabicnumber": "2392.03",
-			"text": "{m-17-2} Bize Huivâni ile Abd b. Humeyd rivayet ettiler. (Dedilerki): Bize Ya'kub rivayet etti. (Dediki): Bize babam Sâlih'den rivayet etti. (Demişki): A'rac ve başkası şunu söyledi. Gerçekten Ebû Hureyre dediki: Resulullah (Sallallahu Aleyhi ve Sellem): «Ben Ebû Kuhafe'nin oğlunu su çekerken gördüm...» Râvi Zühri'nin hadisi gibi rivayette bulunmuştur",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6194,
+      "arabicnumber": "2392.03",
+      "text": "{m-17-2} Bize Huivâni ile Abd b. Humeyd rivayet ettiler. (Dedilerki): Bize Ya'kub rivayet etti. (Dediki): Bize babam Sâlih'den rivayet etti. (Demişki): A'rac ve başkası şunu söyledi. Gerçekten Ebû Hureyre dediki: Resulullah (Sallallahu Aleyhi ve Sellem): «Ben Ebû Kuhafe'nin oğlunu su çekerken gördüm...» Râvi Zühri'nin hadisi gibi rivayette bulunmuştur",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 25
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5742,
-			"arabicnumber": "2205.01",
-			"text": "Bize Harun b. Ma'ruf ile Ebu't-Tâhir rivayet ettiler. (Dedilerki): Bize İbni Vehb rivayet etti. (Dediki): Bana Amr haber verdi. Ona da Bükeyr, ona da Âsim b. Ömer b. Katâde rivayet etmişki, Câbir b, Abdillah Mukannai dolaşmış, sonra: — Sen kan aldırmadıkça buradan ayrılmam. Çünkü ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i : «Bunda şifâ vardır.» buyururken işittim, demiş",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 96
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5742,
+      "arabicnumber": "2205.01",
+      "text": "Bize Harun b. Ma'ruf ile Ebu't-Tâhir rivayet ettiler. (Dedilerki): Bize İbni Vehb rivayet etti. (Dediki): Bana Amr haber verdi. Ona da Bükeyr, ona da Âsim b. Ömer b. Katâde rivayet etmişki, Câbir b, Abdillah Mukannai dolaşmış, sonra: — Sen kan aldırmadıkça buradan ayrılmam. Çünkü ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i : «Bunda şifâ vardır.» buyururken işittim, demiş",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 96
+      }
+    }
+  ]
 }

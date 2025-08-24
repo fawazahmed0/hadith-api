@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3263,
-			"arabicnumber": "827.04",
-			"text": "Bize Kuteybetu'bnü Saîd ile Osman b. Ebi Şeybe hep birden Cerîr'den rivayet ettiler. Kuteybe (Dediki): Bize Cerîr, Abdü'l-Melik yani İbni Umeyr'den, o da Kazea'dan, o da Ebû Saîd'den naklen rivayet etti. Kazea şöyle demiş: Ebû Saîd'den bir hadîs dinledim de hoşuma gitti. Kendisine : — Bunu Resûlullah (Sallallahu Aleyhi ve Sellem)'den sen mi işittin? diye sordum. Ebû Saîd : — Resulullah (Sallallahu Aleyhi ve Sellem)'den işitmediğim bir şeyi onun üzerinden mi söyliyeceğim? dedi. Kazea demiş ki: Ebû Saîd'î şöyle derken işittim: «Resulullah (Sallallahu Aleyhi ve Sellem): — Semerleri ancak üç mescide gitmek için bağlayın! Benim şu mescidime, Mescid-i Harâm'a ve Mescid-i Aksâ'ya! buyurdular. Ve yine Resûlullah (Sallallahu Aleyhi ve Sellem)'i: «Kadın yanında mahremi veya kocası olmaksızın hiç bîr zaman iki günlük yola çıkmasın!» buyururken işittim",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 465
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3263,
+      "arabicnumber": "827.04",
+      "text": "Bize Kuteybetu'bnü Saîd ile Osman b. Ebi Şeybe hep birden Cerîr'den rivayet ettiler. Kuteybe (Dediki): Bize Cerîr, Abdü'l-Melik yani İbni Umeyr'den, o da Kazea'dan, o da Ebû Saîd'den naklen rivayet etti. Kazea şöyle demiş: Ebû Saîd'den bir hadîs dinledim de hoşuma gitti. Kendisine : — Bunu Resûlullah (Sallallahu Aleyhi ve Sellem)'den sen mi işittin? diye sordum. Ebû Saîd : — Resulullah (Sallallahu Aleyhi ve Sellem)'den işitmediğim bir şeyi onun üzerinden mi söyliyeceğim? dedi. Kazea demiş ki: Ebû Saîd'î şöyle derken işittim: «Resulullah (Sallallahu Aleyhi ve Sellem): — Semerleri ancak üç mescide gitmek için bağlayın! Benim şu mescidime, Mescid-i Harâm'a ve Mescid-i Aksâ'ya! buyurdular. Ve yine Resûlullah (Sallallahu Aleyhi ve Sellem)'i: «Kadın yanında mahremi veya kocası olmaksızın hiç bîr zaman iki günlük yola çıkmasın!» buyururken işittim",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 465
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"33": "The Book on Government"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 4701,
-				"hadithnumber_last": 4967,
-				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4919,
-			"arabicnumber": "1904.01",
-			"text": "Bize Muhammed b. El-Müsennâ ile ibni Beşşâr rivayet ettiler. Lâfız ibni'l-Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be, Amr b. Mürra'dan rivayet etti. (Demişki): Ebû Vail'i dinledim. (Dediki): Bize Ebû Mûse'l-Eş'arî rivayet etti kî, Bedevi bir adam Nebi (Sallallahu Aleyhi ve Sellem)'e gelerek : — Yâ Resûlâllah! Adam (var) ganimet için çarpışıyor. Adam (var) anılsın diye çarpışıyor ve adam (var) mevk görülsün diye çarpışıyor. Aceb Allah yolunda çarpışan kim? Dedi. Resûlullah (Sallallahu Aleyhi ve Sellem): «Kim kelimetullah yüce olsun diye çarpışırsa işte o Allah yolundadır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 33,
-				"hadith": 214
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "33": "Emirlik"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 4701,
+        "hadithnumber_last": 4967,
+        "arabicnumber_first": 1818.01,
+        "arabicnumber_last": 1928.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4919,
+      "arabicnumber": "1904.01",
+      "text": "Bize Muhammed b. El-Müsennâ ile ibni Beşşâr rivayet ettiler. Lâfız ibni'l-Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be, Amr b. Mürra'dan rivayet etti. (Demişki): Ebû Vail'i dinledim. (Dediki): Bize Ebû Mûse'l-Eş'arî rivayet etti kî, Bedevi bir adam Nebi (Sallallahu Aleyhi ve Sellem)'e gelerek : — Yâ Resûlâllah! Adam (var) ganimet için çarpışıyor. Adam (var) anılsın diye çarpışıyor ve adam (var) mevk görülsün diye çarpışıyor. Aceb Allah yolunda çarpışan kim? Dedi. Resûlullah (Sallallahu Aleyhi ve Sellem): «Kim kelimetullah yüce olsun diye çarpışırsa işte o Allah yolundadır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 33,
+        "hadith": 214
+      }
+    }
+  ]
 }

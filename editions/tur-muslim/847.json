@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"4": "The Book of Prayers "
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 837,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 847,
-			"arabicnumber": "382",
-			"text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Yahya İbni Sâîd, Hammâd b. Seleme'den rivayet etti. (Demişki): Bize Sabit, Enes b. Mâlik'ten naklen rivayet etti. Enes şöyle demiş: Resulullah (Sallaîlahu Aleyhi ve Sellem) fecr doğduğu zaman baskın yapardı. Ezanı dinletirdi şayet ezan (sesi) işitirse (baskından) vazgeçer; işitmezse baskın yapardı. (Bir defa) Allah-u Ekber, Allah-ü Ekber diyen bir adam işitti. Bunun üzerine Resulullâh (Sallallahu Aleyhi ve Sellem): «Fıtrat (ı islâm) üzere!» buyurdular. Sonra o zât: «Eşhedu en lâ ilahe illallah, Eşhedü en lâ ilâhe illallah» dedi. Resulullah (Sallallahu Aleyhi ve Sellem) ; «Cehennemden çıktın» buyurdular. Müteakiben baktılar ki adamcağız bir keçi çobanıymış",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "4": "Namaz"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 837,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 377,
+        "arabicnumber_last": 519.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 847,
+      "arabicnumber": "382",
+      "text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Yahya İbni Sâîd, Hammâd b. Seleme'den rivayet etti. (Demişki): Bize Sabit, Enes b. Mâlik'ten naklen rivayet etti. Enes şöyle demiş: Resulullah (Sallaîlahu Aleyhi ve Sellem) fecr doğduğu zaman baskın yapardı. Ezanı dinletirdi şayet ezan (sesi) işitirse (baskından) vazgeçer; işitmezse baskın yapardı. (Bir defa) Allah-u Ekber, Allah-ü Ekber diyen bir adam işitti. Bunun üzerine Resulullâh (Sallallahu Aleyhi ve Sellem): «Fıtrat (ı islâm) üzere!» buyurdular. Sonra o zât: «Eşhedu en lâ ilahe illallah, Eşhedü en lâ ilâhe illallah» dedi. Resulullah (Sallallahu Aleyhi ve Sellem) ; «Cehennemden çıktın» buyurdular. Müteakiben baktılar ki adamcağız bir keçi çobanıymış",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 11
+      }
+    }
+  ]
 }

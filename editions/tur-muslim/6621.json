@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6621,
-			"arabicnumber": "2601.04",
-			"text": "{M-90-2} Bana Süleyman b. Ma'bed rivayet etti. (Dediki): Bize Süleyman b. Harb rivayet etti. (Dediki): Bize Hammad b. Zeyd, Eyyûb'dan, o da Abdurrahman El-A'rac'dan, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellemi'den naklen hu hadîsin benzerini rivayet etti)",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 119
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6621,
+      "arabicnumber": "2601.04",
+      "text": "{M-90-2} Bana Süleyman b. Ma'bed rivayet etti. (Dediki): Bize Süleyman b. Harb rivayet etti. (Dediki): Bize Hammad b. Zeyd, Eyyûb'dan, o da Abdurrahman El-A'rac'dan, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellemi'den naklen hu hadîsin benzerini rivayet etti)",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 119
+      }
+    }
+  ]
 }

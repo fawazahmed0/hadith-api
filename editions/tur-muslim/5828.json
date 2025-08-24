@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5828,
-			"arabicnumber": "2233.04",
-			"text": "Bana Muhammed b. Rumh da rivayet etti. (Dediki): Bize Leys haber verdi. H. Bize Kuteybe b. Saîd dahî rivayet etti. Lâfız onundur. (Dediki): Bize Leys Nâfi'den rivayet ettiki, Ebû Lübâbe mescide yaklaşmak için evinde kendisine bir kapı açması hususunda İbni Ömer'le konuşmuş. Derken hizmetçiler bir küçük yılan derisi görmüşler. Abdullah: Onu yakalayın ve öldürün, demiş. Ebû Lübâbe ise: Onu öldürmeyin! Çünkü Resûlullah (Sallallahu Aleyhi ve Sellem) evlerdeki küçük yılanları öldürmekten nehiy buyurdu, demiş",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 179
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5828,
+      "arabicnumber": "2233.04",
+      "text": "Bana Muhammed b. Rumh da rivayet etti. (Dediki): Bize Leys haber verdi. H. Bize Kuteybe b. Saîd dahî rivayet etti. Lâfız onundur. (Dediki): Bize Leys Nâfi'den rivayet ettiki, Ebû Lübâbe mescide yaklaşmak için evinde kendisine bir kapı açması hususunda İbni Ömer'le konuşmuş. Derken hizmetçiler bir küçük yılan derisi görmüşler. Abdullah: Onu yakalayın ve öldürün, demiş. Ebû Lübâbe ise: Onu öldürmeyin! Çünkü Resûlullah (Sallallahu Aleyhi ve Sellem) evlerdeki küçük yılanları öldürmekten nehiy buyurdu, demiş",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 179
+      }
+    }
+  ]
 }

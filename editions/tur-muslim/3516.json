@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3516,
-			"arabicnumber": "1429.08",
-			"text": "Bana Harun b. Abdillah rivayet etti.(Dediki): Bize Haccâc b. Muhammed, ibni Cüreyc'den rivayet etti. (Demişki): Bana Musa b. Ukbe, Nafi'den naklen haber verdi. (Demişki): Ben Abdullah b. Ömer'i şunu söylerken işittim: Resulullah (Sallallahu Aleyhi ve Sellem): «Çağrıldığınız taktirde bu davete icabet edin!» buyurdular. Kura'da olsa dahi. Nafi' demiş ki : «Abdullah b. Ömer düğünde olsun, düğünden başka bir hususta olsun davete gelirdi. Oruçlu iken dahi davete gelirdi.»",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 119
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3516,
+      "arabicnumber": "1429.08",
+      "text": "Bana Harun b. Abdillah rivayet etti.(Dediki): Bize Haccâc b. Muhammed, ibni Cüreyc'den rivayet etti. (Demişki): Bana Musa b. Ukbe, Nafi'den naklen haber verdi. (Demişki): Ben Abdullah b. Ömer'i şunu söylerken işittim: Resulullah (Sallallahu Aleyhi ve Sellem): «Çağrıldığınız taktirde bu davete icabet edin!» buyurdular. Kura'da olsa dahi. Nafi' demiş ki : «Abdullah b. Ömer düğünde olsun, düğünden başka bir hususta olsun davete gelirdi. Oruçlu iken dahi davete gelirdi.»",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 119
+      }
+    }
+  ]
 }

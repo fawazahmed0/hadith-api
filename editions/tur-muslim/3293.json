@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3293,
-			"arabicnumber": "1350.03",
-			"text": "{…} Bize Said b. Mansûr rivayet etti. (Dediki): Bize Hüşeym, Seyyâr'dan, o da Ebû Hâzim'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 497
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3293,
+      "arabicnumber": "1350.03",
+      "text": "{…} Bize Said b. Mansûr rivayet etti. (Dediki): Bize Hüşeym, Seyyâr'dan, o da Ebû Hâzim'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 497
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"18": "The Book of Divorce "
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 3652,
-				"hadithnumber_last": 3742,
-				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3719,
-			"arabicnumber": "1481.02",
-			"text": "Bize (Yine) Muhammed b. Müsennâ rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be, Abdurrahmân b. Kâsim'dan, o da babasından, o da Âişe'den naklen rivayet etti ki, Âişe, Fâtıme'nin (mesken ve nafaka vermedi) sözünü kasdederek: — Bunu anmakla Fâtıme'ye bir hayır yoktur; demiş",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 67
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "18": "Boşama"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 3652,
+        "hadithnumber_last": 3742,
+        "arabicnumber_first": 1471.01,
+        "arabicnumber_last": 1491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3719,
+      "arabicnumber": "1481.02",
+      "text": "Bize (Yine) Muhammed b. Müsennâ rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be, Abdurrahmân b. Kâsim'dan, o da babasından, o da Âişe'den naklen rivayet etti ki, Âişe, Fâtıme'nin (mesken ve nafaka vermedi) sözünü kasdederek: — Bunu anmakla Fâtıme'ye bir hayır yoktur; demiş",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 67
+      }
+    }
+  ]
 }

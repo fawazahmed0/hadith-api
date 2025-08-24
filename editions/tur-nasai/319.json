@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 319,
-			"arabicnumber": 319,
-			"text": "Yine İbn Abdurrahman b. Ebza babasından naklederek diyor ki: Bir adam Ömer’e gelip “cünüp oldum su da bulamadım” dedi. Ömer de ona: “Öyleyse namaz kılma” dedi. O zaman Ammar, Ömer’e: “Hatırlamıyor musun? ey mü’minlerin emiri, birlikte bir seriyyede idik ve cünüp olmuştuk, su da bulamamıştık, sen namaz kılmamıştın, ben ise toprakta yuvarlanıp sonra da namazımı kılmıştım. (daha sonra) Rasûlullah (s.a.v)’e gelip durumu haber verince şöyle buyurdular: “Şöyle yapman yeterlidir, diyerek iki elini yere vurdu. Sonra ellerine bulaşan toprağı üfürdü, iki eliyle yüzünü ve ellerini meshetti.” Ebû Seleme bu konuda şüphe ederek şöyle dedi: “Dirseklerine kadar mı? Yoksa bileklerine kadar mı meshetti bilmiyorum.” Bunun üzerine Ömer şöyle dedi: “Bu zeka ve kabiliyetinden dolayı seni yetkili bir makama getireceğiz.” Şu’be diyor ki: “İki avucuyla yüzünü ve bileklerine kadar kollarını meshetti.” (İbn Mâce, Tahara: 91; Müslim, Hayz:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 320
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 319,
+      "arabicnumber": 319,
+      "text": "Yine İbn Abdurrahman b. Ebza babasından naklederek diyor ki: Bir adam Ömer’e gelip “cünüp oldum su da bulamadım” dedi. Ömer de ona: “Öyleyse namaz kılma” dedi. O zaman Ammar, Ömer’e: “Hatırlamıyor musun? ey mü’minlerin emiri, birlikte bir seriyyede idik ve cünüp olmuştuk, su da bulamamıştık, sen namaz kılmamıştın, ben ise toprakta yuvarlanıp sonra da namazımı kılmıştım. (daha sonra) Rasûlullah (s.a.v)’e gelip durumu haber verince şöyle buyurdular: “Şöyle yapman yeterlidir, diyerek iki elini yere vurdu. Sonra ellerine bulaşan toprağı üfürdü, iki eliyle yüzünü ve ellerini meshetti.” Ebû Seleme bu konuda şüphe ederek şöyle dedi: “Dirseklerine kadar mı? Yoksa bileklerine kadar mı meshetti bilmiyorum.” Bunun üzerine Ömer şöyle dedi: “Bu zeka ve kabiliyetinden dolayı seni yetkili bir makama getireceğiz.” Şu’be diyor ki: “İki avucuyla yüzünü ve bileklerine kadar kollarını meshetti.” (İbn Mâce, Tahara: 91; Müslim, Hayz:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 320
+      }
+    }
+  ]
 }

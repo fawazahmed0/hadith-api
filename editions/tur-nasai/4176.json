@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"39": "The Book of al-Bay'ah"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 4149,
-				"hadithnumber_last": 4211,
-				"arabicnumber_first": 4149,
-				"arabicnumber_last": 4211
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4176,
-			"arabicnumber": 4176,
-			"text": "",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 39,
-				"hadith": 28
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "39": "Bey'at (Rasûlullahın Dini ve Siyasi Otoritesini Kabul Etmek) Kitabı"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 4149,
+        "hadithnumber_last": 4211,
+        "arabicnumber_first": 4149,
+        "arabicnumber_last": 4211
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4176,
+      "arabicnumber": 4176,
+      "text": "",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 39,
+        "hadith": 28
+      }
+    }
+  ]
 }

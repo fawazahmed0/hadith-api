@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 53,
-			"arabicnumber": 53,
-			"text": "Enes (radıyallahü anh)’den rivâyete göre: bedevi mescide küçük abdestini yaptı. Orada bulunanlardan bir kısmı ona engel olmaya kalkışmışlardı. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem): ona engel olmayın) buyurdu. Bedevi işini bitirince Rasûlüllah (sallallahü aleyhi ve sellem) bir kova su getirtti ve idrarın üzerine döktü.) (Buhârî, Vudu’’: 61; İbn Mâce, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 53,
+      "arabicnumber": 53,
+      "text": "Enes (radıyallahü anh)’den rivâyete göre: bedevi mescide küçük abdestini yaptı. Orada bulunanlardan bir kısmı ona engel olmaya kalkışmışlardı. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem): ona engel olmayın) buyurdu. Bedevi işini bitirince Rasûlüllah (sallallahü aleyhi ve sellem) bir kova su getirtti ve idrarın üzerine döktü.) (Buhârî, Vudu’’: 61; İbn Mâce, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 53
+      }
+    }
+  ]
 }

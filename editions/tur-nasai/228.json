@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 228,
-			"arabicnumber": 228,
-			"text": "Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v): Farak denilen bir kap dolusu su ile guslederdi. Ben de aynı şekilde bir kaptan su kullanarak guslederdik.” (Müslim, Hayz: 10; Buhârî, Gusül:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 229
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 228,
+      "arabicnumber": 228,
+      "text": "Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v): Farak denilen bir kap dolusu su ile guslederdi. Ben de aynı şekilde bir kaptan su kullanarak guslederdik.” (Müslim, Hayz: 10; Buhârî, Gusül:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 229
+      }
+    }
+  ]
 }

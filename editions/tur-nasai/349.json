@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"3": "The Book of Menstruation and Istihadah"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 348,
-				"hadithnumber_last": 395,
-				"arabicnumber_first": 348,
-				"arabicnumber_last": 395
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 349,
-			"arabicnumber": 349,
-			"text": "Urve (r.a)’den rivâyete göre, Kureyş kabilesinin Esed kolundan olan Fatıma binti Kays, Rasûlullah (s.a.v)’e gelerek: “Benden kan geliyor halbuki günüm değil” dedi. Bunun üzerine Rasûlullah (s.a.v): “O gördüğün damardan gelen bir kandır, sen normal hayız kanını gördüğünde namaz kılmayı bırak, kan kesilince guslet, üzerine bulaşan kan lekelerini temizle ve namazını kılmaya başla” buyurdular. (Buhârî, Hayz: 9; İbn Mâce, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "3": "Hayz ve Lohusalık Kitabı"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 348,
+        "hadithnumber_last": 395,
+        "arabicnumber_first": 348,
+        "arabicnumber_last": 395
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 349,
+      "arabicnumber": 349,
+      "text": "Urve (r.a)’den rivâyete göre, Kureyş kabilesinin Esed kolundan olan Fatıma binti Kays, Rasûlullah (s.a.v)’e gelerek: “Benden kan geliyor halbuki günüm değil” dedi. Bunun üzerine Rasûlullah (s.a.v): “O gördüğün damardan gelen bir kandır, sen normal hayız kanını gördüğünde namaz kılmayı bırak, kan kesilince guslet, üzerine bulaşan kan lekelerini temizle ve namazını kılmaya başla” buyurdular. (Buhârî, Hayz: 9; İbn Mâce, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 2
+      }
+    }
+  ]
 }

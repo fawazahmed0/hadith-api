@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 14,
-			"arabicnumber": 14,
-			"text": "Enes b. Mâlik (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem): kısaltma, tırnakları kesme, etek ve koltuk tıraşı olmayı; kırk günden fazla uzatmamayı bize emretmiştir.) Başka bir seferinde ise kırk geceden fazla bir süre demiştir. Tahara: 16; Tirmizî, Edeb:",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 14
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 14,
+      "arabicnumber": 14,
+      "text": "Enes b. Mâlik (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem): kısaltma, tırnakları kesme, etek ve koltuk tıraşı olmayı; kırk günden fazla uzatmamayı bize emretmiştir.) Başka bir seferinde ise kırk geceden fazla bir süre demiştir. Tahara: 16; Tirmizî, Edeb:",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 14
+      }
+    }
+  ]
 }

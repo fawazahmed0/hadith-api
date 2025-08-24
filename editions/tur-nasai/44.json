@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 44,
-			"arabicnumber": 44,
-			"text": "Âişe (radıyallahü anha)’dan rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: tuvalet ihtiyacınızı gidereceğinizde yanınızda üç taş götürün ve onlarla temizlenin, bunlar o kimsenin temizliği için yeterlidir.) (Ebû Dâvûd, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 44
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 44,
+      "arabicnumber": 44,
+      "text": "Âişe (radıyallahü anha)’dan rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: tuvalet ihtiyacınızı gidereceğinizde yanınızda üç taş götürün ve onlarla temizlenin, bunlar o kimsenin temizliği için yeterlidir.) (Ebû Dâvûd, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 44
+      }
+    }
+  ]
 }

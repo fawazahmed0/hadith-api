@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 48,
-			"arabicnumber": 48,
-			"text": "İbn Katade, babası Ebû Katade (radıyallahü anhüma)’dan naklederek şöyle demiştir: sallallahü aleyhi ve sellem) bir kimsenin su içtiği kaba üflemesini, tenasül organına sağ el ile dokunmasını ve sağ eliyle taharetlenmesini yasakladı.) (Ebû Dâvûd, Tahara: 18; Müslim, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 48
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 48,
+      "arabicnumber": 48,
+      "text": "İbn Katade, babası Ebû Katade (radıyallahü anhüma)’dan naklederek şöyle demiştir: sallallahü aleyhi ve sellem) bir kimsenin su içtiği kaba üflemesini, tenasül organına sağ el ile dokunmasını ve sağ eliyle taharetlenmesini yasakladı.) (Ebû Dâvûd, Tahara: 18; Müslim, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 48
+      }
+    }
+  ]
 }

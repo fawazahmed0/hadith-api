@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"24": "The Book of Hajj"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 2619,
-				"hadithnumber_last": 3084,
-				"arabicnumber_first": 2619,
-				"arabicnumber_last": 3084
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2668,
-			"arabicnumber": 2668,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Shadh"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Shadh"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 50
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "24": "Menasiki Hac Kitabı"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 2619,
+        "hadithnumber_last": 3084,
+        "arabicnumber_first": 2619,
+        "arabicnumber_last": 3084
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2668,
+      "arabicnumber": 2668,
+      "text": "",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 50
+      }
+    }
+  ]
 }

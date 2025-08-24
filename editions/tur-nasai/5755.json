@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"51": "The Book of Drinks"
-		},
-		"section_detail": {
-			"51": {
-				"hadithnumber_first": 5540,
-				"hadithnumber_last": 5758,
-				"arabicnumber_first": 5540,
-				"arabicnumber_last": 5758
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5755,
-			"arabicnumber": 5755,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih Isnaad Mauquf"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad Mauquf"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 51,
-				"hadith": 217
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "51": "İçilecek Şeyler Kitabı"
+    },
+    "section_detail": {
+      "51": {
+        "hadithnumber_first": 5540,
+        "hadithnumber_last": 5758,
+        "arabicnumber_first": 5540,
+        "arabicnumber_last": 5758
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5755,
+      "arabicnumber": 5755,
+      "text": "",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad Mauquf"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 51,
+        "hadith": 217
+      }
+    }
+  ]
 }

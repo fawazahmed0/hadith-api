@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"39": "The Book of al-Bay'ah"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 4149,
-				"hadithnumber_last": 4211,
-				"arabicnumber_first": 4149,
-				"arabicnumber_last": 4211
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4179,
-			"arabicnumber": 4179,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 39,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "39": "Bey'at (Rasûlullahın Dini ve Siyasi Otoritesini Kabul Etmek) Kitabı"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 4149,
+        "hadithnumber_last": 4211,
+        "arabicnumber_first": 4149,
+        "arabicnumber_last": 4211
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4179,
+      "arabicnumber": 4179,
+      "text": "",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 39,
+        "hadith": 31
+      }
+    }
+  ]
 }

@@ -7,7 +7,7 @@
 
 
 
-**In the name of God, who has guided me to do this work**
+**In the name of Allah, who has guided me to do this work**
 
 
 **Features:**

@@ -17,7 +17,7 @@
 - Multiple Grades
 
 
-**URL Structure:**
+**URL  Structure:**
 
 `https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@{apiVersion}/{endpoint}`
 

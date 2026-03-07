@@ -8435,3 +8435,17 @@ Generating Edition
  Generated edition ara-tirmidhi1
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/25.8.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for tur-nawawi.txt
+
+Generating Edition
+
+ Generated edition tur-nawawi
+
+editions.json and editions.min.json generated

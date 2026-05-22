@@ -1,6 +1,18 @@
 import os
 import json
 
+def insert_name_native(metadata, book_name):
+    new_metadata = {}
+    for k, v in metadata.items():
+        if k == "name_native":
+            continue  # Avoid duplicate or out-of-order keys if run multiple times
+        new_metadata[k] = v
+        if k == "name":
+            new_metadata["name_native"] = book_name
+    if "name_native" not in new_metadata:
+        new_metadata["name_native"] = book_name
+    return new_metadata
+
 def main():
     books_json_path = 'list_of_books.json'
     editions_dir = 'editions'
@@ -35,7 +47,7 @@ def main():
             edition_data = json.load(f)
 
         metadata = edition_data.setdefault("metadata", {})
-        metadata["name"] = book_name
+        edition_data["metadata"] = insert_name_native(metadata, book_name)
 
         with open(full_json_path, 'w', encoding='utf-8') as f:
             json.dump(edition_data, f, ensure_ascii=False, indent='\t')
@@ -57,7 +69,7 @@ def main():
                         sec_data = json.load(f)
 
                     sec_metadata = sec_data.setdefault("metadata", {})
-                    sec_metadata["name"] = book_name
+                    sec_data["metadata"] = insert_name_native(sec_metadata, book_name)
                     
                     with open(sec_path, 'w', encoding='utf-8') as f:
                         json.dump(sec_data, f, ensure_ascii=False, indent='\t')
@@ -81,7 +93,7 @@ def main():
                         hadith_data = json.load(f)
 
                     h_metadata = hadith_data.setdefault("metadata", {})
-                    h_metadata["name"] = book_name
+                    hadith_data["metadata"] = insert_name_native(h_metadata, book_name)
 
                     with open(hadith_path, 'w', encoding='utf-8') as f:
                         json.dump(hadith_data, f, ensure_ascii=False, indent='\t')

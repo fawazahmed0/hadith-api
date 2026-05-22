@@ -19,10 +19,11 @@ def get_db_metadata(db_path: str) -> Dict[str, Any]:
     cursor = conn.cursor()
     
     # Get book info
-    cursor.execute("SELECT book_name, hadith_count FROM book_info LIMIT 1")
+    cursor.execute("SELECT book_name, book_name_native, hadith_count FROM book_info LIMIT 1")
     book_row = cursor.fetchone()
     book_name = book_row[0] if book_row else "Unknown"
-    hadith_count = book_row[1] if book_row else 0
+    book_name_native = book_row[1] if book_row else ""
+    hadith_count = book_row[2] if book_row else 0
     
     # Get section count
     cursor.execute("SELECT COUNT(*) FROM sections")
@@ -31,6 +32,7 @@ def get_db_metadata(db_path: str) -> Dict[str, Any]:
     conn.close()
     return {
         "name": book_name,
+        "name_native": book_name_native,
         "hadith_count": hadith_count,
         "section_count": section_count
     }
@@ -78,6 +80,7 @@ def process_all():
         languages[lang].append({
             "book": db_file.replace(".sqlite", ""),
             "name": metadata["name"],
+            "name_native": metadata["name_native"],
             "hadith_count": metadata["hadith_count"],
             "section_count": metadata["section_count"],
             "checksum": checksum,

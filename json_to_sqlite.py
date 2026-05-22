@@ -41,6 +41,7 @@ def create_database(db_path: str):
     CREATE TABLE sections (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         section_name TEXT,
+        section_name_native TEXT,
         start_hadith_number INTEGER,
         end_hadith_number INTEGER,
         hadith_count INTEGER
@@ -75,6 +76,7 @@ def create_database(db_path: str):
     CREATE TABLE book_info (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         book_name TEXT,
+        book_name_native TEXT,
         hadith_count INTEGER
     )
     ''')
@@ -138,6 +140,7 @@ def process_edition(base_path: str, edition_folder: str):
     sections_list = get_sections_list(edition_path)
     total_hadiths = 0
     book_name = ""
+    book_name_native = ""
     
     for section_file in sections_list:
         section_path = os.path.join(edition_path, "sections", section_file)
@@ -148,11 +151,14 @@ def process_edition(base_path: str, edition_folder: str):
             
             if not book_name:
                 book_name = metadata.get("name", edition_folder)
+            if not book_name_native:
+                book_name_native = metadata.get("name_native", "")
             
             # Extract section metadata
             section_index = section_file.split('.')[0]
             section_name = metadata["section"].get(section_index, "Unknown Section")
             section_detail = metadata["section_detail"].get(section_index, {})
+            section_name_native = section_detail.get("name_native", "")
             
             start_hadith = section_detail.get("hadithnumber_first", 0)
             end_hadith = section_detail.get("hadithnumber_last", 0)
@@ -163,9 +169,9 @@ def process_edition(base_path: str, edition_folder: str):
 
             # Insert section
             cursor.execute('''
-                INSERT INTO sections (section_name, start_hadith_number, end_hadith_number, hadith_count)
-                VALUES (?, ?, ?, ?)
-            ''', (section_name, start_hadith, end_hadith, count))
+                INSERT INTO sections (section_name, section_name_native, start_hadith_number, end_hadith_number, hadith_count)
+                VALUES (?, ?, ?, ?, ?)
+            ''', (section_name, section_name_native, start_hadith, end_hadith, count))
             section_id = cursor.lastrowid
             
             # Insert hadiths and grades
@@ -188,7 +194,7 @@ def process_edition(base_path: str, edition_folder: str):
                 total_hadiths += 1
                 
     # Update book info
-    cursor.execute('INSERT INTO book_info (book_name, hadith_count) VALUES (?, ?)', (book_name, total_hadiths))
+    cursor.execute('INSERT INTO book_info (book_name, book_name_native, hadith_count) VALUES (?, ?, ?)', (book_name, book_name_native, total_hadiths))
     
     conn.commit()
     conn.close()

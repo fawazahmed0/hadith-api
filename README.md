@@ -90,9 +90,10 @@ or
 ### Any Issues: [Raise here](https://github.com/fawazahmed0/hadith-api/issues/new "Raise here")
 
 ### Demos:
-Projects using Hadith API:
+Community Projects using Hadith API:
 - [Hadiths](https://fawazahmed0.github.io/hadiths)
 - [Quran Hadith Search Engine](https://fawazahmed0.github.io/quran-hadith-search/)
+- [Hadiths SQLite Data](https://github.com/IsmailHosenIsmailJames/compressed_hadith_sqlite)
 
 ### Other Similar Projects:
 - [Quran-api](https://github.com/fawazahmed0/quran-api)

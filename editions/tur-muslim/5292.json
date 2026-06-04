@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5292,
-			"arabicnumber": "2030.01",
-			"text": "Bize Kuteybe b. Saîd Mâlik b. Enes'den —ona okunanlar meyanında— o da Ebû Hâzim'den, o da Sehl b. Sa'd Es-Sâidî'den naklen rivayet etti ki,: Resûlullah (Sallallahu Aleyhi ve Sellem)'e içecek bir şey getirmişler, o da ondan içmiş. Sağında bir çocuk solunda ise yaşlılar, bulunuyormuş. Resûlullah çocuğa: «Bunlara vermeme bana izin verir misin?» diye sormuş. Çocuk: — Hayır! Vallahi senden gelen nasibime kimseyi tercih edemem! demiş. Râvi diyor ki: «Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) onu çocuğun eline bıraktı.»",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 166
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5292,
+      "arabicnumber": "2030.01",
+      "text": "Bize Kuteybe b. Saîd Mâlik b. Enes'den —ona okunanlar meyanında— o da Ebû Hâzim'den, o da Sehl b. Sa'd Es-Sâidî'den naklen rivayet etti ki,: Resûlullah (Sallallahu Aleyhi ve Sellem)'e içecek bir şey getirmişler, o da ondan içmiş. Sağında bir çocuk solunda ise yaşlılar, bulunuyormuş. Resûlullah çocuğa: «Bunlara vermeme bana izin verir misin?» diye sormuş. Çocuk: — Hayır! Vallahi senden gelen nasibime kimseyi tercih edemem! demiş. Râvi diyor ki: «Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) onu çocuğun eline bıraktı.»",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 166
+      }
+    }
+  ]
 }

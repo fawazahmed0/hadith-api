@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1940,
-			"arabicnumber": 1940,
-			"text": "İbn Abbâs (r.a.)'tan; demiştir ki: Resûlullah (S.A.V.) Müzdelife gecesinde Abdulmuttalib oğulları(ndan) biz(im gibi) çocukları (Minâ'ya) eşeklerle önden gönderdi. (O esnada) uyluklarımıza hafifçe vurarak; \"Ey yavrularım, güneş doğuncaya kadar Cemre(-i Akabe)'ye (taş) atmayınız.\" diyordu. Tirmizî, hac; Nesâî, menâsik; İbn Mâce, menâsik; Ahmed b. Hanbel, I, 311, 326, 343. Ebû Dâvûd dedi ki: (kelimesi) hafifçe vurmak de­mektir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 220
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1940,
+      "arabicnumber": 1940,
+      "text": "İbn Abbâs (r.a.)'tan; demiştir ki: Resûlullah (S.A.V.) Müzdelife gecesinde Abdulmuttalib oğulları(ndan) biz(im gibi) çocukları (Minâ'ya) eşeklerle önden gönderdi. (O esnada) uyluklarımıza hafifçe vurarak; \"Ey yavrularım, güneş doğuncaya kadar Cemre(-i Akabe)'ye (taş) atmayınız.\" diyordu. Tirmizî, hac; Nesâî, menâsik; İbn Mâce, menâsik; Ahmed b. Hanbel, I, 311, 326, 343. Ebû Dâvûd dedi ki: (kelimesi) hafifçe vurmak de­mektir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 220
+      }
+    }
+  ]
 }

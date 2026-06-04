@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6167,
-			"arabicnumber": "2380.05",
-			"text": "Bize Amru'n-Nakıd dahi rivayet etti. (Dediki): Bize Süfyân b. Uyeyne Amr'dan, o da Said b. Cübeyr'den, o da İbni Abbâs'dan, o da Übeyy b. Kâ'b'dan naklen rivayet etti ki: Nebi (Sallallahu Aleyhi ve Sellem): «Buna karşılık ücret alabilirdin...» âyetini okumuş",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 225
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6167,
+      "arabicnumber": "2380.05",
+      "text": "Bize Amru'n-Nakıd dahi rivayet etti. (Dediki): Bize Süfyân b. Uyeyne Amr'dan, o da Said b. Cübeyr'den, o da İbni Abbâs'dan, o da Übeyy b. Kâ'b'dan naklen rivayet etti ki: Nebi (Sallallahu Aleyhi ve Sellem): «Buna karşılık ücret alabilirdin...» âyetini okumuş",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 225
+      }
+    }
+  ]
 }

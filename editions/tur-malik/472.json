@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"15": "The Qur'an"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 470,
-				"hadithnumber_last": 519,
-				"arabicnumber_first": 470,
-				"arabicnumber_last": 519
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 472,
-			"arabicnumber": 472,
-			"text": "Ömer b. Hattab'dan: Kur*an-ı Kerim'den geceleri okumayı adet edindiği kısmı bir gece okuyamayan onu sabah namazı ile öğle namazı arasındaki vakitte okursa, hem alışkanlığını bozmamış, hem de geceleri Kur'an okuma adetini zamanında yerine getirmiş sayılır. Diğer tahric: Müslim, Salatul-Musafirîn",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "15": "Kur'an-ı Kerîm"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 470,
+        "hadithnumber_last": 519,
+        "arabicnumber_first": 470,
+        "arabicnumber_last": 519
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 472,
+      "arabicnumber": 472,
+      "text": "Ömer b. Hattab'dan: Kur*an-ı Kerim'den geceleri okumayı adet edindiği kısmı bir gece okuyamayan onu sabah namazı ile öğle namazı arasındaki vakitte okursa, hem alışkanlığını bozmamış, hem de geceleri Kur'an okuma adetini zamanında yerine getirmiş sayılır. Diğer tahric: Müslim, Salatul-Musafirîn",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 3
+      }
+    }
+  ]
 }

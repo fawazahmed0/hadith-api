@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"48": "Chapters on Supplication"
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 3370,
-				"hadithnumber_last": 3604.1,
-				"arabicnumber_first": 3370,
-				"arabicnumber_last": 3604.1
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3405,
-			"arabicnumber": 3405,
-			"text": "Âişe (r.anha)’dan rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.), Zümer sûresi ve İsra sûrelerini okumadan uyumazdı.”",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 48,
-				"hadith": 36
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "48": "Duâ Bölümleri"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 3370,
+        "hadithnumber_last": 3604.1,
+        "arabicnumber_first": 3370,
+        "arabicnumber_last": 3604.1
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3405,
+      "arabicnumber": 3405,
+      "text": "Âişe (r.anha)’dan rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.), Zümer sûresi ve İsra sûrelerini okumadan uyumazdı.”",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 48,
+        "hadith": 36
+      }
+    }
+  ]
 }

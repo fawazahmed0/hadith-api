@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1291,
-			"arabicnumber": "573.04",
-			"text": "{….} Bana Haccac b. Şair rivayet etti. (Dediki): Bize Harun b. İsmail el-Hazzaz rivayet etti. (Dediki): Bize Alî (yani İbni Mubarek) rivayet etti. (Dediki): Bize Yahya rivayet etti. (Dediki): Bize Ebu Seleme rivayet etti. (Dediki): Bize Ebu Hureyre rivayet ettikî: Resulullah Sallallahu Aleyhi ve Sellem öğle namazından iki rek'at kılarak selam vermiş. Müteakiben kendisine Benî Süleym'den bir adam gelerek: — Yâ Resûlallah namaz mı kısaltıldı yoksa sen mi unuttun?» ve hadîsi rivayet etmiş",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 129
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1291,
+      "arabicnumber": "573.04",
+      "text": "{….} Bana Haccac b. Şair rivayet etti. (Dediki): Bize Harun b. İsmail el-Hazzaz rivayet etti. (Dediki): Bize Alî (yani İbni Mubarek) rivayet etti. (Dediki): Bize Yahya rivayet etti. (Dediki): Bize Ebu Seleme rivayet etti. (Dediki): Bize Ebu Hureyre rivayet ettikî: Resulullah Sallallahu Aleyhi ve Sellem öğle namazından iki rek'at kılarak selam vermiş. Müteakiben kendisine Benî Süleym'den bir adam gelerek: — Yâ Resûlallah namaz mı kısaltıldı yoksa sen mi unuttun?» ve hadîsi rivayet etmiş",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 129
+      }
+    }
+  ]
 }

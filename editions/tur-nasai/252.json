@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 252,
-			"arabicnumber": 252,
-			"text": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), gusülden sonra abdesti bozulmadıkça namaz için abdest almazdı. (Tirmizî, Tahara: 79; Ebû Dâvûd, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 253
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 252,
+      "arabicnumber": 252,
+      "text": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), gusülden sonra abdesti bozulmadıkça namaz için abdest almazdı. (Tirmizî, Tahara: 79; Ebû Dâvûd, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 253
+      }
+    }
+  ]
 }

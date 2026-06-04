@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"72": "Hunting, Slaughtering"
-		},
-		"section_detail": {
-			"72": {
-				"hadithnumber_first": 5475,
-				"hadithnumber_last": 5544,
-				"arabicnumber_first": 5475,
-				"arabicnumber_last": 5544
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5538,
-			"arabicnumber": 5538,
-			"text": "Meymune'den rivayete göre, \"Bir fare yağın içine düşüp ölmüştü. Nebi Sallallahu Aleyhi ve Sellem'e durumu hakkında soru sorulunca: Onu ve etrafında bulunan yağı atınız ve kalanı yiyiniz, diye buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 72,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "72": "Boğazlanan ve Avlanan Hayvanlar"
+    },
+    "section_detail": {
+      "72": {
+        "hadithnumber_first": 5475,
+        "hadithnumber_last": 5544,
+        "arabicnumber_first": 5475,
+        "arabicnumber_last": 5544
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5538,
+      "arabicnumber": 5538,
+      "text": "Meymune'den rivayete göre, \"Bir fare yağın içine düşüp ölmüştü. Nebi Sallallahu Aleyhi ve Sellem'e durumu hakkında soru sorulunca: Onu ve etrafında bulunan yağı atınız ve kalanı yiyiniz, diye buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 72,
+        "hadith": 63
+      }
+    }
+  ]
 }

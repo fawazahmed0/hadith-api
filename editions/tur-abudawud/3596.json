@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 3571,
-				"hadithnumber_last": 3640,
-				"arabicnumber_first": 3571,
-				"arabicnumber_last": 3640
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3596,
-			"arabicnumber": 3596,
-			"text": "Zeyd b. Hâlid el-Cühenî (r.a), Rasûlullah (s.a.v.)'in şöyle buyurduğunu haber vermiştir: \"Size şahitlerin en hayırlısını haber vereyim mi? (Kendisinden şahitlik etmesi) istenmeden önce şahitlik (görev)ini (yerine) getiren -ya da gördüğünü haber veren- kimsedir.\" (Ravi) Abdullah b. Ebî Bekir, (babasının bu son iki cümleden) hangisini rivayet ettiğinde şüphe etmiştir. Ehû Dâvûd dedi ki: (Metinde geçen ''şahitlik etmesi kendisinden istenmeden önce şahitlik görevini yerine getiren kimse\" sözünü) Mâlik, \"(Taraflardan) lehine yarayacak kimsenin bilme(yip de kendisinin bil) diği bir delili (kendiliğinden) haber vermesidir\" diye açıkladı. el-Hemedâni (bu cümleyi), \"Bu delili sultana iletir\" diye açıkladı. İbn Şerh ise, \"Bu delili hâkimlere getirir\" diye açıkladı. Hamedânî'nin hadisinde \"ahbere\" (haber verdi) sözü vardır. İbn Şerh de, (Abdurrahman b. Ebî Ömer'den) \"İbn Ebî Ömer\" diye bahsetmiş, (fakat Adurrahman kelimesini) zikretmemiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1719)"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "25": "Davalar Bölümü"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 3571,
+        "hadithnumber_last": 3640,
+        "arabicnumber_first": 3571,
+        "arabicnumber_last": 3640
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3596,
+      "arabicnumber": 3596,
+      "text": "Zeyd b. Hâlid el-Cühenî (r.a), Rasûlullah (s.a.v.)'in şöyle buyurduğunu haber vermiştir: \"Size şahitlerin en hayırlısını haber vereyim mi? (Kendisinden şahitlik etmesi) istenmeden önce şahitlik (görev)ini (yerine) getiren -ya da gördüğünü haber veren- kimsedir.\" (Ravi) Abdullah b. Ebî Bekir, (babasının bu son iki cümleden) hangisini rivayet ettiğinde şüphe etmiştir. Ehû Dâvûd dedi ki: (Metinde geçen ''şahitlik etmesi kendisinden istenmeden önce şahitlik görevini yerine getiren kimse\" sözünü) Mâlik, \"(Taraflardan) lehine yarayacak kimsenin bilme(yip de kendisinin bil) diği bir delili (kendiliğinden) haber vermesidir\" diye açıkladı. el-Hemedâni (bu cümleyi), \"Bu delili sultana iletir\" diye açıkladı. İbn Şerh ise, \"Bu delili hâkimlere getirir\" diye açıkladı. Hamedânî'nin hadisinde \"ahbere\" (haber verdi) sözü vardır. İbn Şerh de, (Abdurrahman b. Ebî Ömer'den) \"İbn Ebî Ömer\" diye bahsetmiş, (fakat Adurrahman kelimesini) zikretmemiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1719)"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 26
+      }
+    }
+  ]
 }

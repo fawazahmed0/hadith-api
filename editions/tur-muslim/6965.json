@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"50": "The Book of Repentance"
-		},
-		"section_detail": {
-			"50": {
-				"hadithnumber_first": 6952,
-				"hadithnumber_last": 7023,
-				"arabicnumber_first": 2744.01,
-				"arabicnumber_last": 2771
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6965,
-			"arabicnumber": "2749",
-			"text": "Bana Muhammed b. Rafi' rivayet etti. (Dediki): Bize Abdûrrezzâk rivayet etti. (Dediki): Bize Ma'mer, Cafer El-Cezeli'den, o da Yezîd b. Esam'dan, o da Ebu Hureyre'den naklen haher verdi. (Şöyle demiş): Resulullah (Sallallahu Aleyh: ve Sellem): «Nefsim elinde olan (Allah)'a yemin ederim ki: Siz günah işlememiş olsanız, Allah sizi giderir de, günah işleyen bir kavim getirir. Onlar Allah'a istiğfar ederler, o da kendilerini affederdi.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 50,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "50": "Tevbe"
+    },
+    "section_detail": {
+      "50": {
+        "hadithnumber_first": 6952,
+        "hadithnumber_last": 7023,
+        "arabicnumber_first": 2744.01,
+        "arabicnumber_last": 2771
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6965,
+      "arabicnumber": "2749",
+      "text": "Bana Muhammed b. Rafi' rivayet etti. (Dediki): Bize Abdûrrezzâk rivayet etti. (Dediki): Bize Ma'mer, Cafer El-Cezeli'den, o da Yezîd b. Esam'dan, o da Ebu Hureyre'den naklen haher verdi. (Şöyle demiş): Resulullah (Sallallahu Aleyh: ve Sellem): «Nefsim elinde olan (Allah)'a yemin ederim ki: Siz günah işlememiş olsanız, Allah sizi giderir de, günah işleyen bir kavim getirir. Onlar Allah'a istiğfar ederler, o da kendilerini affederdi.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 50,
+        "hadith": 13
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"87": "Blood Money (Ad-Diyat)"
-		},
-		"section_detail": {
-			"87": {
-				"hadithnumber_first": 6861,
-				"hadithnumber_last": 6917,
-				"arabicnumber_first": 6861,
-				"arabicnumber_last": 6917
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6862,
-			"arabicnumber": 6862,
-			"text": "İbn Ömer'in nakline göre Nebi Sallallahu Aleyhi ve Sellem \"Mu'min kişi dokunulması haram bir kanı dökmedikçe dininden bir genişlik içindedir\" buyurmuştur",
-			"grades": [],
-			"reference": {
-				"book": 87,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "87": "Diyetler"
+    },
+    "section_detail": {
+      "87": {
+        "hadithnumber_first": 6861,
+        "hadithnumber_last": 6917,
+        "arabicnumber_first": 6861,
+        "arabicnumber_last": 6917
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6862,
+      "arabicnumber": 6862,
+      "text": "İbn Ömer'in nakline göre Nebi Sallallahu Aleyhi ve Sellem \"Mu'min kişi dokunulması haram bir kanı dökmedikçe dininden bir genişlik içindedir\" buyurmuştur",
+      "grades": [],
+      "reference": {
+        "book": 87,
+        "hadith": 2
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 202,
-			"arabicnumber": "57.01",
-			"text": "Bize Harmele b. Yahya b. Abdullah b. İmran et-Tudbi tahdis etti, bize İbn Vehb bildirdi, bana Yunus, İbn Şihab'dan şöyle dediğini haber verdi. Ebu Seleme b. Abdurrahman ve Said b. el-Müseyyeb'i şöyle derken dinledim: Ebu Hureyre dedi ki: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Zina eden, zina ettiği zaman mümin olarak zina etmez. Hırsızlık yapan, hırsızlık ettiğinde mümin olarak hırsızlık yapmaz. İçki içen, onu içerken mümin olarak içmez. \" İbn Şihab dedi ki: Bana Abdulmelik b. Ebi Bekr b. Abdurrahman'ın haber verdiğine göre Ebu Bekr kendilerine bunları Ebu Hureyre'den diye tahdis ediyor sonra da şöyle diyordu: Ebu Hureyre bunlarla birlikte şunları da ekliyordu: \"İnsanların gözlerini kaldırıp, değer verdikleri kıymetli bir şeyi de yağmaladığı zaman, mümin olarak herhangi bir şeyi de yağmalamaz. \" Diğer tahric: Ebu Selemee ve Said b. el-Müseyyeb hadisini: Buhari, 5578; Tuhfetu'l-Eşraf, 13329, 15320; Ebu Bekir'in hadisini: Buhari, 2475,6772; İbn Mace, 3936; Tuhfetu'lEşraf, 13209, 14862, 15218 AHMED D. İZAHI İÇİN buraya tıklatın",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 109
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 202,
+      "arabicnumber": "57.01",
+      "text": "Bize Harmele b. Yahya b. Abdullah b. İmran et-Tudbi tahdis etti, bize İbn Vehb bildirdi, bana Yunus, İbn Şihab'dan şöyle dediğini haber verdi. Ebu Seleme b. Abdurrahman ve Said b. el-Müseyyeb'i şöyle derken dinledim: Ebu Hureyre dedi ki: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Zina eden, zina ettiği zaman mümin olarak zina etmez. Hırsızlık yapan, hırsızlık ettiğinde mümin olarak hırsızlık yapmaz. İçki içen, onu içerken mümin olarak içmez. \" İbn Şihab dedi ki: Bana Abdulmelik b. Ebi Bekr b. Abdurrahman'ın haber verdiğine göre Ebu Bekr kendilerine bunları Ebu Hureyre'den diye tahdis ediyor sonra da şöyle diyordu: Ebu Hureyre bunlarla birlikte şunları da ekliyordu: \"İnsanların gözlerini kaldırıp, değer verdikleri kıymetli bir şeyi de yağmaladığı zaman, mümin olarak herhangi bir şeyi de yağmalamaz. \" Diğer tahric: Ebu Selemee ve Said b. el-Müseyyeb hadisini: Buhari, 5578; Tuhfetu'l-Eşraf, 13329, 15320; Ebu Bekir'in hadisini: Buhari, 2475,6772; İbn Mace, 3936; Tuhfetu'lEşraf, 13209, 14862, 15218 AHMED D. İZAHI İÇİN buraya tıklatın",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 109
+      }
+    }
+  ]
 }

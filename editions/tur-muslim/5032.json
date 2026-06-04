@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"34": "The Book of Hunting, Slaughter, and what may be Eaten"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4972,
-				"hadithnumber_last": 5063,
-				"arabicnumber_first": 1929.01,
-				"arabicnumber_last": 1959
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5032,
-			"arabicnumber": "1944.01",
-			"text": "Bize Ubeydullah b. Muâz rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Şu'be, Tevbetü'l-Anberî'den naklen rivayet etti. O da Şa'bî'den, o da ibni Ömer'den dinlemiş ki: Nebi (Sallallahu Aleyhi ve Sellem)'in yanında içlerinde Sa'd da olduğu halde ashabından bazı kimseler bulunuyormuş. Kendilerine keler eti getirmişler de Nebi (Sallallahu Aleyhi ve Sellem)'in kadınlarından biri: Bu keler eti'dir diye seslenmiş. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem): «Yeyin! Çünkü o helaldir. Lâkin benim yiyeceğim de değildir.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 61
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "34": "Av, Kesilen Ve Eti Yenen Hayvanlar Bahsi"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4972,
+        "hadithnumber_last": 5063,
+        "arabicnumber_first": 1929.01,
+        "arabicnumber_last": 1959
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5032,
+      "arabicnumber": "1944.01",
+      "text": "Bize Ubeydullah b. Muâz rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Şu'be, Tevbetü'l-Anberî'den naklen rivayet etti. O da Şa'bî'den, o da ibni Ömer'den dinlemiş ki: Nebi (Sallallahu Aleyhi ve Sellem)'in yanında içlerinde Sa'd da olduğu halde ashabından bazı kimseler bulunuyormuş. Kendilerine keler eti getirmişler de Nebi (Sallallahu Aleyhi ve Sellem)'in kadınlarından biri: Bu keler eti'dir diye seslenmiş. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem): «Yeyin! Çünkü o helaldir. Lâkin benim yiyeceğim de değildir.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 61
+      }
+    }
+  ]
 }

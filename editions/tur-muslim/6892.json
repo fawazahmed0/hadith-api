@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"48": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness "
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 6805,
-				"hadithnumber_last": 6936,
-				"arabicnumber_first": 2675.01,
-				"arabicnumber_last": 2735.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6892,
-			"arabicnumber": "2714.01",
-			"text": "Bize İshak b. Musa El-Ensârî rivayet etti. (Dedikî): Bize Enes b. Iyâz rivayet etti. (Dedikî): Bize Ubeydullah rivayet etti. (Dedikî): Bana Saîd b. Ebî Saîd El-Makburî babasından, o da Ebû Hureyre'den naklen rivayet etti ki: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar: «Biriniz döşeğine uzandığı vakit gömleğinin kenarını tutsun da onunla döşeğini silksin ve besmele çeksin! Çünkü o kendinden sonra döşeğinde ne kalacağını bilmez. Yatmak istediği vakit sağ tarafına yatsın ve: Allahım! Seni tenzih ederim. Ey Rabbim! Yanımı ancak seninle (döşeğe) koydum. Onu ancak seninle kaldırırım. Nefsimi tutarsan onu affeyle! Salarsan onu sâlih kullarını koruduğun şeyle keru! desin.»",
-			"grades": [],
-			"reference": {
-				"book": 48,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "48": "Zikir, Dua, Tevbe ve İstiğfar Bahsi"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 6805,
+        "hadithnumber_last": 6936,
+        "arabicnumber_first": 2675.01,
+        "arabicnumber_last": 2735.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6892,
+      "arabicnumber": "2714.01",
+      "text": "Bize İshak b. Musa El-Ensârî rivayet etti. (Dedikî): Bize Enes b. Iyâz rivayet etti. (Dedikî): Bize Ubeydullah rivayet etti. (Dedikî): Bana Saîd b. Ebî Saîd El-Makburî babasından, o da Ebû Hureyre'den naklen rivayet etti ki: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar: «Biriniz döşeğine uzandığı vakit gömleğinin kenarını tutsun da onunla döşeğini silksin ve besmele çeksin! Çünkü o kendinden sonra döşeğinde ne kalacağını bilmez. Yatmak istediği vakit sağ tarafına yatsın ve: Allahım! Seni tenzih ederim. Ey Rabbim! Yanımı ancak seninle (döşeğe) koydum. Onu ancak seninle kaldırırım. Nefsimi tutarsan onu affeyle! Salarsan onu sâlih kullarını koruduğun şeyle keru! desin.»",
+      "grades": [],
+      "reference": {
+        "book": 48,
+        "hadith": 85
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"22": "Vows and Oaths"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 1009,
-				"hadithnumber_last": 1027,
-				"arabicnumber_first": 1009,
-				"arabicnumber_last": 1027
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1012,
-			"arabicnumber": 1012,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Hasan"
-				}
-			],
-			"reference": {
-				"book": 22,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "22": "Adaklar ve Yeminler"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 1009,
+        "hadithnumber_last": 1027,
+        "arabicnumber_first": 1009,
+        "arabicnumber_last": 1027
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1012,
+      "arabicnumber": 1012,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Hasan"
+        }
+      ],
+      "reference": {
+        "book": 22,
+        "hadith": 4
+      }
+    }
+  ]
 }

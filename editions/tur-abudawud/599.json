@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 599,
-			"arabicnumber": 599,
-			"text": "Cabir b. Abdullah'dan (rivayet edildiğine göre) Mu'az b. Cebel (r.a.) önce Resulullah (Sallallahu aleyhi ve Sellem) ile yatsıyı kılar, sonra kavmine gelip bu namazı (bir de) onlara kıldırırdı. Diğer tahric: Buharî, ezan; Müslim, salat; Ebu Davud, salat; Tirmizî, cum'a; Nesai, imame; Ahmed, I, 450; III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 209
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 599,
+      "arabicnumber": 599,
+      "text": "Cabir b. Abdullah'dan (rivayet edildiğine göre) Mu'az b. Cebel (r.a.) önce Resulullah (Sallallahu aleyhi ve Sellem) ile yatsıyı kılar, sonra kavmine gelip bu namazı (bir de) onlara kıldırırdı. Diğer tahric: Buharî, ezan; Müslim, salat; Ebu Davud, salat; Tirmizî, cum'a; Nesai, imame; Ahmed, I, 450; III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 209
+      }
+    }
+  ]
 }

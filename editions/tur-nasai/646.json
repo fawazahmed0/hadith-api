@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"7": "The Book of the Adhan (The Call to Prayer)"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 626,
-				"hadithnumber_last": 687,
-				"arabicnumber_first": 626,
-				"arabicnumber_last": 687
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 646,
-			"arabicnumber": 646,
-			"text": "Bera b. Âzib (radıyallahü anh)’ten rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdular: ve Melekleri ilk saftaki kimseleri tebrik ederler. Müezzin ise sesinin gür oluşu nispetinde günahları affedilir. Yaş, kuru, canlı, cansız ne varsa müezzinin sesini duyan her şey ve herkes müezzinin söylediklerini tasdik ederler. Müezzinle birlikte namaz kılanların sevabı kadar sevap müezzine yazılır.) (Ebû Dâvûd, Salat: 31; İbn Mâce, Ezan:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 21
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "7": "Ezan Bölümleri (Kitabı)"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 626,
+        "hadithnumber_last": 687,
+        "arabicnumber_first": 626,
+        "arabicnumber_last": 687
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 646,
+      "arabicnumber": 646,
+      "text": "Bera b. Âzib (radıyallahü anh)’ten rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdular: ve Melekleri ilk saftaki kimseleri tebrik ederler. Müezzin ise sesinin gür oluşu nispetinde günahları affedilir. Yaş, kuru, canlı, cansız ne varsa müezzinin sesini duyan her şey ve herkes müezzinin söylediklerini tasdik ederler. Müezzinle birlikte namaz kılanların sevabı kadar sevap müezzine yazılır.) (Ebû Dâvûd, Salat: 31; İbn Mâce, Ezan:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 21
+      }
+    }
+  ]
 }

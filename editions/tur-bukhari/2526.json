@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"49": "Manumission of Slaves"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 2517,
-				"hadithnumber_last": 2559,
-				"arabicnumber_first": 2517,
-				"arabicnumber_last": 2559
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2526,
-			"arabicnumber": 2526,
-			"text": "Abdullah ibn Omer (radıyallahü anh) 'den (o, şöyle demiştir):Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: “Her kim bir köledeki hissesini bağışlayıp âzâd eder ve kölenin, geri kalan değerine ulaşacak derecede bir malı bulunursa, o pay için köleye âdilce bir kıymet konulur da o payını âzâd eden, diğer ortakların hisselerini verir ve onun hesabına köle hürriyetine kavuşup âzâd olur. Şayet hissesini ilk âzâd edenin diğer ortakların hisselerini ödeyecek malı bulunmazsa, köleden âzâdladığı hissesi âzâd olmuştur",
-			"grades": [],
-			"reference": {
-				"book": 49,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "49": "Köleyi Hürriyetine Kavuşturma"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 2517,
+        "hadithnumber_last": 2559,
+        "arabicnumber_first": 2517,
+        "arabicnumber_last": 2559
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2526,
+      "arabicnumber": 2526,
+      "text": "Abdullah ibn Omer (radıyallahü anh) 'den (o, şöyle demiştir):Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: “Her kim bir köledeki hissesini bağışlayıp âzâd eder ve kölenin, geri kalan değerine ulaşacak derecede bir malı bulunursa, o pay için köleye âdilce bir kıymet konulur da o payını âzâd eden, diğer ortakların hisselerini verir ve onun hesabına köle hürriyetine kavuşup âzâd olur. Şayet hissesini ilk âzâd edenin diğer ortakların hisselerini ödeyecek malı bulunmazsa, köleden âzâdladığı hissesi âzâd olmuştur",
+      "grades": [],
+      "reference": {
+        "book": 49,
+        "hadith": 10
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"3": "The Book of Menstruation"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 679,
-				"hadithnumber_last": 836,
-				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 828,
-			"arabicnumber": "374.02",
-			"text": "Bize Ebu Bekr b. Ebi Şeybe'de rivayet etti. (Dediki): Bize Süfyan b. Uyeyne, Anır'dan, o da Saîd b. el-Huveyris'den naklen rivayet etti. Demiş ki: Ben İbni Abbas'dan dinledim. Şöyle diyordu: Nebi (Sallallahu Aleyhi ve Sellem)'in yanında idik. Heladan gelmiş de kendisine yemek getirmişlerdi. Abdest almayacak mısın, dediler. Resulullah (Sallallahu Aleyhi ve Sellem): «Niçin? Namaz mı kılacağımki, abdest alayım.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 149
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "3": "Hayz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 679,
+        "hadithnumber_last": 836,
+        "arabicnumber_first": 293.01,
+        "arabicnumber_last": 376.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 828,
+      "arabicnumber": "374.02",
+      "text": "Bize Ebu Bekr b. Ebi Şeybe'de rivayet etti. (Dediki): Bize Süfyan b. Uyeyne, Anır'dan, o da Saîd b. el-Huveyris'den naklen rivayet etti. Demiş ki: Ben İbni Abbas'dan dinledim. Şöyle diyordu: Nebi (Sallallahu Aleyhi ve Sellem)'in yanında idik. Heladan gelmiş de kendisine yemek getirmişlerdi. Abdest almayacak mısın, dediler. Resulullah (Sallallahu Aleyhi ve Sellem): «Niçin? Namaz mı kılacağımki, abdest alayım.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 149
+      }
+    }
+  ]
 }

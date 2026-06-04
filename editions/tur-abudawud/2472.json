@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"14": "Fasting (Kitab Al-Siyam)"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2313,
-				"hadithnumber_last": 2476,
-				"arabicnumber_first": 2313,
-				"arabicnumber_last": 2476
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2472,
-			"arabicnumber": 2472,
-			"text": "Abdullah b. Muhammed en-Nüfeyli ve Muhammed b. İsa Abdusselam b. Harb'den, o Leys b. Ebi Süleym'den, Leys, Ab-durrahman b. el-Kasım'dan o da babası vasıtasıyla Hz. Aişe (r.anha)'dan rivayet etmiştir. Nüfeyli'nin rivayetine göre Aişe (r.a) şöyle demiştir: \"Peygamber (s.a.v.) i'tikâfta iken hiç bir tarafa sapmadan hastaya uğrar, yanında kalmadan halini sorardı.\" îbn İsa'nın rivayetine göre de Hz. Âişe şöyle demiştir. \"Rasûlullah (s.a.v.) i'tikâfta iken hasta ziyaretinde bulunurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 160
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "14": "Oruç Bölümü"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2313,
+        "hadithnumber_last": 2476,
+        "arabicnumber_first": 2313,
+        "arabicnumber_last": 2476
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2472,
+      "arabicnumber": 2472,
+      "text": "Abdullah b. Muhammed en-Nüfeyli ve Muhammed b. İsa Abdusselam b. Harb'den, o Leys b. Ebi Süleym'den, Leys, Ab-durrahman b. el-Kasım'dan o da babası vasıtasıyla Hz. Aişe (r.anha)'dan rivayet etmiştir. Nüfeyli'nin rivayetine göre Aişe (r.a) şöyle demiştir: \"Peygamber (s.a.v.) i'tikâfta iken hiç bir tarafa sapmadan hastaya uğrar, yanında kalmadan halini sorardı.\" îbn İsa'nın rivayetine göre de Hz. Âişe şöyle demiştir. \"Rasûlullah (s.a.v.) i'tikâfta iken hasta ziyaretinde bulunurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 160
+      }
+    }
+  ]
 }

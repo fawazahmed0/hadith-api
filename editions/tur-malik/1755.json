@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"52": "Visions"
-		},
-		"section_detail": {
-			"52": {
-				"hadithnumber_first": 1747,
-				"hadithnumber_last": 1755,
-				"arabicnumber_first": 1747,
-				"arabicnumber_last": 1755
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1755,
-			"arabicnumber": 1755,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 52,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "52": "Rüya"
+    },
+    "section_detail": {
+      "52": {
+        "hadithnumber_first": 1747,
+        "hadithnumber_last": 1755,
+        "arabicnumber_first": 1747,
+        "arabicnumber_last": 1755
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1755,
+      "arabicnumber": 1755,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 52,
+        "hadith": 7
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2713,
-			"arabicnumber": "1153.03",
-			"text": "Bana İshâk b. Mansûr ile Abdurrahman b. Bişr El-Abdi rivayet ettiler. (Dediler ki : Bize Abdürrezzâk rivayet etti. (Dediki) Bize İbnü Cüreyc Yahya b. Saîd ile Süheyl b. Ebî Sâlih'den naklen haber verdi: Onlar da Nu'man b. Ebî Ayyaş Ez-Zürâki'yi Ebî Saîd-i Hudrî (Radiyallahû anh)'dan naklen rivayet ederken işitmişler, Ebû Saîd şöyle demiş: Ben Resulullah (Sallallahu Aleyhi ve Sellem): «Her kim Allah yolunda bir gün oruç tutarsa Allah o kimsenin yüzünü yetmiş yıl cehennemden ırak eyler, buyururken işittim",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 219
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2713,
+      "arabicnumber": "1153.03",
+      "text": "Bana İshâk b. Mansûr ile Abdurrahman b. Bişr El-Abdi rivayet ettiler. (Dediler ki : Bize Abdürrezzâk rivayet etti. (Dediki) Bize İbnü Cüreyc Yahya b. Saîd ile Süheyl b. Ebî Sâlih'den naklen haber verdi: Onlar da Nu'man b. Ebî Ayyaş Ez-Zürâki'yi Ebî Saîd-i Hudrî (Radiyallahû anh)'dan naklen rivayet ederken işitmişler, Ebû Saîd şöyle demiş: Ben Resulullah (Sallallahu Aleyhi ve Sellem): «Her kim Allah yolunda bir gün oruç tutarsa Allah o kimsenin yüzünü yetmiş yıl cehennemden ırak eyler, buyururken işittim",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 219
+      }
+    }
+  ]
 }

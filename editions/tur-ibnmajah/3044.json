@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3044,
-			"arabicnumber": 3044,
-			"text": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem): «Allah, saçlarını traş edenlere rahmet eylesin,» diye dua etti. Sahabiler (r.anhum): Ya Resulallah! saçını kısaltanlara da, dediler. Resulullah (Sallallahu Aleyhi ve Sellem): «Allah saçlarını traş edenlere rahmet eylesin,» diye dua etti. Sahabiler (r.anhum): Saçlarını kısaltanlara da Ya Resulallah, dediler. Resulullah (Sallallahu Aleyhi ve Sellem): «Allah saçlarını traş edenlere rahmet eylesin,» buyurdu. Sahabiler (r.anhum): Saçlarını kısaltanlara da, Ya Resulallah, diye ricada bulundular. Resulullah (Sallallahu Aleyhi ve Sellem) (dördüncü defasında): «Saçlarını kısaltanlara da (Allah rahmet eylesin),» buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 163
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3044,
+      "arabicnumber": 3044,
+      "text": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem): «Allah, saçlarını traş edenlere rahmet eylesin,» diye dua etti. Sahabiler (r.anhum): Ya Resulallah! saçını kısaltanlara da, dediler. Resulullah (Sallallahu Aleyhi ve Sellem): «Allah saçlarını traş edenlere rahmet eylesin,» diye dua etti. Sahabiler (r.anhum): Saçlarını kısaltanlara da Ya Resulallah, dediler. Resulullah (Sallallahu Aleyhi ve Sellem): «Allah saçlarını traş edenlere rahmet eylesin,» buyurdu. Sahabiler (r.anhum): Saçlarını kısaltanlara da, Ya Resulallah, diye ricada bulundular. Resulullah (Sallallahu Aleyhi ve Sellem) (dördüncü defasında): «Saçlarını kısaltanlara da (Allah rahmet eylesin),» buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 163
+      }
+    }
+  ]
 }

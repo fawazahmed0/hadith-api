@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1635,
-			"arabicnumber": 1635,
-			"text": "İbn Abbas r.a. şöyle anlatır: \"Resulullah su dağıtılan yere gelip su içmişti. Bu sırada Abbas oğluna, \"Ey Fadl, annene git de, yanında bulunan içecekten versin sen de Resûlullah'a getir\" dedi. Hz.Nebi, \"Bana su verin\" buyurdu. Abbas, \"Ey Allah'ın Resulü! İnsanlar zemzem kuyusunun içine ellerini sokuyorlar\" dedi. Efendimiz, \"(Bana bu) sudan verin\" buyurdu ve o sudan içti. Daha sonra zemzem kuyusunun yanına gitti. Bazı kimseler orada kuyudan su çıkartıyor ve İnsanlara veriyordu. Hz. Nebi onlara, \"Çalışın, siz salih bir amel yapmaktasınız. Eğer kalabalıklaşmayacak olsaydı, ben de iner (kovanın ipini) şuraya koyup (su çekerdim)'' buyurdu. Bu sırada eli ile omuzunu işaret etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 118
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1635,
+      "arabicnumber": 1635,
+      "text": "İbn Abbas r.a. şöyle anlatır: \"Resulullah su dağıtılan yere gelip su içmişti. Bu sırada Abbas oğluna, \"Ey Fadl, annene git de, yanında bulunan içecekten versin sen de Resûlullah'a getir\" dedi. Hz.Nebi, \"Bana su verin\" buyurdu. Abbas, \"Ey Allah'ın Resulü! İnsanlar zemzem kuyusunun içine ellerini sokuyorlar\" dedi. Efendimiz, \"(Bana bu) sudan verin\" buyurdu ve o sudan içti. Daha sonra zemzem kuyusunun yanına gitti. Bazı kimseler orada kuyudan su çıkartıyor ve İnsanlara veriyordu. Hz. Nebi onlara, \"Çalışın, siz salih bir amel yapmaktasınız. Eğer kalabalıklaşmayacak olsaydı, ben de iner (kovanın ipini) şuraya koyup (su çekerdim)'' buyurdu. Bu sırada eli ile omuzunu işaret etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 118
+      }
+    }
+  ]
 }

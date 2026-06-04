@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"2": "Purity"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 32,
-				"hadithnumber_last": 145,
-				"arabicnumber_first": 32,
-				"arabicnumber_last": 145
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 47,
-			"arabicnumber": 47,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "2": "Taharet (Temizlik)"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 32,
+        "hadithnumber_last": 145,
+        "arabicnumber_first": 32,
+        "arabicnumber_last": 145
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 47,
+      "arabicnumber": 47,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 16
+      }
+    }
+  ]
 }

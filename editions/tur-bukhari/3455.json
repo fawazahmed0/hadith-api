@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3455,
-			"arabicnumber": 3455,
-			"text": "Ebu Hazim dedi ki: Beş yıl süreyle Ebu Hureyre ile oturup kalktım. Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti: \"İsrailoğullarını nebiler idare ediyordu. Bir nebi vefat etti mi onun yerine bir başka nebi gelirdi. Ancak şu var ki benden sonra nebi gelmeyecektir. Halifeler olacak ve bunlar çoğalacaktır. Ashab: Bize ne emredersin, diye sordular. Şöyle buyurdu: Öncelikle kime bey'at ettiyseniz ona bağlı kalınız. Onlara haklarını veriniz. Şüphesiz Allah yönetsinler diye ellerinin altına verdiklerinden onları sorgulayacaktır",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 122
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3455,
+      "arabicnumber": 3455,
+      "text": "Ebu Hazim dedi ki: Beş yıl süreyle Ebu Hureyre ile oturup kalktım. Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti: \"İsrailoğullarını nebiler idare ediyordu. Bir nebi vefat etti mi onun yerine bir başka nebi gelirdi. Ancak şu var ki benden sonra nebi gelmeyecektir. Halifeler olacak ve bunlar çoğalacaktır. Ashab: Bize ne emredersin, diye sordular. Şöyle buyurdu: Öncelikle kime bey'at ettiyseniz ona bağlı kalınız. Onlara haklarını veriniz. Şüphesiz Allah yönetsinler diye ellerinin altına verdiklerinden onları sorgulayacaktır",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 122
+      }
+    }
+  ]
 }

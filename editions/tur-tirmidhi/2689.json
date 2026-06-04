@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"42": "Chapters on Seeking Permission"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 2688,
-				"hadithnumber_last": 2734,
-				"arabicnumber_first": 2688,
-				"arabicnumber_last": 2734
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2689,
-			"arabicnumber": 2689,
-			"text": "İmrân b. Husayn (r.a.)’den rivâyete göre, Bir adam Rasûlullah (s.a.v.)’e geldi ve “Esselamü Aleyküm” Allah’ın selamı üzerine olsun, dedi. Peygamber (s.a.v.) de “On” buyurdu. Bir başka adam daha geldi “Esselamü aleyküm ve rahmetüllahi.” = Allah’ın selam ve rahmeti üzerinize olsun dedi. Bunun üzerine Rasûlullah (s.a.v.) “Yirmi” dedi. Bir başka adam daha geldi ve “Esselamü aleyküm ve rahmetullahi ve berekatü” = Allah’ın selamı rahmeti ve bereketi üzerinize olsun dedi. Rasûlullah (s.a.v.) de “Otuz” buyurdu. Diğer tahric: Dârimî, İstizan Tirmizî: Bu hadis bu şekliyle hasen sahih garibtir. Bu konuda Ali, Ebû Saîd ve Sehl b. Huneyf’den de hadis rivâyet edilmiştir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "42": "Sosyal Hayattaki Edeb Kuralları"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 2688,
+        "hadithnumber_last": 2734,
+        "arabicnumber_first": 2688,
+        "arabicnumber_last": 2734
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2689,
+      "arabicnumber": 2689,
+      "text": "İmrân b. Husayn (r.a.)’den rivâyete göre, Bir adam Rasûlullah (s.a.v.)’e geldi ve “Esselamü Aleyküm” Allah’ın selamı üzerine olsun, dedi. Peygamber (s.a.v.) de “On” buyurdu. Bir başka adam daha geldi “Esselamü aleyküm ve rahmetüllahi.” = Allah’ın selam ve rahmeti üzerinize olsun dedi. Bunun üzerine Rasûlullah (s.a.v.) “Yirmi” dedi. Bir başka adam daha geldi ve “Esselamü aleyküm ve rahmetullahi ve berekatü” = Allah’ın selamı rahmeti ve bereketi üzerinize olsun dedi. Rasûlullah (s.a.v.) de “Otuz” buyurdu. Diğer tahric: Dârimî, İstizan Tirmizî: Bu hadis bu şekliyle hasen sahih garibtir. Bu konuda Ali, Ebû Saîd ve Sehl b. Huneyf’den de hadis rivâyet edilmiştir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 2
+      }
+    }
+  ]
 }

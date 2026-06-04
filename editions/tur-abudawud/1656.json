@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"9": "Zakat (Kitab Al-Zakat)"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1556,
-				"hadithnumber_last": 1700,
-				"arabicnumber_first": 1556,
-				"arabicnumber_last": 1700
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1656,
-			"arabicnumber": 1656,
-			"text": "Bureyde'den rivayet edildiğine göre, Bir kadın, Resûlullah (s.a.v.)'e geldi ve şöyle dedi. Anneme sadaka olarak bir câriye vermiştim. Annem öldü ve o cariyeyi miras olarak bıraktı. (Acaba durum ne olacak?) Nebi (s.a.v.): \"0 sadakanın mükâfatına hak kazandın ve o sana miras olarak geri döndü\" buyurdu. Diğer tahric: Müslim, sıyâm; Tirmizî, zekât; Ahmed b. Hanbel V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1149)"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 101
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "9": "Zekât Bölümü"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1556,
+        "hadithnumber_last": 1700,
+        "arabicnumber_first": 1556,
+        "arabicnumber_last": 1700
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1656,
+      "arabicnumber": 1656,
+      "text": "Bureyde'den rivayet edildiğine göre, Bir kadın, Resûlullah (s.a.v.)'e geldi ve şöyle dedi. Anneme sadaka olarak bir câriye vermiştim. Annem öldü ve o cariyeyi miras olarak bıraktı. (Acaba durum ne olacak?) Nebi (s.a.v.): \"0 sadakanın mükâfatına hak kazandın ve o sana miras olarak geri döndü\" buyurdu. Diğer tahric: Müslim, sıyâm; Tirmizî, zekât; Ahmed b. Hanbel V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1149)"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 101
+      }
+    }
+  ]
 }

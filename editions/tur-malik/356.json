@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"9": "Shortening the Prayer"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 326,
-				"hadithnumber_last": 427,
-				"arabicnumber_first": 326,
-				"arabicnumber_last": 427
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 356,
-			"arabicnumber": 356,
-			"text": "Ebu Talib'in kızı Ümmü Hani'den: Resulullah Sallallahu Aleyhi ve Sellem Mekke'nin fethedildiği sene bir kumaş parçasından oluşan bir elbiseye sarınarak sekiz rekat kuşluk namazı kıldı",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "9": "Seferde Namazları Kısaltma"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 326,
+        "hadithnumber_last": 427,
+        "arabicnumber_first": 326,
+        "arabicnumber_last": 427
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 356,
+      "arabicnumber": 356,
+      "text": "Ebu Talib'in kızı Ümmü Hani'den: Resulullah Sallallahu Aleyhi ve Sellem Mekke'nin fethedildiği sene bir kumaş parçasından oluşan bir elbiseye sarınarak sekiz rekat kuşluk namazı kıldı",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 31
+      }
+    }
+  ]
 }

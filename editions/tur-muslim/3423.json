@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3423,
-			"arabicnumber": "1406.05",
-			"text": "{…} Bize bu hadisi Ebu Bekr b. Ebu Şeybe de rivayet etti. (Dediki): Bize Abdetu'bnu Süleyman, Abdul Aziz b. Ömer'den naklen bu isnadla rivayette bulundu. Sebra: «Resulullah (Sallallahu Aleyhi ve Sellem)'i Kabe'de rükün ile kapının arasında ayakta gördüm.» demiş. ibni Numeyr hadîsinde olduğu gibi söylüyormuş",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3423,
+      "arabicnumber": "1406.05",
+      "text": "{…} Bize bu hadisi Ebu Bekr b. Ebu Şeybe de rivayet etti. (Dediki): Bize Abdetu'bnu Süleyman, Abdul Aziz b. Ömer'den naklen bu isnadla rivayette bulundu. Sebra: «Resulullah (Sallallahu Aleyhi ve Sellem)'i Kabe'de rükün ile kapının arasında ayakta gördüm.» demiş. ibni Numeyr hadîsinde olduğu gibi söylüyormuş",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 26
+      }
+    }
+  ]
 }

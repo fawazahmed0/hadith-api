@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 926,
-			"arabicnumber": 926,
-			"text": "Câbir b. Abdillah (r.a.)'den; demiştir ki: Nebi (s.a.v.) beni (haber toplamak için) Mustalik oğullarına gönderdi. Geldiğim zaman devesi üzerinde namaz kılıyordu. Ben kendisiyle konuştuğum halde ,o bana eliyle şöyle yaptı. Sonra kendisiyle (tekrar) konuştum. Fakat o eliyle yine şöyle yaptı. Ben kendisini işitiyordum. Okuyor, başı ile işaret ediyordu. Namazı bitirdikten sonra; \"Gönderdiğim iş hususun­da ne yaptın? Şüphesiz ki, seninle konuşmama namazda bulunmamdan başka bir engel yoktu\" buyurdu. Diğer tahric: Dârimî, salât; Ahmed b. Hanbel, III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (540)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 537
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 926,
+      "arabicnumber": 926,
+      "text": "Câbir b. Abdillah (r.a.)'den; demiştir ki: Nebi (s.a.v.) beni (haber toplamak için) Mustalik oğullarına gönderdi. Geldiğim zaman devesi üzerinde namaz kılıyordu. Ben kendisiyle konuştuğum halde ,o bana eliyle şöyle yaptı. Sonra kendisiyle (tekrar) konuştum. Fakat o eliyle yine şöyle yaptı. Ben kendisini işitiyordum. Okuyor, başı ile işaret ediyordu. Namazı bitirdikten sonra; \"Gönderdiğim iş hususun­da ne yaptın? Şüphesiz ki, seninle konuşmama namazda bulunmamdan başka bir engel yoktu\" buyurdu. Diğer tahric: Dârimî, salât; Ahmed b. Hanbel, III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (540)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 537
+      }
+    }
+  ]
 }

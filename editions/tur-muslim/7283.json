@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7283,
-			"arabicnumber": "2899.03",
-			"text": "{M-37-2} Bize Şeyban b. Ferrûh da rivayet etti. (Dediki): Bize Süleyman (yâni; İbni Muğîra) rivayet etti. (Dediki): Bize Humeyd (yâni; İbni Hilâl) Ebû Katâde'den, o da Useyr b. Câbir'den naklen rivayet etti. (Şöyle demiş): Abdullah b. Mes'ud'un evinde idim. Ev doluydu. Derken Kûfe'de kızıl bir rüzgâr esti... Ve râvî ibni Uleyye hadîsi gibi rivayet etmiştir. - Metinlerde hata yok arapça metinlerde de Useyr b. Cabir ve Yuseyr b. Cabir diye geçiyor",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 49
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7283,
+      "arabicnumber": "2899.03",
+      "text": "{M-37-2} Bize Şeyban b. Ferrûh da rivayet etti. (Dediki): Bize Süleyman (yâni; İbni Muğîra) rivayet etti. (Dediki): Bize Humeyd (yâni; İbni Hilâl) Ebû Katâde'den, o da Useyr b. Câbir'den naklen rivayet etti. (Şöyle demiş): Abdullah b. Mes'ud'un evinde idim. Ev doluydu. Derken Kûfe'de kızıl bir rüzgâr esti... Ve râvî ibni Uleyye hadîsi gibi rivayet etmiştir. - Metinlerde hata yok arapça metinlerde de Useyr b. Cabir ve Yuseyr b. Cabir diye geçiyor",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 49
+      }
+    }
+  ]
 }

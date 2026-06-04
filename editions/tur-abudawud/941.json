@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 941,
-			"arabicnumber": 941,
-			"text": "Sehl b. Sa’d demiştir ki: Amr b. Avf oğulları arasın­da bir kavga olmuştu. Bu haber Nebi (s.a.v.)'e ulaştı. Aralarını düzeltmek için öğleden sonra oraya vardı. (Giderken de) Bilâl'e: \"İkindi namazına kadar şayet gelemezsem, Ebû Bekr'e söyle, halka namazı kıldırsın\" buyurdu. İkindi (vakti) gelince Bilâl (r.a.) ezan okudu. Kâmet etti sonra da Ebû Bekr (r.a.)'e (namazı kıldırmasını) söyledi. Bunun üzerine (Ebû Bekr namaz kıldırmak üzere) öne geçti. (Hadisin) sonunda (şu cümleyi) rivayet etti: \"Namazda bir olayla karşılaşırsanız erkekler subhanallah desin, kadınlar da el çırpsın.\" Diğer tahric: Buhârî, sehv, sulh; amel fıssalat, ezan; Müslim, salât; Nesâî, imame, sehv, kudât; Dârimî, salât; Muvatta, sefer; Ahmed b. Hanbel, V, 330, 322, 333. not: 940 ı okumadıysan önce o'nu oku",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (7190)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 552
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 941,
+      "arabicnumber": 941,
+      "text": "Sehl b. Sa’d demiştir ki: Amr b. Avf oğulları arasın­da bir kavga olmuştu. Bu haber Nebi (s.a.v.)'e ulaştı. Aralarını düzeltmek için öğleden sonra oraya vardı. (Giderken de) Bilâl'e: \"İkindi namazına kadar şayet gelemezsem, Ebû Bekr'e söyle, halka namazı kıldırsın\" buyurdu. İkindi (vakti) gelince Bilâl (r.a.) ezan okudu. Kâmet etti sonra da Ebû Bekr (r.a.)'e (namazı kıldırmasını) söyledi. Bunun üzerine (Ebû Bekr namaz kıldırmak üzere) öne geçti. (Hadisin) sonunda (şu cümleyi) rivayet etti: \"Namazda bir olayla karşılaşırsanız erkekler subhanallah desin, kadınlar da el çırpsın.\" Diğer tahric: Buhârî, sehv, sulh; amel fıssalat, ezan; Müslim, salât; Nesâî, imame, sehv, kudât; Dârimî, salât; Muvatta, sefer; Ahmed b. Hanbel, V, 330, 322, 333. not: 940 ı okumadıysan önce o'nu oku",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (7190)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 552
+      }
+    }
+  ]
 }

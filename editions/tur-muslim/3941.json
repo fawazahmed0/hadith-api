@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3941,
-			"arabicnumber": "1547.07",
-			"text": "{…} Bana ibni Ebî Halef ile Haccâc b. Şâir rivayet ettiler. (Dedilerki): Bize Zekeriyyâ b. Adiy rivayet etti. (Dediki): Bize Ubeydullah b. Amr, Zeyd'den; o da Hakem'den, o da Nâfi'den, o da İbni Ömer'den naklen haber verdiki, îbni Ömer Râfi'e gelmiş. O da bu hadîsi Nebi (Sallallahu Aleyhi ve Sellem)'den rivayet etmiş",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 140
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3941,
+      "arabicnumber": "1547.07",
+      "text": "{…} Bana ibni Ebî Halef ile Haccâc b. Şâir rivayet ettiler. (Dedilerki): Bize Zekeriyyâ b. Adiy rivayet etti. (Dediki): Bize Ubeydullah b. Amr, Zeyd'den; o da Hakem'den, o da Nâfi'den, o da İbni Ömer'den naklen haber verdiki, îbni Ömer Râfi'e gelmiş. O da bu hadîsi Nebi (Sallallahu Aleyhi ve Sellem)'den rivayet etmiş",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 140
+      }
+    }
+  ]
 }

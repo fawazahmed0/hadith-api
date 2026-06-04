@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6428,
-			"arabicnumber": 6428,
-			"text": "İmran İbn Husayn Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: \"En hayırlınız benim yaşadığım zamanda yaşayanınızdır. Sonra onlardan sonra gelenler gelir. (İmran Nebi Sallallahu Aleyhi ve Sellem'in bu ifadeyi iki kere mi üç kere mi tekrarladığını hatırlamadığını söylemiştir). Resulullah Sallallahu Aleyhi ve Sellem sözüne şöyle devam etmiştir: \"Onlardan sonra şahitliğe çağrılmadıkları halde şahitlik eden, güvenilmeyen, ihanet eden, adak adarlar ve adaklarını yerine getirmezler, o toplumda şişmanlık yaygınlaşır",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6428,
+      "arabicnumber": 6428,
+      "text": "İmran İbn Husayn Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: \"En hayırlınız benim yaşadığım zamanda yaşayanınızdır. Sonra onlardan sonra gelenler gelir. (İmran Nebi Sallallahu Aleyhi ve Sellem'in bu ifadeyi iki kere mi üç kere mi tekrarladığını hatırlamadığını söylemiştir). Resulullah Sallallahu Aleyhi ve Sellem sözüne şöyle devam etmiştir: \"Onlardan sonra şahitliğe çağrılmadıkları halde şahitlik eden, güvenilmeyen, ihanet eden, adak adarlar ve adaklarını yerine getirmezler, o toplumda şişmanlık yaygınlaşır",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 17
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2264,
-			"arabicnumber": "979.02",
-			"text": "Bize Muhammedü'bnü Rumh b. EI-Muhâcir rivayet etti. (Dediki): Bize Leys haber verdi. H. Bana Amru'n-Nâkıd da rivayet etti. (Dediki): Bize Abdullah b. İdrîs rivayet etti. Leys ile Abdullah'ın ikisi birden Yahya b. Saîd'den, o da Amr b. Yahya'dan bu isnâdla yukarki hadîsin mislini rivayet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2264,
+      "arabicnumber": "979.02",
+      "text": "Bize Muhammedü'bnü Rumh b. EI-Muhâcir rivayet etti. (Dediki): Bize Leys haber verdi. H. Bana Amru'n-Nâkıd da rivayet etti. (Dediki): Bize Abdullah b. İdrîs rivayet etti. Leys ile Abdullah'ın ikisi birden Yahya b. Saîd'den, o da Amr b. Yahya'dan bu isnâdla yukarki hadîsin mislini rivayet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 2
+      }
+    }
+  ]
 }

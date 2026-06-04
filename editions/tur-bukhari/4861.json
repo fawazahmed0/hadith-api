@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4861,
-			"arabicnumber": 4861,
-			"text": "Urve'nin şöyle söylediği rivayet edilmiştir: Hz. Aişe'ye (Safa ve Merve arasında say yapmayı sordum). O da şöyle cevap verdi: Cahiliyye döneminde Müşellel mevkiindeki azgın Menat için ihram'a girenler Safa ile Merve arasında say yapmazlardı. Bunun üzerine Allah Teala: \"Şüphe yok ki, Safa ile Merve Allah'ın koyduğu nişanlardandır, \"(Bakara 158) ayetini indirdi. Akabinde Allah Resulü Sallallahu Aleyhi ve Sellem ve Müslümanlar tavaf yaptılar. Fethu'l-Bari Açıklaması: Müşellel, Kudeyd şehrinin denize bakan kısmında yer alan bir bölgenin adıdır. Esasında Müşellel, Kudeyd'e giderken geçilen dağın adıdır. Kudeyd ise Mekke ile Medıne arasında bilinen bir mevkiin adıdır",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 382
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4861,
+      "arabicnumber": 4861,
+      "text": "Urve'nin şöyle söylediği rivayet edilmiştir: Hz. Aişe'ye (Safa ve Merve arasında say yapmayı sordum). O da şöyle cevap verdi: Cahiliyye döneminde Müşellel mevkiindeki azgın Menat için ihram'a girenler Safa ile Merve arasında say yapmazlardı. Bunun üzerine Allah Teala: \"Şüphe yok ki, Safa ile Merve Allah'ın koyduğu nişanlardandır, \"(Bakara 158) ayetini indirdi. Akabinde Allah Resulü Sallallahu Aleyhi ve Sellem ve Müslümanlar tavaf yaptılar. Fethu'l-Bari Açıklaması: Müşellel, Kudeyd şehrinin denize bakan kısmında yer alan bir bölgenin adıdır. Esasında Müşellel, Kudeyd'e giderken geçilen dağın adıdır. Kudeyd ise Mekke ile Medıne arasında bilinen bir mevkiin adıdır",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 382
+      }
+    }
+  ]
 }

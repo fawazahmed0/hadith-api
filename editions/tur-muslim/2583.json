@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2583,
-			"arabicnumber": "1106.11",
-			"text": "Bize Yahyâ b. Yahya ile Kuteybetü'bnü Smd ve Ebû Bekir Ebî Şeybe rivayet îttiler. Yahya (Ahberana), ötekiler (Haddesena) tabirlerini kullandılar. (Dedilerki): Bize Ebu'l-Ahvâs, Ziyad b. ılâka'dan, o da Amr b. Meymûn'dan, o da Âişe (Radiyallahû anha)'dan naklen rivayet eyledi, Aişe: «Resulullah (Sallallahu Aleyhi ve Sellem) oruç ayında öperdi.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 89
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2583,
+      "arabicnumber": "1106.11",
+      "text": "Bize Yahyâ b. Yahya ile Kuteybetü'bnü Smd ve Ebû Bekir Ebî Şeybe rivayet îttiler. Yahya (Ahberana), ötekiler (Haddesena) tabirlerini kullandılar. (Dedilerki): Bize Ebu'l-Ahvâs, Ziyad b. ılâka'dan, o da Amr b. Meymûn'dan, o da Âişe (Radiyallahû anha)'dan naklen rivayet eyledi, Aişe: «Resulullah (Sallallahu Aleyhi ve Sellem) oruç ayında öperdi.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 89
+      }
+    }
+  ]
 }

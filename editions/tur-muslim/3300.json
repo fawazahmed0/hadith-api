@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3300,
-			"arabicnumber": "1352.04",
-			"text": "Bize îshâk b. İbrahim rivayet etti. (Dediki): Bize Abdürrezzak haber verdi. (Dediki): Bize İbni Cüreyc haber verdi; ve tertemiz yazdırdı. (Dediki): Bana İsmail b. Muhammed b. Sa'd haber verdi. Ona da Humeyd b. Abdirrahmân b. Avf haber vermiş; ona da Sâib b. Yezîd haber vermiş; ona da Alâ' b. Hadramî, Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen haber vermiş. Resulullah (Sallallahu Aleyhi ve Sellem) : «Muhacirin hacc ibâdetlerini edâ ettikten sonra Mekke'de kalacağı müddet üç gecedir.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 504
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3300,
+      "arabicnumber": "1352.04",
+      "text": "Bize îshâk b. İbrahim rivayet etti. (Dediki): Bize Abdürrezzak haber verdi. (Dediki): Bize İbni Cüreyc haber verdi; ve tertemiz yazdırdı. (Dediki): Bana İsmail b. Muhammed b. Sa'd haber verdi. Ona da Humeyd b. Abdirrahmân b. Avf haber vermiş; ona da Sâib b. Yezîd haber vermiş; ona da Alâ' b. Hadramî, Resulullah (Sallallahu Aleyhi ve Sellem)'den naklen haber vermiş. Resulullah (Sallallahu Aleyhi ve Sellem) : «Muhacirin hacc ibâdetlerini edâ ettikten sonra Mekke'de kalacağı müddet üç gecedir.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 504
+      }
+    }
+  ]
 }

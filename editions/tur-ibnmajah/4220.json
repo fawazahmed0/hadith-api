@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4220,
-			"arabicnumber": 4220,
-			"text": "Ebu Zer' (r.a)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem): Şüphesiz ben öyle bir kelime (Osman — kendi rivayetinde — dediki: öyle bir âyet) bilirim ki eğer insanların hepsi onu tutsaydilar, hepsine yetecekti, buyurdu. Sahabiler: Yâ Resulallah! Hangi ayettir? dediler. O, buyurdu ki: ''..ve kim Allah'tan korkarsa, Allah o kimseye (doruktan genişliğe) bir çıkış yolu ihsan eder.''(Talak, 2) demiştir.\" Not: Zevâid'de şöyle denilmiştir: Bu hadisin ravileri güvenilir zâtlardır. Fakat sened munkati (kesik)tir. Çünkü Ebü's-Selil, Ebu Zer' (r.a.)'e yetişmemiştir. Bu durumu et-Tehzib yazan söylemiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 121
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4220,
+      "arabicnumber": 4220,
+      "text": "Ebu Zer' (r.a)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem): Şüphesiz ben öyle bir kelime (Osman — kendi rivayetinde — dediki: öyle bir âyet) bilirim ki eğer insanların hepsi onu tutsaydilar, hepsine yetecekti, buyurdu. Sahabiler: Yâ Resulallah! Hangi ayettir? dediler. O, buyurdu ki: ''..ve kim Allah'tan korkarsa, Allah o kimseye (doruktan genişliğe) bir çıkış yolu ihsan eder.''(Talak, 2) demiştir.\" Not: Zevâid'de şöyle denilmiştir: Bu hadisin ravileri güvenilir zâtlardır. Fakat sened munkati (kesik)tir. Çünkü Ebü's-Selil, Ebu Zer' (r.a.)'e yetişmemiştir. Bu durumu et-Tehzib yazan söylemiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 121
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 822,
-			"arabicnumber": 822,
-			"text": "Yahya b. Saîd'den: Ömer b. Hattab, Beytullah'a veda tavafı yapmadan ayrılan bir adamı Merruz Zahran'dan geri çevirip veda tavafı yaptırdı",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 118
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 822,
+      "arabicnumber": 822,
+      "text": "Yahya b. Saîd'den: Ömer b. Hattab, Beytullah'a veda tavafı yapmadan ayrılan bir adamı Merruz Zahran'dan geri çevirip veda tavafı yaptırdı",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 118
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 952,
-			"arabicnumber": 952,
-			"text": "İmran b. Husayn (r.a.)'den; demiştir ki: Bende basur (hemoroid hastalığı) vardı. (Bu durumda) namazı nasıl kılacağımı Nebi Sallallahu Aleyhi ve Sellem'e sordum; \"Durabilirsen ayakta, gücün yetmezse oturarak o'na da gücün yetmezse yan üstü uzanarak kıl\" buyurdu. Diğer tahric: Buharî, taksîı; İbn Mace, ikame; Tirmizî, salat; Ahmed b. Hanbel IV",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1117)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 563
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 952,
+      "arabicnumber": 952,
+      "text": "İmran b. Husayn (r.a.)'den; demiştir ki: Bende basur (hemoroid hastalığı) vardı. (Bu durumda) namazı nasıl kılacağımı Nebi Sallallahu Aleyhi ve Sellem'e sordum; \"Durabilirsen ayakta, gücün yetmezse oturarak o'na da gücün yetmezse yan üstü uzanarak kıl\" buyurdu. Diğer tahric: Buharî, taksîı; İbn Mace, ikame; Tirmizî, salat; Ahmed b. Hanbel IV",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1117)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 563
+      }
+    }
+  ]
 }

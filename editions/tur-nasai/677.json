@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"7": "The Book of the Adhan (The Call to Prayer)"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 626,
-				"hadithnumber_last": 687,
-				"arabicnumber_first": 626,
-				"arabicnumber_last": 687
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 677,
-			"arabicnumber": 677,
-			"text": "Alkame b. Vakkas (radıyallahü anh)’den rivâyete göre, şöyle demiştir: yanında oturuyordum, Müezzini ezan okumaya başlayınca o da, müezzinin ezanda okuduklarını aynen söylemeye başladı. Müezzin: alessalâh) deyince, Muaviye (Lâ havle velâ kuvvete illa billah) dedi. Yine müezzin (Hayye alel felâh) deyince, Muaviye yine: havle velâ kuvvete illa billah) dedi. Bundan sonra da müezzinin söylediklerini aynen tekrar etti sonra da: Rasûlüllah (sallallahü aleyhi ve sellem)’in böyle söylediğini işitmiştim dedi. (Buhârî, Ezan: 7; Dârimi, Salat:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 52
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "7": "Ezan Bölümleri (Kitabı)"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 626,
+        "hadithnumber_last": 687,
+        "arabicnumber_first": 626,
+        "arabicnumber_last": 687
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 677,
+      "arabicnumber": 677,
+      "text": "Alkame b. Vakkas (radıyallahü anh)’den rivâyete göre, şöyle demiştir: yanında oturuyordum, Müezzini ezan okumaya başlayınca o da, müezzinin ezanda okuduklarını aynen söylemeye başladı. Müezzin: alessalâh) deyince, Muaviye (Lâ havle velâ kuvvete illa billah) dedi. Yine müezzin (Hayye alel felâh) deyince, Muaviye yine: havle velâ kuvvete illa billah) dedi. Bundan sonra da müezzinin söylediklerini aynen tekrar etti sonra da: Rasûlüllah (sallallahü aleyhi ve sellem)’in böyle söylediğini işitmiştim dedi. (Buhârî, Ezan: 7; Dârimi, Salat:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 52
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3932,
-			"arabicnumber": "1536.26",
-			"text": "Bize Hasan-ı Hulvânî rivayet etti. (Dediki): Bize Ebû Tevbe rivayet etti. (Dediki): Bize Muâviye, Yahya b. Ebî Kesîr'den rivayet etti. Ona da Yezîd b. Nuaym, ona da Câbir b. Abdillâh haber vermişki, Câbir, Resûlullah (Sallallahu Aleyhi ve Sellem)'i müzâbene ile hukulden nehî buyururken işitmiş. Câbir b. Abdillâh demişki: «Müzâbene, hurmanın taze yemişini kuru hurma karşılığında satmak; hukul ise yeri kiraya vermektir.» İzah 1547 de",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 131
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3932,
+      "arabicnumber": "1536.26",
+      "text": "Bize Hasan-ı Hulvânî rivayet etti. (Dediki): Bize Ebû Tevbe rivayet etti. (Dediki): Bize Muâviye, Yahya b. Ebî Kesîr'den rivayet etti. Ona da Yezîd b. Nuaym, ona da Câbir b. Abdillâh haber vermişki, Câbir, Resûlullah (Sallallahu Aleyhi ve Sellem)'i müzâbene ile hukulden nehî buyururken işitmiş. Câbir b. Abdillâh demişki: «Müzâbene, hurmanın taze yemişini kuru hurma karşılığında satmak; hukul ise yeri kiraya vermektir.» İzah 1547 de",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 131
+      }
+    }
+  ]
 }

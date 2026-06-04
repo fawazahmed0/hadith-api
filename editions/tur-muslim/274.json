@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 274,
-			"arabicnumber": "95.01",
-			"text": "Bize Kuteybe b. Said tahdis etti. Bize Leys tahdis etti. (H) Bize Muhammed b. Rumh da tahdis etti -ki lafızlar birbirine yakındır.- Bize Leys, İbn Şihab'dan haber verdi. O Ata b. Yezid el-Leysi'den, o Ubeydullah b. Adiyy b. el-Hiyar'dan, o Mikdad el-Esved'den rivayet ettiğine göre kendisine şöyle dediğini haber vermiştir: Ey Allah'ın Resulü ne dersin kafirlerden bir adamla karşılaşsam, benimle çarpışsa, kılıçla ellerimden birini vurup kesse sonra benden (kaçıp) bir ağaca sığınsa, arkasından da: Allah için ben Müslüman oldum dese, o bu sözü söyledikten sonra onu öldürebilir miyim, ey Allah'ın Resulü? Resulullah (Sallallahu aleyhi ve Sellem): \"Hayır, onu öldürme\" buyurdu. Ben: Ey Allah'ın Resulü, ama o önce benim elimi kesti. Onu kestikten sonra bu sözü söyledi, onu öldüreyim mi, dedim. Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Hayır, onu öldürme. Onu öldürecek olursan o vakit o, sen kendisini öldürmeden önceki senin konumunda olur ve sen de söylediği o sözden önceki onun konumunda olursun. \" Diğer tahric: Buhari, 3794, 6472; Ebu Davud, 2644; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 180
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 274,
+      "arabicnumber": "95.01",
+      "text": "Bize Kuteybe b. Said tahdis etti. Bize Leys tahdis etti. (H) Bize Muhammed b. Rumh da tahdis etti -ki lafızlar birbirine yakındır.- Bize Leys, İbn Şihab'dan haber verdi. O Ata b. Yezid el-Leysi'den, o Ubeydullah b. Adiyy b. el-Hiyar'dan, o Mikdad el-Esved'den rivayet ettiğine göre kendisine şöyle dediğini haber vermiştir: Ey Allah'ın Resulü ne dersin kafirlerden bir adamla karşılaşsam, benimle çarpışsa, kılıçla ellerimden birini vurup kesse sonra benden (kaçıp) bir ağaca sığınsa, arkasından da: Allah için ben Müslüman oldum dese, o bu sözü söyledikten sonra onu öldürebilir miyim, ey Allah'ın Resulü? Resulullah (Sallallahu aleyhi ve Sellem): \"Hayır, onu öldürme\" buyurdu. Ben: Ey Allah'ın Resulü, ama o önce benim elimi kesti. Onu kestikten sonra bu sözü söyledi, onu öldüreyim mi, dedim. Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Hayır, onu öldürme. Onu öldürecek olursan o vakit o, sen kendisini öldürmeden önceki senin konumunda olur ve sen de söylediği o sözden önceki onun konumunda olursun. \" Diğer tahric: Buhari, 3794, 6472; Ebu Davud, 2644; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 180
+      }
+    }
+  ]
 }

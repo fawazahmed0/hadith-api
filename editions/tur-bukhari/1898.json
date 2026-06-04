@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1898,
-			"arabicnumber": 1898,
-			"text": "Ebu Hureyre'nin naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Ramazan geldiğinde cennet'in kapıları açılır.\" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1898,
+      "arabicnumber": 1898,
+      "text": "Ebu Hureyre'nin naklettiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Ramazan geldiğinde cennet'in kapıları açılır.\" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 8
+      }
+    }
+  ]
 }

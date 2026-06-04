@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3311,
-			"arabicnumber": 3311,
-			"text": "Câbir (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Nebi (s.a.v), Cuma günü ayakta hutbe okurken Medîne kafilesi geldi. Rasûlullah (s.a.v.)’in ashabı hemen o'na koştular. Mescidde Ebû Bekir ve Ömer’in de bulunduğu on iki kişi kalmıştı. Bunun üzerine Cuma sûresi 11. ayet nazil oldu: “Böyle iken insanlardan bir kısmı, kıtlık senesinde ticaret kervanının geldiğini haber alınca veya dünyevî bir kazanç yada geçici bir eğlence gördükleri zaman, ona doğru koşup seni mescidde ayakta bırakıverirler. De ki: Allah katında olan nimetler, Cennetler ve sevap bütün geçici eğlencelerden ve bütün kazançlardan çok daha hayırlıdır ve Allah rızık vererek ihtiyaçları karşılayanların en hayırlısıdır.”",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 363
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3311,
+      "arabicnumber": 3311,
+      "text": "Câbir (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Nebi (s.a.v), Cuma günü ayakta hutbe okurken Medîne kafilesi geldi. Rasûlullah (s.a.v.)’in ashabı hemen o'na koştular. Mescidde Ebû Bekir ve Ömer’in de bulunduğu on iki kişi kalmıştı. Bunun üzerine Cuma sûresi 11. ayet nazil oldu: “Böyle iken insanlardan bir kısmı, kıtlık senesinde ticaret kervanının geldiğini haber alınca veya dünyevî bir kazanç yada geçici bir eğlence gördükleri zaman, ona doğru koşup seni mescidde ayakta bırakıverirler. De ki: Allah katında olan nimetler, Cennetler ve sevap bütün geçici eğlencelerden ve bütün kazançlardan çok daha hayırlıdır ve Allah rızık vererek ihtiyaçları karşılayanların en hayırlısıdır.”",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 363
+      }
+    }
+  ]
 }

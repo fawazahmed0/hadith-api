@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2985,
-			"arabicnumber": 2985,
-			"text": "Abdurrahman İbn Ebu Bekir şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem bana Aişe'yi terkime alarak Ten'im'e götürmemi ve oradan itibaren Aişe'ye umre yaptırmamı emretti",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 194
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2985,
+      "arabicnumber": 2985,
+      "text": "Abdurrahman İbn Ebu Bekir şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem bana Aişe'yi terkime alarak Ten'im'e götürmemi ve oradan itibaren Aişe'ye umre yaptırmamı emretti",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 194
+      }
+    }
+  ]
 }

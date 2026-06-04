@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"78": "Good Manners and Form (Al-Adab)"
-		},
-		"section_detail": {
-			"78": {
-				"hadithnumber_first": 5970,
-				"hadithnumber_last": 6226,
-				"arabicnumber_first": 5970,
-				"arabicnumber_last": 6226
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6068,
-			"arabicnumber": 6068,
-			"text": "Leys'den bu sened ile: \"Aişe dedi ki: Bir gün Nebi Sallallahu Aleyhi ve Sellem odama girdi ve: Ey Aişe, ben filan ve filan'ın üzerinde bulunduğumuz bu dinimizi bildiklerini zannetmiyorum, buyurdu.\" Fethu'l-Bari Açıklaması: \"Caiz olan zan\". Başlıktan anlaşılan şudur: Hadiste sözü geçen hallerin benzeri, yasak kılınmış zan türünden değildir. Çünkü bu, sözü edilen iki adamın durumu gibi olan kimselerden sakındırmak maksadı ile söylenmiştir. Yasak zan ise dini ve ırzı (namus, şeref ve haysiyeti) itibariyle her türlü kusurdan uzak, Müslüman bir kimse hakkında kötü zan beslemektir. İbn Ömer de şöyle demiştir: Bizler, bir adamın yatsı namazı cemaatine katılmadığını görecek olursak, onun hakkında kötü zan beslerdik. Yani bu ancak kötü bir durum sebebiyle cemaate katılamamıştır. Ya bedeninde kötü bir hal vardır yahut dininde diye",
-			"grades": [],
-			"reference": {
-				"book": 78,
-				"hadith": 98
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "78": "Edeb"
+    },
+    "section_detail": {
+      "78": {
+        "hadithnumber_first": 5970,
+        "hadithnumber_last": 6226,
+        "arabicnumber_first": 5970,
+        "arabicnumber_last": 6226
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6068,
+      "arabicnumber": 6068,
+      "text": "Leys'den bu sened ile: \"Aişe dedi ki: Bir gün Nebi Sallallahu Aleyhi ve Sellem odama girdi ve: Ey Aişe, ben filan ve filan'ın üzerinde bulunduğumuz bu dinimizi bildiklerini zannetmiyorum, buyurdu.\" Fethu'l-Bari Açıklaması: \"Caiz olan zan\". Başlıktan anlaşılan şudur: Hadiste sözü geçen hallerin benzeri, yasak kılınmış zan türünden değildir. Çünkü bu, sözü edilen iki adamın durumu gibi olan kimselerden sakındırmak maksadı ile söylenmiştir. Yasak zan ise dini ve ırzı (namus, şeref ve haysiyeti) itibariyle her türlü kusurdan uzak, Müslüman bir kimse hakkında kötü zan beslemektir. İbn Ömer de şöyle demiştir: Bizler, bir adamın yatsı namazı cemaatine katılmadığını görecek olursak, onun hakkında kötü zan beslerdik. Yani bu ancak kötü bir durum sebebiyle cemaate katılamamıştır. Ya bedeninde kötü bir hal vardır yahut dininde diye",
+      "grades": [],
+      "reference": {
+        "book": 78,
+        "hadith": 98
+      }
+    }
+  ]
 }

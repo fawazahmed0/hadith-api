@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 111,
-			"arabicnumber": 111,
-			"text": "Abdullah b. Amr (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), abdest alan bir gurubu gördü. Topuklarının kuru olduğunu fark edince şöyle buyurdu: abdest alırken topuklarını iyice yıkamayanların ateşten çekeceğine. Abdest alırken suyu her tarafa götürerek abdestinizi eksiksiz alın.) (Buhârî, Vudu’’: 30; Tirmizî, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 111,
+      "arabicnumber": 111,
+      "text": "Abdullah b. Amr (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), abdest alan bir gurubu gördü. Topuklarının kuru olduğunu fark edince şöyle buyurdu: abdest alırken topuklarını iyice yıkamayanların ateşten çekeceğine. Abdest alırken suyu her tarafa götürerek abdestinizi eksiksiz alın.) (Buhârî, Vudu’’: 30; Tirmizî, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 111
+      }
+    }
+  ]
 }

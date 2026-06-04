@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"38": "The Book of Manners and Etiquette"
-		},
-		"section_detail": {
-			"38": {
-				"hadithnumber_first": 5586,
-				"hadithnumber_last": 5645,
-				"arabicnumber_first": 2131,
-				"arabicnumber_last": 2159.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5625,
-			"arabicnumber": "2152.02",
-			"text": "{…} Bize Ebû Bekr b. Ebî Şeybe ile İbni Numeyr rivayet ettiler (Dedilerki): Bize Veki' rivayet etti. H. Bize Süreye b. Yûnus da rivayet etti. (Dediki): Bize Hüşeym rivâyet etti. H. Bize İshâk b. İbrahim dahi rivayet etti. (Dediki): Bize Cerîr haber verdi. H. Bana Muhammed b. Râfi' dahi rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. Bu râvilerin hepsi İshıâil'den bu isnadla rivayette bulunmuşlardır. Yalnız Yezid'in hadîsinden başka hiç birinin hadisinde Peygamber (Sallallahu Aleyhi ve Sellem)'in Muğîre'ye ; «Ey oğulcuğum!..» sözü yoktur. «O Allah'a bundan daha ehvendir.1 cümlesinden murad onun Allah indinde bîr kıymeti yoktur ki, elinde böyle acaib garaib halketsin demektir",
-			"grades": [],
-			"reference": {
-				"book": 38,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "38": "Âdâb"
+    },
+    "section_detail": {
+      "38": {
+        "hadithnumber_first": 5586,
+        "hadithnumber_last": 5645,
+        "arabicnumber_first": 2131,
+        "arabicnumber_last": 2159.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5625,
+      "arabicnumber": "2152.02",
+      "text": "{…} Bize Ebû Bekr b. Ebî Şeybe ile İbni Numeyr rivayet ettiler (Dedilerki): Bize Veki' rivayet etti. H. Bize Süreye b. Yûnus da rivayet etti. (Dediki): Bize Hüşeym rivâyet etti. H. Bize İshâk b. İbrahim dahi rivayet etti. (Dediki): Bize Cerîr haber verdi. H. Bana Muhammed b. Râfi' dahi rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. Bu râvilerin hepsi İshıâil'den bu isnadla rivayette bulunmuşlardır. Yalnız Yezid'in hadîsinden başka hiç birinin hadisinde Peygamber (Sallallahu Aleyhi ve Sellem)'in Muğîre'ye ; «Ey oğulcuğum!..» sözü yoktur. «O Allah'a bundan daha ehvendir.1 cümlesinden murad onun Allah indinde bîr kıymeti yoktur ki, elinde böyle acaib garaib halketsin demektir",
+      "grades": [],
+      "reference": {
+        "book": 38,
+        "hadith": 40
+      }
+    }
+  ]
 }

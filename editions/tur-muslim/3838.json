@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3838,
-			"arabicnumber": "1525.02",
-			"text": "{…} Bize İbni Ebî Ömer ile Ahmed b. Abde rivayet ettiler. Dedilerki: Bize Süfyân rivayet etti. H. Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb de rivayet ettiler. (Dedilerki): Bize Vekî', Süfyân yâni Sevrî'den rivayet etti. Her iki râvi Amr b. Dinar'dan bu isnâdla bu hadîsin benzerini rivayet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3838,
+      "arabicnumber": "1525.02",
+      "text": "{…} Bize İbni Ebî Ömer ile Ahmed b. Abde rivayet ettiler. Dedilerki: Bize Süfyân rivayet etti. H. Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb de rivayet ettiler. (Dedilerki): Bize Vekî', Süfyân yâni Sevrî'den rivayet etti. Her iki râvi Amr b. Dinar'dan bu isnâdla bu hadîsin benzerini rivayet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 37
+      }
+    }
+  ]
 }

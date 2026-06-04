@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2374,
-			"arabicnumber": "1028",
-			"text": "Bize İbni Ebî Ömer rivayet etti. (Dediki): Bize Mervân yâni el-Fezârî Yezîd'den —ki İbni Keysân'dır— o da Ebû Hâzim'i Eşcaî'den, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Bu gün sizden kim oruçlu olarak sabahladı?» diye sordu Ebû Bekir: — «Ben» diye cevap verdi. Resulullah (Sallallahu Aleyhi ve Sellem): — «Bu gün sizden kim bir cenaze teşyî' etti?» buyurdu? Ebû Bekir: — -Ben» dedi. Resulullah (Sallallahu Aleyhi ve Sellem): — «Bu gün sizden hanginiz bir fakîr doyurdu?» diye sordu; Ebû Bekir: — «Ben.» cevâbını verdi. Resulullah (Sallallahu Aleyhi ve Sellem): — Bu gün sizden kim bir hasta dolaştı?» dedi; (yine) Ebû Bekir: — «Ben.» cevâbını verdi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): — «Bu hasletler kendisinde toplanan hiç bir kimse yoktur ki, cennete girmesin...» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2374,
+      "arabicnumber": "1028",
+      "text": "Bize İbni Ebî Ömer rivayet etti. (Dediki): Bize Mervân yâni el-Fezârî Yezîd'den —ki İbni Keysân'dır— o da Ebû Hâzim'i Eşcaî'den, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Bu gün sizden kim oruçlu olarak sabahladı?» diye sordu Ebû Bekir: — «Ben» diye cevap verdi. Resulullah (Sallallahu Aleyhi ve Sellem): — «Bu gün sizden kim bir cenaze teşyî' etti?» buyurdu? Ebû Bekir: — -Ben» dedi. Resulullah (Sallallahu Aleyhi ve Sellem): — «Bu gün sizden hanginiz bir fakîr doyurdu?» diye sordu; Ebû Bekir: — «Ben.» cevâbını verdi. Resulullah (Sallallahu Aleyhi ve Sellem): — Bu gün sizden kim bir hasta dolaştı?» dedi; (yine) Ebû Bekir: — «Ben.» cevâbını verdi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): — «Bu hasletler kendisinde toplanan hiç bir kimse yoktur ki, cennete girmesin...» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 111
+      }
+    }
+  ]
 }

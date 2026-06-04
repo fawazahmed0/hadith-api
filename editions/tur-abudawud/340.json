@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 340,
-			"arabicnumber": 340,
-			"text": "Ebu Hureyre (r.a.) şöyle haber vermiştir: \"Ömer bin el-Hattab (r.a.) bir cuma günü hutbe okurken, bir zat (mescide) giriverdi. Hz. Ömer: Niçin namaza (vaktinde) gelmiyorsunuz? dedi. Adam: Ezanı duyup abdest aldım (ancak geldim), dedi. Bunun üzerine Hz. Ömer şu karşılığı verdi: Hem de sadece abdest (öyle mi)? Resulullah (Sallallahu aleyhi ve Sellem)'ın, \"Sizden biri cumaya geldiği zaman gusletsin\" buyurduğunu işitmediniz mi? Tahric: bk. Buhari, cuma; MüsIim, cuma; Tirmizi, cuma; Nesai, Cuma; Muvatta, cuma; Darimi, salat; Ahmed b. Hanbel, I",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (882) Sahih Muslim (845)"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 340
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 340,
+      "arabicnumber": 340,
+      "text": "Ebu Hureyre (r.a.) şöyle haber vermiştir: \"Ömer bin el-Hattab (r.a.) bir cuma günü hutbe okurken, bir zat (mescide) giriverdi. Hz. Ömer: Niçin namaza (vaktinde) gelmiyorsunuz? dedi. Adam: Ezanı duyup abdest aldım (ancak geldim), dedi. Bunun üzerine Hz. Ömer şu karşılığı verdi: Hem de sadece abdest (öyle mi)? Resulullah (Sallallahu aleyhi ve Sellem)'ın, \"Sizden biri cumaya geldiği zaman gusletsin\" buyurduğunu işitmediniz mi? Tahric: bk. Buhari, cuma; MüsIim, cuma; Tirmizi, cuma; Nesai, Cuma; Muvatta, cuma; Darimi, salat; Ahmed b. Hanbel, I",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (882) Sahih Muslim (845)"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 340
+      }
+    }
+  ]
 }

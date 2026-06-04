@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 677,
-			"arabicnumber": 677,
-			"text": "Ebu Kılabe şöyle demiştir: \"Malik bin Hüveyris bir gün İçinde bulunduğumuz şu mescide gelip; 'Asıl maksadım ve isteğim namaz kılmak olmadığı halde size namaz kıldıracağım. Resûlullah Sallallahu Aleyhi ve Sellem'i nasıl namaz kılar gördümse öyle kıldıracağım' dedi. Bu rivayeti nakleden (Eyyûb es-Sıhtiyânî), Ebu Kılâbe'ye Malik'in nasıl namaz kıldırdığını sormuş, Ebu Kılâbe de Amr İbn Seleme'yi kastederek: \"Hocamız gibi\" cevabını vermiş ve şunları söylemiştir: \"O, başını ikinci secdeden kaldırıp birinci rek'atı bitirdikten sonra ikinci rekata kalkarken çok kısa bir süre otururdu. Bu yani 677 numaralı hadisin baş kısmı ve diğer ayrıntıları 812, 818 ve 824 noda geçmektedir",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 71
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 677,
+      "arabicnumber": 677,
+      "text": "Ebu Kılabe şöyle demiştir: \"Malik bin Hüveyris bir gün İçinde bulunduğumuz şu mescide gelip; 'Asıl maksadım ve isteğim namaz kılmak olmadığı halde size namaz kıldıracağım. Resûlullah Sallallahu Aleyhi ve Sellem'i nasıl namaz kılar gördümse öyle kıldıracağım' dedi. Bu rivayeti nakleden (Eyyûb es-Sıhtiyânî), Ebu Kılâbe'ye Malik'in nasıl namaz kıldırdığını sormuş, Ebu Kılâbe de Amr İbn Seleme'yi kastederek: \"Hocamız gibi\" cevabını vermiş ve şunları söylemiştir: \"O, başını ikinci secdeden kaldırıp birinci rek'atı bitirdikten sonra ikinci rekata kalkarken çok kısa bir süre otururdu. Bu yani 677 numaralı hadisin baş kısmı ve diğer ayrıntıları 812, 818 ve 824 noda geçmektedir",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 71
+      }
+    }
+  ]
 }

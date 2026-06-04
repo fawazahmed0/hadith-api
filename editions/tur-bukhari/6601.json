@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"82": "Divine Will (Al-Qadar)"
-		},
-		"section_detail": {
-			"82": {
-				"hadithnumber_first": 6594,
-				"hadithnumber_last": 6620,
-				"arabicnumber_first": 6594,
-				"arabicnumber_last": 6620
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6601,
-			"arabicnumber": 6601,
-			"text": "Ebu Hureyre r.a.'den rivayet edildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Hiçbir kadın Müslüman hanım kardeşinin eşiyle evlenmek için boşanmasını istemesin. Çünkü onun için de takdir edilmiş birisi vardır",
-			"grades": [],
-			"reference": {
-				"book": 82,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "82": "Kaza ve Kaderle İlgili Hadisler Kitabı"
+    },
+    "section_detail": {
+      "82": {
+        "hadithnumber_first": 6594,
+        "hadithnumber_last": 6620,
+        "arabicnumber_first": 6594,
+        "arabicnumber_last": 6620
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6601,
+      "arabicnumber": 6601,
+      "text": "Ebu Hureyre r.a.'den rivayet edildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Hiçbir kadın Müslüman hanım kardeşinin eşiyle evlenmek için boşanmasını istemesin. Çünkü onun için de takdir edilmiş birisi vardır",
+      "grades": [],
+      "reference": {
+        "book": 82,
+        "hadith": 7
+      }
+    }
+  ]
 }

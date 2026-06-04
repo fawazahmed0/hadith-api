@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4212,
-			"arabicnumber": 4212,
-			"text": "Humeyd et-Tavll'den rivayete göre o \"Enes b. Malik r.a.'ı şöyle derken dinlemiştir: Nebi Sallallahu Aleyhi ve Sellem Hayber yolunda Huyey kızı Safiyye için üç gün kaldı ve onun ile gerdeğe girdi. Böylece o da hicab arkasına geçenlerden oldu",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 252
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4212,
+      "arabicnumber": 4212,
+      "text": "Humeyd et-Tavll'den rivayete göre o \"Enes b. Malik r.a.'ı şöyle derken dinlemiştir: Nebi Sallallahu Aleyhi ve Sellem Hayber yolunda Huyey kızı Safiyye için üç gün kaldı ve onun ile gerdeğe girdi. Böylece o da hicab arkasına geçenlerden oldu",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 252
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 609,
-			"arabicnumber": 609,
-			"text": "Enes (r.a.)'den (rivayet edildiğine göre); Resulullah (Sallallahu aleyhi ve Sellem) Hazret-i Enes'le onlardan bir kadına imam olmuş; Enes'i sağına kadını da onun arkasına durdurmuştur. Diğer tahric: Nesai, imame; Ibn Mace, ikame",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (660)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 219
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 609,
+      "arabicnumber": 609,
+      "text": "Enes (r.a.)'den (rivayet edildiğine göre); Resulullah (Sallallahu aleyhi ve Sellem) Hazret-i Enes'le onlardan bir kadına imam olmuş; Enes'i sağına kadını da onun arkasına durdurmuştur. Diğer tahric: Nesai, imame; Ibn Mace, ikame",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (660)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 219
+      }
+    }
+  ]
 }

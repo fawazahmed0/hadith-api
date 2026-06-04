@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"48": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness "
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 6805,
-				"hadithnumber_last": 6936,
-				"arabicnumber_first": 2675.01,
-				"arabicnumber_last": 2735.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6894,
-			"arabicnumber": "2715",
-			"text": "Kitapta da bu rakam Mükerrerdir, hadis değil Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dedikî): Bize Yezîd b. Harun, Hammad b. Seleme'den, o da Sâbit'ten, o da Enes'den naklen rivayet etti ki: Resulullah (Sallallahu Aleyhi ve Sellem) döşeğine uzandığı vakit: «Bizi doyurup sulayan, kifayet eden ve sığındıran Allah'a hamdolsun. Nice yeteri ve sığındırıcısı olmayanlar vardır.» dermiş",
-			"grades": [],
-			"reference": {
-				"book": 48,
-				"hadith": 87
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "48": "Zikir, Dua, Tevbe ve İstiğfar Bahsi"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 6805,
+        "hadithnumber_last": 6936,
+        "arabicnumber_first": 2675.01,
+        "arabicnumber_last": 2735.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6894,
+      "arabicnumber": "2715",
+      "text": "Kitapta da bu rakam Mükerrerdir, hadis değil Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dedikî): Bize Yezîd b. Harun, Hammad b. Seleme'den, o da Sâbit'ten, o da Enes'den naklen rivayet etti ki: Resulullah (Sallallahu Aleyhi ve Sellem) döşeğine uzandığı vakit: «Bizi doyurup sulayan, kifayet eden ve sığındıran Allah'a hamdolsun. Nice yeteri ve sığındırıcısı olmayanlar vardır.» dermiş",
+      "grades": [],
+      "reference": {
+        "book": 48,
+        "hadith": 87
+      }
+    }
+  ]
 }

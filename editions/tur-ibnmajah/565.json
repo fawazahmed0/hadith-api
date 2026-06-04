@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"1": "The Book of Purification and its Sunnah"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 267,
-				"hadithnumber_last": 666,
-				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 565,
-			"arabicnumber": 565,
-			"text": "Ammar bin Yasir (r.a.)'den rivayet edildiğine göre şöyle demiştir: Resul-i Ekrem (Sallallahu Aleyhi ve Sellem)'in seferlerinin birinde) Aişe (Radiyallahu anha)'nın gerdanlığı düştü. Gerdanlığı aramak için Aişe (Radıyallahu anha), gecikti. (Herkes bulunması için bekledi.) Bunun üzerine Ebu Bekir (r.a.), Aişe (r.anha)'nın yanma vararak halk'ın beklemesine sebep olduğu için ona şiddetle öfkelendi. Biraz sonra Allah (Azze ve Ceile) teyemmüm ruhsatını (Maide 6) indirdi. Ammar (r.a.) dedi ki : Biz o gün (teyemmüm ederken toprakla) omuzlarımıza kadar mesnettik. Ammar (r.a.) dedi ki: Bundan sonra Ebu Bekir (r.a.) Aişe (r.anha)'nın yanma vararak: Ben senin bu kadar mübarek olduğunu bilemedim, dedi. AÇIKLAMA 568’te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 299
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "1": "Taharet ve Sünnet (Hadis)lerinin Beyanı Kitabı"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 267,
+        "hadithnumber_last": 666,
+        "arabicnumber_first": 267,
+        "arabicnumber_last": 666
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 565,
+      "arabicnumber": 565,
+      "text": "Ammar bin Yasir (r.a.)'den rivayet edildiğine göre şöyle demiştir: Resul-i Ekrem (Sallallahu Aleyhi ve Sellem)'in seferlerinin birinde) Aişe (Radiyallahu anha)'nın gerdanlığı düştü. Gerdanlığı aramak için Aişe (Radıyallahu anha), gecikti. (Herkes bulunması için bekledi.) Bunun üzerine Ebu Bekir (r.a.), Aişe (r.anha)'nın yanma vararak halk'ın beklemesine sebep olduğu için ona şiddetle öfkelendi. Biraz sonra Allah (Azze ve Ceile) teyemmüm ruhsatını (Maide 6) indirdi. Ammar (r.a.) dedi ki : Biz o gün (teyemmüm ederken toprakla) omuzlarımıza kadar mesnettik. Ammar (r.a.) dedi ki: Bundan sonra Ebu Bekir (r.a.) Aişe (r.anha)'nın yanma vararak: Ben senin bu kadar mübarek olduğunu bilemedim, dedi. AÇIKLAMA 568’te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 299
+      }
+    }
+  ]
 }

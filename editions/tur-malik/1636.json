@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"47": "Good Character"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 1633,
-				"hadithnumber_last": 1650,
-				"arabicnumber_first": 1633,
-				"arabicnumber_last": 1650
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1636,
-			"arabicnumber": 1636,
-			"text": "Nebi Sallallahu Aleyhi ve Sellem'in zevcesi Aişe r.anha'dan: Ben Resulullah Sallallahu Aleyhi ve Sellem ile beraber iken, bir adam huzuruna girmek için izin istedi. Resulullah Sallallahu Aleyhi ve Sellem: «O, kabilenin en kötü oğludur» dedi. Sonra ona izin verdi. Aradan fazla zaman geçmeden Resulullah Sallallahu Aleyhi ve Sellem'in onunla beraber güldüğünü işittim. Adam çıkınca: «—Ya Resulallah! Biraz önce sen o adam hakkında söyleyeceğini söyledin. Sonra aradan zaman geçmeden onunla beraber güldün» dediğimde, Resulullah Sallallahu Aleyhi ve Sellem: «— İnsanların en kötüsü, şerrinden dolayı insanların kendisinden korunduğu kimsedir» buyurdu",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "47": "Güzel Ahlâk"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 1633,
+        "hadithnumber_last": 1650,
+        "arabicnumber_first": 1633,
+        "arabicnumber_last": 1650
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1636,
+      "arabicnumber": 1636,
+      "text": "Nebi Sallallahu Aleyhi ve Sellem'in zevcesi Aişe r.anha'dan: Ben Resulullah Sallallahu Aleyhi ve Sellem ile beraber iken, bir adam huzuruna girmek için izin istedi. Resulullah Sallallahu Aleyhi ve Sellem: «O, kabilenin en kötü oğludur» dedi. Sonra ona izin verdi. Aradan fazla zaman geçmeden Resulullah Sallallahu Aleyhi ve Sellem'in onunla beraber güldüğünü işittim. Adam çıkınca: «—Ya Resulallah! Biraz önce sen o adam hakkında söyleyeceğini söyledin. Sonra aradan zaman geçmeden onunla beraber güldün» dediğimde, Resulullah Sallallahu Aleyhi ve Sellem: «— İnsanların en kötüsü, şerrinden dolayı insanların kendisinden korunduğu kimsedir» buyurdu",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 4
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5686,
-			"arabicnumber": "2177.04",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdü'l-A'lâ, Ma'mer'den, o da Zührî'den, o da Salimden, o da İbni Ömer'den naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ve Sellem) : «Sakın biriniz din kardeşini yerinden kaldırıp, sonra onun yerine oturmasın!» buyurmuşlar. İbni Ömer kendisi için biri yerinden kalkarsa oraya oturmazmış",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5686,
+      "arabicnumber": "2177.04",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdü'l-A'lâ, Ma'mer'den, o da Zührî'den, o da Salimden, o da İbni Ömer'den naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ve Sellem) : «Sakın biriniz din kardeşini yerinden kaldırıp, sonra onun yerine oturmasın!» buyurmuşlar. İbni Ömer kendisi için biri yerinden kalkarsa oraya oturmazmış",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 40
+      }
+    }
+  ]
 }

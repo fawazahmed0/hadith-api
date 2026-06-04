@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3033,
-			"arabicnumber": 3033,
-			"text": "İbn-i Abbas (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Akabe cemresine taş attığı zaman, geçiyor ve (orada) durmuyordu. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Süveyd bin Said bulunur. Bu ravi hakkında ihtilaf vardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 152
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3033,
+      "arabicnumber": 3033,
+      "text": "İbn-i Abbas (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Akabe cemresine taş attığı zaman, geçiyor ve (orada) durmuyordu. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Süveyd bin Said bulunur. Bu ravi hakkında ihtilaf vardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 152
+      }
+    }
+  ]
 }

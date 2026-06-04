@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 948,
-			"arabicnumber": 948,
-			"text": "Ümmü's-Seleme (r.a.)'den şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) Ümmü Seleme (r.a.)'in odasında namaz kılıyordu. Abdullah veya Ömer bin Ebi Seleme (r.a.), Onun önünden geçmek istedi. Nebi s.a.v. eliyle işaret etti. Çocuk da geri dönüp Zeyneb binti Ümmi Seleme (r.a.) (Omun önünden) geçmek istedi. Nebi s.a.v. eliyle şöylece işaret etti. Buna rağmen Zeyneb (r.anha) (onun önünden) geçti. Resulullah Sallallahu aleyhi ve sellem namazı bitirince: «Kadınlar (muhalefet etmek hususunda) erkekler'e galibtirler. buyurdu.» Not: Zevaid'de: Hadisin isnadında zayıflık vardır. Burada ravi Muhammed bin Kays. babasından rivayet etmiştir. Bazı nüshalarda, annesinden rivayet etmiştir. Babası da, annesi de tanınmıyor, denilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 146
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 948,
+      "arabicnumber": 948,
+      "text": "Ümmü's-Seleme (r.a.)'den şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) Ümmü Seleme (r.a.)'in odasında namaz kılıyordu. Abdullah veya Ömer bin Ebi Seleme (r.a.), Onun önünden geçmek istedi. Nebi s.a.v. eliyle işaret etti. Çocuk da geri dönüp Zeyneb binti Ümmi Seleme (r.a.) (Omun önünden) geçmek istedi. Nebi s.a.v. eliyle şöylece işaret etti. Buna rağmen Zeyneb (r.anha) (onun önünden) geçti. Resulullah Sallallahu aleyhi ve sellem namazı bitirince: «Kadınlar (muhalefet etmek hususunda) erkekler'e galibtirler. buyurdu.» Not: Zevaid'de: Hadisin isnadında zayıflık vardır. Burada ravi Muhammed bin Kays. babasından rivayet etmiştir. Bazı nüshalarda, annesinden rivayet etmiştir. Babası da, annesi de tanınmıyor, denilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 146
+      }
+    }
+  ]
 }

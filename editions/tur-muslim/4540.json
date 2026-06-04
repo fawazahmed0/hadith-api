@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"32": "The Book of Jihad and Expeditions"
-		},
-		"section_detail": {
-			"32": {
-				"hadithnumber_first": 4519,
-				"hadithnumber_last": 4700,
-				"arabicnumber_first": 1730.01,
-				"arabicnumber_last": 1817
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4540,
-			"arabicnumber": "1740",
-			"text": "Bize Muhammed b. Abdirrahmân b. Sehm de rivayet etti. (Dediki): Bize Abdullah b. Mübarek haber verdi. (Dediki): Bize Ma'mer, Hemmâm b. Münebbih'den, o da Ebû Hureyre'den naklen haber verdi. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Harb hileden ibarettir.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 32,
-				"hadith": 21
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "32": "Cihâd Ve Siyer"
+    },
+    "section_detail": {
+      "32": {
+        "hadithnumber_first": 4519,
+        "hadithnumber_last": 4700,
+        "arabicnumber_first": 1730.01,
+        "arabicnumber_last": 1817
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4540,
+      "arabicnumber": "1740",
+      "text": "Bize Muhammed b. Abdirrahmân b. Sehm de rivayet etti. (Dediki): Bize Abdullah b. Mübarek haber verdi. (Dediki): Bize Ma'mer, Hemmâm b. Münebbih'den, o da Ebû Hureyre'den naklen haber verdi. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Harb hileden ibarettir.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 32,
+        "hadith": 21
+      }
+    }
+  ]
 }

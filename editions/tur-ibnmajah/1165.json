@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1165,
-			"arabicnumber": 1165,
-			"text": "Rafi' bin Hadic r.a.'den şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), Beni Abdi'l-Eşhel kabilesinde bizim yanımıza teşrif etmişti. Mescidimizde bize akşam namazını kıldırdı. Sonra: «Bu iki rek'at (sünnet)'i evlerinizde kılınız.» buyurdu. Not: Zevaid'de şöyle denmiştir: 'Bunun senedi zayıftır. çünkü İsmail bin Ayyaş'ın ŞamIılardan olan rivayeti zayıftır. Ravi Abdülvahhab ise kezzabtır.' Sindi de: İsmail bin Ayyaş'ın ŞamIılardan değil, Şamlı olmayanlardan olan rivayetinin zayıflığı doğru olanıdır, demiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 363
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1165,
+      "arabicnumber": 1165,
+      "text": "Rafi' bin Hadic r.a.'den şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), Beni Abdi'l-Eşhel kabilesinde bizim yanımıza teşrif etmişti. Mescidimizde bize akşam namazını kıldırdı. Sonra: «Bu iki rek'at (sünnet)'i evlerinizde kılınız.» buyurdu. Not: Zevaid'de şöyle denmiştir: 'Bunun senedi zayıftır. çünkü İsmail bin Ayyaş'ın ŞamIılardan olan rivayeti zayıftır. Ravi Abdülvahhab ise kezzabtır.' Sindi de: İsmail bin Ayyaş'ın ŞamIılardan değil, Şamlı olmayanlardan olan rivayetinin zayıflığı doğru olanıdır, demiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 363
+      }
+    }
+  ]
 }

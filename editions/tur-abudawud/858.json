@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 858,
-			"arabicnumber": 858,
-			"text": "Rifaa b. Rafi'den, manası önceki (857) ile aynı olan bir hadis daha nakledilmiştir. Bu hadiste (Rifaa) Resulullah (sallellahu aleyhi ve sellem)in; “yüzünü ve dirsekleriyle beraber ellerini yıkamak, başını meshetmek ve topuklarına kadar ayaklanın (yıkamak) suretiyle Allah'ın emrettiği şekilde abdest almadıkça, sonra \"aziz ve celil olan Allah en büyüktür\" demedikçe ve ona hamd etmedikçe ve sonra kendisine izin verildiği ve gücü yettiği kadar Kur'an'dan (ayetler) okumadıkça hiçbirinizin namazı tam değildir\" buyurduğunu söylemiştir. Daha sonra (Ebu Davud'un şeyhlerinin şeyhi olan Hemmam bir önceki) Hammad hadisinin bir benzerini (İshak b. Abdullah ve Ali b. Yahya ve babası vasıtasıyla amcası Rifaa'den şöyle) nakletmiştir: Resulullah (sallellahu aleyhi ve sellem) buyurdu ki: \"Sonra tekbir getirir, sonra secde eder ve bütün eklemleri yatışacak ve yerine rahatça yerleşecek şekilde yüzünü yere koyar.\" Hemam -kendisine bu hadisi nakleden İshak'ın- bazı kere (\"yüzünü\" sözü yerine) \"alnını\" dediğini söyledi (ve rivayetine şu sözlerle devam etti:) \"Sonra tekbir getirip oturağı üzerinde oturur hale gelecek şekilde dikilir ve belini kaldırır.\" (Resulullah) namazın dört rekatını da bu şekilde ta'rif etti. (Bu tarifi) bitirince, \"bunu yapmadıkça hiç birinizin namazı tamam olmaz\" buyurdu. Diğer tahric: Nesaî, iftitah, tatbîk, sehv; Tirmizî, mevakît",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 468
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 858,
+      "arabicnumber": 858,
+      "text": "Rifaa b. Rafi'den, manası önceki (857) ile aynı olan bir hadis daha nakledilmiştir. Bu hadiste (Rifaa) Resulullah (sallellahu aleyhi ve sellem)in; “yüzünü ve dirsekleriyle beraber ellerini yıkamak, başını meshetmek ve topuklarına kadar ayaklanın (yıkamak) suretiyle Allah'ın emrettiği şekilde abdest almadıkça, sonra \"aziz ve celil olan Allah en büyüktür\" demedikçe ve ona hamd etmedikçe ve sonra kendisine izin verildiği ve gücü yettiği kadar Kur'an'dan (ayetler) okumadıkça hiçbirinizin namazı tam değildir\" buyurduğunu söylemiştir. Daha sonra (Ebu Davud'un şeyhlerinin şeyhi olan Hemmam bir önceki) Hammad hadisinin bir benzerini (İshak b. Abdullah ve Ali b. Yahya ve babası vasıtasıyla amcası Rifaa'den şöyle) nakletmiştir: Resulullah (sallellahu aleyhi ve sellem) buyurdu ki: \"Sonra tekbir getirir, sonra secde eder ve bütün eklemleri yatışacak ve yerine rahatça yerleşecek şekilde yüzünü yere koyar.\" Hemam -kendisine bu hadisi nakleden İshak'ın- bazı kere (\"yüzünü\" sözü yerine) \"alnını\" dediğini söyledi (ve rivayetine şu sözlerle devam etti:) \"Sonra tekbir getirip oturağı üzerinde oturur hale gelecek şekilde dikilir ve belini kaldırır.\" (Resulullah) namazın dört rekatını da bu şekilde ta'rif etti. (Bu tarifi) bitirince, \"bunu yapmadıkça hiç birinizin namazı tamam olmaz\" buyurdu. Diğer tahric: Nesaî, iftitah, tatbîk, sehv; Tirmizî, mevakît",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 468
+      }
+    }
+  ]
 }

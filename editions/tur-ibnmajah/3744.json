@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3744,
-			"arabicnumber": 3744,
-			"text": "Ebû Bekre (Nufey' bin el-Hâris) (r.a.)'den; Şöyle demiştir: Bir adam Resulullah (Sallallahu Aleyhi ve Sellem)'in yanında başka bir adam'ı övdü. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «Vay sana yazıklar olsun! Sen dostunun boynunu kestin,» buyurdu. Bu buyruğu defalarca tekrarladı. Daha sonra şöyle buyurdu: «Biriniz (din) kardeşini övecek olursa: Onu (şöyle iyi) sanırım ve Allah'a karşı hiç kimseyi tezkiye edemem, desin.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 88
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3744,
+      "arabicnumber": 3744,
+      "text": "Ebû Bekre (Nufey' bin el-Hâris) (r.a.)'den; Şöyle demiştir: Bir adam Resulullah (Sallallahu Aleyhi ve Sellem)'in yanında başka bir adam'ı övdü. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «Vay sana yazıklar olsun! Sen dostunun boynunu kestin,» buyurdu. Bu buyruğu defalarca tekrarladı. Daha sonra şöyle buyurdu: «Biriniz (din) kardeşini övecek olursa: Onu (şöyle iyi) sanırım ve Allah'a karşı hiç kimseyi tezkiye edemem, desin.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 88
+      }
+    }
+  ]
 }

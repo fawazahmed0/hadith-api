@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"28": "Chapters on Hunting"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3200,
-				"hadithnumber_last": 3250,
-				"arabicnumber_first": 3200,
-				"arabicnumber_last": 3250
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3225,
-			"arabicnumber": 3225,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Allah'ın Nebi'i (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: Nebilerden birini bir karınca ısırmış. Bunun üzerine o Nebi karıncaların köyü (yâni yuvalarının yakılmasını emretmiş de yakılmış. Bunun üzerine Allah (Azze ve Celle) o Nebi'e: Bir karıncanın seni ısırması nedeniyle sen (Allah'ı) tesbih eden ümmetlerden bir ümmeti (yâni karınca topluluğunu) helak ettin? diye (ayıplayıcı) vahiy indirdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "28": "Av Kitabı"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3200,
+        "hadithnumber_last": 3250,
+        "arabicnumber_first": 3200,
+        "arabicnumber_last": 3250
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3225,
+      "arabicnumber": 3225,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Allah'ın Nebi'i (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: Nebilerden birini bir karınca ısırmış. Bunun üzerine o Nebi karıncaların köyü (yâni yuvalarının yakılmasını emretmiş de yakılmış. Bunun üzerine Allah (Azze ve Celle) o Nebi'e: Bir karıncanın seni ısırması nedeniyle sen (Allah'ı) tesbih eden ümmetlerden bir ümmeti (yâni karınca topluluğunu) helak ettin? diye (ayıplayıcı) vahiy indirdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 26
+      }
+    }
+  ]
 }

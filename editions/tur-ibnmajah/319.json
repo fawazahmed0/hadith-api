@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"1": "The Book of Purification and its Sunnah"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 267,
-				"hadithnumber_last": 666,
-				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 319,
-			"arabicnumber": 319,
-			"text": "Resulullah s.a.v.’in sohbetinde bulunmuş olan Makil bin Ebi Makıl el-Esedi r.a.’den rivayet edildiğine göre şöyle demiştir: '' Büyük veya küçük abdest bozarken iki kıble (Kabe ve Mescid-i Aksa) ya doğru durmamızı Resulullah Sallallahu Aleyhi ve Sellem yasak kıldı. '' Not: Ravilerden Zeyd'in mechul olduğundan hadisin zayıf olduğu söylenmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "1": "Taharet ve Sünnet (Hadis)lerinin Beyanı Kitabı"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 267,
+        "hadithnumber_last": 666,
+        "arabicnumber_first": 267,
+        "arabicnumber_last": 666
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 319,
+      "arabicnumber": 319,
+      "text": "Resulullah s.a.v.’in sohbetinde bulunmuş olan Makil bin Ebi Makıl el-Esedi r.a.’den rivayet edildiğine göre şöyle demiştir: '' Büyük veya küçük abdest bozarken iki kıble (Kabe ve Mescid-i Aksa) ya doğru durmamızı Resulullah Sallallahu Aleyhi ve Sellem yasak kıldı. '' Not: Ravilerden Zeyd'in mechul olduğundan hadisin zayıf olduğu söylenmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 53
+      }
+    }
+  ]
 }

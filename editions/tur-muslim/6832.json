@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"48": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness "
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 6805,
-				"hadithnumber_last": 6936,
-				"arabicnumber_first": 2675.01,
-				"arabicnumber_last": 2735.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6832,
-			"arabicnumber": "2675.07",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb rivayet ettiler. Lâfız Ebû Kureyb'indir. (Dedilerki): Bize Ebû Muaviye A'meş'den, o da Ebû Sâlih'den, o da Ebû Hureyre'den naklen rivayet eüi. (Şöyle demiş): Resulullah (Sallallahu Aleyhi ve Sellem) buyurdular ki: «Allah (Azze ve Celle): Ben kulumun zannının yanındayım. Beni zikrederken de onunla beraberim. O beni gönlünden zikrederse, ben de onu nefsimde zikrederim. Beni bir cemaat içinde zikrederse; ben onu o cemaattan daha hayırlı bir cemaat içinde zikrederim. Bana bir karış yaklaşırsa, ben ona bir arşın yaklaşırım; bana bir arşın yaklaşırsa, ben ona bir kulaç yaklaşırım. O bana yürüyerek gelirse, ben ona koşarak gelirim, buyuruyor.» Bu rivayetlerin devamı da var onlar için buraya tıklayabilirsin",
-			"grades": [],
-			"reference": {
-				"book": 48,
-				"hadith": 28
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "48": "Zikir, Dua, Tevbe ve İstiğfar Bahsi"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 6805,
+        "hadithnumber_last": 6936,
+        "arabicnumber_first": 2675.01,
+        "arabicnumber_last": 2735.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6832,
+      "arabicnumber": "2675.07",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb rivayet ettiler. Lâfız Ebû Kureyb'indir. (Dedilerki): Bize Ebû Muaviye A'meş'den, o da Ebû Sâlih'den, o da Ebû Hureyre'den naklen rivayet eüi. (Şöyle demiş): Resulullah (Sallallahu Aleyhi ve Sellem) buyurdular ki: «Allah (Azze ve Celle): Ben kulumun zannının yanındayım. Beni zikrederken de onunla beraberim. O beni gönlünden zikrederse, ben de onu nefsimde zikrederim. Beni bir cemaat içinde zikrederse; ben onu o cemaattan daha hayırlı bir cemaat içinde zikrederim. Bana bir karış yaklaşırsa, ben ona bir arşın yaklaşırım; bana bir arşın yaklaşırsa, ben ona bir kulaç yaklaşırım. O bana yürüyerek gelirse, ben ona koşarak gelirim, buyuruyor.» Bu rivayetlerin devamı da var onlar için buraya tıklayabilirsin",
+      "grades": [],
+      "reference": {
+        "book": 48,
+        "hadith": 28
+      }
+    }
+  ]
 }

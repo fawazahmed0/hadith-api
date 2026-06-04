@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2291,
-			"arabicnumber": "987.02",
-			"text": "Bana Yûnus b. Abdila'lâ Es-Sadefi rivayet etti. (Dediki): Bize Abdullah b. Vehb haber verdi. (Dediki): Bana Hişâm b. Sa'd, Zeyd b. Eslem'den bu isnâd da Hafs b. Meysera hadîsi mânası ile sonuna kadar rivayette bulundu. Yalnız o ; «Hiç bir deve sahibi yoktur ki, onun hakkını vermesin de...» dedi; «O develerden haklarını...» demedi. Hadîsde: «Develerden bir tek yavru noksan kalmamak şartıyla...» ibaresini de zikretti. Bir de-. «Onlarla iki yanı, alnı ve sırtı dağlanır.» dedi",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 29
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2291,
+      "arabicnumber": "987.02",
+      "text": "Bana Yûnus b. Abdila'lâ Es-Sadefi rivayet etti. (Dediki): Bize Abdullah b. Vehb haber verdi. (Dediki): Bana Hişâm b. Sa'd, Zeyd b. Eslem'den bu isnâd da Hafs b. Meysera hadîsi mânası ile sonuna kadar rivayette bulundu. Yalnız o ; «Hiç bir deve sahibi yoktur ki, onun hakkını vermesin de...» dedi; «O develerden haklarını...» demedi. Hadîsde: «Develerden bir tek yavru noksan kalmamak şartıyla...» ibaresini de zikretti. Bir de-. «Onlarla iki yanı, alnı ve sırtı dağlanır.» dedi",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 29
+      }
+    }
+  ]
 }

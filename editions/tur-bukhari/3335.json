@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3335,
-			"arabicnumber": 3335,
-			"text": "Abdullah (b. Mes'ud) dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Haksızca öldürülen her bir nefsin, günahından bir pay da -haksızca dökülen kanı dolayısıyla- mutlaka Adem'in ilk (olarak kan döken) oğluna da verilir. Çünkü öldürme çığırını ilk açan odur.'' Tekrar: 6867 ve",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3335,
+      "arabicnumber": 3335,
+      "text": "Abdullah (b. Mes'ud) dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Haksızca öldürülen her bir nefsin, günahından bir pay da -haksızca dökülen kanı dolayısıyla- mutlaka Adem'in ilk (olarak kan döken) oğluna da verilir. Çünkü öldürme çığırını ilk açan odur.'' Tekrar: 6867 ve",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 10
+      }
+    }
+  ]
 }

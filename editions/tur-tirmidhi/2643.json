@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"40": "The Book on Faith"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 2606,
-				"hadithnumber_last": 2644,
-				"arabicnumber_first": 2606,
-				"arabicnumber_last": 2644
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2643,
-			"arabicnumber": 2643,
-			"text": "Muâz b. Cebel (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Rasûlullah (s.a.v.) bana: Allah’ın kulları üzerindeki hakkı nedir? Biliyor musun, buyurdu. Ben de: Allah ve Peygamberi daha iyi bilir dedim. Bunun üzerine buyurdu ki: Allah’ın kulları üzerindeki hakkı sadece ona ibadet edip kulluk yapmaları ve hiçbir şeyi ve kimseyi onun otoritesine ortak koşmamalarıdır.” Sonra kullar bunu yaptıkları vakit kulların Allah üzerindeki hakları nedir biliyor musun? Buyurdu. Ben de Allah ve Rasûlü daha iyi bilir dedim. Buyurdular ki: “Onlara azâb etmemektir.” Diğer tahric: Buhârî, Cihâd; Müslim, İman Bu hadis hasen sahihtir. Muâz b. Cebel tarafından da değişik bir şekilde rivâyet edilmiştir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "40": "İman Bölümleri"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 2606,
+        "hadithnumber_last": 2644,
+        "arabicnumber_first": 2606,
+        "arabicnumber_last": 2644
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2643,
+      "arabicnumber": 2643,
+      "text": "Muâz b. Cebel (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Rasûlullah (s.a.v.) bana: Allah’ın kulları üzerindeki hakkı nedir? Biliyor musun, buyurdu. Ben de: Allah ve Peygamberi daha iyi bilir dedim. Bunun üzerine buyurdu ki: Allah’ın kulları üzerindeki hakkı sadece ona ibadet edip kulluk yapmaları ve hiçbir şeyi ve kimseyi onun otoritesine ortak koşmamalarıdır.” Sonra kullar bunu yaptıkları vakit kulların Allah üzerindeki hakları nedir biliyor musun? Buyurdu. Ben de Allah ve Rasûlü daha iyi bilir dedim. Buyurdular ki: “Onlara azâb etmemektir.” Diğer tahric: Buhârî, Cihâd; Müslim, İman Bu hadis hasen sahihtir. Muâz b. Cebel tarafından da değişik bir şekilde rivâyet edilmiştir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 38
+      }
+    }
+  ]
 }

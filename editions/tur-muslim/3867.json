@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3867,
-			"arabicnumber": "1534.05",
-			"text": "{…} Bize ibni Rafi' rivayet etti. (Dediki): Bize ibni Ebî Füdeyk rivayet etti. (Dediki): Bize Dahhâk, Nâfi'den, o da ibni Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen Abdülvehhab hadisinin mislini haber verdi",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 66
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3867,
+      "arabicnumber": "1534.05",
+      "text": "{…} Bize ibni Rafi' rivayet etti. (Dediki): Bize ibni Ebî Füdeyk rivayet etti. (Dediki): Bize Dahhâk, Nâfi'den, o da ibni Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen Abdülvehhab hadisinin mislini haber verdi",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 66
+      }
+    }
+  ]
 }

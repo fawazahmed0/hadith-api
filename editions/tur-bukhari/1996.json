@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1996,
-			"arabicnumber": 1996,
-			"text": "Hişam, babasının şöyle söylediğini bildirdi: Aişe r.anha Mina günlerinde (teşrik günlerinde) oruç tutardı. Hişam'ın babası Urve de o günlerde oruç tutardı",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 102
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1996,
+      "arabicnumber": 1996,
+      "text": "Hişam, babasının şöyle söylediğini bildirdi: Aişe r.anha Mina günlerinde (teşrik günlerinde) oruç tutardı. Hişam'ın babası Urve de o günlerde oruç tutardı",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 102
+      }
+    }
+  ]
 }

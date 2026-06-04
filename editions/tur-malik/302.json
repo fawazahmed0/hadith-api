@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"8": "Prayer in Congregation"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 287,
-				"hadithnumber_last": 325,
-				"arabicnumber_first": 287,
-				"arabicnumber_last": 325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 302,
-			"arabicnumber": 302,
-			"text": "Yahya b. Said rivayet eder: Bir adam Akik'de cemaate imamlık yapıyordu. Ömer b. Abdulaziz haber salarak onu imamlıktan men etti. İmam Malik der ki: Adamın babası belli olmadığı için onu imamlıktan men etti",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "8": "Cemaatle Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 287,
+        "hadithnumber_last": 325,
+        "arabicnumber_first": 287,
+        "arabicnumber_last": 325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 302,
+      "arabicnumber": 302,
+      "text": "Yahya b. Said rivayet eder: Bir adam Akik'de cemaate imamlık yapıyordu. Ömer b. Abdulaziz haber salarak onu imamlıktan men etti. İmam Malik der ki: Adamın babası belli olmadığı için onu imamlıktan men etti",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 16
+      }
+    }
+  ]
 }

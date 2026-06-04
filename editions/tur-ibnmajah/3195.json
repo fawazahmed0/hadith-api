@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"27": "Chapters on Slaughtering"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 3162,
-				"hadithnumber_last": 3199,
-				"arabicnumber_first": 3162,
-				"arabicnumber_last": 3199
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3195,
-			"arabicnumber": 3195,
-			"text": "Seleme bin el-Ekva' (r.a.)'den; Şöyle demiştir: Biz Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde Hayber savaşma katıldık. (Hayber'in fethedildiği gün) akşamleyin sahâbîler (bir hayli) ateşler yaktılar. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): «Ne için ateş yakıyorsunuz?» diye sordu. Sahâbîler : Evcil eşeklerin etleri (ni pişirmek) üzere, diye cevab verdiler. Bu cevab üzerine Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Çömleklerdekini dökünüz ve çömlekleri de kırınız,» buyurdu. Sahâbîlerden biri: Veya çömleklerdekini dökeriz ve çömlekleri yıkarız? dedi. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Veya dediğin gibi (yapınız)» buyurdu. Tahric: Bu hadis’i Buhari ve Müslim de rivayet ettiler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 27,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "27": "Zebâih (Yani Boğazlanan Hayvanlar) Kitabı"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 3162,
+        "hadithnumber_last": 3199,
+        "arabicnumber_first": 3162,
+        "arabicnumber_last": 3199
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3195,
+      "arabicnumber": 3195,
+      "text": "Seleme bin el-Ekva' (r.a.)'den; Şöyle demiştir: Biz Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde Hayber savaşma katıldık. (Hayber'in fethedildiği gün) akşamleyin sahâbîler (bir hayli) ateşler yaktılar. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): «Ne için ateş yakıyorsunuz?» diye sordu. Sahâbîler : Evcil eşeklerin etleri (ni pişirmek) üzere, diye cevab verdiler. Bu cevab üzerine Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Çömleklerdekini dökünüz ve çömlekleri de kırınız,» buyurdu. Sahâbîlerden biri: Veya çömleklerdekini dökeriz ve çömlekleri yıkarız? dedi. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Veya dediğin gibi (yapınız)» buyurdu. Tahric: Bu hadis’i Buhari ve Müslim de rivayet ettiler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 27,
+        "hadith": 34
+      }
+    }
+  ]
 }

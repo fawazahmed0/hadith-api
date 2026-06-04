@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3953,
-			"arabicnumber": "1547.13",
-			"text": "Biie Amru'n-Nâkıd rivayet etti. (Dediki): Bize Süfyan b, Uyeyne, Yahya b. Saîd'den, o da Hanzale-i Züraki'den naklen rivayet etti ki, Hanzale. Râfi' b. Hadîc'i şunu söylerken işitmiş: «Biz Ensârın en çok tarla sahibi olanlarındandik. Yeri, şurası bizim, şurası kiracıların olmak şartiyle îcâr ederdik. Çok defa da birinin yeri mahsul getirir; Ötekininki getirmezdi. Bundan dolayı Nebi (Sallallahu Aleyhi ve Sellem) bizi bundan nehî buyurdu; ama gümüşle icardan nehyetmedi",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 152
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3953,
+      "arabicnumber": "1547.13",
+      "text": "Biie Amru'n-Nâkıd rivayet etti. (Dediki): Bize Süfyan b, Uyeyne, Yahya b. Saîd'den, o da Hanzale-i Züraki'den naklen rivayet etti ki, Hanzale. Râfi' b. Hadîc'i şunu söylerken işitmiş: «Biz Ensârın en çok tarla sahibi olanlarındandik. Yeri, şurası bizim, şurası kiracıların olmak şartiyle îcâr ederdik. Çok defa da birinin yeri mahsul getirir; Ötekininki getirmezdi. Bundan dolayı Nebi (Sallallahu Aleyhi ve Sellem) bizi bundan nehî buyurdu; ama gümüşle icardan nehyetmedi",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 152
+      }
+    }
+  ]
 }

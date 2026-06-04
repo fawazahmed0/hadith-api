@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"8": "The Chapters Regarding Zakat"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 1783,
-				"hadithnumber_last": 1844,
-				"arabicnumber_first": 1783,
-				"arabicnumber_last": 1844
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1789,
-			"arabicnumber": 1789,
-			"text": "Fatime bint-i Kays (r.anha)'dam rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Malda zekattan başka hiç bir hak yoktur.» Diğer tahric: Tirmizi ve Darimi bu hadisi tahric etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif Munkar"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif Munkar"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Very Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "8": "Zekat Kitabı"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 1783,
+        "hadithnumber_last": 1844,
+        "arabicnumber_first": 1783,
+        "arabicnumber_last": 1844
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1789,
+      "arabicnumber": 1789,
+      "text": "Fatime bint-i Kays (r.anha)'dam rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Malda zekattan başka hiç bir hak yoktur.» Diğer tahric: Tirmizi ve Darimi bu hadisi tahric etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Munkar"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Munkar"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 7
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"9": "The Chapters on Marriage"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1845,
-				"hadithnumber_last": 2015,
-				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1892,
-			"arabicnumber": 1892,
-			"text": "Abdullah bin Mes'ud (r.a.)'den; Şöyle demiştir: Her hayrı içine alan veciz sözler ve her hayrın sonuçları (na ait en edebi konuşmalar) veya böyle demiştir: Her hayrın başlangıçları (na dair en edebi) sözler, (Allah tarafından) Resulullah (Sallallahu Aleyhi ve Sellem)'e verildi. O da bize namaz (ın sonunda okunan) teşehhüdü ve (nikah akdi ile benzeri) hacet(in başlangıç) hutbesini öğretti. Namaz teşehhüdü şudur:",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 48
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "9": "Nikâh Kitabı"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1845,
+        "hadithnumber_last": 2015,
+        "arabicnumber_first": 1845,
+        "arabicnumber_last": 2015
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1892,
+      "arabicnumber": 1892,
+      "text": "Abdullah bin Mes'ud (r.a.)'den; Şöyle demiştir: Her hayrı içine alan veciz sözler ve her hayrın sonuçları (na ait en edebi konuşmalar) veya böyle demiştir: Her hayrın başlangıçları (na dair en edebi) sözler, (Allah tarafından) Resulullah (Sallallahu Aleyhi ve Sellem)'e verildi. O da bize namaz (ın sonunda okunan) teşehhüdü ve (nikah akdi ile benzeri) hacet(in başlangıç) hutbesini öğretti. Namaz teşehhüdü şudur:",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 48
+      }
+    }
+  ]
 }

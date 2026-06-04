@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"24": "The Chapters on Jihad"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 2753,
-				"hadithnumber_last": 2881,
-				"arabicnumber_first": 2753,
-				"arabicnumber_last": 2881
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2843,
-			"arabicnumber": 2843,
-			"text": "Usâme bin Zeyd (r.a.)'dan: Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) beni (bir askerî kuvvet başında) Übnâ denilen bir köye göndererek; «Sabah('ın erken saatlerinde aniden) Übnâ köyüne var (baskın yap)- Sonra (evlerini, ekinlerini ve ağaçlarını) yaktır,- buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 91
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "24": "Cihâd Kitabı"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 2753,
+        "hadithnumber_last": 2881,
+        "arabicnumber_first": 2753,
+        "arabicnumber_last": 2881
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2843,
+      "arabicnumber": 2843,
+      "text": "Usâme bin Zeyd (r.a.)'dan: Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) beni (bir askerî kuvvet başında) Übnâ denilen bir köye göndererek; «Sabah('ın erken saatlerinde aniden) Übnâ köyüne var (baskın yap)- Sonra (evlerini, ekinlerini ve ağaçlarını) yaktır,- buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 91
+      }
+    }
+  ]
 }

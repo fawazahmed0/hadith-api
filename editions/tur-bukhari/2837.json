@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2837,
-			"arabicnumber": 2837,
-			"text": "Bera İbn Azib'in şöyle dediği nakledilmiştir: Hendek savaşı hazırlıkları yapılırken Resulullah Sallallahu Aleyhi ve Sellem'in kazıda çıkan toprakları taşıdığını gördüm. Topraklar karnına bulaşmıştı. Çalışırken bir taraftan da Allah Teala'ya şöyle yalvarıyordu: \"Allah'ım Sen olmasaydın biz hidayet yolunu bulamazdık; ne sadaka verebilir ne de namaz kılabilirdik. Üzerimize sekinetini yağdır, düşmanla karşı karşıya gelirsek ayaklarımızı sabit kıl! Onlar haksız ve azgın bir şekilde bize karşı saldırıya geçtiler; onlar fitne çıkarmak istiyorlarsa da biz istemiyoruz",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2837,
+      "arabicnumber": 2837,
+      "text": "Bera İbn Azib'in şöyle dediği nakledilmiştir: Hendek savaşı hazırlıkları yapılırken Resulullah Sallallahu Aleyhi ve Sellem'in kazıda çıkan toprakları taşıdığını gördüm. Topraklar karnına bulaşmıştı. Çalışırken bir taraftan da Allah Teala'ya şöyle yalvarıyordu: \"Allah'ım Sen olmasaydın biz hidayet yolunu bulamazdık; ne sadaka verebilir ne de namaz kılabilirdik. Üzerimize sekinetini yağdır, düşmanla karşı karşıya gelirsek ayaklarımızı sabit kıl! Onlar haksız ve azgın bir şekilde bize karşı saldırıya geçtiler; onlar fitne çıkarmak istiyorlarsa da biz istemiyoruz",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 53
+      }
+    }
+  ]
 }

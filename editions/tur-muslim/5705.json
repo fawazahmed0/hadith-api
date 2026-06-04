@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5705,
-			"arabicnumber": "2190.01",
-			"text": "Bize Yahya b. Habib el-Hârisi rivayet etti. (Dediki): Bize Hâlid b. Haris rivayet etti. (Dediki): Bize Şu'be Hişâm b. Zeyd'den, o da Enes'den naklen rivayet etti ki: (Enes b. Malik r.a. dediki:) Bir Yahudi kadını Resûlullah (Sallallahu Aleyhi ve Sellem)'e zehirli bir koyun getirmiş, o da ondan yemiş. Müteakiben kadını Resûlullah (Sallallahu Aleyhi ve Sellem)'e getirdiler. O da kadına bunun sebebini sormuş. Kadın : — Seni öldürmek istedim, cevâbını vermiş. Resûlullah (Sallallahu Aleyhi ve Sellem): «Allah seni bunun üzerine musallat kılacak değildir.» buyurmuş. Râvi demiş ki: Yahut: «Benim üzerime musallat kılacak değildir.» dedi. Ashâb: — Bu kadını öldürmeyelim mi? demişler: «Hayır» buyurmuş. Enes demiş ki: Artık ben bu alâmeti Resûlullah (Sallallahu Aleyhi ve Sellem)'in diş etlerinde gördüm durdum",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 59
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5705,
+      "arabicnumber": "2190.01",
+      "text": "Bize Yahya b. Habib el-Hârisi rivayet etti. (Dediki): Bize Hâlid b. Haris rivayet etti. (Dediki): Bize Şu'be Hişâm b. Zeyd'den, o da Enes'den naklen rivayet etti ki: (Enes b. Malik r.a. dediki:) Bir Yahudi kadını Resûlullah (Sallallahu Aleyhi ve Sellem)'e zehirli bir koyun getirmiş, o da ondan yemiş. Müteakiben kadını Resûlullah (Sallallahu Aleyhi ve Sellem)'e getirdiler. O da kadına bunun sebebini sormuş. Kadın : — Seni öldürmek istedim, cevâbını vermiş. Resûlullah (Sallallahu Aleyhi ve Sellem): «Allah seni bunun üzerine musallat kılacak değildir.» buyurmuş. Râvi demiş ki: Yahut: «Benim üzerime musallat kılacak değildir.» dedi. Ashâb: — Bu kadını öldürmeyelim mi? demişler: «Hayır» buyurmuş. Enes demiş ki: Artık ben bu alâmeti Resûlullah (Sallallahu Aleyhi ve Sellem)'in diş etlerinde gördüm durdum",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 59
+      }
+    }
+  ]
 }

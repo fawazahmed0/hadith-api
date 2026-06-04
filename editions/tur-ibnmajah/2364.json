@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"13": "The Chapters on Rulings"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2308,
-				"hadithnumber_last": 2374,
-				"arabicnumber_first": 2308,
-				"arabicnumber_last": 2374
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2364,
-			"arabicnumber": 2364,
-			"text": "Zeyd bin Hâlid el-Cühenî (r.a.)'den rivayet edildiğine göre; kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den, şöyle buyururken işitmiştir: «Şâhidlerin en hayırlısı, şâhidlik etmesi taleb edilmeden önce tanıklık görevini ifâ edendir.» Diğer tahric: Bu hadisi Malik. Ahmed. Müslim ve Ebu Davüd da rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "13": "Ahkâm (Hükümler) Kitabı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2308,
+        "hadithnumber_last": 2374,
+        "arabicnumber_first": 2308,
+        "arabicnumber_last": 2374
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2364,
+      "arabicnumber": 2364,
+      "text": "Zeyd bin Hâlid el-Cühenî (r.a.)'den rivayet edildiğine göre; kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den, şöyle buyururken işitmiştir: «Şâhidlerin en hayırlısı, şâhidlik etmesi taleb edilmeden önce tanıklık görevini ifâ edendir.» Diğer tahric: Bu hadisi Malik. Ahmed. Müslim ve Ebu Davüd da rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 57
+      }
+    }
+  ]
 }

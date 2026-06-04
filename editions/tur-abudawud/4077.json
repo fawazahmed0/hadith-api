@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"34": "Clothing (Kitab Al-Libas)"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4020,
-				"hadithnumber_last": 4158,
-				"arabicnumber_first": 4020,
-				"arabicnumber_last": 4158
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4077,
-			"arabicnumber": 4077,
-			"text": "(Cafer b. Amr b. Hureys'in) babasından (rivayet olunmuştur;) dedi ki: Nebi (s.a.v)'i minber üzerinde görmüştüm Başında siyah bir sarık vardı, ucu da omuzlarının arasına sarkıtmiştı.” Bu hadis; Müslim, hacc: Nesâî. zinet: İbn Mace, cîhad, libâs",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1359)"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "34": "Giyim Kuşam Bölümü"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4020,
+        "hadithnumber_last": 4158,
+        "arabicnumber_first": 4020,
+        "arabicnumber_last": 4158
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4077,
+      "arabicnumber": 4077,
+      "text": "(Cafer b. Amr b. Hureys'in) babasından (rivayet olunmuştur;) dedi ki: Nebi (s.a.v)'i minber üzerinde görmüştüm Başında siyah bir sarık vardı, ucu da omuzlarının arasına sarkıtmiştı.” Bu hadis; Müslim, hacc: Nesâî. zinet: İbn Mace, cîhad, libâs",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1359)"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 58
+      }
+    }
+  ]
 }

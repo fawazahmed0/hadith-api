@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1906,
-			"arabicnumber": 1906,
-			"text": "Abdullah İbn Ömer r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem bir gün Ramazan hakkında konuşmuş ve şöyle buyurmuştu: \"Hilal'i görünceye kadar sakın oruç tutmayın ve hilal'i yeniden görünceye kadar da oruç tutmayı bırakmayın. Hava bulutlu olup da hilal'i göremezseniz o ay'ı hesaplayarak belirleyin",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1906,
+      "arabicnumber": 1906,
+      "text": "Abdullah İbn Ömer r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem bir gün Ramazan hakkında konuşmuş ve şöyle buyurmuştu: \"Hilal'i görünceye kadar sakın oruç tutmayın ve hilal'i yeniden görünceye kadar da oruç tutmayı bırakmayın. Hava bulutlu olup da hilal'i göremezseniz o ay'ı hesaplayarak belirleyin",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 16
+      }
+    }
+  ]
 }

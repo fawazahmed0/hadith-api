@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"23": "Chapters on Shares of Inheritance"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 2719,
-				"hadithnumber_last": 2752,
-				"arabicnumber_first": 2719,
-				"arabicnumber_last": 2752
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2749,
-			"arabicnumber": 2749,
-			"text": "Abdullah bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Câhiliyet devrinde taksim edilmiş olan miras malı, câhiliyet devrindeki taksim şekli üzerinde (geçerli) dir. İslâmiyet'in yetiştiği miras malı da İslâmiyet'in taksim şekli üzerinde (geçerli)dir.» Not: Zevaid'de şöyle denilmiştir: Ravi İbn-i Lehia'nın zayıflığı nedeniyle bu sened zayıftır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 23,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "23": "Ferâiz Kitabı"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 2719,
+        "hadithnumber_last": 2752,
+        "arabicnumber_first": 2719,
+        "arabicnumber_last": 2752
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2749,
+      "arabicnumber": 2749,
+      "text": "Abdullah bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Câhiliyet devrinde taksim edilmiş olan miras malı, câhiliyet devrindeki taksim şekli üzerinde (geçerli) dir. İslâmiyet'in yetiştiği miras malı da İslâmiyet'in taksim şekli üzerinde (geçerli)dir.» Not: Zevaid'de şöyle denilmiştir: Ravi İbn-i Lehia'nın zayıflığı nedeniyle bu sened zayıftır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 23,
+        "hadith": 31
+      }
+    }
+  ]
 }

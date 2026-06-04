@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1396,
-			"arabicnumber": 1396,
-			"text": "Ebu Eyyûb el-Ensarî'den nakledildiğine göre, Bir kimse Resulullah Sallallahu Aleyhi ve Sellem'e gelerek, \"Bana, cennet'e girmemi sağlayacak bir amel söyle\" dedi. Bu adama ne oluyor?\" denilince Nebi Sallallahu Aleyhi ve Sellem: \"Onun önemli bir ihtiyacı var. Allah'a (C.C.) kulluk edersin, Ona hiçbir şey ile ortak koşmazsın, namazı kılarsın, zekatı verirsin ve akrabalık bağlarını kesmezsin\" buyurdu. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1396,
+      "arabicnumber": 1396,
+      "text": "Ebu Eyyûb el-Ensarî'den nakledildiğine göre, Bir kimse Resulullah Sallallahu Aleyhi ve Sellem'e gelerek, \"Bana, cennet'e girmemi sağlayacak bir amel söyle\" dedi. Bu adama ne oluyor?\" denilince Nebi Sallallahu Aleyhi ve Sellem: \"Onun önemli bir ihtiyacı var. Allah'a (C.C.) kulluk edersin, Ona hiçbir şey ile ortak koşmazsın, namazı kılarsın, zekatı verirsin ve akrabalık bağlarını kesmezsin\" buyurdu. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 2
+      }
+    }
+  ]
 }

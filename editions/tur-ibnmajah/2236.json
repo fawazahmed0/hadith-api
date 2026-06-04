@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"12": "The Chapters on Business Transactions"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2137,
-				"hadithnumber_last": 2307,
-				"arabicnumber_first": 2137,
-				"arabicnumber_last": 2307
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2236,
-			"arabicnumber": 2236,
-			"text": "Sahr el-Gâmidî (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem).Allahım! Ümmetim için gündüzün ilk vaktini (yâni bu vakitte yaptıkları işi) bereketti eyle,- buyurdu, demiştir. Sahr demiştir ki: ve Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) bir askeri birlik veya bir orduyu savaşa gönderdiği zaman gündüzün ilk vaktinde gönderirdi. (Râvî) demiştir ki: ve Sahr ticâretle iştigal eden bir adam idi. (Bu emre uyarak) ticâret mallarını sabah erken gönderirdi ve bu sayede servet sahibi oldu, malı çoğaldı. Diğer tahric: Tirmizi, Ebu Davud, Nesai ve İbni Hibban da rivayet etmişlerdir. AÇIKLAMA 2238’DE",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 100
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "12": "Ticaretler Kitabı"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2137,
+        "hadithnumber_last": 2307,
+        "arabicnumber_first": 2137,
+        "arabicnumber_last": 2307
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2236,
+      "arabicnumber": 2236,
+      "text": "Sahr el-Gâmidî (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem).Allahım! Ümmetim için gündüzün ilk vaktini (yâni bu vakitte yaptıkları işi) bereketti eyle,- buyurdu, demiştir. Sahr demiştir ki: ve Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) bir askeri birlik veya bir orduyu savaşa gönderdiği zaman gündüzün ilk vaktinde gönderirdi. (Râvî) demiştir ki: ve Sahr ticâretle iştigal eden bir adam idi. (Bu emre uyarak) ticâret mallarını sabah erken gönderirdi ve bu sayede servet sahibi oldu, malı çoğaldı. Diğer tahric: Tirmizi, Ebu Davud, Nesai ve İbni Hibban da rivayet etmişlerdir. AÇIKLAMA 2238’DE",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 100
+      }
+    }
+  ]
 }

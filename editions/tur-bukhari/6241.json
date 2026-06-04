@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"79": "Asking Permission"
-		},
-		"section_detail": {
-			"79": {
-				"hadithnumber_first": 6227,
-				"hadithnumber_last": 6303,
-				"arabicnumber_first": 6227,
-				"arabicnumber_last": 6303
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6241,
-			"arabicnumber": 6241,
-			"text": "Sehl İbn Sa'd'dan dedi ki: \"Bir adam Nebi Sallallahu Aleyhi ve Sellem'in hücrelerinden bir hücrenin içine baktı. Nebi Sallallahu Aleyhi ve Sellem'in elinde de kendisi ile başını kaşıdığı demir bir tarak vardı. Adamı görünce: Eğer senin içeriye doğru baktığını bilseydim, bunu gözüne batırırdım. Gerçek şu ki, izin istemek görmeye karşı tedbir olsun diye emredilmiştir.\" Diğer tahric edenler: Tirmizi Edeb; Müslim, Edeb",
-			"grades": [],
-			"reference": {
-				"book": 79,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "79": "İzin İsteme"
+    },
+    "section_detail": {
+      "79": {
+        "hadithnumber_first": 6227,
+        "hadithnumber_last": 6303,
+        "arabicnumber_first": 6227,
+        "arabicnumber_last": 6303
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6241,
+      "arabicnumber": 6241,
+      "text": "Sehl İbn Sa'd'dan dedi ki: \"Bir adam Nebi Sallallahu Aleyhi ve Sellem'in hücrelerinden bir hücrenin içine baktı. Nebi Sallallahu Aleyhi ve Sellem'in elinde de kendisi ile başını kaşıdığı demir bir tarak vardı. Adamı görünce: Eğer senin içeriye doğru baktığını bilseydim, bunu gözüne batırırdım. Gerçek şu ki, izin istemek görmeye karşı tedbir olsun diye emredilmiştir.\" Diğer tahric edenler: Tirmizi Edeb; Müslim, Edeb",
+      "grades": [],
+      "reference": {
+        "book": 79,
+        "hadith": 15
+      }
+    }
+  ]
 }

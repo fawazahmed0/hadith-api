@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"30": "Chapters On Wasaya (Wills and Testament)"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 2116,
-				"hadithnumber_last": 2124,
-				"arabicnumber_first": 2116,
-				"arabicnumber_last": 2124
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2117,
-			"arabicnumber": 2117,
-			"text": "Şehr b. Havşeb (r.a.)’den rivâyete göre, Ebû Hureyre, Rasûlullah (s.a.v.)’in şöyle buyurduğunu ona aktarmıştır: “Erkek veya kadın altmış sene Allah’a itaatle meşgul olurlar ölüm gelip çattığında yaptığı vasiyette varislerden bir kısmını zarara sokar böylece de Cehenneme düşmek o kimseye vâcib olur.” Sonra Ebû Hureyre bana Nisa sûresi 12-13 ayetini okudu: “… Bütün bunlar mirasçılar zarara uğratılmaksızın yerine getirilmelidir…” Diğer tahric: İbn Mâce, Vesâyâ; Ebû Dâvûd, Vesâyâ Tirmizî: Bu hadis hasen sahih garibtir. Eş’as b. Câbir’den hadis rivâyet eden Nasr b. Ali; Nasr b. Ali el Cehzamî’nin dedesidir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "30": "Vasiyet Bölümleri"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 2116,
+        "hadithnumber_last": 2124,
+        "arabicnumber_first": 2116,
+        "arabicnumber_last": 2124
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2117,
+      "arabicnumber": 2117,
+      "text": "Şehr b. Havşeb (r.a.)’den rivâyete göre, Ebû Hureyre, Rasûlullah (s.a.v.)’in şöyle buyurduğunu ona aktarmıştır: “Erkek veya kadın altmış sene Allah’a itaatle meşgul olurlar ölüm gelip çattığında yaptığı vasiyette varislerden bir kısmını zarara sokar böylece de Cehenneme düşmek o kimseye vâcib olur.” Sonra Ebû Hureyre bana Nisa sûresi 12-13 ayetini okudu: “… Bütün bunlar mirasçılar zarara uğratılmaksızın yerine getirilmelidir…” Diğer tahric: İbn Mâce, Vesâyâ; Ebû Dâvûd, Vesâyâ Tirmizî: Bu hadis hasen sahih garibtir. Eş’as b. Câbir’den hadis rivâyet eden Nasr b. Ali; Nasr b. Ali el Cehzamî’nin dedesidir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 2
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 465,
-			"arabicnumber": 465,
-			"text": "Ebu Humeyd veya Ebu Useyd; \"Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu\" demiştir: \"Sizden biri mescide girerken Nebi sallallahu aleyhi ve selleme salat ve selam getirsin, sonra da; \"Allahım, bana rahmetinin kapılarını aç\" desin; cami'den çıkarken ise: \"Allahım, fadl ve kereminden (ihsanını yine) senden istiyorum\" desin. Diğer tahric: Müslim, müsafirin; Nesai, mesacid; Ibn Mace, mesacid; Tirmizi, salat; Darimi, isti'zan; Ahmed b. Hanbel, III, 497; V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih Sahih Muslim (713)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 465,
+      "arabicnumber": 465,
+      "text": "Ebu Humeyd veya Ebu Useyd; \"Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu\" demiştir: \"Sizden biri mescide girerken Nebi sallallahu aleyhi ve selleme salat ve selam getirsin, sonra da; \"Allahım, bana rahmetinin kapılarını aç\" desin; cami'den çıkarken ise: \"Allahım, fadl ve kereminden (ihsanını yine) senden istiyorum\" desin. Diğer tahric: Müslim, müsafirin; Nesai, mesacid; Ibn Mace, mesacid; Tirmizi, salat; Darimi, isti'zan; Ahmed b. Hanbel, III, 497; V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih Sahih Muslim (713)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 75
+      }
+    }
+  ]
 }

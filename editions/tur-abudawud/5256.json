@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5256,
-			"arabicnumber": 5256,
-			"text": "Muhammed b. Ebu Yahya'dan; demiştir ki: Babam(ın) bana haber verdi(ğine göre birgün) arkadaşıyla birlikte, Hz. Ebu Said'i ziyarete gitmişler. (Babam olayın devamını şöyle anlattı): Arkadaşımla beraber (Ebu Said'in) yanından çıktık. Bir arkadaşımızla karşılaştık, O da hastalıktan yatmakta olan Ebu Said'in yanına girmek istiyordu. (Biz onun yanından ayrılıp) mescide doğru yöneldik ve (varıp) mescide oturduk. Derken (bu arkadaşımız da mescide) geldi ve bize Hz. Ebu Said'i şöyle derken işittiğini söyledi: Rasûlullah (s.a.v.): \"Muhakkak ki yılanlar cinililerdendir. Her kim evinde (onlardan) birini görürse, üç defa (bu evde size yer yoktur, eğer bir daha sizi burada görürsem bu evi başınıza dar getiririm, Benden söylemesi, Artık olacak olan şeylerden dolayı bir daha da beni suçlamayın(demek suretiyle) onu sıkıştırsın. (Buna rağmen yine de eve) gelirse onu öldürsün. Çünkü o şeytandır\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 484
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5256,
+      "arabicnumber": 5256,
+      "text": "Muhammed b. Ebu Yahya'dan; demiştir ki: Babam(ın) bana haber verdi(ğine göre birgün) arkadaşıyla birlikte, Hz. Ebu Said'i ziyarete gitmişler. (Babam olayın devamını şöyle anlattı): Arkadaşımla beraber (Ebu Said'in) yanından çıktık. Bir arkadaşımızla karşılaştık, O da hastalıktan yatmakta olan Ebu Said'in yanına girmek istiyordu. (Biz onun yanından ayrılıp) mescide doğru yöneldik ve (varıp) mescide oturduk. Derken (bu arkadaşımız da mescide) geldi ve bize Hz. Ebu Said'i şöyle derken işittiğini söyledi: Rasûlullah (s.a.v.): \"Muhakkak ki yılanlar cinililerdendir. Her kim evinde (onlardan) birini görürse, üç defa (bu evde size yer yoktur, eğer bir daha sizi burada görürsem bu evi başınıza dar getiririm, Benden söylemesi, Artık olacak olan şeylerden dolayı bir daha da beni suçlamayın(demek suretiyle) onu sıkıştırsın. (Buna rağmen yine de eve) gelirse onu öldürsün. Çünkü o şeytandır\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 484
+      }
+    }
+  ]
 }

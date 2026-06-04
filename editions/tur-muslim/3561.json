@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3561,
-			"arabicnumber": "1440.03",
-			"text": "Bana Ebu Gassân el-Mismaî rivayet etti. (Dediki): Bize Muâz yâni ibni Hişâm rivayet etti. (Dediki): Bana babam, Ebu'z-Zübeyr'den, o da Câbir'den naklen rivayette bulundu. Câbir: «Biz Resulullah (Sallallahu Aleyhi ve Sellem) zamanında azil yapardık. Derken Nebi (Sallallahu Aleyhi ve Sellem) bunu duydu; ama bizi nehyetmedi.» İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 163
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3561,
+      "arabicnumber": "1440.03",
+      "text": "Bana Ebu Gassân el-Mismaî rivayet etti. (Dediki): Bize Muâz yâni ibni Hişâm rivayet etti. (Dediki): Bana babam, Ebu'z-Zübeyr'den, o da Câbir'den naklen rivayette bulundu. Câbir: «Biz Resulullah (Sallallahu Aleyhi ve Sellem) zamanında azil yapardık. Derken Nebi (Sallallahu Aleyhi ve Sellem) bunu duydu; ama bizi nehyetmedi.» İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 163
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"43": "Loans, Payment of Loans, Freezing of Property, Bankruptcy"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 2385,
-				"hadithnumber_last": 2409,
-				"arabicnumber_first": 2385,
-				"arabicnumber_last": 2409
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2392,
-			"arabicnumber": 2392,
-			"text": "Ebu Hureyre r.a. şöyle anlatır: Bir adam gelerek Hz. Nebi'den olan deve alacağını talep etti. ResuluIlah Sallallahu Aleyhi ve Sellem, \"Onun alacağını verin\" buyurdu. Sahabiler, \"Ancak daha büyük yaşta bir deve bulabildik\" dediler. Adam, \"Sen bana alacağım ı fazlasıyla ver, Allah da sana fazlasıyla versin\" dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, \"Onu bu adama verin. Çünkü insanların en hayırlı olanlarından biri de (borcunu) en güzel şekildeödeyenlerdir\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "43": "Ödünç İsteme Hakkında"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 2385,
+        "hadithnumber_last": 2409,
+        "arabicnumber_first": 2385,
+        "arabicnumber_last": 2409
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2392,
+      "arabicnumber": 2392,
+      "text": "Ebu Hureyre r.a. şöyle anlatır: Bir adam gelerek Hz. Nebi'den olan deve alacağını talep etti. ResuluIlah Sallallahu Aleyhi ve Sellem, \"Onun alacağını verin\" buyurdu. Sahabiler, \"Ancak daha büyük yaşta bir deve bulabildik\" dediler. Adam, \"Sen bana alacağım ı fazlasıyla ver, Allah da sana fazlasıyla versin\" dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, \"Onu bu adama verin. Çünkü insanların en hayırlı olanlarından biri de (borcunu) en güzel şekildeödeyenlerdir\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 8
+      }
+    }
+  ]
 }

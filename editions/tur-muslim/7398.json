@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7398,
-			"arabicnumber": "2947.02",
-			"text": "Bize Ümeyye b. Bistam El-Ayşî rivayet etti. (Dediki): Bize Yezîd b. Zürey' rivayet etti. (Dediki): Bize Şu'be, Katâde'den, o da Hasan'dan, o da Ziyad b. Rıyah'dan, o da Ebû Hureyre'den, o da Peygamber (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. (Şöyle buyurmuşlar) : «Altı şeyden: Deccal, duman, dabbetü'I-Ârz, güneşin battığı yerden doğması, umûmî fitne ve bîrinizin başına gelecek husûsî vakıadan önce amellere şitab edin.»",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 159
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7398,
+      "arabicnumber": "2947.02",
+      "text": "Bize Ümeyye b. Bistam El-Ayşî rivayet etti. (Dediki): Bize Yezîd b. Zürey' rivayet etti. (Dediki): Bize Şu'be, Katâde'den, o da Hasan'dan, o da Ziyad b. Rıyah'dan, o da Ebû Hureyre'den, o da Peygamber (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. (Şöyle buyurmuşlar) : «Altı şeyden: Deccal, duman, dabbetü'I-Ârz, güneşin battığı yerden doğması, umûmî fitne ve bîrinizin başına gelecek husûsî vakıadan önce amellere şitab edin.»",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 159
+      }
+    }
+  ]
 }

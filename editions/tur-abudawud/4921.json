@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4921,
-			"arabicnumber": 4921,
-			"text": "Ümmü Gülsüm bint. Ukbe dedi ki: Ben Rasûlullah (s.a.v.)'in üç şeyden başka bir şeyde yalan söylemeye izin verdiğini duymadım. Rasûlullah (s.a.v.) şöyle buyururdu: \"Ara düzeltmek gayesiyle (asılsız) söz söyleyip de insanların arasını düzelten kimseyi; (düşmanı mağlub etmek için) harbte (yalan) söyleyeni;, karısına (yalan) söyleyeni, kocas­na (yalan) söyleyen kadını, ben yalancı saymam",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 149
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4921,
+      "arabicnumber": 4921,
+      "text": "Ümmü Gülsüm bint. Ukbe dedi ki: Ben Rasûlullah (s.a.v.)'in üç şeyden başka bir şeyde yalan söylemeye izin verdiğini duymadım. Rasûlullah (s.a.v.) şöyle buyururdu: \"Ara düzeltmek gayesiyle (asılsız) söz söyleyip de insanların arasını düzelten kimseyi; (düşmanı mağlub etmek için) harbte (yalan) söyleyeni;, karısına (yalan) söyleyeni, kocas­na (yalan) söyleyen kadını, ben yalancı saymam",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 149
+      }
+    }
+  ]
 }

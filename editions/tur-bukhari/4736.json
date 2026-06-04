@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4736,
-			"arabicnumber": 4736,
-			"text": "Ebu Hureyre'den Hz. Nebi'in şöyle buyurduğu rivayet edilmiştir: \"Hz. Adem ile Hz. Musa karşılaştılar. Musa, Adem'e; \"İnsanlan bedbaht hale sen getirdin ve onlann Cennetten çıkmasına sen sebep oldun,\" dedi. Adem de; \"Sen Allah'ın elçiliği ve kendisi için seçtiği ve Tevrat indirdiği Musa'sın, [değil mi?]\" diye sordu. Musa, \"Evet,\" cevabını verdi. Bunun üzerine Adem: \"Peki [Tevrat'ta] bu yazgının ben yaratılmadan önce tespit edildiğini görmedin mi?\" diye sordu. Musa'da\"Evet,\" yanıtını verdi. Böylece Hz. Adem, Hz. Musa'ya üstün geldi.\" Fethu'l-Bari Açıklaması: İmam Buhar! bu başlık altında Ebu Hureyre'den Hz. Musa ile Hz. Adem'in tartışmasına ilişkin bir hadis verdi. Bu hadisin açıklaması \"Kitabu'l-kader\"de yapılacaktır",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 258
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4736,
+      "arabicnumber": 4736,
+      "text": "Ebu Hureyre'den Hz. Nebi'in şöyle buyurduğu rivayet edilmiştir: \"Hz. Adem ile Hz. Musa karşılaştılar. Musa, Adem'e; \"İnsanlan bedbaht hale sen getirdin ve onlann Cennetten çıkmasına sen sebep oldun,\" dedi. Adem de; \"Sen Allah'ın elçiliği ve kendisi için seçtiği ve Tevrat indirdiği Musa'sın, [değil mi?]\" diye sordu. Musa, \"Evet,\" cevabını verdi. Bunun üzerine Adem: \"Peki [Tevrat'ta] bu yazgının ben yaratılmadan önce tespit edildiğini görmedin mi?\" diye sordu. Musa'da\"Evet,\" yanıtını verdi. Böylece Hz. Adem, Hz. Musa'ya üstün geldi.\" Fethu'l-Bari Açıklaması: İmam Buhar! bu başlık altında Ebu Hureyre'den Hz. Musa ile Hz. Adem'in tartışmasına ilişkin bir hadis verdi. Bu hadisin açıklaması \"Kitabu'l-kader\"de yapılacaktır",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 258
+      }
+    }
+  ]
 }

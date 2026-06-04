@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"45": "Chapters on The Virtues of the Qur'an"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 2875,
-				"hadithnumber_last": 2926,
-				"arabicnumber_first": 2875,
-				"arabicnumber_last": 2926
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2921,
-			"arabicnumber": 2921,
-			"text": "Irbad b. Sariye (r.a.)’den rivâyete göre: “Rasûlullah (s.a.v.), Müsebbihat denilen sûreleri yatmazdan evvel okur bu sûreler içinde bir ayet vardır ki bin ayetten daha hayırlıdır” buyururdu. Diğer tahric: Ebu Davud, Edeb (Bu süreler: S.B.H. kökünden gelen kelimelerle başlayan yedi sûredir; İsra, Hadid, Haşr, Saff, Cuma, Teğabün ve A’lâ’ sûreleri) Tirmizî: Bu hadis hasen garibtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 45,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "45": "Kur'ân'ın Fazileti ve Değeri"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 2875,
+        "hadithnumber_last": 2926,
+        "arabicnumber_first": 2875,
+        "arabicnumber_last": 2926
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2921,
+      "arabicnumber": 2921,
+      "text": "Irbad b. Sariye (r.a.)’den rivâyete göre: “Rasûlullah (s.a.v.), Müsebbihat denilen sûreleri yatmazdan evvel okur bu sûreler içinde bir ayet vardır ki bin ayetten daha hayırlıdır” buyururdu. Diğer tahric: Ebu Davud, Edeb (Bu süreler: S.B.H. kökünden gelen kelimelerle başlayan yedi sûredir; İsra, Hadid, Haşr, Saff, Cuma, Teğabün ve A’lâ’ sûreleri) Tirmizî: Bu hadis hasen garibtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 45,
+        "hadith": 47
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4970,
-			"arabicnumber": 4970,
-			"text": "Âişe (r.anhâ)'dan (rivayet edildiğine göre) kendisi (birgün Hz. Nebie): Ey Allah'ın Rasulü, benim her arkadaşınım künyesi var. (Ben de bir künye alabilir miyim?) diye sormuş da, (Hz. Nebi: O'nun kızkardeşinin oğlunu kast ederek): Sen de oğlun (hükmüne olan) Abdullah'la künyelen, buyurmuş. (Ravi) Müsedded (bu Abdullah kelimesini) \"Abdullah İbnü'z-Zübeyr\" diye rivayet etti. (Ravi Urve hadisinin kalan kısmını şöyle) rivayet etti: \"Bunun üzerine (Hz. Aişe) \"Ümmü Abdullah künyesini almıştı.\" Ebu Davud dedi ki: Bu hadisin benzerini de yine aynı şekilde (yani Hişam Ibn Urve'nin, babası Urve yoluyla Hz. Aişe'den rivayet ettiği gibi) Kurrân Ibn Temmam ile Ma'mer de Hişam'dan rivayet ettiler. Ebu Usâme ise Hişam ve Abbâd yoluyla Hamza'dan rivayet etti. Hammâd Ibn Seleme ile Mesleme Ibn Ka'nab da Ebu Üsame gibi yine Hişam'dan rivayetti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 198
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4970,
+      "arabicnumber": 4970,
+      "text": "Âişe (r.anhâ)'dan (rivayet edildiğine göre) kendisi (birgün Hz. Nebie): Ey Allah'ın Rasulü, benim her arkadaşınım künyesi var. (Ben de bir künye alabilir miyim?) diye sormuş da, (Hz. Nebi: O'nun kızkardeşinin oğlunu kast ederek): Sen de oğlun (hükmüne olan) Abdullah'la künyelen, buyurmuş. (Ravi) Müsedded (bu Abdullah kelimesini) \"Abdullah İbnü'z-Zübeyr\" diye rivayet etti. (Ravi Urve hadisinin kalan kısmını şöyle) rivayet etti: \"Bunun üzerine (Hz. Aişe) \"Ümmü Abdullah künyesini almıştı.\" Ebu Davud dedi ki: Bu hadisin benzerini de yine aynı şekilde (yani Hişam Ibn Urve'nin, babası Urve yoluyla Hz. Aişe'den rivayet ettiği gibi) Kurrân Ibn Temmam ile Ma'mer de Hişam'dan rivayet ettiler. Ebu Usâme ise Hişam ve Abbâd yoluyla Hamza'dan rivayet etti. Hammâd Ibn Seleme ile Mesleme Ibn Ka'nab da Ebu Üsame gibi yine Hişam'dan rivayetti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 198
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"11": "Friday Prayer"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 876,
-				"hadithnumber_last": 941,
-				"arabicnumber_first": 876,
-				"arabicnumber_last": 941
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 925,
-			"arabicnumber": 925,
-			"text": "Urve, Ebû Humeyd es-Sâidî'nin kendisine şu bilgiyi haber verdiğini söylemiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem Öğleden sonra bir namazın ardında ayağa kalktı ve şehadet getirip Allah Teâlâ'ya hamd ve sena ettikten sonra şöyl dedi: Emma ba'du.. (bunlardan sonra...-Esas konuya gelince-). Tekrar: 1500, 2597, 6636, 6979, 7174 ve",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 49
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "11": "Cuma"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 876,
+        "hadithnumber_last": 941,
+        "arabicnumber_first": 876,
+        "arabicnumber_last": 941
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 925,
+      "arabicnumber": 925,
+      "text": "Urve, Ebû Humeyd es-Sâidî'nin kendisine şu bilgiyi haber verdiğini söylemiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem Öğleden sonra bir namazın ardında ayağa kalktı ve şehadet getirip Allah Teâlâ'ya hamd ve sena ettikten sonra şöyl dedi: Emma ba'du.. (bunlardan sonra...-Esas konuya gelince-). Tekrar: 1500, 2597, 6636, 6979, 7174 ve",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 49
+      }
+    }
+  ]
 }

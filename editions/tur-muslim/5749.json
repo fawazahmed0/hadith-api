@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5749,
-			"arabicnumber": "1202.04",
-			"text": "Bana Ahmed b. Saîd b. Sahr Ed-Dârimî rivayet etti. (Dediki): Bize Habbân b. Hilâl rivayet etti. (Dediki): Bize Vüheyb rivayet etti. (Dediki): Bize Abdullah b. Tavus babasından, o da İbni Abbâs'dan naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ve Sellem) kan aldırmış ve haccâma ücretini vermiş ve burnuna ilâç damlatmış. İzah 2212 de",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5749,
+      "arabicnumber": "1202.04",
+      "text": "Bana Ahmed b. Saîd b. Sahr Ed-Dârimî rivayet etti. (Dediki): Bize Habbân b. Hilâl rivayet etti. (Dediki): Bize Vüheyb rivayet etti. (Dediki): Bize Abdullah b. Tavus babasından, o da İbni Abbâs'dan naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ve Sellem) kan aldırmış ve haccâma ücretini vermiş ve burnuna ilâç damlatmış. İzah 2212 de",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 103
+      }
+    }
+  ]
 }

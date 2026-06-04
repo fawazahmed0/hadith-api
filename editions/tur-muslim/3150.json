@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3150,
-			"arabicnumber": "1303",
-			"text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Vekî' ile Ebû Dâvûd-u Tayâlisî, Şu'be'den, o da Yahya b- Husayn'dan, o da ninesinden naklen rivayet ettiler ki, Yahya'nın ninesi Veda haccında Nebi (Sallallahu Aleyhi ve Sellem)'i traş olanlara üç, saçını kestirenlere bir defa duâ ederken işitmiş. Vekî': «Veda haccında.\" dememiştir. İzah 1304 te",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 354
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3150,
+      "arabicnumber": "1303",
+      "text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Vekî' ile Ebû Dâvûd-u Tayâlisî, Şu'be'den, o da Yahya b- Husayn'dan, o da ninesinden naklen rivayet ettiler ki, Yahya'nın ninesi Veda haccında Nebi (Sallallahu Aleyhi ve Sellem)'i traş olanlara üç, saçını kestirenlere bir defa duâ ederken işitmiş. Vekî': «Veda haccında.\" dememiştir. İzah 1304 te",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 354
+      }
+    }
+  ]
 }

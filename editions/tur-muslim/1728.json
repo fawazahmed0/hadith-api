@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1728,
-			"arabicnumber": "739",
-			"text": "Bize, Ahmed b. Yûnus rivayet etti. (Dediki): Bize, Züheyr rivayet etti. (Dediki): Bize, Ebû İshâk rivayet etti. H. Bize, Yahya b. Yahya da rivayet etti. (Dediki): Bize Ebû Hayseme, Ebû İshâk'dan naklen haber verdi. Demişki: Esved b. Yezîd'e, Âişe'nin, kendisine Resûlullah (Sallallahu Aleyhi ve Sellem)'in namazlarına âid neler söylediğini sordum, Âişe şöyle demiş: «Nebi (Sallallahu Aleyhi ve Sellem), gecenin evvelinde uyur; sonunu ihya ederdi. Sonra ehline bir ihtiyâcı olursa, ihtiyâcını görür bilâhare uyurdu. Birinci nida vakti oldumu (döşeğinden) sıçrardı. (Râvî : Hayır, vallahi Âişe, kalktı demedi; demişdir.) Müteakiben üzerine su dökünür {Râvî, burada : Vallahi Âişe yıkandı, demedi ama ben, onun ne demek istediğini biliyorum; demiştir.) Şayet cünup değilse bir insanın namaz için aldığı abdest gibi abdest alır; sonra iki rek'ât namaz kılardı.»",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 157
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1728,
+      "arabicnumber": "739",
+      "text": "Bize, Ahmed b. Yûnus rivayet etti. (Dediki): Bize, Züheyr rivayet etti. (Dediki): Bize, Ebû İshâk rivayet etti. H. Bize, Yahya b. Yahya da rivayet etti. (Dediki): Bize Ebû Hayseme, Ebû İshâk'dan naklen haber verdi. Demişki: Esved b. Yezîd'e, Âişe'nin, kendisine Resûlullah (Sallallahu Aleyhi ve Sellem)'in namazlarına âid neler söylediğini sordum, Âişe şöyle demiş: «Nebi (Sallallahu Aleyhi ve Sellem), gecenin evvelinde uyur; sonunu ihya ederdi. Sonra ehline bir ihtiyâcı olursa, ihtiyâcını görür bilâhare uyurdu. Birinci nida vakti oldumu (döşeğinden) sıçrardı. (Râvî : Hayır, vallahi Âişe, kalktı demedi; demişdir.) Müteakiben üzerine su dökünür {Râvî, burada : Vallahi Âişe yıkandı, demedi ama ben, onun ne demek istediğini biliyorum; demiştir.) Şayet cünup değilse bir insanın namaz için aldığı abdest gibi abdest alır; sonra iki rek'ât namaz kılardı.»",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 157
+      }
+    }
+  ]
 }

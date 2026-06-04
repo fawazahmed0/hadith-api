@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3937,
-			"arabicnumber": "1547.03",
-			"text": "Bana Alî b. Hucr rivayet etti. (Dediki): Bize îsmâîl, Eyyûb'dan, o da Ebu'l-Halil'den, o da Mücâhid'den naklen rivayet etti. Demişki : «İbni Ömer: Vallahi Râfi' bizi arazîmizin faydasından menetti, dedi.»",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 136
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3937,
+      "arabicnumber": "1547.03",
+      "text": "Bana Alî b. Hucr rivayet etti. (Dediki): Bize îsmâîl, Eyyûb'dan, o da Ebu'l-Halil'den, o da Mücâhid'den naklen rivayet etti. Demişki : «İbni Ömer: Vallahi Râfi' bizi arazîmizin faydasından menetti, dedi.»",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 136
+      }
+    }
+  ]
 }

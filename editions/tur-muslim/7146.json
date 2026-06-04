@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"53": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
-		},
-		"section_detail": {
-			"53": {
-				"hadithnumber_first": 7130,
-				"hadithnumber_last": 7234,
-				"arabicnumber_first": 2822,
-				"arabicnumber_last": 2879
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7146,
-			"arabicnumber": "2833",
-			"text": "Bize Ebû Osman Saîd b. Abdil-Cebbar El-Basri rivâyet etti. (Dediki): Bize Hammad b. Seleme, Sâbîl El-Bünânî'den, o da Enes b. Mâlik'den naklen rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar : «Hakikaten cennette bir çarşı vardır ki, ona her hafta gelirler. Derken şimal rüzgârı eserek yüzlerine ve elbiselerine vurur. Bu suretle güzellik ve cemalleri artar da, ailelerinin yanına güzellik ve cemalleri artmış olarak dönerler. Aileleri kendilerine : — Vallahi bizden ayrılalı güzellik ve cemâliniz artmış, derler. Onlar da: — Vallahi sizin dahi bizim arkamızdan güzellik ve cemâliniz artmiş, derler.»",
-			"grades": [],
-			"reference": {
-				"book": 53,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "53": "Cennet Ve Onun Nimetleri İle Cennetliklerin Sıfatı Bahsi"
+    },
+    "section_detail": {
+      "53": {
+        "hadithnumber_first": 7130,
+        "hadithnumber_last": 7234,
+        "arabicnumber_first": 2822,
+        "arabicnumber_last": 2879
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7146,
+      "arabicnumber": "2833",
+      "text": "Bize Ebû Osman Saîd b. Abdil-Cebbar El-Basri rivâyet etti. (Dediki): Bize Hammad b. Seleme, Sâbîl El-Bünânî'den, o da Enes b. Mâlik'den naklen rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar : «Hakikaten cennette bir çarşı vardır ki, ona her hafta gelirler. Derken şimal rüzgârı eserek yüzlerine ve elbiselerine vurur. Bu suretle güzellik ve cemalleri artar da, ailelerinin yanına güzellik ve cemalleri artmış olarak dönerler. Aileleri kendilerine : — Vallahi bizden ayrılalı güzellik ve cemâliniz artmış, derler. Onlar da: — Vallahi sizin dahi bizim arkamızdan güzellik ve cemâliniz artmiş, derler.»",
+      "grades": [],
+      "reference": {
+        "book": 53,
+        "hadith": 15
+      }
+    }
+  ]
 }

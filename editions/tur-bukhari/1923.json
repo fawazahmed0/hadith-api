@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1923,
-			"arabicnumber": 1923,
-			"text": "Enes İbn Malik r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Sahur yapınl Çünkü sahurda bereket vardır",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 32
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1923,
+      "arabicnumber": 1923,
+      "text": "Enes İbn Malik r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Sahur yapınl Çünkü sahurda bereket vardır",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 32
+      }
+    }
+  ]
 }

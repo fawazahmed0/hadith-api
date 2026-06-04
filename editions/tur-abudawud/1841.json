@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1841,
-			"arabicnumber": 1841,
-			"text": "Abdü'd-dâr oğullarının kardeşi Nübeyh b. Vehb'den rivayet olunduğuna göre, Ömer b. Ubeydullah, Ebân b. Osman b. Affân'a -ki o gün Ebân hac emriydi ve her ikisi de ihramlı idi- (şu soruyu) sormak üzere ( bir adam) gönderdi: \"Ben Talha b. Ömer'i Şeybe b. Cübeyr'in kızıyla evlendirmek istiyorum, senin de nikahta hazır bulunmanı arzu ediyorum (ne dersin)?\" Ebân bu isteği uygunsuz buldu ve; Ben babam Osman b. Affan'ı; Resûlullah (S.A.V.) ihramlı bir kimse ne evlenebilir ne de evlendirebilir, \" derken işittim,\" cevabını verdi. Diğer tahric: Müslim, nikah; Tirmizî, hac; Nesai, menasik, nikah; îbn Mace, nikah; Darimî, nikah; Muvatta', hac; Ahraed b. Hanbel, I",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1409)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 121
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1841,
+      "arabicnumber": 1841,
+      "text": "Abdü'd-dâr oğullarının kardeşi Nübeyh b. Vehb'den rivayet olunduğuna göre, Ömer b. Ubeydullah, Ebân b. Osman b. Affân'a -ki o gün Ebân hac emriydi ve her ikisi de ihramlı idi- (şu soruyu) sormak üzere ( bir adam) gönderdi: \"Ben Talha b. Ömer'i Şeybe b. Cübeyr'in kızıyla evlendirmek istiyorum, senin de nikahta hazır bulunmanı arzu ediyorum (ne dersin)?\" Ebân bu isteği uygunsuz buldu ve; Ben babam Osman b. Affan'ı; Resûlullah (S.A.V.) ihramlı bir kimse ne evlenebilir ne de evlendirebilir, \" derken işittim,\" cevabını verdi. Diğer tahric: Müslim, nikah; Tirmizî, hac; Nesai, menasik, nikah; îbn Mace, nikah; Darimî, nikah; Muvatta', hac; Ahraed b. Hanbel, I",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1409)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 121
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2460,
-			"arabicnumber": "1065.04",
-			"text": "Bize, Muhammedü'bnu'l - Müsennâ rivayet etti. (Dediki): Bize Abdi'l ala rivayet etti. (Dediki): Bize Dâvûd, Ebû Nadra1’dan, o da Ebû Saîd-i Hudri'den naklen rivayet etti ki, Resulullah (Sallallahu Aleyhi ve Sellem), İnsanlar tefrikaya düştüğü zaman dinden çıkan bir tâlfe türeyecek, bunların katlini iki taifeden hakka en yakın olanı üzerine alacaktır.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 197
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2460,
+      "arabicnumber": "1065.04",
+      "text": "Bize, Muhammedü'bnu'l - Müsennâ rivayet etti. (Dediki): Bize Abdi'l ala rivayet etti. (Dediki): Bize Dâvûd, Ebû Nadra1’dan, o da Ebû Saîd-i Hudri'den naklen rivayet etti ki, Resulullah (Sallallahu Aleyhi ve Sellem), İnsanlar tefrikaya düştüğü zaman dinden çıkan bir tâlfe türeyecek, bunların katlini iki taifeden hakka en yakın olanı üzerine alacaktır.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 197
+      }
+    }
+  ]
 }

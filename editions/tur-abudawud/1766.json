@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1766,
-			"arabicnumber": 1766,
-			"text": "Ğurfe b. el-Hâris el-Kındî'den; demiştir ki: Resûlullah (s.a.v.)'ı Veda Haccında gördüm. (Kendisine) hediy kurbanlıkları getirilince; \"Bana Ebû Hasan'ı çağırınız!\" dedi. Bunun üzerine derhal kendisine Ali (r.a.) çağrıldı. O'na (hitaben); \"Şu süngünün (kabzasının) alt kısmından tut\" buyurdu. Resûlullah (s.a.v.) de süngünün (kabzasının) üst kısmından tuttu. Sonra onu kurbanlık develere (ikisi birden) çaldılar. (Resûlullah s.a.v.) işini bitirince devesine bindi ve Ali (r.a.)'yı da arkasına aldı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 46
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1766,
+      "arabicnumber": 1766,
+      "text": "Ğurfe b. el-Hâris el-Kındî'den; demiştir ki: Resûlullah (s.a.v.)'ı Veda Haccında gördüm. (Kendisine) hediy kurbanlıkları getirilince; \"Bana Ebû Hasan'ı çağırınız!\" dedi. Bunun üzerine derhal kendisine Ali (r.a.) çağrıldı. O'na (hitaben); \"Şu süngünün (kabzasının) alt kısmından tut\" buyurdu. Resûlullah (s.a.v.) de süngünün (kabzasının) üst kısmından tuttu. Sonra onu kurbanlık develere (ikisi birden) çaldılar. (Resûlullah s.a.v.) işini bitirince devesine bindi ve Ali (r.a.)'yı da arkasına aldı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 46
+      }
+    }
+  ]
 }

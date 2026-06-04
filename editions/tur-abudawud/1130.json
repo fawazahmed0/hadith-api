@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1130,
-			"arabicnumber": 1130,
-			"text": "Atâ'dan rivayet edildiğine göre; İbn Ömer Mekke'de olduğu zaman, cum'a'yı kılınca biraz ilerleyip iki rekat, sonra yine ilerleyip dört rekat daha kılardı. Medine'de olduğunda ise, cumayı kılar sonra evine döner ve (evinde) iki rekat namaz kılardı. Mescitte (birşey) kılmazdı.Kendisine (bu farklılığın sebebi) soruldu; \"Resûlullah (s.a.v.) böyle yapardı\" cevabım verdi. Diğer tahric: Beyhakî, es-Sunenu'l-kubrâ, III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 741
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1130,
+      "arabicnumber": 1130,
+      "text": "Atâ'dan rivayet edildiğine göre; İbn Ömer Mekke'de olduğu zaman, cum'a'yı kılınca biraz ilerleyip iki rekat, sonra yine ilerleyip dört rekat daha kılardı. Medine'de olduğunda ise, cumayı kılar sonra evine döner ve (evinde) iki rekat namaz kılardı. Mescitte (birşey) kılmazdı.Kendisine (bu farklılığın sebebi) soruldu; \"Resûlullah (s.a.v.) böyle yapardı\" cevabım verdi. Diğer tahric: Beyhakî, es-Sunenu'l-kubrâ, III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 741
+      }
+    }
+  ]
 }

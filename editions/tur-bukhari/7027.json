@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"91": "Interpretation of Dreams"
-		},
-		"section_detail": {
-			"91": {
-				"hadithnumber_first": 6982,
-				"hadithnumber_last": 7047,
-				"arabicnumber_first": 6982,
-				"arabicnumber_last": 7047
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7027,
-			"arabicnumber": 7027,
-			"text": "Hamza b. Abdullah b. Ömer şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellemiden işittim şöyle diyordu: \"Uyuduğum bir sırada bana süt dolu bir kadeh verildi. Bu kadehten o kadar içtim ki, süte kanma eserlerinin akmakta olduğunu hala görüyorum. Sonra artanını Ömer'e verdim.\" Sahabiler \"Ya Resulallah! Bunu ne ile tabir ettin?\" diye sordular. O da \"İlim ile\" diye cevap verdi",
-			"grades": [],
-			"reference": {
-				"book": 91,
-				"hadith": 44
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "91": "Rüya Ta'bîri"
+    },
+    "section_detail": {
+      "91": {
+        "hadithnumber_first": 6982,
+        "hadithnumber_last": 7047,
+        "arabicnumber_first": 6982,
+        "arabicnumber_last": 7047
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7027,
+      "arabicnumber": 7027,
+      "text": "Hamza b. Abdullah b. Ömer şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellemiden işittim şöyle diyordu: \"Uyuduğum bir sırada bana süt dolu bir kadeh verildi. Bu kadehten o kadar içtim ki, süte kanma eserlerinin akmakta olduğunu hala görüyorum. Sonra artanını Ömer'e verdim.\" Sahabiler \"Ya Resulallah! Bunu ne ile tabir ettin?\" diye sordular. O da \"İlim ile\" diye cevap verdi",
+      "grades": [],
+      "reference": {
+        "book": 91,
+        "hadith": 44
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"11": "Friday Prayer"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 876,
-				"hadithnumber_last": 941,
-				"arabicnumber_first": 876,
-				"arabicnumber_last": 941
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 907,
-			"arabicnumber": 907,
-			"text": "Ubâde İbn Rufâa'dan nakledilmiştir: \"Bir defasında ben Cum'a namazına giderken Ebu Abs arkamdan yetişti ve şunları söyledi: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'in: \"Kimin ayakları Allah yolunda tozlanırsa Allah (c.c.) o kişiyi cehenneme haram kılar. buyurduğunu işittim. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "11": "Cuma"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 876,
+        "hadithnumber_last": 941,
+        "arabicnumber_first": 876,
+        "arabicnumber_last": 941
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 907,
+      "arabicnumber": 907,
+      "text": "Ubâde İbn Rufâa'dan nakledilmiştir: \"Bir defasında ben Cum'a namazına giderken Ebu Abs arkamdan yetişti ve şunları söyledi: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'in: \"Kimin ayakları Allah yolunda tozlanırsa Allah (c.c.) o kişiyi cehenneme haram kılar. buyurduğunu işittim. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 31
+      }
+    }
+  ]
 }

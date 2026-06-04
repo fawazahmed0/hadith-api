@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 366,
-			"arabicnumber": "142.04",
-			"text": "Bize Ebu Gassan el-Mismai, Muhammed b. el-Müsenna ve İshak b. İbrahim de tahdis etti. İshak: Bize Muaz b. Hişam tahdis etti derken, diğer ikisi haber verdi, diye rivayetle bulundular. (Muaz dedi ki): Bana babam Katade'den tahdis etti. Onun Ebu'l-Melih'ten rivayetine göre Ubeydullah b. Ziyad hasta olan Ma'kil b. Yesar'ı ziyaret etti. Ma'kil ona: Ben sana bir hadis rivayet edeceğim eğer ölüm halinde olmasaydım bu hadisi sana rivayet etmeyecektim. Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim, dedi: \"Müslümanların işlerinin yönetimine gelip de sonra da onlar için bütün gayreti ile çalışmayan, onların iyilikleri için uğraşmayan her bir emir, mutlaka onlarla birlikte cennete girmeyecektir. \" Diğer tahric: Müslim, 4708; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 273
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 366,
+      "arabicnumber": "142.04",
+      "text": "Bize Ebu Gassan el-Mismai, Muhammed b. el-Müsenna ve İshak b. İbrahim de tahdis etti. İshak: Bize Muaz b. Hişam tahdis etti derken, diğer ikisi haber verdi, diye rivayetle bulundular. (Muaz dedi ki): Bana babam Katade'den tahdis etti. Onun Ebu'l-Melih'ten rivayetine göre Ubeydullah b. Ziyad hasta olan Ma'kil b. Yesar'ı ziyaret etti. Ma'kil ona: Ben sana bir hadis rivayet edeceğim eğer ölüm halinde olmasaydım bu hadisi sana rivayet etmeyecektim. Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim, dedi: \"Müslümanların işlerinin yönetimine gelip de sonra da onlar için bütün gayreti ile çalışmayan, onların iyilikleri için uğraşmayan her bir emir, mutlaka onlarla birlikte cennete girmeyecektir. \" Diğer tahric: Müslim, 4708; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 273
+      }
+    }
+  ]
 }

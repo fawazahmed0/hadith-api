@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6581,
-			"arabicnumber": "2583",
-			"text": "Bize Muhammed b. Abdillah b. Numeyr rivayet etti. (Dediki): Bize Ebû Muâviye rivayet etti. (Dediki): Bize Büreyde b. Ebî Bürde babasından, o da Ebû Musa'dan naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Şüphesiz ki, Allah (Azze ve Celle) zâlime mühlet verir. Ama bir de yakalarsa onu bırakmaz.» buyurdu. Sonra şu âyeti okudu: «işte şehirler zulmeder de, Rabbin onları azab eylerse, Rabbinin azabı böyledir. Gerçekten onun azabı elim ve şiddetlidir.» [Hud]",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 79
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6581,
+      "arabicnumber": "2583",
+      "text": "Bize Muhammed b. Abdillah b. Numeyr rivayet etti. (Dediki): Bize Ebû Muâviye rivayet etti. (Dediki): Bize Büreyde b. Ebî Bürde babasından, o da Ebû Musa'dan naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Şüphesiz ki, Allah (Azze ve Celle) zâlime mühlet verir. Ama bir de yakalarsa onu bırakmaz.» buyurdu. Sonra şu âyeti okudu: «işte şehirler zulmeder de, Rabbin onları azab eylerse, Rabbinin azabı böyledir. Gerçekten onun azabı elim ve şiddetlidir.» [Hud]",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 79
+      }
+    }
+  ]
 }

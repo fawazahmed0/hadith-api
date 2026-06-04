@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"40": "The Book Concerning the Use of Correct Words"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 5862,
-				"hadithnumber_last": 5884,
-				"arabicnumber_first": 2246.01,
-				"arabicnumber_last": 2254
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5879,
-			"arabicnumber": "2250.02",
-			"text": "{m-16} Bize bu hadîsi Ebû Kureyb de rivayet etti. (Dediki): Bize Ebû Muâviye bu isnadla rivayette bulundu. İzah 2251 de",
-			"grades": [],
-			"reference": {
-				"book": 40,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "40": "Edeb, Terbiye Vesaireye Ait Lafızlarla Bahsi"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 5862,
+        "hadithnumber_last": 5884,
+        "arabicnumber_first": 2246.01,
+        "arabicnumber_last": 2254
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5879,
+      "arabicnumber": "2250.02",
+      "text": "{m-16} Bize bu hadîsi Ebû Kureyb de rivayet etti. (Dediki): Bize Ebû Muâviye bu isnadla rivayette bulundu. İzah 2251 de",
+      "grades": [],
+      "reference": {
+        "book": 40,
+        "hadith": 18
+      }
+    }
+  ]
 }

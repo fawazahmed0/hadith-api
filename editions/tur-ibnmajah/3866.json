@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"34": "Supplication"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 3827,
-				"hadithnumber_last": 3892,
-				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3866,
-			"arabicnumber": 3866,
-			"text": "İbn-i Abbas (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Allah'a dua ettiğin zaman ellerinin içlerini açarak dua et ve ellerinin ters yüzünü havaya kaldırarak dua etme. Sonra dua'nı bitirince ellerini yüzüne sür.» Diğer tahric: Ebu Davud ve Hakim tahric ettiler. EBU DAVUD HADİSİ VE İZAH İÇİN TIKLAYIN",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "34": "Dua Kitabı"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 3827,
+        "hadithnumber_last": 3892,
+        "arabicnumber_first": 3827,
+        "arabicnumber_last": 3892
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3866,
+      "arabicnumber": 3866,
+      "text": "İbn-i Abbas (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Allah'a dua ettiğin zaman ellerinin içlerini açarak dua et ve ellerinin ters yüzünü havaya kaldırarak dua etme. Sonra dua'nı bitirince ellerini yüzüne sür.» Diğer tahric: Ebu Davud ve Hakim tahric ettiler. EBU DAVUD HADİSİ VE İZAH İÇİN TIKLAYIN",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 40
+      }
+    }
+  ]
 }

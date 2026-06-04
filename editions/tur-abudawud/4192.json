@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"35": "Combing the Hair (Kitab Al-Tarajjul)"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 4159,
-				"hadithnumber_last": 4213,
-				"arabicnumber_first": 4159,
-				"arabicnumber_last": 4213
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4192,
-			"arabicnumber": 4192,
-			"text": "Abdullah b. Câbir (r.a) şöyle demişlir. Hz. Nebi (s.a.v.); Cafer ailesine, üçgiin sonra kendilerine geleceğini söyledi. Sonra Cafer ailesine varıp; \"Bu günden sonra kardeşim için ağlamayın” buyurdu. Daha sonra da \"bana kardeşimin çocuklarını çağırın\" dedi. Biz Râsûlullah'a getirildik. Birer kuş yavrusu gibi idik. Efendimiz: \"Bana berberi çağırın\" buyurdu (berber geldi) Rasûlullah kendisine emretti, o da başlarımızı tıraş etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 35,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "35": "Saçı Tarayıp Düzeltmek"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 4159,
+        "hadithnumber_last": 4213,
+        "arabicnumber_first": 4159,
+        "arabicnumber_last": 4213
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4192,
+      "arabicnumber": 4192,
+      "text": "Abdullah b. Câbir (r.a) şöyle demişlir. Hz. Nebi (s.a.v.); Cafer ailesine, üçgiin sonra kendilerine geleceğini söyledi. Sonra Cafer ailesine varıp; \"Bu günden sonra kardeşim için ağlamayın” buyurdu. Daha sonra da \"bana kardeşimin çocuklarını çağırın\" dedi. Biz Râsûlullah'a getirildik. Birer kuş yavrusu gibi idik. Efendimiz: \"Bana berberi çağırın\" buyurdu (berber geldi) Rasûlullah kendisine emretti, o da başlarımızı tıraş etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 35,
+        "hadith": 34
+      }
+    }
+  ]
 }

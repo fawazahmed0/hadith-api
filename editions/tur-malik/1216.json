@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"29": "Divorce"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 1150,
-				"hadithnumber_last": 1271,
-				"arabicnumber_first": 1150,
-				"arabicnumber_last": 1271
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1216,
-			"arabicnumber": 1216,
-			"text": "Nafî'den: Abdulah b. Ömer şöyle derdi: Koca karısını boşayıp, karısı üçüncü hayzını görmeye başlayınca kesin olarak boşanırlar. îmam Malik der ki: Bizce de hüküm böyledir",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "29": "Talak (Boşama/Boşanma)"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 1150,
+        "hadithnumber_last": 1271,
+        "arabicnumber_first": 1150,
+        "arabicnumber_last": 1271
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1216,
+      "arabicnumber": 1216,
+      "text": "Nafî'den: Abdulah b. Ömer şöyle derdi: Koca karısını boşayıp, karısı üçüncü hayzını görmeye başlayınca kesin olarak boşanırlar. îmam Malik der ki: Bizce de hüküm böyledir",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 13
+      }
+    }
+  ]
 }

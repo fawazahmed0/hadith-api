@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3142,
-			"arabicnumber": 3142,
-			"text": "Ümmü Atıyye'den demiştir ki: Rasûlullah (s.a.v.) kızı vefat ettiği sırada yanımıza geldi ve \"Onu su ve sidr'le üç (defa) yahut beş (defa) hatta lüzum görürseniz daha fazla yıkayınız. Sonuncu da kafur yahut bir parça kafur da katın. Yıkamayı bitirdiğinizde bana bildirin\" buyurdu. (Yıkama işini) bitirdiğimizi kendisine haber verdik. Bize (kendi) Peştemalini verdi. Ve \"Bunu ona iç gömleği yapın\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1253) Sahih Muslim (939)"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3142,
+      "arabicnumber": 3142,
+      "text": "Ümmü Atıyye'den demiştir ki: Rasûlullah (s.a.v.) kızı vefat ettiği sırada yanımıza geldi ve \"Onu su ve sidr'le üç (defa) yahut beş (defa) hatta lüzum görürseniz daha fazla yıkayınız. Sonuncu da kafur yahut bir parça kafur da katın. Yıkamayı bitirdiğinizde bana bildirin\" buyurdu. (Yıkama işini) bitirdiğimizi kendisine haber verdik. Bize (kendi) Peştemalini verdi. Ve \"Bunu ona iç gömleği yapın\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1253) Sahih Muslim (939)"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 54
+      }
+    }
+  ]
 }

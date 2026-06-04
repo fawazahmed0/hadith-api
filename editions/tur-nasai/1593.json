@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"19": "The Book of the Prayer for the Two 'Eids"
-		},
-		"section_detail": {
-			"19": {
-				"hadithnumber_first": 1556,
-				"hadithnumber_last": 1597,
-				"arabicnumber_first": 1556,
-				"arabicnumber_last": 1597
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1593,
-			"arabicnumber": 1593,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 19,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "19": "Bayram Namazları Kitabı"
+    },
+    "section_detail": {
+      "19": {
+        "hadithnumber_first": 1556,
+        "hadithnumber_last": 1597,
+        "arabicnumber_first": 1556,
+        "arabicnumber_last": 1597
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1593,
+      "arabicnumber": 1593,
+      "text": "",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 19,
+        "hadith": 38
+      }
+    }
+  ]
 }

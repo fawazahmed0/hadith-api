@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2008,
-			"arabicnumber": 2008,
-			"text": "Âişe (r.anhâ)'dan; demiştir ki: Resûlullah (s.a.v.) sadece (Medine'ye dönüşte yola) çıkmak için daha kolayına geleceğinden dolayı (Minâ'dan Mekke'ye gelirken) Muhassab'a inmiştir. (Muhassab'a inmek aslında) sünnet değildir. İsteyen orada iner, istemeyen de inmez",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 288
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2008,
+      "arabicnumber": 2008,
+      "text": "Âişe (r.anhâ)'dan; demiştir ki: Resûlullah (s.a.v.) sadece (Medine'ye dönüşte yola) çıkmak için daha kolayına geleceğinden dolayı (Minâ'dan Mekke'ye gelirken) Muhassab'a inmiştir. (Muhassab'a inmek aslında) sünnet değildir. İsteyen orada iner, istemeyen de inmez",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 288
+      }
+    }
+  ]
 }

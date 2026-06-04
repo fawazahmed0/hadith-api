@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"18": "The Book of Divorce "
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 3652,
-				"hadithnumber_last": 3742,
-				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3677,
-			"arabicnumber": "1473.02",
-			"text": "Bize Yahya b. Bişr el-Harîrî rivayet etti. (Dediki): Bize Muâviye yâni İbni Sellâm, Yahya b. Ebî Kesîr'den naklen rivayet etti. Ona da Ya'Iâ b. Hakîm, ona da Saîd b. Cübeyr haber vermiş. Saîd, İbni Abbâs'ı şunu söylerken işitmiş : «Bir adam karısını kendine haram ederse bu bir yemindir; keffâretini verir.» İbni Abbâs: «Şüphesiz ki sizin için Resûlullah'da güzel bir nümune-i imtisal vardır.» âyetini de okumuş",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "18": "Boşama"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 3652,
+        "hadithnumber_last": 3742,
+        "arabicnumber_first": 1471.01,
+        "arabicnumber_last": 1491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3677,
+      "arabicnumber": "1473.02",
+      "text": "Bize Yahya b. Bişr el-Harîrî rivayet etti. (Dediki): Bize Muâviye yâni İbni Sellâm, Yahya b. Ebî Kesîr'den naklen rivayet etti. Ona da Ya'Iâ b. Hakîm, ona da Saîd b. Cübeyr haber vermiş. Saîd, İbni Abbâs'ı şunu söylerken işitmiş : «Bir adam karısını kendine haram ederse bu bir yemindir; keffâretini verir.» İbni Abbâs: «Şüphesiz ki sizin için Resûlullah'da güzel bir nümune-i imtisal vardır.» âyetini de okumuş",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 26
+      }
+    }
+  ]
 }

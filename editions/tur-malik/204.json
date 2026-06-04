@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"3": "Prayer"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 146,
-				"hadithnumber_last": 221,
-				"arabicnumber_first": 146,
-				"arabicnumber_last": 221
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 204,
-			"arabicnumber": 204,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 37
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "3": "Namaz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 146,
+        "hadithnumber_last": 221,
+        "arabicnumber_first": 146,
+        "arabicnumber_last": 221
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 204,
+      "arabicnumber": 204,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 37
+      }
+    }
+  ]
 }

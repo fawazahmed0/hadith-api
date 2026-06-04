@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2654,
-			"arabicnumber": "1129.02",
-			"text": "{…} Bana Ebu't-Tâhir rivayet etti. (Dediki) Bize Abdullah b. Vehb rivayet etti, (Dediki: Bana Mâlik b. Enes, İbni Şihab'dan bu isnadla bu hadîsin mislini haber verdi)",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 160
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2654,
+      "arabicnumber": "1129.02",
+      "text": "{…} Bana Ebu't-Tâhir rivayet etti. (Dediki) Bize Abdullah b. Vehb rivayet etti, (Dediki: Bana Mâlik b. Enes, İbni Şihab'dan bu isnadla bu hadîsin mislini haber verdi)",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 160
+      }
+    }
+  ]
 }

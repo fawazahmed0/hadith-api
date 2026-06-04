@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 178,
-			"arabicnumber": "49.02",
-			"text": "Bize Ebu Kureyb Muhammed b. el-Ala da dedi ki: Bize Ebu Muaviye tahdis edip dedi ki: Bize A'meş, İsmail b. Reca'dan tahdis etti. O babasından, o Ebu Said el-Hudri'den (diye) rivayet etti. Ayrıca (A'meş, İsmail'den, o) Kays b. Müs!im'den, o Tarık b. Şihab'dan, o Ebu Said el-Hudri'den Mervan ile ilgili olayı ve Ebu Said'in Nebi (Sallallahu aleyhi ve Sellem)'den diye naklettiği hadisi (bundan önceki) Şu'be ve Süfyan'ın hadisi ile aynen nakletti. Tahric bilgisi 175 ile aynı NEVEVİ ŞERHİ: \"Dize Ebu Kureyb tahdis etti. .. Ebu Said' den\" Senedinde \"ve Kays' dan\" ifadesi İsmail'e atfedilmiştir. Yani bunu A'meş, İsmail'den, o Kays'dan diye rivayet etmiştir demektir. Allah en iyi bilendir",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 178,
+      "arabicnumber": "49.02",
+      "text": "Bize Ebu Kureyb Muhammed b. el-Ala da dedi ki: Bize Ebu Muaviye tahdis edip dedi ki: Bize A'meş, İsmail b. Reca'dan tahdis etti. O babasından, o Ebu Said el-Hudri'den (diye) rivayet etti. Ayrıca (A'meş, İsmail'den, o) Kays b. Müs!im'den, o Tarık b. Şihab'dan, o Ebu Said el-Hudri'den Mervan ile ilgili olayı ve Ebu Said'in Nebi (Sallallahu aleyhi ve Sellem)'den diye naklettiği hadisi (bundan önceki) Şu'be ve Süfyan'ın hadisi ile aynen nakletti. Tahric bilgisi 175 ile aynı NEVEVİ ŞERHİ: \"Dize Ebu Kureyb tahdis etti. .. Ebu Said' den\" Senedinde \"ve Kays' dan\" ifadesi İsmail'e atfedilmiştir. Yani bunu A'meş, İsmail'den, o Kays'dan diye rivayet etmiştir demektir. Allah en iyi bilendir",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 85
+      }
+    }
+  ]
 }

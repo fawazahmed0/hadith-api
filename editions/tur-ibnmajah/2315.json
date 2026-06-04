@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"13": "The Chapters on Rulings"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2308,
-				"hadithnumber_last": 2374,
-				"arabicnumber_first": 2308,
-				"arabicnumber_last": 2374
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2315,
-			"arabicnumber": 2315,
-			"text": "EbU Hâsım (r.a.)'den rivayet edildiğine göre şöyle demiştir: (Abdullah) bin Büreyde'nin, babası (Büreyde bin el-Husayb) (r.a.)'den merfû olarak rivayet ettiği Resulullah (Sallallahu Aleyhi ve Sellem)'in: «Hâkimler üçe ayrılır. îkisi ateş (yâni cehennem) dedir. Birisi de cennettedir. Hakkı bilip bununla hükmeden adam cennettedir. Hakkı bilmediği halde insanlara hâkimlik eden adam ateştedir. Hükmünde zulüm eden (yâni hakkı bildiği halde bâtıl ile hükmeden) adam da ateştedir» hadîsi olmasaydı biz diyecektik ki: Hâkim içtihad ettiği zaman şüphesiz cennet'tedir. Diğer tahric: Bu hadisi Tirmizi ve Ebu Davud da rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "13": "Ahkâm (Hükümler) Kitabı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2308,
+        "hadithnumber_last": 2374,
+        "arabicnumber_first": 2308,
+        "arabicnumber_last": 2374
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2315,
+      "arabicnumber": 2315,
+      "text": "EbU Hâsım (r.a.)'den rivayet edildiğine göre şöyle demiştir: (Abdullah) bin Büreyde'nin, babası (Büreyde bin el-Husayb) (r.a.)'den merfû olarak rivayet ettiği Resulullah (Sallallahu Aleyhi ve Sellem)'in: «Hâkimler üçe ayrılır. îkisi ateş (yâni cehennem) dedir. Birisi de cennettedir. Hakkı bilip bununla hükmeden adam cennettedir. Hakkı bilmediği halde insanlara hâkimlik eden adam ateştedir. Hükmünde zulüm eden (yâni hakkı bildiği halde bâtıl ile hükmeden) adam da ateştedir» hadîsi olmasaydı biz diyecektik ki: Hâkim içtihad ettiği zaman şüphesiz cennet'tedir. Diğer tahric: Bu hadisi Tirmizi ve Ebu Davud da rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 8
+      }
+    }
+  ]
 }

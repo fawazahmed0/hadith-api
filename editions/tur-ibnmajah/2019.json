@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"10": "The Chapters on Divorce"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 2016,
-				"hadithnumber_last": 2477,
-				"arabicnumber_first": 2016,
-				"arabicnumber_last": 2477
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2019,
-			"arabicnumber": 2019,
-			"text": "(Abdullah) bin Ömer (r.a.)'den; Şöyle demiştir: Karım aybaşı âdeti içinde iken ben onu (bir talâk ile) boşadım. (Babam) Ömer bu durumu Resulullah (Sallallahu Aleyhi ve Sellem)'» anlattı. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) : «Oğlun Abdullah'a emret, karısına geri dönsün, sonra kadın temizlenip tekrar aybaşı adetini görüp bundan sonra tekrar temizleninceye kadar onunla birlikte yaşasın. (kadın ikinci kez adetten temizlendikten) Sonra oğlun dilerse onunla cinsel ilişkide bulunmaksızın boşayabilir. Dilerse onunla aile hayatını sürdürebilir. İşte kadının ikinci kez adetten temizlenip henüz bu temizlik halinde onunla cinsel ilişkide bulunmaksızın onu boşamak, Allah'ın müsade ettiği iddet'in başlamasına elverişli olan boşanmadır.» Diğer tahric edenler: Buhari, Müslim, Tirmizi, Ebu Davud, Nesai, Muvatta ve Şafii EBU DAVUD’DAKİ İBN-İ ÖMER’İN BU VAKASINA DAİR HADİSLER VE İZAH: 2179 – 2180 – 2181 – 2182 – 2183 – 2184 –",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "10": "Talâk Kitabı"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 2016,
+        "hadithnumber_last": 2477,
+        "arabicnumber_first": 2016,
+        "arabicnumber_last": 2477
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2019,
+      "arabicnumber": 2019,
+      "text": "(Abdullah) bin Ömer (r.a.)'den; Şöyle demiştir: Karım aybaşı âdeti içinde iken ben onu (bir talâk ile) boşadım. (Babam) Ömer bu durumu Resulullah (Sallallahu Aleyhi ve Sellem)'» anlattı. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) : «Oğlun Abdullah'a emret, karısına geri dönsün, sonra kadın temizlenip tekrar aybaşı adetini görüp bundan sonra tekrar temizleninceye kadar onunla birlikte yaşasın. (kadın ikinci kez adetten temizlendikten) Sonra oğlun dilerse onunla cinsel ilişkide bulunmaksızın boşayabilir. Dilerse onunla aile hayatını sürdürebilir. İşte kadının ikinci kez adetten temizlenip henüz bu temizlik halinde onunla cinsel ilişkide bulunmaksızın onu boşamak, Allah'ın müsade ettiği iddet'in başlamasına elverişli olan boşanmadır.» Diğer tahric edenler: Buhari, Müslim, Tirmizi, Ebu Davud, Nesai, Muvatta ve Şafii EBU DAVUD’DAKİ İBN-İ ÖMER’İN BU VAKASINA DAİR HADİSLER VE İZAH: 2179 – 2180 – 2181 – 2182 – 2183 – 2184 –",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 4
+      }
+    }
+  ]
 }

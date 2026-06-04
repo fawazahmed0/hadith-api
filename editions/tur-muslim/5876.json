@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"40": "The Book Concerning the Use of Correct Words"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 5862,
-				"hadithnumber_last": 5884,
-				"arabicnumber_first": 2246.01,
-				"arabicnumber_last": 2254
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5876,
-			"arabicnumber": "2249.03",
-			"text": "{m-14} Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb de rivayet ettiler. (Dedilerki): Bize Ebû Muâviye rivayet etti. H. Bize Ebû Saîd El-Eşecc de rivayet etti. (Dediki): Bize Veki' rivayet etti. Her iki râvi A'meş'den hu isnad ile rivayette bulunmuşlardır. İkisinin hadîsinde de : «Köle efendisine mevlâm demesin!» cümlesi vardır. Ebû Muâviye'nin hadîsinde : «Zira sizin mevlânız Allah (Azze ve Celle)'dir.» ziyâdesi vardır",
-			"grades": [],
-			"reference": {
-				"book": 40,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "40": "Edeb, Terbiye Vesaireye Ait Lafızlarla Bahsi"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 5862,
+        "hadithnumber_last": 5884,
+        "arabicnumber_first": 2246.01,
+        "arabicnumber_last": 2254
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5876,
+      "arabicnumber": "2249.03",
+      "text": "{m-14} Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb de rivayet ettiler. (Dedilerki): Bize Ebû Muâviye rivayet etti. H. Bize Ebû Saîd El-Eşecc de rivayet etti. (Dediki): Bize Veki' rivayet etti. Her iki râvi A'meş'den hu isnad ile rivayette bulunmuşlardır. İkisinin hadîsinde de : «Köle efendisine mevlâm demesin!» cümlesi vardır. Ebû Muâviye'nin hadîsinde : «Zira sizin mevlânız Allah (Azze ve Celle)'dir.» ziyâdesi vardır",
+      "grades": [],
+      "reference": {
+        "book": 40,
+        "hadith": 15
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 740,
-			"arabicnumber": 740,
-			"text": "Sehl ibn Sa'd şöyle demiştir: \"Ashâb-ı kiramın erkeklerine namaz kılarken kıyamda sağ ellerini sol kollarının (zira') üstüne koymaları emredilmişti.\" Ebû Hâzim de şöyle demiştir: \"Sehl'in bunu kesinlikle Resûlullah Sallallahu Aleyhi ve Sellem'e isnâd ettiğini biliyorum",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 134
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 740,
+      "arabicnumber": 740,
+      "text": "Sehl ibn Sa'd şöyle demiştir: \"Ashâb-ı kiramın erkeklerine namaz kılarken kıyamda sağ ellerini sol kollarının (zira') üstüne koymaları emredilmişti.\" Ebû Hâzim de şöyle demiştir: \"Sehl'in bunu kesinlikle Resûlullah Sallallahu Aleyhi ve Sellem'e isnâd ettiğini biliyorum",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 134
+      }
+    }
+  ]
 }

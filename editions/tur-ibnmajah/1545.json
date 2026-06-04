@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"6": "Chapters Regarding Funerals"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1433,
-				"hadithnumber_last": 1637,
-				"arabicnumber_first": 1433,
-				"arabicnumber_last": 1637
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1545,
-			"arabicnumber": 1545,
-			"text": "Ubade bin es-Samit (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bir cenaze ile gittiği zaman; cenaze kabre indirilinceye kadar oturmazdı. Sonra bir Yahudi alimi Ona uğrayıp: Ya Muhammed ! Biz böyle yaparız, dedi. Bundan sonra Resulullah (Sallallahu Aleyhi ve Sellem) oturdu ve (bize): «Yahudilere muhalefet ediniz. (Oturunuz.)» buyurdu. Not: Sindi: Bunun senedinin zayıf olduğu söylenmiş, demiştir. Diğer tahric: Ebu Davud, Tirmizi Tahavi, Bezzar ve Beyhaki de bunu rivayet etmişlerçlir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 113
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "6": "Cenazeler Kitabı"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1433,
+        "hadithnumber_last": 1637,
+        "arabicnumber_first": 1433,
+        "arabicnumber_last": 1637
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1545,
+      "arabicnumber": 1545,
+      "text": "Ubade bin es-Samit (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bir cenaze ile gittiği zaman; cenaze kabre indirilinceye kadar oturmazdı. Sonra bir Yahudi alimi Ona uğrayıp: Ya Muhammed ! Biz böyle yaparız, dedi. Bundan sonra Resulullah (Sallallahu Aleyhi ve Sellem) oturdu ve (bize): «Yahudilere muhalefet ediniz. (Oturunuz.)» buyurdu. Not: Sindi: Bunun senedinin zayıf olduğu söylenmiş, demiştir. Diğer tahric: Ebu Davud, Tirmizi Tahavi, Bezzar ve Beyhaki de bunu rivayet etmişlerçlir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 113
+      }
+    }
+  ]
 }

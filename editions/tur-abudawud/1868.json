@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1868,
-			"arabicnumber": 1868,
-			"text": "Âişe (r.anhâ)'den; demiştir ki: Resûlullah (S.A.V.) Fetih yılında Mekke'ye Mekke'nin yukarısındâki Kedâ (denilen yol)dan, (kaza) umre(sinde) de Küdâ (denilen aşağı yol)dan girdi. (Hişam b. Urve) dedi ki: Urve, (Mekke'ye) her ikisinden girerdi. En çok Kudâ'dan girerdi. İki yolun evine en yakın olanı (Küdâ) idi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1578) Sahih Muslim (1258)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 148
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1868,
+      "arabicnumber": 1868,
+      "text": "Âişe (r.anhâ)'den; demiştir ki: Resûlullah (S.A.V.) Fetih yılında Mekke'ye Mekke'nin yukarısındâki Kedâ (denilen yol)dan, (kaza) umre(sinde) de Küdâ (denilen aşağı yol)dan girdi. (Hişam b. Urve) dedi ki: Urve, (Mekke'ye) her ikisinden girerdi. En çok Kudâ'dan girerdi. İki yolun evine en yakın olanı (Küdâ) idi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1578) Sahih Muslim (1258)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 148
+      }
+    }
+  ]
 }

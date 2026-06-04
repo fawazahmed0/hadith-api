@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4363,
-			"arabicnumber": 4363,
-			"text": "Ebu Berze (r.a) der ki: Ebu Bekir (r.a)'in yanında idim, bir adam'a öfkelendi ve o'na sert davrandı. Ben kendisine: Ey Rasulullah'ın halifesi, izin verirsen boynunu vurayım, dedim. Benim bu sözüm Ebu Bekir'in öfkesini dindirdi. Kalkıp (odasına girdi). Sonra bana (birisini) gönderip; Az önce dediğin ne idi? dedi Bana izin ver, boynunu vurayım, dedim. Şayet emredersem yapar mısın? Evet. Hayır, vallahi Muhammed Sallallahu aleyhi ve sellem'den sonra buna kimsenin hakkı yok, dedi. Ebu Davud: \"Bu Yezid'in lafzıdır\" dedi. Ahmed b. Hanbel şöyle dedi: \"Yani Ebubekirin Rasulullah'ın söylediği su üç şeyin haricinde hiç kim­seyi öldürmeye hakkı yoktur. İmandan sonra küfür, ihsandan sonra zina veya birisini kıssasın dışında öldürmek. Rasulullah' in bunlardan birisi olmadan da öldürmeye yetkisi vardı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4363,
+      "arabicnumber": 4363,
+      "text": "Ebu Berze (r.a) der ki: Ebu Bekir (r.a)'in yanında idim, bir adam'a öfkelendi ve o'na sert davrandı. Ben kendisine: Ey Rasulullah'ın halifesi, izin verirsen boynunu vurayım, dedim. Benim bu sözüm Ebu Bekir'in öfkesini dindirdi. Kalkıp (odasına girdi). Sonra bana (birisini) gönderip; Az önce dediğin ne idi? dedi Bana izin ver, boynunu vurayım, dedim. Şayet emredersem yapar mısın? Evet. Hayır, vallahi Muhammed Sallallahu aleyhi ve sellem'den sonra buna kimsenin hakkı yok, dedi. Ebu Davud: \"Bu Yezid'in lafzıdır\" dedi. Ahmed b. Hanbel şöyle dedi: \"Yani Ebubekirin Rasulullah'ın söylediği su üç şeyin haricinde hiç kim­seyi öldürmeye hakkı yoktur. İmandan sonra küfür, ihsandan sonra zina veya birisini kıssasın dışında öldürmek. Rasulullah' in bunlardan birisi olmadan da öldürmeye yetkisi vardı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 13
+      }
+    }
+  ]
 }

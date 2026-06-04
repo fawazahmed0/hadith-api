@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"8": "The Book of Prayer - Two Eids"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 2044,
-				"hadithnumber_last": 2069,
-				"arabicnumber_first": 884.01,
-				"arabicnumber_last": 893
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2069,
-			"arabicnumber": "893",
-			"text": "Bana Muhammed b. Râfİ ile Abd b. Humeyd rivayet ettiler. Abd: (Bize haber verdi...) tâbirini kullandı, ibni Râfi' ise: (Bize Abdürrazzâk rivayet etti.) dedi. (Abdürrazzak demişkil: Bize Ma'mer, Zührî'den, o da Îbnü'l-Müseyyeb'den, o da Ebû Hureyre'den naklen haber verdi. Ebû Hureyre şöyle demiş: «Habeşliler Resulullah (Sallallahu Aleyhi ve Sellem)'in yanında harbeleri ile oynarlarken Ömerü'bnü'l-Hattâb giriverdi. Hemen onları taşlamak için (yerdeki) taşlara uzandı. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «Bırak onları yâ Ömer!» buyurdular. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "8": "Bayram Namazları"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 2044,
+        "hadithnumber_last": 2069,
+        "arabicnumber_first": 884.01,
+        "arabicnumber_last": 893
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2069,
+      "arabicnumber": "893",
+      "text": "Bana Muhammed b. Râfİ ile Abd b. Humeyd rivayet ettiler. Abd: (Bize haber verdi...) tâbirini kullandı, ibni Râfi' ise: (Bize Abdürrazzâk rivayet etti.) dedi. (Abdürrazzak demişkil: Bize Ma'mer, Zührî'den, o da Îbnü'l-Müseyyeb'den, o da Ebû Hureyre'den naklen haber verdi. Ebû Hureyre şöyle demiş: «Habeşliler Resulullah (Sallallahu Aleyhi ve Sellem)'in yanında harbeleri ile oynarlarken Ömerü'bnü'l-Hattâb giriverdi. Hemen onları taşlamak için (yerdeki) taşlara uzandı. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «Bırak onları yâ Ömer!» buyurdular. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 24
+      }
+    }
+  ]
 }

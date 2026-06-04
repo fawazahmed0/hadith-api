@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 795,
-			"arabicnumber": 795,
-			"text": "Ebu Hureyre'nin şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem (semi'allahu limen hamideh) dediği zaman (Allahumme Rebbena ve lekel hamd) derdi. Resûlullah Sallallahu Aleyhi ve Sellem rükûya giderken ve başını kaldırırken tekbir getirirdi ve secdelerden kalktığında da (Allahu Ekber) derdi. (Bu rivayette geçen başını kaldırırken ifadesi secdeden doğrulmayı anlatır)",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 190
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 795,
+      "arabicnumber": 795,
+      "text": "Ebu Hureyre'nin şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem (semi'allahu limen hamideh) dediği zaman (Allahumme Rebbena ve lekel hamd) derdi. Resûlullah Sallallahu Aleyhi ve Sellem rükûya giderken ve başını kaldırırken tekbir getirirdi ve secdelerden kalktığında da (Allahu Ekber) derdi. (Bu rivayette geçen başını kaldırırken ifadesi secdeden doğrulmayı anlatır)",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 190
+      }
+    }
+  ]
 }

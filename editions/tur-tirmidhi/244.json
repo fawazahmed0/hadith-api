@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"2": "The Book on Salat (Prayer)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 149,
-				"hadithnumber_last": 451,
-				"arabicnumber_first": 149,
-				"arabicnumber_last": 451
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 244,
-			"arabicnumber": 244,
-			"text": "Abdullah b. Muğaffel (r.a.)’in oğlundan rivâyete göre, şöyle demiştir: “Namaz kılarken babam benim besmeleyi açıkça söylediğimi işitti ve şöyle dedi: Ey oğlum, bu yaptığın bid’attır. Bid’atten sakın diyerek şöyle devam etti; Peygamber (s.a.v.)’in ashabından İslam da bid’at çıkarma konusundan daha fazla kızdıkları bir şey görmedim dedi ki: Ben Rasûlullah (s.a.v.) ile Ebû Bekir, Ömer ve Osman’la birlikte namaz kıldım, hiçbirinin sesli olarak besmele okuduğunu işitmedim sende Besmeleyi sesli olarak okuma namaza başladığında “Elhamdülillahi Rabbil Alemin” diyerek okumaya başla.”",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 96
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "2": "Namaz Bölümleri"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 149,
+        "hadithnumber_last": 451,
+        "arabicnumber_first": 149,
+        "arabicnumber_last": 451
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 244,
+      "arabicnumber": 244,
+      "text": "Abdullah b. Muğaffel (r.a.)’in oğlundan rivâyete göre, şöyle demiştir: “Namaz kılarken babam benim besmeleyi açıkça söylediğimi işitti ve şöyle dedi: Ey oğlum, bu yaptığın bid’attır. Bid’atten sakın diyerek şöyle devam etti; Peygamber (s.a.v.)’in ashabından İslam da bid’at çıkarma konusundan daha fazla kızdıkları bir şey görmedim dedi ki: Ben Rasûlullah (s.a.v.) ile Ebû Bekir, Ömer ve Osman’la birlikte namaz kıldım, hiçbirinin sesli olarak besmele okuduğunu işitmedim sende Besmeleyi sesli olarak okuma namaza başladığında “Elhamdülillahi Rabbil Alemin” diyerek okumaya başla.”",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 96
+      }
+    }
+  ]
 }

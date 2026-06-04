@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"72": "Hunting, Slaughtering"
-		},
-		"section_detail": {
-			"72": {
-				"hadithnumber_first": 5475,
-				"hadithnumber_last": 5544,
-				"arabicnumber_first": 5475,
-				"arabicnumber_last": 5544
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5539,
-			"arabicnumber": 5539,
-			"text": "Zühri'den rivayete göre ona zeytinyağında, donuk yağda ya da donmamış yağda ölen hayvan hakkında, fare ya da başkasına dair soru sorulmuş, o da şu cevabı vermiştir: \"Bize ulaştığına göre Rasulullah Sallallahu Aleyhi ve Sellem yağda ölmüş bir fare'nin yakınında bulunan kısmın atılmasını emir buyurdu. Sonra da o yağ yenildi",
-			"grades": [],
-			"reference": {
-				"book": 72,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "72": "Boğazlanan ve Avlanan Hayvanlar"
+    },
+    "section_detail": {
+      "72": {
+        "hadithnumber_first": 5475,
+        "hadithnumber_last": 5544,
+        "arabicnumber_first": 5475,
+        "arabicnumber_last": 5544
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5539,
+      "arabicnumber": 5539,
+      "text": "Zühri'den rivayete göre ona zeytinyağında, donuk yağda ya da donmamış yağda ölen hayvan hakkında, fare ya da başkasına dair soru sorulmuş, o da şu cevabı vermiştir: \"Bize ulaştığına göre Rasulullah Sallallahu Aleyhi ve Sellem yağda ölmüş bir fare'nin yakınında bulunan kısmın atılmasını emir buyurdu. Sonra da o yağ yenildi",
+      "grades": [],
+      "reference": {
+        "book": 72,
+        "hadith": 64
+      }
+    }
+  ]
 }

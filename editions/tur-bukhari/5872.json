@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"77": "Dress"
-		},
-		"section_detail": {
-			"77": {
-				"hadithnumber_first": 5783,
-				"hadithnumber_last": 5969,
-				"arabicnumber_first": 5783,
-				"arabicnumber_last": 5969
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5872,
-			"arabicnumber": 5872,
-			"text": "Enes b. Malik r.a.'dan rivayete göre, \"Allah'ın Nebii Sallallahu Aleyhi ve Sellem, Arap olmayanlardan bir topluluğa -yahut: bazı insanlaramektup yazmak istedi. Ona: Onlar, üzerinde mühür bulunmayan bir mektubu kabul etmezler denilince, Nebi Sallallahu Aleyhi ve Sellem, üzerindeki nakış \"Muhammedun Rasulullah'tam ibaret olan gümüşten bir mühür yüzük edindi. Sanki ben o yüzüğün Nebi Sallallahu Aleyhi ve Sellem'in parmağında -yahut elinde- ki parlaklığını görüyor gibiyim",
-			"grades": [],
-			"reference": {
-				"book": 77,
-				"hadith": 89
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "77": "Giyilen Şeyler ve Hükümleri"
+    },
+    "section_detail": {
+      "77": {
+        "hadithnumber_first": 5783,
+        "hadithnumber_last": 5969,
+        "arabicnumber_first": 5783,
+        "arabicnumber_last": 5969
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5872,
+      "arabicnumber": 5872,
+      "text": "Enes b. Malik r.a.'dan rivayete göre, \"Allah'ın Nebii Sallallahu Aleyhi ve Sellem, Arap olmayanlardan bir topluluğa -yahut: bazı insanlaramektup yazmak istedi. Ona: Onlar, üzerinde mühür bulunmayan bir mektubu kabul etmezler denilince, Nebi Sallallahu Aleyhi ve Sellem, üzerindeki nakış \"Muhammedun Rasulullah'tam ibaret olan gümüşten bir mühür yüzük edindi. Sanki ben o yüzüğün Nebi Sallallahu Aleyhi ve Sellem'in parmağında -yahut elinde- ki parlaklığını görüyor gibiyim",
+      "grades": [],
+      "reference": {
+        "book": 77,
+        "hadith": 89
+      }
+    }
+  ]
 }

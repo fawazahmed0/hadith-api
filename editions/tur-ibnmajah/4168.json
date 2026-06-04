@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4168,
-			"arabicnumber": 4168,
-			"text": "Ebu Hureyre (r.a.j'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: Kuvvetli mu'min zayıf mu'minden daha hayırlı ve Allah'a daha sevimlidir. Her ikisinde de hayır vardır. Sana menfaati olan (ibâdet ve mükâfatı gibi) şeylere düşkün ol ve (bu hususta) gevşeklik gösterme. Şayet bir iş seni yenerse \"Allah'ın takdiridir ve O, dilediğini yapar, de. Lev (= şunu yapsaydım, böyle olsaydı sözün) den iyice sakın. Çünkü Lev (= şunu yapsaydım, böyle olsaydı kelimesi), şeytân işine (ve vesvesesine) yol açar (= Kadere karşı gelmek düşüncesini kalbe sokar).\" MÜSLİM RİVAYETİ VE İZAH İÇİN TIKLA",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 69
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4168,
+      "arabicnumber": 4168,
+      "text": "Ebu Hureyre (r.a.j'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: Kuvvetli mu'min zayıf mu'minden daha hayırlı ve Allah'a daha sevimlidir. Her ikisinde de hayır vardır. Sana menfaati olan (ibâdet ve mükâfatı gibi) şeylere düşkün ol ve (bu hususta) gevşeklik gösterme. Şayet bir iş seni yenerse \"Allah'ın takdiridir ve O, dilediğini yapar, de. Lev (= şunu yapsaydım, böyle olsaydı sözün) den iyice sakın. Çünkü Lev (= şunu yapsaydım, böyle olsaydı kelimesi), şeytân işine (ve vesvesesine) yol açar (= Kadere karşı gelmek düşüncesini kalbe sokar).\" MÜSLİM RİVAYETİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 69
+      }
+    }
+  ]
 }

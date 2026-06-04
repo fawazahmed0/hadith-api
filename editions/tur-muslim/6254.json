@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6254,
-			"arabicnumber": "2420.01",
-			"text": "Bize Muhammed b. Müsennâ ile İbni Beşşâr rivayet ettiler. Lâfız İbni Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Ebû İshâk'i Sile b. Züfer'den, o da Huzeyfe'den naklen rivayet ederken dinledim, Huzeyfe şöyle demiş: Necranhlar Resûlullah (Sallallahu Aleyhi ve Sellem)'e gelerek': Yâ Resûlallah! Bize emin bir zât gönder! dediler. Bunun üzerine : «Size hakkıyla emin, hakkıyta emin bir zât göndereceğim!» buyurdular. Halk bu vilâyete ermek için hemen ileri atıldılar. Fakat o Ebû Ubeyde b. Cerrâh'ı gönderdi",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 84
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6254,
+      "arabicnumber": "2420.01",
+      "text": "Bize Muhammed b. Müsennâ ile İbni Beşşâr rivayet ettiler. Lâfız İbni Müsennâ'nındır. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Ebû İshâk'i Sile b. Züfer'den, o da Huzeyfe'den naklen rivayet ederken dinledim, Huzeyfe şöyle demiş: Necranhlar Resûlullah (Sallallahu Aleyhi ve Sellem)'e gelerek': Yâ Resûlallah! Bize emin bir zât gönder! dediler. Bunun üzerine : «Size hakkıyla emin, hakkıyta emin bir zât göndereceğim!» buyurdular. Halk bu vilâyete ermek için hemen ileri atıldılar. Fakat o Ebû Ubeyde b. Cerrâh'ı gönderdi",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 84
+      }
+    }
+  ]
 }

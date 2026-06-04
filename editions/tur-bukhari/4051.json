@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4051,
-			"arabicnumber": 4051,
-			"text": "Cabir r.a. dedi ki: \"Hani sizden iki zümre bozulmaya yüz tutmuştu.\"[Ali İmran, 122] buyruğu, bizler yani Selime oğulları ile Harise oğulları hakkında inmiştir. Hiçbir zaman bu ayetin inmemiş olmasını arzu etmem .. Çünkü yüce Allah: \"Halbuki Allah, o ikisinin velisidir\" diye buyurmaktadır.\" Bu Hadis ileride 4558 numara ile gelecektir",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 97
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4051,
+      "arabicnumber": 4051,
+      "text": "Cabir r.a. dedi ki: \"Hani sizden iki zümre bozulmaya yüz tutmuştu.\"[Ali İmran, 122] buyruğu, bizler yani Selime oğulları ile Harise oğulları hakkında inmiştir. Hiçbir zaman bu ayetin inmemiş olmasını arzu etmem .. Çünkü yüce Allah: \"Halbuki Allah, o ikisinin velisidir\" diye buyurmaktadır.\" Bu Hadis ileride 4558 numara ile gelecektir",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 97
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6206,
-			"arabicnumber": "2399",
-			"text": "Bize Ukbe b. Mükrem El-Ammi rivayet etti. (Dediki): Bize Said b. Âmir rivayet etti. (Dediki): Bize Cüveyriye b. Esma Nâfi'den, o da İbni Ömer'den naklen haber verdi. İbni Ömer şöyle demiş: Ömer: Rabbime üç şeyde muvafık düştüm: Makâm-i İbrahim'de, hicaba ve Bedir esirleri hakkında!» dedi",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 36
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6206,
+      "arabicnumber": "2399",
+      "text": "Bize Ukbe b. Mükrem El-Ammi rivayet etti. (Dediki): Bize Said b. Âmir rivayet etti. (Dediki): Bize Cüveyriye b. Esma Nâfi'den, o da İbni Ömer'den naklen haber verdi. İbni Ömer şöyle demiş: Ömer: Rabbime üç şeyde muvafık düştüm: Makâm-i İbrahim'de, hicaba ve Bedir esirleri hakkında!» dedi",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 36
+      }
+    }
+  ]
 }

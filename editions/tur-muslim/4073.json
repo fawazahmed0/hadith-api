@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4073,
-			"arabicnumber": "1590.01",
-			"text": "Bize Ebu'r-Rabî' el-Atekî rivayet etti. (Dediki): Bize Abbâd b. Avvâm rivayet etti. (Dediki): Bize Yahya b. Ebî İshâk haber verdi. (Dediki): Bize Abdurrahman b. Ebî Bekra, babasından rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) gümüşe mukabil gümüş, altına mukabil altın satmayı yasak etti; meğer ki, misli misline ola. Bize altın mukabilinde nasıl istersek gümüş; ve gümüş mukabilinde nasıl istersek altın almayı emir buyurdular. Bir adam râviye satrş peşin mi olacak? diye sormuş; o da: Ben böylece işittim, cevâbını vermiş",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 112
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4073,
+      "arabicnumber": "1590.01",
+      "text": "Bize Ebu'r-Rabî' el-Atekî rivayet etti. (Dediki): Bize Abbâd b. Avvâm rivayet etti. (Dediki): Bize Yahya b. Ebî İshâk haber verdi. (Dediki): Bize Abdurrahman b. Ebî Bekra, babasından rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) gümüşe mukabil gümüş, altına mukabil altın satmayı yasak etti; meğer ki, misli misline ola. Bize altın mukabilinde nasıl istersek gümüş; ve gümüş mukabilinde nasıl istersek altın almayı emir buyurdular. Bir adam râviye satrş peşin mi olacak? diye sormuş; o da: Ben böylece işittim, cevâbını vermiş",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 112
+      }
+    }
+  ]
 }

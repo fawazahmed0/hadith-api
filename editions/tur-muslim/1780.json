@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1780,
-			"arabicnumber": "759.02",
-			"text": "Bize, Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrazzâk haber verdi. (Dediki): Bize, Ma'mer, Zührî'den, o da Ebû Seleme'den, o da Ebû Hureyre'den naklen haber verdi, Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) ashabına azimetle emretmeksizin ramazanda gece namazına kendilerini teşvik eder ve: «Her kim ramazanda îmân ve ihtisâbla gece namazı kılarsa, o kimsenin geçmiş günahları affolunur.» buyururdu. İşte Resûlullah (Sallallahu Aleyhi ve Sellem) hâl bu merkezde iken vefat etti. Ondan sonra Ebû Bekr'in hilâfetinde ve Ömer'in hilâfetinin ilk zamanlarında bu iş Aynı minval üzere devam etti. İzah 760 da",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 208
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1780,
+      "arabicnumber": "759.02",
+      "text": "Bize, Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrazzâk haber verdi. (Dediki): Bize, Ma'mer, Zührî'den, o da Ebû Seleme'den, o da Ebû Hureyre'den naklen haber verdi, Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) ashabına azimetle emretmeksizin ramazanda gece namazına kendilerini teşvik eder ve: «Her kim ramazanda îmân ve ihtisâbla gece namazı kılarsa, o kimsenin geçmiş günahları affolunur.» buyururdu. İşte Resûlullah (Sallallahu Aleyhi ve Sellem) hâl bu merkezde iken vefat etti. Ondan sonra Ebû Bekr'in hilâfetinde ve Ömer'in hilâfetinin ilk zamanlarında bu iş Aynı minval üzere devam etti. İzah 760 da",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 208
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 675,
-			"arabicnumber": 675,
-			"text": "Cafer İbn Amr İbn Ümeyye babasının şöyle dediğini nakletmiştir: \"Bir gün Resulullah Sallallahu Aleyhi ve Sellem'i bir koyun budu yerken gördüm. O sırada kendisini namaza çağırdılar. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem elindeki bıçağı bırakıp namaz'a durdu. Hatta daha abdest almamıştı",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 69
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 675,
+      "arabicnumber": 675,
+      "text": "Cafer İbn Amr İbn Ümeyye babasının şöyle dediğini nakletmiştir: \"Bir gün Resulullah Sallallahu Aleyhi ve Sellem'i bir koyun budu yerken gördüm. O sırada kendisini namaza çağırdılar. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem elindeki bıçağı bırakıp namaz'a durdu. Hatta daha abdest almamıştı",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 69
+      }
+    }
+  ]
 }

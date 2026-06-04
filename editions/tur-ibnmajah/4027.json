@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"36": "Tribulations"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 3927,
-				"hadithnumber_last": 4099,
-				"arabicnumber_first": 3927,
-				"arabicnumber_last": 4099
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4027,
-			"arabicnumber": 4027,
-			"text": "Enes bin M£lik (r.a.)'den; şöyle demiştir: Uhud günü (savaş) olunca Resulullah (Sallallahu Aleyhi ve Sellem)'in rebaiye dişi kırıldı, başı yarıldı, kan (mubarek) yüzünün üzerinden akmaya başladi. Sonra O: Bir Nebi, kavmini Allah (yolun)a çağırırken yüzünü kana boyayan o kavim nasıl iflah olur (azabtan kurtulur)? diyerek yüzünden kanı silmeye başladı. Sonra Allah (Azze ve Celle): \"(Onları cezalandırmak veya affetmek hususunda) senin elinde bir şey yoktur.'' mealindeki ayetini indirdi. [Al-i İmean 128] Not:' Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri güvenilir zatlardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 102
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "36": "Fitneler Kitabı"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 3927,
+        "hadithnumber_last": 4099,
+        "arabicnumber_first": 3927,
+        "arabicnumber_last": 4099
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4027,
+      "arabicnumber": 4027,
+      "text": "Enes bin M£lik (r.a.)'den; şöyle demiştir: Uhud günü (savaş) olunca Resulullah (Sallallahu Aleyhi ve Sellem)'in rebaiye dişi kırıldı, başı yarıldı, kan (mubarek) yüzünün üzerinden akmaya başladi. Sonra O: Bir Nebi, kavmini Allah (yolun)a çağırırken yüzünü kana boyayan o kavim nasıl iflah olur (azabtan kurtulur)? diyerek yüzünden kanı silmeye başladı. Sonra Allah (Azze ve Celle): \"(Onları cezalandırmak veya affetmek hususunda) senin elinde bir şey yoktur.'' mealindeki ayetini indirdi. [Al-i İmean 128] Not:' Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri güvenilir zatlardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 102
+      }
+    }
+  ]
 }

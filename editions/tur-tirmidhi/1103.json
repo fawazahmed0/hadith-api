@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"11": "The Book on Marriage"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1080,
-				"hadithnumber_last": 1145,
-				"arabicnumber_first": 1080,
-				"arabicnumber_last": 1145
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1103,
-			"arabicnumber": 1103,
-			"text": "İbn Abbâs (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Şâhidsiz ve belgesiz evlenen kadınlar fahişelerdir.” (Tirmîzî rivâyet etmiştir.) Yusuf b. Hammad diyor ki: Abdul A’lâ bu hadisi tefsirinde merfu olarak rivâyet etti, Talak bölümünde ise mevkuf olarak aktardı",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "11": "Nikah Bölümleri"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1080,
+        "hadithnumber_last": 1145,
+        "arabicnumber_first": 1080,
+        "arabicnumber_last": 1145
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1103,
+      "arabicnumber": 1103,
+      "text": "İbn Abbâs (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Şâhidsiz ve belgesiz evlenen kadınlar fahişelerdir.” (Tirmîzî rivâyet etmiştir.) Yusuf b. Hammad diyor ki: Abdul A’lâ bu hadisi tefsirinde merfu olarak rivâyet etti, Talak bölümünde ise mevkuf olarak aktardı",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 24
+      }
+    }
+  ]
 }

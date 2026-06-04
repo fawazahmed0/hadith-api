@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"36": "Judgements"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 1399,
-				"hadithnumber_last": 1454,
-				"arabicnumber_first": 1399,
-				"arabicnumber_last": 1454
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1409,
-			"arabicnumber": 1409,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Hasan"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "36": "Akdiye (Yargılama)"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 1399,
+        "hadithnumber_last": 1454,
+        "arabicnumber_first": 1399,
+        "arabicnumber_last": 1454
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1409,
+      "arabicnumber": 1409,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Hasan"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 11
+      }
+    }
+  ]
 }

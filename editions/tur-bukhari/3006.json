@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3006,
-			"arabicnumber": 3006,
-			"text": "Abdullah İbn Abbas dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurduğunu işittim: \"Bir kimse hanımından asla ayrı kalmasın ve bir kadın da yanında kendisiyle evlenmesi haram olan bir yakını bulunmadan yolculuğa çıkmasın!\" Bunun üzerine birisi kalkıp: \"Ey Allah'ın Resulü, ben şu ve şu savaşlara katılmak üzere adımı yazdırdım ve hanımım da hac için yola çıktı\" dedi. Nebi Sallallahu Aleyhi ve Sellem de ona: \"Hemen git ve eşinle birlikte hac vazifesini yerine getir",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 215
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3006,
+      "arabicnumber": 3006,
+      "text": "Abdullah İbn Abbas dedi ki: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurduğunu işittim: \"Bir kimse hanımından asla ayrı kalmasın ve bir kadın da yanında kendisiyle evlenmesi haram olan bir yakını bulunmadan yolculuğa çıkmasın!\" Bunun üzerine birisi kalkıp: \"Ey Allah'ın Resulü, ben şu ve şu savaşlara katılmak üzere adımı yazdırdım ve hanımım da hac için yola çıktı\" dedi. Nebi Sallallahu Aleyhi ve Sellem de ona: \"Hemen git ve eşinle birlikte hac vazifesini yerine getir",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 215
+      }
+    }
+  ]
 }

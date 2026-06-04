@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 723,
-			"arabicnumber": 723,
-			"text": "Vail b. Hucr'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) ile beraber namaz kıldım, (iftitah) tekbiri(ni) aldığı zaman, ellerini kaldırırdı. Sonra (elbisesine) sarınır (ellerini elbisesinin içine sokarak) sağ eli ile sol elini tutardı. Rüku'a varmak istediği zaman da ellerini (elbisesinden) çıkarır ve onları kaldırırdı. Başını rüku'dan kaldırmak istediği zaman da ellerini kaldırır, sonra secdeye varırdı ve yüzünü iki eleri arasına koyardı. Başını secdeden kaldırmak isteyince de aynı şekilde ellerini kaldırırdı. (Bu hal) namaza bitirinceye kadar (böyle) devam ederdi. Muhammed (b. Cuhade) dedi ki: Ben bu durumu Hasan b. Ebî'l-Hasen'e söyledim. (O da bana şöyle) dedi: \"Bu Hz. Nebiin namazıdır. Bunu yapan yaptı, yapmayan yapmadı.\" Ebü Davud dedi ki: Bu hadisi (bir de) Hemmam, İbn Cuhade’den nakletti,(ancak) Hemmam (Hz. Nebi'nin) secdeden kalkarken ellerini kaldırdığından bahsetmedi. Diğer tahric: Buharî, salat; Müslim, salat; Ahmed b. Hanbel, II, 380; VI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 333
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 723,
+      "arabicnumber": 723,
+      "text": "Vail b. Hucr'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) ile beraber namaz kıldım, (iftitah) tekbiri(ni) aldığı zaman, ellerini kaldırırdı. Sonra (elbisesine) sarınır (ellerini elbisesinin içine sokarak) sağ eli ile sol elini tutardı. Rüku'a varmak istediği zaman da ellerini (elbisesinden) çıkarır ve onları kaldırırdı. Başını rüku'dan kaldırmak istediği zaman da ellerini kaldırır, sonra secdeye varırdı ve yüzünü iki eleri arasına koyardı. Başını secdeden kaldırmak isteyince de aynı şekilde ellerini kaldırırdı. (Bu hal) namaza bitirinceye kadar (böyle) devam ederdi. Muhammed (b. Cuhade) dedi ki: Ben bu durumu Hasan b. Ebî'l-Hasen'e söyledim. (O da bana şöyle) dedi: \"Bu Hz. Nebiin namazıdır. Bunu yapan yaptı, yapmayan yapmadı.\" Ebü Davud dedi ki: Bu hadisi (bir de) Hemmam, İbn Cuhade’den nakletti,(ancak) Hemmam (Hz. Nebi'nin) secdeden kalkarken ellerini kaldırdığından bahsetmedi. Diğer tahric: Buharî, salat; Müslim, salat; Ahmed b. Hanbel, II, 380; VI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 333
+      }
+    }
+  ]
 }

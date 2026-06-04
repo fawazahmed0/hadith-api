@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3364,
-			"arabicnumber": "1388.01",
-			"text": "Bize. Ebû Bekir b. Ebî Şeybe rivayet .etti. (dediki).: Bize Vekî', Hişam b. Urve'den, o da babasından, o da AbduIIah b. Zübeyr'den, o da Süfyan b. Ebî Zûheyr'dea naklen rivayet, etti. Süfyan şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Şam fethedilecek ve Medine'den bir kavim çıkarak aileleriyle (oraya) yerleşeceklerdir. Halbuki bilmiş olsalar Medine kendileri için daha hayırlıdır. Sonra Yemen fethedilecek, yine Medine'den bir, kavim çıkarak aileleriyle (oraya) yerleşeceklerdir. Halbuki bilmiş olsalar Medine kendileri için daha hayırlıdır. Sonra Irak fethedilecek Medine'den yine bir kavim çıkarak aileleriyle (oraya) yerleşeceklerdir. Holbuki bilmiş olsalar Medîne kendileri için daha hayırlıdır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 568
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3364,
+      "arabicnumber": "1388.01",
+      "text": "Bize. Ebû Bekir b. Ebî Şeybe rivayet .etti. (dediki).: Bize Vekî', Hişam b. Urve'den, o da babasından, o da AbduIIah b. Zübeyr'den, o da Süfyan b. Ebî Zûheyr'dea naklen rivayet, etti. Süfyan şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Şam fethedilecek ve Medine'den bir kavim çıkarak aileleriyle (oraya) yerleşeceklerdir. Halbuki bilmiş olsalar Medine kendileri için daha hayırlıdır. Sonra Yemen fethedilecek, yine Medine'den bir, kavim çıkarak aileleriyle (oraya) yerleşeceklerdir. Halbuki bilmiş olsalar Medine kendileri için daha hayırlıdır. Sonra Irak fethedilecek Medine'den yine bir kavim çıkarak aileleriyle (oraya) yerleşeceklerdir. Holbuki bilmiş olsalar Medîne kendileri için daha hayırlıdır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 568
+      }
+    }
+  ]
 }

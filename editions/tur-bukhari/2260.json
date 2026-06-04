@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"37": "Hiring"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 2260,
-				"hadithnumber_last": 2286,
-				"arabicnumber_first": 2260,
-				"arabicnumber_last": 2286
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2260,
-			"arabicnumber": 2260,
-			"text": "Ebu Musa el-Eş'ari şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kendisine emredilenleri gönül hoşnutluğu içinde yerine getiren güvenilir hazinedar, tasadduk eden iki kişiden biridir",
-			"grades": [],
-			"reference": {
-				"book": 37,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "37": "İcâre"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 2260,
+        "hadithnumber_last": 2286,
+        "arabicnumber_first": 2260,
+        "arabicnumber_last": 2286
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2260,
+      "arabicnumber": 2260,
+      "text": "Ebu Musa el-Eş'ari şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kendisine emredilenleri gönül hoşnutluğu içinde yerine getiren güvenilir hazinedar, tasadduk eden iki kişiden biridir",
+      "grades": [],
+      "reference": {
+        "book": 37,
+        "hadith": 1
+      }
+    }
+  ]
 }

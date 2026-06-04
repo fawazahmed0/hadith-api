@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"24": "Wages (Kitab Al-Ijarah)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 3416,
-				"hadithnumber_last": 3570,
-				"arabicnumber_first": 3416,
-				"arabicnumber_last": 3570
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3527,
-			"arabicnumber": 3527,
-			"text": "Ömer b. el-Hattâb (r.a)'dan, Rasülullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: \"Allah'ın kulları arasında öyleleri var ki, Nebi ve şehit değildirler, ama kıyamet günü Allah katındaki mevkilerinden dolayı Nebiler ve şehitler onlara imrenirler.” Ya Rasûlallah, onlar kim? Bize haber verir misin? dediler. \"Onlar, aralarında alıp verdikleri bir mal ve akrabalık olmadığı halde Allah'ın ruhu ile birbirlerini sevenlerdir. Vallahi onların yüzleri nurdur ve kendileri nur üzerindedirler. İnsanlar korktuğu zaman onlar korkmaz, insanlar üzüldüğünde onlar üzülmezler.\" buyurdu ve: \"Haberiniz olsun, Allah'ın sevgili kullarına korku yok, onlar üzülecek de değillerdir.\"[Yûnus 62] âyetini okudu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 112
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "24": "İcare Bölümü"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 3416,
+        "hadithnumber_last": 3570,
+        "arabicnumber_first": 3416,
+        "arabicnumber_last": 3570
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3527,
+      "arabicnumber": 3527,
+      "text": "Ömer b. el-Hattâb (r.a)'dan, Rasülullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: \"Allah'ın kulları arasında öyleleri var ki, Nebi ve şehit değildirler, ama kıyamet günü Allah katındaki mevkilerinden dolayı Nebiler ve şehitler onlara imrenirler.” Ya Rasûlallah, onlar kim? Bize haber verir misin? dediler. \"Onlar, aralarında alıp verdikleri bir mal ve akrabalık olmadığı halde Allah'ın ruhu ile birbirlerini sevenlerdir. Vallahi onların yüzleri nurdur ve kendileri nur üzerindedirler. İnsanlar korktuğu zaman onlar korkmaz, insanlar üzüldüğünde onlar üzülmezler.\" buyurdu ve: \"Haberiniz olsun, Allah'ın sevgili kullarına korku yok, onlar üzülecek de değillerdir.\"[Yûnus 62] âyetini okudu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 112
+      }
+    }
+  ]
 }

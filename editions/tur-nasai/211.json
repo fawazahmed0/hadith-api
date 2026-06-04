@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 211,
-			"arabicnumber": 211,
-			"text": "Fatıma binti ebi Hubeyş (radıyallahü anha) anlatıyor: Rasûlüllah (sallallahü aleyhi ve sellem)’in huzuruna çıktım ve devamlı gelen kandan dolayı şikayetimi bildirdim. Rasûlüllah (sallallahü aleyhi ve sellem)’de, bana: damardan gelen bir kandır. Hayız günlerinin sayısına bak o günler sayısınca namaz kılma, gün bitince temizlen ve namazlarını kıl) buyurdu. Buradaki (Kur) kelimesi hayız anlamına gelmektedir. (Buhârî, Hayz: 27; Tirmizî, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 212
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 211,
+      "arabicnumber": 211,
+      "text": "Fatıma binti ebi Hubeyş (radıyallahü anha) anlatıyor: Rasûlüllah (sallallahü aleyhi ve sellem)’in huzuruna çıktım ve devamlı gelen kandan dolayı şikayetimi bildirdim. Rasûlüllah (sallallahü aleyhi ve sellem)’de, bana: damardan gelen bir kandır. Hayız günlerinin sayısına bak o günler sayısınca namaz kılma, gün bitince temizlen ve namazlarını kıl) buyurdu. Buradaki (Kur) kelimesi hayız anlamına gelmektedir. (Buhârî, Hayz: 27; Tirmizî, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 212
+      }
+    }
+  ]
 }

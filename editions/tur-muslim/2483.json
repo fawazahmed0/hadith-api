@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2483,
-			"arabicnumber": "1073.01",
-			"text": "Bize Kuteybetü'bnu Saîd rivayet etti. (Dediki): Bize Leys rivayet etti. H. Bize Muhammed b. Rumh da rivayet etti. (Dediki): Bize Leys, îbni Şihâb'dan naklen haber verdi ki, Ubeyd b. Sebbâk şöyle demış: Bana Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Cüveyriye haber verdi ki, Resulullah (Sallallahu Aleyhi ve Sellem) onun yanına girerek: — «Yiyecek bir şey var mı?» diye sormuş; Cüveyriye: — «Hayır vallahi yâ Resûlallah! Yanımızda azatlı cariyemin sadakadan verdiği bir koyun kemiğinden başka hiç bir yiyecek yok.» demiş. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem)-— «Getir! O, yerini buldu.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 220
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2483,
+      "arabicnumber": "1073.01",
+      "text": "Bize Kuteybetü'bnu Saîd rivayet etti. (Dediki): Bize Leys rivayet etti. H. Bize Muhammed b. Rumh da rivayet etti. (Dediki): Bize Leys, îbni Şihâb'dan naklen haber verdi ki, Ubeyd b. Sebbâk şöyle demış: Bana Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Cüveyriye haber verdi ki, Resulullah (Sallallahu Aleyhi ve Sellem) onun yanına girerek: — «Yiyecek bir şey var mı?» diye sormuş; Cüveyriye: — «Hayır vallahi yâ Resûlallah! Yanımızda azatlı cariyemin sadakadan verdiği bir koyun kemiğinden başka hiç bir yiyecek yok.» demiş. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem)-— «Getir! O, yerini buldu.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 220
+      }
+    }
+  ]
 }

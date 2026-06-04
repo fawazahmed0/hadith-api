@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"12": "The Book of The At-Tatbiq (Clasping One's Hands Together)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 1029,
-				"hadithnumber_last": 1178,
-				"arabicnumber_first": 1029,
-				"arabicnumber_last": 1178
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1058,
-			"arabicnumber": 1058,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "12": "Tatbîk (Elleri Birbirine Yapıştırıp İki Diz Arasına Koymak)"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 1029,
+        "hadithnumber_last": 1178,
+        "arabicnumber_first": 1029,
+        "arabicnumber_last": 1178
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1058,
+      "arabicnumber": 1058,
+      "text": "",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 30
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"49": "Manumission of Slaves"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 2517,
-				"hadithnumber_last": 2559,
-				"arabicnumber_first": 2517,
-				"arabicnumber_last": 2559
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2520,
-			"arabicnumber": 2520,
-			"text": "Esma binti Ebi Bekir'den rivayet edilmiştir: Ay tutulması sırasında bize köle azat etmemiz emredilirdi",
-			"grades": [],
-			"reference": {
-				"book": 49,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "49": "Köleyi Hürriyetine Kavuşturma"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 2517,
+        "hadithnumber_last": 2559,
+        "arabicnumber_first": 2517,
+        "arabicnumber_last": 2559
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2520,
+      "arabicnumber": 2520,
+      "text": "Esma binti Ebi Bekir'den rivayet edilmiştir: Ay tutulması sırasında bize köle azat etmemiz emredilirdi",
+      "grades": [],
+      "reference": {
+        "book": 49,
+        "hadith": 4
+      }
+    }
+  ]
 }

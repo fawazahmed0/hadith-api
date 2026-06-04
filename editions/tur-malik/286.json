@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"7": "Tahajjud"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 254,
-				"hadithnumber_last": 286,
-				"arabicnumber_first": 254,
-				"arabicnumber_last": 286
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 286,
-			"arabicnumber": 286,
-			"text": "Kasım b. Muhammed de Abdullah b. Ömer'in yaptığı gibi farz'dan önce kılamadığı sabah namazının sünnetini güneş doğduktan sonra kıldı",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "7": "Gece Namazları (Teheccüd)"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 254,
+        "hadithnumber_last": 286,
+        "arabicnumber_first": 254,
+        "arabicnumber_last": 286
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 286,
+      "arabicnumber": 286,
+      "text": "Kasım b. Muhammed de Abdullah b. Ömer'in yaptığı gibi farz'dan önce kılamadığı sabah namazının sünnetini güneş doğduktan sonra kıldı",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 33
+      }
+    }
+  ]
 }

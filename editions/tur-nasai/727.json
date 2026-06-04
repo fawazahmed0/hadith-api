@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"8": "The Book of the Masjids"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 688,
-				"hadithnumber_last": 741,
-				"arabicnumber_first": 688,
-				"arabicnumber_last": 741
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 727,
-			"arabicnumber": 727,
-			"text": "Ebû’l Ala b. Şıhhir (radıyallahü anh), babasından şunu aktarıyor: sallallahü aleyhi ve sellem) in tükürdüğünü ve sol ayağıyla yok ettiğini gördüm.) (Müslim, Mesacid: 13; Buhârî, Salat:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "8": "Mesâcid Kitabı"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 688,
+        "hadithnumber_last": 741,
+        "arabicnumber_first": 688,
+        "arabicnumber_last": 741
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 727,
+      "arabicnumber": 727,
+      "text": "Ebû’l Ala b. Şıhhir (radıyallahü anh), babasından şunu aktarıyor: sallallahü aleyhi ve sellem) in tükürdüğünü ve sol ayağıyla yok ettiğini gördüm.) (Müslim, Mesacid: 13; Buhârî, Salat:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 40
+      }
+    }
+  ]
 }

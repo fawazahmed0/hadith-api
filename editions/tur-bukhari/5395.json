@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"70": "Food, Meals"
-		},
-		"section_detail": {
-			"70": {
-				"hadithnumber_first": 5373,
-				"hadithnumber_last": 5466,
-				"arabicnumber_first": 5373,
-				"arabicnumber_last": 5466
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5395,
-			"arabicnumber": 5395,
-			"text": "Amr'dan, dedi ki: \"Ebli Nehik çok yemek yiyen birisi idi. İbn Ömer ona dedi ki: Raslilullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: Şüphesiz kafir yedi bağırsağı doldurmak için yer. Ebu Nehik: Ama ben Allah'a ve Rasulüne iman ediyorum, diye cevap verdi",
-			"grades": [],
-			"reference": {
-				"book": 70,
-				"hadith": 23
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "70": "Yiyecek Şeyler"
+    },
+    "section_detail": {
+      "70": {
+        "hadithnumber_first": 5373,
+        "hadithnumber_last": 5466,
+        "arabicnumber_first": 5373,
+        "arabicnumber_last": 5466
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5395,
+      "arabicnumber": 5395,
+      "text": "Amr'dan, dedi ki: \"Ebli Nehik çok yemek yiyen birisi idi. İbn Ömer ona dedi ki: Raslilullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: Şüphesiz kafir yedi bağırsağı doldurmak için yer. Ebu Nehik: Ama ben Allah'a ve Rasulüne iman ediyorum, diye cevap verdi",
+      "grades": [],
+      "reference": {
+        "book": 70,
+        "hadith": 23
+      }
+    }
+  ]
 }

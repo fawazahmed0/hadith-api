@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"35": "Combing the Hair (Kitab Al-Tarajjul)"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 4159,
-				"hadithnumber_last": 4213,
-				"arabicnumber_first": 4159,
-				"arabicnumber_last": 4213
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4212,
-			"arabicnumber": 4212,
-			"text": "İbn Abbas (r.a); şöyle demiştir. Rasûlullah (s.a.v.) \"Ahir zamanda (saç ve sakalını) güvercin göğsü gibi siyaha boyayan bir kavim gelecektir. Onlar cennetin kokusunu alamazlar.\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 35,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "35": "Saçı Tarayıp Düzeltmek"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 4159,
+        "hadithnumber_last": 4213,
+        "arabicnumber_first": 4159,
+        "arabicnumber_last": 4213
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4212,
+      "arabicnumber": 4212,
+      "text": "İbn Abbas (r.a); şöyle demiştir. Rasûlullah (s.a.v.) \"Ahir zamanda (saç ve sakalını) güvercin göğsü gibi siyaha boyayan bir kavim gelecektir. Onlar cennetin kokusunu alamazlar.\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 35,
+        "hadith": 54
+      }
+    }
+  ]
 }

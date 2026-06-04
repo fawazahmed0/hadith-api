@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1411,
-			"arabicnumber": 1411,
-			"text": "Nebi (Sallallahu Aleyhi ve Sellrm)'in ashabından olan Useyd bin Züheyr el-Ensari (r.a.)den rivayet edildiğine göre. Nebi (Sallallahu Aleyhi ve Sellrm) şöyle buyurdu, demiştir: «Kuba mescidinde kılınan bir namaz bir umre gibi (faziletli) dir.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 609
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1411,
+      "arabicnumber": 1411,
+      "text": "Nebi (Sallallahu Aleyhi ve Sellrm)'in ashabından olan Useyd bin Züheyr el-Ensari (r.a.)den rivayet edildiğine göre. Nebi (Sallallahu Aleyhi ve Sellrm) şöyle buyurdu, demiştir: «Kuba mescidinde kılınan bir namaz bir umre gibi (faziletli) dir.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 609
+      }
+    }
+  ]
 }

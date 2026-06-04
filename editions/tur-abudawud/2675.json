@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2675,
-			"arabicnumber": 2675,
-			"text": "Abdullah b. Mes'ûd'dan; demiştir ki: Rasûluliah (s.a.v.) ile bir seferde idik, bir ihtiyacından dolayı (yanımızdan) uzaklaşmıştı. O sırada iki tane yavrusuyla birlikte bir kaya kuşu gördük ve yavrularını yakaladık. Bunun üzerine (anne) kuş gelip kanatlarını (onların üzerine) germeye başladı. Derken Peygamber (s.a.v.) geldi ve; \"Bunu yavrularıyla üzen kimdir? Onları kendisine geri veriniz!\" buyurdu. Yine (Fahr-i kainat efendimiz) bizim yakmış olduğumuz bir karınca yuvasını gördü de; \"Bunu kim yaktı\" diye sordu. Biz de, Biz dedik. \"Ateşle cezalandırmak, ateş'in yaratıcısından başka hiçbir kimse için uygun değildir,\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 199
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2675,
+      "arabicnumber": 2675,
+      "text": "Abdullah b. Mes'ûd'dan; demiştir ki: Rasûluliah (s.a.v.) ile bir seferde idik, bir ihtiyacından dolayı (yanımızdan) uzaklaşmıştı. O sırada iki tane yavrusuyla birlikte bir kaya kuşu gördük ve yavrularını yakaladık. Bunun üzerine (anne) kuş gelip kanatlarını (onların üzerine) germeye başladı. Derken Peygamber (s.a.v.) geldi ve; \"Bunu yavrularıyla üzen kimdir? Onları kendisine geri veriniz!\" buyurdu. Yine (Fahr-i kainat efendimiz) bizim yakmış olduğumuz bir karınca yuvasını gördü de; \"Bunu kim yaktı\" diye sordu. Biz de, Biz dedik. \"Ateşle cezalandırmak, ateş'in yaratıcısından başka hiçbir kimse için uygun değildir,\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 199
+      }
+    }
+  ]
 }

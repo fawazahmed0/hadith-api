@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"47": "Partnership"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2483,
-				"hadithnumber_last": 2507,
-				"arabicnumber_first": 2483,
-				"arabicnumber_last": 2507
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2489,
-			"arabicnumber": 2489,
-			"text": "İbn Ömer r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem kişinin arkadaşlarından izin almadan hurmaları ikişer ikişer yemesini yasaklamıştır",
-			"grades": [],
-			"reference": {
-				"book": 47,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "47": "Ortaklık"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2483,
+        "hadithnumber_last": 2507,
+        "arabicnumber_first": 2483,
+        "arabicnumber_last": 2507
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2489,
+      "arabicnumber": 2489,
+      "text": "İbn Ömer r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem kişinin arkadaşlarından izin almadan hurmaları ikişer ikişer yemesini yasaklamıştır",
+      "grades": [],
+      "reference": {
+        "book": 47,
+        "hadith": 7
+      }
+    }
+  ]
 }

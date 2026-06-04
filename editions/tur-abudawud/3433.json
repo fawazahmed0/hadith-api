@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"24": "Wages (Kitab Al-Ijarah)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 3416,
-				"hadithnumber_last": 3570,
-				"arabicnumber_first": 3416,
-				"arabicnumber_last": 3570
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3433,
-			"arabicnumber": 3433,
-			"text": "Salim, babasın (Abdullah b. Ömer)'dan Rasûlullah (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: \"Bir kimse, malı olan bir köleyi satarsa, müşteri şart koşmamışsa mal satıcıya aittir. Yine bir kimse aşılanmış bir hurma ağacını satarsa, meyvesi -müşteri kendisi için olmasını şart koşmamışsa- satıcı­ya aittir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (2379) Sahih Muslim (1543)"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "24": "İcare Bölümü"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 3416,
+        "hadithnumber_last": 3570,
+        "arabicnumber_first": 3416,
+        "arabicnumber_last": 3570
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3433,
+      "arabicnumber": 3433,
+      "text": "Salim, babasın (Abdullah b. Ömer)'dan Rasûlullah (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: \"Bir kimse, malı olan bir köleyi satarsa, müşteri şart koşmamışsa mal satıcıya aittir. Yine bir kimse aşılanmış bir hurma ağacını satarsa, meyvesi -müşteri kendisi için olmasını şart koşmamışsa- satıcı­ya aittir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2379) Sahih Muslim (1543)"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 18
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2675,
-			"arabicnumber": "1139",
-			"text": "Bize Ebû Bekir b. Ebû Şeybe rivayet etti. (Dediki) Bize Veki', İbni Avn'dan, o da Ziyâd b. Cübeyr'den naklen rivayet eyledi. Ziyad şöyle demiş: Bir adnm îbni Ömer (Radiyallahû anhüma)'ya gelerek : — «Ben, bir gün oruç tutmaya nezrettim, o da kurban yahut ramazan bayramına rastladı.» dedi. İbni Ömer (Radiyallahû anhûma): — «Allah Teâlâ nezrin ifa edilmesini emir buyurmuştur. Resûlullah (Sallallahu Aleyhi ve Sellem) ise bu gün oruç tutmayı yasak etti.» cevabını verdi. İzah 1140 ta",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 181
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2675,
+      "arabicnumber": "1139",
+      "text": "Bize Ebû Bekir b. Ebû Şeybe rivayet etti. (Dediki) Bize Veki', İbni Avn'dan, o da Ziyâd b. Cübeyr'den naklen rivayet eyledi. Ziyad şöyle demiş: Bir adnm îbni Ömer (Radiyallahû anhüma)'ya gelerek : — «Ben, bir gün oruç tutmaya nezrettim, o da kurban yahut ramazan bayramına rastladı.» dedi. İbni Ömer (Radiyallahû anhûma): — «Allah Teâlâ nezrin ifa edilmesini emir buyurmuştur. Resûlullah (Sallallahu Aleyhi ve Sellem) ise bu gün oruç tutmayı yasak etti.» cevabını verdi. İzah 1140 ta",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 181
+      }
+    }
+  ]
 }

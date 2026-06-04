@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"34": "Clothing (Kitab Al-Libas)"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4020,
-				"hadithnumber_last": 4158,
-				"arabicnumber_first": 4020,
-				"arabicnumber_last": 4158
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4074,
-			"arabicnumber": 4074,
-			"text": "Aişe (ranha)'dan rivayet olunmuştur; dedi ki: Resulullah (s.a.v) için bir elbiseyi siyah’a boyamıştım. Onu giydi (fakat) terleyince (ondan bir) yün kokusu hissetti ve hemen onu (çıkarıp) attı.(Katade) dedi ki: Öyle zananediyorum ki, (Muttarraf bu hadisi şöyle) rivayet etti: \"Güzel koku Hz. Nebi'in hoşuna giderdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "34": "Giyim Kuşam Bölümü"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4020,
+        "hadithnumber_last": 4158,
+        "arabicnumber_first": 4020,
+        "arabicnumber_last": 4158
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4074,
+      "arabicnumber": 4074,
+      "text": "Aişe (ranha)'dan rivayet olunmuştur; dedi ki: Resulullah (s.a.v) için bir elbiseyi siyah’a boyamıştım. Onu giydi (fakat) terleyince (ondan bir) yün kokusu hissetti ve hemen onu (çıkarıp) attı.(Katade) dedi ki: Öyle zananediyorum ki, (Muttarraf bu hadisi şöyle) rivayet etti: \"Güzel koku Hz. Nebi'in hoşuna giderdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 55
+      }
+    }
+  ]
 }

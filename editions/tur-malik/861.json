@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 861,
-			"arabicnumber": 861,
-			"text": "Süleyman b. Yesar'dan: Ebu Eyyüb el-Ensari hacca gitmek için yola çıktı. Mekke yolu üzerindeki Nazîye'ye gelince bineğini kaybetti. Bayram günü Ömer b. Hattab'ın huzuruna çıktı, olanları anlattı. Ömer (r.a.) ona: «— Umre yapan nasıl yaparsa, sen de öyle yap ve ihramdan çık. Ertesi sene hac zamanı gelince tekrar haccet ve kolayına gelenden bir de kurban kes» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 157
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 861,
+      "arabicnumber": 861,
+      "text": "Süleyman b. Yesar'dan: Ebu Eyyüb el-Ensari hacca gitmek için yola çıktı. Mekke yolu üzerindeki Nazîye'ye gelince bineğini kaybetti. Bayram günü Ömer b. Hattab'ın huzuruna çıktı, olanları anlattı. Ömer (r.a.) ona: «— Umre yapan nasıl yaparsa, sen de öyle yap ve ihramdan çık. Ertesi sene hac zamanı gelince tekrar haccet ve kolayına gelenden bir de kurban kes» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 157
+      }
+    }
+  ]
 }

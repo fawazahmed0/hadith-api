@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 779,
-			"arabicnumber": 779,
-			"text": "Semure b. Cündub (namazda) iki defa susulduğunu Peygamber (Sallallahu aleyhi ve Sellem)'den öğrendiğini söylemiştir. (Biri) tekbir aldıktan sonraki sükut, (diğeri de) ‘ğaril mağdubi aleyhim veleddallin...’ (ayetin)i okuduktan sonraki sükut. Semure bunu (böyle) öğrenmişti. (Fakat) İmran b. Husayn buna inanmadı. Bunun üzerine bu mevzuda Übeyy b. Kab'a mektub yazdılar; Ubeyy onlara (yazdığı) mektubunda veyahut onlara (verdiği) cevabında (şöyle demişti): \"Semure gerçekten iyi bellemiş",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 389
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 779,
+      "arabicnumber": 779,
+      "text": "Semure b. Cündub (namazda) iki defa susulduğunu Peygamber (Sallallahu aleyhi ve Sellem)'den öğrendiğini söylemiştir. (Biri) tekbir aldıktan sonraki sükut, (diğeri de) ‘ğaril mağdubi aleyhim veleddallin...’ (ayetin)i okuduktan sonraki sükut. Semure bunu (böyle) öğrenmişti. (Fakat) İmran b. Husayn buna inanmadı. Bunun üzerine bu mevzuda Übeyy b. Kab'a mektub yazdılar; Ubeyy onlara (yazdığı) mektubunda veyahut onlara (verdiği) cevabında (şöyle demişti): \"Semure gerçekten iyi bellemiş",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 389
+      }
+    }
+  ]
 }

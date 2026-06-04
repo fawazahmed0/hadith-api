@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1680,
-			"arabicnumber": 1680,
-			"text": "Aişe (r.anha) şöyle demiştir: \"Sevde, Müzdelife'de, Resulullah (Sallallahu Aleyhi ve Sellem)'den izin istedi o da ona izin verdi.\" Ravî, onun ağır canlı bir hanım olduğunu söylemiştir. Tekrar :",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 160
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1680,
+      "arabicnumber": 1680,
+      "text": "Aişe (r.anha) şöyle demiştir: \"Sevde, Müzdelife'de, Resulullah (Sallallahu Aleyhi ve Sellem)'den izin istedi o da ona izin verdi.\" Ravî, onun ağır canlı bir hanım olduğunu söylemiştir. Tekrar :",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 160
+      }
+    }
+  ]
 }

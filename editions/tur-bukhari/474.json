@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"8": "Prayers (Salat)"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 349,
-				"hadithnumber_last": 520,
-				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 474,
-			"arabicnumber": 474,
-			"text": "Ebu Vâkıd el-Leysî'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Mescid-i Nebevî'de iken üç adam çıkageldi. İkisi Allah Resulünün yanına geldi. Diğeri ise öbür başa yöneldi. İki kişiden biri (Nebi'in etrafında toplanan halkanın kenarında) bir boşluk bulup oturdu. Diğeri İse halkanın arkasına oturdu. Allah Resulü Sallallahu Aleyhi ve Sellem konuşmasını tamamlayınca şöyle buyurdu: 'Size şu üç kişiden haber vereyim mi? Biri Allah'a sığındı, diğeri haya etti, Allah da ondan haya etti, diğeri Allah'dan yüz çevirdi, Allah da ondan yüz çevirdi",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 122
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "8": "Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 349,
+        "hadithnumber_last": 520,
+        "arabicnumber_first": 349,
+        "arabicnumber_last": 520
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 474,
+      "arabicnumber": 474,
+      "text": "Ebu Vâkıd el-Leysî'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Mescid-i Nebevî'de iken üç adam çıkageldi. İkisi Allah Resulünün yanına geldi. Diğeri ise öbür başa yöneldi. İki kişiden biri (Nebi'in etrafında toplanan halkanın kenarında) bir boşluk bulup oturdu. Diğeri İse halkanın arkasına oturdu. Allah Resulü Sallallahu Aleyhi ve Sellem konuşmasını tamamlayınca şöyle buyurdu: 'Size şu üç kişiden haber vereyim mi? Biri Allah'a sığındı, diğeri haya etti, Allah da ondan haya etti, diğeri Allah'dan yüz çevirdi, Allah da ondan yüz çevirdi",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 122
+      }
+    }
+  ]
 }

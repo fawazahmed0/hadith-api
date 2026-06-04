@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4754,
-			"arabicnumber": 4754,
-			"text": "(Bir önceki 4753.) hadisin bir benzeri Ebu Ömer Zazan'dan rivayet edilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 159
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4754,
+      "arabicnumber": 4754,
+      "text": "(Bir önceki 4753.) hadisin bir benzeri Ebu Ömer Zazan'dan rivayet edilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 159
+      }
+    }
+  ]
 }

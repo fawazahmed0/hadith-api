@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 84,
-			"arabicnumber": 84,
-			"text": "İbn Abbas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem)'e hac sırasında \"Şeytan taşlamadan önce kurban kestim (benim için bir sorumluluk olur mu?)\" diye soruldu, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Adam \"Kurban kesmeden önce tıraş oldum\" dedi, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 84,
+      "arabicnumber": 84,
+      "text": "İbn Abbas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem)'e hac sırasında \"Şeytan taşlamadan önce kurban kestim (benim için bir sorumluluk olur mu?)\" diye soruldu, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Adam \"Kurban kesmeden önce tıraş oldum\" dedi, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 26
+      }
+    }
+  ]
 }

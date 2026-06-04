@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"22": "The Chapters on Wills"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 2695,
-				"hadithnumber_last": 2718,
-				"arabicnumber_first": 2695,
-				"arabicnumber_last": 2718
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2712,
-			"arabicnumber": 2712,
-			"text": "Amr bin Hârice (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) devesi üzerinde hutbe irâd buyurdu. (Bu esnada) binek devesi geviş getiriyordu ve ağzının köpüğü benim iki omuzumun arasında akıyordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (hutbesinde) buyurdu ki: «Allah, şüphesiz her mirasçıya mirastan olan nasibini taklim (ve tâyin) buyurdu. Artık hiç bir mirasçıya vasiyyet caiz değildir. Çocuk döşek (sahibin) e aittir. Zina eden (erkeğ)e de mahrumiyet vardır. Kim babasından başka bir kimsenin oğlu olduğunu iddia eder veya kendisini âzadlayanlardan başkasının âzadlısı olduğunu söylerse Allah'ın, meleklerin ve bütün insanların laneti o kimsenin üzerine olsun. O kimseden ne tevbe ne de fidye (râvl dedi ki: veya Peygamber! ne fidye ne de tevbe buyurdu) kabul olunur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 22,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "22": "Vasiyetler Kitabı"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 2695,
+        "hadithnumber_last": 2718,
+        "arabicnumber_first": 2695,
+        "arabicnumber_last": 2718
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2712,
+      "arabicnumber": 2712,
+      "text": "Amr bin Hârice (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) devesi üzerinde hutbe irâd buyurdu. (Bu esnada) binek devesi geviş getiriyordu ve ağzının köpüğü benim iki omuzumun arasında akıyordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (hutbesinde) buyurdu ki: «Allah, şüphesiz her mirasçıya mirastan olan nasibini taklim (ve tâyin) buyurdu. Artık hiç bir mirasçıya vasiyyet caiz değildir. Çocuk döşek (sahibin) e aittir. Zina eden (erkeğ)e de mahrumiyet vardır. Kim babasından başka bir kimsenin oğlu olduğunu iddia eder veya kendisini âzadlayanlardan başkasının âzadlısı olduğunu söylerse Allah'ın, meleklerin ve bütün insanların laneti o kimsenin üzerine olsun. O kimseden ne tevbe ne de fidye (râvl dedi ki: veya Peygamber! ne fidye ne de tevbe buyurdu) kabul olunur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 22,
+        "hadith": 18
+      }
+    }
+  ]
 }

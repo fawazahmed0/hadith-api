@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"55": "The Book of Zuhd and Softening of Hearts "
-		},
-		"section_detail": {
-			"55": {
-				"hadithnumber_first": 7417,
-				"hadithnumber_last": 7522,
-				"arabicnumber_first": 2956,
-				"arabicnumber_last": 3014
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7469,
-			"arabicnumber": "2983",
-			"text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize ishak h. isa rivayet etti. (Dediki): Bize Mâlik, Sevr b. Zeyd Ed-Dîlî'den rivayet etti, (Demişki): Ben Ebû'l-Gays'i, Ebû Hureyre'den naklen rivayet ederken dinledim. (Dediki): Resûlullah (Sallallahu Aleyhi ve Sellem)'. «Kendinin veya başkasının olsun yetime bakan kimse ile ben, cennette şunlar gibiyiz.» buyurdular. Ve Mâlik şehâdet parmağı ile orta parmağa işaret etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 55,
-				"hadith": 52
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "55": "Zühd Ve Rakâik"
+    },
+    "section_detail": {
+      "55": {
+        "hadithnumber_first": 7417,
+        "hadithnumber_last": 7522,
+        "arabicnumber_first": 2956,
+        "arabicnumber_last": 3014
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7469,
+      "arabicnumber": "2983",
+      "text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize ishak h. isa rivayet etti. (Dediki): Bize Mâlik, Sevr b. Zeyd Ed-Dîlî'den rivayet etti, (Demişki): Ben Ebû'l-Gays'i, Ebû Hureyre'den naklen rivayet ederken dinledim. (Dediki): Resûlullah (Sallallahu Aleyhi ve Sellem)'. «Kendinin veya başkasının olsun yetime bakan kimse ile ben, cennette şunlar gibiyiz.» buyurdular. Ve Mâlik şehâdet parmağı ile orta parmağa işaret etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 55,
+        "hadith": 52
+      }
+    }
+  ]
 }

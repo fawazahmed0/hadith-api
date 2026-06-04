@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 703,
-			"arabicnumber": 703,
-			"text": "ibn Abbas (r.a.)'dan rivayet edildiğine göre (Katade'nin ravisi) Şu'be ref ederek: (Resulullah Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Hayızlı kadın ve köpek namazı bozar.\" Ebu Davud dedi ki: Said, Hişam ve Hemmam bu hadisi, Katade, Cabir b. Zeyd senediyle îbn Abbas (r.a.)'a ait, mevkuf bir hadis ola­rak rivayet etmişlerdir. Diğer tahric: Nesaî, kıble",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 313
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 703,
+      "arabicnumber": 703,
+      "text": "ibn Abbas (r.a.)'dan rivayet edildiğine göre (Katade'nin ravisi) Şu'be ref ederek: (Resulullah Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Hayızlı kadın ve köpek namazı bozar.\" Ebu Davud dedi ki: Said, Hişam ve Hemmam bu hadisi, Katade, Cabir b. Zeyd senediyle îbn Abbas (r.a.)'a ait, mevkuf bir hadis ola­rak rivayet etmişlerdir. Diğer tahric: Nesaî, kıble",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 313
+      }
+    }
+  ]
 }

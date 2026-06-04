@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"6": "The Book of the Times (of Prayer)"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 494,
-				"hadithnumber_last": 625,
-				"arabicnumber_first": 494,
-				"arabicnumber_last": 625
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 520,
-			"arabicnumber": 520,
-			"text": "Peygamber (sallallahü aleyhi ve sellem)’in ashabından Eslem kabilesinden bir kişi anlatıyor: Ashab, Peygamber (sallallahü aleyhi ve sellem) ile birlikte akşam namazını kılarlar sonra Medine’nin en uzak yerlerine kadar giderler ve o esnada oklarla vurulabilecek hedef yerlerini görürlerdi. (İbn Mâce, Salat: 7; Ebû Dâvûd, Salat:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "6": "Namaz Vakitleri"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 494,
+        "hadithnumber_last": 625,
+        "arabicnumber_first": 494,
+        "arabicnumber_last": 625
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 520,
+      "arabicnumber": 520,
+      "text": "Peygamber (sallallahü aleyhi ve sellem)’in ashabından Eslem kabilesinden bir kişi anlatıyor: Ashab, Peygamber (sallallahü aleyhi ve sellem) ile birlikte akşam namazını kılarlar sonra Medine’nin en uzak yerlerine kadar giderler ve o esnada oklarla vurulabilecek hedef yerlerini görürlerdi. (İbn Mâce, Salat: 7; Ebû Dâvûd, Salat:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 27
+      }
+    }
+  ]
 }

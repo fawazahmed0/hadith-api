@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5996,
-			"text": "Bana Muhammed b. Hatim rivayet etti. (Dediki): Bize Affân b. Müslim Es-Saffar rivayet etti. (Dediki): Bize Vüheyb rivayet etti. (Dediki): Abdü'l-Aziz b. Suhaybi rivayet ederken dinledim. (Dediki): Bize Enes b. Mâlik rivayet ettiki, Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar : «Havuz başında benim yanıma bana sahâbilik etmiş kimselerden bir takım adamlar muhakkak geleceklerdir. Tâ ki onları gördüğüm ve bana arzolundukları zaman benden ayrılacaklar. Ben behemehal : — Ey Rabbim! Sahabeciklerim! Sahabeciklerim! diyeceğim. Bana da : — Hakikaten sen onların senden sonra ne icad ettiklerini bilmiyorsun! denilecektir.»",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5996,
+      "text": "Bana Muhammed b. Hatim rivayet etti. (Dediki): Bize Affân b. Müslim Es-Saffar rivayet etti. (Dediki): Bize Vüheyb rivayet etti. (Dediki): Abdü'l-Aziz b. Suhaybi rivayet ederken dinledim. (Dediki): Bize Enes b. Mâlik rivayet ettiki, Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar : «Havuz başında benim yanıma bana sahâbilik etmiş kimselerden bir takım adamlar muhakkak geleceklerdir. Tâ ki onları gördüğüm ve bana arzolundukları zaman benden ayrılacaklar. Ben behemehal : — Ey Rabbim! Sahabeciklerim! Sahabeciklerim! diyeceğim. Bana da : — Hakikaten sen onların senden sonra ne icad ettiklerini bilmiyorsun! denilecektir.»",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

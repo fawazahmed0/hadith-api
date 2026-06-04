@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6259,
-			"arabicnumber": "2422.02",
-			"text": "Bize Muhammed b. Beşşâr ile Ebû Bekr b. Nâfi' rivayet ettiler. İbnü Nâfi' dedi ki: Bize Gunder rivayet etti. (Dediki): Bize Şu'be, Adiy'den (bu zat İbni Sabit'dir.) O da Bera'dan naklen rivayet etti. Bera' şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem)'in Hasan b. Ali'yi omuzuna koyduğunu gördüm: «Allah'ım! Ben bunu seviyorum; onu sen de sev!» diyordu",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 89
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6259,
+      "arabicnumber": "2422.02",
+      "text": "Bize Muhammed b. Beşşâr ile Ebû Bekr b. Nâfi' rivayet ettiler. İbnü Nâfi' dedi ki: Bize Gunder rivayet etti. (Dediki): Bize Şu'be, Adiy'den (bu zat İbni Sabit'dir.) O da Bera'dan naklen rivayet etti. Bera' şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem)'in Hasan b. Ali'yi omuzuna koyduğunu gördüm: «Allah'ım! Ben bunu seviyorum; onu sen de sev!» diyordu",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 89
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4216,
-			"arabicnumber": 4216,
-			"text": "Abdullah bin Amr (bin el-As) (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'e: (Ya Resulallah)! İnsanların hangisi daha faziletlidir? diye soruldu. O: Kalb'i mahmum ve dili çok doğru olan her (mu'min) kişi, buyurdu. Sahabîler: (Ya Resulallah>! Dili çok doğru olanı (n ne demek olduğunu) biliriz. Mahmum kalb nedir? diye sordular. O: (Mahmum kalb), Allah'tan korkan, tertemiz, içinde ne günah, ne zulüm ile yaratıklara kötülük etmek, ne kin ne de hased (çekemezlik) olan (kalb) dir, buyurdu. Not: Zevaid de; bu Hadis’in sahih, ravilerinin sika olduğu bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 117
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4216,
+      "arabicnumber": 4216,
+      "text": "Abdullah bin Amr (bin el-As) (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'e: (Ya Resulallah)! İnsanların hangisi daha faziletlidir? diye soruldu. O: Kalb'i mahmum ve dili çok doğru olan her (mu'min) kişi, buyurdu. Sahabîler: (Ya Resulallah>! Dili çok doğru olanı (n ne demek olduğunu) biliriz. Mahmum kalb nedir? diye sordular. O: (Mahmum kalb), Allah'tan korkan, tertemiz, içinde ne günah, ne zulüm ile yaratıklara kötülük etmek, ne kin ne de hased (çekemezlik) olan (kalb) dir, buyurdu. Not: Zevaid de; bu Hadis’in sahih, ravilerinin sika olduğu bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 117
+      }
+    }
+  ]
 }

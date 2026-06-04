@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3178,
-			"arabicnumber": "1315.02",
-			"text": "{…} Bize bu hadîsi İshâk b. İbrâhîm de rivayet etti. (Dediki): Bize îsâ b. Yûnus haber verdi. H. Bana bu hadîsi Muhammed b. Hatim ile Abd b. Humeyd dahî hep birden Muhammed b. Bekir'den rivayet ettiler. (Dedilerki): Bize İbni Cüreyc haber verdi. (îsâ ile îbni Cüreyc'in) ikisi birden UbeyduIIah b. Ömer'den bu isnadla bu hadîsin mislini rivayet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 382
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3178,
+      "arabicnumber": "1315.02",
+      "text": "{…} Bize bu hadîsi İshâk b. İbrâhîm de rivayet etti. (Dediki): Bize îsâ b. Yûnus haber verdi. H. Bana bu hadîsi Muhammed b. Hatim ile Abd b. Humeyd dahî hep birden Muhammed b. Bekir'den rivayet ettiler. (Dedilerki): Bize İbni Cüreyc haber verdi. (îsâ ile îbni Cüreyc'in) ikisi birden UbeyduIIah b. Ömer'den bu isnadla bu hadîsin mislini rivayet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 382
+      }
+    }
+  ]
 }

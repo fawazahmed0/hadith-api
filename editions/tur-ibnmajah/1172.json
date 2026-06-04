@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1172,
-			"arabicnumber": 1172,
-			"text": "İbn-i Abbas (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) vitir namazını (Fatiha'dan sonra): سبح اسم ربك الأعلى، وقل يا أيها الكافرون، وقل هو اللَّه أحد (ilk rek’atta: A’la, ikincide, Kafirun, üçüncüde, İhlas) sureleriyle kılardı.\" AÇIKLAMA 1173’te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 370
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1172,
+      "arabicnumber": 1172,
+      "text": "İbn-i Abbas (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) vitir namazını (Fatiha'dan sonra): سبح اسم ربك الأعلى، وقل يا أيها الكافرون، وقل هو اللَّه أحد (ilk rek’atta: A’la, ikincide, Kafirun, üçüncüde, İhlas) sureleriyle kılardı.\" AÇIKLAMA 1173’te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 370
+      }
+    }
+  ]
 }

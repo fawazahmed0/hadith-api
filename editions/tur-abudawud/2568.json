@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2568,
-			"arabicnumber": 2568,
-			"text": "Ebu Hureyre (r.a.)'den; demiştir ki: \"Rasûlullah (s.a.v.) şöyle buyurdu: \"Şeytanlar için develer ve evler olur. Ben şeytanların develerini gördüm. (Şöyle ki) biriniz yanında iyice beslemiş olduğu yedek develerle birlikte (yolculuğa) çıkar onlardan hiçbirine binmez ve (yaya yürümekten iyice) bıkmış bir (din) kardeşine rastlar, onu da bindirmez. Şeytanların evlerine gelince ben onları görmedim.” (Abdullah b. Ebi Yahya dedi ki) Said (b. Ubey şöyle) dedi: \"Öyle zannediyorum ki bu (şeytanların evleri) insanların ipeklerle örttükleri (ve develerin sırtına yükselttikleri hevdec denilen) kafeslerdir.”",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 92
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2568,
+      "arabicnumber": 2568,
+      "text": "Ebu Hureyre (r.a.)'den; demiştir ki: \"Rasûlullah (s.a.v.) şöyle buyurdu: \"Şeytanlar için develer ve evler olur. Ben şeytanların develerini gördüm. (Şöyle ki) biriniz yanında iyice beslemiş olduğu yedek develerle birlikte (yolculuğa) çıkar onlardan hiçbirine binmez ve (yaya yürümekten iyice) bıkmış bir (din) kardeşine rastlar, onu da bindirmez. Şeytanların evlerine gelince ben onları görmedim.” (Abdullah b. Ebi Yahya dedi ki) Said (b. Ubey şöyle) dedi: \"Öyle zannediyorum ki bu (şeytanların evleri) insanların ipeklerle örttükleri (ve develerin sırtına yükselttikleri hevdec denilen) kafeslerdir.”",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 92
+      }
+    }
+  ]
 }

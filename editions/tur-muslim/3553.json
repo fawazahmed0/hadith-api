@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3553,
-			"arabicnumber": "1438.10",
-			"text": "Bize Ubeydullah b. Ömer el-Kavârîrî ile Ahmed b. Abde rivayet ettiler. ibni Abde «Bize haber verdi» tâbirini kullandı. Ubeydullah ise: Bize Süfyân b. Uyeyne, ibni Ebî Necîh'den, o da Mücâhid'den, o da Kaza'a'dan, o da Ebu Saîd-i Hudrî'den naklen rivayet eyledi; dedi. Ebu Saîd şunları söylemiş : Resulullah (Sallallahu Aleyhi ve Sellem)'in yanında azil lâfı oldu da: «Sizden bîriniz bunu niçin yapıyor? Çünkü yaratılmış hiç bir nefs yoktur ki, yaratanı Allah olmasın!» buyurdu. «Bunu sizden hiç biriniz yapmasın» demedi",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 155
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3553,
+      "arabicnumber": "1438.10",
+      "text": "Bize Ubeydullah b. Ömer el-Kavârîrî ile Ahmed b. Abde rivayet ettiler. ibni Abde «Bize haber verdi» tâbirini kullandı. Ubeydullah ise: Bize Süfyân b. Uyeyne, ibni Ebî Necîh'den, o da Mücâhid'den, o da Kaza'a'dan, o da Ebu Saîd-i Hudrî'den naklen rivayet eyledi; dedi. Ebu Saîd şunları söylemiş : Resulullah (Sallallahu Aleyhi ve Sellem)'in yanında azil lâfı oldu da: «Sizden bîriniz bunu niçin yapıyor? Çünkü yaratılmış hiç bir nefs yoktur ki, yaratanı Allah olmasın!» buyurdu. «Bunu sizden hiç biriniz yapmasın» demedi",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 155
+      }
+    }
+  ]
 }

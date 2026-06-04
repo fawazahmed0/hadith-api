@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"4": "Ablutions (Wudu')"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 135,
-				"hadithnumber_last": 247,
-				"arabicnumber_first": 135,
-				"arabicnumber_last": 247
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 167,
-			"arabicnumber": 167,
-			"text": "Ümmü Atıyye r.anha şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) (vefat eden) kızının yıkanması sırasında kadınlara şöyle buyurdu: \"Sağ tarafından ve abdest azalarından başlayın. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "4": "Abdest"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 135,
+        "hadithnumber_last": 247,
+        "arabicnumber_first": 135,
+        "arabicnumber_last": 247
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 167,
+      "arabicnumber": 167,
+      "text": "Ümmü Atıyye r.anha şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) (vefat eden) kızının yıkanması sırasında kadınlara şöyle buyurdu: \"Sağ tarafından ve abdest azalarından başlayın. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 33
+      }
+    }
+  ]
 }

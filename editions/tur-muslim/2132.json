@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2132,
-			"arabicnumber": "921.01",
-			"text": "Bize Muhammedü'bnü Râfi' rivayet etti. (dediki): Bize Abdurrazzâk rivayet etti. (dediki): Bize İbni Cüreyc, Alâ b. Yâkûb'dan naklen haber verdi. Demişki: Bana, babam haber verdi, o da Ebü Hureyre'yi göyle derken işitmiş: Resulullah (Sallallahu Aleyhi ve Sellem): — «Görmüyor musunuz insan öldüğü vakit gözü nasıl dikilip kalıyor?» buyurdu. Ashâb: — «Hay hay! Görüyoruz.» dediler. ResûluIIah (Sallallahu Aleyhi ve Sellem) — «İşte bu, onun gözü nefsini tâkîb ettiği zaman olur.» buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2132,
+      "arabicnumber": "921.01",
+      "text": "Bize Muhammedü'bnü Râfi' rivayet etti. (dediki): Bize Abdurrazzâk rivayet etti. (dediki): Bize İbni Cüreyc, Alâ b. Yâkûb'dan naklen haber verdi. Demişki: Bana, babam haber verdi, o da Ebü Hureyre'yi göyle derken işitmiş: Resulullah (Sallallahu Aleyhi ve Sellem): — «Görmüyor musunuz insan öldüğü vakit gözü nasıl dikilip kalıyor?» buyurdu. Ashâb: — «Hay hay! Görüyoruz.» dediler. ResûluIIah (Sallallahu Aleyhi ve Sellem) — «İşte bu, onun gözü nefsini tâkîb ettiği zaman olur.» buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 10
+      }
+    }
+  ]
 }

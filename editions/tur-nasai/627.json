@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"7": "The Book of the Adhan (The Call to Prayer)"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 626,
-				"hadithnumber_last": 687,
-				"arabicnumber_first": 626,
-				"arabicnumber_last": 687
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 627,
-			"arabicnumber": 627,
-			"text": "Enes (radıyallahü anh)’den rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem), Bilal’e, ezanın sözlerini ikişer defa söylemesini kamette ise tek söylemesini emretti.) (İbn Mâce, Ezan: 1; Tirmizî, Salat:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "7": "Ezan Bölümleri (Kitabı)"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 626,
+        "hadithnumber_last": 687,
+        "arabicnumber_first": 626,
+        "arabicnumber_last": 687
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 627,
+      "arabicnumber": 627,
+      "text": "Enes (radıyallahü anh)’den rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem), Bilal’e, ezanın sözlerini ikişer defa söylemesini kamette ise tek söylemesini emretti.) (İbn Mâce, Ezan: 1; Tirmizî, Salat:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 2
+      }
+    }
+  ]
 }

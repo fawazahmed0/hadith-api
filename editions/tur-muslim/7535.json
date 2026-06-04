@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"56": "The Book of Commentary on the Qur'an"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 7523,
-				"hadithnumber_last": 7563,
-				"arabicnumber_first": 3015,
-				"arabicnumber_last": 3033.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7535,
-			"arabicnumber": "3019.03",
-			"text": "{m-11} Bize bu hadîsi Ebû Kureyb de rivayet etti. (Dediki): Bize İbni Numeyr rivayet etti. (Dediki): Bize Hişam bu isnadla rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "56": "Tefsir"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 7523,
+        "hadithnumber_last": 7563,
+        "arabicnumber_first": 3015,
+        "arabicnumber_last": 3033.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7535,
+      "arabicnumber": "3019.03",
+      "text": "{m-11} Bize bu hadîsi Ebû Kureyb de rivayet etti. (Dediki): Bize İbni Numeyr rivayet etti. (Dediki): Bize Hişam bu isnadla rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 13
+      }
+    }
+  ]
 }

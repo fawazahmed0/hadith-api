@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"9": "The Chapters on Marriage"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1845,
-				"hadithnumber_last": 2015,
-				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1998,
-			"arabicnumber": 1998,
-			"text": "el-Misver bin Mahreme (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) minber üzerinde iken şöyle buyurduğunu (bizzat) İşittim: «Hişam bin el-Mugire'nin oğulları, kendilerinin kızını Ali bin Ebi Talib'e nikahlamaları için benden izin istediler. (Ama) ben onlara izin vermiyeceğim, sonra da izin vermiyeceğim, daha sonra da izin vermiyeceğim. Ancak Ali benim kızımı boşamak ve onların kızını nikahlanmak isterse (o takdirde izin vereceğim). Çünkü şüphesiz kızım, benden bir parçadır. Ona elem veren şey bana (da) elem verir ve ona eziyet veren şey bana (da) eziyet verir.» Diğer tahric: Buhari, Müslim, Tirmizi, Nesai, Ebu Davud ve Ahmed AÇIKLAMA 1999’da",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 154
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "9": "Nikâh Kitabı"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1845,
+        "hadithnumber_last": 2015,
+        "arabicnumber_first": 1845,
+        "arabicnumber_last": 2015
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1998,
+      "arabicnumber": 1998,
+      "text": "el-Misver bin Mahreme (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) minber üzerinde iken şöyle buyurduğunu (bizzat) İşittim: «Hişam bin el-Mugire'nin oğulları, kendilerinin kızını Ali bin Ebi Talib'e nikahlamaları için benden izin istediler. (Ama) ben onlara izin vermiyeceğim, sonra da izin vermiyeceğim, daha sonra da izin vermiyeceğim. Ancak Ali benim kızımı boşamak ve onların kızını nikahlanmak isterse (o takdirde izin vereceğim). Çünkü şüphesiz kızım, benden bir parçadır. Ona elem veren şey bana (da) elem verir ve ona eziyet veren şey bana (da) eziyet verir.» Diğer tahric: Buhari, Müslim, Tirmizi, Nesai, Ebu Davud ve Ahmed AÇIKLAMA 1999’da",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 154
+      }
+    }
+  ]
 }

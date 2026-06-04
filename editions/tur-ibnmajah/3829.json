@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"34": "Supplication"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 3827,
-				"hadithnumber_last": 3892,
-				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3829,
-			"arabicnumber": 3829,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «(Zikir sözlü ibadetlerden) hiç bir şey Allah sübhanehu katında dua'dan daha faziletli değildir.» Diğer tahric: Tirmizi ve Ahmed Müsned. Buhari de el-Edebu'l-Müfred'de bu hadis'i rivayet etmiştir. Hakim ve İbn-i Hibban bu hadisin sahih olduğunu söylemişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "34": "Dua Kitabı"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 3827,
+        "hadithnumber_last": 3892,
+        "arabicnumber_first": 3827,
+        "arabicnumber_last": 3892
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3829,
+      "arabicnumber": 3829,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «(Zikir sözlü ibadetlerden) hiç bir şey Allah sübhanehu katında dua'dan daha faziletli değildir.» Diğer tahric: Tirmizi ve Ahmed Müsned. Buhari de el-Edebu'l-Müfred'de bu hadis'i rivayet etmiştir. Hakim ve İbn-i Hibban bu hadisin sahih olduğunu söylemişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 3
+      }
+    }
+  ]
 }

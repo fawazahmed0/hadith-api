@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"35": "The Book of Sacrifices"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 5064,
-				"hadithnumber_last": 5126,
-				"arabicnumber_first": 1960.01,
-				"arabicnumber_last": 1978.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5107,
-			"arabicnumber": "1972.04",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe de rivayet etti. (Dediki): Bize Süfyân b. Uyeyne, Amr'dan, o da Atâ'dan, o da Câbir'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) zamanında biz onlarla Medine'ye giderken azıklanıyorduk",
-			"grades": [],
-			"reference": {
-				"book": 35,
-				"hadith": 44
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "35": "Kurbanlar"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 5064,
+        "hadithnumber_last": 5126,
+        "arabicnumber_first": 1960.01,
+        "arabicnumber_last": 1978.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5107,
+      "arabicnumber": "1972.04",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe de rivayet etti. (Dediki): Bize Süfyân b. Uyeyne, Amr'dan, o da Atâ'dan, o da Câbir'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) zamanında biz onlarla Medine'ye giderken azıklanıyorduk",
+      "grades": [],
+      "reference": {
+        "book": 35,
+        "hadith": 44
+      }
+    }
+  ]
 }

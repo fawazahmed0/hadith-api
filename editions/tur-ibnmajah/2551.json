@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"20": "The Chapters on Legal Punishments"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 2533,
-				"hadithnumber_last": 2614,
-				"arabicnumber_first": 2533,
-				"arabicnumber_last": 2614
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2551,
-			"arabicnumber": 2551,
-			"text": "(Kufe emîri Na'man bin Beşîrin katibi) Habîb bin Sâlim'den rivayet edildiğine göre: Karısının cariyesi ile cinsel ilişkide bulunan bir adam Nu'man bin Beşîr (r.a.)'in huzuruna getirildi. Nu'man bin Beşîr (r.a.): Ben bu olay hakkında ancak Resulullah (Sallallahu Aleyhi ve Sellem)'in hükmü ile hükmedeceğim, diyerek şunu söyledi: Eğer kadın kendi cariyesini kocasına helâl etmiş ise, ben kocasına yüz değnek vurdururum. Şayet kadın kocasma (anılan temas için) izin vermemiş ise ben kocasını recmederim, dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 19
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "20": "Had (Cezâ)lar Kitabı"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 2533,
+        "hadithnumber_last": 2614,
+        "arabicnumber_first": 2533,
+        "arabicnumber_last": 2614
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2551,
+      "arabicnumber": 2551,
+      "text": "(Kufe emîri Na'man bin Beşîrin katibi) Habîb bin Sâlim'den rivayet edildiğine göre: Karısının cariyesi ile cinsel ilişkide bulunan bir adam Nu'man bin Beşîr (r.a.)'in huzuruna getirildi. Nu'man bin Beşîr (r.a.): Ben bu olay hakkında ancak Resulullah (Sallallahu Aleyhi ve Sellem)'in hükmü ile hükmedeceğim, diyerek şunu söyledi: Eğer kadın kendi cariyesini kocasına helâl etmiş ise, ben kocasına yüz değnek vurdururum. Şayet kadın kocasma (anılan temas için) izin vermemiş ise ben kocasını recmederim, dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 19
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2735,
-			"arabicnumber": "1159.07",
-			"text": "{…} Bu hadisi bana Muhammed b. Hatim dahî rivayet etti. (Dediki) Bize Muhammed b. Bekr rivayet etti. (Dediki) Bize İbni Cüreyc bu isnâdla haber verdi. Ve kendisine Ebu'l-Abbâs Şair'ir haber verdtginî söyledi. Müslim der ki: Ebu'l-Abbâs Sâib b. Ferruh Mekke'lüerden sika ve âdil zâttır",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 241
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2735,
+      "arabicnumber": "1159.07",
+      "text": "{…} Bu hadisi bana Muhammed b. Hatim dahî rivayet etti. (Dediki) Bize Muhammed b. Bekr rivayet etti. (Dediki) Bize İbni Cüreyc bu isnâdla haber verdi. Ve kendisine Ebu'l-Abbâs Şair'ir haber verdtginî söyledi. Müslim der ki: Ebu'l-Abbâs Sâib b. Ferruh Mekke'lüerden sika ve âdil zâttır",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 241
+      }
+    }
+  ]
 }

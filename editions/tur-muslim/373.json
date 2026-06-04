@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 373,
-			"arabicnumber": "146",
-			"text": "Bana Muhammed b. RMi' ve el-Fadl b. Sehl el-A'rec tahdis edip dediler ki: Bize Şebabe b. Sevvar tahdis etti. Bize Asım -b. Muhammed el-Umeri'dir- babasından tahdis etti. O İbn Ömer'den, o Nebi (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: \"Şüphesiz İslam garip olarak başladı ve başladığı gibi garip dönecektir. O yılanın yuvasına çekildiği gibi iki mescidin arasına çekilecektir. \" Yalnız Müslim rivilyet etmiştir; Tuhfetu'l-Eşraf, 7430 AÇIKLAMALAR 147. sayfada",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 280
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 373,
+      "arabicnumber": "146",
+      "text": "Bana Muhammed b. RMi' ve el-Fadl b. Sehl el-A'rec tahdis edip dediler ki: Bize Şebabe b. Sevvar tahdis etti. Bize Asım -b. Muhammed el-Umeri'dir- babasından tahdis etti. O İbn Ömer'den, o Nebi (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: \"Şüphesiz İslam garip olarak başladı ve başladığı gibi garip dönecektir. O yılanın yuvasına çekildiği gibi iki mescidin arasına çekilecektir. \" Yalnız Müslim rivilyet etmiştir; Tuhfetu'l-Eşraf, 7430 AÇIKLAMALAR 147. sayfada",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 280
+      }
+    }
+  ]
 }

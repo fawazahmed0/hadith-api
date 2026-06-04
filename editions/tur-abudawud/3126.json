@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3126,
-			"arabicnumber": 3126,
-			"text": "Enes b. Malik'den demiştir ki: Rasûlullah (s.a.v.): “Bu gece bir oğlum oldu. Ona babam İbrahim'in ismini verdim\" buyurdu. (Daha sonra Hz. Enes) hadisi (n geri kalan kısmını da) rivayet etti. (Hz. Enes rivayetine devamla şöyle) dedi: \"Ben (bir süre sonra) o çocuğu Rasûlullah (s.a.v.)'in huzurunda can verirken gördüm. (O sırada) Rasûlullah (s.a.v.)'in gözlerinden yaş boşandı da (şöyle) buyurdu: \"Göz yaşarır, kalp üzülür, fakat biz Rabbimizin razı olacağı sözlerden başkasını söylemeyiz. Ey İbrahim biz senin (ölümün)le gerçekten üzgünüz",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2315)"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3126,
+      "arabicnumber": 3126,
+      "text": "Enes b. Malik'den demiştir ki: Rasûlullah (s.a.v.): “Bu gece bir oğlum oldu. Ona babam İbrahim'in ismini verdim\" buyurdu. (Daha sonra Hz. Enes) hadisi (n geri kalan kısmını da) rivayet etti. (Hz. Enes rivayetine devamla şöyle) dedi: \"Ben (bir süre sonra) o çocuğu Rasûlullah (s.a.v.)'in huzurunda can verirken gördüm. (O sırada) Rasûlullah (s.a.v.)'in gözlerinden yaş boşandı da (şöyle) buyurdu: \"Göz yaşarır, kalp üzülür, fakat biz Rabbimizin razı olacağı sözlerden başkasını söylemeyiz. Ey İbrahim biz senin (ölümün)le gerçekten üzgünüz",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2315)"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 38
+      }
+    }
+  ]
 }

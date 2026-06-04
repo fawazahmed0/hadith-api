@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6579,
-			"arabicnumber": "2581",
-			"text": "Bize Kuteybe b. Saîd'le Ali b. Hucr rivayet ettiler. (Dedilerki): Bize İsmail (bu zât İbni Ca'fer'dir) Alâ'dan, o da babasından, o da Ebû Hureyre'den naklen rivayet etti ki: Resûlullah (Sallallahu Aleyhi Sellem): «Müflis kimdir bilir misiniz?» buyurmuş. Ashab : — Bizim aramızda müflis hiç bir dirhemi ve eşyası olmayan kimsedir, demişler. Bunun üzerine : «Hakikaten benim ümmetimden müflis, kıyamet gününde namaz, oruç ve zekâtla gelecek olan kimsedir. Ama şuna sövmüş, buna zînâ isnadında bulunmuş; şunun malını yemiş; bunun kanını dökmüş, diğerini de dövmüş olarak gelecek. Ve buna hasenatından şuna hasenatından verilecektir. Şayet dâvası görülmeden hasenatı biterse, onların günahlarından alınarak bunun üzerine yüklenecek, sonra cehenneme atılacaktır.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 77
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6579,
+      "arabicnumber": "2581",
+      "text": "Bize Kuteybe b. Saîd'le Ali b. Hucr rivayet ettiler. (Dedilerki): Bize İsmail (bu zât İbni Ca'fer'dir) Alâ'dan, o da babasından, o da Ebû Hureyre'den naklen rivayet etti ki: Resûlullah (Sallallahu Aleyhi Sellem): «Müflis kimdir bilir misiniz?» buyurmuş. Ashab : — Bizim aramızda müflis hiç bir dirhemi ve eşyası olmayan kimsedir, demişler. Bunun üzerine : «Hakikaten benim ümmetimden müflis, kıyamet gününde namaz, oruç ve zekâtla gelecek olan kimsedir. Ama şuna sövmüş, buna zînâ isnadında bulunmuş; şunun malını yemiş; bunun kanını dökmüş, diğerini de dövmüş olarak gelecek. Ve buna hasenatından şuna hasenatından verilecektir. Şayet dâvası görülmeden hasenatı biterse, onların günahlarından alınarak bunun üzerine yüklenecek, sonra cehenneme atılacaktır.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 77
+      }
+    }
+  ]
 }

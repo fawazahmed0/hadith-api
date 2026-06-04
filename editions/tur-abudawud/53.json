@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 53,
-			"arabicnumber": 53,
-			"text": "Aişe (r.anha)'dan rivayet edildiğine göre, Resulullah (sallallahu aleyhi ve sellem) şöyle buyurmuştur: \"On şey fıtrattandır: Bıyığın kırpılması, sakalın traş etmek (kazımak), misvaklanmak, istinşak (buruna su çekilip temizlenmesi), tırnakların kesilmesi, parmak eklemlerinin yıkanması, koltuk altı kıllarının yolunması, eteklerin tıraş edilmesi, Su serpmek (yani necasetten su ile temizlenmek)” Ravilerden Zekeriyya diyor ki: Mus'ab şöyle dedi: \"Onuncuyu unuttum, ancak bu mazmaza olabilir.” Diğer tahric: Müslim, tahare; Tirmizi, edeb; Nesaî, Ziyne; İbn Mace, tahare; Ahmed b. Hanbel",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 53,
+      "arabicnumber": 53,
+      "text": "Aişe (r.anha)'dan rivayet edildiğine göre, Resulullah (sallallahu aleyhi ve sellem) şöyle buyurmuştur: \"On şey fıtrattandır: Bıyığın kırpılması, sakalın traş etmek (kazımak), misvaklanmak, istinşak (buruna su çekilip temizlenmesi), tırnakların kesilmesi, parmak eklemlerinin yıkanması, koltuk altı kıllarının yolunması, eteklerin tıraş edilmesi, Su serpmek (yani necasetten su ile temizlenmek)” Ravilerden Zekeriyya diyor ki: Mus'ab şöyle dedi: \"Onuncuyu unuttum, ancak bu mazmaza olabilir.” Diğer tahric: Müslim, tahare; Tirmizi, edeb; Nesaî, Ziyne; İbn Mace, tahare; Ahmed b. Hanbel",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 53
+      }
+    }
+  ]
 }

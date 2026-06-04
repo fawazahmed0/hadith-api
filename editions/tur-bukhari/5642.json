@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"75": "Patients"
-		},
-		"section_detail": {
-			"75": {
-				"hadithnumber_first": 5640,
-				"hadithnumber_last": 5677,
-				"arabicnumber_first": 5640,
-				"arabicnumber_last": 5677
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5642,
-			"arabicnumber": 5642,
-			"text": "Ebu Said el-Hudri ve Ebu Hureyre r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Batan bir dikene varıncaya kadar Müslüman'a isabet eden herhangi bir yorgunluk, hastalık, keder, üzüntü, eziyet ve gam sebebiyle mutlaka Allah, bunlara karşı olarak günahlarının bir kısmını affeder.\" Diğer tahric edenler: Tirmizi, Cenaze; Müslim, Birr ve Sıla",
-			"grades": [],
-			"reference": {
-				"book": 75,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "75": "Hastalar ve Tıbb"
+    },
+    "section_detail": {
+      "75": {
+        "hadithnumber_first": 5640,
+        "hadithnumber_last": 5677,
+        "arabicnumber_first": 5640,
+        "arabicnumber_last": 5677
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5642,
+      "arabicnumber": 5642,
+      "text": "Ebu Said el-Hudri ve Ebu Hureyre r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Batan bir dikene varıncaya kadar Müslüman'a isabet eden herhangi bir yorgunluk, hastalık, keder, üzüntü, eziyet ve gam sebebiyle mutlaka Allah, bunlara karşı olarak günahlarının bir kısmını affeder.\" Diğer tahric edenler: Tirmizi, Cenaze; Müslim, Birr ve Sıla",
+      "grades": [],
+      "reference": {
+        "book": 75,
+        "hadith": 2
+      }
+    }
+  ]
 }

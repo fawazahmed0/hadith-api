@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 413,
-			"arabicnumber": 413,
-			"text": "Ala b. Abdurrahman şöyle demiştir: Öğle namazını kıldıktan sonra Enes bin Malik'in yanına girdik. Enes kalktı ve ikindi namazını kıldı. Namazını bitirince namazı erken kıldığını söyledik -yahut [şek ravilerden birindendir] o söyledi- Bunun üzerine Enes şu cevabı verdi: Resulullah (Sallallahu aleyhi ve Sellem)'i Bu (güneş sararıncaya kadar geciktirilen ikindi namazı) münafıkların namazıdır; bu münafıkların namazıdır, bu münafıkların namazıdır. Onlardan biri güneş sararıp şeytanın boynuzları arasına -veya boynuzları üzerine- girinceye kadar oturur. (Sonra) kalkar ve (kuşun yem gagaladığı gibi) dört rekat namaz kılar. O namazda Allah'ı çok az zikreder\" derken işittim. Diğer tahric: Müslim, mesacid; Nesai, mevakit; Tirmizî, mevakit; muvatta, Kur'ân; Ahmed b. Hanbel, III, İ",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (622)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 23
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 413,
+      "arabicnumber": 413,
+      "text": "Ala b. Abdurrahman şöyle demiştir: Öğle namazını kıldıktan sonra Enes bin Malik'in yanına girdik. Enes kalktı ve ikindi namazını kıldı. Namazını bitirince namazı erken kıldığını söyledik -yahut [şek ravilerden birindendir] o söyledi- Bunun üzerine Enes şu cevabı verdi: Resulullah (Sallallahu aleyhi ve Sellem)'i Bu (güneş sararıncaya kadar geciktirilen ikindi namazı) münafıkların namazıdır; bu münafıkların namazıdır, bu münafıkların namazıdır. Onlardan biri güneş sararıp şeytanın boynuzları arasına -veya boynuzları üzerine- girinceye kadar oturur. (Sonra) kalkar ve (kuşun yem gagaladığı gibi) dört rekat namaz kılar. O namazda Allah'ı çok az zikreder\" derken işittim. Diğer tahric: Müslim, mesacid; Nesai, mevakit; Tirmizî, mevakit; muvatta, Kur'ân; Ahmed b. Hanbel, III, İ",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (622)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 23
+      }
+    }
+  ]
 }

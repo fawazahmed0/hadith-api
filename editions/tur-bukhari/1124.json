@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"19": "Prayer at Night (Tahajjud)"
-		},
-		"section_detail": {
-			"19": {
-				"hadithnumber_first": 1120,
-				"hadithnumber_last": 1187,
-				"arabicnumber_first": 1120,
-				"arabicnumber_last": 1187
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1124,
-			"arabicnumber": 1124,
-			"text": "Cündeb (r.a.)'den nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem hasta iken bir veya iki defa gece ibadeti için kalkamamiştı",
-			"grades": [],
-			"reference": {
-				"book": 19,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "19": "Teheccüd"
+    },
+    "section_detail": {
+      "19": {
+        "hadithnumber_first": 1120,
+        "hadithnumber_last": 1187,
+        "arabicnumber_first": 1120,
+        "arabicnumber_last": 1187
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1124,
+      "arabicnumber": 1124,
+      "text": "Cündeb (r.a.)'den nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem hasta iken bir veya iki defa gece ibadeti için kalkamamiştı",
+      "grades": [],
+      "reference": {
+        "book": 19,
+        "hadith": 4
+      }
+    }
+  ]
 }

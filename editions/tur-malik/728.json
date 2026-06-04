@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 728,
-			"arabicnumber": 728,
-			"text": "Abdullah b. Ömer'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Medineliler Zu'l-huleyfe'den, Şamlılar Cuhfe'den, Necidliler de Karn'dan ihrama girerler.» Duyduğuma göre, ayrıca Resulullah Sallallahu Aleyhi ve Sellem: «... Yemenliler, Yelemlem'den ihrama girerler.» buyurmuştur. Diğer tahric: Buhari, Hacc; Müslim, Hacc",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 728,
+      "arabicnumber": 728,
+      "text": "Abdullah b. Ömer'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Medineliler Zu'l-huleyfe'den, Şamlılar Cuhfe'den, Necidliler de Karn'dan ihrama girerler.» Duyduğuma göre, ayrıca Resulullah Sallallahu Aleyhi ve Sellem: «... Yemenliler, Yelemlem'den ihrama girerler.» buyurmuştur. Diğer tahric: Buhari, Hacc; Müslim, Hacc",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 24
+      }
+    }
+  ]
 }

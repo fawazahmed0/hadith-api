@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"34": "Supplication"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 3827,
-				"hadithnumber_last": 3892,
-				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3843,
-			"arabicnumber": 3843,
-			"text": "Cabir (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Allah'tan yararlı ilim dileyiniz ve yarar sağlamayan ilim'den Allah'a sığınınız.» Not: Zevald'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sika (yani güvenilir zatlar) dır. Ravi Üsame bin Zeyd, el-Leysi el-Müzeni olan Usame'dir. Müslim bu ravinin hadislerin! rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "34": "Dua Kitabı"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 3827,
+        "hadithnumber_last": 3892,
+        "arabicnumber_first": 3827,
+        "arabicnumber_last": 3892
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3843,
+      "arabicnumber": 3843,
+      "text": "Cabir (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Allah'tan yararlı ilim dileyiniz ve yarar sağlamayan ilim'den Allah'a sığınınız.» Not: Zevald'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sika (yani güvenilir zatlar) dır. Ravi Üsame bin Zeyd, el-Leysi el-Müzeni olan Usame'dir. Müslim bu ravinin hadislerin! rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 17
+      }
+    }
+  ]
 }

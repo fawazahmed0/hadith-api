@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6143,
-			"arabicnumber": "151.05",
-			"text": "Bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Şebâbe rivayet etü. (Dediki): Bize Verkâ, Ebû'z-Zinad'dan, o da A'rac'dan, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. «Allah Lût'a mağfiret buyursun, o kuvvetli bir istinadgâha sığınmıştı.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 202
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6143,
+      "arabicnumber": "151.05",
+      "text": "Bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Şebâbe rivayet etü. (Dediki): Bize Verkâ, Ebû'z-Zinad'dan, o da A'rac'dan, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. «Allah Lût'a mağfiret buyursun, o kuvvetli bir istinadgâha sığınmıştı.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 202
+      }
+    }
+  ]
 }

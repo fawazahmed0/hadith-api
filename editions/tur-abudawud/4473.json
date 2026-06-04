@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4473,
-			"arabicnumber": 4473,
-			"text": "Ali (r.a) demiştir ki: Rasulullah'ın ailesine ait bir cariye zina etmişti. Rasulullah (s.a.v.): \"Ya Ali git ona haddi tatbik et\" buyurdu. Gittim bir de ne göreyim! Kadından devamlı kan gidiyor. Rasulullah'a geldim. Efendimiz: \"İşi bitirdin mi ya Ali?\" dedi. \"Kadına gittim, kendisinden kan gidiyordu\" dedim. Rasulullah (s.a.v.): \"Onu kanı kesilinceye kadar bırak, sonra haddi uygula. Sahibi olduğunuz kölelere (ve cariyelere) hadleri uygulayınız\" buyurdu. Ebıı Davûd şöyle dedi: Ebu l-Ahvas da Adü'l - A'la1 dan aynen bu şe­kilde rivayet eni. Şu'be, Abdu'Vdan rivayet edip şöyle dedi: Rasulullah: \"Doğuruncaya kadar ona vurma\" buyurdu. Ancak birincisi daha sahihtir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 123
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4473,
+      "arabicnumber": 4473,
+      "text": "Ali (r.a) demiştir ki: Rasulullah'ın ailesine ait bir cariye zina etmişti. Rasulullah (s.a.v.): \"Ya Ali git ona haddi tatbik et\" buyurdu. Gittim bir de ne göreyim! Kadından devamlı kan gidiyor. Rasulullah'a geldim. Efendimiz: \"İşi bitirdin mi ya Ali?\" dedi. \"Kadına gittim, kendisinden kan gidiyordu\" dedim. Rasulullah (s.a.v.): \"Onu kanı kesilinceye kadar bırak, sonra haddi uygula. Sahibi olduğunuz kölelere (ve cariyelere) hadleri uygulayınız\" buyurdu. Ebıı Davûd şöyle dedi: Ebu l-Ahvas da Adü'l - A'la1 dan aynen bu şe­kilde rivayet eni. Şu'be, Abdu'Vdan rivayet edip şöyle dedi: Rasulullah: \"Doğuruncaya kadar ona vurma\" buyurdu. Ancak birincisi daha sahihtir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 123
+      }
+    }
+  ]
 }

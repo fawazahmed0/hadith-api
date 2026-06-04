@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3121,
-			"arabicnumber": "1290.04",
-			"text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki' rivayet etti. H. Bize Züheyr b. Harb da rivayet etti. (Dediki): Bize Abdurrahnıân rivayet etti. Bu râvilerden ikisi de Süfyân'dan, o da Abdurrahmân b. Kaasim'den bu isnâdla bu hadîsin mislini rivayet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 325
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3121,
+      "arabicnumber": "1290.04",
+      "text": "Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki' rivayet etti. H. Bize Züheyr b. Harb da rivayet etti. (Dediki): Bize Abdurrahnıân rivayet etti. Bu râvilerden ikisi de Süfyân'dan, o da Abdurrahmân b. Kaasim'den bu isnâdla bu hadîsin mislini rivayet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 325
+      }
+    }
+  ]
 }

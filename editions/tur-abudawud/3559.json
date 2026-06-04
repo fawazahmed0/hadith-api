@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"24": "Wages (Kitab Al-Ijarah)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 3416,
-				"hadithnumber_last": 3570,
-				"arabicnumber_first": 3416,
-				"arabicnumber_last": 3570
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3559,
-			"arabicnumber": 3559,
-			"text": "Zeyd b. Sabit (r.a), Rasûlullah (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: \"Kim bir malı umrâ yoluyla (ömürlüğüne) verirse, o hayatında .'a ölümünde de verildiği kişiye aittir. Malınızı rukbâ yoluyla vermeyiniz. Her kim bir malını rukbâ yoluyla verirse o mal kendi yolundadır (mal miras olur).\" Ayrıca bu hadis'i Nesâî, umrâ; İbn Mâce, hibât ta tahric ettiler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih Isnaad"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih Isnaad"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 144
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "24": "İcare Bölümü"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 3416,
+        "hadithnumber_last": 3570,
+        "arabicnumber_first": 3416,
+        "arabicnumber_last": 3570
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3559,
+      "arabicnumber": 3559,
+      "text": "Zeyd b. Sabit (r.a), Rasûlullah (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: \"Kim bir malı umrâ yoluyla (ömürlüğüne) verirse, o hayatında .'a ölümünde de verildiği kişiye aittir. Malınızı rukbâ yoluyla vermeyiniz. Her kim bir malını rukbâ yoluyla verirse o mal kendi yolundadır (mal miras olur).\" Ayrıca bu hadis'i Nesâî, umrâ; İbn Mâce, hibât ta tahric ettiler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 144
+      }
+    }
+  ]
 }

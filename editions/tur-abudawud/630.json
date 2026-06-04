@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 630,
-			"arabicnumber": 630,
-			"text": "Sehl b. Sa'd (r.a.)'den; demiştir ki: Ben bazı kimseleri yetersizliğinden dolayı izarlarını çocuklar gibi boyunlarına asmış oldukları halde Resulullah (Sallallahu aleyhi ve Sellem)'in arkasında (namaz kılarken) gördüm. Bir sözcü (kadınlara hitaben): Ey kadınlar cemaati, erkeklerden önce başınızı (secdeden) kaldırmayın\" dedi. Diğer tahric: Buharî, salat; ezan; Müslim, salat; Nesaî, kıble; Ahmed b. Hanbel, III, 33, V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (362) Sahih Muslim (441)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 240
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 630,
+      "arabicnumber": 630,
+      "text": "Sehl b. Sa'd (r.a.)'den; demiştir ki: Ben bazı kimseleri yetersizliğinden dolayı izarlarını çocuklar gibi boyunlarına asmış oldukları halde Resulullah (Sallallahu aleyhi ve Sellem)'in arkasında (namaz kılarken) gördüm. Bir sözcü (kadınlara hitaben): Ey kadınlar cemaati, erkeklerden önce başınızı (secdeden) kaldırmayın\" dedi. Diğer tahric: Buharî, salat; ezan; Müslim, salat; Nesaî, kıble; Ahmed b. Hanbel, III, 33, V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (362) Sahih Muslim (441)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 240
+      }
+    }
+  ]
 }

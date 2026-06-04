@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"2": "The Book on Salat (Prayer)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 149,
-				"hadithnumber_last": 451,
-				"arabicnumber_first": 149,
-				"arabicnumber_last": 451
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 300,
-			"arabicnumber": 300,
-			"text": "Rasûlullah (s.a.v.)’in azatlı kölesi Sevbân’dan aktarıldığına göre, şöyle demiştir: “Rasûlullah (s.a.v.) namazdan çıkmak istediğinde üç sefer estağfirullah der sonra Allahümme entesselamü veminkesselamü tebarekte yazelcelali velikrami” duasını okurdu. Diğer tahric edenler: Müslim, Mesacid; İbn Mâce, İkame Tirmîzî: Bu hadis hasen sahihtir. Ebû Ammâr’ın ismi Şeddâd b. Abdullah’tır",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 152
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "2": "Namaz Bölümleri"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 149,
+        "hadithnumber_last": 451,
+        "arabicnumber_first": 149,
+        "arabicnumber_last": 451
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 300,
+      "arabicnumber": 300,
+      "text": "Rasûlullah (s.a.v.)’in azatlı kölesi Sevbân’dan aktarıldığına göre, şöyle demiştir: “Rasûlullah (s.a.v.) namazdan çıkmak istediğinde üç sefer estağfirullah der sonra Allahümme entesselamü veminkesselamü tebarekte yazelcelali velikrami” duasını okurdu. Diğer tahric edenler: Müslim, Mesacid; İbn Mâce, İkame Tirmîzî: Bu hadis hasen sahihtir. Ebû Ammâr’ın ismi Şeddâd b. Abdullah’tır",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 152
+      }
+    }
+  ]
 }

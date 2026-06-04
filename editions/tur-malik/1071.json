@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"26": "The 'Aqiqa"
-		},
-		"section_detail": {
-			"26": {
-				"hadithnumber_first": 1067,
-				"hadithnumber_last": 1073,
-				"arabicnumber_first": 1067,
-				"arabicnumber_last": 1073
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1071,
-			"arabicnumber": 1071,
-			"text": "Muhammed b. İbrahim b. Haris et-Teymi'den: Babamdan bir serçe bile olsa akika kesilmesinin müstehap olduğunu duymuştum",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 26,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "26": "Akika"
+    },
+    "section_detail": {
+      "26": {
+        "hadithnumber_first": 1067,
+        "hadithnumber_last": 1073,
+        "arabicnumber_first": 1067,
+        "arabicnumber_last": 1073
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1071,
+      "arabicnumber": 1071,
+      "text": "Muhammed b. İbrahim b. Haris et-Teymi'den: Babamdan bir serçe bile olsa akika kesilmesinin müstehap olduğunu duymuştum",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 26,
+        "hadith": 5
+      }
+    }
+  ]
 }

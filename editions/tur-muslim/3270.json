@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3270,
-			"arabicnumber": "1340.01",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb hep birden Ebû Muâviye'den rivayet ettiler. Ebû Kureyb (Dediki): Bize Ebû Muâviye, A'meş'den, o da Ebû Sâlih'den, Ebû Saîd-i Hudrî'den naklen rivayet etti. Ebû Saîd şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Allah'a ve Âhiret gününe iman eden bir kadının beraberinde babası veya oğlu yahut kocası, veya kardeşi, yahut nikâhı haram olan biri olmaksızın üç gün ve daha fazla süren bir sefere çıkması helâl değildir.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 474
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3270,
+      "arabicnumber": "1340.01",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb hep birden Ebû Muâviye'den rivayet ettiler. Ebû Kureyb (Dediki): Bize Ebû Muâviye, A'meş'den, o da Ebû Sâlih'den, Ebû Saîd-i Hudrî'den naklen rivayet etti. Ebû Saîd şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Allah'a ve Âhiret gününe iman eden bir kadının beraberinde babası veya oğlu yahut kocası, veya kardeşi, yahut nikâhı haram olan biri olmaksızın üç gün ve daha fazla süren bir sefere çıkması helâl değildir.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 474
+      }
+    }
+  ]
 }

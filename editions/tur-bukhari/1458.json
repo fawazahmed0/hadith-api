@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1458,
-			"arabicnumber": 1458,
-			"text": "İbn AbbaS r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Muaz'ı Yemen'e (vali olarak) gönderdiği zaman ona şöyle buyurdu: \"Sen halkı ehl-i kitap olan bir yere gidiyorsun, ilk önce onları Allah'a ibadet etmeye davet et. Allah'ı tanıdıkları zaman Allah'ın onlara günde beş vakit namazı farz kıldığını haber ver. Namaz kılmaya başladıkları zaman, Allah'ın onların malından zekat alınıp fakirlerine verilmesini farz kıldığını söyle, itaat ederlerse bunu onlardan al. Ama insanların mallarından en iyilerini almaktan kaçın",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 60
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1458,
+      "arabicnumber": 1458,
+      "text": "İbn AbbaS r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Muaz'ı Yemen'e (vali olarak) gönderdiği zaman ona şöyle buyurdu: \"Sen halkı ehl-i kitap olan bir yere gidiyorsun, ilk önce onları Allah'a ibadet etmeye davet et. Allah'ı tanıdıkları zaman Allah'ın onlara günde beş vakit namazı farz kıldığını haber ver. Namaz kılmaya başladıkları zaman, Allah'ın onların malından zekat alınıp fakirlerine verilmesini farz kıldığını söyle, itaat ederlerse bunu onlardan al. Ama insanların mallarından en iyilerini almaktan kaçın",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 60
+      }
+    }
+  ]
 }

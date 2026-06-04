@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"8": "The Book of the Masjids"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 688,
-				"hadithnumber_last": 741,
-				"arabicnumber_first": 688,
-				"arabicnumber_last": 741
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 718,
-			"arabicnumber": 718,
-			"text": "Süfyan (radıyallahü anh)’dan rivâyete göre, şöyle demiştir: Amr’a; (Câbir’in şöyle dediğini duydun mu?) dedim. Bir adam yanında oklarla mescide girmişti de Rasûlüllah (sallallahü aleyhi ve sellem) ona: sivri taraflarını elinle tut demişti) Amr da: dedi. (Dârimi, Salat: 119; Buhârî, Salat:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "8": "Mesâcid Kitabı"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 688,
+        "hadithnumber_last": 741,
+        "arabicnumber_first": 688,
+        "arabicnumber_last": 741
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 718,
+      "arabicnumber": 718,
+      "text": "Süfyan (radıyallahü anh)’dan rivâyete göre, şöyle demiştir: Amr’a; (Câbir’in şöyle dediğini duydun mu?) dedim. Bir adam yanında oklarla mescide girmişti de Rasûlüllah (sallallahü aleyhi ve sellem) ona: sivri taraflarını elinle tut demişti) Amr da: dedi. (Dârimi, Salat: 119; Buhârî, Salat:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 31
+      }
+    }
+  ]
 }

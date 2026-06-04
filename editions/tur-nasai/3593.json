@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"28": "The Book of Horses, Races and Shooting"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3561,
-				"hadithnumber_last": 3593,
-				"arabicnumber_first": 3561,
-				"arabicnumber_last": 3593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3593,
-			"arabicnumber": 3593,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Hasan Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "28": "Atlar Kitabı"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3561,
+        "hadithnumber_last": 3593,
+        "arabicnumber_first": 3561,
+        "arabicnumber_last": 3593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3593,
+      "arabicnumber": 3593,
+      "text": "",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 33
+      }
+    }
+  ]
 }

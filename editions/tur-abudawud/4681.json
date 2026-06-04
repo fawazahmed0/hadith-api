@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4681,
-			"arabicnumber": 4681,
-			"text": "Ebu Ümame'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) (şöyle) buyurmuştur: \"Kim (sevdiğini) Allah (rızası) için sever, (verdiğini) Allah (rızası İçin ) verir, (vermediğini de) Allah (rızası için) vermezse, imanı (nı) kemale erdirmiş olur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 86
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4681,
+      "arabicnumber": 4681,
+      "text": "Ebu Ümame'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) (şöyle) buyurmuştur: \"Kim (sevdiğini) Allah (rızası) için sever, (verdiğini) Allah (rızası İçin ) verir, (vermediğini de) Allah (rızası için) vermezse, imanı (nı) kemale erdirmiş olur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 86
+      }
+    }
+  ]
 }

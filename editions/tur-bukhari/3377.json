@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3377,
-			"arabicnumber": 3377,
-			"text": "Abdullah b. Zem'a dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem'i -(Salih kavminin) dişi devesinin kesilmesini sözkonusu ederken- şöyle buyurduğunu dinledim: O dişi deveyi kesmeye kavmi arasında güçlü ve kendisine zarar verilemeyen Ebu Zem'a'ya benzeyen birisi kalkıştı. \" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3377,
+      "arabicnumber": 3377,
+      "text": "Abdullah b. Zem'a dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem'i -(Salih kavminin) dişi devesinin kesilmesini sözkonusu ederken- şöyle buyurduğunu dinledim: O dişi deveyi kesmeye kavmi arasında güçlü ve kendisine zarar verilemeyen Ebu Zem'a'ya benzeyen birisi kalkıştı. \" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 51
+      }
+    }
+  ]
 }

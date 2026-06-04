@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7415,
-			"arabicnumber": "2955.02",
-			"text": "Bize Kuteybe b. Saîd de rivayet etti. (Dediki): Bize Muğîra (yâni; El-Hızâmî) Ebû'z-Zinad'dan, o da A'rac'dan, o da Ebû Hureyre'den naklen rivayet ettiki: Resulullah (Sallallahu Aleyhi ve Sellem) : «Âdem oğlunun her tarafını toprak yer! Yalnız kuyruk sokumu kemiği müstesna! insan ondan yaratılmıştır. Onda derlenip toplanacaktır.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 176
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7415,
+      "arabicnumber": "2955.02",
+      "text": "Bize Kuteybe b. Saîd de rivayet etti. (Dediki): Bize Muğîra (yâni; El-Hızâmî) Ebû'z-Zinad'dan, o da A'rac'dan, o da Ebû Hureyre'den naklen rivayet ettiki: Resulullah (Sallallahu Aleyhi ve Sellem) : «Âdem oğlunun her tarafını toprak yer! Yalnız kuyruk sokumu kemiği müstesna! insan ondan yaratılmıştır. Onda derlenip toplanacaktır.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 176
+      }
+    }
+  ]
 }

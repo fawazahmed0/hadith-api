@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"45": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 6500,
-				"hadithnumber_last": 6722,
-				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6631,
-			"arabicnumber": "2526.04",
-			"text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Leys rivayet etti. H. Bize Muhammed b. Rumh da rivayet etti. (Dediki): Bize Leys Yezid b. Ebi Habib'den, o da Irak b. Mâlik'den, o da Eöû Hureyre'den naklen haber verdi ki; Efeû Hureyre, Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken dinlemiş : «Şüphesiz insanların en kötüsü şunlara bir yüzle, bunlara da bir yüzle gelen iki yüzlü kimsedir.»",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 128
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "45": "İyilik, Sile Ve Âdâb"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 6500,
+        "hadithnumber_last": 6722,
+        "arabicnumber_first": 2548.01,
+        "arabicnumber_last": 2642.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6631,
+      "arabicnumber": "2526.04",
+      "text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Leys rivayet etti. H. Bize Muhammed b. Rumh da rivayet etti. (Dediki): Bize Leys Yezid b. Ebi Habib'den, o da Irak b. Mâlik'den, o da Eöû Hureyre'den naklen haber verdi ki; Efeû Hureyre, Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken dinlemiş : «Şüphesiz insanların en kötüsü şunlara bir yüzle, bunlara da bir yüzle gelen iki yüzlü kimsedir.»",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 128
+      }
+    }
+  ]
 }

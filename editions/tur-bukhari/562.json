@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"9": "Times of the Prayers"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 522,
-				"hadithnumber_last": 602,
-				"arabicnumber_first": 522,
-				"arabicnumber_last": 602
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 562,
-			"arabicnumber": 562,
-			"text": "İbn Abbas (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem akşam ve yatsı namazını birlikte yedi rekat olarak, öğle ile İkindi namazını ise yine birlikte sekiz rekat olarak kıldı",
-			"grades": [],
-			"reference": {
-				"book": 9,
-				"hadith": 39
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "9": "Namaz Vakitleri"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 522,
+        "hadithnumber_last": 602,
+        "arabicnumber_first": 522,
+        "arabicnumber_last": 602
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 562,
+      "arabicnumber": 562,
+      "text": "İbn Abbas (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem akşam ve yatsı namazını birlikte yedi rekat olarak, öğle ile İkindi namazını ise yine birlikte sekiz rekat olarak kıldı",
+      "grades": [],
+      "reference": {
+        "book": 9,
+        "hadith": 39
+      }
+    }
+  ]
 }

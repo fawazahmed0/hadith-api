@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"7": "The Book of Prayer - Friday"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1951,
-				"hadithnumber_last": 2043,
-				"arabicnumber_first": 844.01,
-				"arabicnumber_last": 883.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2018,
-			"arabicnumber": "875.01",
-			"text": "Bize Ebu'r-Rabî' ez-Zehrânî ile Kuteybetü'bnü Saîd rivayet ettiler. Dedilerki: Bize Hammâd —ki İbni Zeyddir— Amr b. Dinar'dan, o da Câbir b. Abdillâh'dan naklen rivayet etti. Câbir şöyle demiş: «Bir cum'a günü Nebi (Sallallahu Aleyhi ve Sellem) hutbe okurken bir adam çıkageldi. Nebi (Sallallahu Aleyhi ve Sellem) ona: «Namaz kıldın mı ey fülân!» diye sordu. Gelen zât: — Hayır; cevâbını verdi. Resulullah (Sallallahu Aleyhi ve Sellem) : «Kalk namaz kıl!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 7,
-				"hadith": 68
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "7": "Cuma"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1951,
+        "hadithnumber_last": 2043,
+        "arabicnumber_first": 844.01,
+        "arabicnumber_last": 883.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2018,
+      "arabicnumber": "875.01",
+      "text": "Bize Ebu'r-Rabî' ez-Zehrânî ile Kuteybetü'bnü Saîd rivayet ettiler. Dedilerki: Bize Hammâd —ki İbni Zeyddir— Amr b. Dinar'dan, o da Câbir b. Abdillâh'dan naklen rivayet etti. Câbir şöyle demiş: «Bir cum'a günü Nebi (Sallallahu Aleyhi ve Sellem) hutbe okurken bir adam çıkageldi. Nebi (Sallallahu Aleyhi ve Sellem) ona: «Namaz kıldın mı ey fülân!» diye sordu. Gelen zât: — Hayır; cevâbını verdi. Resulullah (Sallallahu Aleyhi ve Sellem) : «Kalk namaz kıl!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 7,
+        "hadith": 68
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2238,
-			"arabicnumber": 2238,
-			"text": "Avn İbn Ebu Cuhayfe r.a. şöyle anlatır: Babam Ebu Cuhayfe'yi \"hacamat yapan bir köle satın alırken gördüm. Daha sonra ona, kan alma aletlerini kırmasını emretti ve aletler kırıldı. Ona, neden böyle yaptığını sorunca bana, \"Resulullah Sallallahu Aleyhi ve Sellem, kandan bedel almayı, köpek bedelini, cariyenin (haram yoldan elde ettiği) kazancı yasakladı. Dövme yapanı ve yaptıranı; faiz yiyeni ve yedireni ve resim yapanı lanetledi\" diye cevap verdi",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 184
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2238,
+      "arabicnumber": 2238,
+      "text": "Avn İbn Ebu Cuhayfe r.a. şöyle anlatır: Babam Ebu Cuhayfe'yi \"hacamat yapan bir köle satın alırken gördüm. Daha sonra ona, kan alma aletlerini kırmasını emretti ve aletler kırıldı. Ona, neden böyle yaptığını sorunca bana, \"Resulullah Sallallahu Aleyhi ve Sellem, kandan bedel almayı, köpek bedelini, cariyenin (haram yoldan elde ettiği) kazancı yasakladı. Dövme yapanı ve yaptıranı; faiz yiyeni ve yedireni ve resim yapanı lanetledi\" diye cevap verdi",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 184
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3333,
-			"arabicnumber": "1372.02",
-			"text": "Bize İshâk b. İbrahim ile Muhammed b. Râfi' ve Abd b. Humeyd rivayet ettiler. İshâk (Dediki): Size Abdürrezzâk haber verdi. (Dediki): Bize Ma'mer, Zührî'deri; o da Saîd b. el-Müseyyeb'den, o da Ebü Hureyre'den naklen rivayet etli. Ebû Hureyre şöyle demiş: «Resûlullah (Sallallahu Aleyhi ve Sellem) Medine'nin iki taşlığı arasını harem kıldı.» (Yine Ebû Hureyre) : «Ben Medine'nin iki taşlığı arasında geyikleri bulsam ürkütmem.» demiş; ve -Medine'nin on iki mil etrafını korunan yer ta'yin etmiş",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 537
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3333,
+      "arabicnumber": "1372.02",
+      "text": "Bize İshâk b. İbrahim ile Muhammed b. Râfi' ve Abd b. Humeyd rivayet ettiler. İshâk (Dediki): Size Abdürrezzâk haber verdi. (Dediki): Bize Ma'mer, Zührî'deri; o da Saîd b. el-Müseyyeb'den, o da Ebü Hureyre'den naklen rivayet etli. Ebû Hureyre şöyle demiş: «Resûlullah (Sallallahu Aleyhi ve Sellem) Medine'nin iki taşlığı arasını harem kıldı.» (Yine Ebû Hureyre) : «Ben Medine'nin iki taşlığı arasında geyikleri bulsam ürkütmem.» demiş; ve -Medine'nin on iki mil etrafını korunan yer ta'yin etmiş",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 537
+      }
+    }
+  ]
 }

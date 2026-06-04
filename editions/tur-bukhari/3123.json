@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"57": "One-fifth of Booty to the Cause of Allah (Khumus)"
-		},
-		"section_detail": {
-			"57": {
-				"hadithnumber_first": 3091,
-				"hadithnumber_last": 3155,
-				"arabicnumber_first": 3091,
-				"arabicnumber_last": 3155
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3123,
-			"arabicnumber": 3123,
-			"text": "Ebu Hureyre r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Allah Teala, kendisinin yolunda cihad'a çıkarken maksadı sadece Allah yolunda cihad ve Allah'ın kelimelerini tasdik etmek olan kimseleri cennete sokacağını veya elde ettikleri mükafat ya da ganimetle sağ salim evlerine geri döndüreceğini vaad etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 57,
-				"hadith": 32
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "57": "Ganimetin Beşte Biri"
+    },
+    "section_detail": {
+      "57": {
+        "hadithnumber_first": 3091,
+        "hadithnumber_last": 3155,
+        "arabicnumber_first": 3091,
+        "arabicnumber_last": 3155
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3123,
+      "arabicnumber": 3123,
+      "text": "Ebu Hureyre r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Allah Teala, kendisinin yolunda cihad'a çıkarken maksadı sadece Allah yolunda cihad ve Allah'ın kelimelerini tasdik etmek olan kimseleri cennete sokacağını veya elde ettikleri mükafat ya da ganimetle sağ salim evlerine geri döndüreceğini vaad etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 57,
+        "hadith": 32
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1752,
-			"arabicnumber": "749.05",
-			"text": "{….} Bana, Ebû Kâmil rivayet etti, dedi ki: Bize Hammâd rivayet etti. (Dediki): Bize, Eyyûb ile Büdeyl ve Imrânü'bnü Hudeyr, Abdullah b. Şakîk'dan, o da İbni Ömer'den naklen rivayet ettiler. H. Bize Muhammed b. Ubeyd EI-Guberî dahî rivayet etti. (Dediki): Bize, Hammâd rivayet etti. (Dediki): Bize Eyyûb ile Zübeyrü'bnü Hırrît, Abdullah b. Şakîk'den, o da İbni Ömer'den naklen rivayet ettiler. İbni Ömer: «Bir adam, Peygamber (Sallallahu Aleyhi ve Sellemj'e sordu. .» demiş. Mezkûr râvîler yukarki hadîsin mislini rivayet etmişlerdir. Yalnız bunların ikisinin hadîsinde dahî «hâdiseden bir sene sonra Nebi (Sallallahu Aleyhi ve Sellem)'e bir adam suâl sordu...» cümlesi ile ondan sonrası yokdur",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 181
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1752,
+      "arabicnumber": "749.05",
+      "text": "{….} Bana, Ebû Kâmil rivayet etti, dedi ki: Bize Hammâd rivayet etti. (Dediki): Bize, Eyyûb ile Büdeyl ve Imrânü'bnü Hudeyr, Abdullah b. Şakîk'dan, o da İbni Ömer'den naklen rivayet ettiler. H. Bize Muhammed b. Ubeyd EI-Guberî dahî rivayet etti. (Dediki): Bize, Hammâd rivayet etti. (Dediki): Bize Eyyûb ile Zübeyrü'bnü Hırrît, Abdullah b. Şakîk'den, o da İbni Ömer'den naklen rivayet ettiler. İbni Ömer: «Bir adam, Peygamber (Sallallahu Aleyhi ve Sellemj'e sordu. .» demiş. Mezkûr râvîler yukarki hadîsin mislini rivayet etmişlerdir. Yalnız bunların ikisinin hadîsinde dahî «hâdiseden bir sene sonra Nebi (Sallallahu Aleyhi ve Sellem)'e bir adam suâl sordu...» cümlesi ile ondan sonrası yokdur",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 181
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"26": "`Umrah (Minor pilgrimage)"
-		},
-		"section_detail": {
-			"26": {
-				"hadithnumber_first": 1773,
-				"hadithnumber_last": 1805,
-				"arabicnumber_first": 1773,
-				"arabicnumber_last": 1805
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1803,
-			"arabicnumber": 1803,
-			"text": "Ebu İshak şöyle dedi: Bera r.a.'in şöyle dediğini işittim: Bu ayet biz Ensar hakkında indirildi. Ensar hac yapıp da döndüğünde evlerinin kapısından girmezler, arkalarından girerlerdi. Ensar'dan bir adam hac'dan döndükten sonra eve kapısından girdi. Sanki bu fiili sebebiyle insanlar tarafından kınandı. Bunun üzerine şu ayetler indirildi: \"İyi davranış, asla evlere arkalarından gelip girmeniz değildir. Lakin iyi davranış, korunan (ve ölçülü giden) kimsenin davranışıdır. Evlere kapılarından girin, Allah'tan korkun, umulur ki kurtuluşa erersiniz\".[Bakara]",
-			"grades": [],
-			"reference": {
-				"book": 26,
-				"hadith": 28
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "26": "Umre"
+    },
+    "section_detail": {
+      "26": {
+        "hadithnumber_first": 1773,
+        "hadithnumber_last": 1805,
+        "arabicnumber_first": 1773,
+        "arabicnumber_last": 1805
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1803,
+      "arabicnumber": 1803,
+      "text": "Ebu İshak şöyle dedi: Bera r.a.'in şöyle dediğini işittim: Bu ayet biz Ensar hakkında indirildi. Ensar hac yapıp da döndüğünde evlerinin kapısından girmezler, arkalarından girerlerdi. Ensar'dan bir adam hac'dan döndükten sonra eve kapısından girdi. Sanki bu fiili sebebiyle insanlar tarafından kınandı. Bunun üzerine şu ayetler indirildi: \"İyi davranış, asla evlere arkalarından gelip girmeniz değildir. Lakin iyi davranış, korunan (ve ölçülü giden) kimsenin davranışıdır. Evlere kapılarından girin, Allah'tan korkun, umulur ki kurtuluşa erersiniz\".[Bakara]",
+      "grades": [],
+      "reference": {
+        "book": 26,
+        "hadith": 28
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1303,
-			"arabicnumber": 1303,
-			"text": "Kays bin Sa'd (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) hayatta iken ne oldu ise ben muhakkak hepsini gördüm. Yalnız bir şey görmedim. (O da şudur:) Fıtır (bayramı) günü O'na taklis yapılırdı. Taklis: Def çalarak nağmeli sözler söylemektir. Not; Kays'ın bu hadisinin senedinin sahih ve ricaIinin sika oldukları Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 501
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1303,
+      "arabicnumber": 1303,
+      "text": "Kays bin Sa'd (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) hayatta iken ne oldu ise ben muhakkak hepsini gördüm. Yalnız bir şey görmedim. (O da şudur:) Fıtır (bayramı) günü O'na taklis yapılırdı. Taklis: Def çalarak nağmeli sözler söylemektir. Not; Kays'ın bu hadisinin senedinin sahih ve ricaIinin sika oldukları Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 501
+      }
+    }
+  ]
 }

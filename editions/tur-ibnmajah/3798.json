@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3798,
-			"arabicnumber": 3798,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim bir günde yüz defa \"Lâ ilahe illâllahu, vahdehu lâ şerike lehu, Iehu'l-mulku ve lehu'I-hamdu ve huve ala kulli şey'in kadir, derse bu zikir o kimse için on köleyi azâdlamak sevabına denktir ve ona yüz hasene yazılır, yüz günah da ondan silinir. Bu zikir o kimse için akşama kadar şeytan'ın şerrinden güvence olur. Hiç kimse de onun ettiği bu zikirden daha faziletli bir zikir getiremez. Ancak bu zikri ondan fazla söyleyen kimse daha fazla fazilet kazanır.» Zikrin meali: Allah'tan başka ilâh yoktur, O tektir ortağı yoktur, mülk (hâkimiyet) O'nundur ve hamd O'nundur, O, herşeye kadirdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 142
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3798,
+      "arabicnumber": 3798,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim bir günde yüz defa \"Lâ ilahe illâllahu, vahdehu lâ şerike lehu, Iehu'l-mulku ve lehu'I-hamdu ve huve ala kulli şey'in kadir, derse bu zikir o kimse için on köleyi azâdlamak sevabına denktir ve ona yüz hasene yazılır, yüz günah da ondan silinir. Bu zikir o kimse için akşama kadar şeytan'ın şerrinden güvence olur. Hiç kimse de onun ettiği bu zikirden daha faziletli bir zikir getiremez. Ancak bu zikri ondan fazla söyleyen kimse daha fazla fazilet kazanır.» Zikrin meali: Allah'tan başka ilâh yoktur, O tektir ortağı yoktur, mülk (hâkimiyet) O'nundur ve hamd O'nundur, O, herşeye kadirdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 142
+      }
+    }
+  ]
 }

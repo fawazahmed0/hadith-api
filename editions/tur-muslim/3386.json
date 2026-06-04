@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3386,
-			"arabicnumber": "1397.03",
-			"text": "Bize Hârûn b. Saîd el-Eylî rivayet etti. (Dediki): Bize İbni Vehb rivayet etti. (Dediki): Bana Abdülhamîd b. Ca'fer rivayet etti. Ona da İmrân b. Ebî Enes, ona da Selmân-ı Egarr rivayet etmiş, Selmân da Ebû Hureyre'yi haber verirken dinlemiş ki, Resulullah (Sallallahu Aleyhi ve Sellem) : «Sefer ancak üç mescid'e yapılır: Mescicf-i Kâ'be'ye, benim mescidime ve Mescid-i Hâyf'a.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 590
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3386,
+      "arabicnumber": "1397.03",
+      "text": "Bize Hârûn b. Saîd el-Eylî rivayet etti. (Dediki): Bize İbni Vehb rivayet etti. (Dediki): Bana Abdülhamîd b. Ca'fer rivayet etti. Ona da İmrân b. Ebî Enes, ona da Selmân-ı Egarr rivayet etmiş, Selmân da Ebû Hureyre'yi haber verirken dinlemiş ki, Resulullah (Sallallahu Aleyhi ve Sellem) : «Sefer ancak üç mescid'e yapılır: Mescicf-i Kâ'be'ye, benim mescidime ve Mescid-i Hâyf'a.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 590
+      }
+    }
+  ]
 }

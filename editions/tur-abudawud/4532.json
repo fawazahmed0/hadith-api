@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"41": "Types of Blood-Wit (Kitab Al-Diyat)"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 4494,
-				"hadithnumber_last": 4595,
-				"arabicnumber_first": 4494,
-				"arabicnumber_last": 4595
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4532,
-			"arabicnumber": 4532,
-			"text": "Ebu Hureyre (r.a) den; şöyle de(diği rivayet edil) miştir: Sa'd b. Ubâde (r.a): \"Ya Rasûlellah! Hanımı yanında bir erkek bulan kişi, onu öldürebilir mi?\" dedi. Rasulullah (s.a.v): \"Hayır\" buyurdu. Sa'd : \"Sana hak ile ikram eden Allah'a yemin ederim ki, evet dedi. Rasulullah (s.a.v) şöyle buyurdu: \"Şu seyyidinizin (reisinizin) dediğine kulak veriniz\" Abdul-Vehhab; \"Sa'd'ın dediğine\" dedi. buyurdu. Diğer tahric edenler: Buhari Salat, tefsir sure, talak; Müslim, Hân; İbn Mace, hudûd; Nesâî, talak; Dârimi, nikâh; Ahme b. Hanbel, V:",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1498)"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 39
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "41": "Diyetler Bahsi"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 4494,
+        "hadithnumber_last": 4595,
+        "arabicnumber_first": 4494,
+        "arabicnumber_last": 4595
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4532,
+      "arabicnumber": 4532,
+      "text": "Ebu Hureyre (r.a) den; şöyle de(diği rivayet edil) miştir: Sa'd b. Ubâde (r.a): \"Ya Rasûlellah! Hanımı yanında bir erkek bulan kişi, onu öldürebilir mi?\" dedi. Rasulullah (s.a.v): \"Hayır\" buyurdu. Sa'd : \"Sana hak ile ikram eden Allah'a yemin ederim ki, evet dedi. Rasulullah (s.a.v) şöyle buyurdu: \"Şu seyyidinizin (reisinizin) dediğine kulak veriniz\" Abdul-Vehhab; \"Sa'd'ın dediğine\" dedi. buyurdu. Diğer tahric edenler: Buhari Salat, tefsir sure, talak; Müslim, Hân; İbn Mace, hudûd; Nesâî, talak; Dârimi, nikâh; Ahme b. Hanbel, V:",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1498)"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 39
+      }
+    }
+  ]
 }

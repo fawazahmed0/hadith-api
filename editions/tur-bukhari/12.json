@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"2": "Belief"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 8,
-				"hadithnumber_last": 58,
-				"arabicnumber_first": 8,
-				"arabicnumber_last": 58
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 12,
-			"arabicnumber": 12,
-			"text": "Abdullah b. Amr'dan radiyallahu anh'dan rivayet edildiğine göre bir adam Nebi (sallallahu aleyhi ve sellem)'e : \"İslâm'ın hangi ameli daha faziletlidir?\" diye sordu.Nebi sallallahu aleyhi ve sellem şöyle cevap verdi: \"Yemek yedirmen, tanıdığın ve tanımadığın herkese selâm vermendir. Tekrarı:",
-			"grades": [],
-			"reference": {
-				"book": 2,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "2": "İman"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 8,
+        "hadithnumber_last": 58,
+        "arabicnumber_first": 8,
+        "arabicnumber_last": 58
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 12,
+      "arabicnumber": 12,
+      "text": "Abdullah b. Amr'dan radiyallahu anh'dan rivayet edildiğine göre bir adam Nebi (sallallahu aleyhi ve sellem)'e : \"İslâm'ın hangi ameli daha faziletlidir?\" diye sordu.Nebi sallallahu aleyhi ve sellem şöyle cevap verdi: \"Yemek yedirmen, tanıdığın ve tanımadığın herkese selâm vermendir. Tekrarı:",
+      "grades": [],
+      "reference": {
+        "book": 2,
+        "hadith": 5
+      }
+    }
+  ]
 }

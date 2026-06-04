@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6130,
-			"arabicnumber": "2365.01",
-			"text": "Bana Harmele b. Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki); Bana Yûnus İbni Şihab'dan nâklen haber verdi. Ona da Ebû Seleme b. Abdirrahman haber vermişki: Ebû Hureyre şunu söylemiş: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim: «Meryem'in oğluna insanalrın en yakını benim. Nebiler baba bir kardeşlerdir. Benimle onun arasında Nebi yoktur.»",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 188
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6130,
+      "arabicnumber": "2365.01",
+      "text": "Bana Harmele b. Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki); Bana Yûnus İbni Şihab'dan nâklen haber verdi. Ona da Ebû Seleme b. Abdirrahman haber vermişki: Ebû Hureyre şunu söylemiş: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim: «Meryem'in oğluna insanalrın en yakını benim. Nebiler baba bir kardeşlerdir. Benimle onun arasında Nebi yoktur.»",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 188
+      }
+    }
+  ]
 }

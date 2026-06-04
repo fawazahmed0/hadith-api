@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4792,
-			"arabicnumber": 4792,
-			"text": "Ebu Kılabe, Enes İbn Malik'ten, onun şöyle söylediğini rivayet etmiştir: \"Hicab ayetini en iyi ben bilirim. Hz. Zeyneb süslenip Rasulullah'a sallalla.hu aleyhi ve sellem getirildiği vakit, Hz. Nebi'le birlikte evde bulunuyordu. Allah Resulü [onunla evlenirken ziyafet olarak] yemek yaptırıp insanları davet etmişti. İnsanlar, konuşmak için oturup kaldılar. Allah Resulü Sallallahu Aleyhi ve Sellem dışarı Çıkıyor, sonra tekrar dönüyordu. Çünkü insanlar oturmuş konuşuyorlardı. Bunun üzerine Allah Teala 'Ey iman edenler! Nebiin evlerine girmeyin! .. ' ayetini indirdi",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 314
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4792,
+      "arabicnumber": 4792,
+      "text": "Ebu Kılabe, Enes İbn Malik'ten, onun şöyle söylediğini rivayet etmiştir: \"Hicab ayetini en iyi ben bilirim. Hz. Zeyneb süslenip Rasulullah'a sallalla.hu aleyhi ve sellem getirildiği vakit, Hz. Nebi'le birlikte evde bulunuyordu. Allah Resulü [onunla evlenirken ziyafet olarak] yemek yaptırıp insanları davet etmişti. İnsanlar, konuşmak için oturup kaldılar. Allah Resulü Sallallahu Aleyhi ve Sellem dışarı Çıkıyor, sonra tekrar dönüyordu. Çünkü insanlar oturmuş konuşuyorlardı. Bunun üzerine Allah Teala 'Ey iman edenler! Nebiin evlerine girmeyin! .. ' ayetini indirdi",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 314
+      }
+    }
+  ]
 }

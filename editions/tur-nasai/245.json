@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 245,
-			"arabicnumber": 245,
-			"text": "Ebû Seleme (r.a)’den rivâyete göre, şöyle demiştir: “Bir gün Aişe (r.anha)’nın yanına girmiştim ve Rasûlullah (s.a.v)’in cünüplükten dolayı nasıl yıkandığını sormuştum. O da şöyle dedi: “Rasûlullah (s.a.v)’e bir kap su getirilirdi; önce ellerine üç defa o kaptan dökerek yıkardı, sonra sağ eli ile sol eline su döker bacakları arasını temizlerdi, sonra ellerini tekrar yıkar ağzına ve burnuna su verirdi, sonra başına üç defa su döker, sonra da vücudunun diğer bölümlerini yıkardı.” (Buhârî, Gusül: 1; Ebû Davud, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 246
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 245,
+      "arabicnumber": 245,
+      "text": "Ebû Seleme (r.a)’den rivâyete göre, şöyle demiştir: “Bir gün Aişe (r.anha)’nın yanına girmiştim ve Rasûlullah (s.a.v)’in cünüplükten dolayı nasıl yıkandığını sormuştum. O da şöyle dedi: “Rasûlullah (s.a.v)’e bir kap su getirilirdi; önce ellerine üç defa o kaptan dökerek yıkardı, sonra sağ eli ile sol eline su döker bacakları arasını temizlerdi, sonra ellerini tekrar yıkar ağzına ve burnuna su verirdi, sonra başına üç defa su döker, sonra da vücudunun diğer bölümlerini yıkardı.” (Buhârî, Gusül: 1; Ebû Davud, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 246
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3870,
-			"arabicnumber": "1534.08",
-			"text": "{…} Bana bu hadîsi Züheyr b. Harb da rivayet etti. (Dediki): Bize Abdurrahmân, Süfyân'dan rivayet etti. H. Bize İbni Müsennâ dahi rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. Her iki râvi Abdullah b. Dinar'dan bu isnâdla rivayette bulunmuşlardır. Şu'be hadîsinde şunu ziyâde etmiştir: «İbni Ömer'e: Onun olgunlaşması nedir? diye soruldu. İbni Ömer: Âfeti gider; dedi.» Bu Hadislerin devamı başka bir sayfada dilerseniz buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 69
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3870,
+      "arabicnumber": "1534.08",
+      "text": "{…} Bana bu hadîsi Züheyr b. Harb da rivayet etti. (Dediki): Bize Abdurrahmân, Süfyân'dan rivayet etti. H. Bize İbni Müsennâ dahi rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. Her iki râvi Abdullah b. Dinar'dan bu isnâdla rivayette bulunmuşlardır. Şu'be hadîsinde şunu ziyâde etmiştir: «İbni Ömer'e: Onun olgunlaşması nedir? diye soruldu. İbni Ömer: Âfeti gider; dedi.» Bu Hadislerin devamı başka bir sayfada dilerseniz buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 69
+      }
+    }
+  ]
 }

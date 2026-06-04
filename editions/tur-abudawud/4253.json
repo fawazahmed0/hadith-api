@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"37": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4240,
-				"hadithnumber_last": 4278,
-				"arabicnumber_first": 4240,
-				"arabicnumber_last": 4278
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4253,
-			"arabicnumber": 4253,
-			"text": "Ebû Malîk - Yani el-Eş'arî- (r.a)'den rivayet edildiğine göre Rasûlullah (s.a.v.) şöyle buyurmuştur. Allah (c.c) sizi (şu) üç şeyden himaye etmiştir. 1- Nebiinizin size beddua edip de, sizin toptan helâk olmanızdan, 2- Bâtıl üzere olanların hak üzere olanlara galabe çalmasından, 3- Dalâlet (sapıklık) üzere birleşmenizden",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 14
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "37": "Fiten ve Melahim Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4240,
+        "hadithnumber_last": 4278,
+        "arabicnumber_first": 4240,
+        "arabicnumber_last": 4278
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4253,
+      "arabicnumber": 4253,
+      "text": "Ebû Malîk - Yani el-Eş'arî- (r.a)'den rivayet edildiğine göre Rasûlullah (s.a.v.) şöyle buyurmuştur. Allah (c.c) sizi (şu) üç şeyden himaye etmiştir. 1- Nebiinizin size beddua edip de, sizin toptan helâk olmanızdan, 2- Bâtıl üzere olanların hak üzere olanlara galabe çalmasından, 3- Dalâlet (sapıklık) üzere birleşmenizden",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 14
+      }
+    }
+  ]
 }

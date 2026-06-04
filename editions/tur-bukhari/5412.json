@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"70": "Food, Meals"
-		},
-		"section_detail": {
-			"70": {
-				"hadithnumber_first": 5373,
-				"hadithnumber_last": 5466,
-				"arabicnumber_first": 5373,
-				"arabicnumber_last": 5466
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5412,
-			"arabicnumber": 5412,
-			"text": "Sa'd'den, dedi ki: \"Ben kendimi Nebi Sallallahu Aleyhi ve Sellem ile birlikte yedinin yedincisi olarak görmüşümdür. Selem denilen dikenli bir çöl ağacı yapraklarından başka yiyecek bir şeyimiz yoktu. Öyle ki birimiz tıpkı bir koyun gibi def-i hacette bulunurdu. Daha sonra Esed oğulları kalkmış bana İslam'a dair bilgi öğretiyorlar. Eğer (onlara kaldıysam) zarara uğramış, amellerim boşa çıkmış demektir",
-			"grades": [],
-			"reference": {
-				"book": 70,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "70": "Yiyecek Şeyler"
+    },
+    "section_detail": {
+      "70": {
+        "hadithnumber_first": 5373,
+        "hadithnumber_last": 5466,
+        "arabicnumber_first": 5373,
+        "arabicnumber_last": 5466
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5412,
+      "arabicnumber": 5412,
+      "text": "Sa'd'den, dedi ki: \"Ben kendimi Nebi Sallallahu Aleyhi ve Sellem ile birlikte yedinin yedincisi olarak görmüşümdür. Selem denilen dikenli bir çöl ağacı yapraklarından başka yiyecek bir şeyimiz yoktu. Öyle ki birimiz tıpkı bir koyun gibi def-i hacette bulunurdu. Daha sonra Esed oğulları kalkmış bana İslam'a dair bilgi öğretiyorlar. Eğer (onlara kaldıysam) zarara uğramış, amellerim boşa çıkmış demektir",
+      "grades": [],
+      "reference": {
+        "book": 70,
+        "hadith": 40
+      }
+    }
+  ]
 }

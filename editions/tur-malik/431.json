@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"10": "The Two 'Ids"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 428,
-				"hadithnumber_last": 440,
-				"arabicnumber_first": 428,
-				"arabicnumber_last": 440
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 431,
-			"arabicnumber": 431,
-			"text": "İmam Malik'ten: Duyduğuma göre Ebu Bekir r.a.'le Hz. Ömer de Nebi s.a.v. gibi bayram namazlarını hutbeden önce kılarlarmış. İbn Abbas r.a.'dan merfu' olarak gelmiştir. Buharî, îdeyn; Müslim, Salatu'l-îdeyn",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "10": "Bayramlar"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 428,
+        "hadithnumber_last": 440,
+        "arabicnumber_first": 428,
+        "arabicnumber_last": 440
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 431,
+      "arabicnumber": 431,
+      "text": "İmam Malik'ten: Duyduğuma göre Ebu Bekir r.a.'le Hz. Ömer de Nebi s.a.v. gibi bayram namazlarını hutbeden önce kılarlarmış. İbn Abbas r.a.'dan merfu' olarak gelmiştir. Buharî, îdeyn; Müslim, Salatu'l-îdeyn",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 4
+      }
+    }
+  ]
 }

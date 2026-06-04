@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1656,
-			"arabicnumber": 1656,
-			"text": "Harise İbn Vehb el-Huzaî şöyle demiştir: \"En kalabalık ve en güvenli olduğumuz bir durumda Resulullah bize Mina'­da namazı iki rekat olarak kıldırmıştır",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 137
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1656,
+      "arabicnumber": 1656,
+      "text": "Harise İbn Vehb el-Huzaî şöyle demiştir: \"En kalabalık ve en güvenli olduğumuz bir durumda Resulullah bize Mina'­da namazı iki rekat olarak kıldırmıştır",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 137
+      }
+    }
+  ]
 }

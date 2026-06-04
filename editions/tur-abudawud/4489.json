@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4489,
-			"arabicnumber": 4489,
-			"text": "Abdurrahman b. Ezher (r.a) şöyle dedi: Mekke fethinin ertesi günü Rasulullah (s.a.v.)'i insanlar arasında dolaşıp Halid b. Velid\"in evini sorarken gördüm. O esnada ben bir delikanlı idim. Rasulullah (s.a.v.)'e içki içmiş olan birisi getirildi. Efendimiz sahabelere (ona dayak atmalarını) emretti. Onlar da ellerinde olan şeylerle vurdular; kimisi kamçı ile kimisi sopa ile kimisi de ayakkabısı ile vurdu. Rasûlullah (s.a.v.) de adama toprak serpti. Ebu Bekir halife olunca, kendisine içki içen birisi getirildi. Ebu Bekir (r.a) sahabelere, Rasulullah'ın içki içene vurduğu haddi sordu. Onu kırk değnek diye zabt (muhafaza) ettiler. Ebu Bekir de kırk değnek vurdu. Ömer halife olunca Halid b. Velid kendisine, insanların içki içmeye düşkünlük gösterdiklerini, haddi ve cezayı küçümsediklerini yazıp; \"(Sahabeler) Senin yanında - ilk muhacirler Hz. Ömer'in yanında idiler - onlara sor\" dedi. Ömer de onlarla istişare etti. Seksen değnek vurması için icma' eltiler. Ali (r.a) \"İnsan içliği zaman iftira eder. Onu iftira (kazf) haddi gibi takdir etmeyi uygun görürüm.\" dedi. Ebu Davıul şöyle der: \"Ukayl b. Halici bu hadiste Zührî ile Ibm'i 'l-Eiher arasına Abdullah b, Abdurrahman b. Ezhert sokmuştur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 139
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4489,
+      "arabicnumber": 4489,
+      "text": "Abdurrahman b. Ezher (r.a) şöyle dedi: Mekke fethinin ertesi günü Rasulullah (s.a.v.)'i insanlar arasında dolaşıp Halid b. Velid\"in evini sorarken gördüm. O esnada ben bir delikanlı idim. Rasulullah (s.a.v.)'e içki içmiş olan birisi getirildi. Efendimiz sahabelere (ona dayak atmalarını) emretti. Onlar da ellerinde olan şeylerle vurdular; kimisi kamçı ile kimisi sopa ile kimisi de ayakkabısı ile vurdu. Rasûlullah (s.a.v.) de adama toprak serpti. Ebu Bekir halife olunca, kendisine içki içen birisi getirildi. Ebu Bekir (r.a) sahabelere, Rasulullah'ın içki içene vurduğu haddi sordu. Onu kırk değnek diye zabt (muhafaza) ettiler. Ebu Bekir de kırk değnek vurdu. Ömer halife olunca Halid b. Velid kendisine, insanların içki içmeye düşkünlük gösterdiklerini, haddi ve cezayı küçümsediklerini yazıp; \"(Sahabeler) Senin yanında - ilk muhacirler Hz. Ömer'in yanında idiler - onlara sor\" dedi. Ömer de onlarla istişare etti. Seksen değnek vurması için icma' eltiler. Ali (r.a) \"İnsan içliği zaman iftira eder. Onu iftira (kazf) haddi gibi takdir etmeyi uygun görürüm.\" dedi. Ebu Davıul şöyle der: \"Ukayl b. Halici bu hadiste Zührî ile Ibm'i 'l-Eiher arasına Abdullah b, Abdurrahman b. Ezhert sokmuştur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 139
+      }
+    }
+  ]
 }

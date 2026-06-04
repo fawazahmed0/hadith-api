@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4229,
-			"arabicnumber": 4229,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyie buyurdu, demiştir: İnsanlar (ölürken taşıdıkları) niyetleri üzerine diriltilirler. Not: Zevâid'de şöyle denilmiştir : Bunun senedinde Leys bin Selim bulunur. Bu râvi zayıftır. Ama Müslim'in rivayet ettiği Câbir (R.A.)'ın hadîsi bu hadis için bir şâhiddir. Yâni te'yid eder. Mahir: Yani senedde zayıf bir zat olabilir ama hadis'in metni yani kısacası hadis gerçektir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 130
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4229,
+      "arabicnumber": 4229,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyie buyurdu, demiştir: İnsanlar (ölürken taşıdıkları) niyetleri üzerine diriltilirler. Not: Zevâid'de şöyle denilmiştir : Bunun senedinde Leys bin Selim bulunur. Bu râvi zayıftır. Ama Müslim'in rivayet ettiği Câbir (R.A.)'ın hadîsi bu hadis için bir şâhiddir. Yâni te'yid eder. Mahir: Yani senedde zayıf bir zat olabilir ama hadis'in metni yani kısacası hadis gerçektir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 130
+      }
+    }
+  ]
 }

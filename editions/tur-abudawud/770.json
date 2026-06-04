@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 770,
-			"arabicnumber": 770,
-			"text": "Rifa'a b. Rafi ez-Zurkî (r.a.)'den; demiştir ki: Bir gün Nebi'in arkasında namaz kılıyorduk. Başını rüku'dan kaldırınca, \"Semiallahü limen hamideh = Allah hamd edeni işitti\" dedi. Nebi (Sallallahu aleyhi ve Sellem)'in arkasında bulunan bir adamda: \"Allahumme Rabbena ve lekel hamd hamden, kesiren, tayyiben, mubareken fih... = Çok çok hamdler, temiz ve mübarek hamdler sana mahsustur, ey hepimizin Rabbi olan Allah'ım!\" dedi. Nebi (Sallallahu aleyhi ve Sellem) namaz'ı bitirince; \"Biraz önceki duayı okuyan kimdi?\" diye sordu. Adam; Bendim, Ey Allah'ın Resulü, diye cevab verdi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem); \"Otuz küsur melek gördüm ki, bunu hangisi önce yazacak diye yarışıyorlardı\" buyurdu. Diğer tahric: Buharî, ezan; Müslim mesacıd; Nesaî, tatbik, iftıtah; Tirmizî, salat; Muvatta, Kur'an ; Ahmed b. Hanbel, III, 106, 158, 188, 191, 252, 269, IV",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (799)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 380
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 770,
+      "arabicnumber": 770,
+      "text": "Rifa'a b. Rafi ez-Zurkî (r.a.)'den; demiştir ki: Bir gün Nebi'in arkasında namaz kılıyorduk. Başını rüku'dan kaldırınca, \"Semiallahü limen hamideh = Allah hamd edeni işitti\" dedi. Nebi (Sallallahu aleyhi ve Sellem)'in arkasında bulunan bir adamda: \"Allahumme Rabbena ve lekel hamd hamden, kesiren, tayyiben, mubareken fih... = Çok çok hamdler, temiz ve mübarek hamdler sana mahsustur, ey hepimizin Rabbi olan Allah'ım!\" dedi. Nebi (Sallallahu aleyhi ve Sellem) namaz'ı bitirince; \"Biraz önceki duayı okuyan kimdi?\" diye sordu. Adam; Bendim, Ey Allah'ın Resulü, diye cevab verdi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem); \"Otuz küsur melek gördüm ki, bunu hangisi önce yazacak diye yarışıyorlardı\" buyurdu. Diğer tahric: Buharî, ezan; Müslim mesacıd; Nesaî, tatbik, iftıtah; Tirmizî, salat; Muvatta, Kur'an ; Ahmed b. Hanbel, III, 106, 158, 188, 191, 252, 269, IV",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (799)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 380
+      }
+    }
+  ]
 }

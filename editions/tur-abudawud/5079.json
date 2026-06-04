@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5079,
-			"arabicnumber": 5079,
-			"text": "Müslim b. el-Haris et-Temimi'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) kendisine gizlice şöyle demiştir: Akşam namazını kıldığında yedi defa \"Allahümme ecirnî minnennâri = (Ey Allahim beni cehennemden kurtar)\" diye dua et. Eğer bu duayı okuduktan sonra o gecede ölecek olursan senin için (cehennemden) kurtuluş (beratı) yazılır. Sabah namazını kılınca da aynı duayı oku. Çünkü eğer sen (sabah namazından sonra aynı duayı okuduktan sonra) ölecek olursan o gün (akşama kadar) senin için kurtuluş (beratı) yazılır. (Muhammed ibn Şuayb dedi ki:) Ebu Said'in bana bildirdiğine göre el-Haris şöyle demiştir: Rasûlullah (s.a.v.) bu duayı bize gizlice söyledi. Biz de bunu sadece (çevremizde bulunan) kardeşlerimize söyleriz",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 307
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5079,
+      "arabicnumber": 5079,
+      "text": "Müslim b. el-Haris et-Temimi'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) kendisine gizlice şöyle demiştir: Akşam namazını kıldığında yedi defa \"Allahümme ecirnî minnennâri = (Ey Allahim beni cehennemden kurtar)\" diye dua et. Eğer bu duayı okuduktan sonra o gecede ölecek olursan senin için (cehennemden) kurtuluş (beratı) yazılır. Sabah namazını kılınca da aynı duayı oku. Çünkü eğer sen (sabah namazından sonra aynı duayı okuduktan sonra) ölecek olursan o gün (akşama kadar) senin için kurtuluş (beratı) yazılır. (Muhammed ibn Şuayb dedi ki:) Ebu Said'in bana bildirdiğine göre el-Haris şöyle demiştir: Rasûlullah (s.a.v.) bu duayı bize gizlice söyledi. Biz de bunu sadece (çevremizde bulunan) kardeşlerimize söyleriz",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 307
+      }
+    }
+  ]
 }

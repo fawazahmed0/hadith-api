@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"8": "Prayers (Salat)"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 349,
-				"hadithnumber_last": 520,
-				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 413,
-			"arabicnumber": 413,
-			"text": "Enes İbn Mâlik Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmîştir: \"Müslüman namaz kılarken Rabbine münacatta bulunur. O halde önünüze ve sağ tarafınıza tükürmeyin. Eğer mecbur kalırsanız solunuza veya ayağınızı bastığınız yere tükürsün",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "8": "Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 349,
+        "hadithnumber_last": 520,
+        "arabicnumber_first": 349,
+        "arabicnumber_last": 520
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 413,
+      "arabicnumber": 413,
+      "text": "Enes İbn Mâlik Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmîştir: \"Müslüman namaz kılarken Rabbine münacatta bulunur. O halde önünüze ve sağ tarafınıza tükürmeyin. Eğer mecbur kalırsanız solunuza veya ayağınızı bastığınız yere tükürsün",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 63
+      }
+    }
+  ]
 }

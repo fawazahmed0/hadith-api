@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"77": "Dress"
-		},
-		"section_detail": {
-			"77": {
-				"hadithnumber_first": 5783,
-				"hadithnumber_last": 5969,
-				"arabicnumber_first": 5783,
-				"arabicnumber_last": 5969
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5902,
-			"arabicnumber": 5902,
-			"text": "Abdullah b. Ömer r.a.'dan rivayete göre Rasulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Bu gece rüyamda kendimi Ka'be'nin yanında gördüm. Senin esmer erkekler arasında görebileceğin en güzeli gibi esmer bir adam gördüm. Bu adamın, saçlarını taramış ve saçı bol adamlardan görebildiklerinin en güzelinden bol saçı vardı. Yeni taramış olduğu saçlarından henüz su damlıyordu. İki adama yahut iki adamın omuzlarına dayanarak Ka'be'yi tavaf ediyordu. Ben: Bu kim, diye sordum. BuMeryem oğlu el-Mesih'tir, denildi. Birde saçı oldukça kıvırcık, sağ gözü patlak bir üzüm tanesi gibi fırlamış, kör olan birisini de gördüm. Bu kim, diye sordum. Bana: Mesih Deccal'dir, diye cevap verildi",
-			"grades": [],
-			"reference": {
-				"book": 77,
-				"hadith": 119
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "77": "Giyilen Şeyler ve Hükümleri"
+    },
+    "section_detail": {
+      "77": {
+        "hadithnumber_first": 5783,
+        "hadithnumber_last": 5969,
+        "arabicnumber_first": 5783,
+        "arabicnumber_last": 5969
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5902,
+      "arabicnumber": 5902,
+      "text": "Abdullah b. Ömer r.a.'dan rivayete göre Rasulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Bu gece rüyamda kendimi Ka'be'nin yanında gördüm. Senin esmer erkekler arasında görebileceğin en güzeli gibi esmer bir adam gördüm. Bu adamın, saçlarını taramış ve saçı bol adamlardan görebildiklerinin en güzelinden bol saçı vardı. Yeni taramış olduğu saçlarından henüz su damlıyordu. İki adama yahut iki adamın omuzlarına dayanarak Ka'be'yi tavaf ediyordu. Ben: Bu kim, diye sordum. BuMeryem oğlu el-Mesih'tir, denildi. Birde saçı oldukça kıvırcık, sağ gözü patlak bir üzüm tanesi gibi fırlamış, kör olan birisini de gördüm. Bu kim, diye sordum. Bana: Mesih Deccal'dir, diye cevap verildi",
+      "grades": [],
+      "reference": {
+        "book": 77,
+        "hadith": 119
+      }
+    }
+  ]
 }

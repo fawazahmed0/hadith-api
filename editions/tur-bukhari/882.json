@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"11": "Friday Prayer"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 876,
-				"hadithnumber_last": 941,
-				"arabicnumber_first": 876,
-				"arabicnumber_last": 941
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 882,
-			"arabicnumber": 882,
-			"text": "Ebu Hureyre'den nakledilmiştir: \"Bir Cum'a günü Ömer hutbe okurken mescid'e birisi girdi. Ömer (Radiyallahu Anh): Sizler niçin Cum'a namazına böyle geç kalırsınız? deyince adam şöyle bir cevap verdi: 'Ben ezanı duyar duymaz abdest aldım ve hemen namaz'a geldim. (Bu cevap Ömer'in pek hoşuna gitmedi) ve: \"Siz Resulullah Sallallahu Aleyhi ve Sellem'in: İçinizden birisi Cum'a namazına gelecek olursa boy abdesti alsın, diye buyurduğunu hiç duymadınız mı?\" dedi",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "11": "Cuma"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 876,
+        "hadithnumber_last": 941,
+        "arabicnumber_first": 876,
+        "arabicnumber_last": 941
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 882,
+      "arabicnumber": 882,
+      "text": "Ebu Hureyre'den nakledilmiştir: \"Bir Cum'a günü Ömer hutbe okurken mescid'e birisi girdi. Ömer (Radiyallahu Anh): Sizler niçin Cum'a namazına böyle geç kalırsınız? deyince adam şöyle bir cevap verdi: 'Ben ezanı duyar duymaz abdest aldım ve hemen namaz'a geldim. (Bu cevap Ömer'in pek hoşuna gitmedi) ve: \"Siz Resulullah Sallallahu Aleyhi ve Sellem'in: İçinizden birisi Cum'a namazına gelecek olursa boy abdesti alsın, diye buyurduğunu hiç duymadınız mı?\" dedi",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 7
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2179,
-			"arabicnumber": "941.01",
-			"text": "Bize Yahya b. Yahya ile Ebû Bekir b. Ebî Şeybe ve Ebû Küreyb rivayet ettiler. Lâfız Yahya'nındır, Yahya (Bize haber verdi) tâbirini kullandı. Ötekiler: Bize Ebû Muâviye, Hişâm b. Urve'den, o da babasından, o da Âişe'den naklen rivayet etti, dediler. Âişe şunları söylemiş. «Resulullah (Sallallahu Aleyhi ve Sellem) Sehûliyye denilen pamuklu üç parça beyaz Yemen bezi içine kefenlendi. Bunların içinde gömlekle sarık yoktu. Hülle'ye gelince: Bunun Resulullah (Sallallahu Aleyhi ve Sellem)'e kefen yapmak için satın alınıp alınmadığında halk şüpheye düştüğünden hülle terk olundu. Ve Resulullah (Sallallahu Aleyhi ve Sellem) beyaz pamuklu üç sehûliyye bezi içine kefenlendi. Hülleyi Abdullah b. Ebi Bekir aldı. Ve: — Ben, bu hülleyi kendime kefen yapmak için muhafaza edeceğim; dedi. Sonradan; — Buna Allah Azze ve Celi, Nebi'i için razı olsaydı, ona kefen yapardı; diyerek hülleyi sattı; parasını da tesadduk etti",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2179,
+      "arabicnumber": "941.01",
+      "text": "Bize Yahya b. Yahya ile Ebû Bekir b. Ebî Şeybe ve Ebû Küreyb rivayet ettiler. Lâfız Yahya'nındır, Yahya (Bize haber verdi) tâbirini kullandı. Ötekiler: Bize Ebû Muâviye, Hişâm b. Urve'den, o da babasından, o da Âişe'den naklen rivayet etti, dediler. Âişe şunları söylemiş. «Resulullah (Sallallahu Aleyhi ve Sellem) Sehûliyye denilen pamuklu üç parça beyaz Yemen bezi içine kefenlendi. Bunların içinde gömlekle sarık yoktu. Hülle'ye gelince: Bunun Resulullah (Sallallahu Aleyhi ve Sellem)'e kefen yapmak için satın alınıp alınmadığında halk şüpheye düştüğünden hülle terk olundu. Ve Resulullah (Sallallahu Aleyhi ve Sellem) beyaz pamuklu üç sehûliyye bezi içine kefenlendi. Hülleyi Abdullah b. Ebi Bekir aldı. Ve: — Ben, bu hülleyi kendime kefen yapmak için muhafaza edeceğim; dedi. Sonradan; — Buna Allah Azze ve Celi, Nebi'i için razı olsaydı, ona kefen yapardı; diyerek hülleyi sattı; parasını da tesadduk etti",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 57
+      }
+    }
+  ]
 }

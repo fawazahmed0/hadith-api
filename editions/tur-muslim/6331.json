@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6331,
-			"arabicnumber": "2461.03",
-			"text": "{m-113} Bana Kaâsım b. Zekeriyya da rivâlyet etti. (Dediki): Bize Ubeydullalı (bu zât İbni Musa'dır) Şeyban'dan o da A'meş'den, o da Mâlik b. Hâris'den, o da Ebû'l-Ahvas'dan naklen rivayet etti. (Şöyle demiş): Ebû Musa'ya geldim de Abdullah ile Ehû Musa'yı buldum. H. Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Muhammed b. Ebi Ubeyde rivayet etti. (Dediki): Bize babam A'meş'den, o da Zeyd b. Vehb'den naklen rivayet etti. Zeyd şöyle demiş: Ebû Huzeyfe ve Ebû Musa ile birlikte oturuyordum. Ve râvi hadisi nakletmiştir. Ama Kutbe'nin hadisi daha tamam ve daha çoktur",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 161
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6331,
+      "arabicnumber": "2461.03",
+      "text": "{m-113} Bana Kaâsım b. Zekeriyya da rivâlyet etti. (Dediki): Bize Ubeydullalı (bu zât İbni Musa'dır) Şeyban'dan o da A'meş'den, o da Mâlik b. Hâris'den, o da Ebû'l-Ahvas'dan naklen rivayet etti. (Şöyle demiş): Ebû Musa'ya geldim de Abdullah ile Ehû Musa'yı buldum. H. Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Muhammed b. Ebi Ubeyde rivayet etti. (Dediki): Bize babam A'meş'den, o da Zeyd b. Vehb'den naklen rivayet etti. Zeyd şöyle demiş: Ebû Huzeyfe ve Ebû Musa ile birlikte oturuyordum. Ve râvi hadisi nakletmiştir. Ama Kutbe'nin hadisi daha tamam ve daha çoktur",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 161
+      }
+    }
+  ]
 }

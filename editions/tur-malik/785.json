@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 785,
-			"arabicnumber": 785,
-			"text": "Saib b. Cessame el-Leysî anlatıyor: Resulullah Sallallahu Aleyhi ve Sellem'e bir yaban eşeği hediye etmiştim. O sırada Ebva'da (veya Veddan'da) bulunuyordu. Resulullah Sallallahu Aleyhi ve Sellem hediyeyi kabul etmedi. Bunun üzerine üzüldüğümü görünce: «— Asla kabul etmezlik yapmazdım, fakat biz ihramdayız.» buyurdu.» Diğer tahric: Buharî, Cezau's-Sayd; Müslim, Hac",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 81
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 785,
+      "arabicnumber": 785,
+      "text": "Saib b. Cessame el-Leysî anlatıyor: Resulullah Sallallahu Aleyhi ve Sellem'e bir yaban eşeği hediye etmiştim. O sırada Ebva'da (veya Veddan'da) bulunuyordu. Resulullah Sallallahu Aleyhi ve Sellem hediyeyi kabul etmedi. Bunun üzerine üzüldüğümü görünce: «— Asla kabul etmezlik yapmazdım, fakat biz ihramdayız.» buyurdu.» Diğer tahric: Buharî, Cezau's-Sayd; Müslim, Hac",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 81
+      }
+    }
+  ]
 }

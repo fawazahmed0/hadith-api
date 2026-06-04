@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"15": "The Qur'an"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 470,
-				"hadithnumber_last": 519,
-				"arabicnumber_first": 470,
-				"arabicnumber_last": 519
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 480,
-			"arabicnumber": 480,
-			"text": "İmam Malik'den duyduğuma göre Abdullah b. Ömer, Bakara suresini öğrenmek için üzerinde tam sekiz sene durmuştur",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "15": "Kur'an-ı Kerîm"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 470,
+        "hadithnumber_last": 519,
+        "arabicnumber_first": 470,
+        "arabicnumber_last": 519
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 480,
+      "arabicnumber": 480,
+      "text": "İmam Malik'den duyduğuma göre Abdullah b. Ömer, Bakara suresini öğrenmek için üzerinde tam sekiz sene durmuştur",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 11
+      }
+    }
+  ]
 }

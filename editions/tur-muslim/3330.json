@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3330,
-			"arabicnumber": "1371.01",
-			"text": "Bize Ebû Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Hüseyn b. Aliy El-Cu'fî, Zâide'den, o da Süleyman'dan, o da Ebû Sâlih'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. «Medine Haremdir; binâenaleyh orada kim bir günah işler veya günâh işleyeni barındırırsa, Allah'ın, meleklerin ve bütün insanların laneti onun üzerinedir. Kıyamet gönünde onun farz veya nafile hiç bir ibâdeti kabul edilmeyecektir.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 534
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3330,
+      "arabicnumber": "1371.01",
+      "text": "Bize Ebû Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Hüseyn b. Aliy El-Cu'fî, Zâide'den, o da Süleyman'dan, o da Ebû Sâlih'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. «Medine Haremdir; binâenaleyh orada kim bir günah işler veya günâh işleyeni barındırırsa, Allah'ın, meleklerin ve bütün insanların laneti onun üzerinedir. Kıyamet gönünde onun farz veya nafile hiç bir ibâdeti kabul edilmeyecektir.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 534
+      }
+    }
+  ]
 }

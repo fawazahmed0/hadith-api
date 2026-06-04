@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"33": "The Book on Government"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 4701,
-				"hadithnumber_last": 4967,
-				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4944,
-			"arabicnumber": "1916.01",
-			"text": "Bize Hamid b. Ömer El-Bekrâvî rivayet etti. (Dediki): Bize Abdülvahid (Yani îbni Ziyâd) rivayet etti. (Dediki): Bize Âsim, Hafsa binti Sîrîn'den rivayet etti. Şöyle demiş: Bana Enes b. Malik: — Yahya b. Ebî Amra neden öldü diye sordu. — Taun'dan dedim. Bunun üzerine: Resûlullah (Sallallâhu Aleyhi ve Sellem): «Taun her müslüman için şehitliktir.» buyurdu dedi",
-			"grades": [],
-			"reference": {
-				"book": 33,
-				"hadith": 239
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "33": "Emirlik"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 4701,
+        "hadithnumber_last": 4967,
+        "arabicnumber_first": 1818.01,
+        "arabicnumber_last": 1928.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4944,
+      "arabicnumber": "1916.01",
+      "text": "Bize Hamid b. Ömer El-Bekrâvî rivayet etti. (Dediki): Bize Abdülvahid (Yani îbni Ziyâd) rivayet etti. (Dediki): Bize Âsim, Hafsa binti Sîrîn'den rivayet etti. Şöyle demiş: Bana Enes b. Malik: — Yahya b. Ebî Amra neden öldü diye sordu. — Taun'dan dedim. Bunun üzerine: Resûlullah (Sallallâhu Aleyhi ve Sellem): «Taun her müslüman için şehitliktir.» buyurdu dedi",
+      "grades": [],
+      "reference": {
+        "book": 33,
+        "hadith": 239
+      }
+    }
+  ]
 }

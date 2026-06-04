@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"36": "Tribulations"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 3927,
-				"hadithnumber_last": 4099,
-				"arabicnumber_first": 3927,
-				"arabicnumber_last": 4099
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4061,
-			"arabicnumber": 4061,
-			"text": "Nafi' (r.a.)'den rivayet edildiğine göre: Bir adam (bir gün) İbn-i Ömer (r.a.)'ın yanına gelerek: Falan adam size selam eder, diyerek birisinin selamını tebliğ etti. (Fakat) İbn-i Ömer (buna cevaben): O adamın dinden olmayan bir şey'i din'e soktuğu haberi bana ulaştı. eğer o adam hakikaten (bir bid'at) icad etti ise sen ben'den o'na selam götürme. Çünkü ben Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işittim: «Benim ümmetimde mesih (hayvan suretine çevirilme), yere batma ve taşlanma (azabı) olur. Bu (ceza) kaderi inkar edenler hakkındadır.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 136
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "36": "Fitneler Kitabı"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 3927,
+        "hadithnumber_last": 4099,
+        "arabicnumber_first": 3927,
+        "arabicnumber_last": 4099
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4061,
+      "arabicnumber": 4061,
+      "text": "Nafi' (r.a.)'den rivayet edildiğine göre: Bir adam (bir gün) İbn-i Ömer (r.a.)'ın yanına gelerek: Falan adam size selam eder, diyerek birisinin selamını tebliğ etti. (Fakat) İbn-i Ömer (buna cevaben): O adamın dinden olmayan bir şey'i din'e soktuğu haberi bana ulaştı. eğer o adam hakikaten (bir bid'at) icad etti ise sen ben'den o'na selam götürme. Çünkü ben Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işittim: «Benim ümmetimde mesih (hayvan suretine çevirilme), yere batma ve taşlanma (azabı) olur. Bu (ceza) kaderi inkar edenler hakkındadır.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 136
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1914,
-			"arabicnumber": "823.01",
-			"text": "Bize Ahmed b. Abdlllâh b. Yûnus rivayet etti. (Dediki): Bize Züheyr rivayet etti. (Dediki): Bize Ebû İshâk rivayet etti. Dediki: Esved b. Yezîd mescidde Kur'ân öğretirken, ona bir adamın suâl sorduğunu gördüm: — Şu âyetini nasıl okuyorsun? Dal mı, zel mi? dedi. Esved: — Dal ile okuyorum. (Çünkü) ben Abdullah b. Mes'ûd'dan işittim: Resulullah (Sallallahu Aleyhi ve Sellem)'i (muddekir) diye dal'la okurken İşittim; diyordu., cevâbını verdi",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 342
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1914,
+      "arabicnumber": "823.01",
+      "text": "Bize Ahmed b. Abdlllâh b. Yûnus rivayet etti. (Dediki): Bize Züheyr rivayet etti. (Dediki): Bize Ebû İshâk rivayet etti. Dediki: Esved b. Yezîd mescidde Kur'ân öğretirken, ona bir adamın suâl sorduğunu gördüm: — Şu âyetini nasıl okuyorsun? Dal mı, zel mi? dedi. Esved: — Dal ile okuyorum. (Çünkü) ben Abdullah b. Mes'ûd'dan işittim: Resulullah (Sallallahu Aleyhi ve Sellem)'i (muddekir) diye dal'la okurken İşittim; diyordu., cevâbını verdi",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 342
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3307,
-			"arabicnumber": "1356",
-			"text": "Bana Selemetü'bnü Şebîb rivayet etti. (Dediki): Bize îbni A'yen rivayet etti. (Dediki): Bize Ma'kıl, Ebû'z-Zübeyr'den, o da Câbir'den naklen rivayet eyledi. Câbir (Radiyallahu anh) şöyle demiş: «Nebi (Sallallahu Aleyhi ve Sellemj'i: — Hiç birinize Mekke'de silâh taşımak helâl değildir) buyururken işittim",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 511
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3307,
+      "arabicnumber": "1356",
+      "text": "Bana Selemetü'bnü Şebîb rivayet etti. (Dediki): Bize îbni A'yen rivayet etti. (Dediki): Bize Ma'kıl, Ebû'z-Zübeyr'den, o da Câbir'den naklen rivayet eyledi. Câbir (Radiyallahu anh) şöyle demiş: «Nebi (Sallallahu Aleyhi ve Sellemj'i: — Hiç birinize Mekke'de silâh taşımak helâl değildir) buyururken işittim",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 511
+      }
+    }
+  ]
 }

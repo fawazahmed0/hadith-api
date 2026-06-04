@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 126,
-			"arabicnumber": 126,
-			"text": "er-Rubeyyi’ binti Muavviz b. Afra şöyle demiştir; \"Rasuluilah (sallallahu aleyhi ve sellem) (zaman zaman) bize gelirdi.\" (Abdullah b, Muhammed der ki:) er-Rubeyyi' Rasulullah (sallallahu aleyhi ve sellem)'in ona; \"Bana abdest suyunu döker misin?\" dediğini bildirdi. Sonra da Rubeyyi Rasulullah (s.a.v.)'in nasıl abdest aldığını anlattı ve şöyle dedi: \"Ellerini ve yüzünü üçer defa yıkadı, ağzına ve burnuna birer kare su verdi. Üçer kere de elleriyle beraber kollarını yıkadı, (birincisinde) arkadan ön'e, ikincisinde önden arkaya olmak üzere başını iki kere mesh etti. Hem içi hem de dışı olmak üzere kulaklarını mesnetti. Ve (nihayet) ayaklarını üçer kere yıkadı.\" Ebu Davud dedi ki: Bu, Müsedded'in rivayet ettiği hadisin manasıdır, (lafızları değil). Diğer tahric. İbn Mace, tahare; Tirmizî, tahare",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 126
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 126,
+      "arabicnumber": 126,
+      "text": "er-Rubeyyi’ binti Muavviz b. Afra şöyle demiştir; \"Rasuluilah (sallallahu aleyhi ve sellem) (zaman zaman) bize gelirdi.\" (Abdullah b, Muhammed der ki:) er-Rubeyyi' Rasulullah (sallallahu aleyhi ve sellem)'in ona; \"Bana abdest suyunu döker misin?\" dediğini bildirdi. Sonra da Rubeyyi Rasulullah (s.a.v.)'in nasıl abdest aldığını anlattı ve şöyle dedi: \"Ellerini ve yüzünü üçer defa yıkadı, ağzına ve burnuna birer kare su verdi. Üçer kere de elleriyle beraber kollarını yıkadı, (birincisinde) arkadan ön'e, ikincisinde önden arkaya olmak üzere başını iki kere mesh etti. Hem içi hem de dışı olmak üzere kulaklarını mesnetti. Ve (nihayet) ayaklarını üçer kere yıkadı.\" Ebu Davud dedi ki: Bu, Müsedded'in rivayet ettiği hadisin manasıdır, (lafızları değil). Diğer tahric. İbn Mace, tahare; Tirmizî, tahare",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 126
+      }
+    }
+  ]
 }

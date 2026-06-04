@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"42": "Distribution of Water"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 2351,
-				"hadithnumber_last": 2383,
-				"arabicnumber_first": 2351,
-				"arabicnumber_last": 2383
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2370,
-			"arabicnumber": 2370,
-			"text": "İbn Abbas r.a.'ın naklettiğine göre es-Salb İbn Cesame r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Bütün koruluklar Allah'a ve Resulüne aittir.\" Buhari, \"Bize, Hz. Nebi'in, en-Naki' bölgesini, Hz. Ömer'in de, eş-Şeref ve Rebeze bölgesini koruluk haline getirdiği bilgisi ulaşmıştır\" demiştir. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 42,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "42": "Meyve Ağaçlarını Sulayıp Tımar Etmek Üzere Yapılan Ortaklık Akdi"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 2351,
+        "hadithnumber_last": 2383,
+        "arabicnumber_first": 2351,
+        "arabicnumber_last": 2383
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2370,
+      "arabicnumber": 2370,
+      "text": "İbn Abbas r.a.'ın naklettiğine göre es-Salb İbn Cesame r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Bütün koruluklar Allah'a ve Resulüne aittir.\" Buhari, \"Bize, Hz. Nebi'in, en-Naki' bölgesini, Hz. Ömer'in de, eş-Şeref ve Rebeze bölgesini koruluk haline getirdiği bilgisi ulaşmıştır\" demiştir. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 42,
+        "hadith": 18
+      }
+    }
+  ]
 }

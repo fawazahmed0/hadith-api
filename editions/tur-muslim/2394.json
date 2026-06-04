@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2394,
-			"arabicnumber": "1039.02",
-			"text": "Bize Yahya b Eyyûb ile Kuteybetü'bnü Saîd rivayet ettiler, ibni Eyyûb (Dediki): Bize îsmâil yâni İbni Ca'fer rivayet etti. (Dediki): Bana Şerîk, Meymûne'nin azatlısı Atâ' b. Yesâr'dan, o da Ebû Hureyre'den naklen haber verdi ki, Resulullah (Sallallahu Aleyhi ve Sellem)'- «Miskin; bir veya iki hurma, bir veya iki lokma ile baştan savılan (dilenci) değildir. Miskin ancak iffet ve nezâheti (fakîr)'dir. İsterseniz: (Âlemden ısrarla istemezler [ Bakara 273 ].) âyetini okuyun.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 131
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2394,
+      "arabicnumber": "1039.02",
+      "text": "Bize Yahya b Eyyûb ile Kuteybetü'bnü Saîd rivayet ettiler, ibni Eyyûb (Dediki): Bize îsmâil yâni İbni Ca'fer rivayet etti. (Dediki): Bana Şerîk, Meymûne'nin azatlısı Atâ' b. Yesâr'dan, o da Ebû Hureyre'den naklen haber verdi ki, Resulullah (Sallallahu Aleyhi ve Sellem)'- «Miskin; bir veya iki hurma, bir veya iki lokma ile baştan savılan (dilenci) değildir. Miskin ancak iffet ve nezâheti (fakîr)'dir. İsterseniz: (Âlemden ısrarla istemezler [ Bakara 273 ].) âyetini okuyun.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 131
+      }
+    }
+  ]
 }

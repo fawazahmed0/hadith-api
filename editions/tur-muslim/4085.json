@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4085,
-			"arabicnumber": "1595",
-			"text": "Bana İshâk b. Mansûr rivayet etti. (Dediki): Bize Ubeydullah b. Musa, Seyban'dan, o da Yahya'dan, o da Ebû Seleme'den, o da Ebû Saîd'den naklen rivayet etti. Şöyle demiş: Biz ResûluIIah (Sallallahu Aleyhi ve Sellem) devrinde bayağı hurmayı —ki muhtelif kuru hurmanın karışığıdır— bir ölçek mukabilinde iki ölçek vererek satardık. ResûluIIah (Sallallahu Aleyhi ve Sellem) bunu duydu ve : «İki ölçek hurmaya bir ölçek hurma; iki ölçek buğday'a bir ölçek buğday ve iki dirheme bir dirhem olmaz!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 124
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4085,
+      "arabicnumber": "1595",
+      "text": "Bana İshâk b. Mansûr rivayet etti. (Dediki): Bize Ubeydullah b. Musa, Seyban'dan, o da Yahya'dan, o da Ebû Seleme'den, o da Ebû Saîd'den naklen rivayet etti. Şöyle demiş: Biz ResûluIIah (Sallallahu Aleyhi ve Sellem) devrinde bayağı hurmayı —ki muhtelif kuru hurmanın karışığıdır— bir ölçek mukabilinde iki ölçek vererek satardık. ResûluIIah (Sallallahu Aleyhi ve Sellem) bunu duydu ve : «İki ölçek hurmaya bir ölçek hurma; iki ölçek buğday'a bir ölçek buğday ve iki dirheme bir dirhem olmaz!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 124
+      }
+    }
+  ]
 }

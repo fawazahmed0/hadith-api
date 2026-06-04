@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3750,
-			"arabicnumber": 3750,
-			"text": "Ebu'l-Melih el-Huzelî (r.a.)'den; Şöyle demiştir: Humus halkından birkaç kadın Âişe (r.anha)'nın yanına girmek için izin istedi. (İzin verilip odaya alındıktan) sonra Âişe (r.anhâ) (onlara): Galiba siz hamamlara giren kadınlardansınız. Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işittim, dedi: «Hangi kadın kocasının evinden başka bir evde elbisesini bırakır (soyunur) sa o kadın kendisi ile Allah arasındaki (haya ve edebe dâir) perdeyi yırtmış olur.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 94
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3750,
+      "arabicnumber": 3750,
+      "text": "Ebu'l-Melih el-Huzelî (r.a.)'den; Şöyle demiştir: Humus halkından birkaç kadın Âişe (r.anha)'nın yanına girmek için izin istedi. (İzin verilip odaya alındıktan) sonra Âişe (r.anhâ) (onlara): Galiba siz hamamlara giren kadınlardansınız. Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işittim, dedi: «Hangi kadın kocasının evinden başka bir evde elbisesini bırakır (soyunur) sa o kadın kendisi ile Allah arasındaki (haya ve edebe dâir) perdeyi yırtmış olur.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 94
+      }
+    }
+  ]
 }

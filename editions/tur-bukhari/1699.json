@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1699,
-			"arabicnumber": 1699,
-			"text": "Aişe (r.anha) şöyle demiştir: \"Resulullah (Sallallahu aleyhi ve Sellem)'ın kurbanının gerdanlığını büktüm. Hz.Nebi Sallallahu Aleyhi ve Sellem de kurbana bellik koydu ve gerdanlığı ona taktı (ya da ben takmıştım) sonra onu Kabe'ye gönderdi. Kendisi ise Medine'de kaldı. Bunu yaptıktan sonra, önceden helal olan şeylerden hiçbiri haram hale gelmedi (yani ihram yasakları başlamadı)",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 177
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1699,
+      "arabicnumber": 1699,
+      "text": "Aişe (r.anha) şöyle demiştir: \"Resulullah (Sallallahu aleyhi ve Sellem)'ın kurbanının gerdanlığını büktüm. Hz.Nebi Sallallahu Aleyhi ve Sellem de kurbana bellik koydu ve gerdanlığı ona taktı (ya da ben takmıştım) sonra onu Kabe'ye gönderdi. Kendisi ise Medine'de kaldı. Bunu yaptıktan sonra, önceden helal olan şeylerden hiçbiri haram hale gelmedi (yani ihram yasakları başlamadı)",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 177
+      }
+    }
+  ]
 }

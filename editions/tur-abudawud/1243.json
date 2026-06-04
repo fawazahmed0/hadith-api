@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"4": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 1198,
-				"hadithnumber_last": 1249,
-				"arabicnumber_first": 1198,
-				"arabicnumber_last": 1249
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1243,
-			"arabicnumber": 1243,
-			"text": "İbn Ömer'den rivayet edildiğine göre, Resûlullah (s.a.v.) iki zümreden birine bir rekât kıldırdı. (bu arada) diğer zümre düşman karşısında bulunuyordu. Sonra (berikiler) namazdan ayrılıp öbürlerinin yerlerine durunca (bu sefer) onlar geldi. Resûlullah (s.a.v.) onlara da bir rekat namaz kıldırdı. Selâm verdi. Sonra hem kberikiîer hem de ötekiler birer rekat kaza ettiler. Ebû Dâvûd dedi ki: Bu hadisi aynı şekilde Nesâî ile Hâlid b. Mâ­dan da İbn Ömer vasıtasıyla Nebi (s.a.v.)'den rivayet ettiler. Mesruk ile Yûsuf b. Mihran'ın İbn Abbas'tan naklettikleri söz de böyle­dir. Yûnus'un Hasan (el-Basrî)'den naklettiği rivayete göre Ebû Mu­sa da (korku namazını) bu şekilde kılarmış. Diğer tahric: Buhârî, havf; Müslim, musâfırîn; Tirmizî, cuma; Nesaî, havf",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (4133) Sahih Muslim (839)"
-				}
-			],
-			"reference": {
-				"book": 4,
-				"hadith": 46
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "4": "Yolculuk Namazı Bölümü"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 1198,
+        "hadithnumber_last": 1249,
+        "arabicnumber_first": 1198,
+        "arabicnumber_last": 1249
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1243,
+      "arabicnumber": 1243,
+      "text": "İbn Ömer'den rivayet edildiğine göre, Resûlullah (s.a.v.) iki zümreden birine bir rekât kıldırdı. (bu arada) diğer zümre düşman karşısında bulunuyordu. Sonra (berikiler) namazdan ayrılıp öbürlerinin yerlerine durunca (bu sefer) onlar geldi. Resûlullah (s.a.v.) onlara da bir rekat namaz kıldırdı. Selâm verdi. Sonra hem kberikiîer hem de ötekiler birer rekat kaza ettiler. Ebû Dâvûd dedi ki: Bu hadisi aynı şekilde Nesâî ile Hâlid b. Mâ­dan da İbn Ömer vasıtasıyla Nebi (s.a.v.)'den rivayet ettiler. Mesruk ile Yûsuf b. Mihran'ın İbn Abbas'tan naklettikleri söz de böyle­dir. Yûnus'un Hasan (el-Basrî)'den naklettiği rivayete göre Ebû Mu­sa da (korku namazını) bu şekilde kılarmış. Diğer tahric: Buhârî, havf; Müslim, musâfırîn; Tirmizî, cuma; Nesaî, havf",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4133) Sahih Muslim (839)"
+        }
+      ],
+      "reference": {
+        "book": 4,
+        "hadith": 46
+      }
+    }
+  ]
 }

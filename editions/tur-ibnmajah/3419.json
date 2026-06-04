@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3419,
-			"arabicnumber": 3419,
-			"text": "İbn-i Abbâs (r.a.)'dam; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) tulumların ağızlarını dışarıya kıvırıp onun ağzından (bir şey) içmeyi yasaklamıştır. Resulullah (Sallallahu Aleyhi ve Sellem) bunu yasakladıktan sonra bir adam geceleyin kalkıp bir tulumun ağzını dışarıya kıvırıp onun ağzından içti de tulumdan adamın üstüne bir yılan çıktı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 49
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3419,
+      "arabicnumber": 3419,
+      "text": "İbn-i Abbâs (r.a.)'dam; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) tulumların ağızlarını dışarıya kıvırıp onun ağzından (bir şey) içmeyi yasaklamıştır. Resulullah (Sallallahu Aleyhi ve Sellem) bunu yasakladıktan sonra bir adam geceleyin kalkıp bir tulumun ağzını dışarıya kıvırıp onun ağzından içti de tulumdan adamın üstüne bir yılan çıktı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 49
+      }
+    }
+  ]
 }

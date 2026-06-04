@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"18": "The Book of Divorce "
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 3652,
-				"hadithnumber_last": 3742,
-				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3699,
-			"arabicnumber": "1480.03",
-			"text": "{…} Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Leys, Imrân b. Ebî Enes'den. o da Ebû Seleme'den naklen rivayet etti. Ebû Seleme şunu söylemiş: Fâtıme binti Kays'a sordum da bana haber verdi ki : Kocası Mahzûmî kendisini boşamış; fakat nafaka vermeğe yanaşmamış. Bunun üzerine Fâtıme, Resûlullah (Sallallahu Aleyhi ve Sellem)'e gelerek (meseleyi) haber vermiş. Resûlullah (Sallallahu Aleyhi ve Sellem): «Sana nafaka yoktur. Hemen taşın da İbni Ümrni Mektum'a git; onun yanında kal! Çünkü o â'mâ bir adamdır; yanında çarşafını atabilirsin!» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "18": "Boşama"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 3652,
+        "hadithnumber_last": 3742,
+        "arabicnumber_first": 1471.01,
+        "arabicnumber_last": 1491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3699,
+      "arabicnumber": "1480.03",
+      "text": "{…} Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Leys, Imrân b. Ebî Enes'den. o da Ebû Seleme'den naklen rivayet etti. Ebû Seleme şunu söylemiş: Fâtıme binti Kays'a sordum da bana haber verdi ki : Kocası Mahzûmî kendisini boşamış; fakat nafaka vermeğe yanaşmamış. Bunun üzerine Fâtıme, Resûlullah (Sallallahu Aleyhi ve Sellem)'e gelerek (meseleyi) haber vermiş. Resûlullah (Sallallahu Aleyhi ve Sellem): «Sana nafaka yoktur. Hemen taşın da İbni Ümrni Mektum'a git; onun yanında kal! Çünkü o â'mâ bir adamdır; yanında çarşafını atabilirsin!» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 47
+      }
+    }
+  ]
 }

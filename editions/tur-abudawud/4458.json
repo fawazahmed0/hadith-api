@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4458,
-			"arabicnumber": 4458,
-			"text": "Hubeyb b. Salim şöyle demiştir: Abdurrahman b. Huneyn adında bir adam, karısının cariyesi ile cinsel ilişkide bulundu. Hadise, Kufe Emiri olan Nûmân b. Beşir (r.a)'a götürüldü.Nûman: \"Senin hakkında, Rasulullah (s.a.v.)'in hükmü ile hükmedeceğim; Eğer karın o cariyeyi sana helâl kılmışsa sana yüz değnek vuracağım, Onu sana helal kılmamışsa (izin vermemişse) taşlarla recmedeceğim\" dedi. Kadın'ın kocasına izin verdiğini öğrendiler. Bunun üzerine adama yüz deynek vurdu. Katâde der ki: \"Bu mes'eleyi Hubeyb b. Sâlim'e yazdım, o da bana böyle yazdı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 108
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4458,
+      "arabicnumber": 4458,
+      "text": "Hubeyb b. Salim şöyle demiştir: Abdurrahman b. Huneyn adında bir adam, karısının cariyesi ile cinsel ilişkide bulundu. Hadise, Kufe Emiri olan Nûmân b. Beşir (r.a)'a götürüldü.Nûman: \"Senin hakkında, Rasulullah (s.a.v.)'in hükmü ile hükmedeceğim; Eğer karın o cariyeyi sana helâl kılmışsa sana yüz değnek vuracağım, Onu sana helal kılmamışsa (izin vermemişse) taşlarla recmedeceğim\" dedi. Kadın'ın kocasına izin verdiğini öğrendiler. Bunun üzerine adama yüz deynek vurdu. Katâde der ki: \"Bu mes'eleyi Hubeyb b. Sâlim'e yazdım, o da bana böyle yazdı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 108
+      }
+    }
+  ]
 }

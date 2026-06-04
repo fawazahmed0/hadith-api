@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"38": "Setting Free and Wala'"
-		},
-		"section_detail": {
-			"38": {
-				"hadithnumber_first": 1464,
-				"hadithnumber_last": 1488,
-				"arabicnumber_first": 1464,
-				"arabicnumber_last": 1488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1469,
-			"arabicnumber": 1469,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 38,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "38": "Itk (Köle Azadı) ve Velâ"
+    },
+    "section_detail": {
+      "38": {
+        "hadithnumber_first": 1464,
+        "hadithnumber_last": 1488,
+        "arabicnumber_first": 1464,
+        "arabicnumber_last": 1488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1469,
+      "arabicnumber": 1469,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 38,
+        "hadith": 6
+      }
+    }
+  ]
 }

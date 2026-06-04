@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"52": "Witnesses"
-		},
-		"section_detail": {
-			"52": {
-				"hadithnumber_first": 2637,
-				"hadithnumber_last": 2689,
-				"arabicnumber_first": 2637,
-				"arabicnumber_last": 2689
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2686,
-			"arabicnumber": 2686,
-			"text": "Nu'man b. Beşir r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Allah’ın koyduğu sınırlarını gözetmeyenlerle, sınırlar içinde kalanlar şuna benzerler: Bir topluluk düşünün ki gemiyi aralarında paylaşmışlar. Bir kısmı yukarı katta, bir kısmı aşağı katta oturuyor. Aşağıdakiler yukarıya çıkıp kendileri için su alıyorlar ve yukarıdakiler bundan rahatsız oluyorlar. Bunun üzerine aşağıdakiler ellerine baltayı alıp geminin dibini delmeye kalkışıyor. Yukarıdakiler onların yanına gelerek \"Niye böyle yapıyorsunuz?\" diyorlar. Onlar da \"Siz bizden rahatsız oldunuz, ama bize de su lazım\" diyorlar. Şimdi diğerleri onların elini tutar yaptıklarına engel olurlarsa hem onları, hem de kendilerini kurtarırlar. Onları kendi hallerine bırakırlarsa hem onların, hem de kendilerinin ölümüne sebep olurlar",
-			"grades": [],
-			"reference": {
-				"book": 52,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "52": "Şehâdetler"
+    },
+    "section_detail": {
+      "52": {
+        "hadithnumber_first": 2637,
+        "hadithnumber_last": 2689,
+        "arabicnumber_first": 2637,
+        "arabicnumber_last": 2689
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2686,
+      "arabicnumber": 2686,
+      "text": "Nu'man b. Beşir r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Allah’ın koyduğu sınırlarını gözetmeyenlerle, sınırlar içinde kalanlar şuna benzerler: Bir topluluk düşünün ki gemiyi aralarında paylaşmışlar. Bir kısmı yukarı katta, bir kısmı aşağı katta oturuyor. Aşağıdakiler yukarıya çıkıp kendileri için su alıyorlar ve yukarıdakiler bundan rahatsız oluyorlar. Bunun üzerine aşağıdakiler ellerine baltayı alıp geminin dibini delmeye kalkışıyor. Yukarıdakiler onların yanına gelerek \"Niye böyle yapıyorsunuz?\" diyorlar. Onlar da \"Siz bizden rahatsız oldunuz, ama bize de su lazım\" diyorlar. Şimdi diğerleri onların elini tutar yaptıklarına engel olurlarsa hem onları, hem de kendilerini kurtarırlar. Onları kendi hallerine bırakırlarsa hem onların, hem de kendilerinin ölümüne sebep olurlar",
+      "grades": [],
+      "reference": {
+        "book": 52,
+        "hadith": 47
+      }
+    }
+  ]
 }

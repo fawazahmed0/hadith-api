@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"37": "Wills and Testaments"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 1455,
-				"hadithnumber_last": 1463,
-				"arabicnumber_first": 1455,
-				"arabicnumber_last": 1463
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1457,
-			"arabicnumber": 1457,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "37": "Vasıyyet"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 1455,
+        "hadithnumber_last": 1463,
+        "arabicnumber_first": 1455,
+        "arabicnumber_last": 1463
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1457,
+      "arabicnumber": 1457,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 3
+      }
+    }
+  ]
 }

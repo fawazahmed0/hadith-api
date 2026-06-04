@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6547,
-			"arabicnumber": 6547,
-			"text": "Usame'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: \"Ben cennetin kapısı önünde durdum. Oraya girenlerin çoğu fakirler idi. Zenginlik sahipleri alıkonulmuşlardı. Lakin cehennemlikler ateşe girmeye emrolunmuşlardı. Ben cehennemin kapısı önünde de durdum. Oraya girenlerin çoğunun kadınlar olduğunu gördüm",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 136
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6547,
+      "arabicnumber": 6547,
+      "text": "Usame'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: \"Ben cennetin kapısı önünde durdum. Oraya girenlerin çoğu fakirler idi. Zenginlik sahipleri alıkonulmuşlardı. Lakin cehennemlikler ateşe girmeye emrolunmuşlardı. Ben cehennemin kapısı önünde de durdum. Oraya girenlerin çoğunun kadınlar olduğunu gördüm",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 136
+      }
+    }
+  ]
 }

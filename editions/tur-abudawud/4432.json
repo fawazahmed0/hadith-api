@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4432,
-			"arabicnumber": 4432,
-			"text": "Ebû Nadra şöyle demiştir: Rasulullah (s.a.v.)'e bir adam geldi. Râvi Önceki (4431.) hadis'in benzerini rivayet etti, ama tamamını değiI. (Sonra) ravi şöyle dedi; Sahabeler onun hakkında kötü konuşmaya başladılar, Rasulullah (s.a.v.) onları nehyetti.O'nun için bağış dilemeye başladılar, onu da nehyetti, ve: \" O günah işleyen bir adamdır. Ona Allah kâfidir\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 82
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4432,
+      "arabicnumber": 4432,
+      "text": "Ebû Nadra şöyle demiştir: Rasulullah (s.a.v.)'e bir adam geldi. Râvi Önceki (4431.) hadis'in benzerini rivayet etti, ama tamamını değiI. (Sonra) ravi şöyle dedi; Sahabeler onun hakkında kötü konuşmaya başladılar, Rasulullah (s.a.v.) onları nehyetti.O'nun için bağış dilemeye başladılar, onu da nehyetti, ve: \" O günah işleyen bir adamdır. Ona Allah kâfidir\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 82
+      }
+    }
+  ]
 }

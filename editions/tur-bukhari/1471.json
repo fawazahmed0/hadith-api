@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1471,
-			"arabicnumber": 1471,
-			"text": "Zübeyr İbnü'i-Avvam r.a. Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet eder: \"Siz'den birinin, urganını alıp, sırtında odun yükü taşıması böylece Allah'ın onun başını dik bir durumda tutması, ister versinler, isterse vermesinler, insanlardan dilenmesinden daha hayırlıdır. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 73
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1471,
+      "arabicnumber": 1471,
+      "text": "Zübeyr İbnü'i-Avvam r.a. Resûlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet eder: \"Siz'den birinin, urganını alıp, sırtında odun yükü taşıması böylece Allah'ın onun başını dik bir durumda tutması, ister versinler, isterse vermesinler, insanlardan dilenmesinden daha hayırlıdır. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 73
+      }
+    }
+  ]
 }

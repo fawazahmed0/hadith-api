@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"31": "The Book of Manumission of Slaves"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 3926,
-				"hadithnumber_last": 3968,
-				"arabicnumber_first": 3926,
-				"arabicnumber_last": 3968
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3965,
-			"arabicnumber": 3965,
-			"text": "Ebû Necîh es-Sülemi'den rivayet olunmuştur; dedi ki: Resulullah (s.a.v) ile birlikte Taif köşkünü kuşatmıştık. Muaz (b. Hişam ise bu cümleyi) \"Babam (Hişam)'ı (şöyle) derken işitmiştim: (Resulullah (s.a.v) ile birlikte Taif kalesindeki Taif köşkünü (kuşatmıştık)\" şeklinde rivayet etti. (Daha sonra) her ikisi de (hadisin geri kalan kısmını da); \"Kim Aziz ve Celil olan Allah yolunda düşman (ın cesedine)e bir ok isabet ettirirse onun için (Allah katında büyük) bir derece vardır\" (şeklinde rivayet ettiler, Ravi Ebû Necîh), hadisi(n geri kalan kısmını da şöyle) nakletti: Resulullah (s.a.v) şöyle buyururken işittim: \"Herhangi bir müslüman erkek, bir müslüman köleyi azad ederse, muhakkak ki Aziz ve Celil olan Allah (o kölenin) kemiklerinin her birini, onu azad eden kişinin bir kemiğini ateşten koruyan bir kalkan haline koyar. Herhangi bir müslüman kadın da müslüman bir kadını azad ederse, kuşkusuz (yüce) AIIah, kıyamet gününde (azad edilen kadının) kemiklerinden herbirini onu azad eden kadının bir kemiğini ateşten koruyan bir kalkan haline koyar",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "31": "Köle Azad Etmek"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 3926,
+        "hadithnumber_last": 3968,
+        "arabicnumber_first": 3926,
+        "arabicnumber_last": 3968
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3965,
+      "arabicnumber": 3965,
+      "text": "Ebû Necîh es-Sülemi'den rivayet olunmuştur; dedi ki: Resulullah (s.a.v) ile birlikte Taif köşkünü kuşatmıştık. Muaz (b. Hişam ise bu cümleyi) \"Babam (Hişam)'ı (şöyle) derken işitmiştim: (Resulullah (s.a.v) ile birlikte Taif kalesindeki Taif köşkünü (kuşatmıştık)\" şeklinde rivayet etti. (Daha sonra) her ikisi de (hadisin geri kalan kısmını da); \"Kim Aziz ve Celil olan Allah yolunda düşman (ın cesedine)e bir ok isabet ettirirse onun için (Allah katında büyük) bir derece vardır\" (şeklinde rivayet ettiler, Ravi Ebû Necîh), hadisi(n geri kalan kısmını da şöyle) nakletti: Resulullah (s.a.v) şöyle buyururken işittim: \"Herhangi bir müslüman erkek, bir müslüman köleyi azad ederse, muhakkak ki Aziz ve Celil olan Allah (o kölenin) kemiklerinin her birini, onu azad eden kişinin bir kemiğini ateşten koruyan bir kalkan haline koyar. Herhangi bir müslüman kadın da müslüman bir kadını azad ederse, kuşkusuz (yüce) AIIah, kıyamet gününde (azad edilen kadının) kemiklerinden herbirini onu azad eden kadının bir kemiğini ateşten koruyan bir kalkan haline koyar",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 40
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"49": "Chapters on Virtues"
-		},
-		"section_detail": {
-			"49": {
-				"hadithnumber_first": 3605,
-				"hadithnumber_last": 3956,
-				"arabicnumber_first": 3605,
-				"arabicnumber_last": 3956
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3767,
-			"arabicnumber": 3767,
-			"text": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: “Biz Cafer b. ebî Tâlib’i miskinlerin babası diye çağırırdık. Biz onun yanına her geldiğimizde bize mutlaka bir şeyler hazırlar ve yedirirdi. Bir defasında onun yanına geldiğimizde hiçbir şeyi yoktu da içersinde bal konulmuş bir küp çıkardı ve onu kırdı bizde ona bulaşan balları yalamıştık.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis Ebû Seleme ve Ebû Hureyre rivâyeti olarak hasen garibtir",
-			"grades": [
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 49,
-				"hadith": 166
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "49": "Menâkıb Bölümleri"
+    },
+    "section_detail": {
+      "49": {
+        "hadithnumber_first": 3605,
+        "hadithnumber_last": 3956,
+        "arabicnumber_first": 3605,
+        "arabicnumber_last": 3956
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3767,
+      "arabicnumber": 3767,
+      "text": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: “Biz Cafer b. ebî Tâlib’i miskinlerin babası diye çağırırdık. Biz onun yanına her geldiğimizde bize mutlaka bir şeyler hazırlar ve yedirirdi. Bir defasında onun yanına geldiğimizde hiçbir şeyi yoktu da içersinde bal konulmuş bir küp çıkardı ve onu kırdı bizde ona bulaşan balları yalamıştık.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis Ebû Seleme ve Ebû Hureyre rivâyeti olarak hasen garibtir",
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 49,
+        "hadith": 166
+      }
+    }
+  ]
 }

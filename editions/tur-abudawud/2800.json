@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"16": "Sacrifice (Kitab Al-Dahaya)"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 2788,
-				"hadithnumber_last": 2843,
-				"arabicnumber_first": 2788,
-				"arabicnumber_last": 2843
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2800,
-			"arabicnumber": 2800,
-			"text": "Bera'dan demiştir ki: Nebi (S.A.V.) kurban bayramı günü namazdan sonra, bize bir hutbe irad ederek: \"Kim bizim namazımızı kılar ve kurbanımızı keserse (bizim sünnetimize uygun olan bir) amel işlemiş olur. Kim de kurbanı namazdan önce keserse (kesilen) bu (kurbanlık alisine ziyafet için kesilmiş bir) et koyunu olur\" buyurdu. Bunun üzerine Ebû Bürde b. Niyar kalktı ve: \"Ey Allah'ın Resulü vallahi ben bu gün'ün yeme, içme günü olduğunu düşünerek Kurbanı (mı) namaza çıkmadan önce kestim ve (yine bu düşünceyle) acele edip (kurban'ın etinden) yedim, aileme ve komşularıma da yedirdim\" dedi. Resûlullah (S.A.V.) de: \"Bu et koyunudur\" buyurdu. Bunun üzerine (Ebû Bürde tekrar kalktı ve): Ben de bir yaşını doldurmamış (fakat semiz olması ve etinin lezizliği bakımından iki et koyunundan) daha hayırlı bir oğlak var (kurban edebilmem için bu oğlak) bana yeter mi? diye sordu. Fahr-i kâinat Efendimiz de: Evet senden başka bir kimse için (böyle bir oğlağı kurban etmek) asla yeterli olamaz\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (983) Sahih Muslim (1961)"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "16": "Kurbanlar Bölümü"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 2788,
+        "hadithnumber_last": 2843,
+        "arabicnumber_first": 2788,
+        "arabicnumber_last": 2843
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2800,
+      "arabicnumber": 2800,
+      "text": "Bera'dan demiştir ki: Nebi (S.A.V.) kurban bayramı günü namazdan sonra, bize bir hutbe irad ederek: \"Kim bizim namazımızı kılar ve kurbanımızı keserse (bizim sünnetimize uygun olan bir) amel işlemiş olur. Kim de kurbanı namazdan önce keserse (kesilen) bu (kurbanlık alisine ziyafet için kesilmiş bir) et koyunu olur\" buyurdu. Bunun üzerine Ebû Bürde b. Niyar kalktı ve: \"Ey Allah'ın Resulü vallahi ben bu gün'ün yeme, içme günü olduğunu düşünerek Kurbanı (mı) namaza çıkmadan önce kestim ve (yine bu düşünceyle) acele edip (kurban'ın etinden) yedim, aileme ve komşularıma da yedirdim\" dedi. Resûlullah (S.A.V.) de: \"Bu et koyunudur\" buyurdu. Bunun üzerine (Ebû Bürde tekrar kalktı ve): Ben de bir yaşını doldurmamış (fakat semiz olması ve etinin lezizliği bakımından iki et koyunundan) daha hayırlı bir oğlak var (kurban edebilmem için bu oğlak) bana yeter mi? diye sordu. Fahr-i kâinat Efendimiz de: Evet senden başka bir kimse için (böyle bir oğlağı kurban etmek) asla yeterli olamaz\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (983) Sahih Muslim (1961)"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 13
+      }
+    }
+  ]
 }

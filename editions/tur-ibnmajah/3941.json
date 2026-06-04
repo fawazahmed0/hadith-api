@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"36": "Tribulations"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 3927,
-				"hadithnumber_last": 4099,
-				"arabicnumber_first": 3927,
-				"arabicnumber_last": 4099
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3941,
-			"arabicnumber": 3941,
-			"text": "Sa'd (bin Ebi'I-Vakkas) (r.a.)'den rivayet edildigine gore; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Müslümanı sövmek fasıklıktır. Onunla garpışmak da küfürdür.» Not: Zevaid'de şöyle denilmiştir: Sa'd bin Ebi'l-Vakkas (r.a.)'ın bu hadisinin senedi sahlh olup ravileri güvenilir zatlardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "36": "Fitneler Kitabı"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 3927,
+        "hadithnumber_last": 4099,
+        "arabicnumber_first": 3927,
+        "arabicnumber_last": 4099
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3941,
+      "arabicnumber": 3941,
+      "text": "Sa'd (bin Ebi'I-Vakkas) (r.a.)'den rivayet edildigine gore; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Müslümanı sövmek fasıklıktır. Onunla garpışmak da küfürdür.» Not: Zevaid'de şöyle denilmiştir: Sa'd bin Ebi'l-Vakkas (r.a.)'ın bu hadisinin senedi sahlh olup ravileri güvenilir zatlardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 16
+      }
+    }
+  ]
 }

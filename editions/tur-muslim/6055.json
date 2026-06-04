@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6055,
-			"arabicnumber": "2331.01",
-			"text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Hâşim (yâni İbnî Kaâsım) Süleyman'dan, o da Sâbit'ten, o da Enes b. Mâlik'den naklen rivayet etti. Enes şöyle demiş: Nebi (Sallaîlahu Aleyhi ve Sellem) yanımıza girdi. Ve kaylûle uykusuna dalarak terledi. Annem bir kavanoz getirerek teri onun içine silmeye başladı. Derken Nebi (Sallaîlahu Aleyhi ve Sellem) uyandı ve : «Ey Ummü Süleym bu yaptığın nedir?» dedi. Annem : — Bu senin terindir, onu kokumuza katıyoruz; o kokuların en güzellerindendir, dedi",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 113
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6055,
+      "arabicnumber": "2331.01",
+      "text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Hâşim (yâni İbnî Kaâsım) Süleyman'dan, o da Sâbit'ten, o da Enes b. Mâlik'den naklen rivayet etti. Enes şöyle demiş: Nebi (Sallaîlahu Aleyhi ve Sellem) yanımıza girdi. Ve kaylûle uykusuna dalarak terledi. Annem bir kavanoz getirerek teri onun içine silmeye başladı. Derken Nebi (Sallaîlahu Aleyhi ve Sellem) uyandı ve : «Ey Ummü Süleym bu yaptığın nedir?» dedi. Annem : — Bu senin terindir, onu kokumuza katıyoruz; o kokuların en güzellerindendir, dedi",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 113
+      }
+    }
+  ]
 }

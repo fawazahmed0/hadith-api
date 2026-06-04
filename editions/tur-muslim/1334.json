@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1334,
-			"arabicnumber": "591",
-			"text": "Bize Dâvûd b. Ruşeyd rivayet etti. (Dediki): Bize Velid, Evzâi'den, o da Ebu Ammâr'dan (Bu zâtın ismi Şeddâd b. Abdillâh'dır.) o da Ebu Esmâ'dan, o da Sevbân'dan naklen rivayet etti. Sevbân şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem) namazından çıktığı zaman üç defa istiğfar eder ve: \"اللهم! أنت السلام ومنك السلام. تباركت يا ذا الجلال والإكرام\" «Allah'ım, selâm sensin; selâmet de ancak sendendir. Mübareksin. Ey Celâl ve İkram sahibi!» derdi.. Velîd demiş ki: Evzâî'ye: Bu istiğfar nasıl olacak? dedim. Estağfirullah, estâğfirullah dersin; cevâbını verdi. Latin harfleriyle arapçası: Allahümme ente selam ve minke selam tebarekte ya ze'l-Celali ve'l-İkram",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 171
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1334,
+      "arabicnumber": "591",
+      "text": "Bize Dâvûd b. Ruşeyd rivayet etti. (Dediki): Bize Velid, Evzâi'den, o da Ebu Ammâr'dan (Bu zâtın ismi Şeddâd b. Abdillâh'dır.) o da Ebu Esmâ'dan, o da Sevbân'dan naklen rivayet etti. Sevbân şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem) namazından çıktığı zaman üç defa istiğfar eder ve: \"اللهم! أنت السلام ومنك السلام. تباركت يا ذا الجلال والإكرام\" «Allah'ım, selâm sensin; selâmet de ancak sendendir. Mübareksin. Ey Celâl ve İkram sahibi!» derdi.. Velîd demiş ki: Evzâî'ye: Bu istiğfar nasıl olacak? dedim. Estağfirullah, estâğfirullah dersin; cevâbını verdi. Latin harfleriyle arapçası: Allahümme ente selam ve minke selam tebarekte ya ze'l-Celali ve'l-İkram",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 171
+      }
+    }
+  ]
 }

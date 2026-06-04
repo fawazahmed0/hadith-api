@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"21": "Actions while Praying"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 1198,
-				"hadithnumber_last": 1223,
-				"arabicnumber_first": 1198,
-				"arabicnumber_last": 1223
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1207,
-			"arabicnumber": 1207,
-			"text": "Muaykib (r.a.) şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem secde ettiği yerdeki toprağı düzelten adam'a: \"Şayet böyle yapacaksan bir kere yap\" demiştir",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "21": "Namaz İçinde Amel"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 1198,
+        "hadithnumber_last": 1223,
+        "arabicnumber_first": 1198,
+        "arabicnumber_last": 1223
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1207,
+      "arabicnumber": 1207,
+      "text": "Muaykib (r.a.) şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem secde ettiği yerdeki toprağı düzelten adam'a: \"Şayet böyle yapacaksan bir kere yap\" demiştir",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 11
+      }
+    }
+  ]
 }

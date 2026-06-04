@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3297,
-			"arabicnumber": 3297,
-			"text": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Ebû Bekir: “Ey Allah’ın Rasûlü! ihtiyarladın” dedi. Bunun üzerine Rasûlullah (s.a.v.) şöyle buyurdu: “Beni, Hud, Vakıa, Mürselat, Nebe ve Tekvir sûreleri ihtiyarlattı.”",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 349
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3297,
+      "arabicnumber": 3297,
+      "text": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Ebû Bekir: “Ey Allah’ın Rasûlü! ihtiyarladın” dedi. Bunun üzerine Rasûlullah (s.a.v.) şöyle buyurdu: “Beni, Hud, Vakıa, Mürselat, Nebe ve Tekvir sûreleri ihtiyarlattı.”",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 349
+      }
+    }
+  ]
 }

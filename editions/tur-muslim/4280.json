@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4280,
-			"arabicnumber": "1651.06",
-			"text": "{…} Bana Muhammed b. Hatim rivayet etti. (Dediki): Bize Behz rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Bize Simâk b. Harb rivayet etti. (Dediki): Temim b. Tarafe'yi: Ben Adiy b. Hâtim'den dinledim ki, bir adam ondan dilenmiş... derken işittim; ve yukarıki hadis gibi rivayette bulundu. «Benim bahşişim meyanında sana dört yüz (dirhem) var.» cümlesini de ziyâde etti. İzah 1652 de",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4280,
+      "arabicnumber": "1651.06",
+      "text": "{…} Bana Muhammed b. Hatim rivayet etti. (Dediki): Bize Behz rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Bize Simâk b. Harb rivayet etti. (Dediki): Temim b. Tarafe'yi: Ben Adiy b. Hâtim'den dinledim ki, bir adam ondan dilenmiş... derken işittim; ve yukarıki hadis gibi rivayette bulundu. «Benim bahşişim meyanında sana dört yüz (dirhem) var.» cümlesini de ziyâde etti. İzah 1652 de",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 27
+      }
+    }
+  ]
 }

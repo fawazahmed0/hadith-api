@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4796,
-			"arabicnumber": 4796,
-			"text": "Ebu Katede'den demiştir ki: Biz, İmran b. Husayn ile birlikte idik. Orada Buşeyr İbn Ka'b da vardı. (Bir ara) İmran İbn Husayn (söze başlayıp), Rasûlullah'ın (s.a.v.): \"Utanma tamamiyle hayırdır\" dediğini ya da \"utanma(nın) hepsi de hayırdır\" buyurduğunu söyledi. Bunun üzerine Büşeyr İbn Ka'b'ın: \"Biz bazı kitaplarda bazı hayaların vakar (ağırlık), bazısının sekînet (iç huzuru), bazısının da zayıflık (kaynağı) olduğuna rastladık\" dedi. İmran hadisi tekrar rivayet etti. Büşeyr de sözü(nü) tekrarladı; (haya'nın bir takım zaafların kaynağı olduğunu ifade eden Büşeyr'in bu sözlerini ikinci kez işiten) İmran öfkelenip gözleri kıpkırmızı oldu ve (Büşeyr'e hitaben): Görüyorum ki, ben sana Rasûlullah (s.a.v.)'den söz ediyorum, sen de bana kitaplarından bahsediyorsun, dedi. (Biz bu durumu görünce İmran'ın daha fazla kızmasını önlemek için kendisine): Ey Ebu Nüceyd, (artık bu kadarı) yeter! dedik",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (6117) Sahih Muslim (37)"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4796,
+      "arabicnumber": 4796,
+      "text": "Ebu Katede'den demiştir ki: Biz, İmran b. Husayn ile birlikte idik. Orada Buşeyr İbn Ka'b da vardı. (Bir ara) İmran İbn Husayn (söze başlayıp), Rasûlullah'ın (s.a.v.): \"Utanma tamamiyle hayırdır\" dediğini ya da \"utanma(nın) hepsi de hayırdır\" buyurduğunu söyledi. Bunun üzerine Büşeyr İbn Ka'b'ın: \"Biz bazı kitaplarda bazı hayaların vakar (ağırlık), bazısının sekînet (iç huzuru), bazısının da zayıflık (kaynağı) olduğuna rastladık\" dedi. İmran hadisi tekrar rivayet etti. Büşeyr de sözü(nü) tekrarladı; (haya'nın bir takım zaafların kaynağı olduğunu ifade eden Büşeyr'in bu sözlerini ikinci kez işiten) İmran öfkelenip gözleri kıpkırmızı oldu ve (Büşeyr'e hitaben): Görüyorum ki, ben sana Rasûlullah (s.a.v.)'den söz ediyorum, sen de bana kitaplarından bahsediyorsun, dedi. (Biz bu durumu görünce İmran'ın daha fazla kızmasını önlemek için kendisine): Ey Ebu Nüceyd, (artık bu kadarı) yeter! dedik",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6117) Sahih Muslim (37)"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 24
+      }
+    }
+  ]
 }

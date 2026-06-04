@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"8": "Prayer in Congregation"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 287,
-				"hadithnumber_last": 325,
-				"arabicnumber_first": 287,
-				"arabicnumber_last": 325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 298,
-			"arabicnumber": 298,
-			"text": "İmam Malik, Afîf es-Sehmî'den rivayet eder: Esed oğullarından bir adam Ebu Eyyub el-Ensari (r.a.)'ye: «— Evimde namazı kıldıktan sonra mescide gidiyorum, imamı namazda buluyorum. Onunla da kılayım mı?» diye sordu. Ebu Eyyub da: «Evet. Onunla da kıl. Kim böyle yaparsa cemaat namazı sevabına nail olur.» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "8": "Cemaatle Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 287,
+        "hadithnumber_last": 325,
+        "arabicnumber_first": 287,
+        "arabicnumber_last": 325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 298,
+      "arabicnumber": 298,
+      "text": "İmam Malik, Afîf es-Sehmî'den rivayet eder: Esed oğullarından bir adam Ebu Eyyub el-Ensari (r.a.)'ye: «— Evimde namazı kıldıktan sonra mescide gidiyorum, imamı namazda buluyorum. Onunla da kılayım mı?» diye sordu. Ebu Eyyub da: «Evet. Onunla da kıl. Kim böyle yaparsa cemaat namazı sevabına nail olur.» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 12
+      }
+    }
+  ]
 }

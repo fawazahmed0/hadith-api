@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7272,
-			"arabicnumber": "2894.01",
-			"text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Ya'kub (Yani Abdirrahman El-Kaârî) Süheyl'den, o da babasından, o da Ebu Hureyre'den naklen rivayet ettiki: Resulullah (Sallallahu Aleyhi ve Sellem): Fırat nehri altın bîr dağ üzerinden açılmadıkça kıyamet kopmayacaktır. İnsanlar onun için harb edecek ve her yüz kişiden doksan dokuzu öldürülecek onlardan her adam, keşke kurtulan ben olsaydım, diyecektir.»",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7272,
+      "arabicnumber": "2894.01",
+      "text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Ya'kub (Yani Abdirrahman El-Kaârî) Süheyl'den, o da babasından, o da Ebu Hureyre'den naklen rivayet ettiki: Resulullah (Sallallahu Aleyhi ve Sellem): Fırat nehri altın bîr dağ üzerinden açılmadıkça kıyamet kopmayacaktır. İnsanlar onun için harb edecek ve her yüz kişiden doksan dokuzu öldürülecek onlardan her adam, keşke kurtulan ben olsaydım, diyecektir.»",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 38
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"4": "The Book of Prayers "
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 837,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1048,
-			"arabicnumber": "467.03",
-			"text": "Bize Harmeletü'bnü Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. Dediki: Bana Yunus, İbn Şihâb'dan naklen haber verdi. Demiş ki: Bana Ebu Selemetü'bnü Abdirrahmân haber verdi, ki Ebu Hureyre şunu söylerken işitmiş: Resulullah (SaIlallahu Aleyhi ve Sellem) : Biriniz cemaata namaz kıldırırsa hafif tutsun, çünkü cemaatın içinde zayıf, hasta, ve hacet sahibi olanları vardır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 210
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "4": "Namaz"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 837,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 377,
+        "arabicnumber_last": 519.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1048,
+      "arabicnumber": "467.03",
+      "text": "Bize Harmeletü'bnü Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. Dediki: Bana Yunus, İbn Şihâb'dan naklen haber verdi. Demiş ki: Bana Ebu Selemetü'bnü Abdirrahmân haber verdi, ki Ebu Hureyre şunu söylerken işitmiş: Resulullah (SaIlallahu Aleyhi ve Sellem) : Biriniz cemaata namaz kıldırırsa hafif tutsun, çünkü cemaatın içinde zayıf, hasta, ve hacet sahibi olanları vardır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 210
+      }
+    }
+  ]
 }

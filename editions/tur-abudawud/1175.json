@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"3": "The Book Of The Prayer For Rain (Kitab al-Istisqa')"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1197,
-				"arabicnumber_first": 1161,
-				"arabicnumber_last": 1197
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1175,
-			"arabicnumber": 1175,
-			"text": "Şerîk b. Abdullah b. Ebî Nemir, Enes (r.a.)'i (bir önceki 1174.) Abdülaziz hadisinin benzerini söylerken işittiğini bildirdi. (Farklı olarak Şerîk) şöyle dedi; Resûlullah (S.A.V.) ellerini yüzünün hizasına kadar kaldırıp; \"Ey Allah'ım!... Bize yağmur yağdır...\" diye dua etti. Şerîk (bundan sonra) Abdülazîz hadisinin benzerini nakletti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1013) Sahih Muslim (897)"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "3": "İstiskâ (Yağmur İsteme) Namazı"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1197,
+        "arabicnumber_first": 1161,
+        "arabicnumber_last": 1197
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1175,
+      "arabicnumber": 1175,
+      "text": "Şerîk b. Abdullah b. Ebî Nemir, Enes (r.a.)'i (bir önceki 1174.) Abdülaziz hadisinin benzerini söylerken işittiğini bildirdi. (Farklı olarak Şerîk) şöyle dedi; Resûlullah (S.A.V.) ellerini yüzünün hizasına kadar kaldırıp; \"Ey Allah'ım!... Bize yağmur yağdır...\" diye dua etti. Şerîk (bundan sonra) Abdülazîz hadisinin benzerini nakletti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1013) Sahih Muslim (897)"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 15
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1565,
-			"arabicnumber": 1565,
-			"text": "Ebu Musa r.a. \"Nebi Sallallahu Aleyhi ve Sellem'in yanına gelmiştim. Bana umre yaptıktan sonra ihram'dan çıkmamı emir buyurdu\" demişti",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1565,
+      "arabicnumber": 1565,
+      "text": "Ebu Musa r.a. \"Nebi Sallallahu Aleyhi ve Sellem'in yanına gelmiştim. Bana umre yaptıktan sonra ihram'dan çıkmamı emir buyurdu\" demişti",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 51
+      }
+    }
+  ]
 }

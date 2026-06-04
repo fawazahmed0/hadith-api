@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"28": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 4342,
-				"hadithnumber_last": 4397,
-				"arabicnumber_first": 1669.01,
-				"arabicnumber_last": 1683
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4344,
-			"arabicnumber": "1669.03",
-			"text": "{…} Bize yine Kavârîrî rivayet etti. (Dediki): Bize Bişr b. Mufeddal rivayet etti. (Dediki): Bize Yahya b. Saîd, Büşeyr b. Yesâr'dan, o da Sehl b. Ebî Hasme'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bunun benzerini rivayet etti. Sehl, hadisinde: «Resûlullah (Sallallahu Aleyhi ve Sellem) onun diyetini kendinden verdi.» demiş; «Beni bir dişi deve tepdi.» cümlesini söylememiştir",
-			"grades": [],
-			"reference": {
-				"book": 28,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "28": "Kasâme, Muhakibler, Kısas ve Diyetler Bahsi"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 4342,
+        "hadithnumber_last": 4397,
+        "arabicnumber_first": 1669.01,
+        "arabicnumber_last": 1683
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4344,
+      "arabicnumber": "1669.03",
+      "text": "{…} Bize yine Kavârîrî rivayet etti. (Dediki): Bize Bişr b. Mufeddal rivayet etti. (Dediki): Bize Yahya b. Saîd, Büşeyr b. Yesâr'dan, o da Sehl b. Ebî Hasme'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bunun benzerini rivayet etti. Sehl, hadisinde: «Resûlullah (Sallallahu Aleyhi ve Sellem) onun diyetini kendinden verdi.» demiş; «Beni bir dişi deve tepdi.» cümlesini söylememiştir",
+      "grades": [],
+      "reference": {
+        "book": 28,
+        "hadith": 3
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5848,
-			"arabicnumber": "2240.03",
-			"text": "{m-147} Bize Muhammed b. Sabbah da rivayet etti. (Dediki): Bize İsmâil (yâni îbni Zekeriyya) Süheyl'den rivayet etti. (Demişki): Bana kız kardeşim Ehû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet ettiki : «İlk vuruşta yetmiş sevab vardır.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 199
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5848,
+      "arabicnumber": "2240.03",
+      "text": "{m-147} Bize Muhammed b. Sabbah da rivayet etti. (Dediki): Bize İsmâil (yâni îbni Zekeriyya) Süheyl'den rivayet etti. (Demişki): Bana kız kardeşim Ehû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet ettiki : «İlk vuruşta yetmiş sevab vardır.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 199
+      }
+    }
+  ]
 }

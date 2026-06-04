@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"50": "The Book of Repentance"
-		},
-		"section_detail": {
-			"50": {
-				"hadithnumber_first": 6952,
-				"hadithnumber_last": 7023,
-				"arabicnumber_first": 2744.01,
-				"arabicnumber_last": 2771
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6977,
-			"arabicnumber": "2753.03",
-			"text": "Bize îbni Numeyr rivayet etti. (Dediki): Bize Ebû Muâviye, Dâvud b. Ebî Hind'den, o da Ebû Osman'dan, o da Selman'dan nak­len rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem): «Şüphesiz Allah göklerle yeri yarattığı gün yüz rahmet yaratmıştır. Her rahmet göklerle yer arasını dolduracak kadardır. Ondan yeryüzüne bir rahmet indirmiştir. İşte anne yavrusuna bununla şefkat eder. Vahşî hayvanlarla kuşlar birbirlerine bununla acırlar. Kıyamet günü geldiği yüz rahmeti bu rahmetle tamamlayacaktır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 50,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "50": "Tevbe"
+    },
+    "section_detail": {
+      "50": {
+        "hadithnumber_first": 6952,
+        "hadithnumber_last": 7023,
+        "arabicnumber_first": 2744.01,
+        "arabicnumber_last": 2771
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6977,
+      "arabicnumber": "2753.03",
+      "text": "Bize îbni Numeyr rivayet etti. (Dediki): Bize Ebû Muâviye, Dâvud b. Ebî Hind'den, o da Ebû Osman'dan, o da Selman'dan nak­len rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem): «Şüphesiz Allah göklerle yeri yarattığı gün yüz rahmet yaratmıştır. Her rahmet göklerle yer arasını dolduracak kadardır. Ondan yeryüzüne bir rahmet indirmiştir. İşte anne yavrusuna bununla şefkat eder. Vahşî hayvanlarla kuşlar birbirlerine bununla acırlar. Kıyamet günü geldiği yüz rahmeti bu rahmetle tamamlayacaktır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 50,
+        "hadith": 25
+      }
+    }
+  ]
 }

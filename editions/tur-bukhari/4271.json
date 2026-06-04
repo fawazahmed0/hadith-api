@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4271,
-			"arabicnumber": 4271,
-			"text": "Seleme dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem ile birlikte yedi gazvede bulundum. Göndermiş olduğu askeri birlikler arasında da dokuz gazveye katıldım. Bir defa üzerimize Ebu Bekr (kumandan olumuştu), bir sefer de Usame",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 305
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4271,
+      "arabicnumber": 4271,
+      "text": "Seleme dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem ile birlikte yedi gazvede bulundum. Göndermiş olduğu askeri birlikler arasında da dokuz gazveye katıldım. Bir defa üzerimize Ebu Bekr (kumandan olumuştu), bir sefer de Usame",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 305
+      }
+    }
+  ]
 }

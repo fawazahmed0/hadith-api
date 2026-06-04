@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"47": "Good Character"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 1633,
-				"hadithnumber_last": 1650,
-				"arabicnumber_first": 1633,
-				"arabicnumber_last": 1650
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1637,
-			"arabicnumber": 1637,
-			"text": "Ka'b el-Ahbar şöyle derdi: «Kişinin Allah katındaki değerini öğrenmeyi seviyorsanız, Ölümünden sonra kendisini takib eden güzel övgüye bakınız.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "47": "Güzel Ahlâk"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 1633,
+        "hadithnumber_last": 1650,
+        "arabicnumber_first": 1633,
+        "arabicnumber_last": 1650
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1637,
+      "arabicnumber": 1637,
+      "text": "Ka'b el-Ahbar şöyle derdi: «Kişinin Allah katındaki değerini öğrenmeyi seviyorsanız, Ölümünden sonra kendisini takib eden güzel övgüye bakınız.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 5
+      }
+    }
+  ]
 }

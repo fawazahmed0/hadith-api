@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"4": "The Book of Prayers "
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 837,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 990,
-			"arabicnumber": "442.03",
-			"text": "Bize Muhammed b. Abdillah b. Numeyr rivayet etti. (Dediki): Bize babam ile ibnİ İdrîs rivayet ettiler. Dediler ki: Bize Ubeydullah, Nâfi'den, o da ibn-i Ömer'den naklen rivayet ettiki; Resululllah (Sallallahu Aleyhi ve Sellem) : «Allah'ın cariyelerini, Allah'ın mescidlerinden men etmeyin!» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 152
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "4": "Namaz"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 837,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 377,
+        "arabicnumber_last": 519.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 990,
+      "arabicnumber": "442.03",
+      "text": "Bize Muhammed b. Abdillah b. Numeyr rivayet etti. (Dediki): Bize babam ile ibnİ İdrîs rivayet ettiler. Dediler ki: Bize Ubeydullah, Nâfi'den, o da ibn-i Ömer'den naklen rivayet ettiki; Resululllah (Sallallahu Aleyhi ve Sellem) : «Allah'ın cariyelerini, Allah'ın mescidlerinden men etmeyin!» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 152
+      }
+    }
+  ]
 }

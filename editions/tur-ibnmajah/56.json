@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"0": "The Book of the Sunnah"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 266,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 266
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 56,
-			"arabicnumber": 56,
-			"text": "Abdullah b. Amr b. el-As r.a.'ın şöyle dediği rivayet edilmiştir; Ben Resulullah s.a.v.’den işittim buyurdular ki ; “Beni İsrail’in işi mutedil olarak devam ediyordu. Nihayet muhtelif milletlerden aldıkları esir kadınlardan doğma nesil türedi ve bu nesil re'y ile hüküm vermeye başlayınca kendileri dalalete gittiler ve Beni İsrail’i dalalete götürdüler, onların işleri anormale dönüştü .” Zevaid’de bu hadis’in isnadı zayıf görülmüştür",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "0": "Sünnet Kitabı"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 266,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 266
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 56,
+      "arabicnumber": 56,
+      "text": "Abdullah b. Amr b. el-As r.a.'ın şöyle dediği rivayet edilmiştir; Ben Resulullah s.a.v.’den işittim buyurdular ki ; “Beni İsrail’in işi mutedil olarak devam ediyordu. Nihayet muhtelif milletlerden aldıkları esir kadınlardan doğma nesil türedi ve bu nesil re'y ile hüküm vermeye başlayınca kendileri dalalete gittiler ve Beni İsrail’i dalalete götürdüler, onların işleri anormale dönüştü .” Zevaid’de bu hadis’in isnadı zayıf görülmüştür",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 0,
+        "hadith": 56
+      }
+    }
+  ]
 }

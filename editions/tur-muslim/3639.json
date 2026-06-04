@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"17": "The Book of Suckling"
-		},
-		"section_detail": {
-			"17": {
-				"hadithnumber_first": 3568,
-				"hadithnumber_last": 3651,
-				"arabicnumber_first": 1444.01,
-				"arabicnumber_last": 1470.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3639,
-			"arabicnumber": "715.07",
-			"text": "{…} Bu hadîsi bize Kuteybetü'bnü Saîd de rivayet etti. (Dediki): Bize Süfyan, Amr'dan, o da Cabir b. Abdillah'dan naklen rivayet etti. Cabir şöyle demiş: «Resulullah (Sallallahu Aleyhi ve Sellem) bana: «Evlendin mi ya Cabir?» dedi. Ravi hadîsi: «Onlara bakacak ve saçlarını tarayacak bîr kadın...» cümlesine kadar rivayet etmiş; Resulullah (Sallallahu Aleyhi ve Sellem)'in : «isabet etmişsin!» buyurduğunu söylemiş; sonrasını zikretmemiştir",
-			"grades": [],
-			"reference": {
-				"book": 17,
-				"hadith": 72
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "17": "Süt Emme"
+    },
+    "section_detail": {
+      "17": {
+        "hadithnumber_first": 3568,
+        "hadithnumber_last": 3651,
+        "arabicnumber_first": 1444.01,
+        "arabicnumber_last": 1470.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3639,
+      "arabicnumber": "715.07",
+      "text": "{…} Bu hadîsi bize Kuteybetü'bnü Saîd de rivayet etti. (Dediki): Bize Süfyan, Amr'dan, o da Cabir b. Abdillah'dan naklen rivayet etti. Cabir şöyle demiş: «Resulullah (Sallallahu Aleyhi ve Sellem) bana: «Evlendin mi ya Cabir?» dedi. Ravi hadîsi: «Onlara bakacak ve saçlarını tarayacak bîr kadın...» cümlesine kadar rivayet etmiş; Resulullah (Sallallahu Aleyhi ve Sellem)'in : «isabet etmişsin!» buyurduğunu söylemiş; sonrasını zikretmemiştir",
+      "grades": [],
+      "reference": {
+        "book": 17,
+        "hadith": 72
+      }
+    }
+  ]
 }

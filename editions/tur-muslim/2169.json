@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2169,
-			"arabicnumber": "939.02",
-			"text": "Bize Yahya b. Yahya rivayet etti. (dediki): Bize Yezid b. Zürey', Eyyûb'dan, o da Muhammedü'bnü Sîrin'den, o da Hafsa binti Sirin'den, o da Ümmü Atıyye'den naklen haber verdi. Ümmû Atıyye: — «Biz, onun saçlarını tarayarak üç pelik yaptık.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2169,
+      "arabicnumber": "939.02",
+      "text": "Bize Yahya b. Yahya rivayet etti. (dediki): Bize Yezid b. Zürey', Eyyûb'dan, o da Muhammedü'bnü Sîrin'den, o da Hafsa binti Sirin'den, o da Ümmü Atıyye'den naklen haber verdi. Ümmû Atıyye: — «Biz, onun saçlarını tarayarak üç pelik yaptık.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 47
+      }
+    }
+  ]
 }

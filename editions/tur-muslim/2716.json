@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2716,
-			"arabicnumber": "1155",
-			"text": "Bana Amr b. Muhammed En-Nâkıd rivayet etti. (Dediki); Bize İsmail b. İbrahim, Hişâmi Kurdusî'den, o da Muhammed b. Sırin'den o da Ebû Hureyre (Radiyallahû anh)'dan naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Her kim oruçlu iken unutur da, yiyip içerse orucunu tamamlasın. Zira onu ancak Allah doyurmuş ve sulamıştır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 222
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2716,
+      "arabicnumber": "1155",
+      "text": "Bana Amr b. Muhammed En-Nâkıd rivayet etti. (Dediki); Bize İsmail b. İbrahim, Hişâmi Kurdusî'den, o da Muhammed b. Sırin'den o da Ebû Hureyre (Radiyallahû anh)'dan naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Her kim oruçlu iken unutur da, yiyip içerse orucunu tamamlasın. Zira onu ancak Allah doyurmuş ve sulamıştır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 222
+      }
+    }
+  ]
 }

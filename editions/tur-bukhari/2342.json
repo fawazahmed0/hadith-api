@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"41": "Agriculture"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 2320,
-				"hadithnumber_last": 2350,
-				"arabicnumber_first": 2320,
-				"arabicnumber_last": 2350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2342,
-			"arabicnumber": 2342,
-			"text": "Amr şöyle demiştir: Rafi' İbn Hadic hadisini Tavus'a aktardım. Bana, \"Başkasına ektirebilir\" dedi. İbn Abbas da, \"Resuılullah Sallallahu Aleyhi ve Sellem, (müzaraa akdini) yasaklamadı. Fakat şöyle buyurdu: \"Sizden biri için, arazisini ücretsiz olarak ekmesi için başkasına vermesi, karşılığında belirli bir şeyalarak vermesinden daha hayırlıdır\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 41,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "41": "Ekincilik Akdi Yapma"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 2320,
+        "hadithnumber_last": 2350,
+        "arabicnumber_first": 2320,
+        "arabicnumber_last": 2350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2342,
+      "arabicnumber": 2342,
+      "text": "Amr şöyle demiştir: Rafi' İbn Hadic hadisini Tavus'a aktardım. Bana, \"Başkasına ektirebilir\" dedi. İbn Abbas da, \"Resuılullah Sallallahu Aleyhi ve Sellem, (müzaraa akdini) yasaklamadı. Fakat şöyle buyurdu: \"Sizden biri için, arazisini ücretsiz olarak ekmesi için başkasına vermesi, karşılığında belirli bir şeyalarak vermesinden daha hayırlıdır\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 41,
+        "hadith": 22
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 640,
-			"arabicnumber": 640,
-			"text": "Ümmü Seleme'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e; Kadın yalnız baş örtüsü ve gömleği ile eteklik olmadan namaz kılabilir mi? diye sordum da, \"Gömlek ayaklarının üstünü örtecek şekilde uzun olursa kılabilir\" buyurdular. Ebu Davud dedi ki: Bu hadisi Malik b. Enes, bekr b. Mudar, Hafs b. Ğıyas, İsmail b. Ca'fer, ibn Ebî Zi'b ve İbn İshak (gibi kimseler) Muhammed b. Zeyd ve annesi vasıtasıyla Ümmü Seleme'den rivayet etmişler ve bunlardan hiç biri de rivayetlerinde Hz. Nebi (Sallallahu aleyhi ve Sellem) 'den bahsetmeyip Ümmü Seleme'ye ait bir söz olarak zikretmiş­lerdir. Sadece Ebu Davud rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 250
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 640,
+      "arabicnumber": 640,
+      "text": "Ümmü Seleme'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e; Kadın yalnız baş örtüsü ve gömleği ile eteklik olmadan namaz kılabilir mi? diye sordum da, \"Gömlek ayaklarının üstünü örtecek şekilde uzun olursa kılabilir\" buyurdular. Ebu Davud dedi ki: Bu hadisi Malik b. Enes, bekr b. Mudar, Hafs b. Ğıyas, İsmail b. Ca'fer, ibn Ebî Zi'b ve İbn İshak (gibi kimseler) Muhammed b. Zeyd ve annesi vasıtasıyla Ümmü Seleme'den rivayet etmişler ve bunlardan hiç biri de rivayetlerinde Hz. Nebi (Sallallahu aleyhi ve Sellem) 'den bahsetmeyip Ümmü Seleme'ye ait bir söz olarak zikretmiş­lerdir. Sadece Ebu Davud rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 250
+      }
+    }
+  ]
 }

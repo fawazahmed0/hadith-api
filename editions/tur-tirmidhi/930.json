@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"9": "The Book on Hajj"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 809,
-				"hadithnumber_last": 964,
-				"arabicnumber_first": 809,
-				"arabicnumber_last": 964
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 930,
-			"arabicnumber": 930,
-			"text": "Ebû Rezîn el Ukaylî’den rivâyete göre, kendisi Rasûlullah (s.a.v.)’e gelerek “Ey Allah’ın Rasûlü! Babam çok yaşlıdır, hac ve umre yolculuğuna gücü yetmez” dedi. Rasûlullah (s.a.v.)’de: “Babanın yerine hac ve umre yapıver” buyurdular. Diğer tahric: İbn Mâce, Menasik; Buhârî, Cezaüs Sayd Tirmîzî: Bu hadis hasen sahihtir. Bu hadiste umrenin zikredilmesi bir başkası adına umre yapılabileceğini göstermek içindir. Ebû Rezîn el Ukaylî’nin adı Lakît b. Âmir’dir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 123
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "9": "Hac Bölümleri"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 809,
+        "hadithnumber_last": 964,
+        "arabicnumber_first": 809,
+        "arabicnumber_last": 964
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 930,
+      "arabicnumber": 930,
+      "text": "Ebû Rezîn el Ukaylî’den rivâyete göre, kendisi Rasûlullah (s.a.v.)’e gelerek “Ey Allah’ın Rasûlü! Babam çok yaşlıdır, hac ve umre yolculuğuna gücü yetmez” dedi. Rasûlullah (s.a.v.)’de: “Babanın yerine hac ve umre yapıver” buyurdular. Diğer tahric: İbn Mâce, Menasik; Buhârî, Cezaüs Sayd Tirmîzî: Bu hadis hasen sahihtir. Bu hadiste umrenin zikredilmesi bir başkası adına umre yapılabileceğini göstermek içindir. Ebû Rezîn el Ukaylî’nin adı Lakît b. Âmir’dir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 123
+      }
+    }
+  ]
 }

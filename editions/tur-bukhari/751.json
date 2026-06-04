@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 751,
-			"arabicnumber": 751,
-			"text": "Aişe (radiyallahu anha) şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem'e namazda iken baş'ı sağ'a sol'a çevirmenin hükmünü sordum. Bana şu cevabı verdi: Bu şeytan'ın, kul'un namazından bir kısmını kapıp aşırmasıdır. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 145
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 751,
+      "arabicnumber": 751,
+      "text": "Aişe (radiyallahu anha) şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem'e namazda iken baş'ı sağ'a sol'a çevirmenin hükmünü sordum. Bana şu cevabı verdi: Bu şeytan'ın, kul'un namazından bir kısmını kapıp aşırmasıdır. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 145
+      }
+    }
+  ]
 }

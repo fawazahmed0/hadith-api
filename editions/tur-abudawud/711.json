@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 711,
-			"arabicnumber": 711,
-			"text": "Hz. Aişe'den (nakledildiğine göre) kendisi Nebi (Sallallahu aleyhi ve Sellem)'in yatağında, Nebi (Sallallahu aleyhi ve Sellem) ile kıble arasında enlemesine uzanıp uyurken , Nebi (Sallallahu aleyhi ve Sellem) gece (teheccüd) namazını kılarmış. (Sonra) vitri kılmak isteyince, Aişe'yi de uyandırır, o da vitri kılarmış. Diğer tahric: Buhari, salat, vitr; Müslim, salat; müsafirîn; Nesaî, tahare, kıble; İbn Mace, ikame; Ahmed b-. Hanbel I, 99; VI, 37, 64, 95, 102, 134, ; Darimî, salat",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (512) Sahih Muslim (512)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 321
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 711,
+      "arabicnumber": 711,
+      "text": "Hz. Aişe'den (nakledildiğine göre) kendisi Nebi (Sallallahu aleyhi ve Sellem)'in yatağında, Nebi (Sallallahu aleyhi ve Sellem) ile kıble arasında enlemesine uzanıp uyurken , Nebi (Sallallahu aleyhi ve Sellem) gece (teheccüd) namazını kılarmış. (Sonra) vitri kılmak isteyince, Aişe'yi de uyandırır, o da vitri kılarmış. Diğer tahric: Buhari, salat, vitr; Müslim, salat; müsafirîn; Nesaî, tahare, kıble; İbn Mace, ikame; Ahmed b-. Hanbel I, 99; VI, 37, 64, 95, 102, 134, ; Darimî, salat",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (512) Sahih Muslim (512)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 321
+      }
+    }
+  ]
 }

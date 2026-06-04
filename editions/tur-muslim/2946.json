@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2946,
-			"arabicnumber": "1216.04",
-			"text": "Bize Muhammed b. Ma'mer b. Rib'î EI-Kaysî rivayet etti. (Dediki): Bize Ebû Hişâm, Muğiratü'bnü Selemete'l-Mahzûmî'den, o da Ebû Avâne'den, o da Ebû Bişr'den, o da Atâ' b. Ebî Rabâh'dan, o da Câbir b. Abdillâh (Radiyallahu anhüma)'dan naklen rivayet eyledi. Câbir şöyle demiş: — Resûlûllah (Sallallahu Aleyhi ve Sellem) ile birlikte hacca niyet ederek (Mekke'ye) geldik de Resûlullah (Sallallahu Aleyhi ve Sellem), bu haccı. Umre yapmamızı ve ihramdan çıkmamızı bize emir buyurdu. Onun yanında hedy kurbanı vardı. Bu sebeple haccını, Umre'ye tebdil edemedi.» İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 155
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2946,
+      "arabicnumber": "1216.04",
+      "text": "Bize Muhammed b. Ma'mer b. Rib'î EI-Kaysî rivayet etti. (Dediki): Bize Ebû Hişâm, Muğiratü'bnü Selemete'l-Mahzûmî'den, o da Ebû Avâne'den, o da Ebû Bişr'den, o da Atâ' b. Ebî Rabâh'dan, o da Câbir b. Abdillâh (Radiyallahu anhüma)'dan naklen rivayet eyledi. Câbir şöyle demiş: — Resûlûllah (Sallallahu Aleyhi ve Sellem) ile birlikte hacca niyet ederek (Mekke'ye) geldik de Resûlullah (Sallallahu Aleyhi ve Sellem), bu haccı. Umre yapmamızı ve ihramdan çıkmamızı bize emir buyurdu. Onun yanında hedy kurbanı vardı. Bu sebeple haccını, Umre'ye tebdil edemedi.» İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 155
+      }
+    }
+  ]
 }

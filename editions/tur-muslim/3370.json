@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3370,
-			"arabicnumber": "1391",
-			"text": "Bize Züheyr b. Harb ile Muhammed b. El-Müsennâ rivâyet ettiler. (Dedilerki): Bize Yahya b. Saîd, Ubeyduliah'dan rivayet etti. H. Bize İbnû Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Ubeydullah, Hubeyb b, Abdirrahman'dan, o da Hafs b. Âsım'dan, o da Ebû Hureyre'den nakîen rivayet eyledi ki, Resulullah Sallallahu aleyhi ve selem: «Evimle minberimin arası cennet bahçelerinden bir bahçedir. Minberimde havzımın üzerindedir.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 574
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3370,
+      "arabicnumber": "1391",
+      "text": "Bize Züheyr b. Harb ile Muhammed b. El-Müsennâ rivâyet ettiler. (Dedilerki): Bize Yahya b. Saîd, Ubeyduliah'dan rivayet etti. H. Bize İbnû Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Ubeydullah, Hubeyb b, Abdirrahman'dan, o da Hafs b. Âsım'dan, o da Ebû Hureyre'den nakîen rivayet eyledi ki, Resulullah Sallallahu aleyhi ve selem: «Evimle minberimin arası cennet bahçelerinden bir bahçedir. Minberimde havzımın üzerindedir.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 574
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"13": "The Two Festivals (Eids)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 948,
-				"hadithnumber_last": 989,
-				"arabicnumber_first": 948,
-				"arabicnumber_last": 989
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 957,
-			"arabicnumber": 957,
-			"text": "Abdullah İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem Kurban ve Ramazan bayramı namazlarını kıldırır ve namazdan sonra cemaate hitap ederdi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "13": "İki Bayram Namazı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 948,
+        "hadithnumber_last": 989,
+        "arabicnumber_first": 948,
+        "arabicnumber_last": 989
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 957,
+      "arabicnumber": 957,
+      "text": "Abdullah İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem Kurban ve Ramazan bayramı namazlarını kıldırır ve namazdan sonra cemaate hitap ederdi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 9
+      }
+    }
+  ]
 }

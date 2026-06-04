@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"14": "Fasting (Kitab Al-Siyam)"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2313,
-				"hadithnumber_last": 2476,
-				"arabicnumber_first": 2313,
-				"arabicnumber_last": 2476
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2397,
-			"arabicnumber": 2397,
-			"text": "(Bu hadisi), Âhmed b. Hanbel; Yahya b. Saîd'den, Yahya: Süfyândan, Süfyân; Habîb'den, o; Umâra'dan, Umara da İbn'ül-Mutavvıs'dan rivayet etmişlerdir: (Habîb b. Ebî Sabit); İbnü'l-Mutavvis'le karşılaştım, bana babası vasıtasıyla Ebû Hureyre (r.a.)'den, Hz. Peygamber (s.a.v.)'in şöyle buyurduğunu haber verdi, diyerek İbn Kesîr ve Süleyman'ın (bundan önceki 2396.) hadîslerinin bir benzerini rivayet etti. Ebû Dâvud dedi ki: \"Süfyân ve Şu'be'den \"İbnu'l-Mutavvis mi yoksa Ebu'l-Mutâvvis mı olduğunda ihtilâf edildi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "14": "Oruç Bölümü"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2313,
+        "hadithnumber_last": 2476,
+        "arabicnumber_first": 2313,
+        "arabicnumber_last": 2476
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2397,
+      "arabicnumber": 2397,
+      "text": "(Bu hadisi), Âhmed b. Hanbel; Yahya b. Saîd'den, Yahya: Süfyândan, Süfyân; Habîb'den, o; Umâra'dan, Umara da İbn'ül-Mutavvıs'dan rivayet etmişlerdir: (Habîb b. Ebî Sabit); İbnü'l-Mutavvis'le karşılaştım, bana babası vasıtasıyla Ebû Hureyre (r.a.)'den, Hz. Peygamber (s.a.v.)'in şöyle buyurduğunu haber verdi, diyerek İbn Kesîr ve Süleyman'ın (bundan önceki 2396.) hadîslerinin bir benzerini rivayet etti. Ebû Dâvud dedi ki: \"Süfyân ve Şu'be'den \"İbnu'l-Mutavvis mi yoksa Ebu'l-Mutâvvis mı olduğunda ihtilâf edildi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 85
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"24": "The Chapters on Jihad"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 2753,
-				"hadithnumber_last": 2881,
-				"arabicnumber_first": 2753,
-				"arabicnumber_last": 2881
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2836,
-			"arabicnumber": 2836,
-			"text": "Seleme bin el-Ekva (r.a.)'den; Şöyle demiştir: Ben (bir kere kâfir) bir adamla savaşıp onu öldürdüm. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) onun selebini (beraberindeki eşyasını) bana verdi. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sıka zatlardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 84
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "24": "Cihâd Kitabı"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 2753,
+        "hadithnumber_last": 2881,
+        "arabicnumber_first": 2753,
+        "arabicnumber_last": 2881
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2836,
+      "arabicnumber": 2836,
+      "text": "Seleme bin el-Ekva (r.a.)'den; Şöyle demiştir: Ben (bir kere kâfir) bir adamla savaşıp onu öldürdüm. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) onun selebini (beraberindeki eşyasını) bana verdi. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sıka zatlardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 84
+      }
+    }
+  ]
 }

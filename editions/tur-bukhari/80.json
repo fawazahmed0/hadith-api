@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 80,
-			"arabicnumber": 80,
-			"text": "Enes, Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini rivayet etmiştir: \"ilmin kaldırılması, cehaletin yerleşmesi, içkinin içilmesi ve zinanın yaygınlaşması kıyamet alâmetlerindendir. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 80,
+      "arabicnumber": 80,
+      "text": "Enes, Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini rivayet etmiştir: \"ilmin kaldırılması, cehaletin yerleşmesi, içkinin içilmesi ve zinanın yaygınlaşması kıyamet alâmetlerindendir. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 22
+      }
+    }
+  ]
 }

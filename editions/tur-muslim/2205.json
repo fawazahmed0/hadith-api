@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2205,
-			"arabicnumber": "951.02",
-			"text": "Bana Abdülmelik b. Şuayb b. Leys rivayet etti. (dediki): Bana babam, dedemden rivayet etti. (Demiş ki): Bana Ukayl b. Hâlid, İbni Şihâb'dan, o da Saîd b. El - Müseyyeb ile Ebû Selemete'bnü Abdirrrahmân'dan, onlar da Ebû Hureyre'den nakletmiş olmak üzere rivayet etti. Ebû Hureyre şöyle demiş: «Bize Resulullah (Sallallahu Aleyhi ve Sellem), Habeş Hükümdân Necaşî'nin vefatını günü gününe haber verdi. — Kardeşiniz için istiğfar edin! buyurdu.» İbni Şihâb Demiş ki: Bana Saîd b. El-Müseyyeb rivayet etti. Ona da Ebû Hureyre anlatmış ki, Resulullah (Sallallahu Aleyhi ve Sellem) ashabını namazgâhda saff yaparak cenaze namazını kıldırmış ve Necâşî üzerine dört tekbîr almış.»",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2205,
+      "arabicnumber": "951.02",
+      "text": "Bana Abdülmelik b. Şuayb b. Leys rivayet etti. (dediki): Bana babam, dedemden rivayet etti. (Demiş ki): Bana Ukayl b. Hâlid, İbni Şihâb'dan, o da Saîd b. El - Müseyyeb ile Ebû Selemete'bnü Abdirrrahmân'dan, onlar da Ebû Hureyre'den nakletmiş olmak üzere rivayet etti. Ebû Hureyre şöyle demiş: «Bize Resulullah (Sallallahu Aleyhi ve Sellem), Habeş Hükümdân Necaşî'nin vefatını günü gününe haber verdi. — Kardeşiniz için istiğfar edin! buyurdu.» İbni Şihâb Demiş ki: Bana Saîd b. El-Müseyyeb rivayet etti. Ona da Ebû Hureyre anlatmış ki, Resulullah (Sallallahu Aleyhi ve Sellem) ashabını namazgâhda saff yaparak cenaze namazını kıldırmış ve Necâşî üzerine dört tekbîr almış.»",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 83
+      }
+    }
+  ]
 }

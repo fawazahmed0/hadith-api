@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3284,
-			"arabicnumber": "1257.05",
-			"text": "Bize Muhammed b. İshâk El-Müseyyebî rivayet etti. (Dediki): Bana Enes yani Ebû Damra, Mûsâ b. Ukbe'den, o da Nâfi'den naklen rivayet ettiki: Abdullah b. Ömer hacc veya Umreden döndüğü vakit, vaktiyle Resulullah (Sallallahu Aleyhi ve Sellem)\"m devesini çöktürdüğü Zü'l-huleyfe'deki Bathâ'da devesini çöktürürmüş",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 488
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3284,
+      "arabicnumber": "1257.05",
+      "text": "Bize Muhammed b. İshâk El-Müseyyebî rivayet etti. (Dediki): Bana Enes yani Ebû Damra, Mûsâ b. Ukbe'den, o da Nâfi'den naklen rivayet ettiki: Abdullah b. Ömer hacc veya Umreden döndüğü vakit, vaktiyle Resulullah (Sallallahu Aleyhi ve Sellem)\"m devesini çöktürdüğü Zü'l-huleyfe'deki Bathâ'da devesini çöktürürmüş",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 488
+      }
+    }
+  ]
 }

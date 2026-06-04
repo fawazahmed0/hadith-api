@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"18": "The Book on Hunting"
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 1464,
-				"hadithnumber_last": 1492,
-				"arabicnumber_first": 1464,
-				"arabicnumber_last": 1492
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1492,
-			"arabicnumber": 1492,
-			"text": "Rafî b. Hadîç’den rivâyete göre, şöyle demiştir: “Bir yolculukta Rasûlüllah (sallallahü aleyhi ve sellem) ile beraberdik develerden biri kaçtı yanlarında at da yoktu ki arkasından varıp yakalasınlar bu arada bir adam deveye bir ok fırlattı hedefini bulan bu ok sebebiyle Allah deveyi orada durdurdu. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem) buyurdu ki: Bu hayvanların da yaban hayvanlar gibi vahşîlikleri vardır. Böyle yapan hayvanlara sizde böyle yaparak yakalayın.” (Müslim, Ezahî: 4; İbn Mâce, Zebaih:)",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 18,
-				"hadith": 35
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "18": "Av Bölümleri"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 1464,
+        "hadithnumber_last": 1492,
+        "arabicnumber_first": 1464,
+        "arabicnumber_last": 1492
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1492,
+      "arabicnumber": 1492,
+      "text": "Rafî b. Hadîç’den rivâyete göre, şöyle demiştir: “Bir yolculukta Rasûlüllah (sallallahü aleyhi ve sellem) ile beraberdik develerden biri kaçtı yanlarında at da yoktu ki arkasından varıp yakalasınlar bu arada bir adam deveye bir ok fırlattı hedefini bulan bu ok sebebiyle Allah deveyi orada durdurdu. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem) buyurdu ki: Bu hayvanların da yaban hayvanlar gibi vahşîlikleri vardır. Böyle yapan hayvanlara sizde böyle yaparak yakalayın.” (Müslim, Ezahî: 4; İbn Mâce, Zebaih:)",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 18,
+        "hadith": 35
+      }
+    }
+  ]
 }

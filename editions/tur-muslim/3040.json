@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3040,
-			"arabicnumber": "1257.01",
-			"text": "Bize Ebî Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdullah b. Numeyr rivayet etti. H. Bize İbni Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Ubeydullah, Nâfi'den, o da İbni Ömer'den naklen rivayet etti ki, Resulullah (Sallallahu Aleyhi ve Sellem) (Medine'den çıkarken) ağacın bulunduğu yoldan çıkar; (girerken) Muarraz yolundan girermiş. Mekke'ye giderken dahî yukarki yoldan girer aşağıki yoldan çıkarmış",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 246
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3040,
+      "arabicnumber": "1257.01",
+      "text": "Bize Ebî Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdullah b. Numeyr rivayet etti. H. Bize İbni Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Ubeydullah, Nâfi'den, o da İbni Ömer'den naklen rivayet etti ki, Resulullah (Sallallahu Aleyhi ve Sellem) (Medine'den çıkarken) ağacın bulunduğu yoldan çıkar; (girerken) Muarraz yolundan girermiş. Mekke'ye giderken dahî yukarki yoldan girer aşağıki yoldan çıkarmış",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 246
+      }
+    }
+  ]
 }

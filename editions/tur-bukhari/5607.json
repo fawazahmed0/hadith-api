@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"74": "Drinks"
-		},
-		"section_detail": {
-			"74": {
-				"hadithnumber_first": 5575,
-				"hadithnumber_last": 5639,
-				"arabicnumber_first": 5575,
-				"arabicnumber_last": 5639
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5607,
-			"arabicnumber": 5607,
-			"text": "Bera r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem beraberinde Ebu Bekir ile birlikte Mekke'den geldi. Ebu Bekr dedi ki: Bir çobanın yanından geçtik. Rasulullah Sallallahu Aleyhi ve Sellem de susamıştı. Ebu Bekr r.a. dedi ki: Ben bir kasenin içine bir miktar süt sağdım. Gönlüm rahat edinceye kadar ondan içti. Bu sırada Suraka b. Cu'şum at üzerinde yanımıza yaklaştı. Ona beddua etti. Suraka ona kendisine beddua etmemesini ve geri dönmeyi teklif etti, Nebi Sallallahu Aleyhi ve Sellem de böyle yaptı",
-			"grades": [],
-			"reference": {
-				"book": 74,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "74": "İçecek Şeyler"
+    },
+    "section_detail": {
+      "74": {
+        "hadithnumber_first": 5575,
+        "hadithnumber_last": 5639,
+        "arabicnumber_first": 5575,
+        "arabicnumber_last": 5639
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5607,
+      "arabicnumber": 5607,
+      "text": "Bera r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem beraberinde Ebu Bekir ile birlikte Mekke'den geldi. Ebu Bekr dedi ki: Bir çobanın yanından geçtik. Rasulullah Sallallahu Aleyhi ve Sellem de susamıştı. Ebu Bekr r.a. dedi ki: Ben bir kasenin içine bir miktar süt sağdım. Gönlüm rahat edinceye kadar ondan içti. Bu sırada Suraka b. Cu'şum at üzerinde yanımıza yaklaştı. Ona beddua etti. Suraka ona kendisine beddua etmemesini ve geri dönmeyi teklif etti, Nebi Sallallahu Aleyhi ve Sellem de böyle yaptı",
+      "grades": [],
+      "reference": {
+        "book": 74,
+        "hadith": 33
+      }
+    }
+  ]
 }

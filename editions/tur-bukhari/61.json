@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 61,
-			"arabicnumber": 61,
-			"text": "İbn Ömer'den rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur. \"Ağaçlar arasında bir ağaç vardır ki yaprağı düşmez. Bu ağaç müslümana benzer. Bana bu ağacın ne olduğunu söyleyiniz\". İnsanlar çöl ağaçlarını saymaya başladılar. (Abdullah b. Ömer diyor ki:) Aklıma onun hurma ağacı olduğu geldi. Ancak utandığımdan bunu söylemedim. Daha sonra ashab-ı kiram: \"Ey Allah'ın Resulü onun ne olduğunu bize bildir\" dediler. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): O hurma ağacıdır\" buyurdu. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 61,
+      "arabicnumber": 61,
+      "text": "İbn Ömer'den rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur. \"Ağaçlar arasında bir ağaç vardır ki yaprağı düşmez. Bu ağaç müslümana benzer. Bana bu ağacın ne olduğunu söyleyiniz\". İnsanlar çöl ağaçlarını saymaya başladılar. (Abdullah b. Ömer diyor ki:) Aklıma onun hurma ağacı olduğu geldi. Ancak utandığımdan bunu söylemedim. Daha sonra ashab-ı kiram: \"Ey Allah'ın Resulü onun ne olduğunu bize bildir\" dediler. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): O hurma ağacıdır\" buyurdu. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 3
+      }
+    }
+  ]
 }

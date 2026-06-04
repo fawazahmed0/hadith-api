@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2278,
-			"arabicnumber": "984.01",
-			"text": "Bize Abdullah b. Meslemete'bni Ka'neb ile Kuteybetü'bnü Said rivayet ettiler. Dedilerki: Bize Mâlik rivayet etti. H. Bize Yahya b. Yahya dahî rivayet etti. Lâfız onundur. (Dediki): Mâlik'e, Nâfi'den dinlediğim, onun da îbni Ömer'den naklen rivayet ettiği şu hadisi okudum: Resulullah (Sallallahu Aleyhi ve Sellem) Ramazanda sadaka-i fıtri Müslümanların hür veya köle, erkek veya kadın her birine hurmadan bir sa' veya arpadan bir sa' olmak üzere farz kıldı",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 16
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2278,
+      "arabicnumber": "984.01",
+      "text": "Bize Abdullah b. Meslemete'bni Ka'neb ile Kuteybetü'bnü Said rivayet ettiler. Dedilerki: Bize Mâlik rivayet etti. H. Bize Yahya b. Yahya dahî rivayet etti. Lâfız onundur. (Dediki): Mâlik'e, Nâfi'den dinlediğim, onun da îbni Ömer'den naklen rivayet ettiği şu hadisi okudum: Resulullah (Sallallahu Aleyhi ve Sellem) Ramazanda sadaka-i fıtri Müslümanların hür veya köle, erkek veya kadın her birine hurmadan bir sa' veya arpadan bir sa' olmak üzere farz kıldı",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 16
+      }
+    }
+  ]
 }

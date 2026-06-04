@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 119,
-			"arabicnumber": 119,
-			"text": "Ebu Hureyre r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e şöyle dedim: \"Ey Allah'ın Resulü! Ben senden pek çok hadis işitiyorum ancak unutuyorum.\" Nebi s.a.v. bana: \"Hırkanı yere ser\" buyurdu. Ben. hırkamı yere serdim. Elleriyle bir şey avuçlayıp hırkamın içine atıyor gibi yaptı. Sonra da: \"Topla\" dedi. Ben hırkamı topladım. Bundan sonra hiçbir şey unutmadım",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 61
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 119,
+      "arabicnumber": 119,
+      "text": "Ebu Hureyre r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e şöyle dedim: \"Ey Allah'ın Resulü! Ben senden pek çok hadis işitiyorum ancak unutuyorum.\" Nebi s.a.v. bana: \"Hırkanı yere ser\" buyurdu. Ben. hırkamı yere serdim. Elleriyle bir şey avuçlayıp hırkamın içine atıyor gibi yaptı. Sonra da: \"Topla\" dedi. Ben hırkamı topladım. Bundan sonra hiçbir şey unutmadım",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 61
+      }
+    }
+  ]
 }

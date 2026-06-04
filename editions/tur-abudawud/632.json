@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 632,
-			"arabicnumber": 632,
-			"text": "Seleme b. el-Ekva'dan; demiştir ki: Ya Resulullah, ben avcılık yapan bir adamım. Bir tek gömlek içinde namaz kılabilir miyim? dedim. (Bana); “Evet (kılabilirsin) ve (lakin) bir dikenle bile olsa onun uçlarını (birbirine) iliştir\" cevabını verdi. Diğer tahric: Buharî, salat; Nesai, kıble, Ahmed, IV",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 242
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 632,
+      "arabicnumber": 632,
+      "text": "Seleme b. el-Ekva'dan; demiştir ki: Ya Resulullah, ben avcılık yapan bir adamım. Bir tek gömlek içinde namaz kılabilir miyim? dedim. (Bana); “Evet (kılabilirsin) ve (lakin) bir dikenle bile olsa onun uçlarını (birbirine) iliştir\" cevabını verdi. Diğer tahric: Buharî, salat; Nesai, kıble, Ahmed, IV",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 242
+      }
+    }
+  ]
 }

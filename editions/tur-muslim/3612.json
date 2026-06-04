@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"17": "The Book of Suckling"
-		},
-		"section_detail": {
-			"17": {
-				"hadithnumber_first": 3568,
-				"hadithnumber_last": 3651,
-				"arabicnumber_first": 1444.01,
-				"arabicnumber_last": 1470.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3612,
-			"arabicnumber": "1456.05",
-			"text": "{…} Bana (yine) Yahya b. Habîb rivayet etti. (Dediki): Bîze Hâlid yâni İbni'l-Hâris rivayet etti. (Dediki): Bize Saîd, Katâde'den bu isnâdla bu hadîsin benzerini rivayet etti. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 17,
-				"hadith": 45
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "17": "Süt Emme"
+    },
+    "section_detail": {
+      "17": {
+        "hadithnumber_first": 3568,
+        "hadithnumber_last": 3651,
+        "arabicnumber_first": 1444.01,
+        "arabicnumber_last": 1470.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3612,
+      "arabicnumber": "1456.05",
+      "text": "{…} Bana (yine) Yahya b. Habîb rivayet etti. (Dediki): Bîze Hâlid yâni İbni'l-Hâris rivayet etti. (Dediki): Bize Saîd, Katâde'den bu isnâdla bu hadîsin benzerini rivayet etti. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 17,
+        "hadith": 45
+      }
+    }
+  ]
 }

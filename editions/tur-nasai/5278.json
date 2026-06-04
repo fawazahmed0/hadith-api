@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"48": "The Book of Adornment"
-		},
-		"section_detail": {
-			"48": {
-				"hadithnumber_first": 5040,
-				"hadithnumber_last": 5378,
-				"arabicnumber_first": 5040,
-				"arabicnumber_last": 5378
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5278,
-			"arabicnumber": 5278,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 48,
-				"hadith": 239
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "48": "Süslenme Kitabı"
+    },
+    "section_detail": {
+      "48": {
+        "hadithnumber_first": 5040,
+        "hadithnumber_last": 5378,
+        "arabicnumber_first": 5040,
+        "arabicnumber_last": 5378
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5278,
+      "arabicnumber": 5278,
+      "text": "",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 48,
+        "hadith": 239
+      }
+    }
+  ]
 }

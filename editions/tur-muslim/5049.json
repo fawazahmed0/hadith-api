@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"34": "The Book of Hunting, Slaughter, and what may be Eaten"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4972,
-				"hadithnumber_last": 5063,
-				"arabicnumber_first": 1929.01,
-				"arabicnumber_last": 1959
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5049,
-			"arabicnumber": "1953.02",
-			"text": "{…} Bu hadîsi bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Yahya b. Saîd rivayet etti. H. Bana Yahya b. Habib de rivayet etti. (Dediki) : Bize Hâlid (Yâni ibni'l Haris) rivayet etti. Her iki râvi Şu'be'den bu isnadla rivayette bulunmuşlardır. Yahya'nın hadîsinde: «Budunu yahut iki uyluğunu gönderdi.» ifadesi vardır",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 78
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "34": "Av, Kesilen Ve Eti Yenen Hayvanlar Bahsi"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4972,
+        "hadithnumber_last": 5063,
+        "arabicnumber_first": 1929.01,
+        "arabicnumber_last": 1959
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5049,
+      "arabicnumber": "1953.02",
+      "text": "{…} Bu hadîsi bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Yahya b. Saîd rivayet etti. H. Bana Yahya b. Habib de rivayet etti. (Dediki) : Bize Hâlid (Yâni ibni'l Haris) rivayet etti. Her iki râvi Şu'be'den bu isnadla rivayette bulunmuşlardır. Yahya'nın hadîsinde: «Budunu yahut iki uyluğunu gönderdi.» ifadesi vardır",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 78
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3026,
-			"arabicnumber": "1250.01",
-			"text": "Bana Muhammed b. Hatim rivayet etti. (Dediki): Bize İbni Mehdi rivayet etti. (Dediki): Bana Selim b. Hayyân, Mervân-ı Asfar (Asgar)'dan, o da Enes (Radiyallahu anh)'dan naklen rivayet eyledi ki, Hz. Alî, Yemen'den gelmiş, Nebi (Sallallahu Aleyhi ve Sellem) kendisine : — «Ne için telbiye getirdin?» diye sormuş. Alî (Radiyallahu anh): — «Nebi (Sallallahu Aleyhi ve Sellem) ne için telbiye getirdiyse, ben de onun için telbiye getirdim.» cevâbını vermiş. Rcsûlullah (Sallallahu Aleyhi ve Sellem): — «Beraberimde hedy olmasaydı, ben de ihramdan çıkardım.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 234
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3026,
+      "arabicnumber": "1250.01",
+      "text": "Bana Muhammed b. Hatim rivayet etti. (Dediki): Bize İbni Mehdi rivayet etti. (Dediki): Bana Selim b. Hayyân, Mervân-ı Asfar (Asgar)'dan, o da Enes (Radiyallahu anh)'dan naklen rivayet eyledi ki, Hz. Alî, Yemen'den gelmiş, Nebi (Sallallahu Aleyhi ve Sellem) kendisine : — «Ne için telbiye getirdin?» diye sormuş. Alî (Radiyallahu anh): — «Nebi (Sallallahu Aleyhi ve Sellem) ne için telbiye getirdiyse, ben de onun için telbiye getirdim.» cevâbını vermiş. Rcsûlullah (Sallallahu Aleyhi ve Sellem): — «Beraberimde hedy olmasaydı, ben de ihramdan çıkardım.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 234
+      }
+    }
+  ]
 }

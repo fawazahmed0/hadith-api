@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 122,
-			"arabicnumber": 122,
-			"text": "Yine Sa’d b. ebi Vakkas (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) mestler üzerine mesh konusunda: bir mahzur yoktur) buyurdu. (Buhârî, Vudu’’: 51; İbn Mâce, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 122
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 122,
+      "arabicnumber": 122,
+      "text": "Yine Sa’d b. ebi Vakkas (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) mestler üzerine mesh konusunda: bir mahzur yoktur) buyurdu. (Buhârî, Vudu’’: 51; İbn Mâce, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 122
+      }
+    }
+  ]
 }

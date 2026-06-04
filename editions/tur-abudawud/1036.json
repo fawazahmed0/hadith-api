@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1036,
-			"arabicnumber": 1036,
-			"text": "Muğîre b. Şu'be (r.a.)'den; demiştir ki: Nebi (s.a.v.) şöyle buyurdu: \"İmam iki rekatte(n sonra oturmadan) kalktığı zaman, eğer iyice doğrulmadan Önce hatırlarsa otursun. İyice doğrulursa, oturmasın, (sonunda) iki defa sehv secdesi yapsın.\" İbn Mâce, ikâme; Beyhakî, es-Sunenu'l-kübrâ, II, 343; Darekûtnî, Sünen, I, 378. Ebû Dâvûd, benim kitabımda Cabir el-Cu'fî'den (rivayet edilen) bundan başka hadis yoktur, dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 647
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1036,
+      "arabicnumber": 1036,
+      "text": "Muğîre b. Şu'be (r.a.)'den; demiştir ki: Nebi (s.a.v.) şöyle buyurdu: \"İmam iki rekatte(n sonra oturmadan) kalktığı zaman, eğer iyice doğrulmadan Önce hatırlarsa otursun. İyice doğrulursa, oturmasın, (sonunda) iki defa sehv secdesi yapsın.\" İbn Mâce, ikâme; Beyhakî, es-Sunenu'l-kübrâ, II, 343; Darekûtnî, Sünen, I, 378. Ebû Dâvûd, benim kitabımda Cabir el-Cu'fî'den (rivayet edilen) bundan başka hadis yoktur, dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 647
+      }
+    }
+  ]
 }

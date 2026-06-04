@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5678,
-			"arabicnumber": "2174",
-			"text": "Bize Abdullah b. Mesleme b. Ka'neb rivayet etti. (Dediki): Bize Hammad b. Seleme, Sabit El-Bûnânî'den, o da Enes'den naklen rivayet etti ki: Nebi (Sallallahu Aleyhi ve Sellem} kadınlarından birinin yanında imiş. Derken yanından bir adam geçmiş. Resûlullah (Sallallahu Aleyhi ve Sellem} onu çağırmış, adam da gelmiş ve: «Ey filân! Bu benim zevcem filancadır.» buyurmuş. Bunun üzerine o zât: — Yâ Resûlallah! Her kim hakkında zanna kapılırım da, senin hakkında zanna kapılmam! demiş. Resûlullah (Sallallahu Aleyhi ve Sellem}: «Şüphesiz ki, şeytan insanın kanının aktığı yerden akar!» buyurmuşlar. İzah 2175 te",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 32
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5678,
+      "arabicnumber": "2174",
+      "text": "Bize Abdullah b. Mesleme b. Ka'neb rivayet etti. (Dediki): Bize Hammad b. Seleme, Sabit El-Bûnânî'den, o da Enes'den naklen rivayet etti ki: Nebi (Sallallahu Aleyhi ve Sellem} kadınlarından birinin yanında imiş. Derken yanından bir adam geçmiş. Resûlullah (Sallallahu Aleyhi ve Sellem} onu çağırmış, adam da gelmiş ve: «Ey filân! Bu benim zevcem filancadır.» buyurmuş. Bunun üzerine o zât: — Yâ Resûlallah! Her kim hakkında zanna kapılırım da, senin hakkında zanna kapılmam! demiş. Resûlullah (Sallallahu Aleyhi ve Sellem}: «Şüphesiz ki, şeytan insanın kanının aktığı yerden akar!» buyurmuşlar. İzah 2175 te",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 32
+      }
+    }
+  ]
 }

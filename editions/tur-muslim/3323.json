@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3323,
-			"arabicnumber": "1366",
-			"text": "Bize bu hadîsi Hâmid b. Ömer de rivayet etti. (Dediki): Bize Abdülvâhit rivayet etti. (Dediki): Bize Âsim rivayet etti. (Dediki): «Enes b. Mâlik'e: Resulullah (Saliallahu Aleyhi ve Sellem) Medine'yi haram kıldı mı? diye sordum. — Evet, filân yerde filân yer arasını (haram kıldı). Orada her kim bir günah işlerse... cevâbını verdi. Sonra bana şunu söyledi: «Bu pek şiddetlidir. Orada her kim bir günah işlerse Allah'ın, melekler'in ve bütün insanların lanet'i onun üzerine olur. Kıyamet gününde Allah onun farz veya nafile hiç bir ibâdetini kabul etmez.» İbni Enes: «Yahut günah işleyen bir kimseyi barındırırsa» demiştir",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 527
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3323,
+      "arabicnumber": "1366",
+      "text": "Bize bu hadîsi Hâmid b. Ömer de rivayet etti. (Dediki): Bize Abdülvâhit rivayet etti. (Dediki): Bize Âsim rivayet etti. (Dediki): «Enes b. Mâlik'e: Resulullah (Saliallahu Aleyhi ve Sellem) Medine'yi haram kıldı mı? diye sordum. — Evet, filân yerde filân yer arasını (haram kıldı). Orada her kim bir günah işlerse... cevâbını verdi. Sonra bana şunu söyledi: «Bu pek şiddetlidir. Orada her kim bir günah işlerse Allah'ın, melekler'in ve bütün insanların lanet'i onun üzerine olur. Kıyamet gününde Allah onun farz veya nafile hiç bir ibâdetini kabul etmez.» İbni Enes: «Yahut günah işleyen bir kimseyi barındırırsa» demiştir",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 527
+      }
+    }
+  ]
 }

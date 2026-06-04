@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3278,
-			"arabicnumber": 3278,
-			"text": "Şa’bî (r.a.)’den rivâyete göre, şöyle demiştir: İbn Abbâs, Arafat’ta Ka’b ile karşılaştı ve ona bir şey sordu. Bunun üzerine Ka’b öyle bir tekbir getirdi ki dağlardan yankısı duyuldu. İbn Abbâs dedi ki: Biz Haşimoğullarındanız Ka’b ta şu karşılığı verdi: Allah görünmesiyle konuşmasını Muhammed ile Musa arasında taksim etti. Musa Rabbi ile iki sefer konuştu. Muhammed’de Rabbini iki sefer gördü. Mesrûk şöyle dedi: Âişe’nin yanına girdim ve Muhammed (s.a.v.), Rabbini görmüş müdür? Diye sordum. O da şöyle cevap verdi: Öyle bir şey sordun ki tüylerim diken diken oldu. Ben de acele etmeyiniz, dedim ve Necm sûresi 18. ayetini okudum. Âişe şu karşılığı verdi. Sen yanlış yorum ve tefsirler yaparak nerelere gidiyorsun? O Nebinin gördüğü kimse Cebrail’dir. Her kim sana Muhammed (s.a.v.)’in Rabbini gördüğünü veya kendisine emredilenlerden bir şeyi gizlediğini veya Lokman sûresi 34. ayetindeki bilinmeyenleri bildiğini söylerse en büyük yalanı ve iftirayı yapmış olur. Fakat Nebi (s.a.v), Cebrail’i görmüştür. Cebrail’i kendi şeklinde iki sefer görmüştür; biri Sidret-ül müntehada diğeri de Mekke’de mağarada ilk vahy indiği anda Ciyad mıntıkasında ki onun altı yüz kanadı vardı ve tüm ufku kaplamıştı",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 330
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3278,
+      "arabicnumber": 3278,
+      "text": "Şa’bî (r.a.)’den rivâyete göre, şöyle demiştir: İbn Abbâs, Arafat’ta Ka’b ile karşılaştı ve ona bir şey sordu. Bunun üzerine Ka’b öyle bir tekbir getirdi ki dağlardan yankısı duyuldu. İbn Abbâs dedi ki: Biz Haşimoğullarındanız Ka’b ta şu karşılığı verdi: Allah görünmesiyle konuşmasını Muhammed ile Musa arasında taksim etti. Musa Rabbi ile iki sefer konuştu. Muhammed’de Rabbini iki sefer gördü. Mesrûk şöyle dedi: Âişe’nin yanına girdim ve Muhammed (s.a.v.), Rabbini görmüş müdür? Diye sordum. O da şöyle cevap verdi: Öyle bir şey sordun ki tüylerim diken diken oldu. Ben de acele etmeyiniz, dedim ve Necm sûresi 18. ayetini okudum. Âişe şu karşılığı verdi. Sen yanlış yorum ve tefsirler yaparak nerelere gidiyorsun? O Nebinin gördüğü kimse Cebrail’dir. Her kim sana Muhammed (s.a.v.)’in Rabbini gördüğünü veya kendisine emredilenlerden bir şeyi gizlediğini veya Lokman sûresi 34. ayetindeki bilinmeyenleri bildiğini söylerse en büyük yalanı ve iftirayı yapmış olur. Fakat Nebi (s.a.v), Cebrail’i görmüştür. Cebrail’i kendi şeklinde iki sefer görmüştür; biri Sidret-ül müntehada diğeri de Mekke’de mağarada ilk vahy indiği anda Ciyad mıntıkasında ki onun altı yüz kanadı vardı ve tüm ufku kaplamıştı",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 330
+      }
+    }
+  ]
 }

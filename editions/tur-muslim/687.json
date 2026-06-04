@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"3": "The Book of Menstruation"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 679,
-				"hadithnumber_last": 836,
-				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 687,
-			"arabicnumber": "297.04",
-			"text": "Bize Yahya b. Yahya da rivayet etti. (Dediki): Bize Ebu Hayseme Hişam'dan naklen haber verdi. (Demişki): Bize Urve Aişe'den naklen haber verdi. Aişe şöyle demiş: Resulullah (Sallallahu aleyhi ve Sellem) ben odamda iken başını bana yaklaştırır, ben de ay hali olduğum halde onun başının saçlarını tarardım. Yalnız Müslim rivayet etmiştir",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "3": "Hayz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 679,
+        "hadithnumber_last": 836,
+        "arabicnumber_first": 293.01,
+        "arabicnumber_last": 376.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 687,
+      "arabicnumber": "297.04",
+      "text": "Bize Yahya b. Yahya da rivayet etti. (Dediki): Bize Ebu Hayseme Hişam'dan naklen haber verdi. (Demişki): Bize Urve Aişe'den naklen haber verdi. Aişe şöyle demiş: Resulullah (Sallallahu aleyhi ve Sellem) ben odamda iken başını bana yaklaştırır, ben de ay hali olduğum halde onun başının saçlarını tarardım. Yalnız Müslim rivayet etmiştir",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 9
+      }
+    }
+  ]
 }

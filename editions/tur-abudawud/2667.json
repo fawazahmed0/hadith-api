@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2667,
-			"arabicnumber": 2667,
-			"text": "el-Heyyac b. îmran'dan dedi ki: İmrân b. Havayn'ın bir kölesi kaçmıştı. Köleyi eline geçirdiği zaman onun elini keseceği­ne dair Allah için nezretti. Bunun üzerine beni (bu mes'eleyi) kendi adına sormam için (Hz. Peygamberin sahabelerine) gönderdi. Bende Semûre b. Cündüb'e gelip (meseleyi) ona sordum. O da; \"Rasûlullah (s.a.v.) bizi sadaka vermeye teşvik ederdi. Canlıların organlarını keserek onlara işkence yapmaktanda nehyederdi.\" diye cevap verdi. Sonra İmran b. Husayn'a varıp bir de O'na sordum. O da; \"Rasûlullah (s.a.v.) bizi sadaka vermeye teşvik ederdi. Yaratıkların organlarını keserek onlara işkence yapmaktan nehyederdi, cevâbım verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 191
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2667,
+      "arabicnumber": 2667,
+      "text": "el-Heyyac b. îmran'dan dedi ki: İmrân b. Havayn'ın bir kölesi kaçmıştı. Köleyi eline geçirdiği zaman onun elini keseceği­ne dair Allah için nezretti. Bunun üzerine beni (bu mes'eleyi) kendi adına sormam için (Hz. Peygamberin sahabelerine) gönderdi. Bende Semûre b. Cündüb'e gelip (meseleyi) ona sordum. O da; \"Rasûlullah (s.a.v.) bizi sadaka vermeye teşvik ederdi. Canlıların organlarını keserek onlara işkence yapmaktanda nehyederdi.\" diye cevap verdi. Sonra İmran b. Husayn'a varıp bir de O'na sordum. O da; \"Rasûlullah (s.a.v.) bizi sadaka vermeye teşvik ederdi. Yaratıkların organlarını keserek onlara işkence yapmaktan nehyederdi, cevâbım verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 191
+      }
+    }
+  ]
 }

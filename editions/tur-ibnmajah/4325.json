@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4325,
-			"arabicnumber": 4325,
-			"text": "İbn-i Abbas (r.a.)'dvn; Şöyle demiştir Resulullah (Sallallahu Aleyhi ve Sellem): \"Ey iman edenler Allah'tan sakınılması gerektiği gibi sakının ve herhalde muslüman olarak can veriniz\" (Al-i îmran, 102) ayetini okuyup şöyle buyurdu: Eğer zakkum'dan bir damla yer'e damlatılmış olsaydı, o damla dünyadaki canlıların geçim vesilesi (olan tüm gıda maddeleri) nl bozardı. Artık zakkum'dan başka yiyeceği olmayan (cehennem halkın) in hali nasıl (elem verici) dir?",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 226
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4325,
+      "arabicnumber": 4325,
+      "text": "İbn-i Abbas (r.a.)'dvn; Şöyle demiştir Resulullah (Sallallahu Aleyhi ve Sellem): \"Ey iman edenler Allah'tan sakınılması gerektiği gibi sakının ve herhalde muslüman olarak can veriniz\" (Al-i îmran, 102) ayetini okuyup şöyle buyurdu: Eğer zakkum'dan bir damla yer'e damlatılmış olsaydı, o damla dünyadaki canlıların geçim vesilesi (olan tüm gıda maddeleri) nl bozardı. Artık zakkum'dan başka yiyeceği olmayan (cehennem halkın) in hali nasıl (elem verici) dir?",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 226
+      }
+    }
+  ]
 }

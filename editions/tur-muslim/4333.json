@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4333,
-			"arabicnumber": "1503.05",
-			"text": "Bana Amru'n-Nâkıd da rivayet etti. (Dediki): Bize İsmail b. İbrahim, İbni Ebî Arûbe'den, o da Katâde'den, o da Nadr b. Enes'den, o da Beşîr b. Nehîk'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. «Bîr kimse bir köledeki hissesini âzâd ederse, malı olduğu takdirde kölenin kurtuluşu onun malındandir. Malı yoksa, köleyi meşakkat vermemek şartı ile köle çalışıp kazandırılır.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 80
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4333,
+      "arabicnumber": "1503.05",
+      "text": "Bana Amru'n-Nâkıd da rivayet etti. (Dediki): Bize İsmail b. İbrahim, İbni Ebî Arûbe'den, o da Katâde'den, o da Nadr b. Enes'den, o da Beşîr b. Nehîk'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. «Bîr kimse bir köledeki hissesini âzâd ederse, malı olduğu takdirde kölenin kurtuluşu onun malındandir. Malı yoksa, köleyi meşakkat vermemek şartı ile köle çalışıp kazandırılır.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 80
+      }
+    }
+  ]
 }

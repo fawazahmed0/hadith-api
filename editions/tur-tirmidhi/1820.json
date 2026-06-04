@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"25": "The Book on Food"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1788,
-				"hadithnumber_last": 1860,
-				"arabicnumber_first": 1788,
-				"arabicnumber_last": 1860
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1820,
-			"arabicnumber": 1820,
-			"text": "Ebû Hureyre (r.a.)’den rivayete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “İki kişinin yemeği üç kişiye, üç kişinin yemeği de dört kişiye yeterlidir.” Diğer tahric: İbn Mace, Etıme Tirmizî: Bu konuda Cabir ve İbn Ömer’den de hadis rivayet edilmiştir. Tirmizî: Bu hadis hasen sahihtir. Cabir ve İbn Ömer; Peygamber (s.a.v.)’den şöyle rivayet etmişlerdir: “Tek kişinin yemeği iki kişiye, iki kişinin yemeği dört kişiye dört kişinin yemeği ise sekiz kişiye yeterlidir.” Muhammed b. Beşşar; Abdurrahman b. Mehdî vasıtasıyla Sûfyan’dan, Ameş’den, Ebû Sûfyan’dan, Cabir’den bu hadisi aynı şekilde rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "25": "Yiyecek Bölümleri"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1788,
+        "hadithnumber_last": 1860,
+        "arabicnumber_first": 1788,
+        "arabicnumber_last": 1860
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1820,
+      "arabicnumber": 1820,
+      "text": "Ebû Hureyre (r.a.)’den rivayete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “İki kişinin yemeği üç kişiye, üç kişinin yemeği de dört kişiye yeterlidir.” Diğer tahric: İbn Mace, Etıme Tirmizî: Bu konuda Cabir ve İbn Ömer’den de hadis rivayet edilmiştir. Tirmizî: Bu hadis hasen sahihtir. Cabir ve İbn Ömer; Peygamber (s.a.v.)’den şöyle rivayet etmişlerdir: “Tek kişinin yemeği iki kişiye, iki kişinin yemeği dört kişiye dört kişinin yemeği ise sekiz kişiye yeterlidir.” Muhammed b. Beşşar; Abdurrahman b. Mehdî vasıtasıyla Sûfyan’dan, Ameş’den, Ebû Sûfyan’dan, Cabir’den bu hadisi aynı şekilde rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 34
+      }
+    }
+  ]
 }

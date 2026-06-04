@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 117,
-			"arabicnumber": "17.03",
-			"text": "Bana Ubeydullah b. Muaz da tahdis etti. (1/47b) Bize babam tahdis etti. (H) Bize Nasr b. Ali el-Cahdam'i de tahdis edip dedi ki: Bana babam tahdis etti. İkisi birlikte dediler ki: Bize Kurra b. Halid, Ebu Cemre'den tahdis etti. O İbn Abbas'tan, o Nebi (Sallallahu aleyhi ve Sellem)'den bu hadisi Şube'nin hadisi rivayetine yakın olarak rivayet etti ve (onun rivayetine göre Allah Rasulü) şöyle buyurdu: \"Sizlere dubba, nakfr, hantem ve müzeffet'te yapılan şıra/arı yasaklıyorum. \" İbn Muaz, hadisi rivayetinde babasından ziyade olarak şunları söylemektedir: Rasulullah (Sallallahu aleyhi ve Sellem) ayrıea Eşec'e yani Abdulkayslıların Eşec'ine şunları söyledi: \"Şüphesiz sende Allah'ın sevdiği iki haslet vardır: Vakar ve ağır başlılık (aceleci olmamak)\" Bunun tahrici de 115 ile aynıdır. 117. NOLU HADİS İÇİN:",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 117,
+      "arabicnumber": "17.03",
+      "text": "Bana Ubeydullah b. Muaz da tahdis etti. (1/47b) Bize babam tahdis etti. (H) Bize Nasr b. Ali el-Cahdam'i de tahdis edip dedi ki: Bana babam tahdis etti. İkisi birlikte dediler ki: Bize Kurra b. Halid, Ebu Cemre'den tahdis etti. O İbn Abbas'tan, o Nebi (Sallallahu aleyhi ve Sellem)'den bu hadisi Şube'nin hadisi rivayetine yakın olarak rivayet etti ve (onun rivayetine göre Allah Rasulü) şöyle buyurdu: \"Sizlere dubba, nakfr, hantem ve müzeffet'te yapılan şıra/arı yasaklıyorum. \" İbn Muaz, hadisi rivayetinde babasından ziyade olarak şunları söylemektedir: Rasulullah (Sallallahu aleyhi ve Sellem) ayrıea Eşec'e yani Abdulkayslıların Eşec'ine şunları söyledi: \"Şüphesiz sende Allah'ın sevdiği iki haslet vardır: Vakar ve ağır başlılık (aceleci olmamak)\" Bunun tahrici de 115 ile aynıdır. 117. NOLU HADİS İÇİN:",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 25
+      }
+    }
+  ]
 }

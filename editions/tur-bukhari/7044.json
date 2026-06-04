@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"91": "Interpretation of Dreams"
-		},
-		"section_detail": {
-			"91": {
-				"hadithnumber_first": 6982,
-				"hadithnumber_last": 7047,
-				"arabicnumber_first": 6982,
-				"arabicnumber_last": 7047
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7044,
-			"arabicnumber": 7044,
-			"text": "Ebu Seleme şöyle alnlatmıştır: Andolsun ben rüya görürdüm de bu rüya beni hasta ederdi. Nihayet Ebu Katade'den işittim. Şöyle diyordu: Ben de rüya görürdüm de gördüğüm rüya beni hastalandırırdı. Nihayet Nebi Sallallahu Aleyhi ve Sellem'den işittim. O şöyle buyuruyordu: \"Güzel rüya Allah tarafındandır. Herhangi biriniz sevdiği bir şeyi gördüğünde bunu kendisini seven kimselerden başkasına anlatmasın. Hoşlanmadığı bir şey gördüğü zaman ise bu rüyanın ve şeytanın şerrinden Allah'a sığınsın ve sol tarafına üç defa tükürsün ve sakın bu kötü rüyasını kimseye söylemesin. Çünkü böyle yaparsa o çirkin rüya kendisine zarar veremez",
-			"grades": [],
-			"reference": {
-				"book": 91,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "91": "Rüya Ta'bîri"
+    },
+    "section_detail": {
+      "91": {
+        "hadithnumber_first": 6982,
+        "hadithnumber_last": 7047,
+        "arabicnumber_first": 6982,
+        "arabicnumber_last": 7047
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7044,
+      "arabicnumber": 7044,
+      "text": "Ebu Seleme şöyle alnlatmıştır: Andolsun ben rüya görürdüm de bu rüya beni hasta ederdi. Nihayet Ebu Katade'den işittim. Şöyle diyordu: Ben de rüya görürdüm de gördüğüm rüya beni hastalandırırdı. Nihayet Nebi Sallallahu Aleyhi ve Sellem'den işittim. O şöyle buyuruyordu: \"Güzel rüya Allah tarafındandır. Herhangi biriniz sevdiği bir şeyi gördüğünde bunu kendisini seven kimselerden başkasına anlatmasın. Hoşlanmadığı bir şey gördüğü zaman ise bu rüyanın ve şeytanın şerrinden Allah'a sığınsın ve sol tarafına üç defa tükürsün ve sakın bu kötü rüyasını kimseye söylemesin. Çünkü böyle yaparsa o çirkin rüya kendisine zarar veremez",
+      "grades": [],
+      "reference": {
+        "book": 91,
+        "hadith": 58
+      }
+    }
+  ]
 }

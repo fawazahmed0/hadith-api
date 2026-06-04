@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2947,
-			"arabicnumber": 2947,
-			"text": "Safiyye bint-i Şeybe (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Mekke'nin fetih yılı (fetih işini tamamlamakla) sükûnete kavuşunca devesi üzerinde Ka'be'yi tavaf etti. Hacer-i Esved'i de mıhcen ile istilâm etti. Sonra Ka'be-i Muazzama'nın içine girdi. Orada aydan (denilen hurma ağacından mamul) güvercin suretinde bir put buldu. O'nu kırdıktan sonra Ka'be'nin kapısında durup kırdığı putu (dışarı) attı. Ben de O'na bakıyordum",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 66
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2947,
+      "arabicnumber": 2947,
+      "text": "Safiyye bint-i Şeybe (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Mekke'nin fetih yılı (fetih işini tamamlamakla) sükûnete kavuşunca devesi üzerinde Ka'be'yi tavaf etti. Hacer-i Esved'i de mıhcen ile istilâm etti. Sonra Ka'be-i Muazzama'nın içine girdi. Orada aydan (denilen hurma ağacından mamul) güvercin suretinde bir put buldu. O'nu kırdıktan sonra Ka'be'nin kapısında durup kırdığı putu (dışarı) attı. Ben de O'na bakıyordum",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 66
+      }
+    }
+  ]
 }

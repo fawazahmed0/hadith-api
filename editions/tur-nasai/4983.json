@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"46": "The Book of Cutting off the Hand of the Thief"
-		},
-		"section_detail": {
-			"46": {
-				"hadithnumber_first": 4870,
-				"hadithnumber_last": 4984,
-				"arabicnumber_first": 4870,
-				"arabicnumber_last": 4984
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4983,
-			"arabicnumber": 4983,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 46,
-				"hadith": 113
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "46": "Hırsızlık Kitabı"
+    },
+    "section_detail": {
+      "46": {
+        "hadithnumber_first": 4870,
+        "hadithnumber_last": 4984,
+        "arabicnumber_first": 4870,
+        "arabicnumber_last": 4984
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4983,
+      "arabicnumber": 4983,
+      "text": "",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 46,
+        "hadith": 113
+      }
+    }
+  ]
 }

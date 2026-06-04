@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1438,
-			"arabicnumber": 1438,
-			"text": "Ebu Musa r.a.'den nakledildiğine göre, Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kendisine verilen emri mükemmel bir şekilde, gönül huzuru içinde yerine getirip emredilen kişiye ileten müslüman ve güvenilir bir mal koruyucusu (hazin) sadaka veren iki kişiden biridir",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1438,
+      "arabicnumber": 1438,
+      "text": "Ebu Musa r.a.'den nakledildiğine göre, Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kendisine verilen emri mükemmel bir şekilde, gönül huzuru içinde yerine getirip emredilen kişiye ileten müslüman ve güvenilir bir mal koruyucusu (hazin) sadaka veren iki kişiden biridir",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 41
+      }
+    }
+  ]
 }

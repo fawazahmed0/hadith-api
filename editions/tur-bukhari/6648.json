@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"83": "Oaths and Vows"
-		},
-		"section_detail": {
-			"83": {
-				"hadithnumber_first": 6621,
-				"hadithnumber_last": 6707,
-				"arabicnumber_first": 6621,
-				"arabicnumber_last": 6707
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6648,
-			"arabicnumber": 6648,
-			"text": "Abdullah İbn Ömer r.a.'den rivayet edildiğine göre, Nebi Sallallahu Aleyhi ve Sellem \"Atalarınız adına yemin etmeyin\" buyurmuştur",
-			"grades": [],
-			"reference": {
-				"book": 83,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "83": "Yeminler ve Nezirler"
+    },
+    "section_detail": {
+      "83": {
+        "hadithnumber_first": 6621,
+        "hadithnumber_last": 6707,
+        "arabicnumber_first": 6621,
+        "arabicnumber_last": 6707
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6648,
+      "arabicnumber": 6648,
+      "text": "Abdullah İbn Ömer r.a.'den rivayet edildiğine göre, Nebi Sallallahu Aleyhi ve Sellem \"Atalarınız adına yemin etmeyin\" buyurmuştur",
+      "grades": [],
+      "reference": {
+        "book": 83,
+        "hadith": 27
+      }
+    }
+  ]
 }

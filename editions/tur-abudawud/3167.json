@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3167,
-			"arabicnumber": 3167,
-			"text": "Ümmü Atıyye'den demiştir ki: \"Biz (kadınlar) cenazenin arkasından gitmekten nehyolunduk. (Ancak bu mesele) üzerimize kesin bir şekilde haram kılınmadı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (313) Sahih Muslim (938 After  1491)"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 79
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3167,
+      "arabicnumber": 3167,
+      "text": "Ümmü Atıyye'den demiştir ki: \"Biz (kadınlar) cenazenin arkasından gitmekten nehyolunduk. (Ancak bu mesele) üzerimize kesin bir şekilde haram kılınmadı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (313) Sahih Muslim (938 After  1491)"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 79
+      }
+    }
+  ]
 }

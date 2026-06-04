@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 626,
-			"arabicnumber": 626,
-			"text": "Ebü Hureyre (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Sizden biriniz bir tek elbise içinde omuzlarında o elbisenin bir kısmı bulunmadan namaz kıl­masın.” Diğer tahric: Buharî, salat; Müslim, salat; Nesaî, kıble; Ahmed b. Hanbel.II",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (516)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 236
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 626,
+      "arabicnumber": 626,
+      "text": "Ebü Hureyre (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Sizden biriniz bir tek elbise içinde omuzlarında o elbisenin bir kısmı bulunmadan namaz kıl­masın.” Diğer tahric: Buharî, salat; Müslim, salat; Nesaî, kıble; Ahmed b. Hanbel.II",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (516)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 236
+      }
+    }
+  ]
 }

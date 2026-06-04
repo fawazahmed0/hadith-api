@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"7": "Tahajjud"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 254,
-				"hadithnumber_last": 286,
-				"arabicnumber_first": 254,
-				"arabicnumber_last": 286
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 283,
-			"arabicnumber": 283,
-			"text": "Aişe (r.anha) dedi ki: Resulullah Sallallahu Aleyhi ve Sellem sabah namazının sünnetini o kadar hafif kılardı ki kendi kendime acaba Fatihayı okudu mu, yoksa okumadı mı, derdim",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "7": "Gece Namazları (Teheccüd)"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 254,
+        "hadithnumber_last": 286,
+        "arabicnumber_first": 254,
+        "arabicnumber_last": 286
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 283,
+      "arabicnumber": 283,
+      "text": "Aişe (r.anha) dedi ki: Resulullah Sallallahu Aleyhi ve Sellem sabah namazının sünnetini o kadar hafif kılardı ki kendi kendime acaba Fatihayı okudu mu, yoksa okumadı mı, derdim",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 30
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"15": "Invoking Allah for Rain (Istisqaa)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 1005,
-				"hadithnumber_last": 1039,
-				"arabicnumber_first": 1005,
-				"arabicnumber_last": 1039
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1023,
-			"arabicnumber": 1023,
-			"text": "Abbad İbn Temîm bir sahabî olan amcasının şunları anlattığını nakletmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem bir grup cemaatle birlikte musallaya çıkıp onlar için yağmur duası etti. Dua sırasında ayakta durdu. Ardından kıbleye yönelip omuzuna almış olduğu ridasını çevirdi. Duanın hemen ardından yağmur yağmaya başladı",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "15": "Yağmur Duası"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 1005,
+        "hadithnumber_last": 1039,
+        "arabicnumber_first": 1005,
+        "arabicnumber_last": 1039
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1023,
+      "arabicnumber": 1023,
+      "text": "Abbad İbn Temîm bir sahabî olan amcasının şunları anlattığını nakletmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem bir grup cemaatle birlikte musallaya çıkıp onlar için yağmur duası etti. Dua sırasında ayakta durdu. Ardından kıbleye yönelip omuzuna almış olduğu ridasını çevirdi. Duanın hemen ardından yağmur yağmaya başladı",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 18
+      }
+    }
+  ]
 }

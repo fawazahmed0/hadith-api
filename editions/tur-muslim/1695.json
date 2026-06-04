@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1695,
-			"arabicnumber": "728.02",
-			"text": "Bana, Ebû Gassân El - Mis'maî rivayet etti. (Dediki): Bize, Bişr b. Mufaddal rivayet etti. (Dediki): Bize, Dâvûd, Nu'mân b. Sâlim'den, bu isnâdla : «Her kim günde on iki rek'ât nâfite namaz kılarsa, o kimseye cennetde bir ev yapılır!» hadîsini rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 125
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1695,
+      "arabicnumber": "728.02",
+      "text": "Bana, Ebû Gassân El - Mis'maî rivayet etti. (Dediki): Bize, Bişr b. Mufaddal rivayet etti. (Dediki): Bize, Dâvûd, Nu'mân b. Sâlim'den, bu isnâdla : «Her kim günde on iki rek'ât nâfite namaz kılarsa, o kimseye cennetde bir ev yapılır!» hadîsini rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 125
+      }
+    }
+  ]
 }

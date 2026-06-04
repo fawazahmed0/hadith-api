@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"79": "Asking Permission"
-		},
-		"section_detail": {
-			"79": {
-				"hadithnumber_first": 6227,
-				"hadithnumber_last": 6303,
-				"arabicnumber_first": 6227,
-				"arabicnumber_last": 6303
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6293,
-			"arabicnumber": 6293,
-			"text": "Salim'den, onun babasından rivayete göre; \"Nebi Sallallahu Aleyhi ve Sellem: Uyuyacağınız zaman ateşi evinizde (yanar halde) bırakmayınız, buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 79,
-				"hadith": 65
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "79": "İzin İsteme"
+    },
+    "section_detail": {
+      "79": {
+        "hadithnumber_first": 6227,
+        "hadithnumber_last": 6303,
+        "arabicnumber_first": 6227,
+        "arabicnumber_last": 6303
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6293,
+      "arabicnumber": 6293,
+      "text": "Salim'den, onun babasından rivayete göre; \"Nebi Sallallahu Aleyhi ve Sellem: Uyuyacağınız zaman ateşi evinizde (yanar halde) bırakmayınız, buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 79,
+        "hadith": 65
+      }
+    }
+  ]
 }

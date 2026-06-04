@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"28": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 4342,
-				"hadithnumber_last": 4397,
-				"arabicnumber_first": 1669.01,
-				"arabicnumber_last": 1683
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4358,
-			"arabicnumber": "1671.06",
-			"text": "Bize Harun b. Abdillâh dahî rivayet etti. (Dediki): Bize Mâlik b. İsmail rivayet etti. (Dediki): Bize Züheyr rivayet etti. (Dediki): Bize Simâk b. Harb, Muâviye b. Kurre'den, o da Enes'den naklen rivayet etti. Enes şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem)'e Urayne'den birkaç kişi gelerek müslüman oldular; ve ona bey'at ettiler. Medine'de mûm —ki bir sam hastalığıdır— vâki' olmuştu... Sonra yukarıkilerin hadîsi gibi nakletmiş; şunu da ziyâde eylemiştir: «Yanında Ensârdaiı yirmiye yakın genç vardı. Bunları onlara gönderdi. Beraberlerinde onların izlerini araştıracak bir de izci gönderdi.»",
-			"grades": [],
-			"reference": {
-				"book": 28,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "28": "Kasâme, Muhakibler, Kısas ve Diyetler Bahsi"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 4342,
+        "hadithnumber_last": 4397,
+        "arabicnumber_first": 1669.01,
+        "arabicnumber_last": 1683
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4358,
+      "arabicnumber": "1671.06",
+      "text": "Bize Harun b. Abdillâh dahî rivayet etti. (Dediki): Bize Mâlik b. İsmail rivayet etti. (Dediki): Bize Züheyr rivayet etti. (Dediki): Bize Simâk b. Harb, Muâviye b. Kurre'den, o da Enes'den naklen rivayet etti. Enes şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem)'e Urayne'den birkaç kişi gelerek müslüman oldular; ve ona bey'at ettiler. Medine'de mûm —ki bir sam hastalığıdır— vâki' olmuştu... Sonra yukarıkilerin hadîsi gibi nakletmiş; şunu da ziyâde eylemiştir: «Yanında Ensârdaiı yirmiye yakın genç vardı. Bunları onlara gönderdi. Beraberlerinde onların izlerini araştıracak bir de izci gönderdi.»",
+      "grades": [],
+      "reference": {
+        "book": 28,
+        "hadith": 17
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6420,
-			"arabicnumber": "2510",
-			"text": "Bize Muhammed b. Müsennâ ile Muhammed b. Beşşâr rivayet ettiler. Lâfız İbni Müsennâ'nındır. (Dedilerki): Bize Muhammed h. Ca'fer rivayet etti. (Dediki): Bize Şu'be haber verdi. (Dediki): Katâde'yi Enes b. Mâlik'den rivayet ederken dinledim ki, Resûlullah {Sallallahu Aleyhi ve Sellem): «Şüphe yok ki, ensâr benim midem ve dolabımdır. Gerçekten insanlar çoğalıp azalacaklardır. Binâenaleyh siz onların iyilik edenlerinden kabul edin! Kötülük edenlerinden affeyleyin!» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 249
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6420,
+      "arabicnumber": "2510",
+      "text": "Bize Muhammed b. Müsennâ ile Muhammed b. Beşşâr rivayet ettiler. Lâfız İbni Müsennâ'nındır. (Dedilerki): Bize Muhammed h. Ca'fer rivayet etti. (Dediki): Bize Şu'be haber verdi. (Dediki): Katâde'yi Enes b. Mâlik'den rivayet ederken dinledim ki, Resûlullah {Sallallahu Aleyhi ve Sellem): «Şüphe yok ki, ensâr benim midem ve dolabımdır. Gerçekten insanlar çoğalıp azalacaklardır. Binâenaleyh siz onların iyilik edenlerinden kabul edin! Kötülük edenlerinden affeyleyin!» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 249
+      }
+    }
+  ]
 }

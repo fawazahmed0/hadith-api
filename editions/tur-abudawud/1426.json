@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 1416,
-				"hadithnumber_last": 1555,
-				"arabicnumber_first": 1416,
-				"arabicnumber_last": 1555
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1426,
-			"arabicnumber": 1426,
-			"text": "Abdullah b. Muhammed en-Nüfeyli, Zuheyr'den, o da Ebu îshak'dan önceki (1425.) hadisi aynı isnâd ve mana ile rivayet etti. Züheyr rivayetinin sonunda, Hasan bu (kunut duasını) \"vitirdeki kunutta\" söylerdi dedi. \"Onları vitirde söylüyorum\" sözünü zikretmedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "8": "Vitr Bölümü"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 1416,
+        "hadithnumber_last": 1555,
+        "arabicnumber_first": 1416,
+        "arabicnumber_last": 1555
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1426,
+      "arabicnumber": 1426,
+      "text": "Abdullah b. Muhammed en-Nüfeyli, Zuheyr'den, o da Ebu îshak'dan önceki (1425.) hadisi aynı isnâd ve mana ile rivayet etti. Züheyr rivayetinin sonunda, Hasan bu (kunut duasını) \"vitirdeki kunutta\" söylerdi dedi. \"Onları vitirde söylüyorum\" sözünü zikretmedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 11
+      }
+    }
+  ]
 }

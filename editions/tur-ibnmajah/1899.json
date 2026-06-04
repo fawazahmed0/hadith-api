@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"9": "The Chapters on Marriage"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1845,
-				"hadithnumber_last": 2015,
-				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1899,
-			"arabicnumber": 1899,
-			"text": "Enes bin Malik (r.a.)'den; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) bir defa Medine'nin bazı yerlerinden geçti de aniden bir kaç kızcağızla karşılaştı. Kızlar def çalıyor, nağme ile şiirler okuyor ve: Biz Neccar oğullarının kızlarıyız. Muhammed (Sallallahu Aleyhi ve Sellem) ne iyi komşudur, diyorlardı. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem), o kızcağızlara: «Allah biliyor ki cidden ben de sizleri seviyorum.» buyurdu. Not: Bunun isnadının sahih, ravilerinin de sika oldukları Zevaid'de bildirilmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "9": "Nikâh Kitabı"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1845,
+        "hadithnumber_last": 2015,
+        "arabicnumber_first": 1845,
+        "arabicnumber_last": 2015
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1899,
+      "arabicnumber": 1899,
+      "text": "Enes bin Malik (r.a.)'den; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) bir defa Medine'nin bazı yerlerinden geçti de aniden bir kaç kızcağızla karşılaştı. Kızlar def çalıyor, nağme ile şiirler okuyor ve: Biz Neccar oğullarının kızlarıyız. Muhammed (Sallallahu Aleyhi ve Sellem) ne iyi komşudur, diyorlardı. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem), o kızcağızlara: «Allah biliyor ki cidden ben de sizleri seviyorum.» buyurdu. Not: Bunun isnadının sahih, ravilerinin de sika oldukları Zevaid'de bildirilmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 55
+      }
+    }
+  ]
 }

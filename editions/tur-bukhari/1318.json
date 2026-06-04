@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"23": "Funerals (Al-Janaa'iz)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1237,
-				"hadithnumber_last": 1394,
-				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1318,
-			"arabicnumber": 1318,
-			"text": "Ebu Hureyre r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem ashabına Necaşî'nin vefat haberini verdi. Sonra (cenaze namazı kıldırmak için) öne geçti, ashabı arkasında saf yaptılar. Nebi Sallallahu Aleyhi ve Sellem dört tekbir aldı",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "23": "Cenazeler"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1237,
+        "hadithnumber_last": 1394,
+        "arabicnumber_first": 1237,
+        "arabicnumber_last": 1394
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1318,
+      "arabicnumber": 1318,
+      "text": "Ebu Hureyre r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem ashabına Necaşî'nin vefat haberini verdi. Sonra (cenaze namazı kıldırmak için) öne geçti, ashabı arkasında saf yaptılar. Nebi Sallallahu Aleyhi ve Sellem dört tekbir aldı",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 75
+      }
+    }
+  ]
 }

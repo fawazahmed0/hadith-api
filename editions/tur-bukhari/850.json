@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 850,
-			"arabicnumber": 850,
-			"text": "Ümmü Seleme (r.anha) şöyle demiştir: \"Resulullah (Sallallahu Aleyhi ve Sellem) namaz'ı bitirdikten sonra bulunduğu yerde birazcık beklerdi.\" İbni Şihab bu rivayetle ilgili olarak şunları söylemiştir: \"Bize kalırsa - tabii ki Allah en doğrusunu bilir - Resulullah (Sallallahu Aleyhi ve Sellem) kadınların namazı bitirip rahatlıkla çıkmalarını sağlamak için böyle beklerdi",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 241
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 850,
+      "arabicnumber": 850,
+      "text": "Ümmü Seleme (r.anha) şöyle demiştir: \"Resulullah (Sallallahu Aleyhi ve Sellem) namaz'ı bitirdikten sonra bulunduğu yerde birazcık beklerdi.\" İbni Şihab bu rivayetle ilgili olarak şunları söylemiştir: \"Bize kalırsa - tabii ki Allah en doğrusunu bilir - Resulullah (Sallallahu Aleyhi ve Sellem) kadınların namazı bitirip rahatlıkla çıkmalarını sağlamak için böyle beklerdi",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 241
+      }
+    }
+  ]
 }

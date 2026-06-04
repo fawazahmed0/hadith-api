@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 836,
-			"arabicnumber": 836,
-			"text": "Ebu Seleme, Ebu Saîd el-Hudrî (r.a.)'e kadir gecesiyle ilgili bir soru sormuş da şöyle cevap vermiştir: \"Ben Resûlullah Sallallahu Aleyhi ve Sellem'in su ve çamurla kaplanmış mescid zemine secde ettiğini gördüm; alnında çamur kalıntıları vardı",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 229
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 836,
+      "arabicnumber": 836,
+      "text": "Ebu Seleme, Ebu Saîd el-Hudrî (r.a.)'e kadir gecesiyle ilgili bir soru sormuş da şöyle cevap vermiştir: \"Ben Resûlullah Sallallahu Aleyhi ve Sellem'in su ve çamurla kaplanmış mescid zemine secde ettiğini gördüm; alnında çamur kalıntıları vardı",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 229
+      }
+    }
+  ]
 }

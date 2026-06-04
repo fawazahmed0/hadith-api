@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7289,
-			"arabicnumber": "2902",
-			"text": "Bana Harmele b. Yahya rivayet etti, (Dediki): Bize haber verdi. (Dediki): Bana Yûnus, İhnû Şihab'dan naklen ibni Vehb haber verdi. (Demişki): Bana ibni Müseyyeb haber verdi. Ona da Ebû Hureyre haber vermişki, Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar. H. Bana Abdû'l-Melik b. Şuayb b. Leys de rivayet etti. (Dediki): Bize babam, dedemden rivayet etti. (Demişki): Bana Ukayl b. Hâlid, ibni Şihâb'dan rivayet etti ki, şöyle demiş: ibni Müseyyeb dediki: Bana Ebû Hureyre haber verdi ki, Resulullah (Sallallahu Aleyhi ve Sellem): «Hicaz toprağından Bûsra'daki develerin boyunlarını aydınlatacak bir ateş çıkmadıkça kıyamet kopmayacaktir.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7289,
+      "arabicnumber": "2902",
+      "text": "Bana Harmele b. Yahya rivayet etti, (Dediki): Bize haber verdi. (Dediki): Bana Yûnus, İhnû Şihab'dan naklen ibni Vehb haber verdi. (Demişki): Bana ibni Müseyyeb haber verdi. Ona da Ebû Hureyre haber vermişki, Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlar. H. Bana Abdû'l-Melik b. Şuayb b. Leys de rivayet etti. (Dediki): Bize babam, dedemden rivayet etti. (Demişki): Bana Ukayl b. Hâlid, ibni Şihâb'dan rivayet etti ki, şöyle demiş: ibni Müseyyeb dediki: Bana Ebû Hureyre haber verdi ki, Resulullah (Sallallahu Aleyhi ve Sellem): «Hicaz toprağından Bûsra'daki develerin boyunlarını aydınlatacak bir ateş çıkmadıkça kıyamet kopmayacaktir.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 55
+      }
+    }
+  ]
 }

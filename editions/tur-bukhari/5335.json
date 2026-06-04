@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"68": "Divorce"
-		},
-		"section_detail": {
-			"68": {
-				"hadithnumber_first": 5251,
-				"hadithnumber_last": 5350,
-				"arabicnumber_first": 5251,
-				"arabicnumber_last": 5350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5335,
-			"arabicnumber": 5335,
-			"text": "Zeyneb dedi ki: \"Ben, kardeşi vefat ettiği sırada Cahş kızı Zeyneb'in huzuruna girdim. O da bir koku getirilmesini istedi. Eliyle ondan biraz aldıktan sonra: Allah'a yemin ederim, benim koku sürünmeye bir ihtiyacım yok. Şu kadar var ki Rasulullah Sallallahu Aleyhi ve Sellem'in minber üzerinde: Allah'a ve ahiret gününe iman eden bir kadının, kocası için dört ay on günlük bir süre dışında (herhangi bir kimse için) üç günden fazla ihdad yapması (süslenmeyi ve koku sürünmeyi terk etmesi) helal değildir, diye buyururken dinlemişimdir, dedi",
-			"grades": [],
-			"reference": {
-				"book": 68,
-				"hadith": 80
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "68": "Boşamak-Boşanmak"
+    },
+    "section_detail": {
+      "68": {
+        "hadithnumber_first": 5251,
+        "hadithnumber_last": 5350,
+        "arabicnumber_first": 5251,
+        "arabicnumber_last": 5350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5335,
+      "arabicnumber": 5335,
+      "text": "Zeyneb dedi ki: \"Ben, kardeşi vefat ettiği sırada Cahş kızı Zeyneb'in huzuruna girdim. O da bir koku getirilmesini istedi. Eliyle ondan biraz aldıktan sonra: Allah'a yemin ederim, benim koku sürünmeye bir ihtiyacım yok. Şu kadar var ki Rasulullah Sallallahu Aleyhi ve Sellem'in minber üzerinde: Allah'a ve ahiret gününe iman eden bir kadının, kocası için dört ay on günlük bir süre dışında (herhangi bir kimse için) üç günden fazla ihdad yapması (süslenmeyi ve koku sürünmeyi terk etmesi) helal değildir, diye buyururken dinlemişimdir, dedi",
+      "grades": [],
+      "reference": {
+        "book": 68,
+        "hadith": 80
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1587,
-			"arabicnumber": 1587,
-			"text": "İbn Abbas r.a. şöyle demiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem Mekke'nin fethedildiği gün, \"Cenab-ı Allah bu beldeyi harem (dokunulmaz ve kutsal) kılmıştır. Bundan dolayı Mekke'deki diken kesilmez avı avlanmaz, buluntu malına da sahibini bulmak amacıyla ilan için olması hariç, el sürülmez\" buyurmuştur",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 73
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1587,
+      "arabicnumber": 1587,
+      "text": "İbn Abbas r.a. şöyle demiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem Mekke'nin fethedildiği gün, \"Cenab-ı Allah bu beldeyi harem (dokunulmaz ve kutsal) kılmıştır. Bundan dolayı Mekke'deki diken kesilmez avı avlanmaz, buluntu malına da sahibini bulmak amacıyla ilan için olması hariç, el sürülmez\" buyurmuştur",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 73
+      }
+    }
+  ]
 }

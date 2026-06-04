@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3171,
-			"arabicnumber": "1311.03",
-			"text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrezzâk haber verdi. (Dediki): Bize Ma'mer, Zührî'den, o da Sâlim'den naklen haber verdi kî, Ebû Bekir, Ömer ve İbni Ömer Ebtaha inerlermiş. Zührî demiş ki: «Bana Âişe'den naklen Urve de haber verdi ki Âişe (Radiyallahu anha) bunu yapmaz. (Resûlullah (Sallallahu Aleyhi ve Sellem)'in oraya inmesi ancak yola çıkması için kolayına gelen bir yer olduğundandır.) dermiş.» İzah 1313 te",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 375
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3171,
+      "arabicnumber": "1311.03",
+      "text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrezzâk haber verdi. (Dediki): Bize Ma'mer, Zührî'den, o da Sâlim'den naklen haber verdi kî, Ebû Bekir, Ömer ve İbni Ömer Ebtaha inerlermiş. Zührî demiş ki: «Bana Âişe'den naklen Urve de haber verdi ki Âişe (Radiyallahu anha) bunu yapmaz. (Resûlullah (Sallallahu Aleyhi ve Sellem)'in oraya inmesi ancak yola çıkması için kolayına gelen bir yer olduğundandır.) dermiş.» İzah 1313 te",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 375
+      }
+    }
+  ]
 }

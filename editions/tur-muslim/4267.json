@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4267,
-			"arabicnumber": "1649.05",
-			"text": "{…} Bana Ali b. Hucr Es-Sa'dî ile İshâk b. İbrahim ve İbni Numeyr, İsmail b. Uleyye'den, o da Eyyûb'dan, o da Kaasim Et-Teymî'den, o da Zehdem El-Cermî'den naklen rivayet ettiler. H. Bize İbni Ebî Ömer de rivayet etti. (Dediki): Bize Süfyân, Eyyûb'dan, o da Ebû Kılâbe'den, o da Zehdem El-Cermî'den rivayet etti. H. Bana Ebû Bekir b. İshâk da rivayet etti. (Dediki): Bize Affân b. Müslim rivayet etti. (Dediki): Bize Vüheyb rivayet etti. (Dediki): Bize Eyyûb, Ebû Kılâbe ile Kaasim'den, onlar da Zehdem El-Cermî'den naklen rivayet etti. Ebû Musa'nın yanında idik... demiş. Bu râvilerin hepsi Hammâd b. Zeyd hadîsi mânâsında rivayette bulunmuşlardır",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 14
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4267,
+      "arabicnumber": "1649.05",
+      "text": "{…} Bana Ali b. Hucr Es-Sa'dî ile İshâk b. İbrahim ve İbni Numeyr, İsmail b. Uleyye'den, o da Eyyûb'dan, o da Kaasim Et-Teymî'den, o da Zehdem El-Cermî'den naklen rivayet ettiler. H. Bize İbni Ebî Ömer de rivayet etti. (Dediki): Bize Süfyân, Eyyûb'dan, o da Ebû Kılâbe'den, o da Zehdem El-Cermî'den rivayet etti. H. Bana Ebû Bekir b. İshâk da rivayet etti. (Dediki): Bize Affân b. Müslim rivayet etti. (Dediki): Bize Vüheyb rivayet etti. (Dediki): Bize Eyyûb, Ebû Kılâbe ile Kaasim'den, onlar da Zehdem El-Cermî'den naklen rivayet etti. Ebû Musa'nın yanında idik... demiş. Bu râvilerin hepsi Hammâd b. Zeyd hadîsi mânâsında rivayette bulunmuşlardır",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 14
+      }
+    }
+  ]
 }

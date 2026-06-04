@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"54": "General Subjects"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 1763,
-				"hadithnumber_last": 1807,
-				"arabicnumber_first": 1763,
-				"arabicnumber_last": 1807
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1766,
-			"arabicnumber": 1766,
-			"text": "Abdullah b. ebi Bekir (r.a)'in babasından rivayete göre, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Biri aksırırsa yerhamukallah (Allah sana rahmet eylesin) diye hayır ve bereketle dua et. Sonra yine aksırırsa yine aynısını söyle yine aksırırsa yine aynı karşılığı ver, yine aksırarsa: \"Sen nezle olmuşsun\" de.\" Abdullah b. ebi Bekir: \"Bunu üçüncüden sonra mı yoksa dördüncüden sonra mı söylediğini bilmiyorum\" dedi. Diğer tahric: Ebu Davud, Edeb",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih Lighairihi"
-				}
-			],
-			"reference": {
-				"book": 54,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "54": "Genel Konular"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 1763,
+        "hadithnumber_last": 1807,
+        "arabicnumber_first": 1763,
+        "arabicnumber_last": 1807
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1766,
+      "arabicnumber": 1766,
+      "text": "Abdullah b. ebi Bekir (r.a)'in babasından rivayete göre, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Biri aksırırsa yerhamukallah (Allah sana rahmet eylesin) diye hayır ve bereketle dua et. Sonra yine aksırırsa yine aynısını söyle yine aksırırsa yine aynı karşılığı ver, yine aksırarsa: \"Sen nezle olmuşsun\" de.\" Abdullah b. ebi Bekir: \"Bunu üçüncüden sonra mı yoksa dördüncüden sonra mı söylediğini bilmiyorum\" dedi. Diğer tahric: Ebu Davud, Edeb",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih Lighairihi"
+        }
+      ],
+      "reference": {
+        "book": 54,
+        "hadith": 4
+      }
+    }
+  ]
 }

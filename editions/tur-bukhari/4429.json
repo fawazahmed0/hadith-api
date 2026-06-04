@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4429,
-			"arabicnumber": 4429,
-			"text": "Abdullah b. Abbas r.a., Haris kızı Ümmü’l-Fadl rivayetle şöyle demiştir: \"Nebi Sallallahu Aleyhi ve Sellem'i akşam namazında Ve'l-murselati urfen (suresin)i okurken dinledim. Bundan sonra ise Allah onun ruhunu kabzedinceye kadar bize başka bir namaz kıldırmadı",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 451
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4429,
+      "arabicnumber": 4429,
+      "text": "Abdullah b. Abbas r.a., Haris kızı Ümmü’l-Fadl rivayetle şöyle demiştir: \"Nebi Sallallahu Aleyhi ve Sellem'i akşam namazında Ve'l-murselati urfen (suresin)i okurken dinledim. Bundan sonra ise Allah onun ruhunu kabzedinceye kadar bize başka bir namaz kıldırmadı",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 451
+      }
+    }
+  ]
 }

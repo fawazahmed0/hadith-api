@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 859,
-			"arabicnumber": 859,
-			"text": "İmam Malik'ten: Ömer b. Hattab, Ali b. Ebî Talip ve Ebu Hureyre'ye: «— Hac için ihrama gii'en kimse, hanımıyla cima etmesi halinde ne yapar?» diye soruldu. «— Haccını ifaya devam eder, ancak ertesi sene tekrar bir hac yapması ve kurban kesmesi icab eder» diye cevap verdiler. Ayrıca Hz. Ali şiınu da ilave etti: «— Ertesi seneki hacda, haccı bitirinceye kadar karı-koca bir birine yaklaşmazlar",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 155
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 859,
+      "arabicnumber": 859,
+      "text": "İmam Malik'ten: Ömer b. Hattab, Ali b. Ebî Talip ve Ebu Hureyre'ye: «— Hac için ihrama gii'en kimse, hanımıyla cima etmesi halinde ne yapar?» diye soruldu. «— Haccını ifaya devam eder, ancak ertesi sene tekrar bir hac yapması ve kurban kesmesi icab eder» diye cevap verdiler. Ayrıca Hz. Ali şiınu da ilave etti: «— Ertesi seneki hacda, haccı bitirinceye kadar karı-koca bir birine yaklaşmazlar",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 155
+      }
+    }
+  ]
 }

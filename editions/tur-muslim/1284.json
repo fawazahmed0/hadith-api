@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1284,
-			"arabicnumber": "572.11",
-			"text": "Bize bu hadîs'i Avn b. Sellâm El-Kûfî'de rivayet etti. (Dediki) : Bize Ebu Bekir En-Nehşelî, Abdurrahmân b. Esved'den, o da babasından, o da AbduIIah'dan naklen haber verdi. Abdullah şöyle demiş: Bize Resulullah (Sallallahu Aleyhi ve Sellem) (namazı) beş rek'ât kıldırdı. Bunun Üzerine biz: — Yâ Besûlallah namaza ziyâdemi yapıIdı? dedik. Resulullah «Ne o?» buyurdular. Ashâb: — Namazı beş rek'ât kıldırdın!» dediler. Resulullah (Sallallahu Aleyhi ve Sellem): — «Ben ancak sizin gibi bir insanım. Sizin hatırladığınız gibi hatırlar; unuttuğunuz gibi unuturum.»buyurdular. Sonra iki secde-i sehiv yaptılar",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 122
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1284,
+      "arabicnumber": "572.11",
+      "text": "Bize bu hadîs'i Avn b. Sellâm El-Kûfî'de rivayet etti. (Dediki) : Bize Ebu Bekir En-Nehşelî, Abdurrahmân b. Esved'den, o da babasından, o da AbduIIah'dan naklen haber verdi. Abdullah şöyle demiş: Bize Resulullah (Sallallahu Aleyhi ve Sellem) (namazı) beş rek'ât kıldırdı. Bunun Üzerine biz: — Yâ Besûlallah namaza ziyâdemi yapıIdı? dedik. Resulullah «Ne o?» buyurdular. Ashâb: — Namazı beş rek'ât kıldırdın!» dediler. Resulullah (Sallallahu Aleyhi ve Sellem): — «Ben ancak sizin gibi bir insanım. Sizin hatırladığınız gibi hatırlar; unuttuğunuz gibi unuturum.»buyurdular. Sonra iki secde-i sehiv yaptılar",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 122
+      }
+    }
+  ]
 }

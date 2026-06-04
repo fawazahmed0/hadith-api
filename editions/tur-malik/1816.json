@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"56": "Speech"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 1811,
-				"hadithnumber_last": 1838,
-				"arabicnumber_first": 1811,
-				"arabicnumber_last": 1838
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1816,
-			"arabicnumber": 1816,
-			"text": "Ebu Hureyre (r.a.) der ki: Bir kişi bir söz söyler de o sözden dolayı cehennem ateşine düşeceği hatırına gelmez. Bir kimse de bir söz söyler, bu sözden dolayı Allah'ın kendisini cennete koyacağı aklına gelmez. Bu hadis mevkuftur. Abdurrahman b. Abdillah b. Dinar -babası- Ebu Salih Ebu Hureyre yoluyla merfu olarak rivayet edilir: Buharı, Rıkak",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 56,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "56": "Konuşma"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 1811,
+        "hadithnumber_last": 1838,
+        "arabicnumber_first": 1811,
+        "arabicnumber_last": 1838
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1816,
+      "arabicnumber": 1816,
+      "text": "Ebu Hureyre (r.a.) der ki: Bir kişi bir söz söyler de o sözden dolayı cehennem ateşine düşeceği hatırına gelmez. Bir kimse de bir söz söyler, bu sözden dolayı Allah'ın kendisini cennete koyacağı aklına gelmez. Bu hadis mevkuftur. Abdurrahman b. Abdillah b. Dinar -babası- Ebu Salih Ebu Hureyre yoluyla merfu olarak rivayet edilir: Buharı, Rıkak",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 56,
+        "hadith": 6
+      }
+    }
+  ]
 }

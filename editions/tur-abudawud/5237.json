@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5237,
-			"arabicnumber": 5237,
-			"text": "Hz. Enes b. Malik'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) birgün dışarı çıkıp yüksek bir kubbe görmüş de: \"Bu (da) ne? (böyle)? demiş. (Orada bulunan) sahâbîler de kendisine: \"(Bu kubbe) ensardan falanca kişiye aittir, demişler, Rasûlullah (s.a.v.) hoşlanmadığı bu işi içinde saklayarak sükût etmiş. Nihayet (bu kubbe'nin) sahibi Rasûlullah (s.a.v.)'e gelip halkın içinde selâm vermiş. Rasûlullah (s.a.v.) de ondan yüz çevirmiş. (Adam selamının alınmadığını anlayınca) bu selam verme işini defalarca tekrarlamış. Nihayet adam (her defasında da selamının alınmadığını görünce) Hz. Nebideki öfkeyi ve kendinden yüz çevirdiğini sezmiş ve durumu arkadaşlarına (açarak) dert yanmış ve: \"Vallahi ben Rasûlullah (s.a.v.)'i(n bu davranışını) yadırgadım\" demiş, onlar da: \"(Rasûlullah (s.a.v.) dışarı çıktı senin bu kubbeni (yüksek bir halde) gördü (de ondan böyle yaptı)\" demişler. Bunun üzerine adam hemen kubbesini dönüp yıkmış, yerle bir etmiş. Derken Rasûlullah (s.a.v.) birgün (yine) dışarı çıkmış bu kubbeyi göremeyince (oradakilere): Kubbeye ne oldu? diye sormuş (onlar da:) Onun sahibi bize senin kendisinden yüz çevirdiğinden sızlandı. (Gidip) onu yıktı\" demişler (Hz. Nebi de:) İhtiyaç fazlası her bina sahibi üzerine bir vebaldir\" buyurmuş",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 465
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5237,
+      "arabicnumber": 5237,
+      "text": "Hz. Enes b. Malik'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) birgün dışarı çıkıp yüksek bir kubbe görmüş de: \"Bu (da) ne? (böyle)? demiş. (Orada bulunan) sahâbîler de kendisine: \"(Bu kubbe) ensardan falanca kişiye aittir, demişler, Rasûlullah (s.a.v.) hoşlanmadığı bu işi içinde saklayarak sükût etmiş. Nihayet (bu kubbe'nin) sahibi Rasûlullah (s.a.v.)'e gelip halkın içinde selâm vermiş. Rasûlullah (s.a.v.) de ondan yüz çevirmiş. (Adam selamının alınmadığını anlayınca) bu selam verme işini defalarca tekrarlamış. Nihayet adam (her defasında da selamının alınmadığını görünce) Hz. Nebideki öfkeyi ve kendinden yüz çevirdiğini sezmiş ve durumu arkadaşlarına (açarak) dert yanmış ve: \"Vallahi ben Rasûlullah (s.a.v.)'i(n bu davranışını) yadırgadım\" demiş, onlar da: \"(Rasûlullah (s.a.v.) dışarı çıktı senin bu kubbeni (yüksek bir halde) gördü (de ondan böyle yaptı)\" demişler. Bunun üzerine adam hemen kubbesini dönüp yıkmış, yerle bir etmiş. Derken Rasûlullah (s.a.v.) birgün (yine) dışarı çıkmış bu kubbeyi göremeyince (oradakilere): Kubbeye ne oldu? diye sormuş (onlar da:) Onun sahibi bize senin kendisinden yüz çevirdiğinden sızlandı. (Gidip) onu yıktı\" demişler (Hz. Nebi de:) İhtiyaç fazlası her bina sahibi üzerine bir vebaldir\" buyurmuş",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 465
+      }
+    }
+  ]
 }

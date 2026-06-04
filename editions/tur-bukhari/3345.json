@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3345,
-			"arabicnumber": 3345,
-			"text": "Abdullah (b. Mes'ud)'dan dedi ki: Nebi Sallallahu Aleyhi ve Sellem'i: \"O halde var mı ibret alıp, düşünen ?\"[Kamer, 15] buyruğunu okurken dinledim",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 20
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3345,
+      "arabicnumber": 3345,
+      "text": "Abdullah (b. Mes'ud)'dan dedi ki: Nebi Sallallahu Aleyhi ve Sellem'i: \"O halde var mı ibret alıp, düşünen ?\"[Kamer, 15] buyruğunu okurken dinledim",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 20
+      }
+    }
+  ]
 }

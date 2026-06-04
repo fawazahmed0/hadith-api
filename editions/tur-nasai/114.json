@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 114,
-			"arabicnumber": 114,
-			"text": "Asım b. Lakît (radıyallahü anh) babasından aktarıyor ve şöyle diyor: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: alırken abdestini tam ve eksiksiz al, suyu her tarafına ulaştır ve parmak aralarını da ovala (hilalle). (Tirmizî, Tahara: 30; İbn Mâce, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 114
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 114,
+      "arabicnumber": 114,
+      "text": "Asım b. Lakît (radıyallahü anh) babasından aktarıyor ve şöyle diyor: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: alırken abdestini tam ve eksiksiz al, suyu her tarafına ulaştır ve parmak aralarını da ovala (hilalle). (Tirmizî, Tahara: 30; İbn Mâce, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 114
+      }
+    }
+  ]
 }

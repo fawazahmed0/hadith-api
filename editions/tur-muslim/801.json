@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"3": "The Book of Menstruation"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 679,
-				"hadithnumber_last": 836,
-				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 801,
-			"arabicnumber": "359.02",
-			"text": "{….} Bize bu hadisi Ebu Kureyb'de rivayet etti. (Dediki): Bize Ebu Üsame, Velid b. Kesir'den rivayet etti. (Dediki): Bize Muhammed b. Amr b. Ata rivayet etti. Ben İbni Abbas'Ia beraberdim...» diyerek hadîsi İbni Halhale hadisinin manası île rivayet etti.» Bu hadiste «İbni Abbas Nebi (Sallallahu Aleyhi ve Sellem)'in bunu yaptığına şahit olmuş» cümlesîde vardır. Birde «Namaz kıldı» demiş. Fakat «Cemaata kıldırdı» kaydını söylememiştir",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 122
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "3": "Hayz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 679,
+        "hadithnumber_last": 836,
+        "arabicnumber_first": 293.01,
+        "arabicnumber_last": 376.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 801,
+      "arabicnumber": "359.02",
+      "text": "{….} Bize bu hadisi Ebu Kureyb'de rivayet etti. (Dediki): Bize Ebu Üsame, Velid b. Kesir'den rivayet etti. (Dediki): Bize Muhammed b. Amr b. Ata rivayet etti. Ben İbni Abbas'Ia beraberdim...» diyerek hadîsi İbni Halhale hadisinin manası île rivayet etti.» Bu hadiste «İbni Abbas Nebi (Sallallahu Aleyhi ve Sellem)'in bunu yaptığına şahit olmuş» cümlesîde vardır. Birde «Namaz kıldı» demiş. Fakat «Cemaata kıldırdı» kaydını söylememiştir",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 122
+      }
+    }
+  ]
 }

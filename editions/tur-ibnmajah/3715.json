@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3715,
-			"arabicnumber": 3715,
-			"text": "Ali (r.a.)'den rivayet edildiğinene göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Biriniz aksırdığı zaman el-Hamdu Lillah desin ve etrafındakiler de ona : Yerhamukallah (=Allah sana rahmet etsin) diye karşılık versinler. Kendisi de etrafındakilere: Yehdikumullahu ve yuslihu balekum (=Allah size hidayet etsin ve halinizi düzgün eylesin) duasıyla karşılasın.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde İbn-i Ebi Leyla bulunur. Adı Muhammed bin Abdirrahman'dır. Bu nivi zayıftır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 59
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3715,
+      "arabicnumber": 3715,
+      "text": "Ali (r.a.)'den rivayet edildiğinene göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Biriniz aksırdığı zaman el-Hamdu Lillah desin ve etrafındakiler de ona : Yerhamukallah (=Allah sana rahmet etsin) diye karşılık versinler. Kendisi de etrafındakilere: Yehdikumullahu ve yuslihu balekum (=Allah size hidayet etsin ve halinizi düzgün eylesin) duasıyla karşılasın.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde İbn-i Ebi Leyla bulunur. Adı Muhammed bin Abdirrahman'dır. Bu nivi zayıftır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 59
+      }
+    }
+  ]
 }

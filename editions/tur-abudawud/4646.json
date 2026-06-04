@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4646,
-			"arabicnumber": 4646,
-			"text": "Sefine'den (rivayet edildiğine göre): Rasûlullah (s.a.v.) (şöyle) buyurmuştur: \"Nebi halifeliği otuz sene (sürecek) dir. Sonra Allah mülkü veya (kendi) mülkünü(n idaresini) dilediği kimseye verir.\" (Râvi) Sâid ibn Cümhan dedi ki: (Bu hadisi rivayet eden) Sefine bana: (şunu) kafanda (iyi) tut. Ebu Bekir(in halifeliği) iki senedir. Ömer(inki) on, Osman'(inki) onikidir. Ali de aynı şekilde (Hz. Nebiin halifelerinden)dir, dedi. Ben de kendisine (Mervan oğullarına işaret ederek:) \"Ama şunlar Hz. Ali'nin halife olmadığını iddia ediyorlar?\" dedim.\" Mervân oğullarını kasdederek \"Zerkâ oğullarının kıçları yalan söylemiştir\" dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4646,
+      "arabicnumber": 4646,
+      "text": "Sefine'den (rivayet edildiğine göre): Rasûlullah (s.a.v.) (şöyle) buyurmuştur: \"Nebi halifeliği otuz sene (sürecek) dir. Sonra Allah mülkü veya (kendi) mülkünü(n idaresini) dilediği kimseye verir.\" (Râvi) Sâid ibn Cümhan dedi ki: (Bu hadisi rivayet eden) Sefine bana: (şunu) kafanda (iyi) tut. Ebu Bekir(in halifeliği) iki senedir. Ömer(inki) on, Osman'(inki) onikidir. Ali de aynı şekilde (Hz. Nebiin halifelerinden)dir, dedi. Ben de kendisine (Mervan oğullarına işaret ederek:) \"Ama şunlar Hz. Ali'nin halife olmadığını iddia ediyorlar?\" dedim.\" Mervân oğullarını kasdederek \"Zerkâ oğullarının kıçları yalan söylemiştir\" dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 51
+      }
+    }
+  ]
 }

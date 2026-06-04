@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4057,
-			"arabicnumber": 4057,
-			"text": "İbn el-Müseyyeb'in şöyle dediği rivayet edilmiştir: \"Sa'd b. Ebi Vakkas r.a. dedi ki: Uhud günü Resulullah sallal1ahu aleyhi ve sellem savaşırken benim için anne babasının her ikisini de bir arada zikretti -o bu sözleriyle, babam ve anam sana feda olsun dediği zamanı kastetmektedir",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4057,
+      "arabicnumber": 4057,
+      "text": "İbn el-Müseyyeb'in şöyle dediği rivayet edilmiştir: \"Sa'd b. Ebi Vakkas r.a. dedi ki: Uhud günü Resulullah sallal1ahu aleyhi ve sellem savaşırken benim için anne babasının her ikisini de bir arada zikretti -o bu sözleriyle, babam ve anam sana feda olsun dediği zamanı kastetmektedir",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 103
+      }
+    }
+  ]
 }

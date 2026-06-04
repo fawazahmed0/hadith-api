@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"56": "The Book of Commentary on the Qur'an"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 7523,
-				"hadithnumber_last": 7563,
-				"arabicnumber_first": 3015,
-				"arabicnumber_last": 3033.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7551,
-			"arabicnumber": "3028",
-			"text": "Bize Muhammed b. Beşşâr rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti, H. Bana Ebû Bekr b. Nâfi' de rivayet etti. Lâfız onundur. (Dediki): Bize Gunder rivayet etti. (Dediki): Bize Şu'be, Seleme b. Küheyl'den, o da Müslim El-Batin'den, o da Said b. Cubeyr*den, o da İbni Abbas'dan naklen rivayet etti. (Şöyle demiş): (Vaktiyle) Kadın beyti çıplak olarak tavaf eder. Bana kim ödünç bir tavaf elbisesi verecek? derdi. Onu fercinin üzerine koyar : «Bugün bir kısmı yahut hepsi görünür ama, onun görünen kısmını helal etmem !» derdi. Bunun üzerine şu âyet-i kerîme indi: «Her mescid’e girerken, zinetinizi alınız…..!» [A'raf]",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 29
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "56": "Tefsir"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 7523,
+        "hadithnumber_last": 7563,
+        "arabicnumber_first": 3015,
+        "arabicnumber_last": 3033.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7551,
+      "arabicnumber": "3028",
+      "text": "Bize Muhammed b. Beşşâr rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti, H. Bana Ebû Bekr b. Nâfi' de rivayet etti. Lâfız onundur. (Dediki): Bize Gunder rivayet etti. (Dediki): Bize Şu'be, Seleme b. Küheyl'den, o da Müslim El-Batin'den, o da Said b. Cubeyr*den, o da İbni Abbas'dan naklen rivayet etti. (Şöyle demiş): (Vaktiyle) Kadın beyti çıplak olarak tavaf eder. Bana kim ödünç bir tavaf elbisesi verecek? derdi. Onu fercinin üzerine koyar : «Bugün bir kısmı yahut hepsi görünür ama, onun görünen kısmını helal etmem !» derdi. Bunun üzerine şu âyet-i kerîme indi: «Her mescid’e girerken, zinetinizi alınız…..!» [A'raf]",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 29
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"55": "Wills and Testaments (Wasaayaa)"
-		},
-		"section_detail": {
-			"55": {
-				"hadithnumber_first": 2738,
-				"hadithnumber_last": 2781,
-				"arabicnumber_first": 2738,
-				"arabicnumber_last": 2781
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2741,
-			"arabicnumber": 2741,
-			"text": "Esved'den nakledilmiştir: Hz. Aişe r.anha'nın yanında Hz. Nebi'in Hz. Ali'ye vasiyet ettiği konuşulmuştu. \"Ne zaman vasiyet etmiş. Ben onu göğsüme dayamıştım. Bir tas su istedi. Sonra kucağıma uzandı. Ben onun öldüğünü bile sezmedim. Ne zaman vasiyet etmiş?\" dedi",
-			"grades": [],
-			"reference": {
-				"book": 55,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "55": "Vasiyyetler"
+    },
+    "section_detail": {
+      "55": {
+        "hadithnumber_first": 2738,
+        "hadithnumber_last": 2781,
+        "arabicnumber_first": 2738,
+        "arabicnumber_last": 2781
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2741,
+      "arabicnumber": 2741,
+      "text": "Esved'den nakledilmiştir: Hz. Aişe r.anha'nın yanında Hz. Nebi'in Hz. Ali'ye vasiyet ettiği konuşulmuştu. \"Ne zaman vasiyet etmiş. Ben onu göğsüme dayamıştım. Bir tas su istedi. Sonra kucağıma uzandı. Ben onun öldüğünü bile sezmedim. Ne zaman vasiyet etmiş?\" dedi",
+      "grades": [],
+      "reference": {
+        "book": 55,
+        "hadith": 4
+      }
+    }
+  ]
 }

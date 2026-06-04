@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"2": "The Book of Purification"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 534,
-				"hadithnumber_last": 678,
-				"arabicnumber_first": 223,
-				"arabicnumber_last": 292.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 566,
-			"arabicnumber": "240.01",
-			"text": "Bize Harun b. Sa'id el-Eylî ile Ebu't-Tahir ve Ahmed h İsa rivayet ettiler. Dedilerki: Bize Abdullah b. Vehb, Mahremetü'bnü Bukeyr'den, o da babasından o da Şeddad'ın azatlısı Salim'den naklen haber verdi. Salim şöyle demiş: Sa'd b. Ebi Vakkas'ın vefat ettiği gün Nebi (Sallallahu aleyhi ve Sellem)'in zevcesi Aişe (r.anha)'nın huzuruna girdim. Abdurrahman b. Ebi Bekr de içeri girdi ve onun yanında abdest aldı. Aişe (r.anha): Ey Abdurrahman abdest azalarını iyice yıka, çünkü ben Resulullah (Sallallahu aleyhi ve Sellem)'i: \"Ateşten dolayı ökçelerin vay haline\" buyururken dinledim, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 2,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "2": "Taharet"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 534,
+        "hadithnumber_last": 678,
+        "arabicnumber_first": 223,
+        "arabicnumber_last": 292.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 566,
+      "arabicnumber": "240.01",
+      "text": "Bize Harun b. Sa'id el-Eylî ile Ebu't-Tahir ve Ahmed h İsa rivayet ettiler. Dedilerki: Bize Abdullah b. Vehb, Mahremetü'bnü Bukeyr'den, o da babasından o da Şeddad'ın azatlısı Salim'den naklen haber verdi. Salim şöyle demiş: Sa'd b. Ebi Vakkas'ın vefat ettiği gün Nebi (Sallallahu aleyhi ve Sellem)'in zevcesi Aişe (r.anha)'nın huzuruna girdim. Abdurrahman b. Ebi Bekr de içeri girdi ve onun yanında abdest aldı. Aişe (r.anha): Ey Abdurrahman abdest azalarını iyice yıka, çünkü ben Resulullah (Sallallahu aleyhi ve Sellem)'i: \"Ateşten dolayı ökçelerin vay haline\" buyururken dinledim, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 2,
+        "hadith": 33
+      }
+    }
+  ]
 }

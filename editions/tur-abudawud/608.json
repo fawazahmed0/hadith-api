@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 608,
-			"arabicnumber": 608,
-			"text": "Enes b. Malik'den; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) (bir defa) Ümmü Haram'a geldi. (Ev halkı) Resulullah (Sallallahu aleyhi ve Sellem)'e yağ ve hurma ikram ettiler. Hz. Nebi de; \"Şunu (yağ) tulumuna, şunu (hurmayı) da kabına geri götürünüz. (Çünkü) ben oruçluyum\" buyurdu. Sonra kalktı, bize iki rekat nafile namaz kıldırdı. Ümmü Süleym ile Ümmü Haram da arkamızda namaza durdular. Sabit dedi ki: Ben, Enes'in -sadece- \"Resulullah (Sallallahu aleyhi ve Sellem) beni sağına, sergi üzerine durdurdu\" dediğini biliyorum (o kadar)\" Diğer tahric: Buharî, savm; Ahmed b. Hanbel, III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 218
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 608,
+      "arabicnumber": 608,
+      "text": "Enes b. Malik'den; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) (bir defa) Ümmü Haram'a geldi. (Ev halkı) Resulullah (Sallallahu aleyhi ve Sellem)'e yağ ve hurma ikram ettiler. Hz. Nebi de; \"Şunu (yağ) tulumuna, şunu (hurmayı) da kabına geri götürünüz. (Çünkü) ben oruçluyum\" buyurdu. Sonra kalktı, bize iki rekat nafile namaz kıldırdı. Ümmü Süleym ile Ümmü Haram da arkamızda namaza durdular. Sabit dedi ki: Ben, Enes'in -sadece- \"Resulullah (Sallallahu aleyhi ve Sellem) beni sağına, sergi üzerine durdurdu\" dediğini biliyorum (o kadar)\" Diğer tahric: Buharî, savm; Ahmed b. Hanbel, III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 218
+      }
+    }
+  ]
 }

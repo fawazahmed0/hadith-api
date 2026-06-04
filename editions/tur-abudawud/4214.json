@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"36": "Signet-Rings (Kitab Al-Khatam)"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 4214,
-				"hadithnumber_last": 4239,
-				"arabicnumber_first": 4214,
-				"arabicnumber_last": 4239
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4214,
-			"arabicnumber": 4214,
-			"text": "Enes b. Malik (r.a) şöyle demiştir: Rasulullah (Sallallahu aleyhi ve Sellem) bazı yabancılara mektup yazmak istedi. Kendisine, \"Onlar mühürsüz mektubu okumazlar\" denildi, bunun üzerine gümüşten yüzük bir mühür edindi. Ve ona (Muhammedün Rasûlullah) Muhammed Allah'ın Resulu'dür\" cümlesini kazıttı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (5872)"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "36": "Yüzük Konularının Başı"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 4214,
+        "hadithnumber_last": 4239,
+        "arabicnumber_first": 4214,
+        "arabicnumber_last": 4239
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4214,
+      "arabicnumber": 4214,
+      "text": "Enes b. Malik (r.a) şöyle demiştir: Rasulullah (Sallallahu aleyhi ve Sellem) bazı yabancılara mektup yazmak istedi. Kendisine, \"Onlar mühürsüz mektubu okumazlar\" denildi, bunun üzerine gümüşten yüzük bir mühür edindi. Ve ona (Muhammedün Rasûlullah) Muhammed Allah'ın Resulu'dür\" cümlesini kazıttı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5872)"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 1
+      }
+    }
+  ]
 }

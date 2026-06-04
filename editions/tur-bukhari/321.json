@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"6": "Menstrual Periods"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 294,
-				"hadithnumber_last": 333,
-				"arabicnumber_first": 294,
-				"arabicnumber_last": 333
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 321,
-			"arabicnumber": 321,
-			"text": "Muaze'den şöyle nakledilmiştir: \"Bir kadın Aişe (r.anha)'ye, 'Hayızdan çıkınca namazımızı kaza edelim mi?' diye sordu. Bunun üzerine Aişe (r.anha) şöyle cevap verdi: 'Yoksa sen, Haruriye fırkasından mısın? Biz Nebi SÜRESİ varken hayız olurduk. O, bize böyle bir şey emretmedi.' Ya da Aişe (r.anha) ( son cümle yerine) 'biz kaza etmezdik' demiştir.\" Diğer tahric: Tirmizi Tahare; Müslim, Hayz",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "6": "Hayız"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 294,
+        "hadithnumber_last": 333,
+        "arabicnumber_first": 294,
+        "arabicnumber_last": 333
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 321,
+      "arabicnumber": 321,
+      "text": "Muaze'den şöyle nakledilmiştir: \"Bir kadın Aişe (r.anha)'ye, 'Hayızdan çıkınca namazımızı kaza edelim mi?' diye sordu. Bunun üzerine Aişe (r.anha) şöyle cevap verdi: 'Yoksa sen, Haruriye fırkasından mısın? Biz Nebi SÜRESİ varken hayız olurduk. O, bize böyle bir şey emretmedi.' Ya da Aişe (r.anha) ( son cümle yerine) 'biz kaza etmezdik' demiştir.\" Diğer tahric: Tirmizi Tahare; Müslim, Hayz",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 26
+      }
+    }
+  ]
 }

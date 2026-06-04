@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4083,
-			"arabicnumber": 4083,
-			"text": "Katade, Enes r.a.'l şöyle derken dinledim: \"Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Uhud bizi seven, bizim\" de kendisini sevdiğimiz bir dağdır",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 127
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4083,
+      "arabicnumber": 4083,
+      "text": "Katade, Enes r.a.'l şöyle derken dinledim: \"Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Uhud bizi seven, bizim\" de kendisini sevdiğimiz bir dağdır",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 127
+      }
+    }
+  ]
 }

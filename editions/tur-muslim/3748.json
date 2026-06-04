@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"19": "The Book of Invoking Curses"
-		},
-		"section_detail": {
-			"19": {
-				"hadithnumber_first": 3743,
-				"hadithnumber_last": 3769,
-				"arabicnumber_first": 1492.01,
-				"arabicnumber_last": 1500.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3748,
-			"arabicnumber": "1493.03",
-			"text": "Bize Yahya b. Yahya ile Ebû Bekr b. Ebî Şeybe ve Züheyr b. Harb rivayet ettiler. Lâfız Yahya'nındır. Yahya (Bize haber verdi) tâbirini kullandı. Ötekiler: (Bize Süfyân b. Uyeyne rivayet etti) dediler Süfyan, Amr'dan, o da Saîd b. Cübeyr'den, o da İbni Ömer'den naklen rivayet etmiş. İbni Ömer şunu söylemiş : Resûlullah (Sallallahu Aleyhi ve Sellem) liân yapanlara: «Hesabınız Allah'a kalmıştır. Biriniz yalancıdır. Senin liân yapmak için bir delilin yoktur.» buyurdu. Erkek : — Yâ Resûlâllah! Malım ne olacak? dedi. «Sana mal yoktur. Eğer kadın aleyhinde doğru söyledi isen; mal, fercinin sana helâl olmasına tekabül eder. Yalan söyledi isen bu mal talebi senin için ondan daha uzaktır.» buyurdular. Züheyr kendi rivayetinde şöyle dedi: «Bize Süfyân, Amr'dan naklen rivayet etti. Amr, Saîd b. Cübeyr'i şunu söylerken işitmiş: Ben İbnİ Ömer'i: Resûlullah (Sallallahu Aleyhi ve Sellem) buyurdu; derken işittim.»",
-			"grades": [],
-			"reference": {
-				"book": 19,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "19": "Liân"
+    },
+    "section_detail": {
+      "19": {
+        "hadithnumber_first": 3743,
+        "hadithnumber_last": 3769,
+        "arabicnumber_first": 1492.01,
+        "arabicnumber_last": 1500.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3748,
+      "arabicnumber": "1493.03",
+      "text": "Bize Yahya b. Yahya ile Ebû Bekr b. Ebî Şeybe ve Züheyr b. Harb rivayet ettiler. Lâfız Yahya'nındır. Yahya (Bize haber verdi) tâbirini kullandı. Ötekiler: (Bize Süfyân b. Uyeyne rivayet etti) dediler Süfyan, Amr'dan, o da Saîd b. Cübeyr'den, o da İbni Ömer'den naklen rivayet etmiş. İbni Ömer şunu söylemiş : Resûlullah (Sallallahu Aleyhi ve Sellem) liân yapanlara: «Hesabınız Allah'a kalmıştır. Biriniz yalancıdır. Senin liân yapmak için bir delilin yoktur.» buyurdu. Erkek : — Yâ Resûlâllah! Malım ne olacak? dedi. «Sana mal yoktur. Eğer kadın aleyhinde doğru söyledi isen; mal, fercinin sana helâl olmasına tekabül eder. Yalan söyledi isen bu mal talebi senin için ondan daha uzaktır.» buyurdular. Züheyr kendi rivayetinde şöyle dedi: «Bize Süfyân, Amr'dan naklen rivayet etti. Amr, Saîd b. Cübeyr'i şunu söylerken işitmiş: Ben İbnİ Ömer'i: Resûlullah (Sallallahu Aleyhi ve Sellem) buyurdu; derken işittim.»",
+      "grades": [],
+      "reference": {
+        "book": 19,
+        "hadith": 6
+      }
+    }
+  ]
 }

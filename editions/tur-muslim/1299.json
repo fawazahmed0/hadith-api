@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1299,
-			"arabicnumber": "578.01",
-			"text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Mâlik'e, Esved b. Süfyân'ın âzâdlısı, Abdullah b. Yezid'den dinlediğim, onun da Ebu Selemete'bnü Abdirrahmân'dan naklen rivayet ettiği şu hadîsi okudum: Ebu Seleme ile arkadaşlarına Ebu Hureyre İnşikâk sûresini okumuş da secde etmiş. Secdeyi yaptıkdan sonra Resulullah (Sallallahu Aleyhi ve Sellem)'in bu sûrede secde ettiğini kendilerine haber vermiş",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 137
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1299,
+      "arabicnumber": "578.01",
+      "text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Mâlik'e, Esved b. Süfyân'ın âzâdlısı, Abdullah b. Yezid'den dinlediğim, onun da Ebu Selemete'bnü Abdirrahmân'dan naklen rivayet ettiği şu hadîsi okudum: Ebu Seleme ile arkadaşlarına Ebu Hureyre İnşikâk sûresini okumuş da secde etmiş. Secdeyi yaptıkdan sonra Resulullah (Sallallahu Aleyhi ve Sellem)'in bu sûrede secde ettiğini kendilerine haber vermiş",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 137
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"14": "The Book on Business"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 1205,
-				"hadithnumber_last": 1321,
-				"arabicnumber_first": 1205,
-				"arabicnumber_last": 1321
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1289,
-			"arabicnumber": 1289,
-			"text": "Amr b. Şuayb (r.a.)’ın babasından ve dedesinden rivâyete göre, Nebi (s.a.v.)’e dalındaki meyvenin durumu soruldu da şöyle buyurdular: “Bir kimsenin ihtiyacı varsa zaruri durumlarda cebine ve kabına doldurmaksızın o meyveden yemesinden bir şey lazım gelmez.” Diğer tahric: Ebû Dâvûd, Lukata; Nesâî, Kat’us Sarik Tirmîzî: Bu hadis hasendir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 91
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "14": "Alışveriş Bölümleri"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 1205,
+        "hadithnumber_last": 1321,
+        "arabicnumber_first": 1205,
+        "arabicnumber_last": 1321
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1289,
+      "arabicnumber": 1289,
+      "text": "Amr b. Şuayb (r.a.)’ın babasından ve dedesinden rivâyete göre, Nebi (s.a.v.)’e dalındaki meyvenin durumu soruldu da şöyle buyurdular: “Bir kimsenin ihtiyacı varsa zaruri durumlarda cebine ve kabına doldurmaksızın o meyveden yemesinden bir şey lazım gelmez.” Diğer tahric: Ebû Dâvûd, Lukata; Nesâî, Kat’us Sarik Tirmîzî: Bu hadis hasendir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 91
+      }
+    }
+  ]
 }

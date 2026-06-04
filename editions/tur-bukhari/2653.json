@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"52": "Witnesses"
-		},
-		"section_detail": {
-			"52": {
-				"hadithnumber_first": 2637,
-				"hadithnumber_last": 2689,
-				"arabicnumber_first": 2637,
-				"arabicnumber_last": 2689
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2653,
-			"arabicnumber": 2653,
-			"text": "Enes r.a.'den rivayet edilmiştir: Nebi'e Sallallahu Aleyhi ve Sellem büyük günahlar soruldu. şöyle buyurdu: \"Allah'a şirk koşmak, anne-babaya karşı gelmek, insan öldürmek ve yalan yere şahitlik etmektir.\" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 52,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "52": "Şehâdetler"
+    },
+    "section_detail": {
+      "52": {
+        "hadithnumber_first": 2637,
+        "hadithnumber_last": 2689,
+        "arabicnumber_first": 2637,
+        "arabicnumber_last": 2689
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2653,
+      "arabicnumber": 2653,
+      "text": "Enes r.a.'den rivayet edilmiştir: Nebi'e Sallallahu Aleyhi ve Sellem büyük günahlar soruldu. şöyle buyurdu: \"Allah'a şirk koşmak, anne-babaya karşı gelmek, insan öldürmek ve yalan yere şahitlik etmektir.\" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 52,
+        "hadith": 17
+      }
+    }
+  ]
 }

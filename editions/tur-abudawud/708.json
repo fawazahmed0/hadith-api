@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 708,
-			"arabicnumber": 708,
-			"text": "Amr b. Şuayb, büyük babası (Abdullah b. Amr b. As)'ın şöyle dediğini rivayet etmiştir: Nebi (Sallallahu aleyhi ve Sellem) ile birlikte (Mekke ile Medine arasındaki) Ezahir yolundan inmiştik. Namaz (vakti) giriverdi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) duvarı kıblesine aldı, (onu sütre edinerek) namaza durdu. Biz de arkasındaydık. Hemen bir kuzu gelerek Önünden geçmeye yeltendi. Nebi (Sallallahu aleyhi ve Sellem) karnı duvara değinceye kadar ona engel olmaya çalıştı. Kuzu da (mecburen) O (Sallallahu aleyhi ve Sellem)'nun arkasından (cemaatin önünden) geçti. (Ebu Davud,hadisi) yahutta Müsedded'in dediği gibidir (de ben iyi hıfz edememişimdir, dedi)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 318
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 708,
+      "arabicnumber": 708,
+      "text": "Amr b. Şuayb, büyük babası (Abdullah b. Amr b. As)'ın şöyle dediğini rivayet etmiştir: Nebi (Sallallahu aleyhi ve Sellem) ile birlikte (Mekke ile Medine arasındaki) Ezahir yolundan inmiştik. Namaz (vakti) giriverdi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) duvarı kıblesine aldı, (onu sütre edinerek) namaza durdu. Biz de arkasındaydık. Hemen bir kuzu gelerek Önünden geçmeye yeltendi. Nebi (Sallallahu aleyhi ve Sellem) karnı duvara değinceye kadar ona engel olmaya çalıştı. Kuzu da (mecburen) O (Sallallahu aleyhi ve Sellem)'nun arkasından (cemaatin önünden) geçti. (Ebu Davud,hadisi) yahutta Müsedded'in dediği gibidir (de ben iyi hıfz edememişimdir, dedi)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 318
+      }
+    }
+  ]
 }

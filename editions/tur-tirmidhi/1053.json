@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"10": "The Book on Jana''iz (Funerals)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 965,
-				"hadithnumber_last": 1079,
-				"arabicnumber_first": 965,
-				"arabicnumber_last": 1079
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1053,
-			"arabicnumber": 1053,
-			"text": "İbn Abbâs (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Rasûlullah (s.a.v.) Medîne mezarlıklarına uğradı ve yüzünü kabirdekilere doğru çevirerek şöyle buyurdular: Ey bu kabirlerde yatanlar! Allah’ın selamı sizlerin üzerine olsun. Allah bizi de sizi de affetsin siz bizim önden gidenlerimizsiniz biz de sizin izinizden geleceğiz.” Diğer tahric: İbn Mâce, Cenaiz; Müslim, Cenaiz) Tirmîzî: Bu konuda Büreyde ve Âişe’den de hadis rivâyet edilmiştir. Tirmîzî: İbn Abbâs hadisi hasen garibtir. Ebû Kudeyne’nin ismi Yahya b. Mühellab’tır. Ebû Zabyan’ın ismi ise Husayn b. Cündüp’tür",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 10,
-				"hadith": 89
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "10": "Cenaze Bölümleri"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 965,
+        "hadithnumber_last": 1079,
+        "arabicnumber_first": 965,
+        "arabicnumber_last": 1079
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1053,
+      "arabicnumber": 1053,
+      "text": "İbn Abbâs (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Rasûlullah (s.a.v.) Medîne mezarlıklarına uğradı ve yüzünü kabirdekilere doğru çevirerek şöyle buyurdular: Ey bu kabirlerde yatanlar! Allah’ın selamı sizlerin üzerine olsun. Allah bizi de sizi de affetsin siz bizim önden gidenlerimizsiniz biz de sizin izinizden geleceğiz.” Diğer tahric: İbn Mâce, Cenaiz; Müslim, Cenaiz) Tirmîzî: Bu konuda Büreyde ve Âişe’den de hadis rivâyet edilmiştir. Tirmîzî: İbn Abbâs hadisi hasen garibtir. Ebû Kudeyne’nin ismi Yahya b. Mühellab’tır. Ebû Zabyan’ın ismi ise Husayn b. Cündüp’tür",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 10,
+        "hadith": 89
+      }
+    }
+  ]
 }

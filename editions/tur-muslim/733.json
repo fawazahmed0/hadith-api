@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"3": "The Book of Menstruation"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 679,
-				"hadithnumber_last": 836,
-				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 733,
-			"arabicnumber": "322",
-			"text": "Bize Kuteybe b. Said ve Ebu Bekr b. Ebi Şeybe birlikte İbn Uyeyne'den tahdis ettiler. Kuteybe dedi ki: Bize Süfyan, Amr'dan, o Ebu'şŞa'sa'dan tahdis etti. O İbn Abbas'tan şöyle dediğini nakletti: Meymline'nin bana haber verdiğine göre o Nebi (Sallallahu aleyhi ve Sellem) ile birlikte aynı kapta guslederdi. Diğer tahric: Tirmizi, 62; Nesai, 236; İbn Mace, 377 AÇIKLAMALAR 324.sayfada",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "3": "Hayz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 679,
+        "hadithnumber_last": 836,
+        "arabicnumber_first": 293.01,
+        "arabicnumber_last": 376.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 733,
+      "arabicnumber": "322",
+      "text": "Bize Kuteybe b. Said ve Ebu Bekr b. Ebi Şeybe birlikte İbn Uyeyne'den tahdis ettiler. Kuteybe dedi ki: Bize Süfyan, Amr'dan, o Ebu'şŞa'sa'dan tahdis etti. O İbn Abbas'tan şöyle dediğini nakletti: Meymline'nin bana haber verdiğine göre o Nebi (Sallallahu aleyhi ve Sellem) ile birlikte aynı kapta guslederdi. Diğer tahric: Tirmizi, 62; Nesai, 236; İbn Mace, 377 AÇIKLAMALAR 324.sayfada",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 55
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"5": "Bathing (Ghusl)"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 248,
-				"hadithnumber_last": 293,
-				"arabicnumber_first": 248,
-				"arabicnumber_last": 293
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 274,
-			"arabicnumber": 274,
-			"text": "Meymune validemizden şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) cenabetten dolayı abdest almak için abdest suyunu hazırladı. Sonra sağ eli ile sol eline iki ya da üç kez su döktü. Sonra avret mahallini yıkadı, daha sonra iki ya da üç kez elini yere veya duvara sildi. Sonra ağzını çalkaladı, burnuna su verdi, yüzünü ve kollarını yıkadı. Sonra başından aşağı su döküp bütün vücudunu yıkadı. Daha sonra bulunduğu yerden biraz kenara çekilerek ayaklarını yıkadı. Ona (kurulanması için) bir bez getirdim. Fakat, almadı. Eliyle suyu silkelemeye başladı",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "5": "Gusül"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 248,
+        "hadithnumber_last": 293,
+        "arabicnumber_first": 248,
+        "arabicnumber_last": 293
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 274,
+      "arabicnumber": 274,
+      "text": "Meymune validemizden şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) cenabetten dolayı abdest almak için abdest suyunu hazırladı. Sonra sağ eli ile sol eline iki ya da üç kez su döktü. Sonra avret mahallini yıkadı, daha sonra iki ya da üç kez elini yere veya duvara sildi. Sonra ağzını çalkaladı, burnuna su verdi, yüzünü ve kollarını yıkadı. Sonra başından aşağı su döküp bütün vücudunu yıkadı. Daha sonra bulunduğu yerden biraz kenara çekilerek ayaklarını yıkadı. Ona (kurulanması için) bir bez getirdim. Fakat, almadı. Eliyle suyu silkelemeye başladı",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 26
+      }
+    }
+  ]
 }

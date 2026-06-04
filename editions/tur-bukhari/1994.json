@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1994,
-			"arabicnumber": 1994,
-			"text": "Ziyad İbn Cübeyr şöyle demiştir: Bir adam İbn Ömer'e gelerek şöyle dedi: Bir kimse örneğin Pazartesi günü oruç tutmayı adadı. Bu gün de bayrama denk geldi. Bu durumda ne olur? İbn Ömer şöyle dedi: Allah adağı yerine getirmeyi emretmiştir, Nebi Sallallahu Aleyhi ve Sellem de bugün oruç tutmayı yasaklamıştır. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 100
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1994,
+      "arabicnumber": 1994,
+      "text": "Ziyad İbn Cübeyr şöyle demiştir: Bir adam İbn Ömer'e gelerek şöyle dedi: Bir kimse örneğin Pazartesi günü oruç tutmayı adadı. Bu gün de bayrama denk geldi. Bu durumda ne olur? İbn Ömer şöyle dedi: Allah adağı yerine getirmeyi emretmiştir, Nebi Sallallahu Aleyhi ve Sellem de bugün oruç tutmayı yasaklamıştır. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 100
+      }
+    }
+  ]
 }

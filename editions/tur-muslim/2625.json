@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2625,
-			"arabicnumber": "1121.01",
-			"text": "Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Leys, Hişam b. Urve'den, o da babasından, o da Aişe (Radiyallahu anha)'dan naklen rivayet etti ki, şöyle demiş: Hamzatü'bnü Amr El-Eslemî, Resulullah (Sallallahu Aleyhi ve Sellem)'e seferde oruç tutmanın hükmünü sordu, Resulullah (Sallallahu Aleyhi ve Sellem): — «İstersen oruç tut, istersen tutma.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 131
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2625,
+      "arabicnumber": "1121.01",
+      "text": "Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Leys, Hişam b. Urve'den, o da babasından, o da Aişe (Radiyallahu anha)'dan naklen rivayet etti ki, şöyle demiş: Hamzatü'bnü Amr El-Eslemî, Resulullah (Sallallahu Aleyhi ve Sellem)'e seferde oruç tutmanın hükmünü sordu, Resulullah (Sallallahu Aleyhi ve Sellem): — «İstersen oruç tut, istersen tutma.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 131
+      }
+    }
+  ]
 }

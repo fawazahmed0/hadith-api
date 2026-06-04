@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5229,
-			"arabicnumber": "2004.04",
-			"text": "Bize İshâk b. İbrahim dahî rivayet etti. (Dediki): Bize Cerir, A'meş'den, o da Yahya b. Ebî Ömer'den, o da İbn-i Abbâs'dan naklen haber verdi. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) için tulumda kuru üzüm ıslatılır. Artık onu o gün, ertesi gün ve daha ertesi gün içerdi. Üçüncü günün akşamı oldumu onu içer ve içirirdi. Şayet bir şey kalırsa onu dökerdi",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5229,
+      "arabicnumber": "2004.04",
+      "text": "Bize İshâk b. İbrahim dahî rivayet etti. (Dediki): Bize Cerir, A'meş'den, o da Yahya b. Ebî Ömer'den, o da İbn-i Abbâs'dan naklen haber verdi. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) için tulumda kuru üzüm ıslatılır. Artık onu o gün, ertesi gün ve daha ertesi gün içerdi. Üçüncü günün akşamı oldumu onu içer ve içirirdi. Şayet bir şey kalırsa onu dökerdi",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 103
+      }
+    }
+  ]
 }

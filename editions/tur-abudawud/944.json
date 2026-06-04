@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 944,
-			"arabicnumber": 944,
-			"text": "Ebû Hureyre'den; demiştirki: Resûlullah (s.a.v.), -namazı kastederek- şöyle buyurdu: \"Sübhânallah demek erkekler içindir, el çırpmak da kadınlar içindir. Kim namazında anlaşılabilecek bir işarette bulunursa, tekrar o'na geri dönsün.\" (Bununla namazı kastediyor). Ebû Davud dediki: \"kim namazda işaret ederse ona dönsün\" kısmı bir vehmden ibarettir. Diğer tahric: Dârekutnî, Sünen, II, 83; Beyhakî, es-Siinenu2l-kübrâ, II, 246, 247, 262; VI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 555
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 944,
+      "arabicnumber": 944,
+      "text": "Ebû Hureyre'den; demiştirki: Resûlullah (s.a.v.), -namazı kastederek- şöyle buyurdu: \"Sübhânallah demek erkekler içindir, el çırpmak da kadınlar içindir. Kim namazında anlaşılabilecek bir işarette bulunursa, tekrar o'na geri dönsün.\" (Bununla namazı kastediyor). Ebû Davud dediki: \"kim namazda işaret ederse ona dönsün\" kısmı bir vehmden ibarettir. Diğer tahric: Dârekutnî, Sünen, II, 83; Beyhakî, es-Siinenu2l-kübrâ, II, 246, 247, 262; VI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 555
+      }
+    }
+  ]
 }

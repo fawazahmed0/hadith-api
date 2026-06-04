@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4127,
-			"arabicnumber": 4127,
-			"text": "Cabir'den rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem Nahl denilen yerde Zatu'r-Rika' (gazvesin)a çıktı. Gatafanlılardan bir topluluk ile karşılaştı. Fakat arada savaş olmadı. Bununla birlikte insanlar birbirlerini korkuttu. Bu sebeple Nebi Sallallahu Aleyhi ve Sellem iki rekat (olarak) korku namazı kıldı.\" Yezid, Seleme'den naklen dedi ki: \"Ben Kared günü Nebi Sallallahu Aleyhi ve Sellem ile birlikte gazaya katıldım",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 171
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4127,
+      "arabicnumber": 4127,
+      "text": "Cabir'den rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem Nahl denilen yerde Zatu'r-Rika' (gazvesin)a çıktı. Gatafanlılardan bir topluluk ile karşılaştı. Fakat arada savaş olmadı. Bununla birlikte insanlar birbirlerini korkuttu. Bu sebeple Nebi Sallallahu Aleyhi ve Sellem iki rekat (olarak) korku namazı kıldı.\" Yezid, Seleme'den naklen dedi ki: \"Ben Kared günü Nebi Sallallahu Aleyhi ve Sellem ile birlikte gazaya katıldım",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 171
+      }
+    }
+  ]
 }

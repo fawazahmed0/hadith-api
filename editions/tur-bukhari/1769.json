@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1769,
-			"arabicnumber": 1769,
-			"text": "İbn Ömer r.a. Mekke'ye giderken geceyi Zi-tuva'da geçirir, sabah olunca Mekke'ye girerdi. Dönerken de geceyi Zi-tuva'da geçirir, sabah yola devam ederdi. Nebi Sallallahu Aleyhi ve Sellem'in de böyle yaptığını söylerdi",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 245
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1769,
+      "arabicnumber": 1769,
+      "text": "İbn Ömer r.a. Mekke'ye giderken geceyi Zi-tuva'da geçirir, sabah olunca Mekke'ye girerdi. Dönerken de geceyi Zi-tuva'da geçirir, sabah yola devam ederdi. Nebi Sallallahu Aleyhi ve Sellem'in de böyle yaptığını söylerdi",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 245
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"16": "Sacrifice (Kitab Al-Dahaya)"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 2788,
-				"hadithnumber_last": 2843,
-				"arabicnumber_first": 2788,
-				"arabicnumber_last": 2843
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2814,
-			"arabicnumber": 2814,
-			"text": "Sevbân'dan demiştir ki: Rasûlullah (S.A.V.) (Veda Haccında bir) kurban kesti. Sonra (bana): \"Ey Sevban! Şu koyun'un etini ıslah et\" dedi (ben de bu emri yerine getirdim ve) Medine'ye gelinceye kadar kendisine ondan yedirmeye devam ettim",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1975)"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "16": "Kurbanlar Bölümü"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 2788,
+        "hadithnumber_last": 2843,
+        "arabicnumber_first": 2788,
+        "arabicnumber_last": 2843
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2814,
+      "arabicnumber": 2814,
+      "text": "Sevbân'dan demiştir ki: Rasûlullah (S.A.V.) (Veda Haccında bir) kurban kesti. Sonra (bana): \"Ey Sevban! Şu koyun'un etini ıslah et\" dedi (ben de bu emri yerine getirdim ve) Medine'ye gelinceye kadar kendisine ondan yedirmeye devam ettim",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1975)"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 27
+      }
+    }
+  ]
 }

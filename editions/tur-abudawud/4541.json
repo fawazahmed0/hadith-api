@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"41": "Types of Blood-Wit (Kitab Al-Diyat)"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 4494,
-				"hadithnumber_last": 4595,
-				"arabicnumber_first": 4494,
-				"arabicnumber_last": 4595
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4541,
-			"arabicnumber": 4541,
-			"text": "Amr b. Şuayb, babası vasıtasıyla dedesinden şöyle rivâyet etmiştir: Rasûlullah (s.a.v) hatâen öldürülenin diyetinin; otuz bintü mehaz (iki yaşına girmiş dişi deve) otuz binti lebûn (üç yaşına girmiş dişi deve), otuz hıkka (dört yaşına girmiş dişi deve) on da ibni lebûn (üç yaşına girmiş erkek deve) olmak üzere yüz deve olduğuna hükmetti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 48
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "41": "Diyetler Bahsi"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 4494,
+        "hadithnumber_last": 4595,
+        "arabicnumber_first": 4494,
+        "arabicnumber_last": 4595
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4541,
+      "arabicnumber": 4541,
+      "text": "Amr b. Şuayb, babası vasıtasıyla dedesinden şöyle rivâyet etmiştir: Rasûlullah (s.a.v) hatâen öldürülenin diyetinin; otuz bintü mehaz (iki yaşına girmiş dişi deve) otuz binti lebûn (üç yaşına girmiş dişi deve), otuz hıkka (dört yaşına girmiş dişi deve) on da ibni lebûn (üç yaşına girmiş erkek deve) olmak üzere yüz deve olduğuna hükmetti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 48
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2067,
-			"arabicnumber": 2067,
-			"text": "İbn Abbas (r.a.)'dan rivayet olunduğuna göre, Nebi sallallahu aleyhi ve sellem, hala (ile onun erkek kardeşinin kızını), teyze (ile onun kız kardeşinin kızım) ve iki teyze ile iki halayı (bir nikâh altında) birleştirmeyi çirkin bulmuştur",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2067,
+      "arabicnumber": 2067,
+      "text": "İbn Abbas (r.a.)'dan rivayet olunduğuna göre, Nebi sallallahu aleyhi ve sellem, hala (ile onun erkek kardeşinin kızını), teyze (ile onun kız kardeşinin kızım) ve iki teyze ile iki halayı (bir nikâh altında) birleştirmeyi çirkin bulmuştur",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 22
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2125,
-			"arabicnumber": "917",
-			"text": "Bİze Ebû Şeybe'nin oğulları Ebû Bekir ile Osman rivayet ettiler. H. Bana Amru'n-Nâkıd da rivayet etti. Bunlar hep birden dedilerki: Bize Ebû Hâlid-i Ahmar, Yezîd b. Keysân'dan, o da Ebû Hâzim'den, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): Ölenlerinize: La ilahe illallah, demelerini teikin edin.» buyurdular. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2125,
+      "arabicnumber": "917",
+      "text": "Bİze Ebû Şeybe'nin oğulları Ebû Bekir ile Osman rivayet ettiler. H. Bana Amru'n-Nâkıd da rivayet etti. Bunlar hep birden dedilerki: Bize Ebû Hâlid-i Ahmar, Yezîd b. Keysân'dan, o da Ebû Hâzim'den, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): Ölenlerinize: La ilahe illallah, demelerini teikin edin.» buyurdular. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 3
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"32": "The Book of Jihad and Expeditions"
-		},
-		"section_detail": {
-			"32": {
-				"hadithnumber_first": 4519,
-				"hadithnumber_last": 4700,
-				"arabicnumber_first": 1730.01,
-				"arabicnumber_last": 1817
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4696,
-			"arabicnumber": "1814.02",
-			"text": "Bana Ahmed b. Hanbel de rivayet etti. (Dediki): Bize Mu'temir b. Süleyman, Kehmes'den, o da ibnü Büreyde'den, o da babasından naklen rivayet etti ki, babası, ResûluIIalı (Sallallahu Aleyhi ve Sellem)'le birlikte on altı gazada bulunduğunu söylemiş. İzah 1815 te",
-			"grades": [],
-			"reference": {
-				"book": 32,
-				"hadith": 178
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "32": "Cihâd Ve Siyer"
+    },
+    "section_detail": {
+      "32": {
+        "hadithnumber_first": 4519,
+        "hadithnumber_last": 4700,
+        "arabicnumber_first": 1730.01,
+        "arabicnumber_last": 1817
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4696,
+      "arabicnumber": "1814.02",
+      "text": "Bana Ahmed b. Hanbel de rivayet etti. (Dediki): Bize Mu'temir b. Süleyman, Kehmes'den, o da ibnü Büreyde'den, o da babasından naklen rivayet etti ki, babası, ResûluIIalı (Sallallahu Aleyhi ve Sellem)'le birlikte on altı gazada bulunduğunu söylemiş. İzah 1815 te",
+      "grades": [],
+      "reference": {
+        "book": 32,
+        "hadith": 178
+      }
+    }
+  ]
 }

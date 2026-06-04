@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 260,
-			"arabicnumber": "88.01",
-			"text": "Bana Yahya b. Habib el-Hârisi rivayet etti. (Dediki): Bize Hâlid —ki İbnü'l Haîris'dir— rivayet elti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Bize Ubeydullah b..Ebi Bekir, Enes'den, o da Nebi (Sallallahu aleyhi ve Sellem)'den büyük günahlar hakkında şöyle buyurduğunu nakletti: \"Allah'a ortak koşmak, anne babaya itaatsizlik etmek, canı öldürmek ve yalan söylemek. \" Diğer tahric: Buhari, 2510, 5632, 6477; Tirmizi, 1207,3018; Nesai, 4021; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 166
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 260,
+      "arabicnumber": "88.01",
+      "text": "Bana Yahya b. Habib el-Hârisi rivayet etti. (Dediki): Bize Hâlid —ki İbnü'l Haîris'dir— rivayet elti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Bize Ubeydullah b..Ebi Bekir, Enes'den, o da Nebi (Sallallahu aleyhi ve Sellem)'den büyük günahlar hakkında şöyle buyurduğunu nakletti: \"Allah'a ortak koşmak, anne babaya itaatsizlik etmek, canı öldürmek ve yalan söylemek. \" Diğer tahric: Buhari, 2510, 5632, 6477; Tirmizi, 1207,3018; Nesai, 4021; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 166
+      }
+    }
+  ]
 }

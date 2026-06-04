@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1451,
-			"arabicnumber": 1451,
-			"text": "Ebü Bekir r.a. Enes r.a.'e Resulullah Sallallahu Aleyhi ve Sellem'in belirlediği zekat miktarları konusunda yazdığı bir mektubunda şöyle demiştir: \"Zekat ortaklık malından verildiği zaman, ortaklar, paylarına göre birbirine rücu eder",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1451,
+      "arabicnumber": 1451,
+      "text": "Ebü Bekir r.a. Enes r.a.'e Resulullah Sallallahu Aleyhi ve Sellem'in belirlediği zekat miktarları konusunda yazdığı bir mektubunda şöyle demiştir: \"Zekat ortaklık malından verildiği zaman, ortaklar, paylarına göre birbirine rücu eder",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 54
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4038,
-			"arabicnumber": 4038,
-			"text": "Bera' b. Azib r.a. dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem Ebu Rafi\"e birkaç kişi gönderdi. Geceleyin o uyurken Abdullah b. Atik evine girdi ve onu öldürdü",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4038,
+      "arabicnumber": 4038,
+      "text": "Bera' b. Azib r.a. dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem Ebu Rafi\"e birkaç kişi gönderdi. Geceleyin o uyurken Abdullah b. Atik evine girdi ve onu öldürdü",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 85
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4658,
-			"arabicnumber": 4658,
-			"text": "Zeyd İbn Vehb'in şöyle söylediği rivayet edilmiştir: Huzeyfe'nin yanında idik. o: \"Bu ayetin kasdetliklerinden sadece üç kişi, münafıklardan da sadece dört kişi kaldı,\" dedi. Bir bedevl\"Siz, Muhammed (Sallallahu aleyhi ve Sellem)'in ashabısınız. Bize anlatıyorsunuz ama biz anlamıyoruz. (Madem sadece birkaç kişi kaldı) bizim evlerimize girip en değerli eşyalarımızı çalan şu insanların durumu nedir?\" diye sordu. Huzeyfe de; \"Onlar fasıklardır. Evet, Onlardan sadece dört kişi kaldı. İçlerinden biri oldukça yaşlıdır. Soğuk su içse, onun soğukluğunu hissetmez,\" diyerek cevap verdi",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 180
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4658,
+      "arabicnumber": 4658,
+      "text": "Zeyd İbn Vehb'in şöyle söylediği rivayet edilmiştir: Huzeyfe'nin yanında idik. o: \"Bu ayetin kasdetliklerinden sadece üç kişi, münafıklardan da sadece dört kişi kaldı,\" dedi. Bir bedevl\"Siz, Muhammed (Sallallahu aleyhi ve Sellem)'in ashabısınız. Bize anlatıyorsunuz ama biz anlamıyoruz. (Madem sadece birkaç kişi kaldı) bizim evlerimize girip en değerli eşyalarımızı çalan şu insanların durumu nedir?\" diye sordu. Huzeyfe de; \"Onlar fasıklardır. Evet, Onlardan sadece dört kişi kaldı. İçlerinden biri oldukça yaşlıdır. Soğuk su içse, onun soğukluğunu hissetmez,\" diyerek cevap verdi",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 180
+      }
+    }
+  ]
 }

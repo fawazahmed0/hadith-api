@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"34": "Supplication"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 3827,
-				"hadithnumber_last": 3892,
-				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3891,
-			"arabicnumber": 3891,
-			"text": "Aişe (r.anha)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) yağışlı sanılan bir bulut görünce (ümmetine bir Metin gelmesinden endişelenerek) çehresi renkten renge girip değişir, (eve) girip çıkar ve buluta karşı durup geri dönerdi. Buluttan yağmur yağınca üzüntüsü giderilirdi. Ravi. demiştir ki: Sonra Aişe (r.anha), O'ndan gördüğü (bu hal ve endişesi'nin bazısını O'na anlatmış. Bunun üzerine Resül-i Ekrem (Aişe'ye) şöyle buyurdu: «Ne bilirsin? Belki 0, (şu ayette azab olduğu bildirilen, fakat Hüd kavminin (onu bir bulut parçası sanarak) dediği gibi bir şeydir: Onlar o azıibı (içinde bulundukları) vadilerine doğnı gelen, yaygın bir bulut olarak görünce : \"Bu, bize yağmur getiren bir yaygın buluttur, dediler. (Hüd dedi ki:) Bi'l-akis bu, acele istediğiniz azabtır.\"\" (Ahkaaf)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 65
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "34": "Dua Kitabı"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 3827,
+        "hadithnumber_last": 3892,
+        "arabicnumber_first": 3827,
+        "arabicnumber_last": 3892
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3891,
+      "arabicnumber": 3891,
+      "text": "Aişe (r.anha)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) yağışlı sanılan bir bulut görünce (ümmetine bir Metin gelmesinden endişelenerek) çehresi renkten renge girip değişir, (eve) girip çıkar ve buluta karşı durup geri dönerdi. Buluttan yağmur yağınca üzüntüsü giderilirdi. Ravi. demiştir ki: Sonra Aişe (r.anha), O'ndan gördüğü (bu hal ve endişesi'nin bazısını O'na anlatmış. Bunun üzerine Resül-i Ekrem (Aişe'ye) şöyle buyurdu: «Ne bilirsin? Belki 0, (şu ayette azab olduğu bildirilen, fakat Hüd kavminin (onu bir bulut parçası sanarak) dediği gibi bir şeydir: Onlar o azıibı (içinde bulundukları) vadilerine doğnı gelen, yaygın bir bulut olarak görünce : \"Bu, bize yağmur getiren bir yaygın buluttur, dediler. (Hüd dedi ki:) Bi'l-akis bu, acele istediğiniz azabtır.\"\" (Ahkaaf)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 65
+      }
+    }
+  ]
 }

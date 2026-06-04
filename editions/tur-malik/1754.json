@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"52": "Visions"
-		},
-		"section_detail": {
-			"52": {
-				"hadithnumber_first": 1747,
-				"hadithnumber_last": 1755,
-				"arabicnumber_first": 1747,
-				"arabicnumber_last": 1755
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1754,
-			"arabicnumber": 1754,
-			"text": "Resulullah Sallallahu Aleyhi ve Sellem'in hanımı Aişe (r.a.)'nın evinde oturmakta olan Ehl-i beytin yanında tavla olduğu haberi kendisine ulaşınca onlara: «Eğer onu çıkarmazsanız, ben sizi evimden çıkaracağım» diye haber gönderdi ve onların bu hareketini hoş karşılamadı",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Hasan"
-				}
-			],
-			"reference": {
-				"book": 52,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "52": "Rüya"
+    },
+    "section_detail": {
+      "52": {
+        "hadithnumber_first": 1747,
+        "hadithnumber_last": 1755,
+        "arabicnumber_first": 1747,
+        "arabicnumber_last": 1755
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1754,
+      "arabicnumber": 1754,
+      "text": "Resulullah Sallallahu Aleyhi ve Sellem'in hanımı Aişe (r.a.)'nın evinde oturmakta olan Ehl-i beytin yanında tavla olduğu haberi kendisine ulaşınca onlara: «Eğer onu çıkarmazsanız, ben sizi evimden çıkaracağım» diye haber gönderdi ve onların bu hareketini hoş karşılamadı",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Hasan"
+        }
+      ],
+      "reference": {
+        "book": 52,
+        "hadith": 6
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"14": "Fasting (Kitab Al-Siyam)"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 2313,
-				"hadithnumber_last": 2476,
-				"arabicnumber_first": 2313,
-				"arabicnumber_last": 2476
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2429,
-			"arabicnumber": 2429,
-			"text": "Ebû Hureyre (r.a.): \"Nebi (s.a.v.) şöyle buyurdu\" demiştir: \"Ramazan ayından sonra en faziletli oruç, Allah'ın ayı Muharrem'in orucudur. Farz namazlardan sonra en faziletli namaz da geceleyin kılınan namazdır.\" (Ravi) Kuteybe, \"(Ramazan) ayı(nın orucu\" yerine sadece “(ramazan(ın orucu)'' dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1163)"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 117
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "14": "Oruç Bölümü"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 2313,
+        "hadithnumber_last": 2476,
+        "arabicnumber_first": 2313,
+        "arabicnumber_last": 2476
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2429,
+      "arabicnumber": 2429,
+      "text": "Ebû Hureyre (r.a.): \"Nebi (s.a.v.) şöyle buyurdu\" demiştir: \"Ramazan ayından sonra en faziletli oruç, Allah'ın ayı Muharrem'in orucudur. Farz namazlardan sonra en faziletli namaz da geceleyin kılınan namazdır.\" (Ravi) Kuteybe, \"(Ramazan) ayı(nın orucu\" yerine sadece “(ramazan(ın orucu)'' dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1163)"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 117
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"91": "Interpretation of Dreams"
-		},
-		"section_detail": {
-			"91": {
-				"hadithnumber_first": 6982,
-				"hadithnumber_last": 7047,
-				"arabicnumber_first": 6982,
-				"arabicnumber_last": 7047
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7042,
-			"arabicnumber": 7042,
-			"text": "İbn Abbas'ın nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Her kim görmediği bir rüyayı gördüm diye iddia ederse (kıyamet gününde) ona iki arpa tanesini birbirine düğümlemesi teklif edilir ve hiçbir zaman bunu yapamaz. Her kim de bir topluluğun duyulmasını istemediği veya bundan kaçındığı bir konuşmayı dinlemeye çalışırsa onun iki kulağına kıyamet gününde kurşun dökülür. Her kim de bir suret resmederse ona hayat verecek kudrette olmadığı halde 'Haydi buna ruh üfle' diye teklif olunarak azap edilir",
-			"grades": [],
-			"reference": {
-				"book": 91,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "91": "Rüya Ta'bîri"
+    },
+    "section_detail": {
+      "91": {
+        "hadithnumber_first": 6982,
+        "hadithnumber_last": 7047,
+        "arabicnumber_first": 6982,
+        "arabicnumber_last": 7047
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7042,
+      "arabicnumber": 7042,
+      "text": "İbn Abbas'ın nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Her kim görmediği bir rüyayı gördüm diye iddia ederse (kıyamet gününde) ona iki arpa tanesini birbirine düğümlemesi teklif edilir ve hiçbir zaman bunu yapamaz. Her kim de bir topluluğun duyulmasını istemediği veya bundan kaçındığı bir konuşmayı dinlemeye çalışırsa onun iki kulağına kıyamet gününde kurşun dökülür. Her kim de bir suret resmederse ona hayat verecek kudrette olmadığı halde 'Haydi buna ruh üfle' diye teklif olunarak azap edilir",
+      "grades": [],
+      "reference": {
+        "book": 91,
+        "hadith": 56
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2207,
-			"arabicnumber": 2207,
-			"text": "Enes İbn Malik r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem, \"muhakale\", \"muhadara\", \"mülamese\", \"münabeze\" ve \"müzabene\" satışını yasakladı",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 153
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2207,
+      "arabicnumber": 2207,
+      "text": "Enes İbn Malik r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem, \"muhakale\", \"muhadara\", \"mülamese\", \"münabeze\" ve \"müzabene\" satışını yasakladı",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 153
+      }
+    }
+  ]
 }

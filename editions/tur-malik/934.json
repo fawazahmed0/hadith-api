@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 934,
-			"arabicnumber": 934,
-			"text": "Ebu'z-Zübeyr'den: Ömer b. Hattab (Hacdayken) bir sırtlan öldürenin bir keçi, Ceylan öldürenin bir keçi, tavşan öldürenin oğlak ve bir tarla farç*si öldürenin de dört aylık bir oğlak fidye vermesine karar verdi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 934,
+      "arabicnumber": 934,
+      "text": "Ebu'z-Zübeyr'den: Ömer b. Hattab (Hacdayken) bir sırtlan öldürenin bir keçi, Ceylan öldürenin bir keçi, tavşan öldürenin oğlak ve bir tarla farç*si öldürenin de dört aylık bir oğlak fidye vermesine karar verdi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 7
+      }
+    }
+  ]
 }

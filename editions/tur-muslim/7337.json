@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7337,
-			"text": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Ehû Usâme rivayet etti. (Dediki): Bana Ömer b. Hamza haber verdi. (Dediki): Sâlim'i şunu söylerken işittim: Bize Abdullah b. Ömer haber verdiki: Resulullah (Sallallahu Aleyhi ve Sellem): «Siz ve yahudüer harbedeceksiniz. Hatta taş: Ey müslüman, şu arkamdaki yahûdidir. Gel de onu öldür, diyecektir.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7337,
+      "text": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Ehû Usâme rivayet etti. (Dediki): Bana Ömer b. Hamza haber verdi. (Dediki): Sâlim'i şunu söylerken işittim: Bize Abdullah b. Ömer haber verdiki: Resulullah (Sallallahu Aleyhi ve Sellem): «Siz ve yahudüer harbedeceksiniz. Hatta taş: Ey müslüman, şu arkamdaki yahûdidir. Gel de onu öldür, diyecektir.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

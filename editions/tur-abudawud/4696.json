@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4696,
-			"arabicnumber": 4696,
-			"text": "Şu (bir önceki 4696.) hadisi (bazı yerlerine) ilave ederek (bazı yerlerini de) kısaltarak Alkame de Süleyman İbn Büreyde aracılığıyla Ya'mer'den rivayet etmiştir. (Bu rivayet şöyledir: Yabancı bir yolcu sıfatıyla gelen bir adam Hz. Nebi'e): \"İslam nedir\" diye sordu. (Hz. Nebi de): \"Namaz kılmak, zekat vermek haccetmek, ramazan orucunu tutmak ve cünüblükten dolayı gusetmek\" cevabını verdi. Ebu Davud der ki: Ravi Alkame Mürciecidir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 101
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4696,
+      "arabicnumber": 4696,
+      "text": "Şu (bir önceki 4696.) hadisi (bazı yerlerine) ilave ederek (bazı yerlerini de) kısaltarak Alkame de Süleyman İbn Büreyde aracılığıyla Ya'mer'den rivayet etmiştir. (Bu rivayet şöyledir: Yabancı bir yolcu sıfatıyla gelen bir adam Hz. Nebi'e): \"İslam nedir\" diye sordu. (Hz. Nebi de): \"Namaz kılmak, zekat vermek haccetmek, ramazan orucunu tutmak ve cünüblükten dolayı gusetmek\" cevabını verdi. Ebu Davud der ki: Ravi Alkame Mürciecidir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 101
+      }
+    }
+  ]
 }

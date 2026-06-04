@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"15": "Jihad (Kitab Al-Jihad)"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2477,
-				"hadithnumber_last": 2787,
-				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2544,
-			"arabicnumber": 2544,
-			"text": "Ebu Vehb (El-Kilaîyden; demiştir ki: \"Rasûlullah (s.a.v.) şöyle buyurdu\": \"Al, sakar, ayakları sekili yahut da doru, sakar atlar besleyiniz.\" Daha sonra (Ebu'l-Muğire yahut Muhammed b. Muhacir, önceki 2543. hadisin) benzerini rivayet etti. Muhammed b. Muhacir dedi ki: Ben Akîl (b. Şebîb)e, Niçin al (at diğerlerinden) üstün kılındı? diye sordum. Çünkü Nebi (s.a.v.), bir akıncı birliği göndermişti de Feth (haberin)i ilk getiren al (at) sahibi oldu, diye cevap verdi. Diğer tahric: Beyhakî, es-Sünenu’l-kübra, VI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 68
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "15": "Cihad Bölümü"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2477,
+        "hadithnumber_last": 2787,
+        "arabicnumber_first": 2477,
+        "arabicnumber_last": 2787
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2544,
+      "arabicnumber": 2544,
+      "text": "Ebu Vehb (El-Kilaîyden; demiştir ki: \"Rasûlullah (s.a.v.) şöyle buyurdu\": \"Al, sakar, ayakları sekili yahut da doru, sakar atlar besleyiniz.\" Daha sonra (Ebu'l-Muğire yahut Muhammed b. Muhacir, önceki 2543. hadisin) benzerini rivayet etti. Muhammed b. Muhacir dedi ki: Ben Akîl (b. Şebîb)e, Niçin al (at diğerlerinden) üstün kılındı? diye sordum. Çünkü Nebi (s.a.v.), bir akıncı birliği göndermişti de Feth (haberin)i ilk getiren al (at) sahibi oldu, diye cevap verdi. Diğer tahric: Beyhakî, es-Sünenu’l-kübra, VI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 68
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 259,
-			"arabicnumber": 259,
-			"text": "Abdullah b. Ömer (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Ben Rasûlüllah (sallallahü aleyhi ve sellem)’e: Allah’ın Rasûlü! Bir kimse cünüp olduğu halde uyuyabilir mi? Dedim. Nebi (sallallahü aleyhi ve sellem)’de: alırsa evet uyuyabilir) buyurdular. (Dârimi, Tahara: 73; Tirmizî, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 260
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 259,
+      "arabicnumber": 259,
+      "text": "Abdullah b. Ömer (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Ben Rasûlüllah (sallallahü aleyhi ve sellem)’e: Allah’ın Rasûlü! Bir kimse cünüp olduğu halde uyuyabilir mi? Dedim. Nebi (sallallahü aleyhi ve sellem)’de: alırsa evet uyuyabilir) buyurdular. (Dârimi, Tahara: 73; Tirmizî, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 260
+      }
+    }
+  ]
 }

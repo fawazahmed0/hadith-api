@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3909,
-			"arabicnumber": "1536.04",
-			"text": "{…} Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Ebû Âsim haber verdi, (Dediki): Bize İbni Cüreyc, Ata ile Ebu'z-Zübeyr'den naklen haber verdi. Onlar da Câbir b. Abdillâh'ı: Resûlullah (Sallallahu Aleyhi ve Sellem) nehî buyurdu... derken îşitmiştir. Râvi yukarıki hadîs gibi rivayette bulundu",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 108
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3909,
+      "arabicnumber": "1536.04",
+      "text": "{…} Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Ebû Âsim haber verdi, (Dediki): Bize İbni Cüreyc, Ata ile Ebu'z-Zübeyr'den naklen haber verdi. Onlar da Câbir b. Abdillâh'ı: Resûlullah (Sallallahu Aleyhi ve Sellem) nehî buyurdu... derken îşitmiştir. Râvi yukarıki hadîs gibi rivayette bulundu",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 108
+      }
+    }
+  ]
 }

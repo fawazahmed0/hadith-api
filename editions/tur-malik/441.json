@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"11": "The Fear Prayer"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 441,
-				"hadithnumber_last": 444,
-				"arabicnumber_first": 441,
-				"arabicnumber_last": 444
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 441,
-			"arabicnumber": 441,
-			"text": "Salih b. Havvat, Zatü'rrika' Gazvesinde Resûlullah'la Sallallahu Aleyhi ve Sellem beraber korku namazı kılan bir zattan naklen anlatıyor: Önce bir grup gelip Resûlullah'ın Sallallahu Aleyhi ve Sellem ardında saf yaptı, diğer grup ise düşman karşısında kaldı. Saf yapanlara peygamberimiz bir rekat kıldırdıktan sonra kendisi kıyamda bekledi, safta bulunanlar kendi kendilerine namazlarını tamamlayıp ayrıldılar. Bu defa düşman karşısında bekleyen grup geldi, peygamberimizin ardında saf yaptı, namazlarını bitirenler ise düşman karşısına gittiler. İkinci gruba da kalan bir rekatı kıldırdıktan sonra tehiyyatta, oturdu. Cemaat kılmadıkları rekatı tamamladıktan sonra hep beraber selam verdiler. Diğer tahric: Buharî, Megazî; Müslim, Salatu'lMusafırîn; Şafiî, Risale, no:",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "11": "Korku Namazı"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 441,
+        "hadithnumber_last": 444,
+        "arabicnumber_first": 441,
+        "arabicnumber_last": 444
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 441,
+      "arabicnumber": 441,
+      "text": "Salih b. Havvat, Zatü'rrika' Gazvesinde Resûlullah'la Sallallahu Aleyhi ve Sellem beraber korku namazı kılan bir zattan naklen anlatıyor: Önce bir grup gelip Resûlullah'ın Sallallahu Aleyhi ve Sellem ardında saf yaptı, diğer grup ise düşman karşısında kaldı. Saf yapanlara peygamberimiz bir rekat kıldırdıktan sonra kendisi kıyamda bekledi, safta bulunanlar kendi kendilerine namazlarını tamamlayıp ayrıldılar. Bu defa düşman karşısında bekleyen grup geldi, peygamberimizin ardında saf yaptı, namazlarını bitirenler ise düşman karşısına gittiler. İkinci gruba da kalan bir rekatı kıldırdıktan sonra tehiyyatta, oturdu. Cemaat kılmadıkları rekatı tamamladıktan sonra hep beraber selam verdiler. Diğer tahric: Buharî, Megazî; Müslim, Salatu'lMusafırîn; Şafiî, Risale, no:",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 1
+      }
+    }
+  ]
 }

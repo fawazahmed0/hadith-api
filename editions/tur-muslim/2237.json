@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2237,
-			"arabicnumber": "964.03",
-			"text": "Bize Muhammedü'bnü'l - Müsennâ ile Ukbetü'bnü Mükrem-i Ammî rivayet ettiler. Dediler ki: Bize îbni Ebî Adiyy, Hüseyin'den, o da Abdullah b. Büreyde'den naklen rivayet etti. Demiş ki: Semuratü'bnü Cündeb şunları söyledi: «Ben, Resulullah (Sallallahu Aleyhi ve Sellem) zamanında çocuk idim, kendisinden (duyduklarımı) ezberliyordum. Onları söylememe bir mâni' yok ama, burada bir takım adamlar var ki, onlar benden dahî yaşlıdırlar. Gerçekten Resulullah (Sallallahu Aleyhi ve Sellem)'in arkasında loğusa hâlinde ölen bir kadının cenazesini kıldım. Namazda Resulullah {Sallallahu Aleyhi ve Sellem) cenazenin tam ortası hizasına durdu.» İbni'l-Müsennâ'nın rivayetinde: «(dediki): Bana Abdullah b. Büreyde rivayet etti. (dediki): Namazını kılmak için kadının ortası hizasına durdu.» ibaresi vardır",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 114
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2237,
+      "arabicnumber": "964.03",
+      "text": "Bize Muhammedü'bnü'l - Müsennâ ile Ukbetü'bnü Mükrem-i Ammî rivayet ettiler. Dediler ki: Bize îbni Ebî Adiyy, Hüseyin'den, o da Abdullah b. Büreyde'den naklen rivayet etti. Demiş ki: Semuratü'bnü Cündeb şunları söyledi: «Ben, Resulullah (Sallallahu Aleyhi ve Sellem) zamanında çocuk idim, kendisinden (duyduklarımı) ezberliyordum. Onları söylememe bir mâni' yok ama, burada bir takım adamlar var ki, onlar benden dahî yaşlıdırlar. Gerçekten Resulullah (Sallallahu Aleyhi ve Sellem)'in arkasında loğusa hâlinde ölen bir kadının cenazesini kıldım. Namazda Resulullah {Sallallahu Aleyhi ve Sellem) cenazenin tam ortası hizasına durdu.» İbni'l-Müsennâ'nın rivayetinde: «(dediki): Bana Abdullah b. Büreyde rivayet etti. (dediki): Namazını kılmak için kadının ortası hizasına durdu.» ibaresi vardır",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 114
+      }
+    }
+  ]
 }

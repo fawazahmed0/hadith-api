@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"28": "Marriage"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 1091,
-				"hadithnumber_last": 1149,
-				"arabicnumber_first": 1091,
-				"arabicnumber_last": 1149
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1110,
-			"arabicnumber": 1110,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Daif"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 20
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "28": "Nikâh"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 1091,
+        "hadithnumber_last": 1149,
+        "arabicnumber_first": 1091,
+        "arabicnumber_last": 1149
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1110,
+      "arabicnumber": 1110,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Daif"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 20
+      }
+    }
+  ]
 }

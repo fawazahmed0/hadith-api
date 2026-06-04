@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1093,
-			"arabicnumber": 1093,
-			"text": "Câbir b. Semure (r.a.)'den rivayet edildiğine göre; Resûlullah (s.a.v.) ayakta hutbe irâd eder, sonra oturur, sonra kalkıp yine ayakta hitab ederdi. (Câbir dedi ki:) \"Kim sana Nebi (s.a.v.)'in oturarak, hutbe irad ettiğini söylerse, yalan söylemiştir. Vallahi ben Resûlullah (s.a.v.) ile birlikte iki bin (vakit)den fazla namaz kıldım",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (862)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 704
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1093,
+      "arabicnumber": 1093,
+      "text": "Câbir b. Semure (r.a.)'den rivayet edildiğine göre; Resûlullah (s.a.v.) ayakta hutbe irâd eder, sonra oturur, sonra kalkıp yine ayakta hitab ederdi. (Câbir dedi ki:) \"Kim sana Nebi (s.a.v.)'in oturarak, hutbe irad ettiğini söylerse, yalan söylemiştir. Vallahi ben Resûlullah (s.a.v.) ile birlikte iki bin (vakit)den fazla namaz kıldım",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (862)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 704
+      }
+    }
+  ]
 }

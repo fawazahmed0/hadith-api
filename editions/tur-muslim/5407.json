@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"37": "The Book of Clothes and Adornment"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 5385,
-				"hadithnumber_last": 5585,
-				"arabicnumber_first": 2065.01,
-				"arabicnumber_last": 2130.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5407,
-			"arabicnumber": "2068.07",
-			"text": "{M-1} Bana İbni Numeyr de rivayet etti. (Dediki): Bize Ravh rivâye etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Bize Ebû Bekr b. Hars, Salim b. Abdillah b. Ömer'den, o da babasından naklen rivayet etti ki, Ömer b. Hattâb, Utarid oğullarından bir adamın üzerinde... görmüş. Râvi, Yahya b. Saîd hadîsi gibi rivayette bulunmuştur. Yalnız o: «Ben onu sana ancak faydalanasın diye gönderdim; onu sana giyesin diye göndermedim.» demiştir",
-			"grades": [],
-			"reference": {
-				"book": 37,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "37": "Elbise Ve Zinet"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 5385,
+        "hadithnumber_last": 5585,
+        "arabicnumber_first": 2065.01,
+        "arabicnumber_last": 2130.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5407,
+      "arabicnumber": "2068.07",
+      "text": "{M-1} Bana İbni Numeyr de rivayet etti. (Dediki): Bize Ravh rivâye etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Bize Ebû Bekr b. Hars, Salim b. Abdillah b. Ömer'den, o da babasından naklen rivayet etti ki, Ömer b. Hattâb, Utarid oğullarından bir adamın üzerinde... görmüş. Râvi, Yahya b. Saîd hadîsi gibi rivayette bulunmuştur. Yalnız o: «Ben onu sana ancak faydalanasın diye gönderdim; onu sana giyesin diye göndermedim.» demiştir",
+      "grades": [],
+      "reference": {
+        "book": 37,
+        "hadith": 22
+      }
+    }
+  ]
 }

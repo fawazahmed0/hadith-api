@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"44": "Chapters on Parables"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 2859,
-				"hadithnumber_last": 2874,
-				"arabicnumber_first": 2859,
-				"arabicnumber_last": 2874
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2869,
-			"arabicnumber": 2869,
-			"text": "",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 44,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "44": "Emsal (Örnekleme) Bölümleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 2859,
+        "hadithnumber_last": 2874,
+        "arabicnumber_first": 2859,
+        "arabicnumber_last": 2874
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2869,
+      "arabicnumber": 2869,
+      "text": "",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 44,
+        "hadith": 12
+      }
+    }
+  ]
 }

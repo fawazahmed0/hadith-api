@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2149,
-			"arabicnumber": 2149,
-			"text": "Abdullah İbn Mes'ud r.a. şöyle demiştir: Memesinde süt biriktirilmiş bir koyun satın alan kimse bunu geri vermek istediğinde bir sa' hurma ile birlikte geri versin. Nebi Sallallahu Aleyhi ve Sellem satıcıların elindeki malları pazara getirmeden önce onların yoluna çıkıp onlardan mal satın almayı yasakladı. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 101
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2149,
+      "arabicnumber": 2149,
+      "text": "Abdullah İbn Mes'ud r.a. şöyle demiştir: Memesinde süt biriktirilmiş bir koyun satın alan kimse bunu geri vermek istediğinde bir sa' hurma ile birlikte geri versin. Nebi Sallallahu Aleyhi ve Sellem satıcıların elindeki malları pazara getirmeden önce onların yoluna çıkıp onlardan mal satın almayı yasakladı. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 101
+      }
+    }
+  ]
 }

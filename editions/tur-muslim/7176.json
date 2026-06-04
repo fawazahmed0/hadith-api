@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"53": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
-		},
-		"section_detail": {
-			"53": {
-				"hadithnumber_first": 7130,
-				"hadithnumber_last": 7234,
-				"arabicnumber_first": 2822,
-				"arabicnumber_last": 2879
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7176,
-			"arabicnumber": "2847",
-			"text": "Bize Osman b. Ebi Şeybe de rivayet etti. (Dediki): Bize Cerir, A'meş'den, o da Ebû Sâlih'den, o da Ebû Saîd-i Huclrî'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem): «Cennetle cehennem münâkaşa ettiler...» buyurdu. Râvî: «Her ikinize de dolusu doluya vereceğim...» cümlesine kadar Ebû Hureyre hadîsi (2846) gibi nakletmiş, ondan sonraki ziyâdeyi anmamıştır. İZAH 2848 DE",
-			"grades": [],
-			"reference": {
-				"book": 53,
-				"hadith": 45
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "53": "Cennet Ve Onun Nimetleri İle Cennetliklerin Sıfatı Bahsi"
+    },
+    "section_detail": {
+      "53": {
+        "hadithnumber_first": 7130,
+        "hadithnumber_last": 7234,
+        "arabicnumber_first": 2822,
+        "arabicnumber_last": 2879
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7176,
+      "arabicnumber": "2847",
+      "text": "Bize Osman b. Ebi Şeybe de rivayet etti. (Dediki): Bize Cerir, A'meş'den, o da Ebû Sâlih'den, o da Ebû Saîd-i Huclrî'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem): «Cennetle cehennem münâkaşa ettiler...» buyurdu. Râvî: «Her ikinize de dolusu doluya vereceğim...» cümlesine kadar Ebû Hureyre hadîsi (2846) gibi nakletmiş, ondan sonraki ziyâdeyi anmamıştır. İZAH 2848 DE",
+      "grades": [],
+      "reference": {
+        "book": 53,
+        "hadith": 45
+      }
+    }
+  ]
 }

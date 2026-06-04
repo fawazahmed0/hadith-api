@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 246,
-			"arabicnumber": "82.01",
-			"text": "Bize Yahya b. Yahya et-Temîmi ile Osman b. Ebî Şeybe ikisi de Cerir'den rivayet ettiler. Yahya dediki: Bize Cerir, A'meş'den o da Ebu Sufyan' dan naklen haber verdi. Demişki: Cabir’i şöyle derken işittim : Nebi (Sallallahu aleyhi ve Sellem)'i: \"Muhakkak kişi ile şirk ve küfür arasında namazın terki vardır\" buyururken dinledim. Diğer tahric: Tirmizi, 2618; Tuhfetu'l-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 153
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 246,
+      "arabicnumber": "82.01",
+      "text": "Bize Yahya b. Yahya et-Temîmi ile Osman b. Ebî Şeybe ikisi de Cerir'den rivayet ettiler. Yahya dediki: Bize Cerir, A'meş'den o da Ebu Sufyan' dan naklen haber verdi. Demişki: Cabir’i şöyle derken işittim : Nebi (Sallallahu aleyhi ve Sellem)'i: \"Muhakkak kişi ile şirk ve küfür arasında namazın terki vardır\" buyururken dinledim. Diğer tahric: Tirmizi, 2618; Tuhfetu'l-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 153
+      }
+    }
+  ]
 }

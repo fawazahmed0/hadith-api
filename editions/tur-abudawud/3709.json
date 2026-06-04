@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"27": "Drinks (Kitab Al-Ashribah)"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 3669,
-				"hadithnumber_last": 3735,
-				"arabicnumber_first": 3669,
-				"arabicnumber_last": 3735
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3709,
-			"arabicnumber": 3709,
-			"text": "Katâde'den rivayet olunduğuna göre; Câbir b. Zeyd ile İkrime hurma koruğu (ndan elde edilen şıranın içilmesi)ni kerih görürlerdi. Bu hükmü de İbn Abbas'dan alırlardı. İbn Abbas (r.a)'ın da: \"Ben Abdülkays (oğulların)ın menedildikleri \"el-müzzâ\" denilen içkinin (hurma koruğundan elde edilen şıra) olmasından korkuyorum\" dedi (ğini söylerlerdi). (Bu hadisi Katâde'den rivayet eden Muaz b. Hişâm dedi ki:) Ben Katâde'ye, \"el-müzzâ\" nedir? diye sordum da, \"Yeşil sırlı ve ziftle sıvalı küplerde (bulunan) şıra(lar)dır\" cevabını verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 27,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "27": "İçecekler Bölümü"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 3669,
+        "hadithnumber_last": 3735,
+        "arabicnumber_first": 3669,
+        "arabicnumber_last": 3735
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3709,
+      "arabicnumber": 3709,
+      "text": "Katâde'den rivayet olunduğuna göre; Câbir b. Zeyd ile İkrime hurma koruğu (ndan elde edilen şıranın içilmesi)ni kerih görürlerdi. Bu hükmü de İbn Abbas'dan alırlardı. İbn Abbas (r.a)'ın da: \"Ben Abdülkays (oğulların)ın menedildikleri \"el-müzzâ\" denilen içkinin (hurma koruğundan elde edilen şıra) olmasından korkuyorum\" dedi (ğini söylerlerdi). (Bu hadisi Katâde'den rivayet eden Muaz b. Hişâm dedi ki:) Ben Katâde'ye, \"el-müzzâ\" nedir? diye sordum da, \"Yeşil sırlı ve ziftle sıvalı küplerde (bulunan) şıra(lar)dır\" cevabını verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 27,
+        "hadith": 41
+      }
+    }
+  ]
 }

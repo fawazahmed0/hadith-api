@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4336,
-			"arabicnumber": "1668.02",
-			"text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Hammâd rivayet etti. H. Bize İshak b. İbrahim ile İbni Ebî Ömer de Sekafî'den rivayet ettiler. Her iki râvi Eyyûb'dan bu isnâdla rivayette bulunmuşlardır. Hammâd'ın hadîsi, İbni Uleyye'nin rivayeti gibidir. Sekafî'ye gelince: Onun hadîsinde: «Ensârdan bir adam ölürken vasiyyet ederek altı memlûk âzâd eyledi.» cümlesi vardır",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4336,
+      "arabicnumber": "1668.02",
+      "text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Hammâd rivayet etti. H. Bize İshak b. İbrahim ile İbni Ebî Ömer de Sekafî'den rivayet ettiler. Her iki râvi Eyyûb'dan bu isnâdla rivayette bulunmuşlardır. Hammâd'ın hadîsi, İbni Uleyye'nin rivayeti gibidir. Sekafî'ye gelince: Onun hadîsinde: «Ensârdan bir adam ölürken vasiyyet ederek altı memlûk âzâd eyledi.» cümlesi vardır",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 83
+      }
+    }
+  ]
 }

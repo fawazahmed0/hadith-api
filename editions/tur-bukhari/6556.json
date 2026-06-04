@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6556,
-			"arabicnumber": 6556,
-			"text": "Abdulaziz şöyle dedi: Babam Ebu Hazim şöyle dedi: Ben bu hadisi Numan b. Ebi Ayyaş'a rivayet ettim. Bana ben şehadet ediyorum ki Ebu Said'den işittim. O bu hadisi rivayet ediyor ve burada şu ziyadeyi getiriyordu: \"Sizin gündüz doğu ve batı ufkundaki ışıkları kalan parlak yıldızı -aradaki mesafe uzunluğundan dolayı- zorlukla gördüğünüz gibi",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 145
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6556,
+      "arabicnumber": 6556,
+      "text": "Abdulaziz şöyle dedi: Babam Ebu Hazim şöyle dedi: Ben bu hadisi Numan b. Ebi Ayyaş'a rivayet ettim. Bana ben şehadet ediyorum ki Ebu Said'den işittim. O bu hadisi rivayet ediyor ve burada şu ziyadeyi getiriyordu: \"Sizin gündüz doğu ve batı ufkundaki ışıkları kalan parlak yıldızı -aradaki mesafe uzunluğundan dolayı- zorlukla gördüğünüz gibi",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 145
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"67": "Wedlock, Marriage (Nikaah)"
-		},
-		"section_detail": {
-			"67": {
-				"hadithnumber_first": 5063,
-				"hadithnumber_last": 5250,
-				"arabicnumber_first": 5063,
-				"arabicnumber_last": 5250
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5213,
-			"arabicnumber": 5213,
-			"text": "Halid'den, o Ebu Kılabe'den, onun Enes r.a.'dan rivayetine göre -Ebu Kılabe dedi ki: Arzu edersem Nebi Sallallahu Aleyhi ve Sellem buyurdu da diyebilirim. Ancak (Enes)- şöyle dedi: \"Sünnet olan, bakire ile evlendiği takdirde onun yanında (aralıksız) yedi gün kalması, dul kadın ile evlendiği takdirde onun yanında üç gün kalmasıdır. \" Bu hadis 5214 numara ile gelecektir Diğer tahric edenler: Tirmizî, Nikah; Müslim, Rada",
-			"grades": [],
-			"reference": {
-				"book": 67,
-				"hadith": 146
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "67": "Nikâh"
+    },
+    "section_detail": {
+      "67": {
+        "hadithnumber_first": 5063,
+        "hadithnumber_last": 5250,
+        "arabicnumber_first": 5063,
+        "arabicnumber_last": 5250
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5213,
+      "arabicnumber": 5213,
+      "text": "Halid'den, o Ebu Kılabe'den, onun Enes r.a.'dan rivayetine göre -Ebu Kılabe dedi ki: Arzu edersem Nebi Sallallahu Aleyhi ve Sellem buyurdu da diyebilirim. Ancak (Enes)- şöyle dedi: \"Sünnet olan, bakire ile evlendiği takdirde onun yanında (aralıksız) yedi gün kalması, dul kadın ile evlendiği takdirde onun yanında üç gün kalmasıdır. \" Bu hadis 5214 numara ile gelecektir Diğer tahric edenler: Tirmizî, Nikah; Müslim, Rada",
+      "grades": [],
+      "reference": {
+        "book": 67,
+        "hadith": 146
+      }
+    }
+  ]
 }

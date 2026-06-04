@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4635,
-			"arabicnumber": 4635,
-			"text": "(Ebû Bekre'nin) babasından (rivayet edildiğine göre) Nebi sallallâhu aleyhi ve sellem bir gün (sahâbilerine: \"Bu gece) hanginiz rü'yâ gördü?\" diye sormuş (Ravi, hadisin bundan sonraki kısmında bir önceki 4634. hadisin) manasını rivayet etmiş, (fakat bir önceki hadiste, Hz. Peygamberin yüzünde görüldüğünden bahsedilen) memnuniyetsizliği zikretmemiştir. (Ancak sözü geçen memnuniyetsizlik yerine şu sözleri) söylemiştir: Rasûlullah (s.a.v.) buna üzüldü. Yani bu (rüya) onu üzdü. Bunun üzerine (şöyle) buyurdu: (Anlatılan rüyanın delâlet ettiği mana) Nebi halifeliğidir. (Bu halifelik bir gün sona erecek) sonra (yerine sultanlık gelecektir. İşte o zaman) Allah (bu) mülkü (n idaresini) istediği kimseye verir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4635,
+      "arabicnumber": 4635,
+      "text": "(Ebû Bekre'nin) babasından (rivayet edildiğine göre) Nebi sallallâhu aleyhi ve sellem bir gün (sahâbilerine: \"Bu gece) hanginiz rü'yâ gördü?\" diye sormuş (Ravi, hadisin bundan sonraki kısmında bir önceki 4634. hadisin) manasını rivayet etmiş, (fakat bir önceki hadiste, Hz. Peygamberin yüzünde görüldüğünden bahsedilen) memnuniyetsizliği zikretmemiştir. (Ancak sözü geçen memnuniyetsizlik yerine şu sözleri) söylemiştir: Rasûlullah (s.a.v.) buna üzüldü. Yani bu (rüya) onu üzdü. Bunun üzerine (şöyle) buyurdu: (Anlatılan rüyanın delâlet ettiği mana) Nebi halifeliğidir. (Bu halifelik bir gün sona erecek) sonra (yerine sultanlık gelecektir. İşte o zaman) Allah (bu) mülkü (n idaresini) istediği kimseye verir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 40
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"19": "Shares of Inheritance (Kitab Al-Fara'id)"
-		},
-		"section_detail": {
-			"19": {
-				"hadithnumber_first": 2885,
-				"hadithnumber_last": 2927,
-				"arabicnumber_first": 2885,
-				"arabicnumber_last": 2927
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2926,
-			"arabicnumber": 2926,
-			"text": "Asım el-Ahvel'den demiştir ki: Ben Enes b. Malik'i Rasûlullah (s.a.v.) bizim evlerimizde muhacirlerle ensar arasında (kardeşlik) antlaşması yaptı\" derken işittim. (Enes bunu söyleyince) kendisine: Rasûlullah (s.a.v.) \"İslamda antlaşma yoktur\" buyurmamış mıydı?- denildi (Oda) iki yahut da üç defa \"Rasûlullah (s.a.v.) bizim evlerimiz de muhacirlerle ensar arasında (kardeşlik) antlaşma(sı),yaptı.\" cevabını verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 19,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "19": "Feraiz Bölümü"
+    },
+    "section_detail": {
+      "19": {
+        "hadithnumber_first": 2885,
+        "hadithnumber_last": 2927,
+        "arabicnumber_first": 2885,
+        "arabicnumber_last": 2927
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2926,
+      "arabicnumber": 2926,
+      "text": "Asım el-Ahvel'den demiştir ki: Ben Enes b. Malik'i Rasûlullah (s.a.v.) bizim evlerimizde muhacirlerle ensar arasında (kardeşlik) antlaşması yaptı\" derken işittim. (Enes bunu söyleyince) kendisine: Rasûlullah (s.a.v.) \"İslamda antlaşma yoktur\" buyurmamış mıydı?- denildi (Oda) iki yahut da üç defa \"Rasûlullah (s.a.v.) bizim evlerimiz de muhacirlerle ensar arasında (kardeşlik) antlaşma(sı),yaptı.\" cevabını verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 19,
+        "hadith": 42
+      }
+    }
+  ]
 }

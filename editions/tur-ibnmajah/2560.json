@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"20": "The Chapters on Legal Punishments"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 2533,
-				"hadithnumber_last": 2614,
-				"arabicnumber_first": 2533,
-				"arabicnumber_last": 2614
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2560,
-			"arabicnumber": 2560,
-			"text": "Kasim bin Muhammed (bin Ebi Bekr-i Sıddık) (r.a.)'den; Şöyle demiştir: İbn-i Abbas (r.a.) lian işlemi usulünce lânetleşen karı-koca kıssasını anlattı. Bunun üzerine (Abdullah) bin Şeddâd (bin el-Hâd), İbn-i Abbâs'a; Hakkında, Resulullah (Sallallahu Aleyhi ve Sellem)'in: «(Zina suçundan dolayı) her hangi bir kimseyi şâhidsiz (ve itirafsız) recmetmiş olsaydım bu kadını recmedecektim» buyurduğu kadm o (anlattığın kadm mı) dır? diye sordu. İbn-i Abbâs: (Hayır). Rivayet ettiğin hadîste sözü edilen kadm, (kötülük belirtilerini) açığa vuran bir kadındır. Not: Bu hadis Buhari, Müslim ve başka hadis kitablarında da vardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 28
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "20": "Had (Cezâ)lar Kitabı"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 2533,
+        "hadithnumber_last": 2614,
+        "arabicnumber_first": 2533,
+        "arabicnumber_last": 2614
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2560,
+      "arabicnumber": 2560,
+      "text": "Kasim bin Muhammed (bin Ebi Bekr-i Sıddık) (r.a.)'den; Şöyle demiştir: İbn-i Abbas (r.a.) lian işlemi usulünce lânetleşen karı-koca kıssasını anlattı. Bunun üzerine (Abdullah) bin Şeddâd (bin el-Hâd), İbn-i Abbâs'a; Hakkında, Resulullah (Sallallahu Aleyhi ve Sellem)'in: «(Zina suçundan dolayı) her hangi bir kimseyi şâhidsiz (ve itirafsız) recmetmiş olsaydım bu kadını recmedecektim» buyurduğu kadm o (anlattığın kadm mı) dır? diye sordu. İbn-i Abbâs: (Hayır). Rivayet ettiğin hadîste sözü edilen kadm, (kötülük belirtilerini) açığa vuran bir kadındır. Not: Bu hadis Buhari, Müslim ve başka hadis kitablarında da vardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 28
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3954,
-			"arabicnumber": "1547.14",
-			"text": "{…} Bize Ebu'r-Rabi' rivayet etti. (Dediki): Bize Hammâd rivayet etti. H. Bize îbni Müsennâ da rivayet etti. (Dediki): Bize Yezîd b. Hârûn rivayet etti. Bu raviler hep birden Yahya b. Saîd'den bu isnâdla bu hadîsin benzerini rivayet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 153
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3954,
+      "arabicnumber": "1547.14",
+      "text": "{…} Bize Ebu'r-Rabi' rivayet etti. (Dediki): Bize Hammâd rivayet etti. H. Bize îbni Müsennâ da rivayet etti. (Dediki): Bize Yezîd b. Hârûn rivayet etti. Bu raviler hep birden Yahya b. Saîd'den bu isnâdla bu hadîsin benzerini rivayet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 153
+      }
+    }
+  ]
 }

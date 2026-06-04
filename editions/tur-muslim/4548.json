@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"32": "The Book of Jihad and Expeditions"
-		},
-		"section_detail": {
-			"32": {
-				"hadithnumber_first": 4519,
-				"hadithnumber_last": 4700,
-				"arabicnumber_first": 1730.01,
-				"arabicnumber_last": 1817
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4548,
-			"arabicnumber": "1744.02",
-			"text": "Bize Ebû Bekir b. Ebi Şeybe rivayet etti. (Dediki): Bize Muhammed b. Bişr ile Ebû Usâme rivayet ettiler. (Dedilerki): Bize Ubcydullah b. Ömer, Nâfi'den, o da İbni Ömer'den naklen rivayet etti. Şöyle demiş: Bu gazalardan birinde bir kadın öldürülmüş olarak bulundu. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) kadınlarla çocukları öldürmeyi yasak etti",
-			"grades": [],
-			"reference": {
-				"book": 32,
-				"hadith": 29
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "32": "Cihâd Ve Siyer"
+    },
+    "section_detail": {
+      "32": {
+        "hadithnumber_first": 4519,
+        "hadithnumber_last": 4700,
+        "arabicnumber_first": 1730.01,
+        "arabicnumber_last": 1817
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4548,
+      "arabicnumber": "1744.02",
+      "text": "Bize Ebû Bekir b. Ebi Şeybe rivayet etti. (Dediki): Bize Muhammed b. Bişr ile Ebû Usâme rivayet ettiler. (Dedilerki): Bize Ubcydullah b. Ömer, Nâfi'den, o da İbni Ömer'den naklen rivayet etti. Şöyle demiş: Bu gazalardan birinde bir kadın öldürülmüş olarak bulundu. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) kadınlarla çocukları öldürmeyi yasak etti",
+      "grades": [],
+      "reference": {
+        "book": 32,
+        "hadith": 29
+      }
+    }
+  ]
 }

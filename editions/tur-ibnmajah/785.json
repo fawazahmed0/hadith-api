@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"4": "The Book On The Mosques And The Congregations"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 735,
-				"hadithnumber_last": 802,
-				"arabicnumber_first": 735,
-				"arabicnumber_last": 802
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 785,
-			"arabicnumber": 785,
-			"text": "(Abdullah) İbn-i Abhas (r.a.)'den şöyle demiştir: Ensarın evleri mescidden uzaktaydı. Yakına gelmek istediler. Bunun üzerine; «Ve biz, onların önden gönderdiklerini ve eserlerini yazarız.» ayeti nazil oldu. İbn-i Abbas demiştir ki: Onlar da (evlerinde) kaldılar.\" Not: Zevaid'de: Bu hadis mevkuftur. Senedinde İbn-i Harb olan Simak vardır. İbn•i Main ve Ebu Hatim, onu sika saymışlarsa da Ahmed: Onun hadisleri mustaribtir, demiştir. Yakub bin Şeybe de: Simak'ın yalnız İkrimi'den olan rivayeti mustarib olup. başkalarından olan rivayeti yararlıdır, demiş diye bilgi vermiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 4,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "4": "Mescidler ve Cemaatlar Kitabı"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 735,
+        "hadithnumber_last": 802,
+        "arabicnumber_first": 735,
+        "arabicnumber_last": 802
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 785,
+      "arabicnumber": 785,
+      "text": "(Abdullah) İbn-i Abhas (r.a.)'den şöyle demiştir: Ensarın evleri mescidden uzaktaydı. Yakına gelmek istediler. Bunun üzerine; «Ve biz, onların önden gönderdiklerini ve eserlerini yazarız.» ayeti nazil oldu. İbn-i Abbas demiştir ki: Onlar da (evlerinde) kaldılar.\" Not: Zevaid'de: Bu hadis mevkuftur. Senedinde İbn-i Harb olan Simak vardır. İbn•i Main ve Ebu Hatim, onu sika saymışlarsa da Ahmed: Onun hadisleri mustaribtir, demiştir. Yakub bin Şeybe de: Simak'ın yalnız İkrimi'den olan rivayeti mustarib olup. başkalarından olan rivayeti yararlıdır, demiş diye bilgi vermiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 4,
+        "hadith": 51
+      }
+    }
+  ]
 }

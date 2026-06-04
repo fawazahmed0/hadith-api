@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"25": "The Book on Food"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1788,
-				"hadithnumber_last": 1860,
-				"arabicnumber_first": 1788,
-				"arabicnumber_last": 1860
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1848,
-			"arabicnumber": 1848,
-			"text": "Ikraş b. Zübeyd (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Mürre b. Ubeyd oğulları malların zekatlarını benimle Rasûlullah (s.a.v.)’e gönderdiler. Medîne’ye Rasûlullah (s.a.v.)’in yanına geldim onu Muhâcir ve Ensâr arasında oturur buldum. Ikraş şöyle devam etti: Sonra Rasûlullah (s.a.v.), elimden tutarak Ümmü Seleme’nin evine götürdü ve yemek var mı? buyurdu. Arkasından parça eti bol büyük bir kap ve tirit getirildi. Ondan yemeye yöneldik, derken ben elimi kabın her tarafında dolaştırmaya başladım. Rasûlullah (s.a.v.)’de kendi önünden yemekteydi. Rasûlullah (s.a.v.) sol eliyle benim sağ elimi tuttu ve şöyle dedi: “Ey Ikraş! Bu tek çeşitten oluşan bir yemektir, bir yerden ye.” Sonra içinde çeşitli hurma bulunan veya -Şek, Ubeydullah’tan gelmiştir- Olmuş ve yaş hurma bulunan bir tabak getirildi. Ben kendi önümden yemeye başladım. Rasûlullah (s.a.v.)’in eli ise tabak etrafında dolaşmaya başladı ve Rasûlullah (s.a.v.) şöyle buyurdu: “Ey Ikraş! İstediğin yerden ye bu bir çeşit değildir. Sonra bize su getirildi Rasûlullah (s.a.v.), ellerini yıkadı avuçlarının ıslaklığı ile yüzünü kollarını ve başını sıvazladı ve dedi ki: Ey Ikraş! Ateşin değdiği şeylerden dolayı alınacak abdest budur.” Diğer tahric: İbn Mâce, Etıme; Ebû davud, Etıme Tirmizî: Bu hadis garibtir. Bu hadisi sadece Alâ b. Fadl’ın rivâyetiyle bilmekteyiz. Alâ bu hadisi tek başına rivâyet etmektedir. Ikraş’ın Peygamber (s.a.v.)’den sadece bu hadisini biliyoruz",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "25": "Yiyecek Bölümleri"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1788,
+        "hadithnumber_last": 1860,
+        "arabicnumber_first": 1788,
+        "arabicnumber_last": 1860
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1848,
+      "arabicnumber": 1848,
+      "text": "Ikraş b. Zübeyd (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Mürre b. Ubeyd oğulları malların zekatlarını benimle Rasûlullah (s.a.v.)’e gönderdiler. Medîne’ye Rasûlullah (s.a.v.)’in yanına geldim onu Muhâcir ve Ensâr arasında oturur buldum. Ikraş şöyle devam etti: Sonra Rasûlullah (s.a.v.), elimden tutarak Ümmü Seleme’nin evine götürdü ve yemek var mı? buyurdu. Arkasından parça eti bol büyük bir kap ve tirit getirildi. Ondan yemeye yöneldik, derken ben elimi kabın her tarafında dolaştırmaya başladım. Rasûlullah (s.a.v.)’de kendi önünden yemekteydi. Rasûlullah (s.a.v.) sol eliyle benim sağ elimi tuttu ve şöyle dedi: “Ey Ikraş! Bu tek çeşitten oluşan bir yemektir, bir yerden ye.” Sonra içinde çeşitli hurma bulunan veya -Şek, Ubeydullah’tan gelmiştir- Olmuş ve yaş hurma bulunan bir tabak getirildi. Ben kendi önümden yemeye başladım. Rasûlullah (s.a.v.)’in eli ise tabak etrafında dolaşmaya başladı ve Rasûlullah (s.a.v.) şöyle buyurdu: “Ey Ikraş! İstediğin yerden ye bu bir çeşit değildir. Sonra bize su getirildi Rasûlullah (s.a.v.), ellerini yıkadı avuçlarının ıslaklığı ile yüzünü kollarını ve başını sıvazladı ve dedi ki: Ey Ikraş! Ateşin değdiği şeylerden dolayı alınacak abdest budur.” Diğer tahric: İbn Mâce, Etıme; Ebû davud, Etıme Tirmizî: Bu hadis garibtir. Bu hadisi sadece Alâ b. Fadl’ın rivâyetiyle bilmekteyiz. Alâ bu hadisi tek başına rivâyet etmektedir. Ikraş’ın Peygamber (s.a.v.)’den sadece bu hadisini biliyoruz",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 64
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"40": "The Book on Faith"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 2606,
-				"hadithnumber_last": 2644,
-				"arabicnumber_first": 2606,
-				"arabicnumber_last": 2644
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2608,
-			"arabicnumber": 2608,
-			"text": "Enes b. Mâlik (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Bu insanlarla Allah’tan başka ilah olmadığına, Muhammed (s.a.v.)’in onun kulu ve peygamberi olduğuna şehâdet edinceye, bizim kıblemize dönünceye, bizim kestiğimizi yiyinceye, bizim namazımızı kılıncaya kadar savaşmam emredildi. Bunları yaptıkları takdirde canları ve malları bize haram olur...” Diğer tahric: Müslim, İman Bu konuda Muâz b. Cebel ve Ebû Hureyre’den de hadis rivâyet edilmiştir. Tirmizî: Bu hadis bu şekliyle hasen sahih garibtir. Yahya b. Eyyûb bu hadisin bir benzerini Humeyd ve Enes’den rivâyet etmiştir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "40": "İman Bölümleri"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 2606,
+        "hadithnumber_last": 2644,
+        "arabicnumber_first": 2606,
+        "arabicnumber_last": 2644
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2608,
+      "arabicnumber": 2608,
+      "text": "Enes b. Mâlik (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Bu insanlarla Allah’tan başka ilah olmadığına, Muhammed (s.a.v.)’in onun kulu ve peygamberi olduğuna şehâdet edinceye, bizim kıblemize dönünceye, bizim kestiğimizi yiyinceye, bizim namazımızı kılıncaya kadar savaşmam emredildi. Bunları yaptıkları takdirde canları ve malları bize haram olur...” Diğer tahric: Müslim, İman Bu konuda Muâz b. Cebel ve Ebû Hureyre’den de hadis rivâyet edilmiştir. Tirmizî: Bu hadis bu şekliyle hasen sahih garibtir. Yahya b. Eyyûb bu hadisin bir benzerini Humeyd ve Enes’den rivâyet etmiştir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 3
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4847,
-			"arabicnumber": 4847,
-			"text": "Abdullah İbnü'z-Zübeyr'den rivayet edildiğine göre, Temimoğulları kafilesi Nebi Sallallahu Aleyhi ve Sellem'e gelmişti. Ebu Bekir \"Ey Allah'ın elçisi! Ka'ka' İbn Ma'bed'i onlarla ilgilenrnek üzere görevlendir,\" dedi. Ömer de \"Yok yok, Akra' İbn Habis'i onlarla ilgilenrnek üzere görevlendir,\" dedi. Bunun üzerine Ebu Bekir, Ömer'e \"Sen sadece bana muhalefet etmek istiyorsun,\" diye karşılık verdi. Ömer de ona \"Ben sana muhalefet etmeyi kastetmedim,\" dedi ve tartışmaya başladılar. Neticede sesleri yükseldi. Bunun üzerine \"Ey iman edenler! Allah'zn ve Resulünün önüne geçmeyin, \"(Hucurat 1) ayetinin tamamı nazil oldu",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 368
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4847,
+      "arabicnumber": 4847,
+      "text": "Abdullah İbnü'z-Zübeyr'den rivayet edildiğine göre, Temimoğulları kafilesi Nebi Sallallahu Aleyhi ve Sellem'e gelmişti. Ebu Bekir \"Ey Allah'ın elçisi! Ka'ka' İbn Ma'bed'i onlarla ilgilenrnek üzere görevlendir,\" dedi. Ömer de \"Yok yok, Akra' İbn Habis'i onlarla ilgilenrnek üzere görevlendir,\" dedi. Bunun üzerine Ebu Bekir, Ömer'e \"Sen sadece bana muhalefet etmek istiyorsun,\" diye karşılık verdi. Ömer de ona \"Ben sana muhalefet etmeyi kastetmedim,\" dedi ve tartışmaya başladılar. Neticede sesleri yükseldi. Bunun üzerine \"Ey iman edenler! Allah'zn ve Resulünün önüne geçmeyin, \"(Hucurat 1) ayetinin tamamı nazil oldu",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 368
+      }
+    }
+  ]
 }

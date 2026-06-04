@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"7": "The Book of Prayer - Friday"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1951,
-				"hadithnumber_last": 2043,
-				"arabicnumber_first": 844.01,
-				"arabicnumber_last": 883.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1958,
-			"arabicnumber": "847.01",
-			"text": "Bana Hârûn b. Said El-Eylî ile Ahmed b. îsâ rivayet ettiler. Dedilerki: Bize İbni Vehb rivayet etti. Dediki: Bana Amr, Ubeydullah b. Ebî Ca'fer'den naklen haber verdi. Ona da Muhammed b. Ca'feı Urvetü'bnü'z-Zübeyr'den naklen rivayet etmiş. Urve de Âişe'den rivâye etmiş ki, Âişe şöyle demiş: «Halk cumâ'ya yaylalardaki evlerinden gelirlerdi. Aba içinde gelirler de toza bulanırlar; kendilerinden (ter) kokusu çıkardı. (Bir defa) Resulullah (Sallallahu Aleyhi ve Sellem) benim yanımda iken ona, bunlardan bir adam geldi. Resulullah (Sallallahu Aleyhi ve Sellem (onun hâlini görünce) : — Siz bu gün için temizlensenize!...» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 7,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "7": "Cuma"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1951,
+        "hadithnumber_last": 2043,
+        "arabicnumber_first": 844.01,
+        "arabicnumber_last": 883.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1958,
+      "arabicnumber": "847.01",
+      "text": "Bana Hârûn b. Said El-Eylî ile Ahmed b. îsâ rivayet ettiler. Dedilerki: Bize İbni Vehb rivayet etti. Dediki: Bana Amr, Ubeydullah b. Ebî Ca'fer'den naklen haber verdi. Ona da Muhammed b. Ca'feı Urvetü'bnü'z-Zübeyr'den naklen rivayet etmiş. Urve de Âişe'den rivâye etmiş ki, Âişe şöyle demiş: «Halk cumâ'ya yaylalardaki evlerinden gelirlerdi. Aba içinde gelirler de toza bulanırlar; kendilerinden (ter) kokusu çıkardı. (Bir defa) Resulullah (Sallallahu Aleyhi ve Sellem) benim yanımda iken ona, bunlardan bir adam geldi. Resulullah (Sallallahu Aleyhi ve Sellem (onun hâlini görünce) : — Siz bu gün için temizlensenize!...» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 7,
+        "hadith": 8
+      }
+    }
+  ]
 }

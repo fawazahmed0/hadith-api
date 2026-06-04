@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1380,
-			"arabicnumber": 1380,
-			"text": "Enes bin Malik (r.a.)'den; şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'den işittim. Buyurdu ki : «Kim oniki rek'at kuşluk namazı kılarsa Allah Teala onun için Cennet'te altından bir köşk yaptırır.» Diğer tahric: Tirmizi de bunu rivayet etmiştir:",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 578
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1380,
+      "arabicnumber": 1380,
+      "text": "Enes bin Malik (r.a.)'den; şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'den işittim. Buyurdu ki : «Kim oniki rek'at kuşluk namazı kılarsa Allah Teala onun için Cennet'te altından bir köşk yaptırır.» Diğer tahric: Tirmizi de bunu rivayet etmiştir:",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 578
+      }
+    }
+  ]
 }

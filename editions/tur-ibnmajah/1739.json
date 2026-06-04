@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1739,
-			"arabicnumber": 1739,
-			"text": "Rebia bin el-Ğaz'dan rivayet edildiğine göre: Kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'in (nafile) oruç durumunu Aişe (r.anha)'ya sormuş, Aişe (r.anha) da: O, Pazartesi ve Perşembe (günleri) orucunu öncelikle arzulardı. demiştir. Bu hadisi Tirmizi de rivayet etti. AÇIKLAMA 1740’ta",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 102
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1739,
+      "arabicnumber": 1739,
+      "text": "Rebia bin el-Ğaz'dan rivayet edildiğine göre: Kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'in (nafile) oruç durumunu Aişe (r.anha)'ya sormuş, Aişe (r.anha) da: O, Pazartesi ve Perşembe (günleri) orucunu öncelikle arzulardı. demiştir. Bu hadisi Tirmizi de rivayet etti. AÇIKLAMA 1740’ta",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 102
+      }
+    }
+  ]
 }

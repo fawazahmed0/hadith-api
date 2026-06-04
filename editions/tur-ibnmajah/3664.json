@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3664,
-			"arabicnumber": 3664,
-			"text": "Ebu Useyd Malik bin Rabia (r.a.)'den; şöyle demiştir: Biz Nebi (Sallallahu Aleyhi ve Sellem)'in yanında bulunduğumuz esnada Ben-i Selime'den bir adam O'nun yanına gelerek: Ya Resulallah babam ve anam'a karşı yükümlü olduğum ödevlerden ölümlerinden sonra yapacağım bir şey kaldı mı? diye sordu. Nebi (Sallallahu Aleyhi ve Sellem): «Evet, onlara rahmet dilemek, onlar için istiğfar etmek, ahidelerini ölümlerinden sonra yerine getirmek, dostlarına ikram - hürmet etmek ve yakınlığı ancak onlar vasıtasıyla olan akrabalarla ilgilenip onlara karşı üzerine düşeni yapmak.» buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3664,
+      "arabicnumber": 3664,
+      "text": "Ebu Useyd Malik bin Rabia (r.a.)'den; şöyle demiştir: Biz Nebi (Sallallahu Aleyhi ve Sellem)'in yanında bulunduğumuz esnada Ben-i Selime'den bir adam O'nun yanına gelerek: Ya Resulallah babam ve anam'a karşı yükümlü olduğum ödevlerden ölümlerinden sonra yapacağım bir şey kaldı mı? diye sordu. Nebi (Sallallahu Aleyhi ve Sellem): «Evet, onlara rahmet dilemek, onlar için istiğfar etmek, ahidelerini ölümlerinden sonra yerine getirmek, dostlarına ikram - hürmet etmek ve yakınlığı ancak onlar vasıtasıyla olan akrabalarla ilgilenip onlara karşı üzerine düşeni yapmak.» buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 8
+      }
+    }
+  ]
 }

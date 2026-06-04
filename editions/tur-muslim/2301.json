@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2301,
-			"arabicnumber": "990.02",
-			"text": "{…} Bize, bu hadisi Ebû Küreyb Muhammed b. Alâ'da rivayet etti. (Dediki): Bize Ebû Muâviye, A'meş'den, o da Ma'rûr'dan, o da Ebû Zerr'den naklen rivayet etti. Ebû Zerr şöyle demiş: Nebi (Sallallahu Aleyhi ve Sellem)'in yanına vardım, Kabe'nin gölgesinde oturuyordu...» Ma'rür müteakiben Vekî'in hadîsi gibi rivayette bulunmuş ancak o şunu da söylemiş: «Nefsim yed-i kudretinde olan Allah'a yemin ederim ki. yeryüzünde hiç bir kimse yoktur ki, ölürken zekâtını vermediği deve, sığır veya koyun bıraksın da... buyurdular.»",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2301,
+      "arabicnumber": "990.02",
+      "text": "{…} Bize, bu hadisi Ebû Küreyb Muhammed b. Alâ'da rivayet etti. (Dediki): Bize Ebû Muâviye, A'meş'den, o da Ma'rûr'dan, o da Ebû Zerr'den naklen rivayet etti. Ebû Zerr şöyle demiş: Nebi (Sallallahu Aleyhi ve Sellem)'in yanına vardım, Kabe'nin gölgesinde oturuyordu...» Ma'rür müteakiben Vekî'in hadîsi gibi rivayette bulunmuş ancak o şunu da söylemiş: «Nefsim yed-i kudretinde olan Allah'a yemin ederim ki. yeryüzünde hiç bir kimse yoktur ki, ölürken zekâtını vermediği deve, sığır veya koyun bıraksın da... buyurdular.»",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 38
+      }
+    }
+  ]
 }

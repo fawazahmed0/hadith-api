@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5180,
-			"arabicnumber": "17.06",
-			"text": "Bize yine Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Muhammed b. Fudayl, Habib b. Ebî Amra'dan, o da Saîd b. Cübeyr'den, o da İbn-i Abbâs'dan naklen rivayet etti. (Şöyle demiş) : Resûlullah (Sallallahu Aleyhi ve Sellem) dubbâ' ile hantem, müzeffet ve nekîr'den, bir de koruk hurma ile olgunlaşmaya başlamış hurmayı karıştırmaktan nehiy buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5180,
+      "arabicnumber": "17.06",
+      "text": "Bize yine Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Muhammed b. Fudayl, Habib b. Ebî Amra'dan, o da Saîd b. Cübeyr'den, o da İbn-i Abbâs'dan naklen rivayet etti. (Şöyle demiş) : Resûlullah (Sallallahu Aleyhi ve Sellem) dubbâ' ile hantem, müzeffet ve nekîr'den, bir de koruk hurma ile olgunlaşmaya başlamış hurmayı karıştırmaktan nehiy buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 54
+      }
+    }
+  ]
 }

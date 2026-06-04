@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4296,
-			"arabicnumber": "1656.05",
-			"text": "{…} Bize Ahmed b. Abde Ed-Dabbî de rivayet etti. (Dediki): Bize Hammâd b. Zeyd rivayet etti. (Dediki): Bize Eyyûb, Nâfi'den rivayet etti. Şöyle demiş : İbni Ömer'in yanında Resûlullah (Sallallahu Aleyhi ve Sellem)'in Ci'râne'den yaptığı umre'nin zikri geçmiş de: — Oradan umre yapmadı, demiş. Ve ilâve etmiş. Ömer câhiliyyet devrinde bir gece i'tikâf yapmayı nezretmişti... Sonra (râvi) Cerîr b. Hâzim ile Ma'mer'in Eyyûb'dan rivayet ettikleri hadîs gibi rivayette bulunmuştur",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 43
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4296,
+      "arabicnumber": "1656.05",
+      "text": "{…} Bize Ahmed b. Abde Ed-Dabbî de rivayet etti. (Dediki): Bize Hammâd b. Zeyd rivayet etti. (Dediki): Bize Eyyûb, Nâfi'den rivayet etti. Şöyle demiş : İbni Ömer'in yanında Resûlullah (Sallallahu Aleyhi ve Sellem)'in Ci'râne'den yaptığı umre'nin zikri geçmiş de: — Oradan umre yapmadı, demiş. Ve ilâve etmiş. Ömer câhiliyyet devrinde bir gece i'tikâf yapmayı nezretmişti... Sonra (râvi) Cerîr b. Hâzim ile Ma'mer'in Eyyûb'dan rivayet ettikleri hadîs gibi rivayette bulunmuştur",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 43
+      }
+    }
+  ]
 }

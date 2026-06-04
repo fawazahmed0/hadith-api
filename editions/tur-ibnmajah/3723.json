@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3723,
-			"arabicnumber": 3723,
-			"text": "Kays bin Tıhfe el-Ğıfârî'nin babası (Tıhfe) (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) beni Mescidf-ı Nebevi) de yüzükoyun yatarken bulup ayağıyla dürttü ve şöyle buyurdu: «Sana ne oluyor ki böyle yatıyorsun. Bu, Allah'ın hoşlanmadığı veya Allah'ın buğzettiği bir yatıştır.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 67
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3723,
+      "arabicnumber": 3723,
+      "text": "Kays bin Tıhfe el-Ğıfârî'nin babası (Tıhfe) (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) beni Mescidf-ı Nebevi) de yüzükoyun yatarken bulup ayağıyla dürttü ve şöyle buyurdu: «Sana ne oluyor ki böyle yatıyorsun. Bu, Allah'ın hoşlanmadığı veya Allah'ın buğzettiği bir yatıştır.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 67
+      }
+    }
+  ]
 }

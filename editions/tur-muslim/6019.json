@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6019,
-			"arabicnumber": "2311.02",
-			"text": "{M-56} Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Eşcaî rivayet etti. H. Bana Muhammed h. Müsennâ da rivayet etti. (Dediki): Bize Abdurrahman (yâni İbni Mehdi) rivayet etti. Her iki râvi Süfyan'dan, o da Muhammed h. Münkedir'den naklen rivayet etmişlerdir, İbni Münkedir: Ben Câbir b. Abdillah'ı şöyle söylerken işittim, diyerek tamamen yukarki hadîsin midini rivayet etmiştir. İbn-I Hâman'ın rivayetin de -Muhammed b. Müsenna yerine Muhammed b. Hatim konulmuştur İzah 2313 te",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 77
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6019,
+      "arabicnumber": "2311.02",
+      "text": "{M-56} Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Eşcaî rivayet etti. H. Bana Muhammed h. Müsennâ da rivayet etti. (Dediki): Bize Abdurrahman (yâni İbni Mehdi) rivayet etti. Her iki râvi Süfyan'dan, o da Muhammed h. Münkedir'den naklen rivayet etmişlerdir, İbni Münkedir: Ben Câbir b. Abdillah'ı şöyle söylerken işittim, diyerek tamamen yukarki hadîsin midini rivayet etmiştir. İbn-I Hâman'ın rivayetin de -Muhammed b. Müsenna yerine Muhammed b. Hatim konulmuştur İzah 2313 te",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 77
+      }
+    }
+  ]
 }

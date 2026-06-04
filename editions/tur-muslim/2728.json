@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2728,
-			"arabicnumber": "1158",
-			"text": "Bana Züheyr b. Harb ile İbni Ebî Halef rivayet ettiler. (Dedilerki): Bize Ravh b. Ubâde rivayet etti. (Dediki) Bize Hammâd, Sâbit'ten o da Enes (Radiyallahu anh)'dan naklen rivayet eyledi. H. Bana bu hadisi Ebû Bekir b. Nâfi' dahî rivayet etti. Lâfız onundur. (Dediki) Bize Behz rivayet etti. (Dediki) Bize Hammad rivayet etti. (Dediki) Bize Sabit, Enes (Rudiyallahu anh)'dan naklen rivayet eyledi ki, Resûlullalı (Sallallahu Aleyhi ve Sellem) bazen bu artık devamlı oruç tutacak, denilecek kadar oruç tutar, bazen de: Artık hiç oruç tutmaz, hiç oruç tutmaz, denilecek kadar orucu terkedermiş",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 234
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2728,
+      "arabicnumber": "1158",
+      "text": "Bana Züheyr b. Harb ile İbni Ebî Halef rivayet ettiler. (Dedilerki): Bize Ravh b. Ubâde rivayet etti. (Dediki) Bize Hammâd, Sâbit'ten o da Enes (Radiyallahu anh)'dan naklen rivayet eyledi. H. Bana bu hadisi Ebû Bekir b. Nâfi' dahî rivayet etti. Lâfız onundur. (Dediki) Bize Behz rivayet etti. (Dediki) Bize Hammad rivayet etti. (Dediki) Bize Sabit, Enes (Rudiyallahu anh)'dan naklen rivayet eyledi ki, Resûlullalı (Sallallahu Aleyhi ve Sellem) bazen bu artık devamlı oruç tutacak, denilecek kadar oruç tutar, bazen de: Artık hiç oruç tutmaz, hiç oruç tutmaz, denilecek kadar orucu terkedermiş",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 234
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"18": "The Book of Divorce "
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 3652,
-				"hadithnumber_last": 3742,
-				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3714,
-			"arabicnumber": "1480.18",
-			"text": "Bana İshâk b. Mansur da rivayet etti. (Dediki): Bize Ebû Âsim haber verdi. (Dediki): Bize Süfyân-ı Sevrî rivayet etti. (Dediki): Bana Ebû Bekr b. Ebî'l-Cehm rivayet etti. (Dediki: Ben ve Ebû Seleme b. Abdirrahmân, Fâtıme binti Kays'in yanına girerek kendisine sorduk. Fâtıme : — Ben Ebû Amr b. Hafs b. Muğîre'nin karısı idim. Bir ara kendisi Necrân gazasına gitti... dedi. Ravi hadîsi, ibni Mehdi hadîsi gibi rivayet etti. Şunu da ekledi: «Fâtıme (Dediki): Ben de Usâme ile evlendim. Allah beni Ebû Zeyd ile şerefyâb etti. Allah beni Ebû Zeyd ile mükerrem kıldı.»",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 62
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "18": "Boşama"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 3652,
+        "hadithnumber_last": 3742,
+        "arabicnumber_first": 1471.01,
+        "arabicnumber_last": 1491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3714,
+      "arabicnumber": "1480.18",
+      "text": "Bana İshâk b. Mansur da rivayet etti. (Dediki): Bize Ebû Âsim haber verdi. (Dediki): Bize Süfyân-ı Sevrî rivayet etti. (Dediki): Bana Ebû Bekr b. Ebî'l-Cehm rivayet etti. (Dediki: Ben ve Ebû Seleme b. Abdirrahmân, Fâtıme binti Kays'in yanına girerek kendisine sorduk. Fâtıme : — Ben Ebû Amr b. Hafs b. Muğîre'nin karısı idim. Bir ara kendisi Necrân gazasına gitti... dedi. Ravi hadîsi, ibni Mehdi hadîsi gibi rivayet etti. Şunu da ekledi: «Fâtıme (Dediki): Ben de Usâme ile evlendim. Allah beni Ebû Zeyd ile şerefyâb etti. Allah beni Ebû Zeyd ile mükerrem kıldı.»",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 62
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2101,
-			"arabicnumber": 2101,
-			"text": "Ebu Musa'nın oğlu Ebu Bürde, babasından, o da Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmişlerdir: \"İyi arkadaş ve kötü arkadaş, misk satan ile demir körükleyen kimseye benzer. Misk satan kimsenin mutlaka sana bir yararı dokunur; ya ondan misk satın alırsın yahut kokusunu duyarsın. Demircinin körüğü ise ya evini veya elbiseni yakar yahut da onun kötü kokusunu duyarsın\". Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2101,
+      "arabicnumber": 2101,
+      "text": "Ebu Musa'nın oğlu Ebu Bürde, babasından, o da Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmişlerdir: \"İyi arkadaş ve kötü arkadaş, misk satan ile demir körükleyen kimseye benzer. Misk satan kimsenin mutlaka sana bir yararı dokunur; ya ondan misk satın alırsın yahut kokusunu duyarsın. Demircinin körüğü ise ya evini veya elbiseni yakar yahut da onun kötü kokusunu duyarsın\". Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 54
+      }
+    }
+  ]
 }

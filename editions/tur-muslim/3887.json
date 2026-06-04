@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3887,
-			"arabicnumber": "1540.01",
-			"text": "Bize Abdullah b. Meslemete'l-Ka'nebî rivayet etti. (Dediki): Bize Süleyman yâni İbni Bilâl, Yahya'dan —ki İbni Saîd'dir—, o da Büşeyr b. Yesâr'dan, o da biri Sa'd b. Ebî Hasme olmak üzere hemşehrileri bâzı ashâb-ı Resulullâh (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem) taze hurmayı kuru hurma karşılığında satmaktan nehyetmiş ve: «Bu ribâdir; bu müzâbenedir.» buyurmuş. Yalnız ariyyenin, bir-iki ağaç hurmanın yemişini satmağa ruhsat vermiş. Onu bir hâne halkı kuru hurma ile takdir ederek alır; taze taze yerlermiş",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 86
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3887,
+      "arabicnumber": "1540.01",
+      "text": "Bize Abdullah b. Meslemete'l-Ka'nebî rivayet etti. (Dediki): Bize Süleyman yâni İbni Bilâl, Yahya'dan —ki İbni Saîd'dir—, o da Büşeyr b. Yesâr'dan, o da biri Sa'd b. Ebî Hasme olmak üzere hemşehrileri bâzı ashâb-ı Resulullâh (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem) taze hurmayı kuru hurma karşılığında satmaktan nehyetmiş ve: «Bu ribâdir; bu müzâbenedir.» buyurmuş. Yalnız ariyyenin, bir-iki ağaç hurmanın yemişini satmağa ruhsat vermiş. Onu bir hâne halkı kuru hurma ile takdir ederek alır; taze taze yerlermiş",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 86
+      }
+    }
+  ]
 }

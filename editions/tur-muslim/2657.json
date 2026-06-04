@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2657,
-			"arabicnumber": "1130.02",
-			"text": "{…} Bize, bu hadîsi İbni Beşşâr ile Ebû Bekir b. Nâfi' hep birden Muhammed b. Cafer'den, o da Şu'be'den, o da Ebû Bişr'dari bu isnâdla rivayet ettiler. Yalnız burada râvi: «Resulullah (Sallallahu Aleyhi ve Sellem) Yahudilere bunun sebebini sordu.» demiş",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 163
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2657,
+      "arabicnumber": "1130.02",
+      "text": "{…} Bize, bu hadîsi İbni Beşşâr ile Ebû Bekir b. Nâfi' hep birden Muhammed b. Cafer'den, o da Şu'be'den, o da Ebû Bişr'dari bu isnâdla rivayet ettiler. Yalnız burada râvi: «Resulullah (Sallallahu Aleyhi ve Sellem) Yahudilere bunun sebebini sordu.» demiş",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 163
+      }
+    }
+  ]
 }

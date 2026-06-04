@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"17": "Zakat"
-		},
-		"section_detail": {
-			"17": {
-				"hadithnumber_first": 578,
-				"hadithnumber_last": 629,
-				"arabicnumber_first": 578,
-				"arabicnumber_last": 629
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 585,
-			"arabicnumber": 585,
-			"text": "Rabia b. Ebî Abdurrahman bazılarından şöyle duyduğunu naklediyor: Resulullah Sallallahu Aleyhi ve Sellem, Nahle ile Medine arasındaki Far' civarında bulunan ve Medine'ye beş günlük bir mesafede olan Kabeliyye madenlerinin işletme hakkını Bilal b. Haris el-Müzeni'ye vermişti. O gün bugün hala bu madenlerden zekat'tan başka bir şey alınmaz",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 17,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "17": "Zekât"
+    },
+    "section_detail": {
+      "17": {
+        "hadithnumber_first": 578,
+        "hadithnumber_last": 629,
+        "arabicnumber_first": 578,
+        "arabicnumber_last": 629
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 585,
+      "arabicnumber": 585,
+      "text": "Rabia b. Ebî Abdurrahman bazılarından şöyle duyduğunu naklediyor: Resulullah Sallallahu Aleyhi ve Sellem, Nahle ile Medine arasındaki Far' civarında bulunan ve Medine'ye beş günlük bir mesafede olan Kabeliyye madenlerinin işletme hakkını Bilal b. Haris el-Müzeni'ye vermişti. O gün bugün hala bu madenlerden zekat'tan başka bir şey alınmaz",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 17,
+        "hadith": 8
+      }
+    }
+  ]
 }

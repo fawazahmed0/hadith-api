@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"28": "Foods (Kitab Al-At'imah)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3736,
-				"hadithnumber_last": 3854,
-				"arabicnumber_first": 3736,
-				"arabicnumber_last": 3854
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3781,
-			"arabicnumber": 3781,
-			"text": "(Abdullah b. Mes'ûd) dedi ki: (Hayvanın) kol kısımları Nebi (s.a.v.)'in hoşuna giderdi. Yahudilerin kendisini bir ön butla zehirlediklerine inanırdı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 46
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "28": "Yiyecekler Bölümü"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3736,
+        "hadithnumber_last": 3854,
+        "arabicnumber_first": 3736,
+        "arabicnumber_last": 3854
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3781,
+      "arabicnumber": 3781,
+      "text": "(Abdullah b. Mes'ûd) dedi ki: (Hayvanın) kol kısımları Nebi (s.a.v.)'in hoşuna giderdi. Yahudilerin kendisini bir ön butla zehirlediklerine inanırdı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 46
+      }
+    }
+  ]
 }

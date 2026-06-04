@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3427,
-			"arabicnumber": 3427,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Biriniz (su ve benzeri bir şey) içtiği zaman kabın içinde teneffüs etmesin (nefes alıp vermesin). (Bir nefeste içtikten sonra) Tekrar içmek istediği zaman kabı (ağzından) uzaklaştıran (da kabın dışında nefes aldıktan) sonra isterse tekrar içsin.» Not: Zevaid'de şöyle denilmiştir: Ebü Hureyre'nin bu hadisi sahih olup ravlleri güvenilir zatlardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3427,
+      "arabicnumber": 3427,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Biriniz (su ve benzeri bir şey) içtiği zaman kabın içinde teneffüs etmesin (nefes alıp vermesin). (Bir nefeste içtikten sonra) Tekrar içmek istediği zaman kabı (ağzından) uzaklaştıran (da kabın dışında nefes aldıktan) sonra isterse tekrar içsin.» Not: Zevaid'de şöyle denilmiştir: Ebü Hureyre'nin bu hadisi sahih olup ravlleri güvenilir zatlardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 57
+      }
+    }
+  ]
 }

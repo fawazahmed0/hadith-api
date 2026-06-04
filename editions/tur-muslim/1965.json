@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"7": "The Book of Prayer - Friday"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1951,
-				"hadithnumber_last": 2043,
-				"arabicnumber_first": 844.01,
-				"arabicnumber_last": 883.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1965,
-			"arabicnumber": "851.01",
-			"text": "Bize Kuteybetü'bnü Saîd ile Muhammedü'bnü Rumh b. EI-Muhâcir rivayet ettiler, ibni Rumh Dediki: Bize Leys, Ukayl'den, o da ibni Şihâb'dan naklen haber verdi. (Demişki): Bana Saîdü'bnü'l-Müseyyeb haber verdi. Ona da Ebû Hureyre haber vermişki, Resulullah (Sallallahu Aleyhi ve Sellem) : «Cuma günü imam hutbe okurken arkadaşına (sus!) dedinmi boş yere lakırdı etmiş olursun!» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 7,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "7": "Cuma"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1951,
+        "hadithnumber_last": 2043,
+        "arabicnumber_first": 844.01,
+        "arabicnumber_last": 883.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1965,
+      "arabicnumber": "851.01",
+      "text": "Bize Kuteybetü'bnü Saîd ile Muhammedü'bnü Rumh b. EI-Muhâcir rivayet ettiler, ibni Rumh Dediki: Bize Leys, Ukayl'den, o da ibni Şihâb'dan naklen haber verdi. (Demişki): Bana Saîdü'bnü'l-Müseyyeb haber verdi. Ona da Ebû Hureyre haber vermişki, Resulullah (Sallallahu Aleyhi ve Sellem) : «Cuma günü imam hutbe okurken arkadaşına (sus!) dedinmi boş yere lakırdı etmiş olursun!» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 7,
+        "hadith": 15
+      }
+    }
+  ]
 }

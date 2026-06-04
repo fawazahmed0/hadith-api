@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"36": "Tribulations"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 3927,
-				"hadithnumber_last": 4099,
-				"arabicnumber_first": 3927,
-				"arabicnumber_last": 4099
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4004,
-			"arabicnumber": 4004,
-			"text": "Aişe (r.anha)'dan rivayet edildiğine göre kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işitmiştir: «Sizin (halkı hidayete) davet edip de çağrınıza icabet edilmeme durumu olmadan önce (insanlara) iyi şeyleri emrediniz ve fena şeyleri men ediniz.» Diğer tahric: Ahmed",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 79
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "36": "Fitneler Kitabı"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 3927,
+        "hadithnumber_last": 4099,
+        "arabicnumber_first": 3927,
+        "arabicnumber_last": 4099
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4004,
+      "arabicnumber": 4004,
+      "text": "Aişe (r.anha)'dan rivayet edildiğine göre kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işitmiştir: «Sizin (halkı hidayete) davet edip de çağrınıza icabet edilmeme durumu olmadan önce (insanlara) iyi şeyleri emrediniz ve fena şeyleri men ediniz.» Diğer tahric: Ahmed",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 79
+      }
+    }
+  ]
 }

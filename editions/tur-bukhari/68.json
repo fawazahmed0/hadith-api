@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 68,
-			"arabicnumber": 68,
-			"text": "İbn-i Mes’ud r.a. şöyle dedi: Nebiyy-i Muhterem (sallallahu aleyhi ve sellem) va`z (ve nasîhat) husûsunda bize bıkkınlık gelmesin diye halimize bakıp (ona göre) gün ve (saat) kollardı. Tekrar: 70, 6411. Diğer tahric: Tirmizi edeb; Müslim, Sıfat-ıl Kıyame",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 68,
+      "arabicnumber": 68,
+      "text": "İbn-i Mes’ud r.a. şöyle dedi: Nebiyy-i Muhterem (sallallahu aleyhi ve sellem) va`z (ve nasîhat) husûsunda bize bıkkınlık gelmesin diye halimize bakıp (ona göre) gün ve (saat) kollardı. Tekrar: 70, 6411. Diğer tahric: Tirmizi edeb; Müslim, Sıfat-ıl Kıyame",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 10
+      }
+    }
+  ]
 }

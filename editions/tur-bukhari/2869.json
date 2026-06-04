@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2869,
-			"arabicnumber": 2869,
-			"text": "Abdullah İbn Ömer şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem tımar edilmemiş atları Veda tepesi ile Benu Züreyk mescidi arasında yarıştırdı.\" Ravi, Abdullah İbn Ömer'in de bu yarışıara katıldığını söylemiştir",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2869,
+      "arabicnumber": 2869,
+      "text": "Abdullah İbn Ömer şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem tımar edilmemiş atları Veda tepesi ile Benu Züreyk mescidi arasında yarıştırdı.\" Ravi, Abdullah İbn Ömer'in de bu yarışıara katıldığını söylemiştir",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 85
+      }
+    }
+  ]
 }

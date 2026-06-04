@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 933,
-			"arabicnumber": 933,
-			"text": "Enes bin Malik (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur : «Akşam yemeği konduğu ve namaz (için) ikamet edildiği zaman siz önce yemek yeyiniz.» Diğer tahric: Buhari, Müslim ve Tirmizi de benzer lafızlarla rivayet etmişlerdir. Buhari'nin rivayeti mealen şöyledir: ''..Akşam yemeğiniz önünüze konduğu vakit akşam namazını kılmadan yemeğe başlayınız. (Namaza) acele edip de yemeğinizi bırakmayınız.'' AÇIKLAMA 935’te",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 131
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 933,
+      "arabicnumber": 933,
+      "text": "Enes bin Malik (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur : «Akşam yemeği konduğu ve namaz (için) ikamet edildiği zaman siz önce yemek yeyiniz.» Diğer tahric: Buhari, Müslim ve Tirmizi de benzer lafızlarla rivayet etmişlerdir. Buhari'nin rivayeti mealen şöyledir: ''..Akşam yemeğiniz önünüze konduğu vakit akşam namazını kılmadan yemeğe başlayınız. (Namaza) acele edip de yemeğinizi bırakmayınız.'' AÇIKLAMA 935’te",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 131
+      }
+    }
+  ]
 }

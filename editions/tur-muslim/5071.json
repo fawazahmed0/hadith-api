@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"35": "The Book of Sacrifices"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 5064,
-				"hadithnumber_last": 5126,
-				"arabicnumber_first": 1960.01,
-				"arabicnumber_last": 1978.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5071,
-			"arabicnumber": "1961.03",
-			"text": "{…} Bize Muhammed b. Müsenııâ rivayet etti. (Dediki); Bize İbn-i Adiyy, Dâvûd'dan, o da Şa'bî'den, o da Bera' b. Âzib'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) bize kurban günü hutbe okudu da : «Namazı kılmadıkça hiç bîr kimse katîyyen kurban kesmesin!» buyurdu. Bunun üzerine dayım: — Yâ Resûlallah! Bu öyle bir gündür ki; bunda et mekruhtur... dedi. Bundan sonra râvi, Hüşeym'in hadîsi mânasında rivayette bulunmuştur",
-			"grades": [],
-			"reference": {
-				"book": 35,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "35": "Kurbanlar"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 5064,
+        "hadithnumber_last": 5126,
+        "arabicnumber_first": 1960.01,
+        "arabicnumber_last": 1978.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5071,
+      "arabicnumber": "1961.03",
+      "text": "{…} Bize Muhammed b. Müsenııâ rivayet etti. (Dediki); Bize İbn-i Adiyy, Dâvûd'dan, o da Şa'bî'den, o da Bera' b. Âzib'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) bize kurban günü hutbe okudu da : «Namazı kılmadıkça hiç bîr kimse katîyyen kurban kesmesin!» buyurdu. Bunun üzerine dayım: — Yâ Resûlallah! Bu öyle bir gündür ki; bunda et mekruhtur... dedi. Bundan sonra râvi, Hüşeym'in hadîsi mânasında rivayette bulunmuştur",
+      "grades": [],
+      "reference": {
+        "book": 35,
+        "hadith": 8
+      }
+    }
+  ]
 }

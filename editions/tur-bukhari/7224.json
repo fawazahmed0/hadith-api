@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"93": "Judgments (Ahkaam)"
-		},
-		"section_detail": {
-			"93": {
-				"hadithnumber_first": 7137,
-				"hadithnumber_last": 7225,
-				"arabicnumber_first": 7137,
-				"arabicnumber_last": 7225
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7224,
-			"arabicnumber": 7224,
-			"text": "",
-			"grades": [],
-			"reference": {
-				"book": 93,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "93": "Hükümler"
+    },
+    "section_detail": {
+      "93": {
+        "hadithnumber_first": 7137,
+        "hadithnumber_last": 7225,
+        "arabicnumber_first": 7137,
+        "arabicnumber_last": 7225
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7224,
+      "arabicnumber": 7224,
+      "text": "",
+      "grades": [],
+      "reference": {
+        "book": 93,
+        "hadith": 83
+      }
+    }
+  ]
 }

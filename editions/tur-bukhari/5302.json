@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"68": "Divorce"
-		},
-		"section_detail": {
-			"68": {
-				"hadithnumber_first": 5251,
-				"hadithnumber_last": 5350,
-				"arabicnumber_first": 5251,
-				"arabicnumber_last": 5350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5302,
-			"arabicnumber": 5302,
-			"text": "İbn Ömer'den, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem: Ay şöyledir, şöyledir, şöyledir diye buyurdu. Otuz gün çektiğini kastediyordu. Sonra da şöyledir, şöyledir ve şöyledir diye buyurdu. Bununla da yirmi dokuz gün çektiğini kastediyordu. Yani bazen otuz gün, bazen yirmi dokuz gün çeker demek istiyordu",
-			"grades": [],
-			"reference": {
-				"book": 68,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "68": "Boşamak-Boşanmak"
+    },
+    "section_detail": {
+      "68": {
+        "hadithnumber_first": 5251,
+        "hadithnumber_last": 5350,
+        "arabicnumber_first": 5251,
+        "arabicnumber_last": 5350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5302,
+      "arabicnumber": 5302,
+      "text": "İbn Ömer'den, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem: Ay şöyledir, şöyledir, şöyledir diye buyurdu. Otuz gün çektiğini kastediyordu. Sonra da şöyledir, şöyledir ve şöyledir diye buyurdu. Bununla da yirmi dokuz gün çektiğini kastediyordu. Yani bazen otuz gün, bazen yirmi dokuz gün çeker demek istiyordu",
+      "grades": [],
+      "reference": {
+        "book": 68,
+        "hadith": 51
+      }
+    }
+  ]
 }

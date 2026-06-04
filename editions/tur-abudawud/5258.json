@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5258,
-			"arabicnumber": 5258,
-			"text": "Şu (bir önceki 5257.) hadis kısa olarak İbn Aclân'dan da (rivayet edilmiştir. Bu rivayete göre Hz. Nebi) şöyle buyurmuştur: \"Ona üç (defa) izin versin. (Bu izin kullanıldıktan) sonra (yılan) yine de (evde) kendisine görünecek olursa hemen onu öldürsün. Çünkü o şeytandır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2236)"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 486
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5258,
+      "arabicnumber": 5258,
+      "text": "Şu (bir önceki 5257.) hadis kısa olarak İbn Aclân'dan da (rivayet edilmiştir. Bu rivayete göre Hz. Nebi) şöyle buyurmuştur: \"Ona üç (defa) izin versin. (Bu izin kullanıldıktan) sonra (yılan) yine de (evde) kendisine görünecek olursa hemen onu öldürsün. Çünkü o şeytandır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2236)"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 486
+      }
+    }
+  ]
 }

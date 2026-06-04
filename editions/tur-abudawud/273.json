@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 273,
-			"arabicnumber": 273,
-			"text": "Aişe (r.anha)'dan demiştir ki; \"Rasulullah (Sallallahu aleyhi ve Sellem) hayamızın ilk günlerinde bize (belimizden aşağısına) izar (peştemal) sarmamızı emreder, sonra da tenini tenimize dokundururdu. Sizlerden hanginiz Rasulullah (Sallallahu aleyhi ve Sellem)'in nefsine hakim olduğu gibi nefsine sahip olabilir?” Diğer tahric: Buharî, hayz; Müslim, hayz; İbn Mace tahare; Ahmed b. Hanbel",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (302) Sahih Muslim (293)"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 273
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 273,
+      "arabicnumber": 273,
+      "text": "Aişe (r.anha)'dan demiştir ki; \"Rasulullah (Sallallahu aleyhi ve Sellem) hayamızın ilk günlerinde bize (belimizden aşağısına) izar (peştemal) sarmamızı emreder, sonra da tenini tenimize dokundururdu. Sizlerden hanginiz Rasulullah (Sallallahu aleyhi ve Sellem)'in nefsine hakim olduğu gibi nefsine sahip olabilir?” Diğer tahric: Buharî, hayz; Müslim, hayz; İbn Mace tahare; Ahmed b. Hanbel",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (302) Sahih Muslim (293)"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 273
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"5": "Prayer (Kitab Al-Salat): Voluntary Prayers"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1250,
-				"hadithnumber_last": 1370,
-				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1354,
-			"arabicnumber": 1354,
-			"text": "(Bir önceki hadisin) bir benzerini de Vehb b. Bakiyye, Halid vasıtasıyla Husayn'dan rivayet etmiştir. (Ancak Hâlid bu hadiste bulunan) ve \"bana büyük bir nûr ver\" (duasını, Allahumme lâfzını zikretmeden) nakletti. Ebû Dâvûd dedi ki: Ebû Hâlid ed-Dâiânî de aynı şekilde Habîb'den (naklettiği) şu (bir önceki) hadiste (bulunan duayı Hâiid'in lâfızlarıyla ve \"Allahumme\" lâfzını zikretmeden) rivayet etti. Diğer tahric: Ahmed b. Hanbel, I, 284, 343, 352, 373, Tirmizî, deavât; Buharî, deâvât; Müslim, müsâfirîn",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 105
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "5": "Nafile Namazlar Bölümü"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1250,
+        "hadithnumber_last": 1370,
+        "arabicnumber_first": 1250,
+        "arabicnumber_last": 1370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1354,
+      "arabicnumber": 1354,
+      "text": "(Bir önceki hadisin) bir benzerini de Vehb b. Bakiyye, Halid vasıtasıyla Husayn'dan rivayet etmiştir. (Ancak Hâlid bu hadiste bulunan) ve \"bana büyük bir nûr ver\" (duasını, Allahumme lâfzını zikretmeden) nakletti. Ebû Dâvûd dedi ki: Ebû Hâlid ed-Dâiânî de aynı şekilde Habîb'den (naklettiği) şu (bir önceki) hadiste (bulunan duayı Hâiid'in lâfızlarıyla ve \"Allahumme\" lâfzını zikretmeden) rivayet etti. Diğer tahric: Ahmed b. Hanbel, I, 284, 343, 352, 373, Tirmizî, deavât; Buharî, deâvât; Müslim, müsâfirîn",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 105
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2901,
-			"arabicnumber": "1206.11",
-			"text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Ubeydullah b. Mûsâ haber verdi. (Dediki): Bize İsrail, Mansûr'dan, o da Saîd b. Cübeyr'den, o da İbni Abbâs (Radiyallahu anhüma)'dan naklen rivayet etti. İbni Abbâs şöyle demiş: «Resulullah (Sallallahu Aleyhi ve Sellem) ile birlikte bir adam vardı. Bu zâtı, devesi düşürerek boynunu kırdı ve hemen. öldü. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): — Onu yıkayın! Ama kendisine koku yaklaştırmayın! Yüzünü de örtmeyin) Çünkü o, telbiye ederken diriltilecektir; buyurdular.»",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 110
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2901,
+      "arabicnumber": "1206.11",
+      "text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Ubeydullah b. Mûsâ haber verdi. (Dediki): Bize İsrail, Mansûr'dan, o da Saîd b. Cübeyr'den, o da İbni Abbâs (Radiyallahu anhüma)'dan naklen rivayet etti. İbni Abbâs şöyle demiş: «Resulullah (Sallallahu Aleyhi ve Sellem) ile birlikte bir adam vardı. Bu zâtı, devesi düşürerek boynunu kırdı ve hemen. öldü. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): — Onu yıkayın! Ama kendisine koku yaklaştırmayın! Yüzünü de örtmeyin) Çünkü o, telbiye ederken diriltilecektir; buyurdular.»",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 110
+      }
+    }
+  ]
 }

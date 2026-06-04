@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"13": "The Two Festivals (Eids)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 948,
-				"hadithnumber_last": 989,
-				"arabicnumber_first": 948,
-				"arabicnumber_last": 989
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 977,
-			"arabicnumber": 977,
-			"text": "Abdurrahmân İbn Abis şöyle demiştir; Abdullah İbn Abbas'a: \"Sen Resûl-i Ekrem Sallallahu Aleyhi ve Sellem'in kıldırdığı bir bayram namazında bulundun mu?\" diye sordular. O da şu cevabı verdi: \"Evet bulundum. O zamanlar yaşım küçük olduğu için Resûlullah Sallallahu Aleyhi ve Sellem'e yaklaşıp olanları görebilmiştim. Aksi halde olan biteni göremeyecektim. Nebi Sallallahu Aleyhi ve Sellem Kesîr Ibnü's-Salt'ın evinin yakınındaki işarete kadar ilerledi ve orada namazı kıldırdıktan sonra cemaate hitap etti. Sonra yanına Bilâl'i de alarak hanımlara yöneldi. Onlara öğütler verdi, uyarılarda bulundu ve sadaka vermelerini emretti. Ben kadınların takılarını Bilâl'ın eteğine doldurduklarını gördüm. Sonra Nebi Sallallahu Aleyhi ve Sellem Bilâl İle birlikte eve gitti",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "13": "İki Bayram Namazı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 948,
+        "hadithnumber_last": 989,
+        "arabicnumber_first": 948,
+        "arabicnumber_last": 989
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 977,
+      "arabicnumber": 977,
+      "text": "Abdurrahmân İbn Abis şöyle demiştir; Abdullah İbn Abbas'a: \"Sen Resûl-i Ekrem Sallallahu Aleyhi ve Sellem'in kıldırdığı bir bayram namazında bulundun mu?\" diye sordular. O da şu cevabı verdi: \"Evet bulundum. O zamanlar yaşım küçük olduğu için Resûlullah Sallallahu Aleyhi ve Sellem'e yaklaşıp olanları görebilmiştim. Aksi halde olan biteni göremeyecektim. Nebi Sallallahu Aleyhi ve Sellem Kesîr Ibnü's-Salt'ın evinin yakınındaki işarete kadar ilerledi ve orada namazı kıldırdıktan sonra cemaate hitap etti. Sonra yanına Bilâl'i de alarak hanımlara yöneldi. Onlara öğütler verdi, uyarılarda bulundu ve sadaka vermelerini emretti. Ben kadınların takılarını Bilâl'ın eteğine doldurduklarını gördüm. Sonra Nebi Sallallahu Aleyhi ve Sellem Bilâl İle birlikte eve gitti",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 26
+      }
+    }
+  ]
 }

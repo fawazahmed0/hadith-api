@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"51": "Characteristics of The Hypocrites And Rulings Concerning Them"
-		},
-		"section_detail": {
-			"51": {
-				"hadithnumber_first": 7024,
-				"hadithnumber_last": 7044,
-				"arabicnumber_first": 2772,
-				"arabicnumber_last": 2784.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7044,
-			"arabicnumber": "2784.02",
-			"text": "{m-17} Bize Kuteybe b. Saîd rivayet etti. (Dediki): Ya'kub (yani İbni Abdirrahman El-Kaâri) Musa b. Ukbe'den, c da Nafi'den o da İbni Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet etti. Şu kadar var ki o: «Bir defa o sürüye, bir defa bu sürüye hücum eder.» dedi",
-			"grades": [],
-			"reference": {
-				"book": 51,
-				"hadith": 21
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "51": "Münafıkların Sıfatları ve Hükümleri Bahsi"
+    },
+    "section_detail": {
+      "51": {
+        "hadithnumber_first": 7024,
+        "hadithnumber_last": 7044,
+        "arabicnumber_first": 2772,
+        "arabicnumber_last": 2784.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7044,
+      "arabicnumber": "2784.02",
+      "text": "{m-17} Bize Kuteybe b. Saîd rivayet etti. (Dediki): Ya'kub (yani İbni Abdirrahman El-Kaâri) Musa b. Ukbe'den, c da Nafi'den o da İbni Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet etti. Şu kadar var ki o: «Bir defa o sürüye, bir defa bu sürüye hücum eder.» dedi",
+      "grades": [],
+      "reference": {
+        "book": 51,
+        "hadith": 21
+      }
+    }
+  ]
 }

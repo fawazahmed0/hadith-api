@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3556,
-			"arabicnumber": "1439.01",
-			"text": "Bize Ahmed b. Abdillâh b. Yunus rivayet etti. (Dediki): Bize Züheyr rivayet etti. (Dediki): Bize Ebu'z-Zübeyr, Câbir'den naklen haber verdi ki, Bir adam Resullullah (Sa!lallahu Aleyhi ve Sellem)'e gelerek : Benim bir cariyem var ki, hizmetçimiz ve su taşıyan devemiz hep odur. Ben onunla cinsî münâsebette de bulunuyorum; ama gebe kalmasını istemiyorum; demiş. Bunun üzerine Resul-i Ekrem (Sa!lallahu Aleyhi ve Sellem): «istersen ondan azil yap; çünkü ona mukadder olan başına gelecektir.» buyurmuşlar. Adam bir müddet durmuş; sonra tekrar Nebi (Sa!lallahu Aleyhi ve Sellem)'e gelerek: — Câriye gebe kaldı; demiş. O zaman Resulullah (Sa!lallahu Aleyhi ve Sellem); «Ben o'na mukadder olanın başına geleceğini sana haber vermiştim.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 158
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3556,
+      "arabicnumber": "1439.01",
+      "text": "Bize Ahmed b. Abdillâh b. Yunus rivayet etti. (Dediki): Bize Züheyr rivayet etti. (Dediki): Bize Ebu'z-Zübeyr, Câbir'den naklen haber verdi ki, Bir adam Resullullah (Sa!lallahu Aleyhi ve Sellem)'e gelerek : Benim bir cariyem var ki, hizmetçimiz ve su taşıyan devemiz hep odur. Ben onunla cinsî münâsebette de bulunuyorum; ama gebe kalmasını istemiyorum; demiş. Bunun üzerine Resul-i Ekrem (Sa!lallahu Aleyhi ve Sellem): «istersen ondan azil yap; çünkü ona mukadder olan başına gelecektir.» buyurmuşlar. Adam bir müddet durmuş; sonra tekrar Nebi (Sa!lallahu Aleyhi ve Sellem)'e gelerek: — Câriye gebe kaldı; demiş. O zaman Resulullah (Sa!lallahu Aleyhi ve Sellem); «Ben o'na mukadder olanın başına geleceğini sana haber vermiştim.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 158
+      }
+    }
+  ]
 }

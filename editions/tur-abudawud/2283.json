@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"13": "Divorce (Kitab Al-Talaq)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2175,
-				"hadithnumber_last": 2312,
-				"arabicnumber_first": 2175,
-				"arabicnumber_last": 2312
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2283,
-			"arabicnumber": 2283,
-			"text": "Ömer (b. el-Hattab r.a.)'den rivayet olunduğuna göre, Nebî (Sallallahu aleyhi ve Sellem) Hafsâ (r.anha)'yı boşamış, sonra da (iddet süresi içinde) ona dönmüştür. Diğer tahric: İbni Mace, talak (2016); Darimi, talak",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 109
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "13": "Boşanma Bölümü"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2175,
+        "hadithnumber_last": 2312,
+        "arabicnumber_first": 2175,
+        "arabicnumber_last": 2312
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2283,
+      "arabicnumber": 2283,
+      "text": "Ömer (b. el-Hattab r.a.)'den rivayet olunduğuna göre, Nebî (Sallallahu aleyhi ve Sellem) Hafsâ (r.anha)'yı boşamış, sonra da (iddet süresi içinde) ona dönmüştür. Diğer tahric: İbni Mace, talak (2016); Darimi, talak",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 109
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"79": "Asking Permission"
-		},
-		"section_detail": {
-			"79": {
-				"hadithnumber_first": 6227,
-				"hadithnumber_last": 6303,
-				"arabicnumber_first": 6227,
-				"arabicnumber_last": 6303
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6257,
-			"arabicnumber": 6257,
-			"text": "Abdullah İbn Ömer r.a.'dan rivayete göre; \"Rasuluilah Sallallahu Aleyhi ve Sellem şöyle buyurdu: Eğer Yahudiler size selam verirlerse, onlardan selam veren kişi muhakkak: es-Samu aleykum der. Bunun için sen de: Ve aleyke, de. \" Bu Hadis 6928 numara ile de var",
-			"grades": [],
-			"reference": {
-				"book": 79,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "79": "İzin İsteme"
+    },
+    "section_detail": {
+      "79": {
+        "hadithnumber_first": 6227,
+        "hadithnumber_last": 6303,
+        "arabicnumber_first": 6227,
+        "arabicnumber_last": 6303
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6257,
+      "arabicnumber": 6257,
+      "text": "Abdullah İbn Ömer r.a.'dan rivayete göre; \"Rasuluilah Sallallahu Aleyhi ve Sellem şöyle buyurdu: Eğer Yahudiler size selam verirlerse, onlardan selam veren kişi muhakkak: es-Samu aleykum der. Bunun için sen de: Ve aleyke, de. \" Bu Hadis 6928 numara ile de var",
+      "grades": [],
+      "reference": {
+        "book": 79,
+        "hadith": 31
+      }
+    }
+  ]
 }

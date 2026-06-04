@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1453,
-			"arabicnumber": 1453,
-			"text": "Enes'in naklettiğine göre, Ebu Bekir r.a., Enes r.a.'e Resulullah Sallallahu Aleyhi ve Sellem'in emrettiği zekat konusunda yazdığı bir mektubunda şöyle demiştir: \"Vermesi gereken zekat, dört yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, üç yaşını doldurmuş bir dişi deve bulu­nan kimseden, mükellef için daha kolay ise, bu deve ile birlikte iki koyun veya yirmi dirhem zekat olarak kabul edilir. Vermesi gereken zekat, üç yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, dört yaşını doldurmuş bir dişi deve olan kişiden bu deve zekat olarak alınır. Zekat memuru, mükellefe ya iki koyun ya da yirmi dirhem geri verir. Vermesi gereken zekat, üç yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, iki yaşını doldurmuş bir dişi deve bulunan kimseden, bu deve, zekat olarak kabul edilir. Üzerine iki koyun veya yirmi dirhem daha verir. Vermesi gereken zekat, İki yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, üç yaşını doldurmuş bir dişi deve bulunan kimseden, bu deve zekat olarak kabul edilir. Zekat memuru mükellefe iki koyun veya yirmi dirhem iade eder. Vermesi gereken zekat, iki yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, bir yaşını doldurmuş bir dişi deve bulunan kimseden, bu deve zekat olarak kabul edilir. Üzerine, yirmi dirhem veya iki koyun daha verir",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1453,
+      "arabicnumber": 1453,
+      "text": "Enes'in naklettiğine göre, Ebu Bekir r.a., Enes r.a.'e Resulullah Sallallahu Aleyhi ve Sellem'in emrettiği zekat konusunda yazdığı bir mektubunda şöyle demiştir: \"Vermesi gereken zekat, dört yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, üç yaşını doldurmuş bir dişi deve bulu­nan kimseden, mükellef için daha kolay ise, bu deve ile birlikte iki koyun veya yirmi dirhem zekat olarak kabul edilir. Vermesi gereken zekat, üç yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, dört yaşını doldurmuş bir dişi deve olan kişiden bu deve zekat olarak alınır. Zekat memuru, mükellefe ya iki koyun ya da yirmi dirhem geri verir. Vermesi gereken zekat, üç yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, iki yaşını doldurmuş bir dişi deve bulunan kimseden, bu deve, zekat olarak kabul edilir. Üzerine iki koyun veya yirmi dirhem daha verir. Vermesi gereken zekat, İki yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, üç yaşını doldurmuş bir dişi deve bulunan kimseden, bu deve zekat olarak kabul edilir. Zekat memuru mükellefe iki koyun veya yirmi dirhem iade eder. Vermesi gereken zekat, iki yaşını doldurmuş bir dişi deve olup da, yanında böyle bir deve yerine, bir yaşını doldurmuş bir dişi deve bulunan kimseden, bu deve zekat olarak kabul edilir. Üzerine, yirmi dirhem veya iki koyun daha verir",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 56
+      }
+    }
+  ]
 }

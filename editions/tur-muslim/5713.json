@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5713,
-			"arabicnumber": "2191.07",
-			"text": "{m-49} Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. H. Bize İshâk b. İbrahim dahî rivayet etti. (Dediki): Bize İsâ b. Yûnus haber verdi. Her iki râvi Hişam'dan bu isnadla bu hadîsin mislini rivayet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 67
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5713,
+      "arabicnumber": "2191.07",
+      "text": "{m-49} Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. H. Bize İshâk b. İbrahim dahî rivayet etti. (Dediki): Bize İsâ b. Yûnus haber verdi. Her iki râvi Hişam'dan bu isnadla bu hadîsin mislini rivayet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 67
+      }
+    }
+  ]
 }

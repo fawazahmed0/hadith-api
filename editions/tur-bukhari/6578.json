@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6578,
-			"arabicnumber": 6578,
-			"text": "Ebu Bişr ile Ata b. es-Saib'in Said b. Cubeyr'den nakillerine göre İbn Abbas \"Kevser, Allah Teala'nın ona (Resulüne) ihsan buyurmuş olduğu çok hayırdır\" demiştir. Ebu Bişr dedi ki: Ben Said b. Cubeyr'e \"Birçok kimse, kevserin cennette bir nehir olduğunu söylüyorlar\" dedim. Bunun üzerine Said b. Cubeyr \"Cennetteki o nehir de Allah Teala'nın ona ihsan buyurduğu hayırdandır\" cevabını verdi",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 166
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6578,
+      "arabicnumber": 6578,
+      "text": "Ebu Bişr ile Ata b. es-Saib'in Said b. Cubeyr'den nakillerine göre İbn Abbas \"Kevser, Allah Teala'nın ona (Resulüne) ihsan buyurmuş olduğu çok hayırdır\" demiştir. Ebu Bişr dedi ki: Ben Said b. Cubeyr'e \"Birçok kimse, kevserin cennette bir nehir olduğunu söylüyorlar\" dedim. Bunun üzerine Said b. Cubeyr \"Cennetteki o nehir de Allah Teala'nın ona ihsan buyurduğu hayırdandır\" cevabını verdi",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 166
+      }
+    }
+  ]
 }

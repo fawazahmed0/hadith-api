@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"1": "The Book on Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 148,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 148
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 111,
-			"arabicnumber": 111,
-			"text": "Bu hadis Ahmed b. Meni’, Abdullah b. Mübarek, Ma’mer ve Zührî’den de rivâyet edilmiştir. Bu hadis hasen sahihtir. Guslün, meninin inmesinden dolayı gerekmesi İslamın ilk dönemlerinde idi sonradan kaldırıldı. Peygamber (sallallahü aleyhi ve sellem)’in ashabından değişik kimselerde aynı görüştedirler. Übey b. Ka’b ve Rafi’ b. Hadîç bunlardandır. İlim adamlarının pek çoğu bu hadise göre amel etmektedirler ve, “Erkek karısıyla münasebette bulunur ve menisi gelmese bile her ikisine de gusül gerekir” diyorlar",
-			"grades": [
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 148,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 148
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 111,
+      "arabicnumber": 111,
+      "text": "Bu hadis Ahmed b. Meni’, Abdullah b. Mübarek, Ma’mer ve Zührî’den de rivâyet edilmiştir. Bu hadis hasen sahihtir. Guslün, meninin inmesinden dolayı gerekmesi İslamın ilk dönemlerinde idi sonradan kaldırıldı. Peygamber (sallallahü aleyhi ve sellem)’in ashabından değişik kimselerde aynı görüştedirler. Übey b. Ka’b ve Rafi’ b. Hadîç bunlardandır. İlim adamlarının pek çoğu bu hadise göre amel etmektedirler ve, “Erkek karısıyla münasebette bulunur ve menisi gelmese bile her ikisine de gusül gerekir” diyorlar",
+      "grades": [
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 111
+      }
+    }
+  ]
 }

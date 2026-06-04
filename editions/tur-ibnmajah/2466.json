@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"16": "The Chapters on Pawning"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 2436,
-				"hadithnumber_last": 2491,
-				"arabicnumber_first": 2436,
-				"arabicnumber_last": 2491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2466,
-			"arabicnumber": 2466,
-			"text": "Râfi' bin Hadîc (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim bir kavmin arazisini onların izni olmaksızın ekerse, ziraattan ona bir şey yoktur ve onun masrafı (arazi sâhiblerince) ödenir.. Diğer tahric: Tirmizi ve Ebu Davud da bunu rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "16": "Rehineler Kitabı"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 2436,
+        "hadithnumber_last": 2491,
+        "arabicnumber_first": 2436,
+        "arabicnumber_last": 2491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2466,
+      "arabicnumber": 2466,
+      "text": "Râfi' bin Hadîc (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim bir kavmin arazisini onların izni olmaksızın ekerse, ziraattan ona bir şey yoktur ve onun masrafı (arazi sâhiblerince) ödenir.. Diğer tahric: Tirmizi ve Ebu Davud da bunu rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 31
+      }
+    }
+  ]
 }

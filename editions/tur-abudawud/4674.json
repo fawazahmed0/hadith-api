@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4674,
-			"arabicnumber": 4674,
-			"text": "Ebu Hureyre'den (rivayet edildiğine göre) Rasûluilah (s.a.v.) \"Tübba (Allah'ın rahmetinden mahrum kalmış) bir mel'un mudur, değil midir bilmiyorum ve Uzeyr Nebi midir, değil midir (bunu da) bilmiyorum\" demiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 79
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4674,
+      "arabicnumber": 4674,
+      "text": "Ebu Hureyre'den (rivayet edildiğine göre) Rasûluilah (s.a.v.) \"Tübba (Allah'ın rahmetinden mahrum kalmış) bir mel'un mudur, değil midir bilmiyorum ve Uzeyr Nebi midir, değil midir (bunu da) bilmiyorum\" demiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 79
+      }
+    }
+  ]
 }

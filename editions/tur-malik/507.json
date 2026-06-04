@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"15": "The Qur'an"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 470,
-				"hadithnumber_last": 519,
-				"arabicnumber_first": 470,
-				"arabicnumber_last": 519
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 507,
-			"arabicnumber": 507,
-			"text": "Yahya b. Saîd'den: Saîd b. Müseyyeb ellerini yukarı doğru kaldırarak: «Vefat eden kişinin geride kalan çocuğunun duası sayesinde onun derecesi yükselir.» derdi. İbn Abdilber şöyle der: Bu gibi rivayetler içtihatla bilinemezler, onun için başka bir yerde hadis olarak mutlaka zikredilmiştir",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "15": "Kur'an-ı Kerîm"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 470,
+        "hadithnumber_last": 519,
+        "arabicnumber_first": 470,
+        "arabicnumber_last": 519
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 507,
+      "arabicnumber": 507,
+      "text": "Yahya b. Saîd'den: Saîd b. Müseyyeb ellerini yukarı doğru kaldırarak: «Vefat eden kişinin geride kalan çocuğunun duası sayesinde onun derecesi yükselir.» derdi. İbn Abdilber şöyle der: Bu gibi rivayetler içtihatla bilinemezler, onun için başka bir yerde hadis olarak mutlaka zikredilmiştir",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 38
+      }
+    }
+  ]
 }

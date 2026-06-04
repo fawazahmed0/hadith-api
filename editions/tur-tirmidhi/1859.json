@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"25": "The Book on Food"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1788,
-				"hadithnumber_last": 1860,
-				"arabicnumber_first": 1788,
-				"arabicnumber_last": 1860
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1859,
-			"arabicnumber": 1859,
-			"text": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: “Şeytan (veya değişik mikrop, böcek ve bakteriler) hassas ve yalayıp yok edicidirler kendinizi ondan koruyun. Her kim elinde yemek bulaşığı ve kokusu varken yatıp uyursa ve geceleyin kendisine bir şey olursa kendisinden başka kimseyi suçlamasın.” Diğer tahric: Ebû Dâvûd, Et’ıme; İbn Mâce, Et’ıme Tirmizî: Bu hadis bu şekliyle garibtir. Ayrıca bu hadis Süheyl b. ebî Salih’in babasından Ebû Hüreyre’den de rivâyet edilmiştir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 77
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "25": "Yiyecek Bölümleri"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1788,
+        "hadithnumber_last": 1860,
+        "arabicnumber_first": 1788,
+        "arabicnumber_last": 1860
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1859,
+      "arabicnumber": 1859,
+      "text": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: “Şeytan (veya değişik mikrop, böcek ve bakteriler) hassas ve yalayıp yok edicidirler kendinizi ondan koruyun. Her kim elinde yemek bulaşığı ve kokusu varken yatıp uyursa ve geceleyin kendisine bir şey olursa kendisinden başka kimseyi suçlamasın.” Diğer tahric: Ebû Dâvûd, Et’ıme; İbn Mâce, Et’ıme Tirmizî: Bu hadis bu şekliyle garibtir. Ayrıca bu hadis Süheyl b. ebî Salih’in babasından Ebû Hüreyre’den de rivâyet edilmiştir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 77
+      }
+    }
+  ]
 }

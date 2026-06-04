@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3069,
-			"arabicnumber": 3069,
-			"text": "İbn-i Ömer (r.a.)'dan: Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) ve (O'ndan sonra halîfe olan) Ebû Bekir, Ömer ve Osman (r.anhum) (Minâ'dan dönüşlerinde) el-Ebtah (deresin) de konaklıyorlardı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 188
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3069,
+      "arabicnumber": 3069,
+      "text": "İbn-i Ömer (r.a.)'dan: Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) ve (O'ndan sonra halîfe olan) Ebû Bekir, Ömer ve Osman (r.anhum) (Minâ'dan dönüşlerinde) el-Ebtah (deresin) de konaklıyorlardı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 188
+      }
+    }
+  ]
 }

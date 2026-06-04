@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3168,
-			"arabicnumber": 3168,
-			"text": "Ebû Hureyre Hz. Nebi'den naklen demiştir ki: '-Kim cenazeye uya(rak musallaya kadar gide)r de, üzerine na­maz kılarsa ona bir kırat (ağırlığınca sevap) vardır. Kim (namazdan sonra da) ona uyar(ak kabrine kadar gidip, defni) sona erinceye kadar (başında durursa), ona en küçüğü Uhud dağı kadar -veyahut da birisi Uhud dağı kadar- (olan) iki kırat (ağırlığında sevap) vardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 80
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3168,
+      "arabicnumber": 3168,
+      "text": "Ebû Hureyre Hz. Nebi'den naklen demiştir ki: '-Kim cenazeye uya(rak musallaya kadar gide)r de, üzerine na­maz kılarsa ona bir kırat (ağırlığınca sevap) vardır. Kim (namazdan sonra da) ona uyar(ak kabrine kadar gidip, defni) sona erinceye kadar (başında durursa), ona en küçüğü Uhud dağı kadar -veyahut da birisi Uhud dağı kadar- (olan) iki kırat (ağırlığında sevap) vardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 80
+      }
+    }
+  ]
 }

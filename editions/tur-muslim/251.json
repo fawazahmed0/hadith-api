@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 251,
-			"arabicnumber": "84.02",
-			"text": "Bana Muhammed b. Rafi' ve Abd b. Humeyd tahdis etti. -Bize Abdurrezzak (2/9a) -Abd haber verdi, dedi, İbn Rafi' tahdis etti, dedi-, bize Ma'mer, ez-Zührl'den haber verdi. O Urve b. Zubeyr'in azatlısı Habib'den, o Urve b. Zübeyr'den, o Ebu Muravih'den, o Ebu Zerr'den, O Nebi (Sallallahu aleyhi ve Sellem)'den hadisi buna yakın olarak nakletti. Ancak bu rivayetinde O: \"(İş yapan anlamındaki lafzın başına elif lam getirerek): İş yapan birisine yardımcı olursun, yahut yapamayan adına sen yaparsın\" buyurdu (diye nakletti). 244 – 252 DAVUDOĞLU ŞERHİ İÇİN buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 157
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 251,
+      "arabicnumber": "84.02",
+      "text": "Bana Muhammed b. Rafi' ve Abd b. Humeyd tahdis etti. -Bize Abdurrezzak (2/9a) -Abd haber verdi, dedi, İbn Rafi' tahdis etti, dedi-, bize Ma'mer, ez-Zührl'den haber verdi. O Urve b. Zubeyr'in azatlısı Habib'den, o Urve b. Zübeyr'den, o Ebu Muravih'den, o Ebu Zerr'den, O Nebi (Sallallahu aleyhi ve Sellem)'den hadisi buna yakın olarak nakletti. Ancak bu rivayetinde O: \"(İş yapan anlamındaki lafzın başına elif lam getirerek): İş yapan birisine yardımcı olursun, yahut yapamayan adına sen yaparsın\" buyurdu (diye nakletti). 244 – 252 DAVUDOĞLU ŞERHİ İÇİN buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 157
+      }
+    }
+  ]
 }

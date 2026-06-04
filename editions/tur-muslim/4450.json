@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"29": "The Book of Legal Punishments"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 4398,
-				"hadithnumber_last": 4469,
-				"arabicnumber_first": 1684.01,
-				"arabicnumber_last": 1710.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4450,
-			"arabicnumber": "1705.01",
-			"text": "Bize Muhammed b. Ebi Bekir El-Mukaddemi rivayet etti. (Dediki): Bize Süleyman Ebû Dâvûd rivayet etti. (Dediki): Bize Zaide, Süddî'den, o da Sa'd b. Ubeyde'den, o da Ebû Abdirrahmân'dan naklen rivayet etti. (Demişki): Ali hutbe okuyarak şunları söyledi: Ey nâs! Memlüklerinize, muhsan olsunlar olmasınlar, haddi tatbik edin! Zîra Resulullah (Sallallahu Aleyhi ve Sellem)'in bir cariyesi zina etti de, ona dayak vurmamı bana emretti. Bir de baktık yeni nifâs olmuş. Ben ona dayak vurursam öldürürüm dîye korktum; ve keyfiyeti Peygamber (Sallallahu Aleyhi ve Sellem)'e andım. Bunun üzerine: «İyi ettin!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 29,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "29": "Hudûd"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 4398,
+        "hadithnumber_last": 4469,
+        "arabicnumber_first": 1684.01,
+        "arabicnumber_last": 1710.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4450,
+      "arabicnumber": "1705.01",
+      "text": "Bize Muhammed b. Ebi Bekir El-Mukaddemi rivayet etti. (Dediki): Bize Süleyman Ebû Dâvûd rivayet etti. (Dediki): Bize Zaide, Süddî'den, o da Sa'd b. Ubeyde'den, o da Ebû Abdirrahmân'dan naklen rivayet etti. (Demişki): Ali hutbe okuyarak şunları söyledi: Ey nâs! Memlüklerinize, muhsan olsunlar olmasınlar, haddi tatbik edin! Zîra Resulullah (Sallallahu Aleyhi ve Sellem)'in bir cariyesi zina etti de, ona dayak vurmamı bana emretti. Bir de baktık yeni nifâs olmuş. Ben ona dayak vurursam öldürürüm dîye korktum; ve keyfiyeti Peygamber (Sallallahu Aleyhi ve Sellem)'e andım. Bunun üzerine: «İyi ettin!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 29,
+        "hadith": 53
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"2": "The Book of the Prayer"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 667,
-				"hadithnumber_last": 705,
-				"arabicnumber_first": 667,
-				"arabicnumber_last": 705
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 667,
-			"arabicnumber": 667,
-			"text": "Büreyde (bin El-Husayb) (r.a.)'den rivayet edildiğine göre şöyle söylemiştir: Bir adam. Nebi (Sallallahu Aleyhi ve Sellem)'e gelerek kendisine (beş) namaz (ın) vakit lerini sordu. Nebi (Sallallahu Aleyhi ve Sellem) ona: «Bu iki gün bizimle beraber namaz kıl.» buyurdu. Güneş (gök ortasından batıya doğru) zevale varınca Nebi (Sallallahu Aleyhi ve Sellem) Bilal (r.a.)'e emretti. Bilal (r.a.) da ezan okudu. Sonra emretti. O da öğle namazı için ikamet getirdi. Sonra ona emretti. O da Güneş henüz yüksek ve bembeyaz iken ikindi namazı için ikamet etti. Sonra Ona emretti. O da Güneş battığı zaman Akşam namazı için ikamet etti. Sonra Ona emretti. O da şafak battığı zaman yatsı namazı için ikamet etti. Sonra Ona emretti. Oda Fecir doğduğu zaman, sabah namazı için ikamet etti. İkinci gün olunca ona emretti. O da öğle için ezan okudu da öğle namazını serinliğe bıraktı. Hem de hava iyice serinleyinceye kadar geciktirdi. Sonra güneş henüz yüksek iken ikindi namazını kıldı. İlk günkü vakitten sonraya te'hir etmiş oldu. Daha sonra şafak batmadan önce akşam namazını kıldı. Yatsı namazını da gecenin üçte biri geçtikten sonra kıldı. Sabah namazını da, ortalık iyice aydınlandıktan sonra kıldı. Daha sonra: «Namaz vakit(leri)ni soran kişi nerededir?» buyurdu. Adam da. Ben (buradayım) Ya Resulallah! deyince, O: «Namazınızın vakti, gördüğünüz süreler arasıdır.» buyurdu. Diğer tahric: Müslim ve Tirmizi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "2": "Namaz Kitabı"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 667,
+        "hadithnumber_last": 705,
+        "arabicnumber_first": 667,
+        "arabicnumber_last": 705
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 667,
+      "arabicnumber": 667,
+      "text": "Büreyde (bin El-Husayb) (r.a.)'den rivayet edildiğine göre şöyle söylemiştir: Bir adam. Nebi (Sallallahu Aleyhi ve Sellem)'e gelerek kendisine (beş) namaz (ın) vakit lerini sordu. Nebi (Sallallahu Aleyhi ve Sellem) ona: «Bu iki gün bizimle beraber namaz kıl.» buyurdu. Güneş (gök ortasından batıya doğru) zevale varınca Nebi (Sallallahu Aleyhi ve Sellem) Bilal (r.a.)'e emretti. Bilal (r.a.) da ezan okudu. Sonra emretti. O da öğle namazı için ikamet getirdi. Sonra ona emretti. O da Güneş henüz yüksek ve bembeyaz iken ikindi namazı için ikamet etti. Sonra Ona emretti. O da Güneş battığı zaman Akşam namazı için ikamet etti. Sonra Ona emretti. O da şafak battığı zaman yatsı namazı için ikamet etti. Sonra Ona emretti. Oda Fecir doğduğu zaman, sabah namazı için ikamet etti. İkinci gün olunca ona emretti. O da öğle için ezan okudu da öğle namazını serinliğe bıraktı. Hem de hava iyice serinleyinceye kadar geciktirdi. Sonra güneş henüz yüksek iken ikindi namazını kıldı. İlk günkü vakitten sonraya te'hir etmiş oldu. Daha sonra şafak batmadan önce akşam namazını kıldı. Yatsı namazını da gecenin üçte biri geçtikten sonra kıldı. Sabah namazını da, ortalık iyice aydınlandıktan sonra kıldı. Daha sonra: «Namaz vakit(leri)ni soran kişi nerededir?» buyurdu. Adam da. Ben (buradayım) Ya Resulallah! deyince, O: «Namazınızın vakti, gördüğünüz süreler arasıdır.» buyurdu. Diğer tahric: Müslim ve Tirmizi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 1
+      }
+    }
+  ]
 }

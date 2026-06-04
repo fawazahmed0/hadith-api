@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"28": "Penalty of Hunting while on Pilgrimage"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 1821,
-				"hadithnumber_last": 1866,
-				"arabicnumber_first": 1821,
-				"arabicnumber_last": 1866
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1846,
-			"arabicnumber": 1846,
-			"text": "",
-			"grades": [],
-			"reference": {
-				"book": 28,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "28": "Av Cezası"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 1821,
+        "hadithnumber_last": 1866,
+        "arabicnumber_first": 1821,
+        "arabicnumber_last": 1866
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1846,
+      "arabicnumber": 1846,
+      "text": "",
+      "grades": [],
+      "reference": {
+        "book": 28,
+        "hadith": 26
+      }
+    }
+  ]
 }

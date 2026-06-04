@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"30": "Chapters on Drinks"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 3371,
-				"hadithnumber_last": 3435,
-				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3411,
-			"arabicnumber": 3411,
-			"text": "Ebû Hureyre (r.a.)'den; Şöyle demi tir: Resulullah (Sallallahu Aleyhi ve Sellem) bize kab'ı örtmeyi, tulumun ağzını bağlamayı ve (boş) kabı ağzı yere gelecek biçimde ters çevirmeyi emretti. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sika zatlardır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 30,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "30": "İçecekler Kitabı"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 3371,
+        "hadithnumber_last": 3435,
+        "arabicnumber_first": 3371,
+        "arabicnumber_last": 3435
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3411,
+      "arabicnumber": 3411,
+      "text": "Ebû Hureyre (r.a.)'den; Şöyle demi tir: Resulullah (Sallallahu Aleyhi ve Sellem) bize kab'ı örtmeyi, tulumun ağzını bağlamayı ve (boş) kabı ağzı yere gelecek biçimde ters çevirmeyi emretti. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sika zatlardır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 30,
+        "hadith": 41
+      }
+    }
+  ]
 }

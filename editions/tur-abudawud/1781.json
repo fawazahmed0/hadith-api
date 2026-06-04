@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1781,
-			"arabicnumber": 1781,
-			"text": "Nebi (s.a.v.)'in zevcesi Âişe'den; demiştir ki: Veda haccı senesi Resûlullah (s.a.v.) ile birlikte yola çıktık ve umreye niyet ettik. Sonra Resûlullah (s.a.v.): \"Kimin yanında Hedy kurbanı varsa umre ile beraber Hacca'da niyet etsin. Sonra ihrama devam ederek neticede her ikisinin ihramından birden çıksın.\"buyurdu. Ben Mekke'ye hayızlı olarak vardım. Beyt'i tavaf etmediğim gibi Safa ile Merve arasında sa'y da yapmadım. Bunu Resûlullah (s.a.v.)'e arz ettim de: \"Saçını çöz, taran ve hacca niyet et, umreyi bırak\" buyurdu. Ben de öyle yaptım. Haccı edâ ettiğimiz vakit, Resûlullah (s.a.v.) beni (kardeşim) Abdurrahman b. Ebû Bekr ile Ten'im'e gönderdi. (Orada) umre için ihrama girdim. Resûlullah (s.a.v.): \"Bu senin (kazaya kalan) umrene bedeldir\" buyurdu. Artık sadece umreye niyet edenler, Beyt'i tavaf ettiler ve Safa ile Merve arasında sa'y yaptılar. Sonra ihramdan çıktılar. Nihayet Minâ'dan döndükten sonra hacları için son bir tavaf daha yaptılar. Hacla umreyi beraber yapanlara gelince: Onlar yalnız bir tavaf yaptılar. Buhari, hac; Müslim, hac; Nesâî, menâsik Ebu Davud dedi ki: Bu hadis-i şerifi aynı şekilde, İbn Şihab'dan, İbrahim b. Sa'd ile Ma'mer de rivayet ettiler. (Ancak bunlar Âişe r.a.'ya ait olan) \"Hac ile umreyi beraber yapanlara gelince...\" (cümlesini) nakletmediler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (1556) Sahih Muslim (1211)"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 61
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1781,
+      "arabicnumber": 1781,
+      "text": "Nebi (s.a.v.)'in zevcesi Âişe'den; demiştir ki: Veda haccı senesi Resûlullah (s.a.v.) ile birlikte yola çıktık ve umreye niyet ettik. Sonra Resûlullah (s.a.v.): \"Kimin yanında Hedy kurbanı varsa umre ile beraber Hacca'da niyet etsin. Sonra ihrama devam ederek neticede her ikisinin ihramından birden çıksın.\"buyurdu. Ben Mekke'ye hayızlı olarak vardım. Beyt'i tavaf etmediğim gibi Safa ile Merve arasında sa'y da yapmadım. Bunu Resûlullah (s.a.v.)'e arz ettim de: \"Saçını çöz, taran ve hacca niyet et, umreyi bırak\" buyurdu. Ben de öyle yaptım. Haccı edâ ettiğimiz vakit, Resûlullah (s.a.v.) beni (kardeşim) Abdurrahman b. Ebû Bekr ile Ten'im'e gönderdi. (Orada) umre için ihrama girdim. Resûlullah (s.a.v.): \"Bu senin (kazaya kalan) umrene bedeldir\" buyurdu. Artık sadece umreye niyet edenler, Beyt'i tavaf ettiler ve Safa ile Merve arasında sa'y yaptılar. Sonra ihramdan çıktılar. Nihayet Minâ'dan döndükten sonra hacları için son bir tavaf daha yaptılar. Hacla umreyi beraber yapanlara gelince: Onlar yalnız bir tavaf yaptılar. Buhari, hac; Müslim, hac; Nesâî, menâsik Ebu Davud dedi ki: Bu hadis-i şerifi aynı şekilde, İbn Şihab'dan, İbrahim b. Sa'd ile Ma'mer de rivayet ettiler. (Ancak bunlar Âişe r.a.'ya ait olan) \"Hac ile umreyi beraber yapanlara gelince...\" (cümlesini) nakletmediler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1556) Sahih Muslim (1211)"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 61
+      }
+    }
+  ]
 }

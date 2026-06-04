@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"21": "Funerals (Kitab Al-Jana'iz)"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3089,
-				"hadithnumber_last": 3241,
-				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3143,
-			"arabicnumber": 3143,
-			"text": "Ümmü Atıyye'den demiştir ki: Biz (Hz. Nebi kızı Ümmü Gülsüm vefat ettiği zaman) saçını taradık (ve) üç örgü (yaptık) Bu hadis'i ayrıca Buhârî, cenaiz; Müslim, cenaiz; Nesâî, cenaiz; İbn Mace, cenaiz; Ahmed b. Hanbel V.84. te de tahric ettiler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (939)"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "21": "Cenazeler Bölümü"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3089,
+        "hadithnumber_last": 3241,
+        "arabicnumber_first": 3089,
+        "arabicnumber_last": 3241
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3143,
+      "arabicnumber": 3143,
+      "text": "Ümmü Atıyye'den demiştir ki: Biz (Hz. Nebi kızı Ümmü Gülsüm vefat ettiği zaman) saçını taradık (ve) üç örgü (yaptık) Bu hadis'i ayrıca Buhârî, cenaiz; Müslim, cenaiz; Nesâî, cenaiz; İbn Mace, cenaiz; Ahmed b. Hanbel V.84. te de tahric ettiler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (939)"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 55
+      }
+    }
+  ]
 }

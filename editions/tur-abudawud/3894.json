@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"29": "Medicine (Kitab Al-Tibb)"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 3855,
-				"hadithnumber_last": 3903,
-				"arabicnumber_first": 3855,
-				"arabicnumber_last": 3903
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3894,
-			"arabicnumber": 3894,
-			"text": "Yezid b. Ebî Ubeyd'den rivayet olunmuştur; dedi ki: Seleme (b. el-Ekvâ')'nın dizinde bir darbe (izi) gördüm ve, \"bu nedir?\" diye (kendisine sordum). Şöyle cevapladı: (Bu darbe) bana Hayber (savaşı) günü isabet etti. Bunun üzerine (orada bulunan) halk 'Seleme vuruldu' diye feryada başladılar. Derken Nebi (s.a.v.) yanıma getirildi ve bana üç defa nefes etti. Nihayet bir saat sonra hiç rahatsızlığım kalmadı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (4206)"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "29": "Tıp Bölümü"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 3855,
+        "hadithnumber_last": 3903,
+        "arabicnumber_first": 3855,
+        "arabicnumber_last": 3903
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3894,
+      "arabicnumber": 3894,
+      "text": "Yezid b. Ebî Ubeyd'den rivayet olunmuştur; dedi ki: Seleme (b. el-Ekvâ')'nın dizinde bir darbe (izi) gördüm ve, \"bu nedir?\" diye (kendisine sordum). Şöyle cevapladı: (Bu darbe) bana Hayber (savaşı) günü isabet etti. Bunun üzerine (orada bulunan) halk 'Seleme vuruldu' diye feryada başladılar. Derken Nebi (s.a.v.) yanıma getirildi ve bana üç defa nefes etti. Nihayet bir saat sonra hiç rahatsızlığım kalmadı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4206)"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 40
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1603,
-			"arabicnumber": 1603,
-			"text": "Salim, babasının şöyle dediğini nakletmiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem'in, Mekke'ye geldiği zaman yaptığı her tavaf'ın başında siyah rüknü istilam ettiğini ve yedi şavt'ın ilk üçünde remel yaptığını gördüm.\" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 89
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1603,
+      "arabicnumber": 1603,
+      "text": "Salim, babasının şöyle dediğini nakletmiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem'in, Mekke'ye geldiği zaman yaptığı her tavaf'ın başında siyah rüknü istilam ettiğini ve yedi şavt'ın ilk üçünde remel yaptığını gördüm.\" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 89
+      }
+    }
+  ]
 }

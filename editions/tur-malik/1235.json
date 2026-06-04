@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"29": "Divorce"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 1150,
-				"hadithnumber_last": 1271,
-				"arabicnumber_first": 1150,
-				"arabicnumber_last": 1271
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1235,
-			"arabicnumber": 1235,
-			"text": "İbn Şihab'a rivayet edildi: Sakîf kabilesinden bir kişi müslüman olduğu zaman on karısı vardı. Resulullah Sallallahu Aleyhi ve Sellem ona: «Dört karın kalsın, diğerlerini boşa» buyurdu. İbn Abdilber der ki; Muvatta ravileri ile İbn Şihab ravilerinin çoğu böyle rivayet ettiler: Tirmizî ve ibn Mace, mevsul olarak rivayet ederler. Tirmizî, Nikah; İbn Mace, Nikah",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 32
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "29": "Talak (Boşama/Boşanma)"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 1150,
+        "hadithnumber_last": 1271,
+        "arabicnumber_first": 1150,
+        "arabicnumber_last": 1271
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1235,
+      "arabicnumber": 1235,
+      "text": "İbn Şihab'a rivayet edildi: Sakîf kabilesinden bir kişi müslüman olduğu zaman on karısı vardı. Resulullah Sallallahu Aleyhi ve Sellem ona: «Dört karın kalsın, diğerlerini boşa» buyurdu. İbn Abdilber der ki; Muvatta ravileri ile İbn Şihab ravilerinin çoğu böyle rivayet ettiler: Tirmizî ve ibn Mace, mevsul olarak rivayet ederler. Tirmizî, Nikah; İbn Mace, Nikah",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 32
+      }
+    }
+  ]
 }

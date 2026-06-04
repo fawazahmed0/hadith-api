@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1500,
-			"arabicnumber": 1500,
-			"text": "Ebu Humeyd es-Sâİdî r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem \"Esed\" kabilesinden, İbnü'l-Lüteybiyye diye bilinen bir kimseyi Benî Süleym kabilesine ait zekâtları toplamak üzere görevlendirdi. Döndüğü zaman ona hesapları sordu",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 100
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1500,
+      "arabicnumber": 1500,
+      "text": "Ebu Humeyd es-Sâİdî r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem \"Esed\" kabilesinden, İbnü'l-Lüteybiyye diye bilinen bir kimseyi Benî Süleym kabilesine ait zekâtları toplamak üzere görevlendirdi. Döndüğü zaman ona hesapları sordu",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 100
+      }
+    }
+  ]
 }

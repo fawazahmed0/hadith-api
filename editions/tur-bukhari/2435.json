@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"45": "Lost Things Picked up by Someone (Luqatah)"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 2426,
-				"hadithnumber_last": 2439,
-				"arabicnumber_first": 2426,
-				"arabicnumber_last": 2439
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2435,
-			"arabicnumber": 2435,
-			"text": "Abdullah İbn Ömer r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kimse kimsenin hayvanını izni olmaksızın sağmasın. Siz, ister misiniz ki birisi sizin kilerinize gitsin, kapısını kırıp yiyeceğinizi alıp götürsün. İşte onların hayvanlarının memeleri de onların yiyeceklerini saklıyor. Bu sebeple kimse kimsenin hayvanını sağmasın",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "45": "Yerde Bulunup Kaldırılan Şey"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 2426,
+        "hadithnumber_last": 2439,
+        "arabicnumber_first": 2426,
+        "arabicnumber_last": 2439
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2435,
+      "arabicnumber": 2435,
+      "text": "Abdullah İbn Ömer r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kimse kimsenin hayvanını izni olmaksızın sağmasın. Siz, ister misiniz ki birisi sizin kilerinize gitsin, kapısını kırıp yiyeceğinizi alıp götürsün. İşte onların hayvanlarının memeleri de onların yiyeceklerini saklıyor. Bu sebeple kimse kimsenin hayvanını sağmasın",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 10
+      }
+    }
+  ]
 }

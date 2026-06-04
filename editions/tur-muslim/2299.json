@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2299,
-			"arabicnumber": "989.02",
-			"text": "{…} Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdurrahîm b. Süleyman rivayet etti. H. Bize Muhammed b. Beşşâr da rivayet etti. (Dediki): Bize Yahya b. Saîd rivayet etti. H. Bize İshâk dahî rivayet etti. (Dediki): Bize Ebû Üsâme haber verdi. Bu râvîlerin hepsi Muhammed b. Ebî İsmail'den bu isnâdla bu hadîsin benzerini rivayet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 36
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2299,
+      "arabicnumber": "989.02",
+      "text": "{…} Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Abdurrahîm b. Süleyman rivayet etti. H. Bize Muhammed b. Beşşâr da rivayet etti. (Dediki): Bize Yahya b. Saîd rivayet etti. H. Bize İshâk dahî rivayet etti. (Dediki): Bize Ebû Üsâme haber verdi. Bu râvîlerin hepsi Muhammed b. Ebî İsmail'den bu isnâdla bu hadîsin benzerini rivayet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 36
+      }
+    }
+  ]
 }

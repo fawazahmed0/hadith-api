@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"34": "Clothing (Kitab Al-Libas)"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4020,
-				"hadithnumber_last": 4158,
-				"arabicnumber_first": 4020,
-				"arabicnumber_last": 4158
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4093,
-			"arabicnumber": 4093,
-			"text": "(el-Alâ b. Abdurrahman'ın) babasından rivayet edilmiştir; dedi ki: Ben Ebû Saîd el-Hudrî'ye; eteği(n nereye kadar uzanacağını) sordum da (bana) şöyle dedi: \"Bunu tam bilene sordun. Resulullah (s.a.v); \"Müminin eteğinin uzunluğu dizinin yarısı (na kadar) dır. Dizin yarısı ile topukları arasında olmasında da bir sakınca yoktur. Topuklardan daha aşağısında olan etekler ise cehennemdedir. Allah (c.c) eteğini büyüklenerek yerlerde sürükleyip (gezen (kimsenin yüzüne bakmayacaktır” buyurdu. Bu hadis; Buhari, libâs, fedâilü's sahabe: Müslim, libâs; Tirmizî. libâs: İhtı Mâce .libâs ; Muvatta, lübs; Ahmed b. Hanbel. II, 5, 10, 32, 42, 44, 46. 55, 56, 60. 65. 67. 69. 74. 76. 81. 386, 397. 409.430.454.467.479, 111.5.6, 31,44.52, 97. 140. 249,249, 256. dada var. İzah 4096 da)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 34,
-				"hadith": 74
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "34": "Giyim Kuşam Bölümü"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4020,
+        "hadithnumber_last": 4158,
+        "arabicnumber_first": 4020,
+        "arabicnumber_last": 4158
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4093,
+      "arabicnumber": 4093,
+      "text": "(el-Alâ b. Abdurrahman'ın) babasından rivayet edilmiştir; dedi ki: Ben Ebû Saîd el-Hudrî'ye; eteği(n nereye kadar uzanacağını) sordum da (bana) şöyle dedi: \"Bunu tam bilene sordun. Resulullah (s.a.v); \"Müminin eteğinin uzunluğu dizinin yarısı (na kadar) dır. Dizin yarısı ile topukları arasında olmasında da bir sakınca yoktur. Topuklardan daha aşağısında olan etekler ise cehennemdedir. Allah (c.c) eteğini büyüklenerek yerlerde sürükleyip (gezen (kimsenin yüzüne bakmayacaktır” buyurdu. Bu hadis; Buhari, libâs, fedâilü's sahabe: Müslim, libâs; Tirmizî. libâs: İhtı Mâce .libâs ; Muvatta, lübs; Ahmed b. Hanbel. II, 5, 10, 32, 42, 44, 46. 55, 56, 60. 65. 67. 69. 74. 76. 81. 386, 397. 409.430.454.467.479, 111.5.6, 31,44.52, 97. 140. 249,249, 256. dada var. İzah 4096 da)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 34,
+        "hadith": 74
+      }
+    }
+  ]
 }

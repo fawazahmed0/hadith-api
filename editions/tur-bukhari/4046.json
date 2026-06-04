@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4046,
-			"arabicnumber": 4046,
-			"text": "Amr'dan rivayete göre o Cabir b. Abdullah r.a.'l şöyle derken dinlemiştir: \"Uhud günü bir adam Nebi Sallallahu Aleyhi ve Sellem'e: Ne dersin,ı ben öldürülecek olursam nereye gideceğim, diye sordu. Allah Resulü: Cennet'e deyince, (adam) elinde bulunan birkaç hurmayı attı, sonra da öldürülünceye kadar çarpıştı",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 92
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4046,
+      "arabicnumber": 4046,
+      "text": "Amr'dan rivayete göre o Cabir b. Abdullah r.a.'l şöyle derken dinlemiştir: \"Uhud günü bir adam Nebi Sallallahu Aleyhi ve Sellem'e: Ne dersin,ı ben öldürülecek olursam nereye gideceğim, diye sordu. Allah Resulü: Cennet'e deyince, (adam) elinde bulunan birkaç hurmayı attı, sonra da öldürülünceye kadar çarpıştı",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 92
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"20": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 2928,
-				"hadithnumber_last": 3088,
-				"arabicnumber_first": 2928,
-				"arabicnumber_last": 3088
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3024,
-			"arabicnumber": 3024,
-			"text": "Ebû Hureyre'den demiştir ki: Nebi (s.a.v.) Mekke'ye gir(meye karar ver) ince Zübeyr b. el-Avvâm ile Ebû Ubeyde b. Cerrah ve Halid b. Velid'i at üzerinde Mekke'ye gönderdi ve “Ey Ebû Hureyre! Ensâr'a seslen!\" (de toplansınlar) dedi. (Ben Ensar'ı çağırdım, bunun üzerine Ensar Hz. Nebi'nin huzurunda toplandılar. Hz. Nebi de onlara hitaben): \"Şu yol'u takib ediniz. Sizi (Kureyş'ten) hiçbir kimse görmesin. Görecek olursa onu öldürürsünüz\" dedi. (Mekke'ye girilince) birisi: \"Bu günden sonra artık Kureyş yoktur!\" diye bağırıverdi. Rasûlullah (s.a.v.) de: (Ebû Süfyân'ın) \"ev (in) e giren emniyettedir. Silâhı (nı elinden) atan emniyettedir.\" buyurdu. Kureyiş'in ileri gelenleri gidip Kâ'be'ye girdiler, Nebi (s.a.v.) Kâ'be'yi makamı (İbrahim'i)n arkasından (geçerek) tavaf etti\". Sonra (Kâ'be'nin) kapı(sı)nın sövelerini tuttu (Kureyş'in ileri gelenleri de Kâ'be'den) çıktılar ve Nebi (s.a.v.)'e İslâm üzere (kalacaklarına dair) biat ettiler. Ebû Dâvûd der ki; Ahmed b. Hanbel'e bir adam'ın Mekke harple mi (fethedildi?) diye sorduğunu işittim. (Ahmed b. Hanbel de ona); Her nasıl olursa sana zararı var mı? cevabını verdi. (Adam); Peki ya sulh (yoluyla mı alındı?) deyince \"Hayır\" karşılığını verdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 97
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "20": "Kitabü'l Harac-İmare ve Fey"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 2928,
+        "hadithnumber_last": 3088,
+        "arabicnumber_first": 2928,
+        "arabicnumber_last": 3088
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3024,
+      "arabicnumber": 3024,
+      "text": "Ebû Hureyre'den demiştir ki: Nebi (s.a.v.) Mekke'ye gir(meye karar ver) ince Zübeyr b. el-Avvâm ile Ebû Ubeyde b. Cerrah ve Halid b. Velid'i at üzerinde Mekke'ye gönderdi ve “Ey Ebû Hureyre! Ensâr'a seslen!\" (de toplansınlar) dedi. (Ben Ensar'ı çağırdım, bunun üzerine Ensar Hz. Nebi'nin huzurunda toplandılar. Hz. Nebi de onlara hitaben): \"Şu yol'u takib ediniz. Sizi (Kureyş'ten) hiçbir kimse görmesin. Görecek olursa onu öldürürsünüz\" dedi. (Mekke'ye girilince) birisi: \"Bu günden sonra artık Kureyş yoktur!\" diye bağırıverdi. Rasûlullah (s.a.v.) de: (Ebû Süfyân'ın) \"ev (in) e giren emniyettedir. Silâhı (nı elinden) atan emniyettedir.\" buyurdu. Kureyiş'in ileri gelenleri gidip Kâ'be'ye girdiler, Nebi (s.a.v.) Kâ'be'yi makamı (İbrahim'i)n arkasından (geçerek) tavaf etti\". Sonra (Kâ'be'nin) kapı(sı)nın sövelerini tuttu (Kureyş'in ileri gelenleri de Kâ'be'den) çıktılar ve Nebi (s.a.v.)'e İslâm üzere (kalacaklarına dair) biat ettiler. Ebû Dâvûd der ki; Ahmed b. Hanbel'e bir adam'ın Mekke harple mi (fethedildi?) diye sorduğunu işittim. (Ahmed b. Hanbel de ona); Her nasıl olursa sana zararı var mı? cevabını verdi. (Adam); Peki ya sulh (yoluyla mı alındı?) deyince \"Hayır\" karşılığını verdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 97
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4381,
-			"arabicnumber": 4381,
-			"text": "Ebû Ümâme (r.a) haber verdi ki: Bir adam Rasulullah'a gelip: Ya Rasulullah ben haddi gerektiren bir suç işledim. Bana haddi uygula, dedi. Rasulullah: \"-Geleceğin zaman abdest aldın mı?\" dedi. Evet, \"Biz namaz kıldığımızda, bizimle birlikte namaz kıldın mı?\" Evet \"Haydi git, Allah seni affetti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (2765)"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 31
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4381,
+      "arabicnumber": 4381,
+      "text": "Ebû Ümâme (r.a) haber verdi ki: Bir adam Rasulullah'a gelip: Ya Rasulullah ben haddi gerektiren bir suç işledim. Bana haddi uygula, dedi. Rasulullah: \"-Geleceğin zaman abdest aldın mı?\" dedi. Evet, \"Biz namaz kıldığımızda, bizimle birlikte namaz kıldın mı?\" Evet \"Haydi git, Allah seni affetti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2765)"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 31
+      }
+    }
+  ]
 }

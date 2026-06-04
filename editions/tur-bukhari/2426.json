@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"45": "Lost Things Picked up by Someone (Luqatah)"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 2426,
-				"hadithnumber_last": 2439,
-				"arabicnumber_first": 2426,
-				"arabicnumber_last": 2439
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2426,
-			"arabicnumber": 2426,
-			"text": "Suveyd İbn Ğafele'den nakledilmiştir: Ubeyy İbn Ka'b r.a. ile karşılaştım. Şöyle anlattı: \"İçinde yüz dinar bulunan bir para kesesi buldum. Hemen Nebi (Sallallahu aleyhi ve Sellem)'in yanına gittim. \"Bir yıl ilan et\" buyurdu. Ben de bir yıl ilan ettim ama sahibini bulamadım. Sonra yine Hz. Nebi'in yanına gittim. Yine \"Bir yıl ilan et\" buyurdu. İlan ettim ama yine bulamadım. Sonra üçüncü kez yine Hz. Nebi'in yanına gittim. \"Kabını, sayısını ve bağını ezberle (iyice tanı. Sahibi gelirse ona verirsin. Gelmezse sen kullan\" buyurdu.\" Sonra Ubeyy İbn Ka'b ile Mekke'de tekrar karşılaştım. \"Bilmiyorum, üç yıl mıydı, yoksa bir yıl mıydı?\" dedi. Tekrar:)",
-			"grades": [],
-			"reference": {
-				"book": 45,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "45": "Yerde Bulunup Kaldırılan Şey"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 2426,
+        "hadithnumber_last": 2439,
+        "arabicnumber_first": 2426,
+        "arabicnumber_last": 2439
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2426,
+      "arabicnumber": 2426,
+      "text": "Suveyd İbn Ğafele'den nakledilmiştir: Ubeyy İbn Ka'b r.a. ile karşılaştım. Şöyle anlattı: \"İçinde yüz dinar bulunan bir para kesesi buldum. Hemen Nebi (Sallallahu aleyhi ve Sellem)'in yanına gittim. \"Bir yıl ilan et\" buyurdu. Ben de bir yıl ilan ettim ama sahibini bulamadım. Sonra yine Hz. Nebi'in yanına gittim. Yine \"Bir yıl ilan et\" buyurdu. İlan ettim ama yine bulamadım. Sonra üçüncü kez yine Hz. Nebi'in yanına gittim. \"Kabını, sayısını ve bağını ezberle (iyice tanı. Sahibi gelirse ona verirsin. Gelmezse sen kullan\" buyurdu.\" Sonra Ubeyy İbn Ka'b ile Mekke'de tekrar karşılaştım. \"Bilmiyorum, üç yıl mıydı, yoksa bir yıl mıydı?\" dedi. Tekrar:)",
+      "grades": [],
+      "reference": {
+        "book": 45,
+        "hadith": 1
+      }
+    }
+  ]
 }

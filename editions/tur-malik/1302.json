@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"31": "Business Transactions"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 1290,
-				"hadithnumber_last": 1385,
-				"arabicnumber_first": 1290,
-				"arabicnumber_last": 1385
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1302,
-			"arabicnumber": 1302,
-			"text": "Harice b. Zeyd der ki: «Babam Zeyd b. Sabit ağaçtaki meyvesini Süreyya yıldızı doğuncaya kadar satmazdı.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "31": "Alış - Veriş"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 1290,
+        "hadithnumber_last": 1385,
+        "arabicnumber_first": 1290,
+        "arabicnumber_last": 1385
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1302,
+      "arabicnumber": 1302,
+      "text": "Harice b. Zeyd der ki: «Babam Zeyd b. Sabit ağaçtaki meyvesini Süreyya yıldızı doğuncaya kadar satmazdı.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 13
+      }
+    }
+  ]
 }

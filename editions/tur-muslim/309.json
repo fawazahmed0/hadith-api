@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 309,
-			"arabicnumber": "114",
-			"text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Hâşim b. El-Kaasim rivayet etti. (Dedi ki): Bize İkrimetübnü Ammâr rivayet eyledi. (Dediki): Bana Simak el-Hanefi Ebu Zümeyl rivayet etti. (Dediki): Bana Abdullah b. Abbas tahdis etti. Bana Ömer b. el-Hattab tahdis edip dedi ki: Hayber gününde Nebi (Sallallahu aleyhi ve Sellem)'in ashabından birkaç kişi gelerek filan şehittir, filan şehittir deyip durdular. Sonunda bir adamın yanından geçerken, filan şehittir dediler. Resulullah (Sallallahu aleyhi ve Sellem): ''Asla, şüphesiz ben onu ganimetten çaldığı bir hırka ya da bir aba sebebiyle cehennemde gördüm\" buyurdu. Sonra Resulullah (Sallallahu aleyhi ve Sellem): \"Hattab'ın oğlu, git ve insanlar arasında yüksek sesle: Cennete müminlerden başkası girmeyecektir diye seslen\" buyurdu. (Ömer) dedi ki: Ben de çıktım ve yüksek sesle: \"Şunu bilin ki müminlerden başka kimse cennete girmeyecektir\" diye seslendim.53 Diğer tahric: Tirmizi, 1574'te muhtasar olarak; Tuhfetu'l-Eşraf, 10497 İzah 115 de",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 216
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 309,
+      "arabicnumber": "114",
+      "text": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Hâşim b. El-Kaasim rivayet etti. (Dedi ki): Bize İkrimetübnü Ammâr rivayet eyledi. (Dediki): Bana Simak el-Hanefi Ebu Zümeyl rivayet etti. (Dediki): Bana Abdullah b. Abbas tahdis etti. Bana Ömer b. el-Hattab tahdis edip dedi ki: Hayber gününde Nebi (Sallallahu aleyhi ve Sellem)'in ashabından birkaç kişi gelerek filan şehittir, filan şehittir deyip durdular. Sonunda bir adamın yanından geçerken, filan şehittir dediler. Resulullah (Sallallahu aleyhi ve Sellem): ''Asla, şüphesiz ben onu ganimetten çaldığı bir hırka ya da bir aba sebebiyle cehennemde gördüm\" buyurdu. Sonra Resulullah (Sallallahu aleyhi ve Sellem): \"Hattab'ın oğlu, git ve insanlar arasında yüksek sesle: Cennete müminlerden başkası girmeyecektir diye seslen\" buyurdu. (Ömer) dedi ki: Ben de çıktım ve yüksek sesle: \"Şunu bilin ki müminlerden başka kimse cennete girmeyecektir\" diye seslendim.53 Diğer tahric: Tirmizi, 1574'te muhtasar olarak; Tuhfetu'l-Eşraf, 10497 İzah 115 de",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 216
+      }
+    }
+  ]
 }

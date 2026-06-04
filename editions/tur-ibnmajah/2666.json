@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"21": "The Chapters on Blood Money"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 2615,
-				"hadithnumber_last": 2694,
-				"arabicnumber_first": 2615,
-				"arabicnumber_last": 2694
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2666,
-			"arabicnumber": 2666,
-			"text": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre: Yahudi bir adam (Ensârdan) genç bir kadın'ı üzerindeki gümüş ziynet eşyasına temaen (başını iki taş arasında ezmek suretiyle) öldürdü. (Kadın henüz can vermemiş iken Peygamber (Sallallahu Aleyhi ve Sellem)'in huzuruna getirildi.) Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem), kadına: «Falan kişi mi seni öldürdü?» diye sordu. Kadın: Hayır, diye başıyla işaret etti. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (başka adamın ismini söyleyerek: «Falan adam mı seni öldürdü,» diye) ikinci kez sordu. Kadın: (Yine) hayır, diye başıyla işaret etti. Sonra Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (bir başka adamın ismini söyleyerek: «Falan adam mı seni öldürdü,» diye) üçüncü defa kadına soru sordu. Kadm: Evet, diye başıyla işaret etti. (Kadının işaret ettiği yahûdî adam yakalanarak huzura getirildi. Adam suçunu itiraf etti.) Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem)'in emriyle katil (in başı) iki taş arasında (ezilerek) öldürüldü",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 52
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "21": "Diyet-Kısas Kitabı"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 2615,
+        "hadithnumber_last": 2694,
+        "arabicnumber_first": 2615,
+        "arabicnumber_last": 2694
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2666,
+      "arabicnumber": 2666,
+      "text": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre: Yahudi bir adam (Ensârdan) genç bir kadın'ı üzerindeki gümüş ziynet eşyasına temaen (başını iki taş arasında ezmek suretiyle) öldürdü. (Kadın henüz can vermemiş iken Peygamber (Sallallahu Aleyhi ve Sellem)'in huzuruna getirildi.) Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem), kadına: «Falan kişi mi seni öldürdü?» diye sordu. Kadın: Hayır, diye başıyla işaret etti. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (başka adamın ismini söyleyerek: «Falan adam mı seni öldürdü,» diye) ikinci kez sordu. Kadın: (Yine) hayır, diye başıyla işaret etti. Sonra Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (bir başka adamın ismini söyleyerek: «Falan adam mı seni öldürdü,» diye) üçüncü defa kadına soru sordu. Kadm: Evet, diye başıyla işaret etti. (Kadının işaret ettiği yahûdî adam yakalanarak huzura getirildi. Adam suçunu itiraf etti.) Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem)'in emriyle katil (in başı) iki taş arasında (ezilerek) öldürüldü",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 52
+      }
+    }
+  ]
 }

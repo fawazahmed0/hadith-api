@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 692,
-			"arabicnumber": 692,
-			"text": "İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem'in hicretinden önce Mekke'den Medine'ye göç eden ilk muhacirler Kuba civarında bir bölge olan Usbe'ye vardıklarında onlara Ebu Huzeyfe'nin kölesi Salim namaz kıldırıyordu. Salim onlar arasında Kur'ân'ı en iyi en fazla ezbere bilen kişi idi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 87
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 692,
+      "arabicnumber": 692,
+      "text": "İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem'in hicretinden önce Mekke'den Medine'ye göç eden ilk muhacirler Kuba civarında bir bölge olan Usbe'ye vardıklarında onlara Ebu Huzeyfe'nin kölesi Salim namaz kıldırıyordu. Salim onlar arasında Kur'ân'ı en iyi en fazla ezbere bilen kişi idi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 87
+      }
+    }
+  ]
 }

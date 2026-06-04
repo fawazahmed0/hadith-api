@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"9": "Times of the Prayers"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 522,
-				"hadithnumber_last": 602,
-				"arabicnumber_first": 522,
-				"arabicnumber_last": 602
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 593,
-			"arabicnumber": 593,
-			"text": "Ebu İshak'tan şöyle nakledilmiştir: \"Esved ile Mesruk Aişe r.anha'nın: \"Nebi Sallallahu Aleyhi ve Sellem her ne vakit ikindi namazından sonra bana gelse iki rekat namaz kılardı\" dediğine şahit olmuşlardı",
-			"grades": [],
-			"reference": {
-				"book": 9,
-				"hadith": 68
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "9": "Namaz Vakitleri"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 522,
+        "hadithnumber_last": 602,
+        "arabicnumber_first": 522,
+        "arabicnumber_last": 602
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 593,
+      "arabicnumber": 593,
+      "text": "Ebu İshak'tan şöyle nakledilmiştir: \"Esved ile Mesruk Aişe r.anha'nın: \"Nebi Sallallahu Aleyhi ve Sellem her ne vakit ikindi namazından sonra bana gelse iki rekat namaz kılardı\" dediğine şahit olmuşlardı",
+      "grades": [],
+      "reference": {
+        "book": 9,
+        "hadith": 68
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3199,
-			"arabicnumber": "1321.06",
-			"text": "Bize Aliyyü'bnü Hucr Es-Sa'dî ile Ya'kûb b. İbrâhîm Ed-Devrakî rivayet etliler. İbni Hucr dediki; Bize İsmail b. İbrâhîm, Eyyûb'dan, o da Kaasînı ile Ebû Kilâbe'den, onlar da Âîşe'den naklen rivayet etti. Âişe (Radiyallahu anhu) şöyle demiş: «Resûlullah (Sallallahu Aleyhi ve Sellem) hedy gönderdi. Ben onların nişan ipîerini ellerimle örerdim. Sonra ihrâmsız bîr kimsenin çekinmediği hiç bir şeyden (o da) çekinmezdi.»",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 403
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3199,
+      "arabicnumber": "1321.06",
+      "text": "Bize Aliyyü'bnü Hucr Es-Sa'dî ile Ya'kûb b. İbrâhîm Ed-Devrakî rivayet etliler. İbni Hucr dediki; Bize İsmail b. İbrâhîm, Eyyûb'dan, o da Kaasînı ile Ebû Kilâbe'den, onlar da Âîşe'den naklen rivayet etti. Âişe (Radiyallahu anhu) şöyle demiş: «Resûlullah (Sallallahu Aleyhi ve Sellem) hedy gönderdi. Ben onların nişan ipîerini ellerimle örerdim. Sonra ihrâmsız bîr kimsenin çekinmediği hiç bir şeyden (o da) çekinmezdi.»",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 403
+      }
+    }
+  ]
 }

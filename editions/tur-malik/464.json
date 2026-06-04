@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"14": "The Qibla"
-		},
-		"section_detail": {
-			"14": {
-				"hadithnumber_first": 455,
-				"hadithnumber_last": 469,
-				"arabicnumber_first": 455,
-				"arabicnumber_last": 469
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 464,
-			"arabicnumber": 464,
-			"text": "Ebu Hureyre r.a.'den veya Ebu Saîd el-Hudrî'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Evimle minberim arası cennet bahçelerinden bir bahçedir. Minberim ise Havz'ımın üzerindedir.» İbn Abdilber der ki: \"Muvatta ravileri, bu şekilde ravi adını şüpheli olarak rivayet etmişlerdir.\" Buhari (Salat fî Mescidi Mekke ve'l-medîne) ve Müslim Hacc); Ebu Hureyre'den rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 14,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "14": "Kıble"
+    },
+    "section_detail": {
+      "14": {
+        "hadithnumber_first": 455,
+        "hadithnumber_last": 469,
+        "arabicnumber_first": 455,
+        "arabicnumber_last": 469
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 464,
+      "arabicnumber": 464,
+      "text": "Ebu Hureyre r.a.'den veya Ebu Saîd el-Hudrî'den: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Evimle minberim arası cennet bahçelerinden bir bahçedir. Minberim ise Havz'ımın üzerindedir.» İbn Abdilber der ki: \"Muvatta ravileri, bu şekilde ravi adını şüpheli olarak rivayet etmişlerdir.\" Buhari (Salat fî Mescidi Mekke ve'l-medîne) ve Müslim Hacc); Ebu Hureyre'den rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 14,
+        "hadith": 10
+      }
+    }
+  ]
 }

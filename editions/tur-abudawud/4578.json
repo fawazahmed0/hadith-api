@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"41": "Types of Blood-Wit (Kitab Al-Diyat)"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 4494,
-				"hadithnumber_last": 4595,
-				"arabicnumber_first": 4494,
-				"arabicnumber_last": 4595
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4578,
-			"arabicnumber": 4578,
-			"text": "Abdullah b. Büreyde, babasından şöyle rivayet etti: Bir kadın başka birisine taş atıp (karnındaki bebeği) düşürdü. Mesele Rasûlullah (s.a.v)'e arzedildi. Rasûlullah (s.a.v) çocuk için beşyüz koyun'a hükmetti ve o gün taş atmayı yasak etti. Ebû Davud şöyle der: Hadis böyle, \"beşyüz koyun\" şeklindedir. Ama doğrusuyuz koyundur. Abbas böyle (beşyüz koyun) dedi. O bir vehmdir. Diğer tahric eden: Nesâî, kasâme",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "41": "Diyetler Bahsi"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 4494,
+        "hadithnumber_last": 4595,
+        "arabicnumber_first": 4494,
+        "arabicnumber_last": 4595
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4578,
+      "arabicnumber": 4578,
+      "text": "Abdullah b. Büreyde, babasından şöyle rivayet etti: Bir kadın başka birisine taş atıp (karnındaki bebeği) düşürdü. Mesele Rasûlullah (s.a.v)'e arzedildi. Rasûlullah (s.a.v) çocuk için beşyüz koyun'a hükmetti ve o gün taş atmayı yasak etti. Ebû Davud şöyle der: Hadis böyle, \"beşyüz koyun\" şeklindedir. Ama doğrusuyuz koyundur. Abbas böyle (beşyüz koyun) dedi. O bir vehmdir. Diğer tahric eden: Nesâî, kasâme",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 85
+      }
+    }
+  ]
 }

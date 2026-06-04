@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1663,
-			"arabicnumber": "719.01",
-			"text": "Bize, Şeybân b. Ferrûh rivayet etti. (Dediki): Bize Abdülvâris rivayet etti. (Dediki): Bize Yezîd (yâni Risk) rivayet etti. (Dediki): Bana Muâze rivayet etti. Kendisi Âişe (Radiyallahû anha)'ya : — Resûlullah (Sallallahu Aleyhi ve Sellem), Duha namazını kaç rek'ât kılardı? diye sormuş. Âişe : — Dört rek'ât kılar; dilediği kadar da ziyâde ederdi, cevâbını vermiş",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 93
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1663,
+      "arabicnumber": "719.01",
+      "text": "Bize, Şeybân b. Ferrûh rivayet etti. (Dediki): Bize Abdülvâris rivayet etti. (Dediki): Bize Yezîd (yâni Risk) rivayet etti. (Dediki): Bana Muâze rivayet etti. Kendisi Âişe (Radiyallahû anha)'ya : — Resûlullah (Sallallahu Aleyhi ve Sellem), Duha namazını kaç rek'ât kılardı? diye sormuş. Âişe : — Dört rek'ât kılar; dilediği kadar da ziyâde ederdi, cevâbını vermiş",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 93
+      }
+    }
+  ]
 }

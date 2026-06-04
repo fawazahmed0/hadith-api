@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"55": "Wills and Testaments (Wasaayaa)"
-		},
-		"section_detail": {
-			"55": {
-				"hadithnumber_first": 2738,
-				"hadithnumber_last": 2781,
-				"arabicnumber_first": 2738,
-				"arabicnumber_last": 2781
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2776,
-			"arabicnumber": 2776,
-			"text": "Ebu Hureyre r.a.'den nakledilmiştir: Allah Resulü sallallahu aleyhi ve sellem: \"Benim mirasçılarım ne dirhem, ne de dinar bölüşürler. Eşlerimin nafakası ve çalışanımın maaşı dışında her ne bırakmışsam sadakadır\" buyurmuştur. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 55,
-				"hadith": 39
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "55": "Vasiyyetler"
+    },
+    "section_detail": {
+      "55": {
+        "hadithnumber_first": 2738,
+        "hadithnumber_last": 2781,
+        "arabicnumber_first": 2738,
+        "arabicnumber_last": 2781
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2776,
+      "arabicnumber": 2776,
+      "text": "Ebu Hureyre r.a.'den nakledilmiştir: Allah Resulü sallallahu aleyhi ve sellem: \"Benim mirasçılarım ne dirhem, ne de dinar bölüşürler. Eşlerimin nafakası ve çalışanımın maaşı dışında her ne bırakmışsam sadakadır\" buyurmuştur. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 55,
+        "hadith": 39
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6114,
-			"arabicnumber": "1337.03",
-			"text": "{m-130} Bana Muhammed h. Ahmed b. Ebî Halef de rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. Bu zat Mansur b. Selemete'l-Huzâî'dir. (Dediki): Bize Leys, Yezid b. Hâd'dan, o da İbni Şihab'dan naklen bu isnadla tamamıyle bu hadîsin mislini haber verdi",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 172
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6114,
+      "arabicnumber": "1337.03",
+      "text": "{m-130} Bana Muhammed h. Ahmed b. Ebî Halef de rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. Bu zat Mansur b. Selemete'l-Huzâî'dir. (Dediki): Bize Leys, Yezid b. Hâd'dan, o da İbni Şihab'dan naklen bu isnadla tamamıyle bu hadîsin mislini haber verdi",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 172
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 257,
-			"arabicnumber": 257,
-			"text": "Yine Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) cünüp iken uyumak isterse abdest alır, bir şeyler yemek ve içmek istediğinde ise ellerini yıkayıp yer ve içerdi. (Ebû Dâvûd, Tahara: 88; İbn Mâce, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 258
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 257,
+      "arabicnumber": 257,
+      "text": "Yine Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) cünüp iken uyumak isterse abdest alır, bir şeyler yemek ve içmek istediğinde ise ellerini yıkayıp yer ve içerdi. (Ebû Dâvûd, Tahara: 88; İbn Mâce, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 258
+      }
+    }
+  ]
 }

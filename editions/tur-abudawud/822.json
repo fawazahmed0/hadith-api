@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 822,
-			"arabicnumber": 822,
-			"text": "Ubade b. Samit (r.a.), Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyur­duğunu nakletmiştir: Fatiha ve (o'na) ek olarak (bir miktar Kur’an) okumayan kimsenin namazı yoktur. (Ravi) Süfyan b. Uyeyne) dedi ki: (Fatiha'ya ek olarak bir mik­tar da Kur'an okumak) yalnız başına namaz kılan içindir. Diğer tahric: Buharî, ezan; Müslim, salat; Tirmizî, mevakît, tefsir sure; Nesaî, iftitah; İbn Mace, ikame; Darimî, salat; Muvatta, nida; Ahmed b. Hanbel II, 285, 290, 460, 487; V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (394)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 432
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 822,
+      "arabicnumber": 822,
+      "text": "Ubade b. Samit (r.a.), Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyur­duğunu nakletmiştir: Fatiha ve (o'na) ek olarak (bir miktar Kur’an) okumayan kimsenin namazı yoktur. (Ravi) Süfyan b. Uyeyne) dedi ki: (Fatiha'ya ek olarak bir mik­tar da Kur'an okumak) yalnız başına namaz kılan içindir. Diğer tahric: Buharî, ezan; Müslim, salat; Tirmizî, mevakît, tefsir sure; Nesaî, iftitah; İbn Mace, ikame; Darimî, salat; Muvatta, nida; Ahmed b. Hanbel II, 285, 290, 460, 487; V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (394)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 432
+      }
+    }
+  ]
 }

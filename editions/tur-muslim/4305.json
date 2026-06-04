@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4305,
-			"arabicnumber": "1658.05",
-			"text": "{…} Bize bu hadîsi İshâk b. İbrahim ile Muhammed b. El-Müsennâ da, Vehb b. Cerîr'den rivayet ettiler. (Dedilerki): Bize Şu'be haber verdi. (Dediki): Bana Muhammed b. El-Münkedir: İsmin nedir? diye sordu... Müteakiben râvi, Abdüssamed hadîsi gibi rivayette bulunmuştur",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 52
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4305,
+      "arabicnumber": "1658.05",
+      "text": "{…} Bize bu hadîsi İshâk b. İbrahim ile Muhammed b. El-Müsennâ da, Vehb b. Cerîr'den rivayet ettiler. (Dedilerki): Bize Şu'be haber verdi. (Dediki): Bana Muhammed b. El-Münkedir: İsmin nedir? diye sordu... Müteakiben râvi, Abdüssamed hadîsi gibi rivayette bulunmuştur",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 52
+      }
+    }
+  ]
 }

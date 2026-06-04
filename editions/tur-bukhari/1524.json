@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1524,
-			"arabicnumber": 1524,
-			"text": "İbn Abbas r.a. şöyle demiştir: \"Nebi Sallallahu Aleyhi ve Sellem, ihrama girme yeri olarak Medineliler için Zu'l-huleyfe'yi, Suriye tarafından gelecekler için Cuhfe'yi, Necidliler için Karnu'l-Menazil'i, Yemenliler için de Yelemlem'i belirlemiştir. Bu yerler, onlar ve oralara gidip de hac ve umre yapmak isteyen ve o bölgelerin ötesinden gelecek diğer hacılar için mîkat bölgeleridir. Bu bölgelerden daha içeride yani Kabeye daha yakın olanlar ise istedikleri yerden ihrama girebilir. Hatta Mekkeliler de Mekke'­den girebilir.\" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1524,
+      "arabicnumber": 1524,
+      "text": "İbn Abbas r.a. şöyle demiştir: \"Nebi Sallallahu Aleyhi ve Sellem, ihrama girme yeri olarak Medineliler için Zu'l-huleyfe'yi, Suriye tarafından gelecekler için Cuhfe'yi, Necidliler için Karnu'l-Menazil'i, Yemenliler için de Yelemlem'i belirlemiştir. Bu yerler, onlar ve oralara gidip de hac ve umre yapmak isteyen ve o bölgelerin ötesinden gelecek diğer hacılar için mîkat bölgeleridir. Bu bölgelerden daha içeride yani Kabeye daha yakın olanlar ise istedikleri yerden ihrama girebilir. Hatta Mekkeliler de Mekke'­den girebilir.\" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 12
+      }
+    }
+  ]
 }

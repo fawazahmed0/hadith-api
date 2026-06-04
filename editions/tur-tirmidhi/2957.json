@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2957,
-			"arabicnumber": 2957,
-			"text": "Âmir b. Rabia (r.a.)’den rivâyete göre, şöyle demiştir: Bir yolculukta kapkaranlık bir gecede Rasûlullah (s.a.v.) ile beraberdik, kıblenin ne taraf olduğunu bilemedik ve herkes kendi tahminine doğru namaz kılmıştı. Sabahlayınca durumu Rasûlullah (s.a.v.)’e aktardık. Bunun üzerine: Bakara sûresi 115. ayeti olan “Nereye dönerseniz dönün Allah’a dönmüş olursunuz” ayeti nazil oldu. Diğer tahric: İbn Mâce, İkametüs Salat",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2957,
+      "arabicnumber": 2957,
+      "text": "Âmir b. Rabia (r.a.)’den rivâyete göre, şöyle demiştir: Bir yolculukta kapkaranlık bir gecede Rasûlullah (s.a.v.) ile beraberdik, kıblenin ne taraf olduğunu bilemedik ve herkes kendi tahminine doğru namaz kılmıştı. Sabahlayınca durumu Rasûlullah (s.a.v.)’e aktardık. Bunun üzerine: Bakara sûresi 115. ayeti olan “Nereye dönerseniz dönün Allah’a dönmüş olursunuz” ayeti nazil oldu. Diğer tahric: İbn Mâce, İkametüs Salat",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 9
+      }
+    }
+  ]
 }

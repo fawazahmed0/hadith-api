@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 689,
-			"arabicnumber": 689,
-			"text": "Enes İbn Mâlik (r.a.)'in şöyle dediği nakledilmiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem bir defasında bindiği at'tan düşmüş ve sağ yanını incitmişti. Bu yüzden namazlardan birisini oturarak kıldırmıştı. Biz de O'nun arkasında namazlarımızı oturarak kılmıştık. Resûl-i Ekrem Efendimiz Sallallahu Aleyhi ve Sellem namaz bitince şöyle buyurmuştu: İmam kendisine uyulması için vardır, o ayakta namaz kılıyorsa siz de namazlarınızı ayakta kılın, o rükûya vardığında siz de rükû edin, o kalktığında siz de kalkm, سمع الله لمن حمده (Semi'allahu limen hamideh) dediği zaman siz ربنا ولك الحمد (Rabbena lekel hamd) deyin. Hâsılı o ayakta kılıyorsa siz de ayakta kılın, oturarak kılıyorsa sîz de oturarak kılın.\" Ebû Abdullah (İmam Buhari) Humeydî'nin şöyle dediğini kaydetmektedir: \"Resulullah Sallallahu Aleyhi ve Sellem'in oturarak namaz kılıyorsa siz de oturarak namazlarınızı kılın şeklindeki emri daha önce yaşamış olduğu hastalıkla ilgilidir. Fakat daha sonra Resûl-i Ekrem Sallallahu Aleyhi ve Sellem vefatına yol açan hastalığı çektiği günlerde oturarak namaz kıldırırken cemaat arkasında ayakta namazlarını kılmıştır. Resûlullah Sallallahu Aleyhi ve Sellem'in fiilleri arasında tercihte bulunulurken tarih itibariyle sonra gerçekleşen esas alınır",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 689,
+      "arabicnumber": 689,
+      "text": "Enes İbn Mâlik (r.a.)'in şöyle dediği nakledilmiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem bir defasında bindiği at'tan düşmüş ve sağ yanını incitmişti. Bu yüzden namazlardan birisini oturarak kıldırmıştı. Biz de O'nun arkasında namazlarımızı oturarak kılmıştık. Resûl-i Ekrem Efendimiz Sallallahu Aleyhi ve Sellem namaz bitince şöyle buyurmuştu: İmam kendisine uyulması için vardır, o ayakta namaz kılıyorsa siz de namazlarınızı ayakta kılın, o rükûya vardığında siz de rükû edin, o kalktığında siz de kalkm, سمع الله لمن حمده (Semi'allahu limen hamideh) dediği zaman siz ربنا ولك الحمد (Rabbena lekel hamd) deyin. Hâsılı o ayakta kılıyorsa siz de ayakta kılın, oturarak kılıyorsa sîz de oturarak kılın.\" Ebû Abdullah (İmam Buhari) Humeydî'nin şöyle dediğini kaydetmektedir: \"Resulullah Sallallahu Aleyhi ve Sellem'in oturarak namaz kılıyorsa siz de oturarak namazlarınızı kılın şeklindeki emri daha önce yaşamış olduğu hastalıkla ilgilidir. Fakat daha sonra Resûl-i Ekrem Sallallahu Aleyhi ve Sellem vefatına yol açan hastalığı çektiği günlerde oturarak namaz kıldırırken cemaat arkasında ayakta namazlarını kılmıştır. Resûlullah Sallallahu Aleyhi ve Sellem'in fiilleri arasında tercihte bulunulurken tarih itibariyle sonra gerçekleşen esas alınır",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 83
+      }
+    }
+  ]
 }

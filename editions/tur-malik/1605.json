@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"45": "Madina"
-		},
-		"section_detail": {
-			"45": {
-				"hadithnumber_first": 1598,
-				"hadithnumber_last": 1622,
-				"arabicnumber_first": 1598,
-				"arabicnumber_last": 1622
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1605,
-			"arabicnumber": 1605,
-			"text": "Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem: «— Medine şu en güzel haliyle terkedilecek. Hatta köpek ve kurt mescide girip, mescidin bir kısım direklerine veya minbere siğecek (çişleyecek).» buyuranca: «— Ya Resulallah o zaman meyveler kimin olacak?» dediler. «— Rızıklarını arayan kuş ve yırtıcı hayvanların olacak» buyurdu",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 45,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "45": "Medine"
+    },
+    "section_detail": {
+      "45": {
+        "hadithnumber_first": 1598,
+        "hadithnumber_last": 1622,
+        "arabicnumber_first": 1598,
+        "arabicnumber_last": 1622
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1605,
+      "arabicnumber": 1605,
+      "text": "Ebu Hureyre (r.a.)'den: Resulullah Sallallahu Aleyhi ve Sellem: «— Medine şu en güzel haliyle terkedilecek. Hatta köpek ve kurt mescide girip, mescidin bir kısım direklerine veya minbere siğecek (çişleyecek).» buyuranca: «— Ya Resulallah o zaman meyveler kimin olacak?» dediler. «— Rızıklarını arayan kuş ve yırtıcı hayvanların olacak» buyurdu",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 45,
+        "hadith": 8
+      }
+    }
+  ]
 }

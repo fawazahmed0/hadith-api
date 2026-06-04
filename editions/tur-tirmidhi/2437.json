@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"37": "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 2415,
-				"hadithnumber_last": 2522,
-				"arabicnumber_first": 2415,
-				"arabicnumber_last": 2522
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2437,
-			"arabicnumber": 2437,
-			"text": "Ebû Umame (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’den işittim şöyle diyordu: “Rabbim bana ümmetimden yetmiş bin kişiyi hesap ve azab görmeden Cennete koyacağını vaad etti, aynı zamanda her bin kişiyle birlikte yetmiş bin kişi ve Rabbinin isteyeceği kadarın üç misliyi de vaad etti.” Diğer tahric: İbn Mâce, Zühd; Dârimî, Rıkak Tirmizî: Bu hadis hasen garibtir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 23
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "37": "Kıyametin Özellikleri ve İncelikler"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 2415,
+        "hadithnumber_last": 2522,
+        "arabicnumber_first": 2415,
+        "arabicnumber_last": 2522
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2437,
+      "arabicnumber": 2437,
+      "text": "Ebû Umame (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’den işittim şöyle diyordu: “Rabbim bana ümmetimden yetmiş bin kişiyi hesap ve azab görmeden Cennete koyacağını vaad etti, aynı zamanda her bin kişiyle birlikte yetmiş bin kişi ve Rabbinin isteyeceği kadarın üç misliyi de vaad etti.” Diğer tahric: İbn Mâce, Zühd; Dârimî, Rıkak Tirmizî: Bu hadis hasen garibtir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 23
+      }
+    }
+  ]
 }

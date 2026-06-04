@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2537,
-			"arabicnumber": "1092.02",
-			"text": "Bana Harmeletü'bnü Yahya rivayet etti. (Dediki) Bize ibni Vehb haber verdi. (Dediki) Bana Yûnus ibni Şihâb'dan, o da Salim b. Abdillah'dan o da Abdullah b. Ömer (Radiyallahû anhuma)'dan naklen haber verdi. Abdullah şöyle demiş: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i : «Gerçekten Bilâl geceleyin ezan okuyor. Binâenaleyh siz ibni Ummü Mektâm'un ezanını işitinceye kadar yiyip için.» buyururken işittim",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 43
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2537,
+      "arabicnumber": "1092.02",
+      "text": "Bana Harmeletü'bnü Yahya rivayet etti. (Dediki) Bize ibni Vehb haber verdi. (Dediki) Bana Yûnus ibni Şihâb'dan, o da Salim b. Abdillah'dan o da Abdullah b. Ömer (Radiyallahû anhuma)'dan naklen haber verdi. Abdullah şöyle demiş: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i : «Gerçekten Bilâl geceleyin ezan okuyor. Binâenaleyh siz ibni Ummü Mektâm'un ezanını işitinceye kadar yiyip için.» buyururken işittim",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 43
+      }
+    }
+  ]
 }

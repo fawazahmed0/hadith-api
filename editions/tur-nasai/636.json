@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"7": "The Book of the Adhan (The Call to Prayer)"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 626,
-				"hadithnumber_last": 687,
-				"arabicnumber_first": 626,
-				"arabicnumber_last": 687
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 636,
-			"arabicnumber": 636,
-			"text": "Eyyûb (radıyallahü anh)’den rivâyete göre, Amr b. Seleme bana şöyle dedi: Ebû Kılabe hayattadır, onunla görüşmek istemez misiniz? Eyyûb dedi ki: Onunla karşılaştım ve ona sordum, o da şu cevabı verdi. Mekke fethedilince bütün kavimler Müslüman olmak için yarışa girdiler. Bu arada babam da köyümüz halkının Müslüman olduğunu haber vermek için Rasûlüllah (sallallahü aleyhi ve sellem)’e gitmişti. O geldiğinde kendisini karşıladık, bize: Vallahi Allah Rasûlünün yanından geliyorum, O şöyle demişti: vakitte şu namazı, şu vakitte şu namazı kılın, namaz vakti gelince biriniz ezan okusun Kur’an’ı en çok bileniniz de size imam olsun.) (Tirmizî, Salat: 151; Buhârî, Ezan:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "7": "Ezan Bölümleri (Kitabı)"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 626,
+        "hadithnumber_last": 687,
+        "arabicnumber_first": 626,
+        "arabicnumber_last": 687
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 636,
+      "arabicnumber": 636,
+      "text": "Eyyûb (radıyallahü anh)’den rivâyete göre, Amr b. Seleme bana şöyle dedi: Ebû Kılabe hayattadır, onunla görüşmek istemez misiniz? Eyyûb dedi ki: Onunla karşılaştım ve ona sordum, o da şu cevabı verdi. Mekke fethedilince bütün kavimler Müslüman olmak için yarışa girdiler. Bu arada babam da köyümüz halkının Müslüman olduğunu haber vermek için Rasûlüllah (sallallahü aleyhi ve sellem)’e gitmişti. O geldiğinde kendisini karşıladık, bize: Vallahi Allah Rasûlünün yanından geliyorum, O şöyle demişti: vakitte şu namazı, şu vakitte şu namazı kılın, namaz vakti gelince biriniz ezan okusun Kur’an’ı en çok bileniniz de size imam olsun.) (Tirmizî, Salat: 151; Buhârî, Ezan:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 11
+      }
+    }
+  ]
 }

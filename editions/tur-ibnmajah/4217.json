@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4217,
-			"arabicnumber": 4217,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Ya Ebu Hureyre! Şüpheli (yâni helâl mı, haram mı diye tereddüd ettiğin) şeylerden titizlikle sakın, (o takdirde) insanların (Allah'a) en çok kulluk edeni olursun. (Sana verilen dünyalığa) kanaatkar ol, (o zaman) insanların (Allah'a) en çok şükredeni olursun. Kendi nefsin için sevdiğin (iyi) şeyi insanlar için (de) sev (yani arzula, o zaman olgun) mu'min olursun. Sana komşu olanlara iyi komşuluk et, (o takdirde kamil) müslüman olursun ve az gül. Çünkü gülmenin çokluğu kalbi öldürür (yâni karartıp katılaştınr). Not: Zevaid'de şöyle denilmiştir : Bu, hasen bir seneddir. RavI Ebu Recâ'nın adı Muhriz bin Abdülah el-Cezeri'dir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 118
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4217,
+      "arabicnumber": 4217,
+      "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Ya Ebu Hureyre! Şüpheli (yâni helâl mı, haram mı diye tereddüd ettiğin) şeylerden titizlikle sakın, (o takdirde) insanların (Allah'a) en çok kulluk edeni olursun. (Sana verilen dünyalığa) kanaatkar ol, (o zaman) insanların (Allah'a) en çok şükredeni olursun. Kendi nefsin için sevdiğin (iyi) şeyi insanlar için (de) sev (yani arzula, o zaman olgun) mu'min olursun. Sana komşu olanlara iyi komşuluk et, (o takdirde kamil) müslüman olursun ve az gül. Çünkü gülmenin çokluğu kalbi öldürür (yâni karartıp katılaştınr). Not: Zevaid'de şöyle denilmiştir : Bu, hasen bir seneddir. RavI Ebu Recâ'nın adı Muhriz bin Abdülah el-Cezeri'dir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 118
+      }
+    }
+  ]
 }

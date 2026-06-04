@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 501,
-			"arabicnumber": 501,
-			"text": "Said ile Abdulmelik b. Ebî Mahzure'nin annesi, Ebu Mahzure vasıtasıyla bir önceki (500.) hadisin benzerini Nebi —'den rivayet etmişlerdir. Ancak bu rivayette (sabahın) ilk (ezanın)da iki defa ES-SALATU HAYRUN MİNE'N-NEVM = \"Namaz uykudan hayırlıdır\" (cümlesi) bulunmaktadır. Ebu Davud dedi ki; (bir önceki) Müsedded hadisi daha tafsilatlı­dır. (Hasen b. Ali, İbn Cureyc'den rivayet ettiği) hadisinde (şöyle) der: \"Ebu Mahzure, \"Resul-i Ekrem bana ikamet lafızlarını, Allahu ekber, Allahu ekber; eşhedu en la ilahe illallah, eşhedu en la ilahe illal­lah, eşhedu enne Muhammeden Resulullah, eşhedu enne Muhammeden Resulullah, Hayye ale 's-salah, hayye ale's-Salah: Hayye ale'l-Felah hayye ale'l-felah; Allahu ekber, Allahu ekber; La ilahe illallah (şeklin­de) ikişer kere (tekrarlamayı) öğretti\" dedi. Ebu Davud Abdurrezzak'ın şöyle dediğini ilave etti: Resulüllah (S.A.V.) Abdullah b.Ebî Mahzure'ye ikamet ettiğin za­man (kaamet lafızlarını) kad kaameti's-Salatü - kad kaametu’s-salah (şeklinde) ikişer kere söyle, duydun mu? dedi. (Ravi Saib) der ki: Ebu Mahzure başının ön tarafını tıraş etmezdi ve ayırmazdı. Çün­kü orayı Nebi (s. a.) okşamıştı. Diğer tahric: Nesai, ezan",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 501,
+      "arabicnumber": 501,
+      "text": "Said ile Abdulmelik b. Ebî Mahzure'nin annesi, Ebu Mahzure vasıtasıyla bir önceki (500.) hadisin benzerini Nebi —'den rivayet etmişlerdir. Ancak bu rivayette (sabahın) ilk (ezanın)da iki defa ES-SALATU HAYRUN MİNE'N-NEVM = \"Namaz uykudan hayırlıdır\" (cümlesi) bulunmaktadır. Ebu Davud dedi ki; (bir önceki) Müsedded hadisi daha tafsilatlı­dır. (Hasen b. Ali, İbn Cureyc'den rivayet ettiği) hadisinde (şöyle) der: \"Ebu Mahzure, \"Resul-i Ekrem bana ikamet lafızlarını, Allahu ekber, Allahu ekber; eşhedu en la ilahe illallah, eşhedu en la ilahe illal­lah, eşhedu enne Muhammeden Resulullah, eşhedu enne Muhammeden Resulullah, Hayye ale 's-salah, hayye ale's-Salah: Hayye ale'l-Felah hayye ale'l-felah; Allahu ekber, Allahu ekber; La ilahe illallah (şeklin­de) ikişer kere (tekrarlamayı) öğretti\" dedi. Ebu Davud Abdurrezzak'ın şöyle dediğini ilave etti: Resulüllah (S.A.V.) Abdullah b.Ebî Mahzure'ye ikamet ettiğin za­man (kaamet lafızlarını) kad kaameti's-Salatü - kad kaametu’s-salah (şeklinde) ikişer kere söyle, duydun mu? dedi. (Ravi Saib) der ki: Ebu Mahzure başının ön tarafını tıraş etmezdi ve ayırmazdı. Çün­kü orayı Nebi (s. a.) okşamıştı. Diğer tahric: Nesai, ezan",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 111
+      }
+    }
+  ]
 }

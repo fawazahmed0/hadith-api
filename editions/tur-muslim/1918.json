@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1918,
-			"arabicnumber": "824.03",
-			"text": "Bize Alîyyü'bnü Hücr Es-Sa'd rivâjyet etti. (Dediki): Bize İsmâîl b. İbrâhîm, Dâvud b. Ebî Hind'den, o da Şa'bî'den, o da Alkame'den naklen rivayet etti. Alkame şöyle demiş : — Ebû'd-Derdâ'ya tesadüf ettim. Bana : — Sen kimlerdensin? dedi, — Iraklılardanım! cevâbını verdim, Ebû'd-Derdâ': — Hangilerinden? dedi. — Kûfelilerdenim! cevâbını verdim. — Abdullah b. Mes'ûd kırâeti üzre okuyabiliyormusun? diye sordu: — Evet! dedim. — Öyle ise Leyl sûresini oku! dedi. Ben de sûreyi [Ve'lleyli iza yeğşa ve'n-nehari iza tecella ve zekeri ve'l-unsa] diye okumaya başladım. Bunun üzerine Ebû'd -Derdâ güldü. Sonra : — Ben, Resûlullah (Sallallahu Aleyhi ve Sellem)'in de böyle okuduğunu işittim... dedi",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 346
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1918,
+      "arabicnumber": "824.03",
+      "text": "Bize Alîyyü'bnü Hücr Es-Sa'd rivâjyet etti. (Dediki): Bize İsmâîl b. İbrâhîm, Dâvud b. Ebî Hind'den, o da Şa'bî'den, o da Alkame'den naklen rivayet etti. Alkame şöyle demiş : — Ebû'd-Derdâ'ya tesadüf ettim. Bana : — Sen kimlerdensin? dedi, — Iraklılardanım! cevâbını verdim, Ebû'd-Derdâ': — Hangilerinden? dedi. — Kûfelilerdenim! cevâbını verdim. — Abdullah b. Mes'ûd kırâeti üzre okuyabiliyormusun? diye sordu: — Evet! dedim. — Öyle ise Leyl sûresini oku! dedi. Ben de sûreyi [Ve'lleyli iza yeğşa ve'n-nehari iza tecella ve zekeri ve'l-unsa] diye okumaya başladım. Bunun üzerine Ebû'd -Derdâ güldü. Sonra : — Ben, Resûlullah (Sallallahu Aleyhi ve Sellem)'in de böyle okuduğunu işittim... dedi",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 346
+      }
+    }
+  ]
 }

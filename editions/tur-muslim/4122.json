@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"22": "The Book of Musaqah"
-		},
-		"section_detail": {
-			"22": {
-				"hadithnumber_first": 3962,
-				"hadithnumber_last": 4139,
-				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4122,
-			"arabicnumber": "1605.01",
-			"text": "Bize Abdullah b. Mesleme b. Ka'neb rivayet etti. (Dediki): Bize Süleyman yâni İbni Bilâl, Yahya'dan —ki İbni Said'dir— rivayet etti. Şöyle demiş: Saîd b. El-Müseyyeb rivayet ederdiki, Muammer şunları söylemiş: Resulullah (Sallallahu Aleyhi ve Sellem) «Her kim ihtikâr yaparsa âsî olmuştur.» buyurdu. Bunun üzerine Saîd'e: Ama sen ihtikâr yapıyorsun? dediler. Saîd: Bu hadisi rivayet eden Ma'mer dahi ihtikâr yapardı; cevabını verdi",
-			"grades": [],
-			"reference": {
-				"book": 22,
-				"hadith": 161
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "22": "Müsâkaat"
+    },
+    "section_detail": {
+      "22": {
+        "hadithnumber_first": 3962,
+        "hadithnumber_last": 4139,
+        "arabicnumber_first": 1551.01,
+        "arabicnumber_last": 1613
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4122,
+      "arabicnumber": "1605.01",
+      "text": "Bize Abdullah b. Mesleme b. Ka'neb rivayet etti. (Dediki): Bize Süleyman yâni İbni Bilâl, Yahya'dan —ki İbni Said'dir— rivayet etti. Şöyle demiş: Saîd b. El-Müseyyeb rivayet ederdiki, Muammer şunları söylemiş: Resulullah (Sallallahu Aleyhi ve Sellem) «Her kim ihtikâr yaparsa âsî olmuştur.» buyurdu. Bunun üzerine Saîd'e: Ama sen ihtikâr yapıyorsun? dediler. Saîd: Bu hadisi rivayet eden Ma'mer dahi ihtikâr yapardı; cevabını verdi",
+      "grades": [],
+      "reference": {
+        "book": 22,
+        "hadith": 161
+      }
+    }
+  ]
 }

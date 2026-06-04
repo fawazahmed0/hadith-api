@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2997,
-			"arabicnumber": "1233.01",
-			"text": "Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Cerîr, Beyân'dan, o da Vebera'dan naklen rivayet etti. Şöyle demîş: «Bir adam, İbni Ömer (Radiyallahû anhütna)'ya : — Ben, hacc için ihram'a girdiğim hâlde beyti tavaf edebilir miyim? diye sordu. İbni Ömer: — Sana manî olan nedir? dedi. Adam: — Ben, filânın bunu mekruh addettiğini gördüm. Ama sen, bize ondan daha makbulsün. Çünkü onu dünyânın fitneye giriftar ettiğini gördük; dedi. Bunun üzerine İbni Ömer (Radiyallahû anh): — Dünyâ hangimizi — yahut hanginizi — fitneye giriftar etmemiştir; dedi. Sonra şunu söyledi: — Biz, Resulullah (Sallallahu Aleyhi ve Sellem)'in hacc için ihrama girip de, beyti tavaf ettiğini ve Safa ile Merve arasında sa'y yaptığını gördük. Binâenaleyh eğer samîmi isen Allah'ın sünnetiyle, Resulü(Sallallahu Aleyhi ve Sellem)'in sünnetine tabî olman, filânın sünnetinden daha iyidir.» İzah 1234 te",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 205
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2997,
+      "arabicnumber": "1233.01",
+      "text": "Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Cerîr, Beyân'dan, o da Vebera'dan naklen rivayet etti. Şöyle demîş: «Bir adam, İbni Ömer (Radiyallahû anhütna)'ya : — Ben, hacc için ihram'a girdiğim hâlde beyti tavaf edebilir miyim? diye sordu. İbni Ömer: — Sana manî olan nedir? dedi. Adam: — Ben, filânın bunu mekruh addettiğini gördüm. Ama sen, bize ondan daha makbulsün. Çünkü onu dünyânın fitneye giriftar ettiğini gördük; dedi. Bunun üzerine İbni Ömer (Radiyallahû anh): — Dünyâ hangimizi — yahut hanginizi — fitneye giriftar etmemiştir; dedi. Sonra şunu söyledi: — Biz, Resulullah (Sallallahu Aleyhi ve Sellem)'in hacc için ihrama girip de, beyti tavaf ettiğini ve Safa ile Merve arasında sa'y yaptığını gördük. Binâenaleyh eğer samîmi isen Allah'ın sünnetiyle, Resulü(Sallallahu Aleyhi ve Sellem)'in sünnetine tabî olman, filânın sünnetinden daha iyidir.» İzah 1234 te",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 205
+      }
+    }
+  ]
 }

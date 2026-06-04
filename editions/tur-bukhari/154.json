@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"4": "Ablutions (Wudu')"
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 135,
-				"hadithnumber_last": 247,
-				"arabicnumber_first": 135,
-				"arabicnumber_last": 247
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 154,
-			"arabicnumber": 154,
-			"text": "Ebu Katâde, babasından naklen Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söylemiştir: \"Biriniz küçük abdestini yaparken sağ eli ile cinsel organını tutmasın, sağ eli ile istinca yapmasın. Bir şey içtiğinde kab’a nefesini vermesin",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 20
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "4": "Abdest"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 135,
+        "hadithnumber_last": 247,
+        "arabicnumber_first": 135,
+        "arabicnumber_last": 247
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 154,
+      "arabicnumber": 154,
+      "text": "Ebu Katâde, babasından naklen Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söylemiştir: \"Biriniz küçük abdestini yaparken sağ eli ile cinsel organını tutmasın, sağ eli ile istinca yapmasın. Bir şey içtiğinde kab’a nefesini vermesin",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 20
+      }
+    }
+  ]
 }

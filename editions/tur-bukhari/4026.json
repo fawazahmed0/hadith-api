@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4026,
-			"arabicnumber": 4026,
-			"text": "İbn Şihab dedi ki: \"İşte bunlar Resulullah Sallallahu Aleyhi ve Sellem'in Meğazisi (gazveleri)dir. .. \" deyip hadisi zikretti: \"Resulullah Sallallahu Aleyhi ve Sellem onları (Bedir'de öldürülmüş müşrikleri kuyuya) atarken: Rabbinizin size vaad ettiğinin hak olduğunu gördünüz mü, diye buyurdu,\" Musa dedi ki: Nafi' dedi ki: Abdullah dedi ki: Ashabından bazı kimseler: Ey Allah'ın Resulü, sen ölmüş insanlara mı sesleniyorsun deyince, Resulullah Sallallahu Aleyhi ve Sellem: Benim söylediklerimi siz onlardan daha iyi işitiyor değilsiniz, diye buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4026,
+      "arabicnumber": 4026,
+      "text": "İbn Şihab dedi ki: \"İşte bunlar Resulullah Sallallahu Aleyhi ve Sellem'in Meğazisi (gazveleri)dir. .. \" deyip hadisi zikretti: \"Resulullah Sallallahu Aleyhi ve Sellem onları (Bedir'de öldürülmüş müşrikleri kuyuya) atarken: Rabbinizin size vaad ettiğinin hak olduğunu gördünüz mü, diye buyurdu,\" Musa dedi ki: Nafi' dedi ki: Abdullah dedi ki: Ashabından bazı kimseler: Ey Allah'ın Resulü, sen ölmüş insanlara mı sesleniyorsun deyince, Resulullah Sallallahu Aleyhi ve Sellem: Benim söylediklerimi siz onlardan daha iyi işitiyor değilsiniz, diye buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 75
+      }
+    }
+  ]
 }

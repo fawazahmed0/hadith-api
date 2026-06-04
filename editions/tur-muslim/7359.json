@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7359,
-			"arabicnumber": "2932.01",
-			"text": "Bize Abd b. Humeyd rivayet etli. (Dediki): Bize Ravh b. Ubâde rivayet etti. (Dediki): Bize Hişam, Eyyub'dan, o da Nâfİ'den naklen rivayet etti. Nâfi' şöyle demiş: ibni Ömer Medine yollarından birinde ibni Sâid'e rastladı da, ona kızdıracak söz söyledi. O da burnunu attı. Hattâ sokağı doldurdu. Müteakiben ibni Ömer Hafsa'nın yanına girdi. Bunu o da duymuştu. Ona: — Allah iyiliğini versin! ibni Sâid'den ne istedin? Bilmez misin ki, Resulullah (Sallallahu Aleyhi ve Sellem) ; «Bu ancak kişinin kızdığı bir öfke sebebiyle çıkar.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 121
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7359,
+      "arabicnumber": "2932.01",
+      "text": "Bize Abd b. Humeyd rivayet etli. (Dediki): Bize Ravh b. Ubâde rivayet etti. (Dediki): Bize Hişam, Eyyub'dan, o da Nâfİ'den naklen rivayet etti. Nâfi' şöyle demiş: ibni Ömer Medine yollarından birinde ibni Sâid'e rastladı da, ona kızdıracak söz söyledi. O da burnunu attı. Hattâ sokağı doldurdu. Müteakiben ibni Ömer Hafsa'nın yanına girdi. Bunu o da duymuştu. Ona: — Allah iyiliğini versin! ibni Sâid'den ne istedin? Bilmez misin ki, Resulullah (Sallallahu Aleyhi ve Sellem) ; «Bu ancak kişinin kızdığı bir öfke sebebiyle çıkar.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 121
+      }
+    }
+  ]
 }

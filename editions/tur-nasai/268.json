@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 268,
-			"arabicnumber": 268,
-			"text": "Yine Huzeyfe (radıyallahü anh)’den rivâyete göre, şöyle demiştir: olduğum bir vakit, Rasûlüllah (sallallahü aleyhi ve sellem) bana rastladı ve ilgilenip elini uzattı. Ben de: dedim. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: asla pis olmaz.) (Buhârî, Gusül: 24; İbn Mâce, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 269
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 268,
+      "arabicnumber": 268,
+      "text": "Yine Huzeyfe (radıyallahü anh)’den rivâyete göre, şöyle demiştir: olduğum bir vakit, Rasûlüllah (sallallahü aleyhi ve sellem) bana rastladı ve ilgilenip elini uzattı. Ben de: dedim. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: asla pis olmaz.) (Buhârî, Gusül: 24; İbn Mâce, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 269
+      }
+    }
+  ]
 }

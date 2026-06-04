@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"77": "Dress"
-		},
-		"section_detail": {
-			"77": {
-				"hadithnumber_first": 5783,
-				"hadithnumber_last": 5969,
-				"arabicnumber_first": 5783,
-				"arabicnumber_last": 5969
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5860,
-			"arabicnumber": 5860,
-			"text": "Enes b. Malik r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem ensara haber gönderdi ve onları deriden bir çadır içinde topladı.\" Fethu'l-Bari Açıklaması: \"Deriden kırmızı çadır.\" Başlıkta geçen \"edem\" lafzı, tabaklanmış deri demektir. Muhtemelen çadır haline getirilmeden önce kırmızıya boyanmış olmalıdır. Buhari bu başlık altında Ebu Cuhayfe yoluyla gelen bu hadisin bir bölümünü zikretmiş bulunmaktadır. Bu hadis daha önce bütünüyle ve şerhedilmiş olarak Namaz bölümünün baş taraflarında (376.hadiste) geçmiş bulunmaktadır",
-			"grades": [],
-			"reference": {
-				"book": 77,
-				"hadith": 77
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "77": "Giyilen Şeyler ve Hükümleri"
+    },
+    "section_detail": {
+      "77": {
+        "hadithnumber_first": 5783,
+        "hadithnumber_last": 5969,
+        "arabicnumber_first": 5783,
+        "arabicnumber_last": 5969
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5860,
+      "arabicnumber": 5860,
+      "text": "Enes b. Malik r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem ensara haber gönderdi ve onları deriden bir çadır içinde topladı.\" Fethu'l-Bari Açıklaması: \"Deriden kırmızı çadır.\" Başlıkta geçen \"edem\" lafzı, tabaklanmış deri demektir. Muhtemelen çadır haline getirilmeden önce kırmızıya boyanmış olmalıdır. Buhari bu başlık altında Ebu Cuhayfe yoluyla gelen bu hadisin bir bölümünü zikretmiş bulunmaktadır. Bu hadis daha önce bütünüyle ve şerhedilmiş olarak Namaz bölümünün baş taraflarında (376.hadiste) geçmiş bulunmaktadır",
+      "grades": [],
+      "reference": {
+        "book": 77,
+        "hadith": 77
+      }
+    }
+  ]
 }

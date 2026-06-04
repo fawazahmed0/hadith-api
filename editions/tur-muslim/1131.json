@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"4": "The Book of Prayers "
-		},
-		"section_detail": {
-			"4": {
-				"hadithnumber_first": 837,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1131,
-			"arabicnumber": "506.02",
-			"text": "{….} Bana İshâk b. İbrahim rivayet etti. (Dediki) Bize Ebu Bekir El-Hanefî haber verdi. (Dediki): Bize Dahhâk b. Osman rivayet etti. (Dediki): Bize Sadakatü'bnü Yesâr rivayet etti. Dediki: Ben İbni Ömer'i: «Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu...» diyerek bu hadîsin mislini rivayet ederken dinledim",
-			"grades": [],
-			"reference": {
-				"book": 4,
-				"hadith": 293
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "4": "Namaz"
+    },
+    "section_detail": {
+      "4": {
+        "hadithnumber_first": 837,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 377,
+        "arabicnumber_last": 519.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1131,
+      "arabicnumber": "506.02",
+      "text": "{….} Bana İshâk b. İbrahim rivayet etti. (Dediki) Bize Ebu Bekir El-Hanefî haber verdi. (Dediki): Bize Dahhâk b. Osman rivayet etti. (Dediki): Bize Sadakatü'bnü Yesâr rivayet etti. Dediki: Ben İbni Ömer'i: «Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu...» diyerek bu hadîsin mislini rivayet ederken dinledim",
+      "grades": [],
+      "reference": {
+        "book": 4,
+        "hadith": 293
+      }
+    }
+  ]
 }

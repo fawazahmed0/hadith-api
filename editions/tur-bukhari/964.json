@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"13": "The Two Festivals (Eids)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 948,
-				"hadithnumber_last": 989,
-				"arabicnumber_first": 948,
-				"arabicnumber_last": 989
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 964,
-			"arabicnumber": 964,
-			"text": "Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: \"Resûl-i Ekrem Sallallahu Aleyhi ve Sellem Ramazan bayramı günü iki rekat namaz kıldı. Bu İki rekatın ne öncesinde ne de sonrasında namaz kıldı. Sonra yanında Bilâl olduğu halde ha­nımların namaz kıldığı yere geldi ve onlara sadaka vermelerini emretti. Bu emri üzerine kadınlar derhal yüzüklerini ve gerdanlıklarını Bilâl'ın kucağına atmaya başladılar",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "13": "İki Bayram Namazı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 948,
+        "hadithnumber_last": 989,
+        "arabicnumber_first": 948,
+        "arabicnumber_last": 989
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 964,
+      "arabicnumber": 964,
+      "text": "Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: \"Resûl-i Ekrem Sallallahu Aleyhi ve Sellem Ramazan bayramı günü iki rekat namaz kıldı. Bu İki rekatın ne öncesinde ne de sonrasında namaz kıldı. Sonra yanında Bilâl olduğu halde ha­nımların namaz kıldığı yere geldi ve onlara sadaka vermelerini emretti. Bu emri üzerine kadınlar derhal yüzüklerini ve gerdanlıklarını Bilâl'ın kucağına atmaya başladılar",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 13
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4474,
-			"arabicnumber": 4474,
-			"text": "Âişe radıyallahu anha'dan şöyle demiştir: \"Özrüme (suçsuzluğuma dair âyetler) inince, Rasulullah (s.a.v.) minbere çıktı ve bunu (masumiyetimi) anlattı, Kur'ân'ı (suçsuzluğum ile ilgili âyetleri) okudu. Minberden inince iki adam ve bir kadın hakkında emir buyurdu, hadleri vuruldu. Diğer Tahric edenler: Tirmizi, tefsir; İbn Mace. hudud; Ahmed b. Hanbel, VI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 124
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4474,
+      "arabicnumber": 4474,
+      "text": "Âişe radıyallahu anha'dan şöyle demiştir: \"Özrüme (suçsuzluğuma dair âyetler) inince, Rasulullah (s.a.v.) minbere çıktı ve bunu (masumiyetimi) anlattı, Kur'ân'ı (suçsuzluğum ile ilgili âyetleri) okudu. Minberden inince iki adam ve bir kadın hakkında emir buyurdu, hadleri vuruldu. Diğer Tahric edenler: Tirmizi, tefsir; İbn Mace. hudud; Ahmed b. Hanbel, VI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 124
+      }
+    }
+  ]
 }

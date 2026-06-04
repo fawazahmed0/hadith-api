@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4525,
-			"arabicnumber": 4525,
-			"text": "İbn Cüreyc'in İbn Ebı Müleyke'den nakletliğine göre İbn Abbas, \"Nihayet Nebiler ümitlerini yitirip de kendilerinin yalana çıkarıldıklarını sandıkları sırada {حتى إذا استيأس الرسل وظنوا أنهم قد كذبوا} \"[Yusuf 110] ayetini كذبوا kuzibu fiilindeki ..zel harfinin şeddesi olmadan okumuş. Bu ayeti Bakara suresindeki ayet gibi anlayıp ardından şu ayeti tilavet etmiştir: (Ey mu'minler!) Yoksa siz, sizden önce gelip geçenlerin başına gelenler size de gelmeden cennete gireceğinizi mi sandınız? Yoksulluk ve sıkıntı onlara öylesine dokunmuş ve öyle sQ.rsılmışlardl ki, nihayet Nebi ve beraberindeki mu'minler: Allah'ın yardımı ne zaman! dediler. Bilesiniz ki Allah'ın yardımı yakındır. [İbn Ebı Müleyke şöyle demiştir:] Urve' İbn Zübeyr ile karşılaştım ve ona bunu anlattım",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 49
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4525,
+      "arabicnumber": 4525,
+      "text": "İbn Cüreyc'in İbn Ebı Müleyke'den nakletliğine göre İbn Abbas, \"Nihayet Nebiler ümitlerini yitirip de kendilerinin yalana çıkarıldıklarını sandıkları sırada {حتى إذا استيأس الرسل وظنوا أنهم قد كذبوا} \"[Yusuf 110] ayetini كذبوا kuzibu fiilindeki ..zel harfinin şeddesi olmadan okumuş. Bu ayeti Bakara suresindeki ayet gibi anlayıp ardından şu ayeti tilavet etmiştir: (Ey mu'minler!) Yoksa siz, sizden önce gelip geçenlerin başına gelenler size de gelmeden cennete gireceğinizi mi sandınız? Yoksulluk ve sıkıntı onlara öylesine dokunmuş ve öyle sQ.rsılmışlardl ki, nihayet Nebi ve beraberindeki mu'minler: Allah'ın yardımı ne zaman! dediler. Bilesiniz ki Allah'ın yardımı yakındır. [İbn Ebı Müleyke şöyle demiştir:] Urve' İbn Zübeyr ile karşılaştım ve ona bunu anlattım",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 49
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2844,
-			"arabicnumber": 2844,
-			"text": "Enes İbn Malik anlatıyor: ResuI-i Ekrem Sallallahu Aleyhi ve Sellem Medine'de eşleri dışında hiçbir kadının evine girmezdL Bunun sadece bir istisnası vardı: Ümmü Süleym. ResuI-i Ekrem Sallallahu Aleyhi ve Sellem onun evine giderdi. Kendisine bu konu sorulduğunda şöyle buyurdu: \"Ben ona çok acıyorum. Onun kardeşi benimle birlikte iken öldürüldü",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 60
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2844,
+      "arabicnumber": 2844,
+      "text": "Enes İbn Malik anlatıyor: ResuI-i Ekrem Sallallahu Aleyhi ve Sellem Medine'de eşleri dışında hiçbir kadının evine girmezdL Bunun sadece bir istisnası vardı: Ümmü Süleym. ResuI-i Ekrem Sallallahu Aleyhi ve Sellem onun evine giderdi. Kendisine bu konu sorulduğunda şöyle buyurdu: \"Ben ona çok acıyorum. Onun kardeşi benimle birlikte iken öldürüldü",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 60
+      }
+    }
+  ]
 }

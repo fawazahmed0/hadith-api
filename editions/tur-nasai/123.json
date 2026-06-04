@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 123,
-			"arabicnumber": 123,
-			"text": "Muğîre b. Şu’be (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) tuvalet ihtiyacını gidermek için çıkmıştı döndüğünde onu su dolu bir kapla karşıladım, sudan döktüm ellerini ve yüzünü yıkadı sonra kollarını yıkamak istedi. Cübbenin kolları dar olduğu için kollarını cübbenin altından çıkardı ve yıkadı daha sonra mestleri üzerine meshedip bize namaz kıldırdı. (Buhârî, Vudu’’: 51; Müslim, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 123
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 123,
+      "arabicnumber": 123,
+      "text": "Muğîre b. Şu’be (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) tuvalet ihtiyacını gidermek için çıkmıştı döndüğünde onu su dolu bir kapla karşıladım, sudan döktüm ellerini ve yüzünü yıkadı sonra kollarını yıkamak istedi. Cübbenin kolları dar olduğu için kollarını cübbenin altından çıkardı ve yıkadı daha sonra mestleri üzerine meshedip bize namaz kıldırdı. (Buhârî, Vudu’’: 51; Müslim, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 123
+      }
+    }
+  ]
 }

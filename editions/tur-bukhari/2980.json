@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2980,
-			"arabicnumber": 2980,
-			"text": "Câbir ibn Abdillah (radıyallahü anh): Bizler Peygamber(sallallahü aleyhi ve sellem) zamanında(Mekke'de kestiğimiz) kurbanlıkların etlerini Medine'ye gidinceye kadar azık edinir idik, demiştir",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 189
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2980,
+      "arabicnumber": 2980,
+      "text": "Câbir ibn Abdillah (radıyallahü anh): Bizler Peygamber(sallallahü aleyhi ve sellem) zamanında(Mekke'de kestiğimiz) kurbanlıkların etlerini Medine'ye gidinceye kadar azık edinir idik, demiştir",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 189
+      }
+    }
+  ]
 }

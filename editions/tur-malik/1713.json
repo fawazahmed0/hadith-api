@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"50": "The Evil Eye"
-		},
-		"section_detail": {
-			"50": {
-				"hadithnumber_first": 1711,
-				"hadithnumber_last": 1729,
-				"arabicnumber_first": 1711,
-				"arabicnumber_last": 1729
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1713,
-			"arabicnumber": 1713,
-			"text": "Humeyd b. Kays'dan: Cafer b. Ebi Talib'in iki oğlu Resulullah Sallallahu Aleyhi ve Sellem'in huzuruna getirildiğinde onların bakıcılarına (dadılarına): «— Bunları zayıf görüyorum, neden?» diye sordu. O da: «— Ya Resulullah, onlara göz değiyor. Uygun görüp görmüyeceğini bilmediğimiz için onları okutmadık.» deyince Resulullah Sallallahu Aleyhi ve Sellem: «— Onları okutunuz, çünkü eğer kaderin önüne birşey geçecek olsaydı bu, nazar olurdu.» buyurdu",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 50,
-				"hadith": 3
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "50": "Nazar (Göz Değmesi)"
+    },
+    "section_detail": {
+      "50": {
+        "hadithnumber_first": 1711,
+        "hadithnumber_last": 1729,
+        "arabicnumber_first": 1711,
+        "arabicnumber_last": 1729
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1713,
+      "arabicnumber": 1713,
+      "text": "Humeyd b. Kays'dan: Cafer b. Ebi Talib'in iki oğlu Resulullah Sallallahu Aleyhi ve Sellem'in huzuruna getirildiğinde onların bakıcılarına (dadılarına): «— Bunları zayıf görüyorum, neden?» diye sordu. O da: «— Ya Resulullah, onlara göz değiyor. Uygun görüp görmüyeceğini bilmediğimiz için onları okutmadık.» deyince Resulullah Sallallahu Aleyhi ve Sellem: «— Onları okutunuz, çünkü eğer kaderin önüne birşey geçecek olsaydı bu, nazar olurdu.» buyurdu",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 50,
+        "hadith": 3
+      }
+    }
+  ]
 }

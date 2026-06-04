@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"9": "Shortening the Prayer"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 326,
-				"hadithnumber_last": 427,
-				"arabicnumber_first": 326,
-				"arabicnumber_last": 427
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 326,
-			"arabicnumber": 326,
-			"text": "Ebu Hureyre r.a.'den: Resulullah Sallallahu Aleyhi ve Sellem Tebük seferinde öğle ile ikindiyi cemetti. İbn Abdilber, et-Takassî'de der ki: \"Bu hadîsin senedinde, Yahya b. Yahya'ya itiraz edildi. Ondan mürsel olarak rivayet olundu. Muvatta ravilerinin çoğuna göre de mürseldir.\" Yahya'dan, A'rec-Ebu Hureyre senediyle, musned olarak da rivayet edilmiştir",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 1
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "9": "Seferde Namazları Kısaltma"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 326,
+        "hadithnumber_last": 427,
+        "arabicnumber_first": 326,
+        "arabicnumber_last": 427
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 326,
+      "arabicnumber": 326,
+      "text": "Ebu Hureyre r.a.'den: Resulullah Sallallahu Aleyhi ve Sellem Tebük seferinde öğle ile ikindiyi cemetti. İbn Abdilber, et-Takassî'de der ki: \"Bu hadîsin senedinde, Yahya b. Yahya'ya itiraz edildi. Ondan mürsel olarak rivayet olundu. Muvatta ravilerinin çoğuna göre de mürseldir.\" Yahya'dan, A'rec-Ebu Hureyre senediyle, musned olarak da rivayet edilmiştir",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 1
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"9": "Zakat (Kitab Al-Zakat)"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1556,
-				"hadithnumber_last": 1700,
-				"arabicnumber_first": 1556,
-				"arabicnumber_last": 1700
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1697,
-			"arabicnumber": 1697,
-			"text": "Abdullah b. Amr (r.a.)'dan; demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: \"Sıla-i rahim yapan kimse, (akrabasından gördüğü iyiliğe) karşılık veren kimse değildir. O, akrabası kendisine iyiliği kestiği zaman onlara iyilik yapandır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (5991)"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 142
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "9": "Zekât Bölümü"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1556,
+        "hadithnumber_last": 1700,
+        "arabicnumber_first": 1556,
+        "arabicnumber_last": 1700
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1697,
+      "arabicnumber": 1697,
+      "text": "Abdullah b. Amr (r.a.)'dan; demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: \"Sıla-i rahim yapan kimse, (akrabasından gördüğü iyiliğe) karşılık veren kimse değildir. O, akrabası kendisine iyiliği kestiği zaman onlara iyilik yapandır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5991)"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 142
+      }
+    }
+  ]
 }

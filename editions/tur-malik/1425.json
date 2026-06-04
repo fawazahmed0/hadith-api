@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"36": "Judgements"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 1399,
-				"hadithnumber_last": 1454,
-				"arabicnumber_first": 1399,
-				"arabicnumber_last": 1454
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1425,
-			"arabicnumber": 1425,
-			"text": "Ömer b. Hattab (r.a.) der ki: Ne oluyor şu cariyesi olan efendilere de önce cariyeleriyle temasta bulunuyor, sonra çocuk yapmak istemiyorlar. Efendinin birleştiğini kabul ettiği bir cariyenin bana başvurması halinde, çocuğunu efendisi üzerine kaydederim. Bunu göz önüne alarak ister azledin, ister çocuk yapın",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 36,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "36": "Akdiye (Yargılama)"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 1399,
+        "hadithnumber_last": 1454,
+        "arabicnumber_first": 1399,
+        "arabicnumber_last": 1454
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1425,
+      "arabicnumber": 1425,
+      "text": "Ömer b. Hattab (r.a.) der ki: Ne oluyor şu cariyesi olan efendilere de önce cariyeleriyle temasta bulunuyor, sonra çocuk yapmak istemiyorlar. Efendinin birleştiğini kabul ettiği bir cariyenin bana başvurması halinde, çocuğunu efendisi üzerine kaydederim. Bunu göz önüne alarak ister azledin, ister çocuk yapın",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 36,
+        "hadith": 27
+      }
+    }
+  ]
 }

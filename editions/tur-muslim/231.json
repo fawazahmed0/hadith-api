@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 231,
-			"arabicnumber": "71",
-			"text": "Bize Yahya b. Yahya. tahdis edip dedi ki: Malik'e, Salih b. Keysan'dan naklen okudum. O Ubeydullah b. Abdullah b. Utbe'den, o Zeyd b. Halid el-Cuheni'den şöyle dediğini nakletti: Rasulullah (Sallallahu aleyhi ve Sellem) Hudeybiye'de geceden yağmış bir yağmurun akabinde bize sabah namazını kıldırdı. Namazını bitirdikten sonra yüzünü insanlara dönüp: \"Rabbiniz ne buyurdu bilir misiniz?\" diye sordu. Onlar: Allah ve Rasulü daha iyi bilir, dediler. Şöyle buyurdu: \"Buyurdu ki: Kullarımdan bir kısmı mü'min, bir kısmı kafir sabahı etti. Bize Allah'ın lütuf ve rahmeti ile yağmur yağdırıldı diyen kişi bana iman eden, yıldızı inkar eden bir kafirdir ama şu şu yıldızın doğuşu sebebiyle bize yağmur yağdırıldı diyen kimse ise bana kafir, yıldıza iman eden birisidir. \"573 Diğer tahric: Buhari, 810, 991, 3916, 7064; Ebu Davud, 3906; Nesai, 1524; Tuhfetu'l-Eşraf, 3757 A.DAVUDOĞLU İZAHI İÇİN buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 137
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 231,
+      "arabicnumber": "71",
+      "text": "Bize Yahya b. Yahya. tahdis edip dedi ki: Malik'e, Salih b. Keysan'dan naklen okudum. O Ubeydullah b. Abdullah b. Utbe'den, o Zeyd b. Halid el-Cuheni'den şöyle dediğini nakletti: Rasulullah (Sallallahu aleyhi ve Sellem) Hudeybiye'de geceden yağmış bir yağmurun akabinde bize sabah namazını kıldırdı. Namazını bitirdikten sonra yüzünü insanlara dönüp: \"Rabbiniz ne buyurdu bilir misiniz?\" diye sordu. Onlar: Allah ve Rasulü daha iyi bilir, dediler. Şöyle buyurdu: \"Buyurdu ki: Kullarımdan bir kısmı mü'min, bir kısmı kafir sabahı etti. Bize Allah'ın lütuf ve rahmeti ile yağmur yağdırıldı diyen kişi bana iman eden, yıldızı inkar eden bir kafirdir ama şu şu yıldızın doğuşu sebebiyle bize yağmur yağdırıldı diyen kimse ise bana kafir, yıldıza iman eden birisidir. \"573 Diğer tahric: Buhari, 810, 991, 3916, 7064; Ebu Davud, 3906; Nesai, 1524; Tuhfetu'l-Eşraf, 3757 A.DAVUDOĞLU İZAHI İÇİN buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 137
+      }
+    }
+  ]
 }

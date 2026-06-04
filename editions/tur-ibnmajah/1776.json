@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1776,
-			"arabicnumber": 1776,
-			"text": "Aişe (r.anha)'dan; Şöyle demiştir: Ben (Mescid'de itikafta iken) odamda hasta bulunduğu halde (kaza-ı) hacet için girerdim de hastanın halini sadece yanından geçerek sorardım. Aişe (r.anha) demiştir ki: Resulullah (Sallallahu Aleyhi ve Sellem), (ev halkı ile beraber) itikafta oldukları zaman odasına yalnız (kaza-ı hacet) için girerdi. Diğer tahric: Bu hadisi Müslim, Ebu Davud, Tirmizi ve Malik de rivayet etmişlerdir.Ancak oralardaki rivayetlerde Aişe (r.anha)'nın kendi durumunu belirten hadisin baş kısmına rastlamadım. AÇIKLAMA 1777’de",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 139
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1776,
+      "arabicnumber": 1776,
+      "text": "Aişe (r.anha)'dan; Şöyle demiştir: Ben (Mescid'de itikafta iken) odamda hasta bulunduğu halde (kaza-ı) hacet için girerdim de hastanın halini sadece yanından geçerek sorardım. Aişe (r.anha) demiştir ki: Resulullah (Sallallahu Aleyhi ve Sellem), (ev halkı ile beraber) itikafta oldukları zaman odasına yalnız (kaza-ı hacet) için girerdi. Diğer tahric: Bu hadisi Müslim, Ebu Davud, Tirmizi ve Malik de rivayet etmişlerdir.Ancak oralardaki rivayetlerde Aişe (r.anha)'nın kendi durumunu belirten hadisin baş kısmına rastlamadım. AÇIKLAMA 1777’de",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 139
+      }
+    }
+  ]
 }

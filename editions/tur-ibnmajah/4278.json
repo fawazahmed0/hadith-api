@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"37": "Zuhd"
-		},
-		"section_detail": {
-			"37": {
-				"hadithnumber_first": 4100,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4278,
-			"arabicnumber": 4278,
-			"text": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) \"alemlerin Rabbi(nin emri, hesabı ve ceza ya da mükafatı) için insanların (kabirlerinden) kalktıkları gün\" (Mutaffifîn, 6) ayeti hakkında şöyle buyurmuştur: Onların her biri iki kulağının yarılarına kadar ter'e batmış olarak ayakta (bekleyip) durur. Diğer tahric: Bu hadisi Buhari Rikak kitabında, Müslim Cennet kitabında, Tirmizi Sıfat'ü-Kıyame ve Tefsir bölümlerinde ve Nesaı Tetsir bölümünde rivayet \\etmişler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 37,
-				"hadith": 179
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "37": "Zühd Kitabı"
+    },
+    "section_detail": {
+      "37": {
+        "hadithnumber_first": 4100,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 4100,
+        "arabicnumber_last": 4341
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4278,
+      "arabicnumber": 4278,
+      "text": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) \"alemlerin Rabbi(nin emri, hesabı ve ceza ya da mükafatı) için insanların (kabirlerinden) kalktıkları gün\" (Mutaffifîn, 6) ayeti hakkında şöyle buyurmuştur: Onların her biri iki kulağının yarılarına kadar ter'e batmış olarak ayakta (bekleyip) durur. Diğer tahric: Bu hadisi Buhari Rikak kitabında, Müslim Cennet kitabında, Tirmizi Sıfat'ü-Kıyame ve Tefsir bölümlerinde ve Nesaı Tetsir bölümünde rivayet \\etmişler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 37,
+        "hadith": 179
+      }
+    }
+  ]
 }

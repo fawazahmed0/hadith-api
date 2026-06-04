@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"66": "Virtues of the Qur'an"
-		},
-		"section_detail": {
-			"66": {
-				"hadithnumber_first": 4979,
-				"hadithnumber_last": 5062,
-				"arabicnumber_first": 4979,
-				"arabicnumber_last": 5062
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5035,
-			"arabicnumber": 5035,
-			"text": "Said İbn Cübeyr'den şöyle söylediği rivayet edilmiştir: \"Sizin mufassal dediğiniz sureler elbette muhkemdir. İbn Abbas şöyle demiştir: Allah Resıılü Sallallahu Aleyhi ve Sellem vefat ettiği zaman ben on yaşında idim. O vakit muhkem (sureleri) okumuştum.\" Hadisin geçtiği diğer yer:",
-			"grades": [],
-			"reference": {
-				"book": 66,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "66": "Kur'ân’ın Faziletleri"
+    },
+    "section_detail": {
+      "66": {
+        "hadithnumber_first": 4979,
+        "hadithnumber_last": 5062,
+        "arabicnumber_first": 4979,
+        "arabicnumber_last": 5062
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5035,
+      "arabicnumber": 5035,
+      "text": "Said İbn Cübeyr'den şöyle söylediği rivayet edilmiştir: \"Sizin mufassal dediğiniz sureler elbette muhkemdir. İbn Abbas şöyle demiştir: Allah Resıılü Sallallahu Aleyhi ve Sellem vefat ettiği zaman ben on yaşında idim. O vakit muhkem (sureleri) okumuştum.\" Hadisin geçtiği diğer yer:",
+      "grades": [],
+      "reference": {
+        "book": 66,
+        "hadith": 58
+      }
+    }
+  ]
 }

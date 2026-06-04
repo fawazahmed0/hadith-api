@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1763,
-			"arabicnumber": "749.09",
-			"text": "Bize, Muhammedü'bnu'l-Müsennâ rivayet etti. (Dediki): Bize, Muhammed b. Ca'fer rivayet etti. (Dediki): Bize, Şu'be rivayet etti. (Dediki): Ben, Ukbetü'bnü Hureys'i dinledim; dedimki: îbni Ömer'i şunu rivayet ederken dinledim: Resûlullah (Sallallahu Aleyhi ve Sellem): «Gece namazı ikişer rek'âtdır. Sabahlamakda olduğunu gördüğün vakit bir rek'âtla vitr yapıver!» buyurdular. İbni Ömer'e : «İkişer ikişer ne demekdir?» diye sordular; İbni Ömer: — Her iki rek'âtda bir selâm vermekdir... dedi",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 192
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1763,
+      "arabicnumber": "749.09",
+      "text": "Bize, Muhammedü'bnu'l-Müsennâ rivayet etti. (Dediki): Bize, Muhammed b. Ca'fer rivayet etti. (Dediki): Bize, Şu'be rivayet etti. (Dediki): Ben, Ukbetü'bnü Hureys'i dinledim; dedimki: îbni Ömer'i şunu rivayet ederken dinledim: Resûlullah (Sallallahu Aleyhi ve Sellem): «Gece namazı ikişer rek'âtdır. Sabahlamakda olduğunu gördüğün vakit bir rek'âtla vitr yapıver!» buyurdular. İbni Ömer'e : «İkişer ikişer ne demekdir?» diye sordular; İbni Ömer: — Her iki rek'âtda bir selâm vermekdir... dedi",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 192
+      }
+    }
+  ]
 }

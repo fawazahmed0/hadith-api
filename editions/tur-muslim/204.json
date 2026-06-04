@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 204,
-			"arabicnumber": "57.03",
-			"text": "Bana Muhammed b. Mihran er-Razi de tahdis edip dedi ki: Bana İsa b. Yunus haber verdi. Bize el-Evzai, ez-Zührl'den tahdis etti. O İbnu'l-Müseyyeb, Ebu Selemee ve Ebu Bekr b. Abdurrahman b. Haris b. Hişam'dan, o Ebu Hureyre'den, o Nebi (Sallallahu aleyhi ve Sellem)'den, Ukayl'in ez-Zührl'den, onun Ebu Bekr b. Abdurrahman'dan, onun Ebu Hureyre'den diye rivayet ettiği hadisi aynen rivayet etti ve yağmayı sözkonusu etmekle birlikte \"değerli\" ibaresini söylemedi. Diğer tahric: İbnu'l-Müseyyeb ve Ebu Selemee'nin rivayet ettikleri hadisi Müslim yalnız başına rivayet etmiştir; Tuhfetu'l-Eşraf, 13191, 15202. Ebu Bekr'in rivayet ettiği hadisin tahric bilgisi ise 200 ile aynı",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 204,
+      "arabicnumber": "57.03",
+      "text": "Bana Muhammed b. Mihran er-Razi de tahdis edip dedi ki: Bana İsa b. Yunus haber verdi. Bize el-Evzai, ez-Zührl'den tahdis etti. O İbnu'l-Müseyyeb, Ebu Selemee ve Ebu Bekr b. Abdurrahman b. Haris b. Hişam'dan, o Ebu Hureyre'den, o Nebi (Sallallahu aleyhi ve Sellem)'den, Ukayl'in ez-Zührl'den, onun Ebu Bekr b. Abdurrahman'dan, onun Ebu Hureyre'den diye rivayet ettiği hadisi aynen rivayet etti ve yağmayı sözkonusu etmekle birlikte \"değerli\" ibaresini söylemedi. Diğer tahric: İbnu'l-Müseyyeb ve Ebu Selemee'nin rivayet ettikleri hadisi Müslim yalnız başına rivayet etmiştir; Tuhfetu'l-Eşraf, 13191, 15202. Ebu Bekr'in rivayet ettiği hadisin tahric bilgisi ise 200 ile aynı",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 111
+      }
+    }
+  ]
 }

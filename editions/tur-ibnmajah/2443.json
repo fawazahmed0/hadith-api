@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"16": "The Chapters on Pawning"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 2436,
-				"hadithnumber_last": 2491,
-				"arabicnumber_first": 2436,
-				"arabicnumber_last": 2491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2443,
-			"arabicnumber": 2443,
-			"text": "Abdullah bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İşçiye, ücretini teri kurumadan önce veriniz.» Not: Zevaid'de şöyle denilmiştir: Bu hadisin aslı Buhari'nin sahih'inde ve başka kitabIarda Ebu Hureyre'nin hadisi olarak vardır. Lakin musannifimizin senedi zayıftır. Çünkü ravilerden Vehb bin Said ve Abdurrahman bin Zeyd zayıftır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "16": "Rehineler Kitabı"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 2436,
+        "hadithnumber_last": 2491,
+        "arabicnumber_first": 2436,
+        "arabicnumber_last": 2491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2443,
+      "arabicnumber": 2443,
+      "text": "Abdullah bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İşçiye, ücretini teri kurumadan önce veriniz.» Not: Zevaid'de şöyle denilmiştir: Bu hadisin aslı Buhari'nin sahih'inde ve başka kitabIarda Ebu Hureyre'nin hadisi olarak vardır. Lakin musannifimizin senedi zayıftır. Çünkü ravilerden Vehb bin Said ve Abdurrahman bin Zeyd zayıftır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 8
+      }
+    }
+  ]
 }

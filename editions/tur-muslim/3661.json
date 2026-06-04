@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"18": "The Book of Divorce "
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 3652,
-				"hadithnumber_last": 3742,
-				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3661,
-			"arabicnumber": "1471.10",
-			"text": "Bana Aliyyü'bnü Hucr Es-Sa'di rivayet etti. (Dediki): Bize İsmail b. İbrahim, Eyyûb'dan, o da İbni Sîrîn'den naklen rivayette bulundu. İbni Sîrîn şöyle demiş: Kendisini itham etmediğim bir zât bana yirmi senedir şu hadîsi rivayet eder durur : İbni Ömer karısını hayız halinde iken boşamış da kendisine karısına dönmesi emir buyurulmuş. Ben râviyi itham etmiyor, fakat hadîsi de bilmiyordum. Nihayet Ebû Gallâb yûnus b. Cübeyr el-Bâhilî'ye rastladım. Bu zât özü sözü sağlam biri idi. Bana anlattığına göre kendisi İbni Ömer'e sormuş; o da karısını hayız hâlinde bir defa boşadığını, sonra rîc'at'a me'mur olduğunu rivayet etmiş. Ebû Gallâb dedi ki, ben : — Bu talâk senin aleyhine hesab edildi mi? diye sordum. İbni Ömer: — Ne demek, (insan) acz gösterip ahmaklık etse de (hiç vuku' bulan talâk gider) mi? cevâbını verdi",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "18": "Boşama"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 3652,
+        "hadithnumber_last": 3742,
+        "arabicnumber_first": 1471.01,
+        "arabicnumber_last": 1491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3661,
+      "arabicnumber": "1471.10",
+      "text": "Bana Aliyyü'bnü Hucr Es-Sa'di rivayet etti. (Dediki): Bize İsmail b. İbrahim, Eyyûb'dan, o da İbni Sîrîn'den naklen rivayette bulundu. İbni Sîrîn şöyle demiş: Kendisini itham etmediğim bir zât bana yirmi senedir şu hadîsi rivayet eder durur : İbni Ömer karısını hayız halinde iken boşamış da kendisine karısına dönmesi emir buyurulmuş. Ben râviyi itham etmiyor, fakat hadîsi de bilmiyordum. Nihayet Ebû Gallâb yûnus b. Cübeyr el-Bâhilî'ye rastladım. Bu zât özü sözü sağlam biri idi. Bana anlattığına göre kendisi İbni Ömer'e sormuş; o da karısını hayız hâlinde bir defa boşadığını, sonra rîc'at'a me'mur olduğunu rivayet etmiş. Ebû Gallâb dedi ki, ben : — Bu talâk senin aleyhine hesab edildi mi? diye sordum. İbni Ömer: — Ne demek, (insan) acz gösterip ahmaklık etse de (hiç vuku' bulan talâk gider) mi? cevâbını verdi",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 10
+      }
+    }
+  ]
 }

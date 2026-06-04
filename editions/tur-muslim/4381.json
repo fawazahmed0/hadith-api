@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"28": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 4342,
-				"hadithnumber_last": 4397,
-				"arabicnumber_first": 1669.01,
-				"arabicnumber_last": 1683
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4381,
-			"arabicnumber": "1678.01",
-			"text": "Bize Osman b. Ebi Şeybe ile ishâk b. İbrahim ve Muhammed b. Abdillâh b. Numeyr toptan Vekî'den, o da A'meş'den naklen rivayet ettiler. H. Bize Ebû Biekir b. Ebi Şeybe de rivayet etti. (Dediki): Bize Abde b. Süleyman ile Vekî\\ A'meş'den, o da Ebû Vâil'den, o da Abdullah'dan naklen rivayet ettiler. Abdullah şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Kıyamet gününde insanlar arasında ilk görülecek dâva kanlar hakkında olacaktır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 28,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "28": "Kasâme, Muhakibler, Kısas ve Diyetler Bahsi"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 4342,
+        "hadithnumber_last": 4397,
+        "arabicnumber_first": 1669.01,
+        "arabicnumber_last": 1683
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4381,
+      "arabicnumber": "1678.01",
+      "text": "Bize Osman b. Ebi Şeybe ile ishâk b. İbrahim ve Muhammed b. Abdillâh b. Numeyr toptan Vekî'den, o da A'meş'den naklen rivayet ettiler. H. Bize Ebû Biekir b. Ebi Şeybe de rivayet etti. (Dediki): Bize Abde b. Süleyman ile Vekî\\ A'meş'den, o da Ebû Vâil'den, o da Abdullah'dan naklen rivayet ettiler. Abdullah şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Kıyamet gününde insanlar arasında ilk görülecek dâva kanlar hakkında olacaktır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 28,
+        "hadith": 40
+      }
+    }
+  ]
 }

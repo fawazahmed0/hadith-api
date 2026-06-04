@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 752,
-			"arabicnumber": 752,
-			"text": "Abdurrahman b. Kasım babasından naklediyor: Ömer b. Hattab: «— Mekkeliler! Bu insanlara ne oluyor, yağ sürünmeden geliyorlar da siz yağ sürünerek geliyorsunuz? Hilali gördüğünüz zaman ihrama girin!» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Daif"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 48
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 752,
+      "arabicnumber": 752,
+      "text": "Abdurrahman b. Kasım babasından naklediyor: Ömer b. Hattab: «— Mekkeliler! Bu insanlara ne oluyor, yağ sürünmeden geliyorlar da siz yağ sürünerek geliyorsunuz? Hilali gördüğünüz zaman ihrama girin!» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Daif"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 48
+      }
+    }
+  ]
 }

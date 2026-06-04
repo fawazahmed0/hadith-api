@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 860,
-			"arabicnumber": 860,
-			"text": "Enes İbn Mâlik'ten rivayet edilmiştir: \"Bir gün Enes İbn Mâlİk'in ninesi Müleyke Resulullah Sallallahu Aleyhi ve Sellem'İ yemeğe davet eder. Davete icabet eden Resulullah Sallallahu Aleyhi ve Sellem yemeği yedikten sonra oradakilere size namaz kıldırayım' buyurur. Enes İbn Mâlik şöyle diyor: Bunun üzerine ben uzunca bir süre kullanılmadan beklediği için kararmış hasırımızı aldım ve üzerine biraz su serptim. Ardından namaza başladık. Resulullah Sallallahu Aleyhi ve Sellem İmam olarak önümüzde bulunuyordu, ben ve yetim aynı safta idik, ninem ise bizim arkamızda namaza durmuştu. Bu şekilde Resulullah Sallallahu Aleyhi ve Sellem bize iki rekat namaz kıldırdı",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 251
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 860,
+      "arabicnumber": 860,
+      "text": "Enes İbn Mâlik'ten rivayet edilmiştir: \"Bir gün Enes İbn Mâlİk'in ninesi Müleyke Resulullah Sallallahu Aleyhi ve Sellem'İ yemeğe davet eder. Davete icabet eden Resulullah Sallallahu Aleyhi ve Sellem yemeği yedikten sonra oradakilere size namaz kıldırayım' buyurur. Enes İbn Mâlik şöyle diyor: Bunun üzerine ben uzunca bir süre kullanılmadan beklediği için kararmış hasırımızı aldım ve üzerine biraz su serptim. Ardından namaza başladık. Resulullah Sallallahu Aleyhi ve Sellem İmam olarak önümüzde bulunuyordu, ben ve yetim aynı safta idik, ninem ise bizim arkamızda namaza durmuştu. Bu şekilde Resulullah Sallallahu Aleyhi ve Sellem bize iki rekat namaz kıldırdı",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 251
+      }
+    }
+  ]
 }

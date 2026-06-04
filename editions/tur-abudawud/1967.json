@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1967,
-			"arabicnumber": 1967,
-			"text": "Süleyman b. Amr el-Ahvas annesinin şöyle dediğini ri­vayet etmiştir: Ben Resûlullah (s.a.v.)'i binitli ve parmakları arasında bir (çakıl) taş(ı) olduğu halde Akabe Cemresinin yanında gördüm.\" (Elindeki çakıl taşını) attı. Halk da (ellerindeki çakıl taşlarını) attı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 247
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1967,
+      "arabicnumber": 1967,
+      "text": "Süleyman b. Amr el-Ahvas annesinin şöyle dediğini ri­vayet etmiştir: Ben Resûlullah (s.a.v.)'i binitli ve parmakları arasında bir (çakıl) taş(ı) olduğu halde Akabe Cemresinin yanında gördüm.\" (Elindeki çakıl taşını) attı. Halk da (ellerindeki çakıl taşlarını) attı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 247
+      }
+    }
+  ]
 }

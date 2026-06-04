@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 868,
-			"arabicnumber": 868,
-			"text": "Abdullah İbn Ebi Katade el-Ensarî'nin babasından naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bazen uzun uzun namaz kılmak isteğiyle namaza duruyorum ve fakat bu sırada çocukların ağlama sesini işitince çocuğun annesine sıkıntı vermemesi için namazımı kısa tutuyorum",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 259
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 868,
+      "arabicnumber": 868,
+      "text": "Abdullah İbn Ebi Katade el-Ensarî'nin babasından naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bazen uzun uzun namaz kılmak isteğiyle namaza duruyorum ve fakat bu sırada çocukların ağlama sesini işitince çocuğun annesine sıkıntı vermemesi için namazımı kısa tutuyorum",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 259
+      }
+    }
+  ]
 }

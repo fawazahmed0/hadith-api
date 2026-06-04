@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 51,
-			"arabicnumber": 51,
-			"text": "Mikdam b. Şurayh, babası Şureyh'in şöyle dediğini haber vermiştir: Aişe'ye, \"Resulullah (sallallahu aleyhi ve sellem) evine girdiği zaman ilk iş olarak ne yapardı?\" diye sordum. \"Dişlerini misvaklardı” cevabını verdi. Diğer tahric: MüsIim, tahare; Nesai, tahare; İbn-i Mace, tahare",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (253)"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 51
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 51,
+      "arabicnumber": 51,
+      "text": "Mikdam b. Şurayh, babası Şureyh'in şöyle dediğini haber vermiştir: Aişe'ye, \"Resulullah (sallallahu aleyhi ve sellem) evine girdiği zaman ilk iş olarak ne yapardı?\" diye sordum. \"Dişlerini misvaklardı” cevabını verdi. Diğer tahric: MüsIim, tahare; Nesai, tahare; İbn-i Mace, tahare",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (253)"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 51
+      }
+    }
+  ]
 }

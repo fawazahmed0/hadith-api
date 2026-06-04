@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"46": "Oppressions"
-		},
-		"section_detail": {
-			"46": {
-				"hadithnumber_first": 2440,
-				"hadithnumber_last": 2482,
-				"arabicnumber_first": 2440,
-				"arabicnumber_last": 2482
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2443,
-			"arabicnumber": 2443,
-			"text": "Enes İbn Malik r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"İster haksızlığa uğrasın, ister haksızlık etsin, din kardeşine yardım et\" Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 46,
-				"hadith": 4
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "46": "Zulümler ve Gasb"
+    },
+    "section_detail": {
+      "46": {
+        "hadithnumber_first": 2440,
+        "hadithnumber_last": 2482,
+        "arabicnumber_first": 2440,
+        "arabicnumber_last": 2482
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2443,
+      "arabicnumber": 2443,
+      "text": "Enes İbn Malik r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"İster haksızlığa uğrasın, ister haksızlık etsin, din kardeşine yardım et\" Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 46,
+        "hadith": 4
+      }
+    }
+  ]
 }

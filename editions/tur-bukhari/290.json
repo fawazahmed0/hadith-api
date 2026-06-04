@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"5": "Bathing (Ghusl)"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 248,
-				"hadithnumber_last": 293,
-				"arabicnumber_first": 248,
-				"arabicnumber_last": 293
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 290,
-			"arabicnumber": 290,
-			"text": "Abdullah b. Ömer r.a.'den şöyle nakledilmiştir: \"Ömer İbnü'l-Hattab r.a. Rasulullah (Sallallahu aleyhi ve Sellem)'e kendisinin geceleyin cünüp olduğunu bildirdi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) o'na, Abdest al, cinsel organını yıka sonra uyul dedi",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 42
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "5": "Gusül"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 248,
+        "hadithnumber_last": 293,
+        "arabicnumber_first": 248,
+        "arabicnumber_last": 293
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 290,
+      "arabicnumber": 290,
+      "text": "Abdullah b. Ömer r.a.'den şöyle nakledilmiştir: \"Ömer İbnü'l-Hattab r.a. Rasulullah (Sallallahu aleyhi ve Sellem)'e kendisinin geceleyin cünüp olduğunu bildirdi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) o'na, Abdest al, cinsel organını yıka sonra uyul dedi",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 42
+      }
+    }
+  ]
 }

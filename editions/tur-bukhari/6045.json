@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"78": "Good Manners and Form (Al-Adab)"
-		},
-		"section_detail": {
-			"78": {
-				"hadithnumber_first": 5970,
-				"hadithnumber_last": 6226,
-				"arabicnumber_first": 5970,
-				"arabicnumber_last": 6226
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6045,
-			"arabicnumber": 6045,
-			"text": "Ebu Zerr r.a.'dan rivayete göre o, Nebi Sallallahu Aleyhi ve Sellem'i şöyle buyururken dinlemiştir: \"Bir adam bir başka adamı fasıklıkla itham ederse ve(ya) onu küfür ile itham ederse ve o kişi de böyle değil ise, mutlaka o itham ona geri döner",
-			"grades": [],
-			"reference": {
-				"book": 78,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "78": "Edeb"
+    },
+    "section_detail": {
+      "78": {
+        "hadithnumber_first": 5970,
+        "hadithnumber_last": 6226,
+        "arabicnumber_first": 5970,
+        "arabicnumber_last": 6226
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6045,
+      "arabicnumber": 6045,
+      "text": "Ebu Zerr r.a.'dan rivayete göre o, Nebi Sallallahu Aleyhi ve Sellem'i şöyle buyururken dinlemiştir: \"Bir adam bir başka adamı fasıklıkla itham ederse ve(ya) onu küfür ile itham ederse ve o kişi de böyle değil ise, mutlaka o itham ona geri döner",
+      "grades": [],
+      "reference": {
+        "book": 78,
+        "hadith": 75
+      }
+    }
+  ]
 }

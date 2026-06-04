@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2462,
-			"arabicnumber": "1066.01",
-			"text": "Bize Muhammed b. Abdiîlâh b. Numeyr ile Abdullah b. Said El-Eşecc hep birden Vekî'den rivayet ettiler. Eşecc (Dediki): Bize Veki' rivayet etti. (Dediki): Bize A'meş. Hayseme'den. o da Süveyd b. Gafele'den naklen rivayet etti. Süveyd şunları söylemiş: — Ali (Dediki): Size Resûlullah (Sallallahu Aleyhi ve Sellem)'den bir hadis naklettiğim vakit, yemin, ederim kî semâdan düşsem, benim için onun söylemediği bir şey'i söylemekden daha makbul olur. Sizinle aramızda cereyan eden bir şey hakkında konuştuğumuz zaman ise (böyle değildir.) Çünkü harp, bir hileden ibarettir. Ben, Resülullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim: Âhir zamanda yaşları genç, akılları ermez bir kavim meydana çıkacak. Bunlar mahlûkaatın en hayırlı sözlerini söyüyerek, Kur'an okuyacaklar (fakat okudukları Kur'ân) gırtlaklarından aşağı geçmiyecek. Dînden, ok'un avı delip geçtiği gibi çıkacaklar. Böylelerine rastladınız mı hemen tepeleyin. Çünkü onları öldürenlere kıyamet gününde Allah indinde büyük ecir vardır.»",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 199
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2462,
+      "arabicnumber": "1066.01",
+      "text": "Bize Muhammed b. Abdiîlâh b. Numeyr ile Abdullah b. Said El-Eşecc hep birden Vekî'den rivayet ettiler. Eşecc (Dediki): Bize Veki' rivayet etti. (Dediki): Bize A'meş. Hayseme'den. o da Süveyd b. Gafele'den naklen rivayet etti. Süveyd şunları söylemiş: — Ali (Dediki): Size Resûlullah (Sallallahu Aleyhi ve Sellem)'den bir hadis naklettiğim vakit, yemin, ederim kî semâdan düşsem, benim için onun söylemediği bir şey'i söylemekden daha makbul olur. Sizinle aramızda cereyan eden bir şey hakkında konuştuğumuz zaman ise (böyle değildir.) Çünkü harp, bir hileden ibarettir. Ben, Resülullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim: Âhir zamanda yaşları genç, akılları ermez bir kavim meydana çıkacak. Bunlar mahlûkaatın en hayırlı sözlerini söyüyerek, Kur'an okuyacaklar (fakat okudukları Kur'ân) gırtlaklarından aşağı geçmiyecek. Dînden, ok'un avı delip geçtiği gibi çıkacaklar. Böylelerine rastladınız mı hemen tepeleyin. Çünkü onları öldürenlere kıyamet gününde Allah indinde büyük ecir vardır.»",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 199
+      }
+    }
+  ]
 }

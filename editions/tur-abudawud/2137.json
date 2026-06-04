@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2137,
-			"arabicnumber": 2137,
-			"text": "Âişe (r.anha)'den rivayet edildiğine göre, Rasûlullah (s.a.v.) -hastalığı (sırası)nda- hanımlarına (bir elçi) göndererek (onların yanına gelmelerini iste)di. Bunun üzerine (hanımları yanına gelerek huzurunda) toplandılar (Rasûl-i Ekrem de onlara hitaben); Ben (artık geceleri) sizlerin arasında dolaşamıyorum, eğer izin verirseniz artık bundan sonra Âişe'nin yanında kalacağım\" dedi. Onlar da izin verdiler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 92
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2137,
+      "arabicnumber": 2137,
+      "text": "Âişe (r.anha)'den rivayet edildiğine göre, Rasûlullah (s.a.v.) -hastalığı (sırası)nda- hanımlarına (bir elçi) göndererek (onların yanına gelmelerini iste)di. Bunun üzerine (hanımları yanına gelerek huzurunda) toplandılar (Rasûl-i Ekrem de onlara hitaben); Ben (artık geceleri) sizlerin arasında dolaşamıyorum, eğer izin verirseniz artık bundan sonra Âişe'nin yanında kalacağım\" dedi. Onlar da izin verdiler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 92
+      }
+    }
+  ]
 }

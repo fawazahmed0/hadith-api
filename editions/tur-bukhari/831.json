@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 831,
-			"arabicnumber": 831,
-			"text": "Abdullah İbn Mesud (Radiyallahu anh) şöyle demiştir: \"Biz Resûlullah Sallallahu Aleyhi ve Sellem'in arkasında namaz kıldığımız zaman şöyle derdik: Cebrail'e, Mîkâîl'e selâm olsun, şu meleğe, şu meleğe selâm olsun. 'Bunun üzerine Resûlullah Sallallahu Aleyhi ve Sellem bize dönerek şöyle buyurdu: \"Şüphesiz Selâm olan sadece Allah'tır. Siz'den biri salauât okuyacağı zaman şu duayı etsin:",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 225
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 831,
+      "arabicnumber": 831,
+      "text": "Abdullah İbn Mesud (Radiyallahu anh) şöyle demiştir: \"Biz Resûlullah Sallallahu Aleyhi ve Sellem'in arkasında namaz kıldığımız zaman şöyle derdik: Cebrail'e, Mîkâîl'e selâm olsun, şu meleğe, şu meleğe selâm olsun. 'Bunun üzerine Resûlullah Sallallahu Aleyhi ve Sellem bize dönerek şöyle buyurdu: \"Şüphesiz Selâm olan sadece Allah'tır. Siz'den biri salauât okuyacağı zaman şu duayı etsin:",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 225
+      }
+    }
+  ]
 }

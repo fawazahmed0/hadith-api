@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 601,
-			"arabicnumber": 601,
-			"text": "Enes b. Malik (r.a.) demiştir ki; Resul-i Ekrem (Sallallahu aleyhi ve Sellem) bir at'a binmişti. At'tan düştü de sağ tarafı berelendi. Namazlardan birini oturarak kıldı. Biz de arkasında oturarak namazımızı kıldık. Namaz bitince; \"İmam ancak kendisine uyulmak içindir. O namazı ayakta kılınca, siz de ayakta kılınız. O ruku'a vardığı zaman siz de ruku'a varınız. O başını kaldırdı mı siz de kaldırınız. \"Semiallahü limen-hamideh\" deyince siz de \"Rabbena ve leke'l-hamd\" deyiniz. Namazı oturarak kıldığı zaman siz de hep beraber oturarak kılınız\" buyurdu. Diğer tahric: Buharî. salat ezan, taksîrü's-salat; sehv; Merza; Müslim, salai; Tirmizî, salat; Nesaî, eimme; iftitah; tatbik; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel, II",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (689) Sahih Muslim (411)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 211
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 601,
+      "arabicnumber": 601,
+      "text": "Enes b. Malik (r.a.) demiştir ki; Resul-i Ekrem (Sallallahu aleyhi ve Sellem) bir at'a binmişti. At'tan düştü de sağ tarafı berelendi. Namazlardan birini oturarak kıldı. Biz de arkasında oturarak namazımızı kıldık. Namaz bitince; \"İmam ancak kendisine uyulmak içindir. O namazı ayakta kılınca, siz de ayakta kılınız. O ruku'a vardığı zaman siz de ruku'a varınız. O başını kaldırdı mı siz de kaldırınız. \"Semiallahü limen-hamideh\" deyince siz de \"Rabbena ve leke'l-hamd\" deyiniz. Namazı oturarak kıldığı zaman siz de hep beraber oturarak kılınız\" buyurdu. Diğer tahric: Buharî. salat ezan, taksîrü's-salat; sehv; Merza; Müslim, salai; Tirmizî, salat; Nesaî, eimme; iftitah; tatbik; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel, II",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (689) Sahih Muslim (411)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 211
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"39": "Kafalah"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 2290,
-				"hadithnumber_last": 2298,
-				"arabicnumber_first": 2290,
-				"arabicnumber_last": 2298
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2294,
-			"arabicnumber": 2294,
-			"text": "Asım şöyle nakletmiştir: Enes İbn Malik'e, \"Sana, Resulullah'ın, \"İslam'da kabileler arası yapılan andıaşmalar (hilf) yoktur\" buyurduğu haberi ulaştı mı?\" diye sordum. Enes bana, \"Resulullah Sallallahu Aleyhi ve Sellem, Kureyş kabilesi ile Ensar arasında benim evimde kabile anlaşması (hilf) yaptı\" diye cevap verdi. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "39": "Kafalet"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 2290,
+        "hadithnumber_last": 2298,
+        "arabicnumber_first": 2290,
+        "arabicnumber_last": 2298
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2294,
+      "arabicnumber": 2294,
+      "text": "Asım şöyle nakletmiştir: Enes İbn Malik'e, \"Sana, Resulullah'ın, \"İslam'da kabileler arası yapılan andıaşmalar (hilf) yoktur\" buyurduğu haberi ulaştı mı?\" diye sordum. Enes bana, \"Resulullah Sallallahu Aleyhi ve Sellem, Kureyş kabilesi ile Ensar arasında benim evimde kabile anlaşması (hilf) yaptı\" diye cevap verdi. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 5
+      }
+    }
+  ]
 }

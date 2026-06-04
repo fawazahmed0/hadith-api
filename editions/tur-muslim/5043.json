@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"34": "The Book of Hunting, Slaughter, and what may be Eaten"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4972,
-				"hadithnumber_last": 5063,
-				"arabicnumber_first": 1929.01,
-				"arabicnumber_last": 1959
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5043,
-			"arabicnumber": "1951.01",
-			"text": "Bana Muhammed b. Musenna rivayet etti. (Dediki): Bize îbni Ebi Adiyy Dâvud'dan, o da Ebû Nadra'dan, o da Ebû Saîd'den naklen rivayet etti. Şöyle demiş: Bir adam: Ya Resûlallah! Biz keleri çok bir yerdeyiz, şimdi bize ne emir buyurursun, yahut bize ne fetva verirsin? dedi. «Bana anlatıldığına göre Benî isrâîlden bir Ümmetin suretleri değiştirilmiştir» buyurdu. Fakat ne emretti ne de yasak etti. Ebû Saâd Demişki: Bundan bir kaç zaman sonra Ömer şunu söyledi: «Şüphesiz ki Allah azze ve celle onunla bir çok insanları fâidelendirir, o umumiyetle şu çobanların yiyeceğidir. Yanımda olsaydı ondan mutlaka yerdim. Resûlullah (Sallallahu Aleyhi ve Sellem) sadece ondan iğrenmiştir.»",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 72
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "34": "Av, Kesilen Ve Eti Yenen Hayvanlar Bahsi"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4972,
+        "hadithnumber_last": 5063,
+        "arabicnumber_first": 1929.01,
+        "arabicnumber_last": 1959
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5043,
+      "arabicnumber": "1951.01",
+      "text": "Bana Muhammed b. Musenna rivayet etti. (Dediki): Bize îbni Ebi Adiyy Dâvud'dan, o da Ebû Nadra'dan, o da Ebû Saîd'den naklen rivayet etti. Şöyle demiş: Bir adam: Ya Resûlallah! Biz keleri çok bir yerdeyiz, şimdi bize ne emir buyurursun, yahut bize ne fetva verirsin? dedi. «Bana anlatıldığına göre Benî isrâîlden bir Ümmetin suretleri değiştirilmiştir» buyurdu. Fakat ne emretti ne de yasak etti. Ebû Saâd Demişki: Bundan bir kaç zaman sonra Ömer şunu söyledi: «Şüphesiz ki Allah azze ve celle onunla bir çok insanları fâidelendirir, o umumiyetle şu çobanların yiyeceğidir. Yanımda olsaydı ondan mutlaka yerdim. Resûlullah (Sallallahu Aleyhi ve Sellem) sadece ondan iğrenmiştir.»",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 72
+      }
+    }
+  ]
 }

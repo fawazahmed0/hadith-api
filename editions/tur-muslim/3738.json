@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"18": "The Book of Divorce "
-		},
-		"section_detail": {
-			"18": {
-				"hadithnumber_first": 3652,
-				"hadithnumber_last": 3742,
-				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3738,
-			"arabicnumber": "1490.04",
-			"text": "{…} Bize Ebû'r-Rabî' rivayet etti. (Dediki): Bize Hammâd, Eyyûb'dan naklen rivayet etti. H. Bize İbni Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Ubeydullah rivayet etti. Bu râvîler hep birden Nâfi'den, o da Safiyye binti Ebî Ubeyd'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'in zevcelerinden birinden, o da Nebi (Sallallahu Aleyhi ve Sellem) den naklen yukarikilerin hadîsi mânâsında rivayette bulunmuşlardır. İzah için burayı tıklayarak 938 nolu sayfanın devam sayfasına gidin",
-			"grades": [],
-			"reference": {
-				"book": 18,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "18": "Boşama"
+    },
+    "section_detail": {
+      "18": {
+        "hadithnumber_first": 3652,
+        "hadithnumber_last": 3742,
+        "arabicnumber_first": 1471.01,
+        "arabicnumber_last": 1491
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3738,
+      "arabicnumber": "1490.04",
+      "text": "{…} Bize Ebû'r-Rabî' rivayet etti. (Dediki): Bize Hammâd, Eyyûb'dan naklen rivayet etti. H. Bize İbni Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Ubeydullah rivayet etti. Bu râvîler hep birden Nâfi'den, o da Safiyye binti Ebî Ubeyd'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'in zevcelerinden birinden, o da Nebi (Sallallahu Aleyhi ve Sellem) den naklen yukarikilerin hadîsi mânâsında rivayette bulunmuşlardır. İzah için burayı tıklayarak 938 nolu sayfanın devam sayfasına gidin",
+      "grades": [],
+      "reference": {
+        "book": 18,
+        "hadith": 83
+      }
+    }
+  ]
 }

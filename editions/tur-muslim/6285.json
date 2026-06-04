@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6285,
-			"arabicnumber": "2439.01",
-			"text": "Bize Ebû Bekr b. Ebi Şeybe rivayet etti. (Dediki): Ebû Seleme'den hadis rivayet ettiğim kitabımda şunu buldum: Bize Hişâm rivayet etti. H. Bize Ebû Kureyb Muhammed b. Ala' da rivayet etti. (Dediki): Bize Ebû Usâme Hişâm'dan, o da babasından, o da Âişe'den naklen rivayet etti. (Şöyle demiş): Bana Resûlullah (Sallallahu Aleyhi ve Sellem): «Ben senin benden razı olduğun ve bana dargın bulunduğun zamanı pekâla bilirim.» dedi. Ben: — Bunu nerden biliyorsun? dedim. «Benden razı isen, hayır Muhammed'in Rabbi hakkı için; dargınsan, hayır İbrahim'in Rabbi hakkı için diyorsun.» buyurdu. Ben: — Evet! Vallahi yâ Resûlallah! Ben yalnız senin ismini bırakıyorum, dedim",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 115
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6285,
+      "arabicnumber": "2439.01",
+      "text": "Bize Ebû Bekr b. Ebi Şeybe rivayet etti. (Dediki): Ebû Seleme'den hadis rivayet ettiğim kitabımda şunu buldum: Bize Hişâm rivayet etti. H. Bize Ebû Kureyb Muhammed b. Ala' da rivayet etti. (Dediki): Bize Ebû Usâme Hişâm'dan, o da babasından, o da Âişe'den naklen rivayet etti. (Şöyle demiş): Bana Resûlullah (Sallallahu Aleyhi ve Sellem): «Ben senin benden razı olduğun ve bana dargın bulunduğun zamanı pekâla bilirim.» dedi. Ben: — Bunu nerden biliyorsun? dedim. «Benden razı isen, hayır Muhammed'in Rabbi hakkı için; dargınsan, hayır İbrahim'in Rabbi hakkı için diyorsun.» buyurdu. Ben: — Evet! Vallahi yâ Resûlallah! Ben yalnız senin ismini bırakıyorum, dedim",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 115
+      }
+    }
+  ]
 }

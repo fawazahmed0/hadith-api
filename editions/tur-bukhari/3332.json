@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"60": "Prophets"
-		},
-		"section_detail": {
-			"60": {
-				"hadithnumber_first": 3326,
-				"hadithnumber_last": 3488,
-				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3332,
-			"arabicnumber": 3332,
-			"text": "Abdullah dedi ki: Hem doğru sözlü, hem doğru sözlülüğü tasdik edilmiş bulunan Resulullah Sallallahu Aleyhi ve Sellem bize şunu anlattı: \"Her biriniz annesinin karnında (nutfe olarak) kırk gün süreyle kalır. Bundan sonra bir o kadar süre alaka olarak kalır, bundan sonra bir o kadar süre mudğa (bir çiğnemlik et) kalır. Daha sonra Allah ona şu dört hususu yazmakla görevli bir melek gönderir: Ameli, eceli ve rızkı, bedbaht mı yoksa bahtiyar mı olacağı yazılır. Sonra ona ruh üflenir. Hiç şüphesiz kişi cehennem ehlinin ameli ile amel eder, durur ve nihayet kendisi ile cehennem arasında bir arşınlık mesafe kalır, fakat kitap (takdir edilen) onun hakkında öne geçer, bu sebeple o da cennetliklerin ameli ile amel eder ve cennete girer ve şüphesiz (bir başka) adam cennetliklerin ameli ile amel eder ve nihayet kendisi ile cennet arasında ancak bir arşınlık mesafe kalmışken onun hakkında kitap (takdir) öne geçer ve o da cehennem ehlinin ameliyle amel eder, sonunda cehenneme girer",
-			"grades": [],
-			"reference": {
-				"book": 60,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "60": "Peygamberlerin Haberleri"
+    },
+    "section_detail": {
+      "60": {
+        "hadithnumber_first": 3326,
+        "hadithnumber_last": 3488,
+        "arabicnumber_first": 3326,
+        "arabicnumber_last": 3488
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3332,
+      "arabicnumber": 3332,
+      "text": "Abdullah dedi ki: Hem doğru sözlü, hem doğru sözlülüğü tasdik edilmiş bulunan Resulullah Sallallahu Aleyhi ve Sellem bize şunu anlattı: \"Her biriniz annesinin karnında (nutfe olarak) kırk gün süreyle kalır. Bundan sonra bir o kadar süre alaka olarak kalır, bundan sonra bir o kadar süre mudğa (bir çiğnemlik et) kalır. Daha sonra Allah ona şu dört hususu yazmakla görevli bir melek gönderir: Ameli, eceli ve rızkı, bedbaht mı yoksa bahtiyar mı olacağı yazılır. Sonra ona ruh üflenir. Hiç şüphesiz kişi cehennem ehlinin ameli ile amel eder, durur ve nihayet kendisi ile cehennem arasında bir arşınlık mesafe kalır, fakat kitap (takdir edilen) onun hakkında öne geçer, bu sebeple o da cennetliklerin ameli ile amel eder ve cennete girer ve şüphesiz (bir başka) adam cennetliklerin ameli ile amel eder ve nihayet kendisi ile cennet arasında ancak bir arşınlık mesafe kalmışken onun hakkında kitap (takdir) öne geçer ve o da cehennem ehlinin ameliyle amel eder, sonunda cehenneme girer",
+      "grades": [],
+      "reference": {
+        "book": 60,
+        "hadith": 7
+      }
+    }
+  ]
 }

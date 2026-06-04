@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"74": "Drinks"
-		},
-		"section_detail": {
-			"74": {
-				"hadithnumber_first": 5575,
-				"hadithnumber_last": 5639,
-				"arabicnumber_first": 5575,
-				"arabicnumber_last": 5639
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5582,
-			"arabicnumber": 5582,
-			"text": "Enes b. Malik r.a.'dan, dedi ki: \"Ebu Ubeyde'ye, Ebu Talha'ya ve Ubey b. Ka'b'a zehv denilen hurma koruğu ile kuru hurmadan yapılan içkiyi dağıtıyordum. Yanlarına birisi gelerek: İçki haram kılındı, dedi. Ebu Talha bunun üzerine: Kalk ey Enes, onu dök, dedi. Ben de onu döktüm",
-			"grades": [],
-			"reference": {
-				"book": 74,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "74": "İçecek Şeyler"
+    },
+    "section_detail": {
+      "74": {
+        "hadithnumber_first": 5575,
+        "hadithnumber_last": 5639,
+        "arabicnumber_first": 5575,
+        "arabicnumber_last": 5639
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5582,
+      "arabicnumber": 5582,
+      "text": "Enes b. Malik r.a.'dan, dedi ki: \"Ebu Ubeyde'ye, Ebu Talha'ya ve Ubey b. Ka'b'a zehv denilen hurma koruğu ile kuru hurmadan yapılan içkiyi dağıtıyordum. Yanlarına birisi gelerek: İçki haram kılındı, dedi. Ebu Talha bunun üzerine: Kalk ey Enes, onu dök, dedi. Ben de onu döktüm",
+      "grades": [],
+      "reference": {
+        "book": 74,
+        "hadith": 8
+      }
+    }
+  ]
 }

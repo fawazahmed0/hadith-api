@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"29": "The Book of Legal Punishments"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 4398,
-				"hadithnumber_last": 4469,
-				"arabicnumber_first": 1684.01,
-				"arabicnumber_last": 1710.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4409,
-			"arabicnumber": "1687.02",
-			"text": "{…} Bize Amrû'n-Nâkıd ile ishâk b. İbrahim ve Aliy b. Haşrem hep birden îsâ b. Yûnus'dan, o da A'meş'den naklen bu isnâdla bu hadîsin mislini rivayet ettiler. Yalnız o: «Bir ip çalsa... ve bir yumurta çalsa...» diyormuş. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 29,
-				"hadith": 12
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "29": "Hudûd"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 4398,
+        "hadithnumber_last": 4469,
+        "arabicnumber_first": 1684.01,
+        "arabicnumber_last": 1710.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4409,
+      "arabicnumber": "1687.02",
+      "text": "{…} Bize Amrû'n-Nâkıd ile ishâk b. İbrahim ve Aliy b. Haşrem hep birden îsâ b. Yûnus'dan, o da A'meş'den naklen bu isnâdla bu hadîsin mislini rivayet ettiler. Yalnız o: «Bir ip çalsa... ve bir yumurta çalsa...» diyormuş. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 29,
+        "hadith": 12
+      }
+    }
+  ]
 }

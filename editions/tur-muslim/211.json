@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 211,
-			"arabicnumber": "59.01",
-			"text": "Bize Yahya b. Eyyub ile Kuteybü'bnü Saîd rivayet etti­ler; lafız Yahya'nındır. Dediler ki: Bize İsmail b. Ca'fer rivayet etti. Dedi ki: Bana Ebu Süheyl, Nafi b. Malik b. Ebî Amir'den o da babasından, o da Ebu Hüreyre'den naklen haber verdi ki, Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Münafığın alametleri üçtür: Konuşursa yalan söyler, söz verirse sözünde durmaz, ona emanet verilirse (emanete) hainlik eder. \" Diğer tahric: Buhari, 33, 2536, 2598, 5744; Tirmizi, 2631; Nesai, 5036; Tuhfetu'l-Eşraf, 14341 A.DAVUDOĞLU İZAHI İÇİN buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 117
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 211,
+      "arabicnumber": "59.01",
+      "text": "Bize Yahya b. Eyyub ile Kuteybü'bnü Saîd rivayet etti­ler; lafız Yahya'nındır. Dediler ki: Bize İsmail b. Ca'fer rivayet etti. Dedi ki: Bana Ebu Süheyl, Nafi b. Malik b. Ebî Amir'den o da babasından, o da Ebu Hüreyre'den naklen haber verdi ki, Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Münafığın alametleri üçtür: Konuşursa yalan söyler, söz verirse sözünde durmaz, ona emanet verilirse (emanete) hainlik eder. \" Diğer tahric: Buhari, 33, 2536, 2598, 5744; Tirmizi, 2631; Nesai, 5036; Tuhfetu'l-Eşraf, 14341 A.DAVUDOĞLU İZAHI İÇİN buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 117
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2136,
-			"arabicnumber": "923.02",
-			"text": "{…} Bize Muhammedü'bnü Abdillah b. Nûmey rivayet etti. (dediki): Bize ibni Fudayl rivayet etti. H. Bize Ebû Bekir b. Ebi Şeybe de rivayet etti. (dediki): Bize Ebû Muâviye rivayet etti. Bu râvîler toptan Âsım-ı Ahvel'den bu isnâdla rivayette bulunmuşlardır. Şu kadar ki Hammâd'ın hadîsi daha tamam ve daha uzundur. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 14
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2136,
+      "arabicnumber": "923.02",
+      "text": "{…} Bize Muhammedü'bnü Abdillah b. Nûmey rivayet etti. (dediki): Bize ibni Fudayl rivayet etti. H. Bize Ebû Bekir b. Ebi Şeybe de rivayet etti. (dediki): Bize Ebû Muâviye rivayet etti. Bu râvîler toptan Âsım-ı Ahvel'den bu isnâdla rivayette bulunmuşlardır. Şu kadar ki Hammâd'ın hadîsi daha tamam ve daha uzundur. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 14
+      }
+    }
+  ]
 }

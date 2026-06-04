@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 885,
-			"arabicnumber": 885,
-			"text": "Abbas bin Abdulmuttalib (r.a.)'den rivayet edildiğine göre kendisi; Resulullah (Salluilahıı Aleyhi ve Sellem)'den şunu buyururken işitmiştir : «Kul, secde ettiği zaman onunla beraber yedi uzuv secde eder: (etmelidir.) Yüzü, el avuçları, diz kapakları ve ayakları.» Bu Hadis'i: Ahmed ve Buhari hariç, Kütüb•i Sitte sahibIeri rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 885,
+      "arabicnumber": 885,
+      "text": "Abbas bin Abdulmuttalib (r.a.)'den rivayet edildiğine göre kendisi; Resulullah (Salluilahıı Aleyhi ve Sellem)'den şunu buyururken işitmiştir : «Kul, secde ettiği zaman onunla beraber yedi uzuv secde eder: (etmelidir.) Yüzü, el avuçları, diz kapakları ve ayakları.» Bu Hadis'i: Ahmed ve Buhari hariç, Kütüb•i Sitte sahibIeri rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 83
+      }
+    }
+  ]
 }

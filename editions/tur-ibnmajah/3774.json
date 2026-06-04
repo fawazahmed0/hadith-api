@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3774,
-			"arabicnumber": 3774,
-			"text": "Câbir (r.a.)'den rivayet edildiğine güre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: (Mürekkeple yazdığınız) sahifelerinizin üzerine toprak serpiniz. Sahifeler'in mürekkebinin dağılmaması) için en verimli yöntem budur. Çünkü toprak mübarektir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Very Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 118
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3774,
+      "arabicnumber": 3774,
+      "text": "Câbir (r.a.)'den rivayet edildiğine güre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: (Mürekkeple yazdığınız) sahifelerinizin üzerine toprak serpiniz. Sahifeler'in mürekkebinin dağılmaması) için en verimli yöntem budur. Çünkü toprak mübarektir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 118
+      }
+    }
+  ]
 }

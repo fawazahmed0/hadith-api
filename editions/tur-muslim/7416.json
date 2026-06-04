@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7416,
-			"arabicnumber": "2955.03",
-			"text": "Bize Muhammed b. Râfi' rivayet etti. (Dediki): Bize Abdûrrezzâk rivayet etti. (Dediki): Bize Ma'mer, Hemmâm b. Münebbih'den rivayet etti. Hemmâm: Bize Ebû Hureyre'nin Resulullah (Sallallahu Aleyhi ve Sellem)'den rivayet ettikleri şunlardır... diyerek bir takım hadîsler zikretmiştir. Onlardan biri de şudur: Resulullah (Sallallahu Aleyhi ve Sellem) : «Gerçekten insanda bîr kemik vardsr ki, onu ebediyyen toprak yemez. Kıyamet gününde insan o kemikte derlenip toplanacaktır.» buyurdu. Ashâb : — Hangi kemiktir o, yâ Resûlallah? diye sordular. «Kuyruk sokumu kemiğidir.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 177
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7416,
+      "arabicnumber": "2955.03",
+      "text": "Bize Muhammed b. Râfi' rivayet etti. (Dediki): Bize Abdûrrezzâk rivayet etti. (Dediki): Bize Ma'mer, Hemmâm b. Münebbih'den rivayet etti. Hemmâm: Bize Ebû Hureyre'nin Resulullah (Sallallahu Aleyhi ve Sellem)'den rivayet ettikleri şunlardır... diyerek bir takım hadîsler zikretmiştir. Onlardan biri de şudur: Resulullah (Sallallahu Aleyhi ve Sellem) : «Gerçekten insanda bîr kemik vardsr ki, onu ebediyyen toprak yemez. Kıyamet gününde insan o kemikte derlenip toplanacaktır.» buyurdu. Ashâb : — Hangi kemiktir o, yâ Resûlallah? diye sordular. «Kuyruk sokumu kemiğidir.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 177
+      }
+    }
+  ]
 }

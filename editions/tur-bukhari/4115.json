@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4115,
-			"arabicnumber": 4115,
-			"text": "Abdullah b. Ebi Evfa r.a. dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem, Ahzaba beddua ederek şöyle buyurdu: اللهم منزل الكتاب، سريع الحساب، اهزم الأحزاب، اللهم اهزمهم وزلزلهم Ey kitabı indiren, hesabı pek çabuk gören Allah'ım! Ahzab'ı bozguna uğrat! Allah'ım, onları bozguna uğrat ve onları sarstıkça sars",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 159
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4115,
+      "arabicnumber": 4115,
+      "text": "Abdullah b. Ebi Evfa r.a. dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem, Ahzaba beddua ederek şöyle buyurdu: اللهم منزل الكتاب، سريع الحساب، اهزم الأحزاب، اللهم اهزمهم وزلزلهم Ey kitabı indiren, hesabı pek çabuk gören Allah'ım! Ahzab'ı bozguna uğrat! Allah'ım, onları bozguna uğrat ve onları sarstıkça sars",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 159
+      }
+    }
+  ]
 }

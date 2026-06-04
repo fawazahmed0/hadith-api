@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 190,
-			"arabicnumber": 190,
-			"text": "Ali (radıyallahü anh) anlatıyor: Rasûlüllah (sallallahü aleyhi ve sellem)’e geldim ve: Ebû Talib öldü) dedim. (Git onu defnet) buyurdu. (Ama o müşrik olarak öldü) dedim. Yine: onu defnet) buyurdu. Ebû Talib’i defnedip yanına geldiğimde: buyurdu. (Ebû Dâvûd, Cenaiz:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 191
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 190,
+      "arabicnumber": 190,
+      "text": "Ali (radıyallahü anh) anlatıyor: Rasûlüllah (sallallahü aleyhi ve sellem)’e geldim ve: Ebû Talib öldü) dedim. (Git onu defnet) buyurdu. (Ama o müşrik olarak öldü) dedim. Yine: onu defnet) buyurdu. Ebû Talib’i defnedip yanına geldiğimde: buyurdu. (Ebû Dâvûd, Cenaiz:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 191
+      }
+    }
+  ]
 }

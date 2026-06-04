@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1721,
-				"hadithnumber_last": 2045,
-				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1830,
-			"arabicnumber": 1830,
-			"text": "Mü'minlerin annesi Âişe (r.anhâ) dedi ki: Biz Peygamber (S.A.V.)'le birlikte Mekke'ye (gitmek üzere yola) çıkmıştık. îhrama gireceğimizde alınlarımıza kokulu madde(ler) sürdük. Birimiz terlediği zaman kokulu madde yüzüne akardı. Nebi (S.A.V.), bunu görürdü de o kimseyi (bu kokuyu sürünmekten) nehyetmezdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 110
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "11": "Hac Bölümü"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1721,
+        "hadithnumber_last": 2045,
+        "arabicnumber_first": 1721,
+        "arabicnumber_last": 2045
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1830,
+      "arabicnumber": 1830,
+      "text": "Mü'minlerin annesi Âişe (r.anhâ) dedi ki: Biz Peygamber (S.A.V.)'le birlikte Mekke'ye (gitmek üzere yola) çıkmıştık. îhrama gireceğimizde alınlarımıza kokulu madde(ler) sürdük. Birimiz terlediği zaman kokulu madde yüzüne akardı. Nebi (S.A.V.), bunu görürdü de o kimseyi (bu kokuyu sürünmekten) nehyetmezdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 110
+      }
+    }
+  ]
 }

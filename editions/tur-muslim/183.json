@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"1": "The Book of Faith"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 93,
-				"hadithnumber_last": 533,
-				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 183,
-			"arabicnumber": "52.02",
-			"text": "Bize Muhammed b. el-Müsenna tahdis etti. Bize İbn Ebu Adiyy tahdis etti. (H) Bana Amr en-Nakid de tahdis etti. Bize İshak b. Yusuf el-Ezrak tahdis etti. Her ikisi (Amr ile İshak), İbn Avn'dan, o Muhammed'den, o Ebu Hureyre' den şöyle dediğini nakletti: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu deyip, hadisi aynen zikretti. Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf",
-			"grades": [],
-			"reference": {
-				"book": 1,
-				"hadith": 90
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "1": "Îmân"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 93,
+        "hadithnumber_last": 533,
+        "arabicnumber_first": 8.01,
+        "arabicnumber_last": 222.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 183,
+      "arabicnumber": "52.02",
+      "text": "Bize Muhammed b. el-Müsenna tahdis etti. Bize İbn Ebu Adiyy tahdis etti. (H) Bana Amr en-Nakid de tahdis etti. Bize İshak b. Yusuf el-Ezrak tahdis etti. Her ikisi (Amr ile İshak), İbn Avn'dan, o Muhammed'den, o Ebu Hureyre' den şöyle dediğini nakletti: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu deyip, hadisi aynen zikretti. Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf",
+      "grades": [],
+      "reference": {
+        "book": 1,
+        "hadith": 90
+      }
+    }
+  ]
 }

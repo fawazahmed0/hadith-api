@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6255,
-			"arabicnumber": "2420.02",
-			"text": "{m-55} Bize İshâk b. İbrahim rivayet etti. (Dediki): Bize Ebû Dâvud El-Haferi haber verdi. (Dediki): Bize Süfyân, Ebu İshâk'dan bu isnadla bu hadisin benzerini rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 85
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6255,
+      "arabicnumber": "2420.02",
+      "text": "{m-55} Bize İshâk b. İbrahim rivayet etti. (Dediki): Bize Ebû Dâvud El-Haferi haber verdi. (Dediki): Bize Süfyân, Ebu İshâk'dan bu isnadla bu hadisin benzerini rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 85
+      }
+    }
+  ]
 }

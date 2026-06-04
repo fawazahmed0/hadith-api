@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"42": "Drinks"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 1537,
-				"hadithnumber_last": 1551,
-				"arabicnumber_first": 1537,
-				"arabicnumber_last": 1551
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1546,
-			"arabicnumber": 1546,
-			"text": "Ata b. Yesar'dan: Resulullah Sallallahu Aleyhi ve Sellem'e ğubeyra’ (darı şırası) nın hükmü sorulunca: «Onda hayır yoktur» dedi ve içilmesini yasakladı. İmam Malik der ki: Zeyd b. Eslem'e: «— Gubeyra' nedir?» diye sordum da: «— Uskerke (Habeşlilerin darıdan yaptıkları bir çeşit şarap)» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih Lighairihi"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "42": "İçecekler ve İçkiler"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 1537,
+        "hadithnumber_last": 1551,
+        "arabicnumber_first": 1537,
+        "arabicnumber_last": 1551
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1546,
+      "arabicnumber": 1546,
+      "text": "Ata b. Yesar'dan: Resulullah Sallallahu Aleyhi ve Sellem'e ğubeyra’ (darı şırası) nın hükmü sorulunca: «Onda hayır yoktur» dedi ve içilmesini yasakladı. İmam Malik der ki: Zeyd b. Eslem'e: «— Gubeyra' nedir?» diye sordum da: «— Uskerke (Habeşlilerin darıdan yaptıkları bir çeşit şarap)» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih Lighairihi"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 10
+      }
+    }
+  ]
 }

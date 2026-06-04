@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1157,
-			"arabicnumber": 1157,
-			"text": "Ebu Eyyub (el-Ensari) (r.a.)'den: şöyle demiştir : Nebi (Sallallahu Aleyhi ve Sellem), öğle vakti girince öğle namazının farzından önce dört rek'at (namaz) kılardı, dört rek'at'ın arasında selam vermezdi. Ve şöyle buyurdu : «Güneş, göğ'ün ortasından batıya kaydığı zaman şüphesiz sema'nın kapıları (o dört rek'at için) açılır.»",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 355
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1157,
+      "arabicnumber": 1157,
+      "text": "Ebu Eyyub (el-Ensari) (r.a.)'den: şöyle demiştir : Nebi (Sallallahu Aleyhi ve Sellem), öğle vakti girince öğle namazının farzından önce dört rek'at (namaz) kılardı, dört rek'at'ın arasında selam vermezdi. Ve şöyle buyurdu : «Güneş, göğ'ün ortasından batıya kaydığı zaman şüphesiz sema'nın kapıları (o dört rek'at için) açılır.»",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 355
+      }
+    }
+  ]
 }

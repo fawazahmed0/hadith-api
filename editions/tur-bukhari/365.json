@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"8": "Prayers (Salat)"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 349,
-				"hadithnumber_last": 520,
-				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 365,
-			"arabicnumber": 365,
-			"text": "Ebu Hureyre'den şöyle nakledilmiştir: \"Adamın biri Nebi s.a.v.'e gelip bir tek elbise ile namaz kılmanın hükmünü sordu. Allah Resulü (Sallallahu aleyhi ve Sellem): 'Hanginiz iki elbise bulabiliyorsunuz' buyurdu. Sonra adam, Hz. Ömer'e aynı soruyu sordu. O da şöyle cevap verdi: Allah'ın size verdiği imkanlara göre hareket edin: Elbiselerinizi üzerinize alın. İzarı ve ridası olan, bunlarla; izarı ve gömleği olan bunlarla, izarı ve kaftanı olan, bunlarla, uzun paçalı donu (sirval) ve ridası olan bunlarla, uzun paçalı donu ve gömleği olan bunlarla; uzun paçalı donu ve kaftanı olan bunlarla, paçasız donu ve uzun gömleği olan bunlarla namaz kılsın. Ebu Hureyre demiştir ki: Zannımca Hz. Ömer, 'paçasız donu ve ridası olan bunlarla namaz kılsın' da dedi",
-			"grades": [],
-			"reference": {
-				"book": 8,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "8": "Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 349,
+        "hadithnumber_last": 520,
+        "arabicnumber_first": 349,
+        "arabicnumber_last": 520
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 365,
+      "arabicnumber": 365,
+      "text": "Ebu Hureyre'den şöyle nakledilmiştir: \"Adamın biri Nebi s.a.v.'e gelip bir tek elbise ile namaz kılmanın hükmünü sordu. Allah Resulü (Sallallahu aleyhi ve Sellem): 'Hanginiz iki elbise bulabiliyorsunuz' buyurdu. Sonra adam, Hz. Ömer'e aynı soruyu sordu. O da şöyle cevap verdi: Allah'ın size verdiği imkanlara göre hareket edin: Elbiselerinizi üzerinize alın. İzarı ve ridası olan, bunlarla; izarı ve gömleği olan bunlarla, izarı ve kaftanı olan, bunlarla, uzun paçalı donu (sirval) ve ridası olan bunlarla, uzun paçalı donu ve gömleği olan bunlarla; uzun paçalı donu ve kaftanı olan bunlarla, paçasız donu ve uzun gömleği olan bunlarla namaz kılsın. Ebu Hureyre demiştir ki: Zannımca Hz. Ömer, 'paçasız donu ve ridası olan bunlarla namaz kılsın' da dedi",
+      "grades": [],
+      "reference": {
+        "book": 8,
+        "hadith": 17
+      }
+    }
+  ]
 }

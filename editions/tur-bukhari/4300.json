@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4300,
-			"arabicnumber": 4300,
-			"text": "İbn Şihab: \"Nebi Sallallahu Aleyhi ve Sellem'in Fetih yılı yüzünü sıvazladığı kişi olan Abdullah b. Sa'lebe b. Suayr bana haber verdi. .. \" dedi. Bu Hadis 6356 numara ile gelecektir",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 333
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4300,
+      "arabicnumber": 4300,
+      "text": "İbn Şihab: \"Nebi Sallallahu Aleyhi ve Sellem'in Fetih yılı yüzünü sıvazladığı kişi olan Abdullah b. Sa'lebe b. Suayr bana haber verdi. .. \" dedi. Bu Hadis 6356 numara ile gelecektir",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 333
+      }
+    }
+  ]
 }

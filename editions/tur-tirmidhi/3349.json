@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"47": "Chapters on Tafsir"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 2950,
-				"hadithnumber_last": 3723,
-				"arabicnumber_first": 2950,
-				"arabicnumber_last": 3723
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3349,
-			"arabicnumber": 3349,
-			"text": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Nebi (s.a.v), namaz kılmakta idi Ebû Cehil geldi ve, “Seni bu işten yasaklamamış mıydım? Seni bu işten yasaklamamış mıydım?” dedi. Rasûlullah (s.a.v.), namazı bitirince Ebû Cehil’e sert davrandı. Bunun üzerine: “Ebû Cehil’i sen gayet iyi bilirsin ki Mekke’de benim meclisimden daha kalabalık bir meclis yoktur” dedi. Bunun üzerine Allah, Alak sûresi 17-18. ayetlerini indirdi: “17) Artık o yandaşlarını çağırsın da yardım istesin. 18) Biz de azâb meleklerimiz olan zebanileri çağıracağız.”",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 47,
-				"hadith": 401
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "47": "Kur'ân'ın Tefsiri"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 2950,
+        "hadithnumber_last": 3723,
+        "arabicnumber_first": 2950,
+        "arabicnumber_last": 3723
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3349,
+      "arabicnumber": 3349,
+      "text": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Nebi (s.a.v), namaz kılmakta idi Ebû Cehil geldi ve, “Seni bu işten yasaklamamış mıydım? Seni bu işten yasaklamamış mıydım?” dedi. Rasûlullah (s.a.v.), namazı bitirince Ebû Cehil’e sert davrandı. Bunun üzerine: “Ebû Cehil’i sen gayet iyi bilirsin ki Mekke’de benim meclisimden daha kalabalık bir meclis yoktur” dedi. Bunun üzerine Allah, Alak sûresi 17-18. ayetlerini indirdi: “17) Artık o yandaşlarını çağırsın da yardım istesin. 18) Biz de azâb meleklerimiz olan zebanileri çağıracağız.”",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 47,
+        "hadith": 401
+      }
+    }
+  ]
 }

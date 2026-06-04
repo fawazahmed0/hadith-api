@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"16": "The Book of Marriage"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 388,
-				"hadithnumber_last": 3567,
-				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3535,
-			"arabicnumber": "1435.01",
-			"text": "Bize Kuteybetü'bnu Saîd, Ebu Bekr b. Ebî Şeybe ve Amru'n-Nâkıd rivayet ettiler. Lâfız Ebu Bekr'indir. (Dedilerki): Bize Süfyân, ibni'l-Münkedir'den rivayet etti. O da Câbir'i şunu söylerken işitmiş: Yahudiler: Bir adam karısının fercine arkasından cima' ederse çocuk şaşı gözlü olur; derlerdi. Sonra : «Kadınlarınız sizin tarlanızdır. imdi tarlanıza nereden isterseniz gidin) [ Bakara 223 ] âyet-i kerîmesi indi",
-			"grades": [],
-			"reference": {
-				"book": 16,
-				"hadith": 137
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "16": "Nikâh"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 388,
+        "hadithnumber_last": 3567,
+        "arabicnumber_first": 1400.01,
+        "arabicnumber_last": 1443
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3535,
+      "arabicnumber": "1435.01",
+      "text": "Bize Kuteybetü'bnu Saîd, Ebu Bekr b. Ebî Şeybe ve Amru'n-Nâkıd rivayet ettiler. Lâfız Ebu Bekr'indir. (Dedilerki): Bize Süfyân, ibni'l-Münkedir'den rivayet etti. O da Câbir'i şunu söylerken işitmiş: Yahudiler: Bir adam karısının fercine arkasından cima' ederse çocuk şaşı gözlü olur; derlerdi. Sonra : «Kadınlarınız sizin tarlanızdır. imdi tarlanıza nereden isterseniz gidin) [ Bakara 223 ] âyet-i kerîmesi indi",
+      "grades": [],
+      "reference": {
+        "book": 16,
+        "hadith": 137
+      }
+    }
+  ]
 }

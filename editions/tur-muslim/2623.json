@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2623,
-			"arabicnumber": "1119.02",
-			"text": "Bize Ebû Kureyb rivayet etti, (Dediki) Bize Hafs, Asım-ı Ahvel'den, o da Müverrîk'den o da Enes (Radiyallahu anh) 'dan naklen rivayet etti. Enes şöyle demiş : Resûlulllah (Sallallahu Aleyhi ve Sellem) bir seferde idî. Ashabından) bâzısı oruç tuttu, bâzısı tutmadı. Tutmayanlar akıllılık ettiler ve iş gördüler. Oruçlular ise bazı işleri görmekten âciz kaldılar. Bu babdâ Resulullah (Sallallahu Aleyhi ve Sellem): — «Bugün oruç tutmayanlar ecri alıp gittiler.» buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 129
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2623,
+      "arabicnumber": "1119.02",
+      "text": "Bize Ebû Kureyb rivayet etti, (Dediki) Bize Hafs, Asım-ı Ahvel'den, o da Müverrîk'den o da Enes (Radiyallahu anh) 'dan naklen rivayet etti. Enes şöyle demiş : Resûlulllah (Sallallahu Aleyhi ve Sellem) bir seferde idî. Ashabından) bâzısı oruç tuttu, bâzısı tutmadı. Tutmayanlar akıllılık ettiler ve iş gördüler. Oruçlular ise bazı işleri görmekten âciz kaldılar. Bu babdâ Resulullah (Sallallahu Aleyhi ve Sellem): — «Bugün oruç tutmayanlar ecri alıp gittiler.» buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 129
+      }
+    }
+  ]
 }

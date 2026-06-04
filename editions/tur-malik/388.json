@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"9": "Shortening the Prayer"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 326,
-				"hadithnumber_last": 427,
-				"arabicnumber_first": 326,
-				"arabicnumber_last": 427
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 388,
-			"arabicnumber": 388,
-			"text": "Ebu Katade el-Ensariden: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Herhangi biriniz mescide girdiği zaman oturmadan önce iki rekat namaz (tahiyyetül mescid) kılsın.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "9": "Seferde Namazları Kısaltma"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 326,
+        "hadithnumber_last": 427,
+        "arabicnumber_first": 326,
+        "arabicnumber_last": 427
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 388,
+      "arabicnumber": 388,
+      "text": "Ebu Katade el-Ensariden: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Herhangi biriniz mescide girdiği zaman oturmadan önce iki rekat namaz (tahiyyetül mescid) kılsın.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 63
+      }
+    }
+  ]
 }

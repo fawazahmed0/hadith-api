@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5098,
-			"arabicnumber": 5098,
-			"text": "Nebi (s.a.v.)'in zevcesi Hz. Âişe'den demiştir ki: Ben Rasûlullah (s.a.v.)'i küçük dilini görebileceğim şekilde gülerken asla görmedim. Çünkü o sadece gülümserdi. Bir bulut yada rüzgâr gördüğü zaman bu(nun verdiği sıkıntı) yüzünden belli olurdu. Bu sebeple ben (birgün kendisine): Ey Allah'ın Resulü, halk bir bulut gördükleri zaman onda yağmur bulunduğu ümidiyle sevinirler. Oysa onu gördüğün zaman senin yüzünde bir rahatsızlık (alameti) görüyorum (bunun hikmeti nedir?) diye sordum da: Ey Âişe! O bulutta (helak edecek) bir azab bulunmadığından beni hangi şey emin kılabilir? Oysa (geçmişte) bir kavim rüzgârla helak edilmiştir, yine (geçmişte) başka bir kavim de azab (taşıyan bulutları) görmüş de: Bu (ufukta beliren) bize yağmur getirici bir buluttur\" (Ahkaf 24) demişlerdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (4828) Sahih Muslim (899)"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 326
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5098,
+      "arabicnumber": 5098,
+      "text": "Nebi (s.a.v.)'in zevcesi Hz. Âişe'den demiştir ki: Ben Rasûlullah (s.a.v.)'i küçük dilini görebileceğim şekilde gülerken asla görmedim. Çünkü o sadece gülümserdi. Bir bulut yada rüzgâr gördüğü zaman bu(nun verdiği sıkıntı) yüzünden belli olurdu. Bu sebeple ben (birgün kendisine): Ey Allah'ın Resulü, halk bir bulut gördükleri zaman onda yağmur bulunduğu ümidiyle sevinirler. Oysa onu gördüğün zaman senin yüzünde bir rahatsızlık (alameti) görüyorum (bunun hikmeti nedir?) diye sordum da: Ey Âişe! O bulutta (helak edecek) bir azab bulunmadığından beni hangi şey emin kılabilir? Oysa (geçmişte) bir kavim rüzgârla helak edilmiştir, yine (geçmişte) başka bir kavim de azab (taşıyan bulutları) görmüş de: Bu (ufukta beliren) bize yağmur getirici bir buluttur\" (Ahkaf 24) demişlerdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4828) Sahih Muslim (899)"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 326
+      }
+    }
+  ]
 }

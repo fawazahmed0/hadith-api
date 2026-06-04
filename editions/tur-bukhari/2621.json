@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"51": "Gifts"
-		},
-		"section_detail": {
-			"51": {
-				"hadithnumber_first": 2566,
-				"hadithnumber_last": 2636,
-				"arabicnumber_first": 2566,
-				"arabicnumber_last": 2636
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2621,
-			"arabicnumber": 2621,
-			"text": "Abdullah b. Abbas r.a.'tan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Yaptığı bağıştan dönen kişi, kustuğunu yiyen gibidir",
-			"grades": [],
-			"reference": {
-				"book": 51,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "51": "Hibe, Hibenin Fazîleti ve Hibeye Teşvik"
+    },
+    "section_detail": {
+      "51": {
+        "hadithnumber_first": 2566,
+        "hadithnumber_last": 2636,
+        "arabicnumber_first": 2566,
+        "arabicnumber_last": 2636
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2621,
+      "arabicnumber": 2621,
+      "text": "Abdullah b. Abbas r.a.'tan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Yaptığı bağıştan dönen kişi, kustuğunu yiyen gibidir",
+      "grades": [],
+      "reference": {
+        "book": 51,
+        "hadith": 53
+      }
+    }
+  ]
 }

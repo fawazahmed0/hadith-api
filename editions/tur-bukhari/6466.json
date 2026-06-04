@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6466,
-			"arabicnumber": 6466,
-			"text": "Alkame şöyle anlatmıştır: Ben mu'minlerin anası Aişe r.anha'ya: \"Ey mu'minlerin anası! Nebi Sallallahu Aleyhi ve Sellem'in ameli nasıl idi? O herhangi bir şeyi günlerden birine tahsis eder miydi?\" diye sordum. Aişe: \"Hayır, tahsis etmezdi. Onun ameli devamlı olurdu. Sizin hanginiz Nebi Sallallahu Aleyhi ve Sellem'in güç yetirmekte olduğu kadar amele güç yetirebilir?\" dedi",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 55
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6466,
+      "arabicnumber": 6466,
+      "text": "Alkame şöyle anlatmıştır: Ben mu'minlerin anası Aişe r.anha'ya: \"Ey mu'minlerin anası! Nebi Sallallahu Aleyhi ve Sellem'in ameli nasıl idi? O herhangi bir şeyi günlerden birine tahsis eder miydi?\" diye sordum. Aişe: \"Hayır, tahsis etmezdi. Onun ameli devamlı olurdu. Sizin hanginiz Nebi Sallallahu Aleyhi ve Sellem'in güç yetirmekte olduğu kadar amele güç yetirebilir?\" dedi",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 55
+      }
+    }
+  ]
 }

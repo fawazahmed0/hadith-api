@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"46": "Oppressions"
-		},
-		"section_detail": {
-			"46": {
-				"hadithnumber_first": 2440,
-				"hadithnumber_last": 2482,
-				"arabicnumber_first": 2440,
-				"arabicnumber_last": 2482
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2469,
-			"arabicnumber": 2469,
-			"text": "Enes r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem hanımlarına bir ay yaklaşmamak için lla yemini etmiş ve ayağını onların evinden çekmişti. Bir çardakta oturmuştu. Ömer geldi ve \"Hanımlarını boşadın mı?\" diye sordu. \"Hayır ama onlara bir ay yaklaşmamak için yemin ettim\" buyurdu. Yirmi dokuz gün orada kaldı. Sonra indi ve hanımlarının yanına girdi",
-			"grades": [],
-			"reference": {
-				"book": 46,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "46": "Zulümler ve Gasb"
+    },
+    "section_detail": {
+      "46": {
+        "hadithnumber_first": 2440,
+        "hadithnumber_last": 2482,
+        "arabicnumber_first": 2440,
+        "arabicnumber_last": 2482
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2469,
+      "arabicnumber": 2469,
+      "text": "Enes r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem hanımlarına bir ay yaklaşmamak için lla yemini etmiş ve ayağını onların evinden çekmişti. Bir çardakta oturmuştu. Ömer geldi ve \"Hanımlarını boşadın mı?\" diye sordu. \"Hayır ama onlara bir ay yaklaşmamak için yemin ettim\" buyurdu. Yirmi dokuz gün orada kaldı. Sonra indi ve hanımlarının yanına girdi",
+      "grades": [],
+      "reference": {
+        "book": 46,
+        "hadith": 30
+      }
+    }
+  ]
 }

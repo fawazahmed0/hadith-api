@@ -1,37 +1,37 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"35": "Combing the Hair (Kitab Al-Tarajjul)"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 4159,
-				"hadithnumber_last": 4213,
-				"arabicnumber_first": 4159,
-				"arabicnumber_last": 4213
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4171,
-			"arabicnumber": 4171,
-			"text": "Said b. Cübeyr (r.a) \"karmellerle (saçı ulamakta) mahzur yoktur.\" demiştir. Ebû Davûd der ki: \"Galiba Saîd b. Cübeyr, yasak olanın kadınların saçları olduğu görüşündedir.\" Ahmed (b. Hanbel) de \"karmellerdc (saçı ulamakta) mahzur yoktur\" derdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif Maqtu"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 35,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "35": "Saçı Tarayıp Düzeltmek"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 4159,
+        "hadithnumber_last": 4213,
+        "arabicnumber_first": 4159,
+        "arabicnumber_last": 4213
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4171,
+      "arabicnumber": 4171,
+      "text": "Said b. Cübeyr (r.a) \"karmellerle (saçı ulamakta) mahzur yoktur.\" demiştir. Ebû Davûd der ki: \"Galiba Saîd b. Cübeyr, yasak olanın kadınların saçları olduğu görüşündedir.\" Ahmed (b. Hanbel) de \"karmellerdc (saçı ulamakta) mahzur yoktur\" derdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Maqtu"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 35,
+        "hadith": 13
+      }
+    }
+  ]
 }

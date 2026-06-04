@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2346,
-			"arabicnumber": "1015",
-			"text": "Bana Ebu Kureyb Muhammed b. Ala' rivayet etti. (Dediki): Bize Fudayl b. Merzuk rivayet etti. (Dediki): Bana Adiyy b. Sabit, Ebu Hâzim'den, o da Ebu Hureyre'den naklen rivayet etti. Ebu Hureyre (r.a.) şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem): «Ey İnsanlar! Şüphesiz ki Allah, Tayyibdir. Tayyîb'den başka bir şey kabûl etmez. Allah, mü'minlere de Resullere emrettiği şeyleri emir ederek: (Ey Resuller! Helâl olan şeylerden yiyin ve sâlih amellerde bulunun. Çünkü ben. Sizin yaptıklarınızı pekala bilirim [Mu'minin 51] (Başka bir âyette): (Ey iman edenler! Size verdiğimiz rızıkların helâl hoş olanlarından yiyin. [Bakara 172] buyurmuştur.» dedi. Sonra şunları söyledi: Bir kimse (Hak yolunda) uzun sefere çıkar, saçları dağılmış, toza toprağa bulanmış bir hâlde ellerini semâya uzatarak: Yâ Rabbî, yâ Rabbî! diye duâ eder. Hâlbuki yediği haram, içtiği haram, giydiği haram (hâsılı) kendisi haramla beslenmiş olursa böylesinin duası nasıl kabul edilir?»",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 83
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2346,
+      "arabicnumber": "1015",
+      "text": "Bana Ebu Kureyb Muhammed b. Ala' rivayet etti. (Dediki): Bize Fudayl b. Merzuk rivayet etti. (Dediki): Bana Adiyy b. Sabit, Ebu Hâzim'den, o da Ebu Hureyre'den naklen rivayet etti. Ebu Hureyre (r.a.) şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem): «Ey İnsanlar! Şüphesiz ki Allah, Tayyibdir. Tayyîb'den başka bir şey kabûl etmez. Allah, mü'minlere de Resullere emrettiği şeyleri emir ederek: (Ey Resuller! Helâl olan şeylerden yiyin ve sâlih amellerde bulunun. Çünkü ben. Sizin yaptıklarınızı pekala bilirim [Mu'minin 51] (Başka bir âyette): (Ey iman edenler! Size verdiğimiz rızıkların helâl hoş olanlarından yiyin. [Bakara 172] buyurmuştur.» dedi. Sonra şunları söyledi: Bir kimse (Hak yolunda) uzun sefere çıkar, saçları dağılmış, toza toprağa bulanmış bir hâlde ellerini semâya uzatarak: Yâ Rabbî, yâ Rabbî! diye duâ eder. Hâlbuki yediği haram, içtiği haram, giydiği haram (hâsılı) kendisi haramla beslenmiş olursa böylesinin duası nasıl kabul edilir?»",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 83
+      }
+    }
+  ]
 }

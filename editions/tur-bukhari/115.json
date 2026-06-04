@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"3": "Knowledge"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 59,
-				"hadithnumber_last": 134,
-				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 115,
-			"arabicnumber": 115,
-			"text": "Hind, Ümmü Seleme'den şunu rivayet etmiştir: Nebi (Sallallahu aleyhi ve Sellem) bir gece uyanarak: \"Sübhanallah! Bu gece ne fitneler indirildi! Ne hazineler açıldı! sahiplerini (hanımlarımı) kaldırın. Dünyada nice giyinik olan (kadın) âhirette çıplaktır. Tekrar: 1126, 3599, 5844, 6218, 7069 Bu hadisi Tirmizi Fiten de tahric etti ve ‘Bu hadis hasen sahihtir.’ Dedi",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "3": "İlim"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 59,
+        "hadithnumber_last": 134,
+        "arabicnumber_first": 59,
+        "arabicnumber_last": 134
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 115,
+      "arabicnumber": 115,
+      "text": "Hind, Ümmü Seleme'den şunu rivayet etmiştir: Nebi (Sallallahu aleyhi ve Sellem) bir gece uyanarak: \"Sübhanallah! Bu gece ne fitneler indirildi! Ne hazineler açıldı! sahiplerini (hanımlarımı) kaldırın. Dünyada nice giyinik olan (kadın) âhirette çıplaktır. Tekrar: 1126, 3599, 5844, 6218, 7069 Bu hadisi Tirmizi Fiten de tahric etti ve ‘Bu hadis hasen sahihtir.’ Dedi",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 57
+      }
+    }
+  ]
 }

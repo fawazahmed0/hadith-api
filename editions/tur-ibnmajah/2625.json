@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"21": "The Chapters on Blood Money"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 2615,
-				"hadithnumber_last": 2694,
-				"arabicnumber_first": 2615,
-				"arabicnumber_last": 2694
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2625,
-			"arabicnumber": 2625,
-			"text": "Zeyd bin (Sa'd bin) Dumayra (r.a.)'den; Şöyle demiştir: Babam (Sa'd) ve amcam bana (şu) hadisi anlattılar. —İkisi de Resulullah (Sallallahu Aleyhi ve Sellem) 'in beraberinde Huneyn savaşına katılmışlar idi. — İkisi dediler ki: Nebi (Sallallahu Aleyhi ve Sellem) bize öğle namazını kıldırdı. Sonra bir ağacın altında oturdu. Hındıf kabilesi başkanı el-Akra' bin Habis O'nun huzuruna çıkarak (katil durumundaki) Muhallim bin Cessâme'nin kanını (yâni öldürülmemesini) savunmaya başladı. Uyeyne bin Hısn da ayağa kalkarak (maktul) Âmir bin el-Edbat'ın kanını taleb etmeye başladı. (Maktul) Âmir el-Eşca' kabilesinden idi. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem) maktulün adamlarına: «Diyeti kabul ediyor (mu) sunuz?» buyurdu. Adam!ar (bundan) imtina ettiler (ve katili öldürmek istediler.) Sonra Benî Leys kabilesinden Mükeytil denilen bir adam ayağa kalkarak: Yâ Resûlallah Allah'a yemin ederim ki, ben İslâmiyet'in ilk günlerinde öldürülen bu maktul (un kan durumun) u ancak (şöyle olan) bir koyun sürüsü (nün hâli) ne benzetirim-. Sürü su içmeye gelir de (baş kısmı) taşlanıp kovalanır, taşlanmayanı da (korkup) kaçar, (yâni ibret için katil öldürülmelidir), dedi. Sonra Nebi (Sallallahu Aleyhi ve Sellem) (maktulün velîlerine): «Size elli (deve) bu yolculuğumuzda (peşin), elli (deve) de (Medîne-i Münevvere'ye) döndüğümüz zaman (diyet olarak verilsin)-buyurdu. Onlar da diyeti kabul ettiler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 21,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "21": "Diyet-Kısas Kitabı"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 2615,
+        "hadithnumber_last": 2694,
+        "arabicnumber_first": 2615,
+        "arabicnumber_last": 2694
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2625,
+      "arabicnumber": 2625,
+      "text": "Zeyd bin (Sa'd bin) Dumayra (r.a.)'den; Şöyle demiştir: Babam (Sa'd) ve amcam bana (şu) hadisi anlattılar. —İkisi de Resulullah (Sallallahu Aleyhi ve Sellem) 'in beraberinde Huneyn savaşına katılmışlar idi. — İkisi dediler ki: Nebi (Sallallahu Aleyhi ve Sellem) bize öğle namazını kıldırdı. Sonra bir ağacın altında oturdu. Hındıf kabilesi başkanı el-Akra' bin Habis O'nun huzuruna çıkarak (katil durumundaki) Muhallim bin Cessâme'nin kanını (yâni öldürülmemesini) savunmaya başladı. Uyeyne bin Hısn da ayağa kalkarak (maktul) Âmir bin el-Edbat'ın kanını taleb etmeye başladı. (Maktul) Âmir el-Eşca' kabilesinden idi. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem) maktulün adamlarına: «Diyeti kabul ediyor (mu) sunuz?» buyurdu. Adam!ar (bundan) imtina ettiler (ve katili öldürmek istediler.) Sonra Benî Leys kabilesinden Mükeytil denilen bir adam ayağa kalkarak: Yâ Resûlallah Allah'a yemin ederim ki, ben İslâmiyet'in ilk günlerinde öldürülen bu maktul (un kan durumun) u ancak (şöyle olan) bir koyun sürüsü (nün hâli) ne benzetirim-. Sürü su içmeye gelir de (baş kısmı) taşlanıp kovalanır, taşlanmayanı da (korkup) kaçar, (yâni ibret için katil öldürülmelidir), dedi. Sonra Nebi (Sallallahu Aleyhi ve Sellem) (maktulün velîlerine): «Size elli (deve) bu yolculuğumuzda (peşin), elli (deve) de (Medîne-i Münevvere'ye) döndüğümüz zaman (diyet olarak verilsin)-buyurdu. Onlar da diyeti kabul ettiler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 21,
+        "hadith": 11
+      }
+    }
+  ]
 }

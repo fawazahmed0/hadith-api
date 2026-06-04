@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"3": "The Book of Menstruation"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 679,
-				"hadithnumber_last": 836,
-				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 774,
-			"arabicnumber": "342",
-			"text": "Bize Şeyban b. Ferruh ile Abdullah b. Muhammed b. Esma ed-Dubaî rivayet ettiler. Dedilerki: Bize Mehdî -ki İbni Meymun'dur- rivayet etti, (Dediki): Bize Muhammed b. Abdillah b. Ebi Yakup Hasan b. Alî'nin azadlısı, Hasan b. Sa'd'dan, o da Abdullah b. Ca'fer'den naklen rivayet etti. Demiş ki: Birgün Resulullah (Sallallahu Aleyhi ve Sellem) beni terkisine aldı. Bana sır olarak öyle bir söz soylediki ben onu insanlardan hiç bir kimseye söylemem. Resulullah (Sallallahu Aleyhi ve Sellem)'in def-i hacet için, kendisi ile siperlenmeyi en sevdiği şey ya bir tepecik yahut hurmalık idi. İbni Esma kendi rivayetinde «Yani bir hurma bahçesi» dedi",
-			"grades": [],
-			"reference": {
-				"book": 3,
-				"hadith": 96
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "3": "Hayz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 679,
+        "hadithnumber_last": 836,
+        "arabicnumber_first": 293.01,
+        "arabicnumber_last": 376.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 774,
+      "arabicnumber": "342",
+      "text": "Bize Şeyban b. Ferruh ile Abdullah b. Muhammed b. Esma ed-Dubaî rivayet ettiler. Dedilerki: Bize Mehdî -ki İbni Meymun'dur- rivayet etti, (Dediki): Bize Muhammed b. Abdillah b. Ebi Yakup Hasan b. Alî'nin azadlısı, Hasan b. Sa'd'dan, o da Abdullah b. Ca'fer'den naklen rivayet etti. Demiş ki: Birgün Resulullah (Sallallahu Aleyhi ve Sellem) beni terkisine aldı. Bana sır olarak öyle bir söz soylediki ben onu insanlardan hiç bir kimseye söylemem. Resulullah (Sallallahu Aleyhi ve Sellem)'in def-i hacet için, kendisi ile siperlenmeyi en sevdiği şey ya bir tepecik yahut hurmalık idi. İbni Esma kendi rivayetinde «Yani bir hurma bahçesi» dedi",
+      "grades": [],
+      "reference": {
+        "book": 3,
+        "hadith": 96
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"31": "Chapters on Medicine"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 3436,
-				"hadithnumber_last": 3549,
-				"arabicnumber_first": 3436,
-				"arabicnumber_last": 3549
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3473,
-			"arabicnumber": 3473,
-			"text": "Râfi bin Hadîc (r.a.)'den; Şöyle demiştir: Ben, Nebi (Sallallahu Aleyhi ve Sellem)'den: «Humma cehennemin hararetinin şiddetindendır. Siz onu su ile soğutunuz» buyruğunu işittim. Sonra Nebi (Sallallahu Aleyhi ve Sellem) Ammâr'ın (hasta olan) bir oğlunun yanına girdi ve: «Şu hasta'nın hastalığını gider, şifâ ver. Ey insanların Rabbi, ey insanların ilâhı» diye duâ etti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 31,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "31": "Tıp Kitabı"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 3436,
+        "hadithnumber_last": 3549,
+        "arabicnumber_first": 3436,
+        "arabicnumber_last": 3549
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3473,
+      "arabicnumber": 3473,
+      "text": "Râfi bin Hadîc (r.a.)'den; Şöyle demiştir: Ben, Nebi (Sallallahu Aleyhi ve Sellem)'den: «Humma cehennemin hararetinin şiddetindendır. Siz onu su ile soğutunuz» buyruğunu işittim. Sonra Nebi (Sallallahu Aleyhi ve Sellem) Ammâr'ın (hasta olan) bir oğlunun yanına girdi ve: «Şu hasta'nın hastalığını gider, şifâ ver. Ey insanların Rabbi, ey insanların ilâhı» diye duâ etti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 31,
+        "hadith": 38
+      }
+    }
+  ]
 }

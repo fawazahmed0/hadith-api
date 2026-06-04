@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 782,
-			"arabicnumber": 782,
-			"text": "Enes (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) Ebu Bekr, Ömer ve Osman (namazda) kıraata El-hamdulillahi rabbil alemin ile başlarlardı. Diğer tahric: Buharî, ezan; Tirmızî, Mevakît; îbn Ma'ce İkame, Müslim, salat; Darımî, salat; Ahmed b. Hanbel, III",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (743) Sahih Muslim (399)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 392
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 782,
+      "arabicnumber": 782,
+      "text": "Enes (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) Ebu Bekr, Ömer ve Osman (namazda) kıraata El-hamdulillahi rabbil alemin ile başlarlardı. Diğer tahric: Buharî, ezan; Tirmızî, Mevakît; îbn Ma'ce İkame, Müslim, salat; Darımî, salat; Ahmed b. Hanbel, III",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (743) Sahih Muslim (399)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 392
+      }
+    }
+  ]
 }

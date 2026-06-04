@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"89": "(Statements made under) Coercion"
-		},
-		"section_detail": {
-			"89": {
-				"hadithnumber_first": 6940,
-				"hadithnumber_last": 6952,
-				"arabicnumber_first": 6940,
-				"arabicnumber_last": 6952
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6948,
-			"arabicnumber": 6948,
-			"text": "İbn Abbas \"Ey iman edenler! Kadınlara zorla varis olmanız size helal değildir\"(Nisa 19) ayet-i kerimesinin nüzul sebebi hakkında şu açıklamayı yapmıştır: İslam'dan önce Arapların adeti şuydu: Bir erkek öldüğünde onun yakınları karısına, herkesten daha çok hak sahibi idi. İsterlerse aralarından biri o kadınla evlenir, isterlerse onu başkasıyla evlendirirler, dilerlerse o kadını kimseyle evlendirmezlerdi. Onlar bu kadın hakkında onun ailesinden daha çok söz sahibi idiler. İşte bu ayet, bu hususta indi. Fethu'l-Bari Açıklaması: \"Bir çeşit zorlama.\" İbn Battal'ın nakline göre Mühelleb şöyle demiştir: Bu başlıktan anlaşılan şudur: Kim bir kadını onun mirasına tamah ederek ölünceye kadar nikahı altında tutarsa bu miras Kur'an ayetiyle ona helal değildir. Ayetin mirasın helalolmadığı yolundaki bu ifadesi, zahiri hükme göre erkeğin ondan miras almasının sahih olmamasını gerektirmez",
-			"grades": [],
-			"reference": {
-				"book": 89,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "89": "İnsanın İstemediği Şeye Zorlanması"
+    },
+    "section_detail": {
+      "89": {
+        "hadithnumber_first": 6940,
+        "hadithnumber_last": 6952,
+        "arabicnumber_first": 6940,
+        "arabicnumber_last": 6952
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6948,
+      "arabicnumber": 6948,
+      "text": "İbn Abbas \"Ey iman edenler! Kadınlara zorla varis olmanız size helal değildir\"(Nisa 19) ayet-i kerimesinin nüzul sebebi hakkında şu açıklamayı yapmıştır: İslam'dan önce Arapların adeti şuydu: Bir erkek öldüğünde onun yakınları karısına, herkesten daha çok hak sahibi idi. İsterlerse aralarından biri o kadınla evlenir, isterlerse onu başkasıyla evlendirirler, dilerlerse o kadını kimseyle evlendirmezlerdi. Onlar bu kadın hakkında onun ailesinden daha çok söz sahibi idiler. İşte bu ayet, bu hususta indi. Fethu'l-Bari Açıklaması: \"Bir çeşit zorlama.\" İbn Battal'ın nakline göre Mühelleb şöyle demiştir: Bu başlıktan anlaşılan şudur: Kim bir kadını onun mirasına tamah ederek ölünceye kadar nikahı altında tutarsa bu miras Kur'an ayetiyle ona helal değildir. Ayetin mirasın helalolmadığı yolundaki bu ifadesi, zahiri hükme göre erkeğin ondan miras almasının sahih olmamasını gerektirmez",
+      "grades": [],
+      "reference": {
+        "book": 89,
+        "hadith": 9
+      }
+    }
+  ]
 }

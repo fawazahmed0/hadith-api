@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"11": "The Book on Marriage"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 1080,
-				"hadithnumber_last": 1145,
-				"arabicnumber_first": 1080,
-				"arabicnumber_last": 1145
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1132,
-			"arabicnumber": 1132,
-			"text": "Ebû Saîd el Hudrî (r.a.)’den rivâyete göre, şöyle demiştir: Evtas gazvesinde payımıza düşen esir kadınların kendi kocaları vardı. Bu durum Rasûlullah (s.a.v.)’e bildirildi de Nisa: 24. ayeti nazil oldu: “Savaşta esir olarak elinize geçen cariyeler dışında tüm evli kadınlarla evlenmeniz de Allah’ın yasasıyla size haram kılınmıştır…” Diğer tahric: Ebû Dâvûd, Nikah Tirmîzî: Bu hadis hasendir. Sevrî bu hadisi Osman el Bettî’den, Ebûl Halil ve Ebû Saîd’den rivâyet etmiştir. Ebûl Halil’in ismi Salih b. ebî Meryem’dir. Hemmâm bu hadisi Katâde’den, Salih b. ebî Halil’den, Ebû Alkame el Haşimî’den ve Ebû Saîd’den rivâyet etmiştir. Bu şekilde Abd b. Humeyd bize Hemmâm’dan ve Habban b. Hilâl’den aktarmıştır",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 11,
-				"hadith": 54
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "11": "Nikah Bölümleri"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 1080,
+        "hadithnumber_last": 1145,
+        "arabicnumber_first": 1080,
+        "arabicnumber_last": 1145
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1132,
+      "arabicnumber": 1132,
+      "text": "Ebû Saîd el Hudrî (r.a.)’den rivâyete göre, şöyle demiştir: Evtas gazvesinde payımıza düşen esir kadınların kendi kocaları vardı. Bu durum Rasûlullah (s.a.v.)’e bildirildi de Nisa: 24. ayeti nazil oldu: “Savaşta esir olarak elinize geçen cariyeler dışında tüm evli kadınlarla evlenmeniz de Allah’ın yasasıyla size haram kılınmıştır…” Diğer tahric: Ebû Dâvûd, Nikah Tirmîzî: Bu hadis hasendir. Sevrî bu hadisi Osman el Bettî’den, Ebûl Halil ve Ebû Saîd’den rivâyet etmiştir. Ebûl Halil’in ismi Salih b. ebî Meryem’dir. Hemmâm bu hadisi Katâde’den, Salih b. ebî Halil’den, Ebû Alkame el Haşimî’den ve Ebû Saîd’den rivâyet etmiştir. Bu şekilde Abd b. Humeyd bize Hemmâm’dan ve Habban b. Hilâl’den aktarmıştır",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 11,
+        "hadith": 54
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"15": "The Qur'an"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 470,
-				"hadithnumber_last": 519,
-				"arabicnumber_first": 470,
-				"arabicnumber_last": 519
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 510,
-			"arabicnumber": 510,
-			"text": "İmam Malik'ten: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Her kim insanları hidayete çağırırsa, ona tabi olanların ecri kadar ecir alır. Kendisine verilen bu sevap, ötekilerin sevabından hiçbir şey eksiltmez. Herkim de bir sapıklığa çağırırsa, buna tabi olanların günahı kadar kendisine de günah verilir. Bu, onların günahlarından hiçbir şey eksiltmez.» Ebu Hureyre'den merfu olarak gelmiştir. Müslim, ilim",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih Lighairihi"
-				}
-			],
-			"reference": {
-				"book": 15,
-				"hadith": 41
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "15": "Kur'an-ı Kerîm"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 470,
+        "hadithnumber_last": 519,
+        "arabicnumber_first": 470,
+        "arabicnumber_last": 519
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 510,
+      "arabicnumber": 510,
+      "text": "İmam Malik'ten: Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: «Her kim insanları hidayete çağırırsa, ona tabi olanların ecri kadar ecir alır. Kendisine verilen bu sevap, ötekilerin sevabından hiçbir şey eksiltmez. Herkim de bir sapıklığa çağırırsa, buna tabi olanların günahı kadar kendisine de günah verilir. Bu, onların günahlarından hiçbir şey eksiltmez.» Ebu Hureyre'den merfu olarak gelmiştir. Müslim, ilim",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih Lighairihi"
+        }
+      ],
+      "reference": {
+        "book": 15,
+        "hadith": 41
+      }
+    }
+  ]
 }

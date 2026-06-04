@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"11": "The Book of Prayer - Funerals"
-		},
-		"section_detail": {
-			"11": {
-				"hadithnumber_first": 2123,
-				"hadithnumber_last": 2262,
-				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2214,
-			"arabicnumber": "955",
-			"text": "Bana İbrahim b. Muhammed b. Ar'arate's–Sâmî rivayet etti. (dediki): Bize Gunder rivayet etti. (dediki): Bize Şu'be, Habib b. Şehid'den, o da Sâbit'den, o da Enes'den naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ve Sellem) bir kabir üzerine cenaze namazı kılmış",
-			"grades": [],
-			"reference": {
-				"book": 11,
-				"hadith": 92
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "11": "Cenazeler"
+    },
+    "section_detail": {
+      "11": {
+        "hadithnumber_first": 2123,
+        "hadithnumber_last": 2262,
+        "arabicnumber_first": 916.01,
+        "arabicnumber_last": 978
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2214,
+      "arabicnumber": "955",
+      "text": "Bana İbrahim b. Muhammed b. Ar'arate's–Sâmî rivayet etti. (dediki): Bize Gunder rivayet etti. (dediki): Bize Şu'be, Habib b. Şehid'den, o da Sâbit'den, o da Enes'den naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ve Sellem) bir kabir üzerine cenaze namazı kılmış",
+      "grades": [],
+      "reference": {
+        "book": 11,
+        "hadith": 92
+      }
+    }
+  ]
 }

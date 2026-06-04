@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"36": "The Book of Drinks"
-		},
-		"section_detail": {
-			"36": {
-				"hadithnumber_first": 5114,
-				"hadithnumber_last": 5383,
-				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5338,
-			"arabicnumber": "2047.01",
-			"text": "Bize Abdullah b. Mesleme b. Ka'neb rivayet etti. (Dediki): Bize Süleyman (yâni İbni Bilâl) Abdullah b. Abdirrahman'dan, o da Âmir b. Sa'd b. Ebî Vakkas'dan, o da babasından naklen rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem): «Her kim sabahladığı vakit Medine'nin iki taşlığı arasında yedi hurma yerse, akşamlayıncaya kadar ona zehir zarar vermez.» buyurmuşlar",
-			"grades": [],
-			"reference": {
-				"book": 36,
-				"hadith": 212
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "36": "İçkiler"
+    },
+    "section_detail": {
+      "36": {
+        "hadithnumber_first": 5114,
+        "hadithnumber_last": 5383,
+        "arabicnumber_first": 1979.02,
+        "arabicnumber_last": 2064.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5338,
+      "arabicnumber": "2047.01",
+      "text": "Bize Abdullah b. Mesleme b. Ka'neb rivayet etti. (Dediki): Bize Süleyman (yâni İbni Bilâl) Abdullah b. Abdirrahman'dan, o da Âmir b. Sa'd b. Ebî Vakkas'dan, o da babasından naklen rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem): «Her kim sabahladığı vakit Medine'nin iki taşlığı arasında yedi hurma yerse, akşamlayıncaya kadar ona zehir zarar vermez.» buyurmuşlar",
+      "grades": [],
+      "reference": {
+        "book": 36,
+        "hadith": 212
+      }
+    }
+  ]
 }

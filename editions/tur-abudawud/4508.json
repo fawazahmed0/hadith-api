@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"41": "Types of Blood-Wit (Kitab Al-Diyat)"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 4494,
-				"hadithnumber_last": 4595,
-				"arabicnumber_first": 4494,
-				"arabicnumber_last": 4595
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4508,
-			"arabicnumber": 4508,
-			"text": "Hişam b. Zeyd'in rivayet ettiğine göre; Enes b. Mâlik (r.a) (şöyle demiştir): Yahudi bir kadın, Rasûlullah (s.a.v)'e zehirli bir koyun getirdi, Rasûlullah ondan yedi. (Bilâhere) kadın getirildi. Rasûlullah (s.a.v) kadın'a bunu niçin yaptığını sordu. Seni öldürmek istedim, dedi. Rasûlullah (s.a.v): \"Allah seni bu işe -veya: benim üzerime-[Şek râvidendir] musallat etmez\" buyurdu. Sahabeler: Onu öldürmeyelim mi? dediler. Rasûlullah (s.a.v): \"Hayır\" cevâbını verdi. Enes derki: Ben onu (zehrin alametini) Rasûlullah'ın boğazının sonundaki etlerde gördüm durdum",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (2617) Sahih Muslim (2190)"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "41": "Diyetler Bahsi"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 4494,
+        "hadithnumber_last": 4595,
+        "arabicnumber_first": 4494,
+        "arabicnumber_last": 4595
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4508,
+      "arabicnumber": 4508,
+      "text": "Hişam b. Zeyd'in rivayet ettiğine göre; Enes b. Mâlik (r.a) (şöyle demiştir): Yahudi bir kadın, Rasûlullah (s.a.v)'e zehirli bir koyun getirdi, Rasûlullah ondan yedi. (Bilâhere) kadın getirildi. Rasûlullah (s.a.v) kadın'a bunu niçin yaptığını sordu. Seni öldürmek istedim, dedi. Rasûlullah (s.a.v): \"Allah seni bu işe -veya: benim üzerime-[Şek râvidendir] musallat etmez\" buyurdu. Sahabeler: Onu öldürmeyelim mi? dediler. Rasûlullah (s.a.v): \"Hayır\" cevâbını verdi. Enes derki: Ben onu (zehrin alametini) Rasûlullah'ın boğazının sonundaki etlerde gördüm durdum",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2617) Sahih Muslim (2190)"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 15
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"28": "Marriage"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 1091,
-				"hadithnumber_last": 1149,
-				"arabicnumber_first": 1091,
-				"arabicnumber_last": 1149
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1147,
-			"arabicnumber": 1147,
-			"text": "Kasım b. Muhammed ile Urve b. Zübeyr yukardaki fetvayı, Medine'ye geldiği sene Velid b. Abdülmelik hakkında vermişlerdi. Şu kadar var ki, Kasım b. Muhammed: «Velîd karısını muhtelif meclislerde boşadı» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 57
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "28": "Nikâh"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 1091,
+        "hadithnumber_last": 1149,
+        "arabicnumber_first": 1091,
+        "arabicnumber_last": 1149
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1147,
+      "arabicnumber": 1147,
+      "text": "Kasım b. Muhammed ile Urve b. Zübeyr yukardaki fetvayı, Medine'ye geldiği sene Velid b. Abdülmelik hakkında vermişlerdi. Şu kadar var ki, Kasım b. Muhammed: «Velîd karısını muhtelif meclislerde boşadı» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 57
+      }
+    }
+  ]
 }

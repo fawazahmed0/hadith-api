@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"24": "Wages (Kitab Al-Ijarah)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 3416,
-				"hadithnumber_last": 3570,
-				"arabicnumber_first": 3416,
-				"arabicnumber_last": 3570
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3467,
-			"arabicnumber": 3467,
-			"text": "İbn Ömer (r.a.a)'dan rivayet edildiğine göre: Bir adam, birisi ile (muayyen) bir hurma bahçesinin meyvesinde selem akdi yaptı. Fakat bu ağaçlar o sene bir şey vermedi. Bunun üzerine meseleyi Hz. Nebi (s.a.v.)'e götürdüler. Rasûlullah (s.a.v.) şöyle buyurdu: \"Onun malını ne karşılığında helâl ediniyorsun?! Malını (parasını) geri ver. Salâhı görününceye kadar hurmada selem yapmayınız",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 24,
-				"hadith": 52
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "24": "İcare Bölümü"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 3416,
+        "hadithnumber_last": 3570,
+        "arabicnumber_first": 3416,
+        "arabicnumber_last": 3570
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3467,
+      "arabicnumber": 3467,
+      "text": "İbn Ömer (r.a.a)'dan rivayet edildiğine göre: Bir adam, birisi ile (muayyen) bir hurma bahçesinin meyvesinde selem akdi yaptı. Fakat bu ağaçlar o sene bir şey vermedi. Bunun üzerine meseleyi Hz. Nebi (s.a.v.)'e götürdüler. Rasûlullah (s.a.v.) şöyle buyurdu: \"Onun malını ne karşılığında helâl ediniyorsun?! Malını (parasını) geri ver. Salâhı görününceye kadar hurmada selem yapmayınız",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 24,
+        "hadith": 52
+      }
+    }
+  ]
 }

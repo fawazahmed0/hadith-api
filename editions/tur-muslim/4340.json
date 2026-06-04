@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"27": "The Book of Oaths"
-		},
-		"section_detail": {
-			"27": {
-				"hadithnumber_first": 4254,
-				"hadithnumber_last": 4341,
-				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4340,
-			"arabicnumber": "997.05",
-			"text": "{…} Bize Kuteybe b. Saîd ile İbni Rumh, Leys b. Sa'd'dan, o da Ebu'z-Zübeyr'den, o da Câbir'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den müdebber hakkında, Hammâd'ın Amr b. Dinar'dan rivayet ettiği hadis gibi rivayette bulundular",
-			"grades": [],
-			"reference": {
-				"book": 27,
-				"hadith": 87
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "27": "Yeminler"
+    },
+    "section_detail": {
+      "27": {
+        "hadithnumber_first": 4254,
+        "hadithnumber_last": 4341,
+        "arabicnumber_first": 1646.01,
+        "arabicnumber_last": 1668.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4340,
+      "arabicnumber": "997.05",
+      "text": "{…} Bize Kuteybe b. Saîd ile İbni Rumh, Leys b. Sa'd'dan, o da Ebu'z-Zübeyr'den, o da Câbir'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den müdebber hakkında, Hammâd'ın Amr b. Dinar'dan rivayet ettiği hadis gibi rivayette bulundular",
+      "grades": [],
+      "reference": {
+        "book": 27,
+        "hadith": 87
+      }
+    }
+  ]
 }

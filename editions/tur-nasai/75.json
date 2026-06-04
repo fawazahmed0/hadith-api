@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 75,
-			"arabicnumber": 75,
-			"text": "Ömer b. Hattab (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: niyetlere göre değerlendirilir. Herkesin niyet ettiği şey ne ise; eline geçecek olan da odur. Kimin hicreti Allah’a ve Rasûlüne ise artık onun hicreti Allah ve Rasûlüne olmuş olur. Kimin de hicreti dünya için ise, onu elde eder veya bir kadın için hicret etmişse onu nikahlar. Yani herkesin hicreti, hicret ettiği şeyedir.) (Buhârî, İman: 47; Müslim, İmara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 75,
+      "arabicnumber": 75,
+      "text": "Ömer b. Hattab (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: niyetlere göre değerlendirilir. Herkesin niyet ettiği şey ne ise; eline geçecek olan da odur. Kimin hicreti Allah’a ve Rasûlüne ise artık onun hicreti Allah ve Rasûlüne olmuş olur. Kimin de hicreti dünya için ise, onu elde eder veya bir kadın için hicret etmişse onu nikahlar. Yani herkesin hicreti, hicret ettiği şeyedir.) (Buhârî, İman: 47; Müslim, İmara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 75
+      }
+    }
+  ]
 }

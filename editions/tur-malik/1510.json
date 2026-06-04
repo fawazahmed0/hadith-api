@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"41": "Hudud"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 1500,
-				"hadithnumber_last": 1536,
-				"arabicnumber_first": 1500,
-				"arabicnumber_last": 1536
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1510,
-			"arabicnumber": 1510,
-			"text": "",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 11
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "41": "Hudud (Şer'î Cezalar)"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 1500,
+        "hadithnumber_last": 1536,
+        "arabicnumber_first": 1500,
+        "arabicnumber_last": 1536
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1510,
+      "arabicnumber": 1510,
+      "text": "",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 11
+      }
+    }
+  ]
 }

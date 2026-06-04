@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 259,
-			"arabicnumber": 259,
-			"text": "Aişe (r.anha)'dan şöyle demiştir; \"Ben hayızlı iken kemiğin üzerindeki eti ısırıp Nebi (sallallahu aleyhi ve sellem)'e verirdim; O da ağzını benim (ağzımı) koyduğum yere koyar (ısırır)dı. Bir şey içerken de Resulullah (sallellahu aleyhi ve sellem)'e verirdim. O da (içerken) ağzını, benim (ağzımı koyup) içtiğim yere koyardı.\" Diğer tahric: Müslim, hayz; Nesai, tahare; miyah; İbn Mace, tahare; Ahmed b. Hanbel, VI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (300)"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 259
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 259,
+      "arabicnumber": 259,
+      "text": "Aişe (r.anha)'dan şöyle demiştir; \"Ben hayızlı iken kemiğin üzerindeki eti ısırıp Nebi (sallallahu aleyhi ve sellem)'e verirdim; O da ağzını benim (ağzımı) koyduğum yere koyar (ısırır)dı. Bir şey içerken de Resulullah (sallellahu aleyhi ve sellem)'e verirdim. O da (içerken) ağzını, benim (ağzımı koyup) içtiğim yere koyardı.\" Diğer tahric: Müslim, hayz; Nesai, tahare; miyah; İbn Mace, tahare; Ahmed b. Hanbel, VI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (300)"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 259
+      }
+    }
+  ]
 }

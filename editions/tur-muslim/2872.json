@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2872,
-			"arabicnumber": "1199.02",
-			"text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Mâlik'e, Nâfi'den dinlediğim, onun da İbni Ömer (Radiyallahû anhüma)'dan naklen rivayet ettiği şu hadîsi okudum. Resulullah (Sallallahu Aleyhi ve Sellem) «Beş nevi hayvan vardır ki, bunları öldürmekde İhrâmlıya günâh yoktur: Karga, çaylak, akreb, fare ve kuduz köpek.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 82
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2872,
+      "arabicnumber": "1199.02",
+      "text": "Bize Yahya b. Yahya rivayet etti. (Dediki): Mâlik'e, Nâfi'den dinlediğim, onun da İbni Ömer (Radiyallahû anhüma)'dan naklen rivayet ettiği şu hadîsi okudum. Resulullah (Sallallahu Aleyhi ve Sellem) «Beş nevi hayvan vardır ki, bunları öldürmekde İhrâmlıya günâh yoktur: Karga, çaylak, akreb, fare ve kuduz köpek.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 82
+      }
+    }
+  ]
 }

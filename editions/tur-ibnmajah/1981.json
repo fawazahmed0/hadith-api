@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"9": "The Chapters on Marriage"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1845,
-				"hadithnumber_last": 2015,
-				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1981,
-			"arabicnumber": 1981,
-			"text": "Aişe (r.anha)'dan; Şöyle demiştir: Zeyneb (bint-i Cahş (r.anha), benim odama izinsiz ve öfkeli olarak girinceye kadar (Kumalarımın kızdıklarını) bilmiyordum. (Zeyneb) odama girdikten sonra (odamda bulunan) Resulullah (Sallallahu Aleyhi ve Sellem)'e : Ya Resulallah I Ebu Bekir'in kızcağızı senin için kollarını çevirince, (onun yaptığı iş) sana yetiyor mu? dedikten sonra bana yöneldi (aleyhimde atıp tuttu.) Ben (ona cevap vermeyip) ondan vazgeçtim. Nihayet Nebi (Sallallahu Aleyhi ve Sellem) (bana) : «O'nu tutup kendini savun,» buyurunca ben ona yöneldim. Nihayet bana cevap veremez ve tükürüğü ağzında kurumuş vaziyette kendisini gördüm. Resulullah (Sallallahu Aleyhi ve Sellem) 'in de mübarek yüzünün güldüğünü gördüm. Not: Zevald'de şöyle denilmiştJr: Bunun senedi sahih olup ravileri sikadır. Ravi Zekeriyya. bin Zahide de tedlis ederdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 137
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "9": "Nikâh Kitabı"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1845,
+        "hadithnumber_last": 2015,
+        "arabicnumber_first": 1845,
+        "arabicnumber_last": 2015
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1981,
+      "arabicnumber": 1981,
+      "text": "Aişe (r.anha)'dan; Şöyle demiştir: Zeyneb (bint-i Cahş (r.anha), benim odama izinsiz ve öfkeli olarak girinceye kadar (Kumalarımın kızdıklarını) bilmiyordum. (Zeyneb) odama girdikten sonra (odamda bulunan) Resulullah (Sallallahu Aleyhi ve Sellem)'e : Ya Resulallah I Ebu Bekir'in kızcağızı senin için kollarını çevirince, (onun yaptığı iş) sana yetiyor mu? dedikten sonra bana yöneldi (aleyhimde atıp tuttu.) Ben (ona cevap vermeyip) ondan vazgeçtim. Nihayet Nebi (Sallallahu Aleyhi ve Sellem) (bana) : «O'nu tutup kendini savun,» buyurunca ben ona yöneldim. Nihayet bana cevap veremez ve tükürüğü ağzında kurumuş vaziyette kendisini gördüm. Resulullah (Sallallahu Aleyhi ve Sellem) 'in de mübarek yüzünün güldüğünü gördüm. Not: Zevald'de şöyle denilmiştJr: Bunun senedi sahih olup ravileri sikadır. Ravi Zekeriyya. bin Zahide de tedlis ederdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 137
+      }
+    }
+  ]
 }

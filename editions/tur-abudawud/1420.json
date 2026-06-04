@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 1416,
-				"hadithnumber_last": 1555,
-				"arabicnumber_first": 1416,
-				"arabicnumber_last": 1555
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1420,
-			"arabicnumber": 1420,
-			"text": "İbn Muhayriz'den rivayet edildiğine göre; Beni Kinane'den el-Muhdicî demlen bir adam, Şam'da Ebu Muhammed denilen birinin \"şüphesiz vitr vacibtir\" dediğini duydu. el-Muhdici dedi ki: Hemen Ubade b. Samit'e gidip bunu haber verdim. Bunun üzerine Ubade; şöyle dedi: Ebu Muhammed yalan söylemiş. Ben Resulullah Sallallahu Aleyhi ve Sellem'i şöyle buyururken işittim: \"Cenab-ı Allah beş vakit namaz'ı kullara farz kıldı. Her kim bu namazları kılar, hafife alarak onları zayi etmezse Allah'ın onu cennete koyacağına dair va'di vardır. Kim de bu namazları kılmazsa, onun için Allah katında herhangi bir vaad yoktur. Dilerse azab eder, dilerse Cennete koyar.” Diğer tahric: Nesaî, salat; İbn Mace, ikame; Darimî, salat; Muvatta, salatu'l-leyl; Ahmed b. Hanbel, IV, 244; V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "8": "Vitr Bölümü"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 1416,
+        "hadithnumber_last": 1555,
+        "arabicnumber_first": 1416,
+        "arabicnumber_last": 1555
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1420,
+      "arabicnumber": 1420,
+      "text": "İbn Muhayriz'den rivayet edildiğine göre; Beni Kinane'den el-Muhdicî demlen bir adam, Şam'da Ebu Muhammed denilen birinin \"şüphesiz vitr vacibtir\" dediğini duydu. el-Muhdici dedi ki: Hemen Ubade b. Samit'e gidip bunu haber verdim. Bunun üzerine Ubade; şöyle dedi: Ebu Muhammed yalan söylemiş. Ben Resulullah Sallallahu Aleyhi ve Sellem'i şöyle buyururken işittim: \"Cenab-ı Allah beş vakit namaz'ı kullara farz kıldı. Her kim bu namazları kılar, hafife alarak onları zayi etmezse Allah'ın onu cennete koyacağına dair va'di vardır. Kim de bu namazları kılmazsa, onun için Allah katında herhangi bir vaad yoktur. Dilerse azab eder, dilerse Cennete koyar.” Diğer tahric: Nesaî, salat; İbn Mace, ikame; Darimî, salat; Muvatta, salatu'l-leyl; Ahmed b. Hanbel, IV, 244; V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 5
+      }
+    }
+  ]
 }

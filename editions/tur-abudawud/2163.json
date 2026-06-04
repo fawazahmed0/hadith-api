@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"12": "Marriage (Kitab Al-Nikah)"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2046,
-				"hadithnumber_last": 2174,
-				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2163,
-			"arabicnumber": 2163,
-			"text": "Muhammed b. el-Münkedir'den; demiştir ki: \"Ben Cabir'i (şöyle) derken işittim: Yahudiler insan karısına arkadan (yanaşarak) fercinden cima' ederse çocuğu şaşı olur diyorlardı. Sonra Aziz ve Celil olan Allah, \"Kadınlarınız sizin tarlalarınızdır. Tarlanıza istediğiniz yerden giriniz.\" [Bakara 223.] âyet-i kerimesini indirdi. Diğer tahric: Buhari, Tefsir; Müslim, nikah; İbni Mace, nikah (1925); Tirmizî, Tefsir; Darimi, Vudu', nikah; Ahmed b. Hanbel, VI",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (4528) Sahih Muslim (1435)"
-				}
-			],
-			"reference": {
-				"book": 12,
-				"hadith": 118
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "12": "Nikâh Bölümü"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2046,
+        "hadithnumber_last": 2174,
+        "arabicnumber_first": 2046,
+        "arabicnumber_last": 2174
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2163,
+      "arabicnumber": 2163,
+      "text": "Muhammed b. el-Münkedir'den; demiştir ki: \"Ben Cabir'i (şöyle) derken işittim: Yahudiler insan karısına arkadan (yanaşarak) fercinden cima' ederse çocuğu şaşı olur diyorlardı. Sonra Aziz ve Celil olan Allah, \"Kadınlarınız sizin tarlalarınızdır. Tarlanıza istediğiniz yerden giriniz.\" [Bakara 223.] âyet-i kerimesini indirdi. Diğer tahric: Buhari, Tefsir; Müslim, nikah; İbni Mace, nikah (1925); Tirmizî, Tefsir; Darimi, Vudu', nikah; Ahmed b. Hanbel, VI",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4528) Sahih Muslim (1435)"
+        }
+      ],
+      "reference": {
+        "book": 12,
+        "hadith": 118
+      }
+    }
+  ]
 }

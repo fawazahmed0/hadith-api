@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"10": "Call to Prayers (Adhaan)"
-		},
-		"section_detail": {
-			"10": {
-				"hadithnumber_first": 603,
-				"hadithnumber_last": 875,
-				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 625,
-			"arabicnumber": 625,
-			"text": "Enes bin Malik (r.a.)'den şöyle nakledilmiştir: \"Müezzin ezan okuduğu zaman ashabın ileri gelenleri mescid'in sütunlarına karşı namaz kılmak üzere yarışırcasına harekete geçerdi. Onlar bu halde, akşam namazının farzından önce iki rekat sünnet kılarlarken Allah Resulü Sallallahu Aleyhi ve Sellem namaz kıldırmak üzere evinden çıkıp gelirdi. Ezan ile kamet arasında uzun zaman geçmezdi.\" Osman İbn Cebele ile Ebu Davûd, Şu'be'nin şöyle dediğini nakletmişlerdir: \"Ezan ile kamet arasında az bir zaman olurdu",
-			"grades": [],
-			"reference": {
-				"book": 10,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "10": "Ezan"
+    },
+    "section_detail": {
+      "10": {
+        "hadithnumber_first": 603,
+        "hadithnumber_last": 875,
+        "arabicnumber_first": 603,
+        "arabicnumber_last": 875
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 625,
+      "arabicnumber": 625,
+      "text": "Enes bin Malik (r.a.)'den şöyle nakledilmiştir: \"Müezzin ezan okuduğu zaman ashabın ileri gelenleri mescid'in sütunlarına karşı namaz kılmak üzere yarışırcasına harekete geçerdi. Onlar bu halde, akşam namazının farzından önce iki rekat sünnet kılarlarken Allah Resulü Sallallahu Aleyhi ve Sellem namaz kıldırmak üzere evinden çıkıp gelirdi. Ezan ile kamet arasında uzun zaman geçmezdi.\" Osman İbn Cebele ile Ebu Davûd, Şu'be'nin şöyle dediğini nakletmişlerdir: \"Ezan ile kamet arasında az bir zaman olurdu",
+      "grades": [],
+      "reference": {
+        "book": 10,
+        "hadith": 22
+      }
+    }
+  ]
 }

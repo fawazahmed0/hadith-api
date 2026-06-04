@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"92": "Afflictions and the End of the World"
-		},
-		"section_detail": {
-			"92": {
-				"hadithnumber_first": 7048,
-				"hadithnumber_last": 7136,
-				"arabicnumber_first": 7048,
-				"arabicnumber_last": 7136
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7074,
-			"arabicnumber": 7074,
-			"text": "Cabir'in nakline göre adamın biri yanında temrenleri meydana çıkmış birçok ok olduğu halde mescidden geçti. Okların herhangi bir Müslümana dokunup da yaralamaması için temreninden tutması emrediidi",
-			"grades": [],
-			"reference": {
-				"book": 92,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "92": "Fitneler"
+    },
+    "section_detail": {
+      "92": {
+        "hadithnumber_first": 7048,
+        "hadithnumber_last": 7136,
+        "arabicnumber_first": 7048,
+        "arabicnumber_last": 7136
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7074,
+      "arabicnumber": 7074,
+      "text": "Cabir'in nakline göre adamın biri yanında temrenleri meydana çıkmış birçok ok olduğu halde mescidden geçti. Okların herhangi bir Müslümana dokunup da yaralamaması için temreninden tutması emrediidi",
+      "grades": [],
+      "reference": {
+        "book": 92,
+        "hadith": 25
+      }
+    }
+  ]
 }

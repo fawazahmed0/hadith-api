@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"44": "The Book of the Merits of the Companions"
-		},
-		"section_detail": {
-			"44": {
-				"hadithnumber_first": 6169,
-				"hadithnumber_last": 6499,
-				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6474,
-			"arabicnumber": "2534.02",
-			"text": "{m-213} Bize Muhammed b. Beşşâr rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bana Ebû Bekir b. Nâfi de rivayet etti. (Dediki): Bize Gunder Şu'be'den rivayet etti. H. Bana Haccâc b. Şâir dahi rivayet etti. Bize Ebu'l-Velid rivayet etti. (Dediki): Bize Ebû Avâne rivayet etti. Her iki râvi Ebû Bişr'den bu isnadla bu hadisin mislini rivayet etmişlerdir. Yalnız Şu'be'nin hadisinde «Ebû Hureyre: İki defa mı söyledi, üç defa mı bilemiyorum, dedi.» cümlesi vardır. İZAH 2536 DA",
-			"grades": [],
-			"reference": {
-				"book": 44,
-				"hadith": 303
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "44": "Sahabe'nin Faziletleri"
+    },
+    "section_detail": {
+      "44": {
+        "hadithnumber_first": 6169,
+        "hadithnumber_last": 6499,
+        "arabicnumber_first": 2381,
+        "arabicnumber_last": 2547
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6474,
+      "arabicnumber": "2534.02",
+      "text": "{m-213} Bize Muhammed b. Beşşâr rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bana Ebû Bekir b. Nâfi de rivayet etti. (Dediki): Bize Gunder Şu'be'den rivayet etti. H. Bana Haccâc b. Şâir dahi rivayet etti. Bize Ebu'l-Velid rivayet etti. (Dediki): Bize Ebû Avâne rivayet etti. Her iki râvi Ebû Bişr'den bu isnadla bu hadisin mislini rivayet etmişlerdir. Yalnız Şu'be'nin hadisinde «Ebû Hureyre: İki defa mı söyledi, üç defa mı bilemiyorum, dedi.» cümlesi vardır. İZAH 2536 DA",
+      "grades": [],
+      "reference": {
+        "book": 44,
+        "hadith": 303
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"1": "Purification (Kitab Al-Taharah)"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 390,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 246,
-			"arabicnumber": 246,
-			"text": "Şu'be'den rivayet edilmiştir,demiştir ki; İbn Abbas (r.a.) cünuplükten dolayı yıkanmak istediğinde sağ eliyle sol eline yedi defa su döker sonra da avret yerini yıkardı. \"Bir keresinde kaç defa su döktüğünü unuttu ve \"kaç defa döktüm?\" diye bana sordu. Ben de; bilmiyorum\" dedim. Bunun üzerine İbn Abbas (hayretle) \"Hey anasız (kalasıca), niçin bilmiyorsun?\" dedi. Daha sonra namaz için abdest aldığı gibi abdest alıp vücuduna su döker ve \"Resulullah (sallellahü aleyhi ve sellem) cünuplükten işte böyle temizlenirdi\" derdi. Diğer tahric: Ahmed b. Hanbel Nüsned",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 246
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "1": "Temizlik Bölümü"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 390,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 390
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 246,
+      "arabicnumber": 246,
+      "text": "Şu'be'den rivayet edilmiştir,demiştir ki; İbn Abbas (r.a.) cünuplükten dolayı yıkanmak istediğinde sağ eliyle sol eline yedi defa su döker sonra da avret yerini yıkardı. \"Bir keresinde kaç defa su döktüğünü unuttu ve \"kaç defa döktüm?\" diye bana sordu. Ben de; bilmiyorum\" dedim. Bunun üzerine İbn Abbas (hayretle) \"Hey anasız (kalasıca), niçin bilmiyorsun?\" dedi. Daha sonra namaz için abdest aldığı gibi abdest alıp vücuduna su döker ve \"Resulullah (sallellahü aleyhi ve sellem) cünuplükten işte böyle temizlenirdi\" derdi. Diğer tahric: Ahmed b. Hanbel Nüsned",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 246
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"28": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 4342,
-				"hadithnumber_last": 4397,
-				"arabicnumber_first": 1669.01,
-				"arabicnumber_last": 1683
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4368,
-			"arabicnumber": "1673.03",
-			"text": "Bana Ebû Gassân El-Mismaî rivayet etti. (Dediki): Bize Muâz (yâni îbni Hişâm) rivayet etti. (Dediki): Bana babam, Katâde'-den, o da Zürâra b. Evfâ'dan, o da Inırân b. Husayn'dan naklen rivayet etti ki, Bir adam birinin kolunu ısırmış. O da kolunu çekivermiş ve ön dişi düşmüş. Derken dâva Nebi (Sallallahu Aleyhi ve Sellem)'e arzolunmuş, fakat onu iptal ederek: «Onun etini mi yemek istedin?» buyurmuşlar. İzah’a 1674 nolu sayfa’dan ulaşabilirsiniz",
-			"grades": [],
-			"reference": {
-				"book": 28,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "28": "Kasâme, Muhakibler, Kısas ve Diyetler Bahsi"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 4342,
+        "hadithnumber_last": 4397,
+        "arabicnumber_first": 1669.01,
+        "arabicnumber_last": 1683
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4368,
+      "arabicnumber": "1673.03",
+      "text": "Bana Ebû Gassân El-Mismaî rivayet etti. (Dediki): Bize Muâz (yâni îbni Hişâm) rivayet etti. (Dediki): Bana babam, Katâde'-den, o da Zürâra b. Evfâ'dan, o da Inırân b. Husayn'dan naklen rivayet etti ki, Bir adam birinin kolunu ısırmış. O da kolunu çekivermiş ve ön dişi düşmüş. Derken dâva Nebi (Sallallahu Aleyhi ve Sellem)'e arzolunmuş, fakat onu iptal ederek: «Onun etini mi yemek istedin?» buyurmuşlar. İzah’a 1674 nolu sayfa’dan ulaşabilirsiniz",
+      "grades": [],
+      "reference": {
+        "book": 28,
+        "hadith": 27
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3148,
-			"arabicnumber": "1302.01",
-			"text": "Bize Ebû Bekir b. Ebî Şeybe ile Züheyr b. Harb, İbni Numeyr ve Ebû Kureyb toptan İbni Fudayl'dan rivayet ettiler. Züheyr dediki: Bize Muhammed b. Fudayl rivayet etti. (Dediki): Bize Umara, Ebû Zür'a'dan, o da Ebû. Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: «Resulullah (Sallallahu Aleyhi ve Sellem): — Ya Rabbi! Traş olanlara mağfiret buyur! dedi. Ashâb: — Yâ Resûlallah! Saçlarını kısaltanlara da!. dediler. Resulullah (Sallallahu Aleyhi ve Sellem) (yine) : — Yâ Rabbî! Traş olanlara mağfiret buyurl dedi. Ashâb: — Yâ Resûlallah! Saçlarını kısaltanlara da!., dediler. Resulullah (Sallallahu Aleyhi ve Sellem) (tekrar) — Yâ Rabbîl Traş olanlara mağfiret buyur! dedi. Ashâb: — Yâ Resûlallah! Saçlarını kısaltanlara da!.. dediler. Resulullah (Sallallahu Aleyhi ve Sellem), (en sonunda) : — Saçlarını kısaltanlara da!., buyurdular.»",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 352
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3148,
+      "arabicnumber": "1302.01",
+      "text": "Bize Ebû Bekir b. Ebî Şeybe ile Züheyr b. Harb, İbni Numeyr ve Ebû Kureyb toptan İbni Fudayl'dan rivayet ettiler. Züheyr dediki: Bize Muhammed b. Fudayl rivayet etti. (Dediki): Bize Umara, Ebû Zür'a'dan, o da Ebû. Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: «Resulullah (Sallallahu Aleyhi ve Sellem): — Ya Rabbi! Traş olanlara mağfiret buyur! dedi. Ashâb: — Yâ Resûlallah! Saçlarını kısaltanlara da!. dediler. Resulullah (Sallallahu Aleyhi ve Sellem) (yine) : — Yâ Rabbî! Traş olanlara mağfiret buyurl dedi. Ashâb: — Yâ Resûlallah! Saçlarını kısaltanlara da!., dediler. Resulullah (Sallallahu Aleyhi ve Sellem) (tekrar) — Yâ Rabbîl Traş olanlara mağfiret buyur! dedi. Ashâb: — Yâ Resûlallah! Saçlarını kısaltanlara da!.. dediler. Resulullah (Sallallahu Aleyhi ve Sellem), (en sonunda) : — Saçlarını kısaltanlara da!., buyurdular.»",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 352
+      }
+    }
+  ]
 }

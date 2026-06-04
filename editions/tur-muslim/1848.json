@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"6": "The Book of Prayer - Travellers"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1570,
-				"hadithnumber_last": 1950,
-				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1848,
-			"arabicnumber": "793.01",
-			"text": "{….} Bana îbni Vehb'in kardeşi oğlu rivayet etti. (Dediki): Bize amcam Abdullah b. Vehb rivayet etti. (Dediki): Bana Ömer b. Mâlik ile Hayvetü'bnü Şüreyh, İbnü'I-Hâdîdan bu isnâdla, bu hadîsin tamâmiyle mislini haber verdiler. İbnü'l-Hâd: «Resûlullah (Sallallahu Aleyhi ve Sellem) demiş; «İşitmiş.» kelimesini söylememiş",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 276
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "6": "Yolcuların Namazı ve Bu Namazın Kısaltılması Bahsi"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1570,
+        "hadithnumber_last": 1950,
+        "arabicnumber_first": 685.01,
+        "arabicnumber_last": 843.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1848,
+      "arabicnumber": "793.01",
+      "text": "{….} Bana îbni Vehb'in kardeşi oğlu rivayet etti. (Dediki): Bize amcam Abdullah b. Vehb rivayet etti. (Dediki): Bana Ömer b. Mâlik ile Hayvetü'bnü Şüreyh, İbnü'I-Hâdîdan bu isnâdla, bu hadîsin tamâmiyle mislini haber verdiler. İbnü'l-Hâd: «Resûlullah (Sallallahu Aleyhi ve Sellem) demiş; «İşitmiş.» kelimesini söylememiş",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 276
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"20": "Hajj"
-		},
-		"section_detail": {
-			"20": {
-				"hadithnumber_first": 705,
-				"hadithnumber_last": 957,
-				"arabicnumber_first": 705,
-				"arabicnumber_last": 957
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 768,
-			"arabicnumber": 768,
-			"text": "Ebu Bekr b. Abdurrahmandan: Resulullah Sallallahu Aleyhi ve Sellem'e bir kadın gelerek: «— Hac için hazırlanmıştım, bir engel çıktı!» dedi. Resulullah Sallallahu Aleyhi ve Sellem ona: «— Ramazan'da umre yap, çünkü o da hac gibidir» buyurdu. Diğer tahric: Ebu Davud, Hacc; Tirmizî, Hac; Nesaî, Sıyam; İbn Mace, Hac (menasik)",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 20,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "20": "Hac"
+    },
+    "section_detail": {
+      "20": {
+        "hadithnumber_first": 705,
+        "hadithnumber_last": 957,
+        "arabicnumber_first": 705,
+        "arabicnumber_last": 957
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 768,
+      "arabicnumber": 768,
+      "text": "Ebu Bekr b. Abdurrahmandan: Resulullah Sallallahu Aleyhi ve Sellem'e bir kadın gelerek: «— Hac için hazırlanmıştım, bir engel çıktı!» dedi. Resulullah Sallallahu Aleyhi ve Sellem ona: «— Ramazan'da umre yap, çünkü o da hac gibidir» buyurdu. Diğer tahric: Ebu Davud, Hacc; Tirmizî, Hac; Nesaî, Sıyam; İbn Mace, Hac (menasik)",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 20,
+        "hadith": 64
+      }
+    }
+  ]
 }

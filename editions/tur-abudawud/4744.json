@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"42": "Model Behavior of the Prophet (Kitab Al-Sunnah)"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 4596,
-				"hadithnumber_last": 4772,
-				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4744,
-			"arabicnumber": 4744,
-			"text": "Ebu Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) (şöyle) buyurmuştur: \"Allah (Teâlâ ) cenneti yaratınca Hz. Cebrail'e: \"Git de ona bir bak!\" buyurdu. Bunun üzerine (Hz. Cebrail) gidip ona baktı, sonra gelip: \"Ey Rabbim, senin izzetine andolsun ki onu işitip de oraya girmeyen bir kimse kalmaz\" dedi. Sonra Allah onu (n etrafını) zorluklarla kuşattı ve: \"Ey Cebrail, git ona (bir daha) bak\" dedi. (Cebrail) gidip ona (bir daha) bakıp geldi. \"Ey Rabbim, senin izzetin hakkı için ben oraya (ikinci kez baktıktan sonra) oraya hiç kimsenin giremeyeceğinden korkmaya başladım\" dedi. Sonra Allah, cehennemi yaratınca: \"Ey Cebrail git de ona (bir) bak\" buyurdu. Bunun üzerine (Cebrail) gidip (bir de) ona baktı. Sonra gelSp: \"Ey Rabbim, senin izzetin hakkı için (söylüyorum ki), onu işiten hiç bîr kimse oraya girmez.\" dedi. Bunun üzerine (yüce Allah) orayı şehvetlerle kuşattı. Sonra da: \"Ey Cebrail git de ona (bir daha) bak\" buyurdu. Bunun üzerine (Cebrail) gidip oraya (bir daha) baktı, sonra gelip: \"Ey Rabbim izzetin hakkı için ben (orayı tekrar görünce) bir kimse dahi kalmadan herkesin oraya girmesinden korkmaya başladım\" dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 149
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "42": "Sünnet Bölümü"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 4596,
+        "hadithnumber_last": 4772,
+        "arabicnumber_first": 4596,
+        "arabicnumber_last": 4772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4744,
+      "arabicnumber": 4744,
+      "text": "Ebu Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) (şöyle) buyurmuştur: \"Allah (Teâlâ ) cenneti yaratınca Hz. Cebrail'e: \"Git de ona bir bak!\" buyurdu. Bunun üzerine (Hz. Cebrail) gidip ona baktı, sonra gelip: \"Ey Rabbim, senin izzetine andolsun ki onu işitip de oraya girmeyen bir kimse kalmaz\" dedi. Sonra Allah onu (n etrafını) zorluklarla kuşattı ve: \"Ey Cebrail, git ona (bir daha) bak\" dedi. (Cebrail) gidip ona (bir daha) bakıp geldi. \"Ey Rabbim, senin izzetin hakkı için ben oraya (ikinci kez baktıktan sonra) oraya hiç kimsenin giremeyeceğinden korkmaya başladım\" dedi. Sonra Allah, cehennemi yaratınca: \"Ey Cebrail git de ona (bir) bak\" buyurdu. Bunun üzerine (Cebrail) gidip (bir de) ona baktı. Sonra gelSp: \"Ey Rabbim, senin izzetin hakkı için (söylüyorum ki), onu işiten hiç bîr kimse oraya girmez.\" dedi. Bunun üzerine (yüce Allah) orayı şehvetlerle kuşattı. Sonra da: \"Ey Cebrail git de ona (bir daha) bak\" buyurdu. Bunun üzerine (Cebrail) gidip oraya (bir daha) baktı, sonra gelip: \"Ey Rabbim izzetin hakkı için ben (orayı tekrar görünce) bir kimse dahi kalmadan herkesin oraya girmesinden korkmaya başladım\" dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 149
+      }
+    }
+  ]
 }

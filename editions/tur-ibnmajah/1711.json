@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"7": "Fasting"
-		},
-		"section_detail": {
-			"7": {
-				"hadithnumber_first": 1638,
-				"hadithnumber_last": 1782,
-				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1711,
-			"arabicnumber": 1711,
-			"text": "ibn-i Abbas (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bazı aylarda o kadar oruç tutardı ki biz: Oruç tutmayı bırakmıyacak, derdik. Ve bazı aylarda oruç tutmayı o kadar bırakırdı ki, biz: Oruç tutmayacak derdik. Medine'ye teşrif ettiği zamandan beri Ramazan hariç hiç bir ayı devamlı oruçla geçirmemiştir. Diğer tahric: Bu hadisi Buhari, Müslim, Tirmizi ve Nesai de rivayet etmişlerdir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 7,
-				"hadith": 74
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "7": "Oruç Kitabı"
+    },
+    "section_detail": {
+      "7": {
+        "hadithnumber_first": 1638,
+        "hadithnumber_last": 1782,
+        "arabicnumber_first": 1638,
+        "arabicnumber_last": 1782
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1711,
+      "arabicnumber": 1711,
+      "text": "ibn-i Abbas (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bazı aylarda o kadar oruç tutardı ki biz: Oruç tutmayı bırakmıyacak, derdik. Ve bazı aylarda oruç tutmayı o kadar bırakırdı ki, biz: Oruç tutmayacak derdik. Medine'ye teşrif ettiği zamandan beri Ramazan hariç hiç bir ayı devamlı oruçla geçirmemiştir. Diğer tahric: Bu hadisi Buhari, Müslim, Tirmizi ve Nesai de rivayet etmişlerdir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 7,
+        "hadith": 74
+      }
+    }
+  ]
 }

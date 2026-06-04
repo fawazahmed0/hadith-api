@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"66": "Virtues of the Qur'an"
-		},
-		"section_detail": {
-			"66": {
-				"hadithnumber_first": 4979,
-				"hadithnumber_last": 5062,
-				"arabicnumber_first": 4979,
-				"arabicnumber_last": 5062
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4995,
-			"arabicnumber": 4995,
-			"text": "Bera'dan şöyle dediği nakledilmiştir: سبح اسم ربك الأعلى Sebbihisme rabbike'l-a'la,,(Aıa suresini) Resulullah Sallallahu Aleyhi ve Sellem Medine ye gelmeden önce öğrendim",
-			"grades": [],
-			"reference": {
-				"book": 66,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "66": "Kur'ân’ın Faziletleri"
+    },
+    "section_detail": {
+      "66": {
+        "hadithnumber_first": 4979,
+        "hadithnumber_last": 5062,
+        "arabicnumber_first": 4979,
+        "arabicnumber_last": 5062
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4995,
+      "arabicnumber": 4995,
+      "text": "Bera'dan şöyle dediği nakledilmiştir: سبح اسم ربك الأعلى Sebbihisme rabbike'l-a'la,,(Aıa suresini) Resulullah Sallallahu Aleyhi ve Sellem Medine ye gelmeden önce öğrendim",
+      "grades": [],
+      "reference": {
+        "book": 66,
+        "hadith": 17
+      }
+    }
+  ]
 }

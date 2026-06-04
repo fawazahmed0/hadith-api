@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"0": "The Book of the Sunnah"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 266,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 266
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 53,
-			"arabicnumber": 53,
-			"text": "Ebu Hureyre r.a.'den Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu, dediği rivayet edilmiştir; “(Bir alim'in verdiği) yanlış fetva yüzünden hataya düşen kişiye günah yoktur. Bütün vebal, yalnız fetva veren (alim)'in boynundadır.”",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 53
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "0": "Sünnet Kitabı"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 266,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 266
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 53,
+      "arabicnumber": 53,
+      "text": "Ebu Hureyre r.a.'den Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu, dediği rivayet edilmiştir; “(Bir alim'in verdiği) yanlış fetva yüzünden hataya düşen kişiye günah yoktur. Bütün vebal, yalnız fetva veren (alim)'in boynundadır.”",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 0,
+        "hadith": 53
+      }
+    }
+  ]
 }

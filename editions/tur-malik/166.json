@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"3": "Prayer"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 146,
-				"hadithnumber_last": 221,
-				"arabicnumber_first": 146,
-				"arabicnumber_last": 221
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 166,
-			"arabicnumber": 166,
-			"text": "Anır b. Râfi anlatıyor: Mü'minlerin annesi Hafsa Mushaf-ı şerifi yazarken: «Hafizuu alessalevaati vessalâtil vustaa ve kumu lillâhi kaanitiyn» âyetine gelince bana haber ver dedi. Bu âyete ulaştığımı kendisine bildirince, bana şöyle yazdırdı: «Hafizuu alessalevaati vessalâtil vustaa —ve salâtil asri —ve kûmu lillâhi kaanitiyn.» Bu hadisi Malik, mevkuf olarak Rivâyet etmiştir. yorumlara göre, \"es-Salatu’l-vustâ\", ikindi namazıdır",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 21
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "3": "Namaz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 146,
+        "hadithnumber_last": 221,
+        "arabicnumber_first": 146,
+        "arabicnumber_last": 221
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 166,
+      "arabicnumber": 166,
+      "text": "Anır b. Râfi anlatıyor: Mü'minlerin annesi Hafsa Mushaf-ı şerifi yazarken: «Hafizuu alessalevaati vessalâtil vustaa ve kumu lillâhi kaanitiyn» âyetine gelince bana haber ver dedi. Bu âyete ulaştığımı kendisine bildirince, bana şöyle yazdırdı: «Hafizuu alessalevaati vessalâtil vustaa —ve salâtil asri —ve kûmu lillâhi kaanitiyn.» Bu hadisi Malik, mevkuf olarak Rivâyet etmiştir. yorumlara göre, \"es-Salatu’l-vustâ\", ikindi namazıdır",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 21
+      }
+    }
+  ]
 }

@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"8": "The Book on Fasting"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 682,
-				"hadithnumber_last": 808,
-				"arabicnumber_first": 682,
-				"arabicnumber_last": 808
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 701,
-			"arabicnumber": 701,
-			"text": "Abdullah b. Abdurrahman (r.a.), Ebû Âsım, Ebûl Muğîre ve Evzâî’den naklederek bu (700.) hadisin benzerini aktarmıştır. Tirmîzî: Bu hadis hasen ğaribtir",
-			"grades": [
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 20
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "8": "Oruç Bölümleri"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 682,
+        "hadithnumber_last": 808,
+        "arabicnumber_first": 682,
+        "arabicnumber_last": 808
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 701,
+      "arabicnumber": 701,
+      "text": "Abdullah b. Abdurrahman (r.a.), Ebû Âsım, Ebûl Muğîre ve Evzâî’den naklederek bu (700.) hadisin benzerini aktarmıştır. Tirmîzî: Bu hadis hasen ğaribtir",
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 20
+      }
+    }
+  ]
 }

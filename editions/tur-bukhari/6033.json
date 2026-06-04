@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"78": "Good Manners and Form (Al-Adab)"
-		},
-		"section_detail": {
-			"78": {
-				"hadithnumber_first": 5970,
-				"hadithnumber_last": 6226,
-				"arabicnumber_first": 5970,
-				"arabicnumber_last": 6226
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6033,
-			"arabicnumber": 6033,
-			"text": "Enes'ten. dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem insanların en güzeli, insanların en cömerdi, insanların en kahramanı idi. Bir gece Medine halkı korkmuştu da insanlar sesin geldiği tarafa doğru koşuşmuşlardl. Onlar giderken karşılarına Nebi Sallallahu Aleyhi ve Sellem çıkıverdi. Çünkü sese doğru diğer İnsanlardan önce o gitmişti. Onunla karşılaştıklarında da o: Korkmayın, korkmayın, diyordu. O sırada kendisi Ebu Talha'ya ait üzerinde eğer takımı bulunmayan çıplak bir atın üzerinde idi. Boynunda da bir kılıç asılı duruyordu. (Ebu Talha'ya): And olsun ben bunu bir deniz buldum, yahut: Şüphesiz ki o bir denizdir, buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 78,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "78": "Edeb"
+    },
+    "section_detail": {
+      "78": {
+        "hadithnumber_first": 5970,
+        "hadithnumber_last": 6226,
+        "arabicnumber_first": 5970,
+        "arabicnumber_last": 6226
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6033,
+      "arabicnumber": 6033,
+      "text": "Enes'ten. dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem insanların en güzeli, insanların en cömerdi, insanların en kahramanı idi. Bir gece Medine halkı korkmuştu da insanlar sesin geldiği tarafa doğru koşuşmuşlardl. Onlar giderken karşılarına Nebi Sallallahu Aleyhi ve Sellem çıkıverdi. Çünkü sese doğru diğer İnsanlardan önce o gitmişti. Onunla karşılaştıklarında da o: Korkmayın, korkmayın, diyordu. O sırada kendisi Ebu Talha'ya ait üzerinde eğer takımı bulunmayan çıplak bir atın üzerinde idi. Boynunda da bir kılıç asılı duruyordu. (Ebu Talha'ya): And olsun ben bunu bir deniz buldum, yahut: Şüphesiz ki o bir denizdir, buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 78,
+        "hadith": 63
+      }
+    }
+  ]
 }

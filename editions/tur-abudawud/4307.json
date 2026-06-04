@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"39": "Battles (Kitab Al-Malahim)"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 4291,
-				"hadithnumber_last": 4350,
-				"arabicnumber_first": 4291,
-				"arabicnumber_last": 4350
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4307,
-			"arabicnumber": 4307,
-			"text": "Enes b. Malik (r.a) demiştir ki; Rasûlullah (s.a.v.) kendisine şöyle buyurmuştur: \"Ya Enes! şüphesiz insanlar birtakım şehirler kuracaklar. Onlar içerisinde Basra veya Busayra denilen bir şehir olacak. Eğer oraya uğrarsan - veya girersen tuzlu yerlerden, iskelesinden, çarşısından ve emirlerinin kapısından uzak dur. Kenarlarına git. Şüphesiz orada yer çöküntüsü, taş yağması ve zelzele olacak. Bir kavim, akşam yatacak ve sabahleyin maymunlar ve domuzlar olarak kalkacaktır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 39,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "39": "Melâhim (Meydana Gelecek Büyük Olaylar ve Savaşlar)"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 4291,
+        "hadithnumber_last": 4350,
+        "arabicnumber_first": 4291,
+        "arabicnumber_last": 4350
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4307,
+      "arabicnumber": 4307,
+      "text": "Enes b. Malik (r.a) demiştir ki; Rasûlullah (s.a.v.) kendisine şöyle buyurmuştur: \"Ya Enes! şüphesiz insanlar birtakım şehirler kuracaklar. Onlar içerisinde Basra veya Busayra denilen bir şehir olacak. Eğer oraya uğrarsan - veya girersen tuzlu yerlerden, iskelesinden, çarşısından ve emirlerinin kapısından uzak dur. Kenarlarına git. Şüphesiz orada yer çöküntüsü, taş yağması ve zelzele olacak. Bir kavim, akşam yatacak ve sabahleyin maymunlar ve domuzlar olarak kalkacaktır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 39,
+        "hadith": 17
+      }
+    }
+  ]
 }

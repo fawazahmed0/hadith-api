@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5995,
-			"text": "Bana Harmele b. Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihâb'dan naklen haber verdi. Ona da Enes b. Mâlik rivayet etmiş ki: Resulullah (Sallallahu Aleyhi ve Sellem)'. «Havzımın mikdârı Eyle ile Yemen'deki San'a arası gibidir. Onda gökyüzünün yıldızları sayısınca ibrikler vardır.» buyurmuşlar. İzah 2305 te",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5995,
+      "text": "Bana Harmele b. Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihâb'dan naklen haber verdi. Ona da Enes b. Mâlik rivayet etmiş ki: Resulullah (Sallallahu Aleyhi ve Sellem)'. «Havzımın mikdârı Eyle ile Yemen'deki San'a arası gibidir. Onda gökyüzünün yıldızları sayısınca ibrikler vardır.» buyurmuşlar. İzah 2305 te",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

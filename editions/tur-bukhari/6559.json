@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6559,
-			"arabicnumber": 6559,
-			"text": "Enes b. Malik r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem \"Bir kavim kendilerine cehennem ateşi dokunduktan sonra simaları kırmızımsı siyah bir renkte olarak cehennemden çıkacak ve cennete girecek ve cennet ehli bunlara 'Cehennemlikler' diye isim vereceklerdir\" dedi",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 148
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6559,
+      "arabicnumber": 6559,
+      "text": "Enes b. Malik r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem \"Bir kavim kendilerine cehennem ateşi dokunduktan sonra simaları kırmızımsı siyah bir renkte olarak cehennemden çıkacak ve cennete girecek ve cennet ehli bunlara 'Cehennemlikler' diye isim vereceklerdir\" dedi",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 148
+      }
+    }
+  ]
 }

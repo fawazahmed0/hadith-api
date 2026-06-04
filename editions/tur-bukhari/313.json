@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"6": "Menstrual Periods"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 294,
-				"hadithnumber_last": 333,
-				"arabicnumber_first": 294,
-				"arabicnumber_last": 333
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 313,
-			"arabicnumber": 313,
-			"text": "Ümmü Atiyye'den şöyle nakledilmiştir: \"Bir ölü için üç günden fazla yas tutmamız yasaklandı. Ancak koca için dört ay on gün yas tutmamız emredildi. Yas tuttuğumuz süre içinde, sürme çekmez, koku sürünmez ve asab dışında boyalı elbise giymezdik. Adetimiz sona erip hayızdan dolayı gusül abdesti alınca azıcık küst-ı azfâr kullanmamıza izin verildi. Bizim cenazelerin ardından gitmemiz de yasaklandı. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 6,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "6": "Hayız"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 294,
+        "hadithnumber_last": 333,
+        "arabicnumber_first": 294,
+        "arabicnumber_last": 333
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 313,
+      "arabicnumber": 313,
+      "text": "Ümmü Atiyye'den şöyle nakledilmiştir: \"Bir ölü için üç günden fazla yas tutmamız yasaklandı. Ancak koca için dört ay on gün yas tutmamız emredildi. Yas tuttuğumuz süre içinde, sürme çekmez, koku sürünmez ve asab dışında boyalı elbise giymezdik. Adetimiz sona erip hayızdan dolayı gusül abdesti alınca azıcık küst-ı azfâr kullanmamıza izin verildi. Bizim cenazelerin ardından gitmemiz de yasaklandı. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 6,
+        "hadith": 18
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5986,
-			"arabicnumber": "2299.03",
-			"text": "{M-34-2} Bize İbnü Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. H. Bize Ebû Bekr b. Ebi Şeybe dahi rivayet etti. (Dediki): Bize Muhammed b. Bişr rivayet etti. Her iki râvi demişlerki: Bize Ubeydullah bu isnadla bu hadîsin mislini rivayet etti. Şunu da ziyade eyledi: «Ubeydullah dediki: Ona sordum da: Bunlar Şam'da iki köydür. Aralarında üç gecelik mesafe vardır, dedi.» İbni Bişr'in hadîsinde (üç gece yerine) üç gün denilmiştir",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 47
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5986,
+      "arabicnumber": "2299.03",
+      "text": "{M-34-2} Bize İbnü Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. H. Bize Ebû Bekr b. Ebi Şeybe dahi rivayet etti. (Dediki): Bize Muhammed b. Bişr rivayet etti. Her iki râvi demişlerki: Bize Ubeydullah bu isnadla bu hadîsin mislini rivayet etti. Şunu da ziyade eyledi: «Ubeydullah dediki: Ona sordum da: Bunlar Şam'da iki köydür. Aralarında üç gecelik mesafe vardır, dedi.» İbni Bişr'in hadîsinde (üç gece yerine) üç gün denilmiştir",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 47
+      }
+    }
+  ]
 }

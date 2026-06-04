@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"6": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1371,
-				"hadithnumber_last": 1400,
-				"arabicnumber_first": 1371,
-				"arabicnumber_last": 1400
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1395,
-			"arabicnumber": 1395,
-			"text": "Abdullah b. Amr (r.a.)'den rivayet edildiğine göre, O Resûlullah (s.a.v.)'e: Kur'an kaç günde okunur (hatmedilir)? diye sormuş. Efendimiz: \"Kırk günde” sonra \"bir ayda\"; sonra \"yirmi, onbeş, on ve yedi günde\" buyurmuş daha aşağı inmemiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Shadh"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Shadh"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 25
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "6": "Ramazın Ayı Bölümü"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1371,
+        "hadithnumber_last": 1400,
+        "arabicnumber_first": 1371,
+        "arabicnumber_last": 1400
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1395,
+      "arabicnumber": 1395,
+      "text": "Abdullah b. Amr (r.a.)'den rivayet edildiğine göre, O Resûlullah (s.a.v.)'e: Kur'an kaç günde okunur (hatmedilir)? diye sormuş. Efendimiz: \"Kırk günde” sonra \"bir ayda\"; sonra \"yirmi, onbeş, on ve yedi günde\" buyurmuş daha aşağı inmemiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 25
+      }
+    }
+  ]
 }

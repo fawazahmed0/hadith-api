@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"97": "Oneness, Uniqueness of Allah (Tawheed)"
-		},
-		"section_detail": {
-			"97": {
-				"hadithnumber_first": 7371,
-				"hadithnumber_last": 7563,
-				"arabicnumber_first": 7371,
-				"arabicnumber_last": 7563
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7443,
-			"arabicnumber": 7443,
-			"text": "Adiy b.Hatim şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem \"Sizden Rabbinin arada bir tercüman ve onu görmeyi perdeleyen bir hicab olmaksızın konuşmayacağı hiç kimse olmayacaktır\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 97,
-				"hadith": 69
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "97": "Tevhîd, yâni: Allah'ı Birleme"
+    },
+    "section_detail": {
+      "97": {
+        "hadithnumber_first": 7371,
+        "hadithnumber_last": 7563,
+        "arabicnumber_first": 7371,
+        "arabicnumber_last": 7563
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7443,
+      "arabicnumber": 7443,
+      "text": "Adiy b.Hatim şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem \"Sizden Rabbinin arada bir tercüman ve onu görmeyi perdeleyen bir hicab olmaksızın konuşmayacağı hiç kimse olmayacaktır\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 97,
+        "hadith": 69
+      }
+    }
+  ]
 }

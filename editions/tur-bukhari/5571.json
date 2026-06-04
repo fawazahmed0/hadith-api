@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"73": "Al-Adha Festival Sacrifice (Adaahi)"
-		},
-		"section_detail": {
-			"73": {
-				"hadithnumber_first": 5545,
-				"hadithnumber_last": 5574,
-				"arabicnumber_first": 5545,
-				"arabicnumber_last": 5574
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5571,
-			"arabicnumber": 5571,
-			"text": "İbn Ezher'in mevlası Ubeyd'den rivayete göre; \"O kurban bayramı birinci günü Ömer b. el-Hattab r.a. ile birlikte bayramda hazır olduk. Ömer hutbeden önce namaz kıldırdı. Sonra insanlara hutbe verdi. Ey insanlar! Rasulullah Sallallahu Aleyhi ve Sellem size bu iki bayram (ın birinci günü) oruç tutmanızı yasakladı. Bunların biri orucunuzu bitirdikten sonra oruç açtığınız gün (olan ramazan bayramı birinci günü)dür. Diğeri ise kestiğiniz kurbanlıklardan yiyeceğiniz gündür, dedi",
-			"grades": [],
-			"reference": {
-				"book": 73,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "73": "Udhiyeler"
+    },
+    "section_detail": {
+      "73": {
+        "hadithnumber_first": 5545,
+        "hadithnumber_last": 5574,
+        "arabicnumber_first": 5545,
+        "arabicnumber_last": 5574
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5571,
+      "arabicnumber": 5571,
+      "text": "İbn Ezher'in mevlası Ubeyd'den rivayete göre; \"O kurban bayramı birinci günü Ömer b. el-Hattab r.a. ile birlikte bayramda hazır olduk. Ömer hutbeden önce namaz kıldırdı. Sonra insanlara hutbe verdi. Ey insanlar! Rasulullah Sallallahu Aleyhi ve Sellem size bu iki bayram (ın birinci günü) oruç tutmanızı yasakladı. Bunların biri orucunuzu bitirdikten sonra oruç açtığınız gün (olan ramazan bayramı birinci günü)dür. Diğeri ise kestiğiniz kurbanlıklardan yiyeceğiniz gündür, dedi",
+      "grades": [],
+      "reference": {
+        "book": 73,
+        "hadith": 27
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"28": "Foods (Kitab Al-At'imah)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3736,
-				"hadithnumber_last": 3854,
-				"arabicnumber_first": 3736,
-				"arabicnumber_last": 3854
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3846,
-			"arabicnumber": 3846,
-			"text": "Ebû Hureyre (r.a)'den rivayet olunduğuna göre, Rasûlul-lah (s.a.v.) şöyle buyurmuştur: \"Birinizin hizmetçisi, dumanına ve sıcağına katlanarak kendisine bir yemek hazırlayıp getirecek olursa (yemeği kendisi ile birlikte) yemesi için onu yanına oturtsun. Şayet yemek az olursa eline bir yada iki lokma koyuversin",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (2557) Sahih Muslim (1663)"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 111
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "28": "Yiyecekler Bölümü"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3736,
+        "hadithnumber_last": 3854,
+        "arabicnumber_first": 3736,
+        "arabicnumber_last": 3854
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3846,
+      "arabicnumber": 3846,
+      "text": "Ebû Hureyre (r.a)'den rivayet olunduğuna göre, Rasûlul-lah (s.a.v.) şöyle buyurmuştur: \"Birinizin hizmetçisi, dumanına ve sıcağına katlanarak kendisine bir yemek hazırlayıp getirecek olursa (yemeği kendisi ile birlikte) yemesi için onu yanına oturtsun. Şayet yemek az olursa eline bir yada iki lokma koyuversin",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2557) Sahih Muslim (1663)"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 111
+      }
+    }
+  ]
 }

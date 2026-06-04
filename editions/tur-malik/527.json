@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"16": "Burials"
-		},
-		"section_detail": {
-			"16": {
-				"hadithnumber_first": 520,
-				"hadithnumber_last": 577,
-				"arabicnumber_first": 520,
-				"arabicnumber_last": 577
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 527,
-			"arabicnumber": 527,
-			"text": "İbn Şihab'dan: Resulullah Sallallahu Aleyhi ve Sellem, Hz. Ebu Bekir ve Hz. Ömer cenazenin önünde yürürlerdi. Sonra gelen halifeler ve Abdullah b. Ömer de aynı şekilde cenazenin önünde yürürlerdi. Îbn Abdilber der ki: \"Bu hadis, Muvatta'da ravilere göre bu şekilde mürseldir.\" İbn Ömer'den mevsul olarak rivayet edilmiştir: (Ebu Davud, Cenaiz; Tirmizî, Cenaiz; Nesaî, Cenaiz; ibn Mace, Cenaiz)",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 16,
-				"hadith": 8
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "16": "Cenazeler"
+    },
+    "section_detail": {
+      "16": {
+        "hadithnumber_first": 520,
+        "hadithnumber_last": 577,
+        "arabicnumber_first": 520,
+        "arabicnumber_last": 577
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 527,
+      "arabicnumber": 527,
+      "text": "İbn Şihab'dan: Resulullah Sallallahu Aleyhi ve Sellem, Hz. Ebu Bekir ve Hz. Ömer cenazenin önünde yürürlerdi. Sonra gelen halifeler ve Abdullah b. Ömer de aynı şekilde cenazenin önünde yürürlerdi. Îbn Abdilber der ki: \"Bu hadis, Muvatta'da ravilere göre bu şekilde mürseldir.\" İbn Ömer'den mevsul olarak rivayet edilmiştir: (Ebu Davud, Cenaiz; Tirmizî, Cenaiz; Nesaî, Cenaiz; ibn Mace, Cenaiz)",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 16,
+        "hadith": 8
+      }
+    }
+  ]
 }

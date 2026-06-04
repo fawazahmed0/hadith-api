@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"25": "Chapters on Hajj Rituals"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 2882,
-				"hadithnumber_last": 3119,
-				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2915,
-			"arabicnumber": 2915,
-			"text": "Câbir (bin Abdillah) (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bize bir hutbe okudu. (Hutbede) Medine (i Münevvere) halkının ihrama girecekleri yer Zu'l-Huleyfe'den başlar. Şâm halkının ihrama girecekleri yer, Cuhfe'den başlar. Yemen halkının ihrama girecekleri yer Yelemlem'den başlar. Necid halkının İhrama girecekleri yer Karn'den başlar. (yâni Irak) halkının ihrama girecekleri yer Zât ı Irk'dan başlar, buyurdu. Sonra (mübarek) yüzünü (doğu tarafındaki) ufuka çevirdi ve: «Allahım! Onların (yâni doğu halkının) gönüllerini (İslâmiyet'e) yönelt,» diye duâ etti. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde İbrahim el-Hariri bulunur. Ahmed ve başkası onun hadislerinin metruk olduğunu söylemişler. Bir kavle göre onun hadisleri münkerdir. Onun zayı! olduğu da söylenmiştir. Bu hadism aslını Müslim, Cabir (r.a.)'den rivayet etmiş, fakat o rivayette ...döndürdü ... \" cümlesiyle başlayan parağrafı söylememiş ve Şam halkının mikatını da anlatmamıştır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "25": "Hac ve Umre İbâdeti Kitabı"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 2882,
+        "hadithnumber_last": 3119,
+        "arabicnumber_first": 2882,
+        "arabicnumber_last": 3119
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2915,
+      "arabicnumber": 2915,
+      "text": "Câbir (bin Abdillah) (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bize bir hutbe okudu. (Hutbede) Medine (i Münevvere) halkının ihrama girecekleri yer Zu'l-Huleyfe'den başlar. Şâm halkının ihrama girecekleri yer, Cuhfe'den başlar. Yemen halkının ihrama girecekleri yer Yelemlem'den başlar. Necid halkının İhrama girecekleri yer Karn'den başlar. (yâni Irak) halkının ihrama girecekleri yer Zât ı Irk'dan başlar, buyurdu. Sonra (mübarek) yüzünü (doğu tarafındaki) ufuka çevirdi ve: «Allahım! Onların (yâni doğu halkının) gönüllerini (İslâmiyet'e) yönelt,» diye duâ etti. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde İbrahim el-Hariri bulunur. Ahmed ve başkası onun hadislerinin metruk olduğunu söylemişler. Bir kavle göre onun hadisleri münkerdir. Onun zayı! olduğu da söylenmiştir. Bu hadism aslını Müslim, Cabir (r.a.)'den rivayet etmiş, fakat o rivayette ...döndürdü ... \" cümlesiyle başlayan parağrafı söylememiş ve Şam halkının mikatını da anlatmamıştır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 34
+      }
+    }
+  ]
 }

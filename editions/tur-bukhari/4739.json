@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
-		},
-		"section_detail": {
-			"65": {
-				"hadithnumber_first": 4474,
-				"hadithnumber_last": 4977,
-				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4739,
-			"arabicnumber": 4739,
-			"text": "Bir başka müfessir de şunları söylemiştir: أحسوا Ehassu (Enbiya 12) أحسست ehsestu kökünden gelir ve \"beklediler,\" خامدين hamidine (Enbiya 15) \"sönmüş haldeler,\" حصيد hasid \"kökü kazınmış\" anlamına geHi. Bu kelime bu şekilde tekil, tesniye ve çoğul için kullanılır. لا يستحسرون la yestahsirun (Enbiya 19) \"yorulmazlar\" manasındadır. حسير Hasir (Mülk 4) (yorgun) ve حسرت بعيري hasartu bairi (devemi yordum) ifadeleri de bunun gibidir. عميق Amik'''uzak,'' نكسوا nukkisa \"döndürüldüler\" anlamına gelir. صنعة لبوس San'ate lebus (Enbiya 80) \"[ifadesindegeçen lEbus kelimesi] \"zırhlar\" anlamına gelir; تقطعوا أمرهم Tekattau emrahum (Enbiya 93) \"ihtilaf ettiler,\" demektir. حسيس Hasis, حس hiss, جرس cers ve همس hems kelimelerinin manası birdir ve bu kelimeler \"cılız ses\" anlamına gelir. آذناك Azennake (Enbiya 93) \"sana bildirdik,\" آذنتكم azentukum (Enbiya 109) [\"size bildirdim\"], \"bir bilgiyi ona bildirirsen, sen ve o eşit hale gelirsin ve aldatmamış olursun,\" demektir",
-			"grades": [],
-			"reference": {
-				"book": 65,
-				"hadith": 261
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "65": "Tefsir"
+    },
+    "section_detail": {
+      "65": {
+        "hadithnumber_first": 4474,
+        "hadithnumber_last": 4977,
+        "arabicnumber_first": 4474,
+        "arabicnumber_last": 4977
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4739,
+      "arabicnumber": 4739,
+      "text": "Bir başka müfessir de şunları söylemiştir: أحسوا Ehassu (Enbiya 12) أحسست ehsestu kökünden gelir ve \"beklediler,\" خامدين hamidine (Enbiya 15) \"sönmüş haldeler,\" حصيد hasid \"kökü kazınmış\" anlamına geHi. Bu kelime bu şekilde tekil, tesniye ve çoğul için kullanılır. لا يستحسرون la yestahsirun (Enbiya 19) \"yorulmazlar\" manasındadır. حسير Hasir (Mülk 4) (yorgun) ve حسرت بعيري hasartu bairi (devemi yordum) ifadeleri de bunun gibidir. عميق Amik'''uzak,'' نكسوا nukkisa \"döndürüldüler\" anlamına gelir. صنعة لبوس San'ate lebus (Enbiya 80) \"[ifadesindegeçen lEbus kelimesi] \"zırhlar\" anlamına gelir; تقطعوا أمرهم Tekattau emrahum (Enbiya 93) \"ihtilaf ettiler,\" demektir. حسيس Hasis, حس hiss, جرس cers ve همس hems kelimelerinin manası birdir ve bu kelimeler \"cılız ses\" anlamına gelir. آذناك Azennake (Enbiya 93) \"sana bildirdik,\" آذنتكم azentukum (Enbiya 109) [\"size bildirdim\"], \"bir bilgiyi ona bildirirsen, sen ve o eşit hale gelirsin ve aldatmamış olursun,\" demektir",
+      "grades": [],
+      "reference": {
+        "book": 65,
+        "hadith": 261
+      }
+    }
+  ]
 }

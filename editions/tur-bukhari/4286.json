@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4286,
-			"arabicnumber": 4286,
-			"text": "Enes b. Malik r.a.'dan rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem fetih günü Mekke'ye başında miğfer bulunduğu halde girdi. Miğferi başından çıkarınca bir adam ona gelerek: İbn Hatal Kabe'nin örtülerine asılmış bulunuyor dedi. Allah Resulü: Onu öldür dedi.\" (Ravilerden) Malik dedi ki: \"Doğrusunu en iyi bilen Allah'tır ya, görüşümüze göre o gün Nebi Sallallahu Aleyhi ve Sellem ihramlı değildi",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 319
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4286,
+      "arabicnumber": 4286,
+      "text": "Enes b. Malik r.a.'dan rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem fetih günü Mekke'ye başında miğfer bulunduğu halde girdi. Miğferi başından çıkarınca bir adam ona gelerek: İbn Hatal Kabe'nin örtülerine asılmış bulunuyor dedi. Allah Resulü: Onu öldür dedi.\" (Ravilerden) Malik dedi ki: \"Doğrusunu en iyi bilen Allah'tır ya, görüşümüze göre o gün Nebi Sallallahu Aleyhi ve Sellem ihramlı değildi",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 319
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1294,
-			"arabicnumber": "574.02",
-			"text": "Bize İshâk b. İbrahım rivayet etti. (Dediki) : Bize Abdülvehhâb Es-Sekafî haber verdi. (Dediki) : Bize Hâlid —ki Hazzâ'dır — «Ebu Kılâbe'den, o da Ebu'l - Mühelleb'den, o da İmrân b. Husayn'den naklen rivayet etti. Imrân şöyle demiş: — Resulullah (Sallallahu Aleyhi ve Sellem) ikindinin üç rek'atında selam verdi. Sonra kalkarak hücreye girdi. Arkasından elleri uzunca bir adam kalkarak: — Namaz kısaltıldı mı Yâ Resûlallah? dedi. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) kızgın bir hâlde dışarıya çıktı ve bıraktığı rek'âtı kıldı. Sonra selam verdi. Sonra iki secde-i sehvi yaptı; sonra selam verdi. İzah için buraya tıklayın",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 132
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1294,
+      "arabicnumber": "574.02",
+      "text": "Bize İshâk b. İbrahım rivayet etti. (Dediki) : Bize Abdülvehhâb Es-Sekafî haber verdi. (Dediki) : Bize Hâlid —ki Hazzâ'dır — «Ebu Kılâbe'den, o da Ebu'l - Mühelleb'den, o da İmrân b. Husayn'den naklen rivayet etti. Imrân şöyle demiş: — Resulullah (Sallallahu Aleyhi ve Sellem) ikindinin üç rek'atında selam verdi. Sonra kalkarak hücreye girdi. Arkasından elleri uzunca bir adam kalkarak: — Namaz kısaltıldı mı Yâ Resûlallah? dedi. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem) kızgın bir hâlde dışarıya çıktı ve bıraktığı rek'âtı kıldı. Sonra selam verdi. Sonra iki secde-i sehvi yaptı; sonra selam verdi. İzah için buraya tıklayın",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 132
+      }
+    }
+  ]
 }

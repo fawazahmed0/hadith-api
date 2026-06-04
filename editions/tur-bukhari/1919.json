@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"30": "Fasting"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 1891,
-				"hadithnumber_last": 2007,
-				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1919,
-			"arabicnumber": 1919,
-			"text": "Aişe r.anha'nın şöyle dediği nakledilmiştir: \"Bilal, ezanı gece vakti okurdu. Resulullah Sallallahu Aleyhi ve Sellem (insanların zihinlerindeki soru işaretlerine son vermek İçin) şöyle buyurdu: \"Abdullah İbn Ümmi Mektum ezan okuyuncaya kadar yiyin ve için!\" Hadisin ravilerinden Kasım İbn Muhammed şöyle demiştir: \"Bilal ile İbn Ümmi Mektum'un ezanları arasında biri çıkıp diğeri inecek kadar bir süre vardı.\" باب: تأخير السحور. 18- Sahurda Acele Etmek",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 28
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "30": "Oruç Tutmak"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 1891,
+        "hadithnumber_last": 2007,
+        "arabicnumber_first": 1891,
+        "arabicnumber_last": 2007
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1919,
+      "arabicnumber": 1919,
+      "text": "Aişe r.anha'nın şöyle dediği nakledilmiştir: \"Bilal, ezanı gece vakti okurdu. Resulullah Sallallahu Aleyhi ve Sellem (insanların zihinlerindeki soru işaretlerine son vermek İçin) şöyle buyurdu: \"Abdullah İbn Ümmi Mektum ezan okuyuncaya kadar yiyin ve için!\" Hadisin ravilerinden Kasım İbn Muhammed şöyle demiştir: \"Bilal ile İbn Ümmi Mektum'un ezanları arasında biri çıkıp diğeri inecek kadar bir süre vardı.\" باب: تأخير السحور. 18- Sahurda Acele Etmek",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 28
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 637,
-			"arabicnumber": 637,
-			"text": "İbn Mes'ud (r.a.)'den; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: \"Büyüklenerek namazda elbisesini yere sarkıtan kişinin Allah katında hiç bir değeri yoktur. (Yahut: Onu ne kötülük işlemekten korur ne de bağışlar.)\" Ebu Davud dedi ki: bu hadisi içlerinde Hammad b. Seleme ve Hammad b. Zeyd, Ebu'l-Ehvas ve Ebu Muaviye'nin de bulunduğu bir cemaat, İbn Mes'ud'a (ulaşan) mevkuf bir hadis olarak nakletmiştir. Diğer tahric: Ebu Davud, vitr; Beyhakî, es-Sünenu'l-kubra",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 247
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 637,
+      "arabicnumber": 637,
+      "text": "İbn Mes'ud (r.a.)'den; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: \"Büyüklenerek namazda elbisesini yere sarkıtan kişinin Allah katında hiç bir değeri yoktur. (Yahut: Onu ne kötülük işlemekten korur ne de bağışlar.)\" Ebu Davud dedi ki: bu hadisi içlerinde Hammad b. Seleme ve Hammad b. Zeyd, Ebu'l-Ehvas ve Ebu Muaviye'nin de bulunduğu bir cemaat, İbn Mes'ud'a (ulaşan) mevkuf bir hadis olarak nakletmiştir. Diğer tahric: Ebu Davud, vitr; Beyhakî, es-Sünenu'l-kubra",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 247
+      }
+    }
+  ]
 }

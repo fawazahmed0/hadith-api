@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"33": "Etiquette"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 3657,
-				"hadithnumber_last": 3826,
-				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3720,
-			"arabicnumber": 3720,
-			"text": "Enes bin Mâlik (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bize katılır (ve güler yüzle bizimle şakalaşır)di. Hattâ (kuşu ölen) küçük bir kardeşime; Ey Ebû Umeyr, Nuğayr (kuşcağız) ne oldu der (şakalaşır) di. Vekî demiştir ki: O, (nuğayr ile) bîr kuş kasdeder ki Enes'in kardeşi onunla oynardı",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 33,
-				"hadith": 64
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "33": "Edeb Kitabı"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 3657,
+        "hadithnumber_last": 3826,
+        "arabicnumber_first": 3657,
+        "arabicnumber_last": 3826
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3720,
+      "arabicnumber": 3720,
+      "text": "Enes bin Mâlik (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bize katılır (ve güler yüzle bizimle şakalaşır)di. Hattâ (kuşu ölen) küçük bir kardeşime; Ey Ebû Umeyr, Nuğayr (kuşcağız) ne oldu der (şakalaşır) di. Vekî demiştir ki: O, (nuğayr ile) bîr kuş kasdeder ki Enes'in kardeşi onunla oynardı",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 33,
+        "hadith": 64
+      }
+    }
+  ]
 }

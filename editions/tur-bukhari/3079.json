@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3079,
-			"arabicnumber": 3079,
-			"text": "Mücaşi' İbn Mes'ud şöyle demiştir: \"Kardeşim Mücalid İbn Mesud'u Resulullah Sallallahu Aleyhi ve Sellem'e getirdim ve: \"Bu kardeşim Mücalid size hicret etmek üzere bey'at edecek\" dedim. Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Artık Mekke'nin fethinden sonra hicret yoktur! Ancak İslam konusunda onun bey'atIni kabul ediyorum\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 283
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3079,
+      "arabicnumber": 3079,
+      "text": "Mücaşi' İbn Mes'ud şöyle demiştir: \"Kardeşim Mücalid İbn Mesud'u Resulullah Sallallahu Aleyhi ve Sellem'e getirdim ve: \"Bu kardeşim Mücalid size hicret etmek üzere bey'at edecek\" dedim. Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Artık Mekke'nin fethinden sonra hicret yoktur! Ancak İslam konusunda onun bey'atIni kabul ediyorum\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 283
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"5": "Establishing the Prayer and the Sunnah Regarding Them"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 803,
-				"hadithnumber_last": 1432,
-				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1288,
-			"arabicnumber": 1288,
-			"text": "Ebu Said-i el-Hudri (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), bayram günü (musallaya) çıkardı cemaata iki rek'at bayram namazı kıldırıp selam verdikten sonra ayakta durup cemaata yüzünü döndürürdü. Cemaat da oturmuş vaziyette olurdu Efendimiz (Sallallahu Aleyhi ve Sellem) : «Sadaka veriniz sadaka veriniz» buyururdu. En çok sadaka verenler kadınlardı. Bunlar küpelerini, yüzüklerini ve neleri varsa (verirlerdi.) Sonra Efendimiz savaş için asker göndermek istese veya başka bir iş varsa cemaata anlatırdı bir emri yoksa dönüp giderdi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Bukhari And Muslim"
-				}
-			],
-			"reference": {
-				"book": 5,
-				"hadith": 486
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "5": "Namazı Lâyıkı Veçhile Eda Etmek Ondaki Sünnetler Kitabı"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 803,
+        "hadithnumber_last": 1432,
+        "arabicnumber_first": 803,
+        "arabicnumber_last": 1432
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1288,
+      "arabicnumber": 1288,
+      "text": "Ebu Said-i el-Hudri (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), bayram günü (musallaya) çıkardı cemaata iki rek'at bayram namazı kıldırıp selam verdikten sonra ayakta durup cemaata yüzünü döndürürdü. Cemaat da oturmuş vaziyette olurdu Efendimiz (Sallallahu Aleyhi ve Sellem) : «Sadaka veriniz sadaka veriniz» buyururdu. En çok sadaka verenler kadınlardı. Bunlar küpelerini, yüzüklerini ve neleri varsa (verirlerdi.) Sonra Efendimiz savaş için asker göndermek istese veya başka bir iş varsa cemaata anlatırdı bir emri yoksa dönüp giderdi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "book": 5,
+        "hadith": 486
+      }
+    }
+  ]
 }

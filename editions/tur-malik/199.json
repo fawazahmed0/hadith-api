@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"3": "Prayer"
-		},
-		"section_detail": {
-			"3": {
-				"hadithnumber_first": 146,
-				"hadithnumber_last": 221,
-				"arabicnumber_first": 146,
-				"arabicnumber_last": 221
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 199,
-			"arabicnumber": 199,
-			"text": "Muğire bin Hakîm dedi ki: Abdullah bin Ömer iki secdede de ayaklarının altını yere yaslayıp dizlerini bükerek oturuyordu. Namazdan sonra Mugire, niçin böyle yaptığını sorunca, Abdullah: «— Namazda böyle oturmak sünnet değildir. Ben, ayağım rahatsız olduğu için böyle oturuyorum!» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 3,
-				"hadith": 32
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "3": "Namaz"
+    },
+    "section_detail": {
+      "3": {
+        "hadithnumber_first": 146,
+        "hadithnumber_last": 221,
+        "arabicnumber_first": 146,
+        "arabicnumber_last": 221
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 199,
+      "arabicnumber": 199,
+      "text": "Muğire bin Hakîm dedi ki: Abdullah bin Ömer iki secdede de ayaklarının altını yere yaslayıp dizlerini bükerek oturuyordu. Namazdan sonra Mugire, niçin böyle yaptığını sorunca, Abdullah: «— Namazda böyle oturmak sünnet değildir. Ben, ayağım rahatsız olduğu için böyle oturuyorum!» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 3,
+        "hadith": 32
+      }
+    }
+  ]
 }

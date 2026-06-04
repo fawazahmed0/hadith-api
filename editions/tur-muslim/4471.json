@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"30": "The Book of Judicial Decisions"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 4470,
-				"hadithnumber_last": 4497,
-				"arabicnumber_first": 1711.01,
-				"arabicnumber_last": 1721
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4471,
-			"arabicnumber": "1711.02",
-			"text": "Bize Ebû Bekir b. Ebî Şeybe de rivayet etti. (Dediki): Bize Muhammed b. Bişr, Nâfi' b. Ömer'den, o da İbni Ebî Müleyke'den, o da İbni Abbâs'dan naklen rivayet etti ki, ResûluIIah (Sallallahu Aleyhi ve Sellem) da'vâlıya yemin lazım geldiğine hüküm buyurmuş",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 2
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "30": "Da'vâlar"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 4470,
+        "hadithnumber_last": 4497,
+        "arabicnumber_first": 1711.01,
+        "arabicnumber_last": 1721
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4471,
+      "arabicnumber": "1711.02",
+      "text": "Bize Ebû Bekir b. Ebî Şeybe de rivayet etti. (Dediki): Bize Muhammed b. Bişr, Nâfi' b. Ömer'den, o da İbni Ebî Müleyke'den, o da İbni Abbâs'dan naklen rivayet etti ki, ResûluIIah (Sallallahu Aleyhi ve Sellem) da'vâlıya yemin lazım geldiğine hüküm buyurmuş",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 2
+      }
+    }
+  ]
 }

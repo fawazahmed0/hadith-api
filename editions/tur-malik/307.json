@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"8": "Prayer in Congregation"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 287,
-				"hadithnumber_last": 325,
-				"arabicnumber_first": 287,
-				"arabicnumber_last": 325
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 307,
-			"arabicnumber": 307,
-			"text": "Abdullah b. Amr b. el-As (r.a.)'den: Medine'ye gelince salgın veba hastalığa yakalandık. Resulullah Sallallahu Aleyhi ve Sellem cemaatin yanına gitti, oturarak nafile namaz kıldıklarını görünce: «Oturarak kılınan namaz, ayakta kılınan namaz'ın yarısı gibidir.» buyurdu. İsnad bilgisi: İbn Abdilber der ki: Bu hadis, munkati' dir. Çünkü Zührî, îbn Amr île görüşmemiştir. Mahir: Bu tedlistir ve yapan kişi hadis ilminde ehil değilse büyük sakınca doğurur ve Şafii'nin dediği gibi yalanla kardeştir. Ancak İbn-i Şihab ez-Zühri gibi tüm hadis tasnifinde en önemli yerlerden birine sahip birisi yaparsa bu en fazla ihmal, muhtemelen lüzum duymadığı hadisi aldığı kişinin güvenilirliğinden emin olduğu içindir. Kısacası munkati' vasfı bu hadis için yeterli bir açıklama değildir. İbn-i Abdilberr meseleyi teknik anlamda değerlendirmiştir. En doğrusunu sadece Allahu Azimuşşan bilir. BU VE ÖNCEKİ HADİS’İN BENZERİ OLAN EBU DAVUD RİVAYETİ VE İZAH İÇİN BURAYA TIKLAYIN",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 21
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "8": "Cemaatle Namaz"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 287,
+        "hadithnumber_last": 325,
+        "arabicnumber_first": 287,
+        "arabicnumber_last": 325
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 307,
+      "arabicnumber": 307,
+      "text": "Abdullah b. Amr b. el-As (r.a.)'den: Medine'ye gelince salgın veba hastalığa yakalandık. Resulullah Sallallahu Aleyhi ve Sellem cemaatin yanına gitti, oturarak nafile namaz kıldıklarını görünce: «Oturarak kılınan namaz, ayakta kılınan namaz'ın yarısı gibidir.» buyurdu. İsnad bilgisi: İbn Abdilber der ki: Bu hadis, munkati' dir. Çünkü Zührî, îbn Amr île görüşmemiştir. Mahir: Bu tedlistir ve yapan kişi hadis ilminde ehil değilse büyük sakınca doğurur ve Şafii'nin dediği gibi yalanla kardeştir. Ancak İbn-i Şihab ez-Zühri gibi tüm hadis tasnifinde en önemli yerlerden birine sahip birisi yaparsa bu en fazla ihmal, muhtemelen lüzum duymadığı hadisi aldığı kişinin güvenilirliğinden emin olduğu içindir. Kısacası munkati' vasfı bu hadis için yeterli bir açıklama değildir. İbn-i Abdilberr meseleyi teknik anlamda değerlendirmiştir. En doğrusunu sadece Allahu Azimuşşan bilir. BU VE ÖNCEKİ HADİS’İN BENZERİ OLAN EBU DAVUD RİVAYETİ VE İZAH İÇİN BURAYA TIKLAYIN",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 21
+      }
+    }
+  ]
 }

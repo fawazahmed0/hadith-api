@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 812,
-			"arabicnumber": 812,
-			"text": "Mervan b. el-Hakem'den; demiştir ki: Zeyd b. Sabit bana: \"Sen niçin akşam namazlarında Kısaru'l-Mıfassal (denilen kısa sureleri) okuyorsun? Halbuki ben Resulullah (Sallallahu aleyhi ve Sellem)'i akşam namazında en uzun iki surenin uzununu (Tula et-Tuleyeyn) okurken görmüştüm\" dedi. (Ravî İbn Ebi Müleyke) dedi ki (Urve'ye): Tula et-Tuleyeyn nedir? dedim: (Biri) A'raf, (diğeri) de En'am'dır, dedi. (Ravi İbn Cureyc) eledi ki: Ben İbn Ebî Muleyke'ye (bu iki uzun surenin hangi sureler olduğunu) sordum da, (hiç bir kimsenin rivayetine baş vurmadan) kendiliğinden \"el-Maide ve el-A'raf tır\" deyiverdi. Diğer tahric: Buharî, ezan; Nesaî, iftitah; Ahmed b. Hanbel, V",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari (764)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 422
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 812,
+      "arabicnumber": 812,
+      "text": "Mervan b. el-Hakem'den; demiştir ki: Zeyd b. Sabit bana: \"Sen niçin akşam namazlarında Kısaru'l-Mıfassal (denilen kısa sureleri) okuyorsun? Halbuki ben Resulullah (Sallallahu aleyhi ve Sellem)'i akşam namazında en uzun iki surenin uzununu (Tula et-Tuleyeyn) okurken görmüştüm\" dedi. (Ravî İbn Ebi Müleyke) dedi ki (Urve'ye): Tula et-Tuleyeyn nedir? dedim: (Biri) A'raf, (diğeri) de En'am'dır, dedi. (Ravi İbn Cureyc) eledi ki: Ben İbn Ebî Muleyke'ye (bu iki uzun surenin hangi sureler olduğunu) sordum da, (hiç bir kimsenin rivayetine baş vurmadan) kendiliğinden \"el-Maide ve el-A'raf tır\" deyiverdi. Diğer tahric: Buharî, ezan; Nesaî, iftitah; Ahmed b. Hanbel, V",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (764)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 422
+      }
+    }
+  ]
 }

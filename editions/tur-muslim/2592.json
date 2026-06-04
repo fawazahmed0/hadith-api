@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"13": "The Book of Fasting "
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2495,
-				"hadithnumber_last": 2779,
-				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2592,
-			"arabicnumber": "1109.04",
-			"text": "Bize Yahya b. Yahya rivayet etti. (Dediki) Malik'e, Abdürabbih b. Saîd'den dinlediğim, onun da Ebu Bekir b. Abdirrahman b. Haris b. Hişam'dan, onun da Nebi (Sallallahu Aleyhi ve Sellem) 'in zevceleri Aişe ile Ümmü Seleme'den naklen rivayet ettiği şu hadisi okudum: Aişe ile Ümmü Seleme: «Şüphesiz ki Resulullah (Sallallahu Aleyhi ve Sellem) ramazanda intilam sebebiyle değil, cima dan dolayı cunub olduğu halde sabahlar, sonra oruç tutardı.» demişler. Diğer tahric: Bu hadîsi İbni Mace'nin dışında bütün kütüb-i sitte imamları ve Muvatta muhtelif tariklerden tahrîc etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 98
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "13": "Oruç"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2495,
+        "hadithnumber_last": 2779,
+        "arabicnumber_first": 1079.01,
+        "arabicnumber_last": 1170
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2592,
+      "arabicnumber": "1109.04",
+      "text": "Bize Yahya b. Yahya rivayet etti. (Dediki) Malik'e, Abdürabbih b. Saîd'den dinlediğim, onun da Ebu Bekir b. Abdirrahman b. Haris b. Hişam'dan, onun da Nebi (Sallallahu Aleyhi ve Sellem) 'in zevceleri Aişe ile Ümmü Seleme'den naklen rivayet ettiği şu hadisi okudum: Aişe ile Ümmü Seleme: «Şüphesiz ki Resulullah (Sallallahu Aleyhi ve Sellem) ramazanda intilam sebebiyle değil, cima dan dolayı cunub olduğu halde sabahlar, sonra oruç tutardı.» demişler. Diğer tahric: Bu hadîsi İbni Mace'nin dışında bütün kütüb-i sitte imamları ve Muvatta muhtelif tariklerden tahrîc etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 98
+      }
+    }
+  ]
 }

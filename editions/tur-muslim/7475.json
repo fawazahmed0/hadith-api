@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"55": "The Book of Zuhd and Softening of Hearts "
-		},
-		"section_detail": {
-			"55": {
-				"hadithnumber_first": 7417,
-				"hadithnumber_last": 7522,
-				"arabicnumber_first": 2956,
-				"arabicnumber_last": 3014
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7475,
-			"arabicnumber": "2985",
-			"text": "Bana Züheyr b. Harb rivayet elti. (Dediki): Bize ismail b. ibrahim rivayet etti. (Dediki): Bize Ravh b. Kaâsım, Alâ' b. Abdirrahman b. Ya'kub'dan, o da babasından, o da Ebû Hureyre'den naklen haber verdi. (Demişki): Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdular : «Allah Tebâreke ve Teâfâ: Ben ortakların şirkten en gânisiyîm. Her kim bir amel işler, onda benimle birlikte başkasını ortak eylerse, onu şirkiyle başbaşa bırakırım, buyurdu.» İZAH 2987 DE",
-			"grades": [],
-			"reference": {
-				"book": 55,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "55": "Zühd Ve Rakâik"
+    },
+    "section_detail": {
+      "55": {
+        "hadithnumber_first": 7417,
+        "hadithnumber_last": 7522,
+        "arabicnumber_first": 2956,
+        "arabicnumber_last": 3014
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7475,
+      "arabicnumber": "2985",
+      "text": "Bana Züheyr b. Harb rivayet elti. (Dediki): Bize ismail b. ibrahim rivayet etti. (Dediki): Bize Ravh b. Kaâsım, Alâ' b. Abdirrahman b. Ya'kub'dan, o da babasından, o da Ebû Hureyre'den naklen haber verdi. (Demişki): Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdular : «Allah Tebâreke ve Teâfâ: Ben ortakların şirkten en gânisiyîm. Her kim bir amel işler, onda benimle birlikte başkasını ortak eylerse, onu şirkiyle başbaşa bırakırım, buyurdu.» İZAH 2987 DE",
+      "grades": [],
+      "reference": {
+        "book": 55,
+        "hadith": 58
+      }
+    }
+  ]
 }

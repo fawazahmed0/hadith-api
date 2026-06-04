@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"41": "Hudud"
-		},
-		"section_detail": {
-			"41": {
-				"hadithnumber_first": 1500,
-				"hadithnumber_last": 1536,
-				"arabicnumber_first": 1500,
-				"arabicnumber_last": 1536
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1526,
-			"arabicnumber": 1526,
-			"text": "Nafi'den: Abdullah b. Ömer'in kölesi kendisini terkedip kaçtı ve hırsızlık yaptı. (Daha sonra yanına dönünce) Abdullah b. Ömer bunu, elini kesmesi için Medine valisi bulunan Said b. As'in yanına gönderdi. Vali elini kesmekten kaçınarak: «— Efendisinden kaçan köle hırsızlık yapınca eli kesilmez» deyince, Abdullah b. Ömer: «— Bunu Allah'ın hangi kitabının neresinde buldun?» dedi. Sonra kendisi emir verdi, hırsızın eli kesildi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Sahih"
-				}
-			],
-			"reference": {
-				"book": 41,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "41": "Hudud (Şer'î Cezalar)"
+    },
+    "section_detail": {
+      "41": {
+        "hadithnumber_first": 1500,
+        "hadithnumber_last": 1536,
+        "arabicnumber_first": 1500,
+        "arabicnumber_last": 1536
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1526,
+      "arabicnumber": 1526,
+      "text": "Nafi'den: Abdullah b. Ömer'in kölesi kendisini terkedip kaçtı ve hırsızlık yaptı. (Daha sonra yanına dönünce) Abdullah b. Ömer bunu, elini kesmesi için Medine valisi bulunan Said b. As'in yanına gönderdi. Vali elini kesmekten kaçınarak: «— Efendisinden kaçan köle hırsızlık yapınca eli kesilmez» deyince, Abdullah b. Ömer: «— Bunu Allah'ın hangi kitabının neresinde buldun?» dedi. Sonra kendisi emir verdi, hırsızın eli kesildi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Sahih"
+        }
+      ],
+      "reference": {
+        "book": 41,
+        "hadith": 7
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1700,
-			"arabicnumber": 1700,
-			"text": "Amre binti Abdurrahman şöyle demiştir: Ziyad İbn Ebu Süfyan, Hz. Aişe'ye yazdığı mektupta şöyle diyordu: İbn Abbas, \"hacıya haram olan şeyler hedy kurbanı gönderen kişiye de kurbanı kesilinceye dek haram olur\" dedi. Amre binti Abdurrahman'ın rivayetine göre o yazılan cevapta Hz. Aişe şöyle demişti: \"İbn Abbas'ın dediği gibi değil. Resulullah Sallallahu Aleyhi ve Sellem'in hayvanının boynuna takacağı ipi ben ellerimle ördüm, sonra da Resulullah Sallallahu Aleyhi ve Sellem bunu elleriyle hayvana taktı. Hayvanı da babamla birlikte Kabe'ye gönderdi. Hayvan kesilinceye dek Allah'ın helal kıldığı bir şey Resulullah'a haram olmadı",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 178
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1700,
+      "arabicnumber": 1700,
+      "text": "Amre binti Abdurrahman şöyle demiştir: Ziyad İbn Ebu Süfyan, Hz. Aişe'ye yazdığı mektupta şöyle diyordu: İbn Abbas, \"hacıya haram olan şeyler hedy kurbanı gönderen kişiye de kurbanı kesilinceye dek haram olur\" dedi. Amre binti Abdurrahman'ın rivayetine göre o yazılan cevapta Hz. Aişe şöyle demişti: \"İbn Abbas'ın dediği gibi değil. Resulullah Sallallahu Aleyhi ve Sellem'in hayvanının boynuna takacağı ipi ben ellerimle ördüm, sonra da Resulullah Sallallahu Aleyhi ve Sellem bunu elleriyle hayvana taktı. Hayvanı da babamla birlikte Kabe'ye gönderdi. Hayvan kesilinceye dek Allah'ın helal kıldığı bir şey Resulullah'a haram olmadı",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 178
+      }
+    }
+  ]
 }

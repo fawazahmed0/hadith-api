@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3277,
-			"arabicnumber": "1343.02",
-			"text": "Bize Yahya b. Yahya ile Züheyr b. Harb hep birden, Ebû Muâviye'den rivayet ettiler. H. Bana Hâmid b. Ömer de rivayet etti. (Dediki): Bize Abdülvâhid rivayet etti. Her iki râvi Âsım'dan bu isnâdla bu hadîsin mislini rivayet etmişlerdir. Şu kadar var ki, Abdülvâhid hadîsinde: «mal ve aileden»; (Ebû Muâviye) Muhammed b. Hâzim rivayetinde ise: «döndüğünde aileden işe başlardı.» cümleleri; her ikisinin rivayetlerinde: «yâ Rabbî! Seferin meşakkatinden sana sığınırım.» ifâdesi vardır",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 481
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3277,
+      "arabicnumber": "1343.02",
+      "text": "Bize Yahya b. Yahya ile Züheyr b. Harb hep birden, Ebû Muâviye'den rivayet ettiler. H. Bana Hâmid b. Ömer de rivayet etti. (Dediki): Bize Abdülvâhid rivayet etti. Her iki râvi Âsım'dan bu isnâdla bu hadîsin mislini rivayet etmişlerdir. Şu kadar var ki, Abdülvâhid hadîsinde: «mal ve aileden»; (Ebû Muâviye) Muhammed b. Hâzim rivayetinde ise: «döndüğünde aileden işe başlardı.» cümleleri; her ikisinin rivayetlerinde: «yâ Rabbî! Seferin meşakkatinden sana sığınırım.» ifâdesi vardır",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 481
+      }
+    }
+  ]
 }

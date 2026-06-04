@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"13": "The Two Festivals (Eids)"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 948,
-				"hadithnumber_last": 989,
-				"arabicnumber_first": 948,
-				"arabicnumber_last": 989
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 984,
-			"arabicnumber": 984,
-			"text": "Enes İbn Mâlik (r.a.)'in şöyle dediği nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem), bir Kurban Bayramı günü namazı kıldırdı ve sonra hutbe îrad etti. Hutbede, namazdan önce hayvanlarını kesmiş olanlara yeniden kurban kesmelerini emretti. Bunun üzerine ensardan birisi kalkıp: \"Ey Allah'ın Resulü, benim ihtiyaç sahibi yoksul komşularım var. Ben de onlara dağıtmak üzere namazdan önce hayvanımı kesmiştim. Bununla birlikte sahip olduğum bir keçim daha var. Bu keçi bana göre iki etli koyundan daha değerlidir. Bu keçiyi kurban edebilir miyim?\" diye sordu. Nebi Sallallahu Aleyhi ve Sellem de ona müsaade etti",
-			"grades": [],
-			"reference": {
-				"book": 13,
-				"hadith": 33
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "13": "İki Bayram Namazı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 948,
+        "hadithnumber_last": 989,
+        "arabicnumber_first": 948,
+        "arabicnumber_last": 989
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 984,
+      "arabicnumber": 984,
+      "text": "Enes İbn Mâlik (r.a.)'in şöyle dediği nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem), bir Kurban Bayramı günü namazı kıldırdı ve sonra hutbe îrad etti. Hutbede, namazdan önce hayvanlarını kesmiş olanlara yeniden kurban kesmelerini emretti. Bunun üzerine ensardan birisi kalkıp: \"Ey Allah'ın Resulü, benim ihtiyaç sahibi yoksul komşularım var. Ben de onlara dağıtmak üzere namazdan önce hayvanımı kesmiştim. Bununla birlikte sahip olduğum bir keçim daha var. Bu keçi bana göre iki etli koyundan daha değerlidir. Bu keçiyi kurban edebilir miyim?\" diye sordu. Nebi Sallallahu Aleyhi ve Sellem de ona müsaade etti",
+      "grades": [],
+      "reference": {
+        "book": 13,
+        "hadith": 33
+      }
+    }
+  ]
 }

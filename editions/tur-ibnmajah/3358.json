@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"29": " Chapters on Food"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 3251,
-				"hadithnumber_last": 3370,
-				"arabicnumber_first": 3251,
-				"arabicnumber_last": 3370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3358,
-			"arabicnumber": 3358,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Adam'ın, misafiri ile beraber evin kapısına kadar çıkması (yâni uğurlaması) şüphesiz sünnettendir. Not: Zevaid'de şöyle denilmiştir; Bunun senedinde Ali bin Urve bulunur. Bu ravl. terkedilmiş zayıflardan biridir. İbn-i Hiohan, bunun hadis uydurduğunu söylemiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Mawdu"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 108
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "29": "Yiyecekler Kitabı"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 3251,
+        "hadithnumber_last": 3370,
+        "arabicnumber_first": 3251,
+        "arabicnumber_last": 3370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3358,
+      "arabicnumber": 3358,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: Adam'ın, misafiri ile beraber evin kapısına kadar çıkması (yâni uğurlaması) şüphesiz sünnettendir. Not: Zevaid'de şöyle denilmiştir; Bunun senedinde Ali bin Urve bulunur. Bu ravl. terkedilmiş zayıflardan biridir. İbn-i Hiohan, bunun hadis uydurduğunu söylemiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Mawdu"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 108
+      }
+    }
+  ]
 }

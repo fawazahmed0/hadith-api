@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"34": "Sales and Trade"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 2047,
-				"hadithnumber_last": 2238,
-				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2065,
-			"arabicnumber": 2065,
-			"text": "Aişe r.anha Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: \"Kadın, bir bozgunculukta bulunmaksızın kendi evindeki yiyecekten infak ederse, infak ettiğinin sevabını alır. Kocası da bunu kazanmanın sevabını alır. Hazin (yiyecek vb. şeyleri koruyan bekçi vb. kimseler) için de aynı şey söz konusudur. Bunlar birbirinin sevabını eksiltmez",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 18
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "34": "Alışverişler"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 2047,
+        "hadithnumber_last": 2238,
+        "arabicnumber_first": 2047,
+        "arabicnumber_last": 2238
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2065,
+      "arabicnumber": 2065,
+      "text": "Aişe r.anha Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: \"Kadın, bir bozgunculukta bulunmaksızın kendi evindeki yiyecekten infak ederse, infak ettiğinin sevabını alır. Kocası da bunu kazanmanın sevabını alır. Hazin (yiyecek vb. şeyleri koruyan bekçi vb. kimseler) için de aynı şey söz konusudur. Bunlar birbirinin sevabını eksiltmez",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 18
+      }
+    }
+  ]
 }

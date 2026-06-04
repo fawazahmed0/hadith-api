@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"39": "The Book of Greetings"
-		},
-		"section_detail": {
-			"39": {
-				"hadithnumber_first": 5646,
-				"hadithnumber_last": 5861,
-				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5769,
-			"arabicnumber": "2216",
-			"text": "Bize Abdü'l-Melik b, Şuayb b. Leys b. Sa'd rivayet etti. (Dediki): Bana babam dedemden rivayet etti. (Demişki): Bana ükayl b. Hâlid, İbni Şihâb'dan, o da Urve'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Âişe'den naklen rivayet etti ki: Yakınlarından biri ölür de cenazesine kadınlar toplanır, sonra dağılırlar. Ve yalnız ölenin ailesi ile yakınları kalırsa bir çömlek bulamaç emreder de pişirilirmiş. Sonra tirit yapılır; bulamaç onun üzerine dökülürmüş. Bundan sonra Âişe (kadınlara) şöyle dermiş : — Bundan yeyin! Çünkü ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i: «Bulamaç hastanın kalbini rahatlandırır. Bâzı üzüntüleri giderir.» buyururken işittim",
-			"grades": [],
-			"reference": {
-				"book": 39,
-				"hadith": 121
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "39": "Selâm"
+    },
+    "section_detail": {
+      "39": {
+        "hadithnumber_first": 5646,
+        "hadithnumber_last": 5861,
+        "arabicnumber_first": 2160,
+        "arabicnumber_last": 2245.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5769,
+      "arabicnumber": "2216",
+      "text": "Bize Abdü'l-Melik b, Şuayb b. Leys b. Sa'd rivayet etti. (Dediki): Bana babam dedemden rivayet etti. (Demişki): Bana ükayl b. Hâlid, İbni Şihâb'dan, o da Urve'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Âişe'den naklen rivayet etti ki: Yakınlarından biri ölür de cenazesine kadınlar toplanır, sonra dağılırlar. Ve yalnız ölenin ailesi ile yakınları kalırsa bir çömlek bulamaç emreder de pişirilirmiş. Sonra tirit yapılır; bulamaç onun üzerine dökülürmüş. Bundan sonra Âişe (kadınlara) şöyle dermiş : — Bundan yeyin! Çünkü ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i: «Bulamaç hastanın kalbini rahatlandırır. Bâzı üzüntüleri giderir.» buyururken işittim",
+      "grades": [],
+      "reference": {
+        "book": 39,
+        "hadith": 121
+      }
+    }
+  ]
 }

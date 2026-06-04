@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"40": "The Book Concerning the Use of Correct Words"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 5862,
-				"hadithnumber_last": 5884,
-				"arabicnumber_first": 2246.01,
-				"arabicnumber_last": 2254
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5867,
-			"arabicnumber": "2247.01",
-			"text": "Bize Haccâc b. Şâir rivayet etti. (Dediki): Bize Abdürrezzâk rivayet etti. (Dediki): Bize Ma'mer, Eyyûb'dan, o da İbni Sîrîn'den, o da Ebû Hureyre'den naklen haber verdi. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Sizden bîriniz dehre söğmesin. Çünkü dehr ancak Allah'dir. Ve sizden biriniz üzüm'e kerm demesin. Çünkü kerm müslüman kişidir.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 40,
-				"hadith": 6
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "40": "Edeb, Terbiye Vesaireye Ait Lafızlarla Bahsi"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 5862,
+        "hadithnumber_last": 5884,
+        "arabicnumber_first": 2246.01,
+        "arabicnumber_last": 2254
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5867,
+      "arabicnumber": "2247.01",
+      "text": "Bize Haccâc b. Şâir rivayet etti. (Dediki): Bize Abdürrezzâk rivayet etti. (Dediki): Bize Ma'mer, Eyyûb'dan, o da İbni Sîrîn'den, o da Ebû Hureyre'den naklen haber verdi. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Sizden bîriniz dehre söğmesin. Çünkü dehr ancak Allah'dir. Ve sizden biriniz üzüm'e kerm demesin. Çünkü kerm müslüman kişidir.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 40,
+        "hadith": 6
+      }
+    }
+  ]
 }

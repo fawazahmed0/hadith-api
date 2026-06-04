@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"1": "The Book on Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 148,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 148
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 9,
-			"arabicnumber": 9,
-			"text": "Cabir bin Abdillah (r.a.) demiştir ki: “Nebi (Sallallahu Aleyhi ve Sellem), bizi küçük abdest bozarken kıbleye karşı durmaktan men etmişti. Vefatından bir yıl önce kendisinin kıbleye karşı durduğunu gördüm.’’ Diğer tahric: Ebu Davut, Tahara; İbn Mace, Tahara وفي الباب عن أبي قتادة وعائشة وعمار بن ياسر قال أبو عيسى حديث جابر في هذا الباب حديث حسن غريب Bu konuda; Ebu Katade Aişe ve Ammar b. Yasir’den de hadis rivayet edilmiştir. Tirmizi: Bu konudaki Cabir hadisi hasen garibtir demiştir",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 9
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 148,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 148
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 9,
+      "arabicnumber": 9,
+      "text": "Cabir bin Abdillah (r.a.) demiştir ki: “Nebi (Sallallahu Aleyhi ve Sellem), bizi küçük abdest bozarken kıbleye karşı durmaktan men etmişti. Vefatından bir yıl önce kendisinin kıbleye karşı durduğunu gördüm.’’ Diğer tahric: Ebu Davut, Tahara; İbn Mace, Tahara وفي الباب عن أبي قتادة وعائشة وعمار بن ياسر قال أبو عيسى حديث جابر في هذا الباب حديث حسن غريب Bu konuda; Ebu Katade Aişe ve Ammar b. Yasir’den de hadis rivayet edilmiştir. Tirmizi: Bu konudaki Cabir hadisi hasen garibtir demiştir",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 9
+      }
+    }
+  ]
 }

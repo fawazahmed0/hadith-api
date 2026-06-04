@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3244,
-			"arabicnumber": "1333.05",
-			"text": "Bana Muhammed b. Hatim rivayet etti. (dediki): Bana İbni Mehdî rivayet etti. (Dediki): Bize Selim b. Hayyân, Saîd yani İbni Mînârdan naklen rivayet etti. (Demişki): Abdullah b. Zübeyr'i şunu söylerken işittim: Bana teyzem yani Âişe dediki: Resûlullah (Sallallahu Aleyhi ve Sellem): — Yâ Âişe! Eğer kavmin şirkten yeni kurtulmuş olmasaydı ben kâ'be'yi yıkar da yere yapışrk (aiçakj yapardım. Ona biri doğuda, biri batıda olmak üzere iki kapı açardım. Hicr tarafından da ona altı arşın yer katardım. Çünkü Kureyş Kâ'be'yi bina ederken onu küçültmüştür buyurdular)",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 448
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3244,
+      "arabicnumber": "1333.05",
+      "text": "Bana Muhammed b. Hatim rivayet etti. (dediki): Bana İbni Mehdî rivayet etti. (Dediki): Bize Selim b. Hayyân, Saîd yani İbni Mînârdan naklen rivayet etti. (Demişki): Abdullah b. Zübeyr'i şunu söylerken işittim: Bana teyzem yani Âişe dediki: Resûlullah (Sallallahu Aleyhi ve Sellem): — Yâ Âişe! Eğer kavmin şirkten yeni kurtulmuş olmasaydı ben kâ'be'yi yıkar da yere yapışrk (aiçakj yapardım. Ona biri doğuda, biri batıda olmak üzere iki kapı açardım. Hicr tarafından da ona altı arşın yer katardım. Çünkü Kureyş Kâ'be'yi bina ederken onu küçültmüştür buyurdular)",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 448
+      }
+    }
+  ]
 }

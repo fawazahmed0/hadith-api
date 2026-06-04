@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"52": "Witnesses"
-		},
-		"section_detail": {
-			"52": {
-				"hadithnumber_first": 2637,
-				"hadithnumber_last": 2689,
-				"arabicnumber_first": 2637,
-				"arabicnumber_last": 2689
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2689,
-			"arabicnumber": 2689,
-			"text": "Ebu Hureyre r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"İnsanlar ezan okumanın ve birinci saf ta namaz kılmanın değerini bilseler ve kur'a çekmekten başka yol bulamasalardı aralarında kur'a çekerlerdi. Namaza erken gitmenin değerini bilselerdi birbirleriyle yarışırlardı. Yatsı ve sabah namazının değerini bilselerdi sürünerek de olsa namaza gelirlerdi",
-			"grades": [],
-			"reference": {
-				"book": 52,
-				"hadith": 50
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "52": "Şehâdetler"
+    },
+    "section_detail": {
+      "52": {
+        "hadithnumber_first": 2637,
+        "hadithnumber_last": 2689,
+        "arabicnumber_first": 2637,
+        "arabicnumber_last": 2689
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2689,
+      "arabicnumber": 2689,
+      "text": "Ebu Hureyre r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"İnsanlar ezan okumanın ve birinci saf ta namaz kılmanın değerini bilseler ve kur'a çekmekten başka yol bulamasalardı aralarında kur'a çekerlerdi. Namaza erken gitmenin değerini bilselerdi birbirleriyle yarışırlardı. Yatsı ve sabah namazının değerini bilselerdi sürünerek de olsa namaza gelirlerdi",
+      "grades": [],
+      "reference": {
+        "book": 52,
+        "hadith": 50
+      }
+    }
+  ]
 }

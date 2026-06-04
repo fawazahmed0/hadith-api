@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"25": "The Office of the Judge (Kitab Al-Aqdiyah)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 3571,
-				"hadithnumber_last": 3640,
-				"arabicnumber_first": 3571,
-				"arabicnumber_last": 3640
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3618,
-			"arabicnumber": 3618,
-			"text": "Saîd b. Ebî Arube'den, (yine) aynen (3613 numaralı) îbn Minhal (hadisinin) senediyle rivayet edilmiştir ki, Ebu Musa el-Eş'arî şöyle dedi: (İki adam) bir hayvan üzerinde (hak iddia ederek Nebi (Sallallahu Aleyhi ve Sellem)'e başvurdular), ikisinin de şahidi yoktu. Rasûlullah (Sallallahu Aleyhi ve Sellem) onlara (sonunda) yemin etmek üzere kur'a çekmelerini emir buyurdu. Ayrıca bu hadis'i Nesâî, kudât; İbn Mâce, ahkâm da tahric ettiler",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih Lighairihi"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 25,
-				"hadith": 48
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "25": "Davalar Bölümü"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 3571,
+        "hadithnumber_last": 3640,
+        "arabicnumber_first": 3571,
+        "arabicnumber_last": 3640
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3618,
+      "arabicnumber": 3618,
+      "text": "Saîd b. Ebî Arube'den, (yine) aynen (3613 numaralı) îbn Minhal (hadisinin) senediyle rivayet edilmiştir ki, Ebu Musa el-Eş'arî şöyle dedi: (İki adam) bir hayvan üzerinde (hak iddia ederek Nebi (Sallallahu Aleyhi ve Sellem)'e başvurdular), ikisinin de şahidi yoktu. Rasûlullah (Sallallahu Aleyhi ve Sellem) onlara (sonunda) yemin etmek üzere kur'a çekmelerini emir buyurdu. Ayrıca bu hadis'i Nesâî, kudât; İbn Mâce, ahkâm da tahric ettiler",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 25,
+        "hadith": 48
+      }
+    }
+  ]
 }

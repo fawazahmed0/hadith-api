@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"2": "Purity"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 32,
-				"hadithnumber_last": 145,
-				"arabicnumber_first": 32,
-				"arabicnumber_last": 145
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 87,
-			"arabicnumber": 87,
-			"text": "Saîd b. el-Müseyyeb'den: «Namaz kılarken yaşlık hissediyorum, böyle hallerde namazı bozayım mı?» diye soran bir adam'a: «Bacağımın üzerine aksa bile namazımı bitirene kadar hiçbir şey yapmam.» diye cevap verdi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Maqtu Sahih"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 56
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "2": "Taharet (Temizlik)"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 32,
+        "hadithnumber_last": 145,
+        "arabicnumber_first": 32,
+        "arabicnumber_last": 145
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 87,
+      "arabicnumber": 87,
+      "text": "Saîd b. el-Müseyyeb'den: «Namaz kılarken yaşlık hissediyorum, böyle hallerde namazı bozayım mı?» diye soran bir adam'a: «Bacağımın üzerine aksa bile namazımı bitirene kadar hiçbir şey yapmam.» diye cevap verdi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Maqtu Sahih"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 56
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"34": "The Book of Hunting, Slaughter, and what may be Eaten"
-		},
-		"section_detail": {
-			"34": {
-				"hadithnumber_first": 4972,
-				"hadithnumber_last": 5063,
-				"arabicnumber_first": 1929.01,
-				"arabicnumber_last": 1959
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4981,
-			"arabicnumber": "1929.10",
-			"text": "Bana Velid b. Şûca'es-Sekûnî rivayet etti. (Dediki): Bize Ali b. Müshir, Asım'dan, o da Şa'bî'den, o da Adîyy b. Hâtim'den naklen rivayet etti. (Şöyle demiş): Bana Resûlullah (Sallallahu Aleyhi ve Sellem), «Köpeğini saldığın vakit hemen üzerine besmele çek. Şayet senin için tutarda ava diri İken yetişirsen, onu kesiver. Öldürmüş de ondan yememiş olduğu halde yetişirsen onu ye! Köpeğinle beraber başka bîr köpek bulur san avı da öldürmüşse yeme. Çünkü onu hangisinin öldürdüğünü bilmezsin. Okunu atarsan besmeleyi çekiver. Eğer av senden bir gün kaybolur da onda senin okunun eserinden başka bir şey bulamazsan dilersen ye! Avı suda boğulmuş bulursan yeme!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 34,
-				"hadith": 10
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "34": "Av, Kesilen Ve Eti Yenen Hayvanlar Bahsi"
+    },
+    "section_detail": {
+      "34": {
+        "hadithnumber_first": 4972,
+        "hadithnumber_last": 5063,
+        "arabicnumber_first": 1929.01,
+        "arabicnumber_last": 1959
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4981,
+      "arabicnumber": "1929.10",
+      "text": "Bana Velid b. Şûca'es-Sekûnî rivayet etti. (Dediki): Bize Ali b. Müshir, Asım'dan, o da Şa'bî'den, o da Adîyy b. Hâtim'den naklen rivayet etti. (Şöyle demiş): Bana Resûlullah (Sallallahu Aleyhi ve Sellem), «Köpeğini saldığın vakit hemen üzerine besmele çek. Şayet senin için tutarda ava diri İken yetişirsen, onu kesiver. Öldürmüş de ondan yememiş olduğu halde yetişirsen onu ye! Köpeğinle beraber başka bîr köpek bulur san avı da öldürmüşse yeme. Çünkü onu hangisinin öldürdüğünü bilmezsin. Okunu atarsan besmeleyi çekiver. Eğer av senden bir gün kaybolur da onda senin okunun eserinden başka bir şey bulamazsan dilersen ye! Avı suda boğulmuş bulursan yeme!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 34,
+        "hadith": 10
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"12": "The Book of Zakat"
-		},
-		"section_detail": {
-			"12": {
-				"hadithnumber_first": 2263,
-				"hadithnumber_last": 2494,
-				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2445,
-			"arabicnumber": "1060.03",
-			"text": "{…} Bize Mahled b. Hâlid Eş-Şairi rivayet etti. (Dediki): Bize Süfyân rivayet etti. (Dediki): Bana Ömer b. Saîd bu isnâdla rivayet etti. Ama bu hadîsde Âlkametü'bnü Ulâse ile Safvân b. Ümeyye'yi zikretmedi. Hadîsinde şiirden de bahsetmedi",
-			"grades": [],
-			"reference": {
-				"book": 12,
-				"hadith": 182
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "12": "Zekât"
+    },
+    "section_detail": {
+      "12": {
+        "hadithnumber_first": 2263,
+        "hadithnumber_last": 2494,
+        "arabicnumber_first": 979.01,
+        "arabicnumber_last": 1078.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2445,
+      "arabicnumber": "1060.03",
+      "text": "{…} Bize Mahled b. Hâlid Eş-Şairi rivayet etti. (Dediki): Bize Süfyân rivayet etti. (Dediki): Bana Ömer b. Saîd bu isnâdla rivayet etti. Ama bu hadîsde Âlkametü'bnü Ulâse ile Safvân b. Ümeyye'yi zikretmedi. Hadîsinde şiirden de bahsetmedi",
+      "grades": [],
+      "reference": {
+        "book": 12,
+        "hadith": 182
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2814,
-			"arabicnumber": 2814,
-			"text": "Enes İbn Malik r.a.'den nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem, Bi'ri Maune olayında ashabını öldürenlere, Allah'a ve Resulü'ne isyan eden Ri'l, Zekvan ve Usayye kabilelerine otuz gün boyunca sabah namazlarında beddua etti. işte bu olayda öldürülen sahabiler hakkında bizim bir süre okuduğumuz fakat daha sonra neshedilen şu ayet indi: \"Kavmimize haber verin ki biz Rabbimize kavuştuk; O bizden razı oldu biz de O'ndan razı olduk",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2814,
+      "arabicnumber": 2814,
+      "text": "Enes İbn Malik r.a.'den nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem, Bi'ri Maune olayında ashabını öldürenlere, Allah'a ve Resulü'ne isyan eden Ri'l, Zekvan ve Usayye kabilelerine otuz gün boyunca sabah namazlarında beddua etti. işte bu olayda öldürülen sahabiler hakkında bizim bir süre okuduğumuz fakat daha sonra neshedilen şu ayet indi: \"Kavmimize haber verin ki biz Rabbimize kavuştuk; O bizden razı oldu biz de O'ndan razı olduk",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 30
+      }
+    }
+  ]
 }

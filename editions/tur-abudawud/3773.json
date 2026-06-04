@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"28": "Foods (Kitab Al-At'imah)"
-		},
-		"section_detail": {
-			"28": {
-				"hadithnumber_first": 3736,
-				"hadithnumber_last": 3854,
-				"arabicnumber_first": 3736,
-				"arabicnumber_last": 3854
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3773,
-			"arabicnumber": 3773,
-			"text": "Abdullah b. Büsr dedi ki: Nebi (s.a.v.)'in \"el-Garrâ\" isimli bir yemek kabı vardı ki onu (ancak) dört kişi taşıyabilirdi. (Müslümanlar) kurban bayramı gününe girip de kurban bayramı namazını kıldıkları vakit, bu kab içine tirit konmuş olduğu halde getirildi. (Halk) hemen onun etrafında toplandı. (Yemeğin etrafında toplanan halk) çoğalınca Rasûlullah (s.a.v.) da diz çöküp oturdu. Bunun üzerine (orada bulunan) bir bedevi (Hz. Nebi'e): Bu şekilde oturuş(un manası) nedir? diye sordu. (Hz. Nebi de): \"Şüphesiz ki Allah beni mütevazi bir kul olarak yetiştirdi. Zalim ve inatçı (bir insan) olarak yetiştirmedi.\" cevabını verdi. Sonra; \"(Haydi, yemeğin) kenarlarından yeyiniz. Bereketin üzerine indiği tepesin(den yemey)i bırakınız\" buyurdu",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 28,
-				"hadith": 38
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "28": "Yiyecekler Bölümü"
+    },
+    "section_detail": {
+      "28": {
+        "hadithnumber_first": 3736,
+        "hadithnumber_last": 3854,
+        "arabicnumber_first": 3736,
+        "arabicnumber_last": 3854
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3773,
+      "arabicnumber": 3773,
+      "text": "Abdullah b. Büsr dedi ki: Nebi (s.a.v.)'in \"el-Garrâ\" isimli bir yemek kabı vardı ki onu (ancak) dört kişi taşıyabilirdi. (Müslümanlar) kurban bayramı gününe girip de kurban bayramı namazını kıldıkları vakit, bu kab içine tirit konmuş olduğu halde getirildi. (Halk) hemen onun etrafında toplandı. (Yemeğin etrafında toplanan halk) çoğalınca Rasûlullah (s.a.v.) da diz çöküp oturdu. Bunun üzerine (orada bulunan) bir bedevi (Hz. Nebi'e): Bu şekilde oturuş(un manası) nedir? diye sordu. (Hz. Nebi de): \"Şüphesiz ki Allah beni mütevazi bir kul olarak yetiştirdi. Zalim ve inatçı (bir insan) olarak yetiştirmedi.\" cevabını verdi. Sonra; \"(Haydi, yemeğin) kenarlarından yeyiniz. Bereketin üzerine indiği tepesin(den yemey)i bırakınız\" buyurdu",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 28,
+        "hadith": 38
+      }
+    }
+  ]
 }

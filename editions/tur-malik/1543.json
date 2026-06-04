@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"42": "Drinks"
-		},
-		"section_detail": {
-			"42": {
-				"hadithnumber_first": 1537,
-				"hadithnumber_last": 1551,
-				"arabicnumber_first": 1537,
-				"arabicnumber_last": 1551
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1543,
-			"arabicnumber": 1543,
-			"text": "Ata b. Yesar'dan: «Resulullah Sallallahu Aleyhi ve Sellem koruk hurma ile olgunlaşmış taze hurmanın ve kuru hurma ile kuru üzümün aynı kabda şıra yapılmasını yasakladı.»",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Sahih Lighairihi"
-				}
-			],
-			"reference": {
-				"book": 42,
-				"hadith": 7
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "42": "İçecekler ve İçkiler"
+    },
+    "section_detail": {
+      "42": {
+        "hadithnumber_first": 1537,
+        "hadithnumber_last": 1551,
+        "arabicnumber_first": 1537,
+        "arabicnumber_last": 1551
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1543,
+      "arabicnumber": 1543,
+      "text": "Ata b. Yesar'dan: «Resulullah Sallallahu Aleyhi ve Sellem koruk hurma ile olgunlaşmış taze hurmanın ve kuru hurma ile kuru üzümün aynı kabda şıra yapılmasını yasakladı.»",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Sahih Lighairihi"
+        }
+      ],
+      "reference": {
+        "book": 42,
+        "hadith": 7
+      }
+    }
+  ]
 }

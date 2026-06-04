@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"31": "Praying at Night in Ramadaan (Taraweeh)"
-		},
-		"section_detail": {
-			"31": {
-				"hadithnumber_first": 2008,
-				"hadithnumber_last": 2013,
-				"arabicnumber_first": 2008,
-				"arabicnumber_last": 2013
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2012,
-			"arabicnumber": 2012,
-			"text": "Aişe r.anha rivayet etmiştir: Resulullah Sallallahu Aleyhi ve Sellem bir gece ortasında çıkarak mescitte namaz kıldı. Bazı kimseler de onun namazına uyup namaz kıldılar. Ertesi gün insanlar bundan bahsettiler. İkinci gece daha çok kimse toplandı. Nebi Sallallahu Aleyhi ve Sellem namaz kıldı, insanlar da onunla birlikte namaz kıldılar. Ertesi gün yine insanlar bundan bahsettiler. Üçüncü gece mesciddekilerin sayısı daha da çoğaldı. Hz. Nebi çıkıp namaz kıldı, insanlar da onunla birlikte namaz kıldılar. Dördüncü gece olunca mescid o kadar doldu ki İnsanları almadı. Ancak Hz. Nebi Sallallahu Aleyhi ve Sellem sabah namazına kadar çıkmadı. Sabah namazını kıldırınca insanlara döndü, şehadet getirdi sonra şunları söyledi: \"Sizin yaptığınız bana gizli kalmadı. Ancak ben bu namazın size farz kılınmasından ve sonra da bu namazı kılamamanızdan korktum\". Hz. Nebi, durum bu halde devam ederken vefat etti",
-			"grades": [],
-			"reference": {
-				"book": 31,
-				"hadith": 5
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "31": "Teravih Namazı"
+    },
+    "section_detail": {
+      "31": {
+        "hadithnumber_first": 2008,
+        "hadithnumber_last": 2013,
+        "arabicnumber_first": 2008,
+        "arabicnumber_last": 2013
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2012,
+      "arabicnumber": 2012,
+      "text": "Aişe r.anha rivayet etmiştir: Resulullah Sallallahu Aleyhi ve Sellem bir gece ortasında çıkarak mescitte namaz kıldı. Bazı kimseler de onun namazına uyup namaz kıldılar. Ertesi gün insanlar bundan bahsettiler. İkinci gece daha çok kimse toplandı. Nebi Sallallahu Aleyhi ve Sellem namaz kıldı, insanlar da onunla birlikte namaz kıldılar. Ertesi gün yine insanlar bundan bahsettiler. Üçüncü gece mesciddekilerin sayısı daha da çoğaldı. Hz. Nebi çıkıp namaz kıldı, insanlar da onunla birlikte namaz kıldılar. Dördüncü gece olunca mescid o kadar doldu ki İnsanları almadı. Ancak Hz. Nebi Sallallahu Aleyhi ve Sellem sabah namazına kadar çıkmadı. Sabah namazını kıldırınca insanlara döndü, şehadet getirdi sonra şunları söyledi: \"Sizin yaptığınız bana gizli kalmadı. Ancak ben bu namazın size farz kılınmasından ve sonra da bu namazı kılamamanızdan korktum\". Hz. Nebi, durum bu halde devam ederken vefat etti",
+      "grades": [],
+      "reference": {
+        "book": 31,
+        "hadith": 5
+      }
+    }
+  ]
 }

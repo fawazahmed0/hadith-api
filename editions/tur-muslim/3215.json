@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3215,
-			"arabicnumber": "1324.02",
-			"text": "Bana Selemetu'bnü Şebîb rivayet etti. (Dediki): Bize Hasen b. A'yen rivayet etti. (Dediki): Bize Ma'kıl, Ebû'z-Zübeyr'den, naklen rivayet etti. Ebû'z-Zübeyr şöyle demiş: KİTAPTAKİ BASKI HATASI YADA BAŞKA BİR NEDENLE BURADAN İTİBAREN VE DAHİ 1325 / 377 VE 1326 / 378 VE İZAHATLAR MEVCUD DEĞİL",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 419
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3215,
+      "arabicnumber": "1324.02",
+      "text": "Bana Selemetu'bnü Şebîb rivayet etti. (Dediki): Bize Hasen b. A'yen rivayet etti. (Dediki): Bize Ma'kıl, Ebû'z-Zübeyr'den, naklen rivayet etti. Ebû'z-Zübeyr şöyle demiş: KİTAPTAKİ BASKI HATASI YADA BAŞKA BİR NEDENLE BURADAN İTİBAREN VE DAHİ 1325 / 377 VE 1326 / 378 VE İZAHATLAR MEVCUD DEĞİL",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 419
+      }
+    }
+  ]
 }

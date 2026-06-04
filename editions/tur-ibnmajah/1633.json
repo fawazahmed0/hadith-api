@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"6": "Chapters Regarding Funerals"
-		},
-		"section_detail": {
-			"6": {
-				"hadithnumber_first": 1433,
-				"hadithnumber_last": 1637,
-				"arabicnumber_first": 1433,
-				"arabicnumber_last": 1637
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1633,
-			"arabicnumber": 1633,
-			"text": "Ubey bin Ka'b (r.a.)'den; şöyle demiştir: Biz, Resulullah (Sallallahu Aleyhi ve Sellem) ile beraber iken hedef ve gayemiz tek idi. O, vefat edince biz şöyle baktık, böyle baktık. (Hedeflerimiz ayrıldı)",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 6,
-				"hadith": 201
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "6": "Cenazeler Kitabı"
+    },
+    "section_detail": {
+      "6": {
+        "hadithnumber_first": 1433,
+        "hadithnumber_last": 1637,
+        "arabicnumber_first": 1433,
+        "arabicnumber_last": 1637
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1633,
+      "arabicnumber": 1633,
+      "text": "Ubey bin Ka'b (r.a.)'den; şöyle demiştir: Biz, Resulullah (Sallallahu Aleyhi ve Sellem) ile beraber iken hedef ve gayemiz tek idi. O, vefat edince biz şöyle baktık, böyle baktık. (Hedeflerimiz ayrıldı)",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 6,
+        "hadith": 201
+      }
+    }
+  ]
 }

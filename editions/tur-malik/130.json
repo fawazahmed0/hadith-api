@@ -1,33 +1,33 @@
 {
-	"metadata": {
-		"name": "Muwatta Malik",
-		"section": {
-			"2": "Purity"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 32,
-				"hadithnumber_last": 145,
-				"arabicnumber_first": 32,
-				"arabicnumber_last": 145
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 130,
-			"arabicnumber": 130,
-			"text": "İmam Malik rivayet eder: Resulullah Sallallahu Aleyhi ve Sellem'ın zevcesi Hz. Aişe (r.anha); Kan gören hamile kadın «Namazı bırakır.» dedi",
-			"grades": [
-				{
-					"name": "Salim al-Hilali",
-					"grade": "Mauquf Hasan"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 99
-			}
-		}
-	]
+  "metadata": {
+    "name": "Muwatta Malik",
+    "section": {
+      "2": "Taharet (Temizlik)"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 32,
+        "hadithnumber_last": 145,
+        "arabicnumber_first": 32,
+        "arabicnumber_last": 145
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 130,
+      "arabicnumber": 130,
+      "text": "İmam Malik rivayet eder: Resulullah Sallallahu Aleyhi ve Sellem'ın zevcesi Hz. Aişe (r.anha); Kan gören hamile kadın «Namazı bırakır.» dedi",
+      "grades": [
+        {
+          "name": "Salim al-Hilali",
+          "grade": "Mauquf Hasan"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 99
+      }
+    }
+  ]
 }

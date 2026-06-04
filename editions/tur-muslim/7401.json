@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"54": "The Book of Tribulations and Portents of the Last Hour"
-		},
-		"section_detail": {
-			"54": {
-				"hadithnumber_first": 7235,
-				"hadithnumber_last": 7416,
-				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 7401,
-			"arabicnumber": "2948.02",
-			"text": "{m-130} Bana bu hadîsi Ebû Kâmil de rivayet etti. (Dediki): Bize Hammad bu isnadla bu hadîsin mislini rivayet etti",
-			"grades": [],
-			"reference": {
-				"book": 54,
-				"hadith": 162
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "54": "Fitneler Ve Kıyâmet Alâmetleri Bahsi"
+    },
+    "section_detail": {
+      "54": {
+        "hadithnumber_first": 7235,
+        "hadithnumber_last": 7416,
+        "arabicnumber_first": 2880.01,
+        "arabicnumber_last": 2955.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 7401,
+      "arabicnumber": "2948.02",
+      "text": "{m-130} Bana bu hadîsi Ebû Kâmil de rivayet etti. (Dediki): Bize Hammad bu isnadla bu hadîsin mislini rivayet etti",
+      "grades": [],
+      "reference": {
+        "book": 54,
+        "hadith": 162
+      }
+    }
+  ]
 }

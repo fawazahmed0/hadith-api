@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2903,
-			"arabicnumber": "1207.02",
-			"text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrazzâk haber verdi. (Dediki): Bize Ma'mer, Zühri'den, o da Urve'den, o da Âişe (Radiyallahû anha)'dan naklen haber verdi. Âişe şöyle demiş: Nebi (Sallallahu Aleyhi ve Sellem), Dubâa binti Zübeyr b. Abdilmuttalib'in yanına girdi. Dubâa: — «Yâ Resûlallahî Ben haccetmek istiyorum, ama rahatsızım.» dedi. Nebi — «Haccet de : İhramdan çıkacağım yer, beni âciz kılacağın mehâl olsun; diye şart koş!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 112
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2903,
+      "arabicnumber": "1207.02",
+      "text": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrazzâk haber verdi. (Dediki): Bize Ma'mer, Zühri'den, o da Urve'den, o da Âişe (Radiyallahû anha)'dan naklen haber verdi. Âişe şöyle demiş: Nebi (Sallallahu Aleyhi ve Sellem), Dubâa binti Zübeyr b. Abdilmuttalib'in yanına girdi. Dubâa: — «Yâ Resûlallahî Ben haccetmek istiyorum, ama rahatsızım.» dedi. Nebi — «Haccet de : İhramdan çıkacağım yer, beni âciz kılacağın mehâl olsun; diye şart koş!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 112
+      }
+    }
+  ]
 }

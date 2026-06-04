@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"2": "The Book on Salat (Prayer)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 149,
-				"hadithnumber_last": 451,
-				"arabicnumber_first": 149,
-				"arabicnumber_last": 451
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 268,
-			"arabicnumber": 268,
-			"text": "Vâil b. Hucr (r.a.)’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.)’i namaz kılarken gördüm secdeye giderken dizlerini ellerinden önce yere koyar ve ayağa kalkacağı zaman ellerini dizlerinden önce kaldırırdı.”",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 120
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "2": "Namaz Bölümleri"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 149,
+        "hadithnumber_last": 451,
+        "arabicnumber_first": 149,
+        "arabicnumber_last": 451
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 268,
+      "arabicnumber": 268,
+      "text": "Vâil b. Hucr (r.a.)’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.)’i namaz kılarken gördüm secdeye giderken dizlerini ellerinden önce yere koyar ve ayağa kalkacağı zaman ellerini dizlerinden önce kaldırırdı.”",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 120
+      }
+    }
+  ]
 }

@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"26": "Chapters on Sacrifices"
-		},
-		"section_detail": {
-			"26": {
-				"hadithnumber_first": 3120,
-				"hadithnumber_last": 3161,
-				"arabicnumber_first": 3120,
-				"arabicnumber_last": 3161
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3143,
-			"arabicnumber": 3143,
-			"text": "Ali (r.a.)'den; Şöyle demiştir; Resulullah (Sallallahu Aleyhi ve Sellem), bize (kurban edeceğimiz) hayvanın gözüne ve kulağına iyice bakıp incelememizi emretti",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 26,
-				"hadith": 24
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "26": "Kurban Kitabı"
+    },
+    "section_detail": {
+      "26": {
+        "hadithnumber_first": 3120,
+        "hadithnumber_last": 3161,
+        "arabicnumber_first": 3120,
+        "arabicnumber_last": 3161
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3143,
+      "arabicnumber": 3143,
+      "text": "Ali (r.a.)'den; Şöyle demiştir; Resulullah (Sallallahu Aleyhi ve Sellem), bize (kurban edeceğimiz) hayvanın gözüne ve kulağına iyice bakıp incelememizi emretti",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "book": 26,
+        "hadith": 24
+      }
+    }
+  ]
 }

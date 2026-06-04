@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"35": "The Book of Sacrifices"
-		},
-		"section_detail": {
-			"35": {
-				"hadithnumber_first": 5064,
-				"hadithnumber_last": 5126,
-				"arabicnumber_first": 1960.01,
-				"arabicnumber_last": 1978.03
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5085,
-			"arabicnumber": "1965.02",
-			"text": "Bize Ebû Bekİr b. Ebî Şeybe rivayet etti. (Dediki): Bize Yezid b. Harun, Hişam Destevâî'den, o da Yahya b. Ebî Kesîr'den, o da Ba'cete'l-Cühenî'den, o da Ukbe b. Âmir El-Cüheni'den naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) bizim aramızda kurbanları taksim etti de bana bir kuzu düştü. Ben : — Yâ Resûlallah! Bana bir kuzu düştü, dedim. «Onu kurban et!» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 35,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "35": "Kurbanlar"
+    },
+    "section_detail": {
+      "35": {
+        "hadithnumber_first": 5064,
+        "hadithnumber_last": 5126,
+        "arabicnumber_first": 1960.01,
+        "arabicnumber_last": 1978.03
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5085,
+      "arabicnumber": "1965.02",
+      "text": "Bize Ebû Bekİr b. Ebî Şeybe rivayet etti. (Dediki): Bize Yezid b. Harun, Hişam Destevâî'den, o da Yahya b. Ebî Kesîr'den, o da Ba'cete'l-Cühenî'den, o da Ukbe b. Âmir El-Cüheni'den naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) bizim aramızda kurbanları taksim etti de bana bir kuzu düştü. Ben : — Yâ Resûlallah! Bana bir kuzu düştü, dedim. «Onu kurban et!» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 35,
+        "hadith": 22
+      }
+    }
+  ]
 }

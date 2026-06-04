@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"30": "The Book of Judicial Decisions"
-		},
-		"section_detail": {
-			"30": {
-				"hadithnumber_first": 4470,
-				"hadithnumber_last": 4497,
-				"arabicnumber_first": 1711.01,
-				"arabicnumber_last": 1721
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4482,
-			"arabicnumber": "1715.02",
-			"text": "Bize Şeybân b. Ferrûh da rivayet etti. (Dediki): Bize Ebû Avâne, Süheyl'den bu isnadla bu hadisin mislini hemen haber verdi. Yalnız o: «Sizin için üç şeye gazab eder.» demiş; «Tefrikaya düşmemenize» cümlesini zikretmemiştir",
-			"grades": [],
-			"reference": {
-				"book": 30,
-				"hadith": 13
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "30": "Da'vâlar"
+    },
+    "section_detail": {
+      "30": {
+        "hadithnumber_first": 4470,
+        "hadithnumber_last": 4497,
+        "arabicnumber_first": 1711.01,
+        "arabicnumber_last": 1721
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4482,
+      "arabicnumber": "1715.02",
+      "text": "Bize Şeybân b. Ferrûh da rivayet etti. (Dediki): Bize Ebû Avâne, Süheyl'den bu isnadla bu hadisin mislini hemen haber verdi. Yalnız o: «Sizin için üç şeye gazab eder.» demiş; «Tefrikaya düşmemenize» cümlesini zikretmemiştir",
+      "grades": [],
+      "reference": {
+        "book": 30,
+        "hadith": 13
+      }
+    }
+  ]
 }

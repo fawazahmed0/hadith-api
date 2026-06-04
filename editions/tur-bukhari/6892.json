@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"87": "Blood Money (Ad-Diyat)"
-		},
-		"section_detail": {
-			"87": {
-				"hadithnumber_first": 6861,
-				"hadithnumber_last": 6917,
-				"arabicnumber_first": 6861,
-				"arabicnumber_last": 6917
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6892,
-			"arabicnumber": 6892,
-			"text": "İmran b. Husayn'ın nakline göre adamın biri birisinin elini ısırdı. O kişi elini onun ağzından çekince ön dişleri düştü. Bu iki kişi hüküm vermesi için Nebi Sallallahu Aleyhi ve Sellem'e başvurdular. Resulullah Sallallahu Aleyhi ve Sellem \"Bazılarınız (din) kardeşini tıpkı bir erkek devenin ısırdığı gibi ısırıyor. Böyle bir kimsenin diyeti yoktur\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 87,
-				"hadith": 30
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "87": "Diyetler"
+    },
+    "section_detail": {
+      "87": {
+        "hadithnumber_first": 6861,
+        "hadithnumber_last": 6917,
+        "arabicnumber_first": 6861,
+        "arabicnumber_last": 6917
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6892,
+      "arabicnumber": 6892,
+      "text": "İmran b. Husayn'ın nakline göre adamın biri birisinin elini ısırdı. O kişi elini onun ağzından çekince ön dişleri düştü. Bu iki kişi hüküm vermesi için Nebi Sallallahu Aleyhi ve Sellem'e başvurdular. Resulullah Sallallahu Aleyhi ve Sellem \"Bazılarınız (din) kardeşini tıpkı bir erkek devenin ısırdığı gibi ısırıyor. Böyle bir kimsenin diyeti yoktur\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 87,
+        "hadith": 30
+      }
+    }
+  ]
 }

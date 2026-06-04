@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6438,
-			"arabicnumber": 6438,
-			"text": "Abbas İbn Sehl İbn Sa'd şöyle demiştir: Abdullah İbnü'z-Zübeyr'in Mekke'de minber üzerinde konuşma yaparken şöyle dediğini işittim: Ey insanlar' Nebi Sallallahu Aleyhi ve Sellem şöyle buyuruyordu: \"Adem oğluna altın ile dolu bir vadi verilseydi, o kendisine ikinci bir vadi verilmesini arzu ederdi. Şayet kendisine ikinci bir vadi verilse, üçüncüsünü isterdi. Adem oğlunun iç boşluğunu ancak toprak doldurur. Allah da (hırstan) tövbe eden kimsenin tövbesini kabul eder",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 27
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6438,
+      "arabicnumber": 6438,
+      "text": "Abbas İbn Sehl İbn Sa'd şöyle demiştir: Abdullah İbnü'z-Zübeyr'in Mekke'de minber üzerinde konuşma yaparken şöyle dediğini işittim: Ey insanlar' Nebi Sallallahu Aleyhi ve Sellem şöyle buyuruyordu: \"Adem oğluna altın ile dolu bir vadi verilseydi, o kendisine ikinci bir vadi verilmesini arzu ederdi. Şayet kendisine ikinci bir vadi verilse, üçüncüsünü isterdi. Adem oğlunun iç boşluğunu ancak toprak doldurur. Allah da (hırstan) tövbe eden kimsenin tövbesini kabul eder",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 27
+      }
+    }
+  ]
 }

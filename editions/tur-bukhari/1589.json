@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1589,
-			"arabicnumber": 1589,
-			"text": "Ebu Hureyre r.a.'in rivayetine göre Nebi Sallallahu Aleyhi ve Sellem Mekke'ye gitmek istediği zaman şöyle demiştir: \"Yarınki konaklama yerimiz, inşallah, Benî Kinane'nin küfür üzerine ahitleştikleri yer olacaktır. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1589,
+      "arabicnumber": 1589,
+      "text": "Ebu Hureyre r.a.'in rivayetine göre Nebi Sallallahu Aleyhi ve Sellem Mekke'ye gitmek istediği zaman şöyle demiştir: \"Yarınki konaklama yerimiz, inşallah, Benî Kinane'nin küfür üzerine ahitleştikleri yer olacaktır. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 75
+      }
+    }
+  ]
 }

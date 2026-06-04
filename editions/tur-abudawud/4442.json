@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"40": "Prescribed Punishments (Kitab Al-Hudud)"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 4351,
-				"hadithnumber_last": 4493,
-				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4442,
-			"arabicnumber": 4442,
-			"text": "Abdullah b. Büreyde, babasın (Büreyde)'dan şöyle rivayet etmiştir: Bir kadın-yâni Gamid'den - Rasulullah (s.a.v.)'e gelip: \"Ben suç işledim (zina ettim)\" dedi. Rasulullah (s.a.v.): \"Dön git,\" buyurdu. Kadın dönüp gitti, Ertesi gün tekrar geldi ve; \"Herhalde sen, Mâiz'i geri çevirdiğin gibi, beni de geri çeviriyorsun, Oysa Vallahi ben gebeyim\" dedi. Rasûîullah (s.a.v.) yine; \"Dön git\" buyurdu. Kadıa ertesi gün tekrar geldi, Efendimiz bu sefer: \"Dön git, onu doğuruncaya kadar (bekle)\" buyurdu. Kadın çocuğu doğurunca, Rasulullah'a gelip; \"işte, onu doğurdum\"dedi. Rasulullah (s.a.v.); \"Git, onu emzir, sütten kesinceye kadar (dur)\" buyurdu. Kadın (bilâhare) çocuğunu sütten kesmiş, çocuk elinde bir şey yer bir vaziyette geldi. Rasulullah (s.a.v.) çocuğun, müslümanlardan birisine verilmesini emretti. Efendimizin emri ile kadın için bir çukur kazıldı ve recmedildi. Hâlid de, kadını recmedenlerdendi.Ona bir taş attı, kadının kanından bir damla şakağına bulaştı. Bunun üzerine ona kötü söz söyledi. Rasûluîlah (s.a.v.) Halid'e: \"Yavaş ol ey Halid ! Canım elinde olan Allah'a yemin ederim ki, o öyle bir tevbe etti ki, eğer halktan haksız yere toplanan vergilere el koyan birisi öyle tevbe etse affedilirdi\" buyurdu. Rasulullah (s.a.v.) emretti; kadının namazı kılındı ve defnedildi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (1695)"
-				}
-			],
-			"reference": {
-				"book": 40,
-				"hadith": 92
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "40": "Hadler Bölümü"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 4351,
+        "hadithnumber_last": 4493,
+        "arabicnumber_first": 4351,
+        "arabicnumber_last": 4493
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4442,
+      "arabicnumber": 4442,
+      "text": "Abdullah b. Büreyde, babasın (Büreyde)'dan şöyle rivayet etmiştir: Bir kadın-yâni Gamid'den - Rasulullah (s.a.v.)'e gelip: \"Ben suç işledim (zina ettim)\" dedi. Rasulullah (s.a.v.): \"Dön git,\" buyurdu. Kadın dönüp gitti, Ertesi gün tekrar geldi ve; \"Herhalde sen, Mâiz'i geri çevirdiğin gibi, beni de geri çeviriyorsun, Oysa Vallahi ben gebeyim\" dedi. Rasûîullah (s.a.v.) yine; \"Dön git\" buyurdu. Kadıa ertesi gün tekrar geldi, Efendimiz bu sefer: \"Dön git, onu doğuruncaya kadar (bekle)\" buyurdu. Kadın çocuğu doğurunca, Rasulullah'a gelip; \"işte, onu doğurdum\"dedi. Rasulullah (s.a.v.); \"Git, onu emzir, sütten kesinceye kadar (dur)\" buyurdu. Kadın (bilâhare) çocuğunu sütten kesmiş, çocuk elinde bir şey yer bir vaziyette geldi. Rasulullah (s.a.v.) çocuğun, müslümanlardan birisine verilmesini emretti. Efendimizin emri ile kadın için bir çukur kazıldı ve recmedildi. Hâlid de, kadını recmedenlerdendi.Ona bir taş attı, kadının kanından bir damla şakağına bulaştı. Bunun üzerine ona kötü söz söyledi. Rasûluîlah (s.a.v.) Halid'e: \"Yavaş ol ey Halid ! Canım elinde olan Allah'a yemin ederim ki, o öyle bir tevbe etti ki, eğer halktan haksız yere toplanan vergilere el koyan birisi öyle tevbe etse affedilirdi\" buyurdu. Rasulullah (s.a.v.) emretti; kadının namazı kılındı ve defnedildi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1695)"
+        }
+      ],
+      "reference": {
+        "book": 40,
+        "hadith": 92
+      }
+    }
+  ]
 }

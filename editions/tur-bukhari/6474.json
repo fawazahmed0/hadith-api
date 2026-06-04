@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6474,
-			"arabicnumber": 6474,
-			"text": "Sehl İbn Sa'd'ın nakline göre Resulullah Sallallahu Aleyhi ve Sellem \"Her kim iki çene kemiği arasındaki (dili)ni ve iki budu arasında bulunan (organ)'ı (kötülükten korumayı) bana garanti ederse ben de ona cenneti garanti ederim!\" buyurmuştur",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 63
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6474,
+      "arabicnumber": 6474,
+      "text": "Sehl İbn Sa'd'ın nakline göre Resulullah Sallallahu Aleyhi ve Sellem \"Her kim iki çene kemiği arasındaki (dili)ni ve iki budu arasında bulunan (organ)'ı (kötülükten korumayı) bana garanti ederse ben de ona cenneti garanti ederim!\" buyurmuştur",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 63
+      }
+    }
+  ]
 }

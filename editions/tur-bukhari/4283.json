@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"64": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
-		},
-		"section_detail": {
-			"64": {
-				"hadithnumber_first": 3949,
-				"hadithnumber_last": 4473,
-				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4283,
-			"arabicnumber": 4283,
-			"text": "Usame b. Zeyd'den rivayete göre o Mekke fethi sırasında şöyle demiştir: Ey Allah'ın Resulü yarın (Mekke'de) nerede konaklayacaksın? Nebi Sallallahu Aleyhi ve Sellem: \"Akil bize konaklayabileceğimiz bir ev bıraktı mı ki, diye buyurdu.\" [-4283-] \"Sonra da: mu'min kafire mirasçı olmaz, kafir de mu'minden miras almaz, diye buyurdu.\" Zühri'ye: Peki, Ebu Talib'e kim mirasçı oldu diye soruldu. Ona Akil ve Talib mirasçı oldu, dedi. Ma'mer de Zühri'den şöyle dediğini nakletmektedir: -Haecettiği sırada- yarın nerede konaklayacaksın (diye soruldu). Fakat (ravilerden) Yunus, haccettiği zamandan da, fetih zamanından da sözetmemiştir",
-			"grades": [],
-			"reference": {
-				"book": 64,
-				"hadith": 316
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "64": "Peygamber Aleyhisselamın Gazveleri"
+    },
+    "section_detail": {
+      "64": {
+        "hadithnumber_first": 3949,
+        "hadithnumber_last": 4473,
+        "arabicnumber_first": 3949,
+        "arabicnumber_last": 4473
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4283,
+      "arabicnumber": 4283,
+      "text": "Usame b. Zeyd'den rivayete göre o Mekke fethi sırasında şöyle demiştir: Ey Allah'ın Resulü yarın (Mekke'de) nerede konaklayacaksın? Nebi Sallallahu Aleyhi ve Sellem: \"Akil bize konaklayabileceğimiz bir ev bıraktı mı ki, diye buyurdu.\" [-4283-] \"Sonra da: mu'min kafire mirasçı olmaz, kafir de mu'minden miras almaz, diye buyurdu.\" Zühri'ye: Peki, Ebu Talib'e kim mirasçı oldu diye soruldu. Ona Akil ve Talib mirasçı oldu, dedi. Ma'mer de Zühri'den şöyle dediğini nakletmektedir: -Haecettiği sırada- yarın nerede konaklayacaksın (diye soruldu). Fakat (ravilerden) Yunus, haccettiği zamandan da, fetih zamanından da sözetmemiştir",
+      "grades": [],
+      "reference": {
+        "book": 64,
+        "hadith": 316
+      }
+    }
+  ]
 }

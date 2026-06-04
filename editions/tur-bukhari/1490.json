@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"24": "Obligatory Charity Tax (Zakat)"
-		},
-		"section_detail": {
-			"24": {
-				"hadithnumber_first": 1395,
-				"hadithnumber_last": 1512,
-				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1490,
-			"arabicnumber": 1490,
-			"text": "Zeyd İbn Eslem'in naklettiğine göre babası şöyle anlatır: \"Ömer'i şöy­le söylerken işittim: \"Allah için bir atı sadaka olarak vermiştim. Alan kimse ata bakamayıp güçsüz bıraktı. Ben de onu satın almak istedim. O kimsenin, İzin alarak sattığını zannettim. Durumu Resûlullah Sallallahu Aleyhi ve Sellem'e sorunca, bana, \"Satın alma, onu sana bir dirheme verse bile asla verdiğin sadakaya geri dönme. Çünkü sadakasından geri dönen, kustuğunu geri ağzına alan gibidir\" buyurmuştur. Tekrar:",
-			"grades": [],
-			"reference": {
-				"book": 24,
-				"hadith": 90
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "24": "Zekât"
+    },
+    "section_detail": {
+      "24": {
+        "hadithnumber_first": 1395,
+        "hadithnumber_last": 1512,
+        "arabicnumber_first": 1395,
+        "arabicnumber_last": 1512
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1490,
+      "arabicnumber": 1490,
+      "text": "Zeyd İbn Eslem'in naklettiğine göre babası şöyle anlatır: \"Ömer'i şöy­le söylerken işittim: \"Allah için bir atı sadaka olarak vermiştim. Alan kimse ata bakamayıp güçsüz bıraktı. Ben de onu satın almak istedim. O kimsenin, İzin alarak sattığını zannettim. Durumu Resûlullah Sallallahu Aleyhi ve Sellem'e sorunca, bana, \"Satın alma, onu sana bir dirheme verse bile asla verdiğin sadakaya geri dönme. Çünkü sadakasından geri dönen, kustuğunu geri ağzına alan gibidir\" buyurmuştur. Tekrar:",
+      "grades": [],
+      "reference": {
+        "book": 24,
+        "hadith": 90
+      }
+    }
+  ]
 }

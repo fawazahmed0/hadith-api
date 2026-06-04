@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"15": "The Book of Pilgrimage"
-		},
-		"section_detail": {
-			"15": {
-				"hadithnumber_first": 2791,
-				"hadithnumber_last": 3397,
-				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3058,
-			"arabicnumber": "1265",
-			"text": "Bana Muhammed b. Râfİ' rivayet etti. (Dediki): Bize Yahya b. Âdem rivayet etti. (Dediki): Bize Züheyr, Abdülmelik b. Saîd b. Ebcer'den, o da Ebu't-Tufeyl'den naklen rivayet etti. Şöyle demiş: İbni Abbâs'a : — Ben. Retûlullah (Sallallahu Aleyhi ve Sellem)'i gördüğümü zannediyorum, dedim. İbni Abbâs: — O halde onu bana tavsif et, dedi. — Onu Merve'de dişi bir deve üzerinde gördüm. Etrafına birçok insanları toplanmışlardı dedim. Bunun üzerine İbni Abbâs: — İşte Resulullah (Sallallahu Aleyhi ve Sellem) odur. Halk onun huzurundan kovulmaz ve zorlanmazlardı, dedi. İzah 1266 da",
-			"grades": [],
-			"reference": {
-				"book": 15,
-				"hadith": 264
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "15": "Hacc"
+    },
+    "section_detail": {
+      "15": {
+        "hadithnumber_first": 2791,
+        "hadithnumber_last": 3397,
+        "arabicnumber_first": 1177.01,
+        "arabicnumber_last": 1399.09
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3058,
+      "arabicnumber": "1265",
+      "text": "Bana Muhammed b. Râfİ' rivayet etti. (Dediki): Bize Yahya b. Âdem rivayet etti. (Dediki): Bize Züheyr, Abdülmelik b. Saîd b. Ebcer'den, o da Ebu't-Tufeyl'den naklen rivayet etti. Şöyle demiş: İbni Abbâs'a : — Ben. Retûlullah (Sallallahu Aleyhi ve Sellem)'i gördüğümü zannediyorum, dedim. İbni Abbâs: — O halde onu bana tavsif et, dedi. — Onu Merve'de dişi bir deve üzerinde gördüm. Etrafına birçok insanları toplanmışlardı dedim. Bunun üzerine İbni Abbâs: — İşte Resulullah (Sallallahu Aleyhi ve Sellem) odur. Halk onun huzurundan kovulmaz ve zorlanmazlardı, dedi. İzah 1266 da",
+      "grades": [],
+      "reference": {
+        "book": 15,
+        "hadith": 264
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"47": "The Book of Knowledge"
-		},
-		"section_detail": {
-			"47": {
-				"hadithnumber_first": 6775,
-				"hadithnumber_last": 6804,
-				"arabicnumber_first": 2665,
-				"arabicnumber_last": 2674
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6796,
-			"arabicnumber": "2673.01",
-			"text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Cerîr, Hişam b. Urve'den, o da babasından naklen rivayet etti. (Demişki): Ben Abdullah b. Amr b. Âs'ı şöyle derken işittim. Resûlullah (Sallallahu Aleyhi ve Sellem)'i «Şüphesiz Allah ilmi insanlardan çekip alıvermez. Lâkin ilmi, ulemâyı almakla kaldırır. Nihayet hiç bir âlim bırakmadığı vakit, İnsanlar bir takım cahilleri baş edinirler. Onlara sual sorulur, ilimsiz fetva verirler; bu suretle hem saparlar, hem saptırırlar.» buyururken İşittim",
-			"grades": [],
-			"reference": {
-				"book": 47,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "47": "İlim"
+    },
+    "section_detail": {
+      "47": {
+        "hadithnumber_first": 6775,
+        "hadithnumber_last": 6804,
+        "arabicnumber_first": 2665,
+        "arabicnumber_last": 2674
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6796,
+      "arabicnumber": "2673.01",
+      "text": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Cerîr, Hişam b. Urve'den, o da babasından naklen rivayet etti. (Demişki): Ben Abdullah b. Amr b. Âs'ı şöyle derken işittim. Resûlullah (Sallallahu Aleyhi ve Sellem)'i «Şüphesiz Allah ilmi insanlardan çekip alıvermez. Lâkin ilmi, ulemâyı almakla kaldırır. Nihayet hiç bir âlim bırakmadığı vakit, İnsanlar bir takım cahilleri baş edinirler. Onlara sual sorulur, ilimsiz fetva verirler; bu suretle hem saparlar, hem saptırırlar.» buyururken İşittim",
+      "grades": [],
+      "reference": {
+        "book": 47,
+        "hadith": 22
+      }
+    }
+  ]
 }

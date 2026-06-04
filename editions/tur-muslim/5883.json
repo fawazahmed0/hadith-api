@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"40": "The Book Concerning the Use of Correct Words"
-		},
-		"section_detail": {
-			"40": {
-				"hadithnumber_first": 5862,
-				"hadithnumber_last": 5884,
-				"arabicnumber_first": 2246.01,
-				"arabicnumber_last": 2254
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5883,
-			"arabicnumber": "2253",
-			"text": "Bize Ebû Bekr b. Ebî Şeybe ile Züheyr b. Harb ikisi birden EI-Mukrî'den rivayet ettiler. Ebû Bekr (Dediki): Bize Ebû Abdirrahman El-Mukrî', Saîd b. Ebî Eyyûb'dan rivayet etti. (Demişki): Bana Ubeyduîlah b. Ebî Cafer, Abdurrahman El-A'rac'dan, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Bir kimseye reyhan takdim edilirse onu reddetmez. Zira reyhanın taşınması, hafif kokusu güzeldir.» buyurdular. İzah 2254 te",
-			"grades": [],
-			"reference": {
-				"book": 40,
-				"hadith": 22
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "40": "Edeb, Terbiye Vesaireye Ait Lafızlarla Bahsi"
+    },
+    "section_detail": {
+      "40": {
+        "hadithnumber_first": 5862,
+        "hadithnumber_last": 5884,
+        "arabicnumber_first": 2246.01,
+        "arabicnumber_last": 2254
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5883,
+      "arabicnumber": "2253",
+      "text": "Bize Ebû Bekr b. Ebî Şeybe ile Züheyr b. Harb ikisi birden EI-Mukrî'den rivayet ettiler. Ebû Bekr (Dediki): Bize Ebû Abdirrahman El-Mukrî', Saîd b. Ebî Eyyûb'dan rivayet etti. (Demişki): Bana Ubeyduîlah b. Ebî Cafer, Abdurrahman El-A'rac'dan, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Bir kimseye reyhan takdim edilirse onu reddetmez. Zira reyhanın taşınması, hafif kokusu güzeldir.» buyurdular. İzah 2254 te",
+      "grades": [],
+      "reference": {
+        "book": 40,
+        "hadith": 22
+      }
+    }
+  ]
 }

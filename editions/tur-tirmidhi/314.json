@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Jami At Tirmidhi",
-		"section": {
-			"2": "The Book on Salat (Prayer)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 149,
-				"hadithnumber_last": 451,
-				"arabicnumber_first": 149,
-				"arabicnumber_last": 451
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 314,
-			"arabicnumber": 314,
-			"text": "Fatimatül-Kübrâ (r.anha)’dan rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.) mescide girdiği zaman salat ve selam getirir ve: Rabbim günahlarımı bağışla Rahmet kapılarını aç” derdi. Yine mescidden çıkarken salat ve selam getirir ve: Rabbim günahlarımı bağışla tüm nimet kapılarını aç” diye dua ederdi. Diğer tahric: Nesâî, Mesacid; İbn Mâce, Mesacid",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 166
-			}
-		}
-	]
+  "metadata": {
+    "name": "Jami At Tirmidhi",
+    "section": {
+      "2": "Namaz Bölümleri"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 149,
+        "hadithnumber_last": 451,
+        "arabicnumber_first": 149,
+        "arabicnumber_last": 451
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 314,
+      "arabicnumber": 314,
+      "text": "Fatimatül-Kübrâ (r.anha)’dan rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.) mescide girdiği zaman salat ve selam getirir ve: Rabbim günahlarımı bağışla Rahmet kapılarını aç” derdi. Yine mescidden çıkarken salat ve selam getirir ve: Rabbim günahlarımı bağışla tüm nimet kapılarını aç” diye dua ederdi. Diğer tahric: Nesâî, Mesacid; İbn Mâce, Mesacid",
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 166
+      }
+    }
+  ]
 }

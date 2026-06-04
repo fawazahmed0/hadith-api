@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1306,
-			"arabicnumber": "578.08",
-			"text": "Bana Muhammed b. El -Müsennâ ile İbni Beşşâr rivayet ettiler. (Dedilerki) : Bize Muhammed b. Ca'fer rivayet etti. (Dediki) : Bize Şu'be, Atâ' b. Ebî Meymûne'den, o da Ebu Râfi'den naklen rivayet etti. Ebu Râfi şöyle demiş: «Ben Ebu Hureyre'yi İnşikâk sûresini okuduğunda secde ederken gördüm de: Bu sûrede secde mi ediyorsun? dedim. Ebu Hureyre: — Evet! Ben Halîlim (Sallallahu Aleyhi ve Sellem)'i bu sûrede secde ederken gördüm. Binaenaleyh ona kavuşuncaya kadar bunda secde edip duracağım! dedi. Şu'be: «Ben: Nebi (Sallallahu Aleyhi ve Sellem)'i mi görmüş.» dedim. Ata': — «Evet!» cevâbını verdi",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 144
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1306,
+      "arabicnumber": "578.08",
+      "text": "Bana Muhammed b. El -Müsennâ ile İbni Beşşâr rivayet ettiler. (Dedilerki) : Bize Muhammed b. Ca'fer rivayet etti. (Dediki) : Bize Şu'be, Atâ' b. Ebî Meymûne'den, o da Ebu Râfi'den naklen rivayet etti. Ebu Râfi şöyle demiş: «Ben Ebu Hureyre'yi İnşikâk sûresini okuduğunda secde ederken gördüm de: Bu sûrede secde mi ediyorsun? dedim. Ebu Hureyre: — Evet! Ben Halîlim (Sallallahu Aleyhi ve Sellem)'i bu sûrede secde ederken gördüm. Binaenaleyh ona kavuşuncaya kadar bunda secde edip duracağım! dedi. Şu'be: «Ben: Nebi (Sallallahu Aleyhi ve Sellem)'i mi görmüş.» dedim. Ata': — «Evet!» cevâbını verdi",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 144
+      }
+    }
+  ]
 }

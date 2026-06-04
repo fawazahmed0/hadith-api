@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 497,
-			"arabicnumber": 497,
-			"text": "Hişam b. Sa'd demiştir ki; Muaz b. Abdullah b. Hubeyb el-Cuhenî'nin yanına girmiştik. (Muaz) karısına: Çocuk namaz kılmakla ne zaman emrolunur? dedi. Karısı: Bizden bir adam Resulullah (Sallallahu aleyhi ve Sellem)'den naklederdi. Bu soru Efendimize sorulmuş da, O (Sallallahu aleyhi ve Sellem); \"Sağını solundan ayırdığı zaman namaz kılmasını emredin\" buyurmuş. Sadece Ebu Davud rivayet etmiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 107
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 497,
+      "arabicnumber": 497,
+      "text": "Hişam b. Sa'd demiştir ki; Muaz b. Abdullah b. Hubeyb el-Cuhenî'nin yanına girmiştik. (Muaz) karısına: Çocuk namaz kılmakla ne zaman emrolunur? dedi. Karısı: Bizden bir adam Resulullah (Sallallahu aleyhi ve Sellem)'den naklederdi. Bu soru Efendimize sorulmuş da, O (Sallallahu aleyhi ve Sellem); \"Sağını solundan ayırdığı zaman namaz kılmasını emredin\" buyurmuş. Sadece Ebu Davud rivayet etmiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 107
+      }
+    }
+  ]
 }

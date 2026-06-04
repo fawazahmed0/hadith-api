@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"9": "Times of the Prayers"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 522,
-				"hadithnumber_last": 602,
-				"arabicnumber_first": 522,
-				"arabicnumber_last": 602
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 549,
-			"arabicnumber": 549,
-			"text": "Ebu Bekir İbn Osman İbn Sehl İbn Huneyf, Ebu Ümâme'nin şöyle dediğini işittiğini nakletmiştir: \"Ömer İbn Abdülaziz ile birlikte öğle namazını kıldık. Sonra çıkıp Enes İbn Mâlik'in yanına gittik. O esnada ikindi namazını kılıyordu. Ona Amca! Hangi namazı kılıyorsun?' diye sordum. O da şöyle cevap verdi: İkindi namazını kılıyorum. Biz, Nebi Sallallahu Aleyhi ve Sellem ile birlikte böyle namaz kılardık",
-			"grades": [],
-			"reference": {
-				"book": 9,
-				"hadith": 26
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "9": "Namaz Vakitleri"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 522,
+        "hadithnumber_last": 602,
+        "arabicnumber_first": 522,
+        "arabicnumber_last": 602
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 549,
+      "arabicnumber": 549,
+      "text": "Ebu Bekir İbn Osman İbn Sehl İbn Huneyf, Ebu Ümâme'nin şöyle dediğini işittiğini nakletmiştir: \"Ömer İbn Abdülaziz ile birlikte öğle namazını kıldık. Sonra çıkıp Enes İbn Mâlik'in yanına gittik. O esnada ikindi namazını kılıyordu. Ona Amca! Hangi namazı kılıyorsun?' diye sordum. O da şöyle cevap verdi: İkindi namazını kılıyorum. Biz, Nebi Sallallahu Aleyhi ve Sellem ile birlikte böyle namaz kılardık",
+      "grades": [],
+      "reference": {
+        "book": 9,
+        "hadith": 26
+      }
+    }
+  ]
 }

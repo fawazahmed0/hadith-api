@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"56": "Fighting for the Cause of Allah (Jihaad)"
-		},
-		"section_detail": {
-			"56": {
-				"hadithnumber_first": 2782,
-				"hadithnumber_last": 3090,
-				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2824,
-			"arabicnumber": 2824,
-			"text": "Saib bin Yezid şöyle demiştir: \"Ben Talha İbn Ubeydullah, Sad, Mikdad İbnü'l-Esved ve Abdurrahman İbn Avf (r.anhum) ile birlikte bulunup sohbetlerine katıldım. Ben onlardan hiç birinin Resulullah Sallallahu Aleyhi ve Sellem'den bir şeyler naklettiklerini duymadım. Sadece Talha, Uhud savaşında yaşadıklarını anlatmıştı",
-			"grades": [],
-			"reference": {
-				"book": 56,
-				"hadith": 40
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "56": "Cihâd ve Sîretler"
+    },
+    "section_detail": {
+      "56": {
+        "hadithnumber_first": 2782,
+        "hadithnumber_last": 3090,
+        "arabicnumber_first": 2782,
+        "arabicnumber_last": 3090
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2824,
+      "arabicnumber": 2824,
+      "text": "Saib bin Yezid şöyle demiştir: \"Ben Talha İbn Ubeydullah, Sad, Mikdad İbnü'l-Esved ve Abdurrahman İbn Avf (r.anhum) ile birlikte bulunup sohbetlerine katıldım. Ben onlardan hiç birinin Resulullah Sallallahu Aleyhi ve Sellem'den bir şeyler naklettiklerini duymadım. Sadece Talha, Uhud savaşında yaşadıklarını anlatmıştı",
+      "grades": [],
+      "reference": {
+        "book": 56,
+        "hadith": 40
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1618,
-			"arabicnumber": 1618,
-			"text": "İbn Cüreyc şöyle demiştir: Bana Ata'nın verdiği habere göre, İbn Hişam, kadınların erkeklerle birlikte tavaf etmesini yasaklayınca Ata ona, \"Hz. Nebi'in kadınları erkeklerle birlikte tavaf ettiği halde sen nasıl bunu yasaklarsın ?\" demiştir. Ben {İbn Cüreyc) Ata'ya, bu olayın örtünme emrinden önce olup olmadığını sorunca bana, \"Yemin olsun ki, ben bu olayı örtünme ayetinden sonra gördüm\" demiştir. İbn Cüreyc: \"Peki kadınlar erkeklere nasıl bir arada karışık olarak tavaf yapardı ?\" Ata: \"Kadınlar ile erkekler karışmazlardı. Hz. Aişe, erkeklerden ayrı bir yerde tavaf eder onlara karışmazdı. Bir kadın ona, \"Ey Mu'minlerin annesi! Haydi Hacerü'l-Esved'i istilam edelim\" demişti de ona, \"Sen git\" diyerek bunu yapmaktan kaçınmıştı. Kadınlar, geceleyin tanınmayacak bir şekilde erkeklerle birlikte tavaf ederdi. Fakat içeri girdikleri zaman erkekler çıkarıldıktan sonra yine ibadet etmeye devam ederlerdi.\" Ata: \"Ben, Ubeyd İbn Ömer ile birlikte Aişe'nin yanına giderdim, Bu sırada o, Sebir dağında ikamet ediyordu\" dedi. İbn Cüreyc: \"Ata'ya, \"O sırada Hz.Aişe'nin örtüsü ne idi\" diye sordum\" demiştir. Ata: \"Aişe, o gün, perdesi bulunan bir Türk çadırında idi. Aramızda sadece bu perde vardı. Ben Aişe'nin üzerinde gül renkli bir giysi gördüm\" demiştir",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 103
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1618,
+      "arabicnumber": 1618,
+      "text": "İbn Cüreyc şöyle demiştir: Bana Ata'nın verdiği habere göre, İbn Hişam, kadınların erkeklerle birlikte tavaf etmesini yasaklayınca Ata ona, \"Hz. Nebi'in kadınları erkeklerle birlikte tavaf ettiği halde sen nasıl bunu yasaklarsın ?\" demiştir. Ben {İbn Cüreyc) Ata'ya, bu olayın örtünme emrinden önce olup olmadığını sorunca bana, \"Yemin olsun ki, ben bu olayı örtünme ayetinden sonra gördüm\" demiştir. İbn Cüreyc: \"Peki kadınlar erkeklere nasıl bir arada karışık olarak tavaf yapardı ?\" Ata: \"Kadınlar ile erkekler karışmazlardı. Hz. Aişe, erkeklerden ayrı bir yerde tavaf eder onlara karışmazdı. Bir kadın ona, \"Ey Mu'minlerin annesi! Haydi Hacerü'l-Esved'i istilam edelim\" demişti de ona, \"Sen git\" diyerek bunu yapmaktan kaçınmıştı. Kadınlar, geceleyin tanınmayacak bir şekilde erkeklerle birlikte tavaf ederdi. Fakat içeri girdikleri zaman erkekler çıkarıldıktan sonra yine ibadet etmeye devam ederlerdi.\" Ata: \"Ben, Ubeyd İbn Ömer ile birlikte Aişe'nin yanına giderdim, Bu sırada o, Sebir dağında ikamet ediyordu\" dedi. İbn Cüreyc: \"Ata'ya, \"O sırada Hz.Aişe'nin örtüsü ne idi\" diye sordum\" demiştir. Ata: \"Aişe, o gün, perdesi bulunan bir Türk çadırında idi. Aramızda sadece bu perde vardı. Ben Aişe'nin üzerinde gül renkli bir giysi gördüm\" demiştir",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 103
+      }
+    }
+  ]
 }

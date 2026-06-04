@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"13": "The Chapters on Rulings"
-		},
-		"section_detail": {
-			"13": {
-				"hadithnumber_first": 2308,
-				"hadithnumber_last": 2374,
-				"arabicnumber_first": 2308,
-				"arabicnumber_last": 2374
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 2367,
-			"arabicnumber": 2367,
-			"text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre, kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu hadîsi işitmiştir: «Bir bedevinin bir köy sahibi aleyhinde şâhidliği caiz değildir.» EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 13,
-				"hadith": 60
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "13": "Ahkâm (Hükümler) Kitabı"
+    },
+    "section_detail": {
+      "13": {
+        "hadithnumber_first": 2308,
+        "hadithnumber_last": 2374,
+        "arabicnumber_first": 2308,
+        "arabicnumber_last": 2374
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 2367,
+      "arabicnumber": 2367,
+      "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre, kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu hadîsi işitmiştir: «Bir bedevinin bir köy sahibi aleyhinde şâhidliği caiz değildir.» EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 13,
+        "hadith": 60
+      }
+    }
+  ]
 }

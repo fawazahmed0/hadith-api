@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"29": " Chapters on Food"
-		},
-		"section_detail": {
-			"29": {
-				"hadithnumber_first": 3251,
-				"hadithnumber_last": 3370,
-				"arabicnumber_first": 3251,
-				"arabicnumber_last": 3370
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3308,
-			"arabicnumber": 3308,
-			"text": "Abdullah bin Ca'fer (bin Ebî Tâlib) (r.a.) İbn-i Zübeyr ve bir cemâat için boğazladığı bir deveyi ikram ettiği sırada, îbn-i Zübeyr'e rivayet ettiğine göre: Bir defa sahâbîler Resulullah (Sallallahu Aleyhi ve Sellem)'e et yemeğini sunarlarken kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işitmiştir: «Etin en güzeli (hayvan'ın) sırt etidir. Not: Sindi şöyle demiştir: Zevaid'de bu hadisin senedinin durumu anlatılmamıştır. Fakat senedin kuvvetli olduğunu ifade eden sözler kullanılmıştır",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Daif"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
-				}
-			],
-			"reference": {
-				"book": 29,
-				"hadith": 58
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "29": "Yiyecekler Kitabı"
+    },
+    "section_detail": {
+      "29": {
+        "hadithnumber_first": 3251,
+        "hadithnumber_last": 3370,
+        "arabicnumber_first": 3251,
+        "arabicnumber_last": 3370
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3308,
+      "arabicnumber": 3308,
+      "text": "Abdullah bin Ca'fer (bin Ebî Tâlib) (r.a.) İbn-i Zübeyr ve bir cemâat için boğazladığı bir deveyi ikram ettiği sırada, îbn-i Zübeyr'e rivayet ettiğine göre: Bir defa sahâbîler Resulullah (Sallallahu Aleyhi ve Sellem)'e et yemeğini sunarlarken kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işitmiştir: «Etin en güzeli (hayvan'ın) sırt etidir. Not: Sindi şöyle demiştir: Zevaid'de bu hadisin senedinin durumu anlatılmamıştır. Fakat senedin kuvvetli olduğunu ifade eden sözler kullanılmıştır",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "book": 29,
+        "hadith": 58
+      }
+    }
+  ]
 }

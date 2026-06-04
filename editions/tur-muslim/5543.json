@@ -1,27 +1,27 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"0": "Introduction"
-		},
-		"section_detail": {
-			"0": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 92,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 5543,
-			"text": "Bize Ebû Bekr b. Ebî Şeybe ile Muhammed b. Abdillah b. Numeyr ve Ebû Kureyb rivayet ettiler. Iüftzlari birbirine yakındır. (Dedilerki): Bize İbni Fudayl Umârâ'dan, o da Ebû Zür'a'dan naklen rivayet etti. Ebû Zür'a şöyle demiş: Ebû Hureyre ile birlikte Mervan'ın evine girdim. Ebû Hureyre orada suretler gördü. Ve şunları söyledi: Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim: «Allah (Azze ve Celle); Benim yarattığım gibi mahlûk yaratmaya kalkışan kimseden daha zâlim kim olabilir. Haydi bir zerre yaratsınlar. Yahut bir tane veya arpa tanesi yaratsınlar.» buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "0": "Mukaddime"
+    },
+    "section_detail": {
+      "0": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 92,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 7
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 5543,
+      "text": "Bize Ebû Bekr b. Ebî Şeybe ile Muhammed b. Abdillah b. Numeyr ve Ebû Kureyb rivayet ettiler. Iüftzlari birbirine yakındır. (Dedilerki): Bize İbni Fudayl Umârâ'dan, o da Ebû Zür'a'dan naklen rivayet etti. Ebû Zür'a şöyle demiş: Ebû Hureyre ile birlikte Mervan'ın evine girdim. Ebû Hureyre orada suretler gördü. Ve şunları söyledi: Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim: «Allah (Azze ve Celle); Benim yarattığım gibi mahlûk yaratmaya kalkışan kimseden daha zâlim kim olabilir. Haydi bir zerre yaratsınlar. Yahut bir tane veya arpa tanesi yaratsınlar.» buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 0,
+        "hadith": 0
+      }
+    }
+  ]
 }

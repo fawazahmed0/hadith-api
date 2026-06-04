@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 846,
-			"arabicnumber": 846,
-			"text": "Abdullah b. Ebî Evfa elemiştir ki; Nebi (Sallallahu aleyhi ve Sellem) rüku'dan başını kaldırdığı zaman (şöyle) derdi: \"Allah kendisine hamdedenin hamdini işitir. Allah'ım, ey Rabbimiz, göklerle yer dolusu ve onlardan sonra dilediğim herşey dolusu hamd ancak sana mahsustur\" Ebu Davud dediki; bu hadisi Süfyan es-Sevri ile Şu'be b. el-Haccac da Ubeyd Ebi'l-Hasen'den rivayet ettiler. Fakat bu rivayette \"rüku' dan sonra” sözü yoktur. Süfyan dedi ki: \"Biz daha sonra Şeyh Ubeyd Ebu'l-Hasen'le kar­şılaştık -bu defa da- \"rüku'dan sonra\" sözünü söylemedi. Ebü Davud dediki: Bu hadisi bir de Şu'be, Ebu İsme ve A'meş vasıtasıyla Ubeyd'den nakletmiş, (Ubeyd bu rivayetinde) \"rüku'dan sonra\", sözünü söylemiştir. Diğer tahric: Müslim, salat; İbn Mace, ikame",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (476)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 456
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 846,
+      "arabicnumber": 846,
+      "text": "Abdullah b. Ebî Evfa elemiştir ki; Nebi (Sallallahu aleyhi ve Sellem) rüku'dan başını kaldırdığı zaman (şöyle) derdi: \"Allah kendisine hamdedenin hamdini işitir. Allah'ım, ey Rabbimiz, göklerle yer dolusu ve onlardan sonra dilediğim herşey dolusu hamd ancak sana mahsustur\" Ebu Davud dediki; bu hadisi Süfyan es-Sevri ile Şu'be b. el-Haccac da Ubeyd Ebi'l-Hasen'den rivayet ettiler. Fakat bu rivayette \"rüku' dan sonra” sözü yoktur. Süfyan dedi ki: \"Biz daha sonra Şeyh Ubeyd Ebu'l-Hasen'le kar­şılaştık -bu defa da- \"rüku'dan sonra\" sözünü söylemedi. Ebü Davud dediki: Bu hadisi bir de Şu'be, Ebu İsme ve A'meş vasıtasıyla Ubeyd'den nakletmiş, (Ubeyd bu rivayetinde) \"rüku'dan sonra\", sözünü söylemiştir. Diğer tahric: Müslim, salat; İbn Mace, ikame",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (476)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 456
+      }
+    }
+  ]
 }

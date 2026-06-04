@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"21": "The Book of Transactions"
-		},
-		"section_detail": {
-			"21": {
-				"hadithnumber_first": 3801,
-				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3883,
-			"arabicnumber": "1539.07",
-			"text": "Bize Muhammed b. Rumh b. Muhacir rivayet etti. (Dediki): Bize Leys, Yahya b. Saîd'den, o da Nâfi'den, o da Abdullah b. Ömer'den naklen rivayet etti. (Abdullah şöyle demiş:) Bana Zcyd b. Sabit rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem), mukabilinde göz karariyle kuru hurma vermek suretiyle (yapılan) ariyye satışına ruhsat vermiş. Yahya şöyle demiş: «Ariyye, bir kimsenin çotuğuna çocuğuna taze hurma yedirmek için birkaç hurma ağacının yemişini göz kararı ile kuru hurma vererek satın almasıdır.»",
-			"grades": [],
-			"reference": {
-				"book": 21,
-				"hadith": 82
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "21": "Alış Verişler"
+    },
+    "section_detail": {
+      "21": {
+        "hadithnumber_first": 3801,
+        "hadithnumber_last": 3961,
+        "arabicnumber_first": 1511.01,
+        "arabicnumber_last": 1550.05
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3883,
+      "arabicnumber": "1539.07",
+      "text": "Bize Muhammed b. Rumh b. Muhacir rivayet etti. (Dediki): Bize Leys, Yahya b. Saîd'den, o da Nâfi'den, o da Abdullah b. Ömer'den naklen rivayet etti. (Abdullah şöyle demiş:) Bana Zcyd b. Sabit rivayet etti ki, Resûlullah (Sallallahu Aleyhi ve Sellem), mukabilinde göz karariyle kuru hurma vermek suretiyle (yapılan) ariyye satışına ruhsat vermiş. Yahya şöyle demiş: «Ariyye, bir kimsenin çotuğuna çocuğuna taze hurma yedirmek için birkaç hurma ağacının yemişini göz kararı ile kuru hurma vererek satın almasıdır.»",
+      "grades": [],
+      "reference": {
+        "book": 21,
+        "hadith": 82
+      }
+    }
+  ]
 }

@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"62": "Companions of the Prophet"
-		},
-		"section_detail": {
-			"62": {
-				"hadithnumber_first": 3649,
-				"hadithnumber_last": 3775,
-				"arabicnumber_first": 3649,
-				"arabicnumber_last": 3775
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 3718,
-			"arabicnumber": 3718,
-			"text": "Yine Mervan b. Hakem dedi ki: \"Osman'ın yanında idim. Ona bir adam gelerek: Yerine halife göster dedi. O, bu söylendi mi, diye sordu. Evet, Zubeyr (olsun, diyorlar), dedi. Osman: Allah'a yemin ederim, siz de biliyorsunuz ki o sizin en hayırlılarınızdır, dedi ve bu sözlerini üç defa tekrarladı",
-			"grades": [],
-			"reference": {
-				"book": 62,
-				"hadith": 66
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "62": "Peygamber Aleyhisselamın Sahâbîlerinin Faziletleri"
+    },
+    "section_detail": {
+      "62": {
+        "hadithnumber_first": 3649,
+        "hadithnumber_last": 3775,
+        "arabicnumber_first": 3649,
+        "arabicnumber_last": 3775
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 3718,
+      "arabicnumber": 3718,
+      "text": "Yine Mervan b. Hakem dedi ki: \"Osman'ın yanında idim. Ona bir adam gelerek: Yerine halife göster dedi. O, bu söylendi mi, diye sordu. Evet, Zubeyr (olsun, diyorlar), dedi. Osman: Allah'a yemin ederim, siz de biliyorsunuz ki o sizin en hayırlılarınızdır, dedi ve bu sözlerini üç defa tekrarladı",
+      "grades": [],
+      "reference": {
+        "book": 62,
+        "hadith": 66
+      }
+    }
+  ]
 }

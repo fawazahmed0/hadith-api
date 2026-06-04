@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"25": "Hajj (Pilgrimage)"
-		},
-		"section_detail": {
-			"25": {
-				"hadithnumber_first": 1513,
-				"hadithnumber_last": 1772,
-				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1772,
-			"arabicnumber": 1772,
-			"text": "Aişe r.anha şöyle dedi: Mina'dan dönüşte (nefer gününde) Safiyye adet gördü ve \"öyle zannediyorum ki sizi (Mekke'de adetim bitene kadar) alıkoyacağım.\" dedi. Nebi (Sallallahu Aleyhi ve Sellem): \"Eyvah! Sen bayramın ilk günü tavaf yaptın mı?\" diye sordu. Safiyye \"evet\" dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: \"Öyle ise burada kalmamıza gerek yok, haydi yürü\" buyurdu",
-			"grades": [],
-			"reference": {
-				"book": 25,
-				"hadith": 247
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "25": "Hac"
+    },
+    "section_detail": {
+      "25": {
+        "hadithnumber_first": 1513,
+        "hadithnumber_last": 1772,
+        "arabicnumber_first": 1513,
+        "arabicnumber_last": 1772
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1772,
+      "arabicnumber": 1772,
+      "text": "Aişe r.anha şöyle dedi: Mina'dan dönüşte (nefer gününde) Safiyye adet gördü ve \"öyle zannediyorum ki sizi (Mekke'de adetim bitene kadar) alıkoyacağım.\" dedi. Nebi (Sallallahu Aleyhi ve Sellem): \"Eyvah! Sen bayramın ilk günü tavaf yaptın mı?\" diye sordu. Safiyye \"evet\" dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: \"Öyle ise burada kalmamıza gerek yok, haydi yürü\" buyurdu",
+      "grades": [],
+      "reference": {
+        "book": 25,
+        "hadith": 247
+      }
+    }
+  ]
 }

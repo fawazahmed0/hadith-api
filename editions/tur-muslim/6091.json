@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"43": "The Book of Virtues"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 384,
-				"hadithnumber_last": 6168,
-				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6091,
-			"arabicnumber": "2348",
-			"text": "Bana Ebû Ğassan Er-Râzî Muhammed b. Amr rivayet etti. (Dediki): Bize Hakkâm b. Selm rivayet etti. (Dediki): Bize Osman b. Zaide Zübeyr b. Adiy'den, o da Enes b. Mâlik'den naklen rivayet etti (Şöyle demiş): Resulullah (Sallallahu Aleyhi ve Sellem) altmış üç yaşında iken vefat etti. Ebû Bekr altmış üç yaşındayken vefat etti. Ömer de altmış üç yaşında iken vefat etti. İzah 2349 da",
-			"grades": [],
-			"reference": {
-				"book": 43,
-				"hadith": 149
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "43": "Faziletler"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 384,
+        "hadithnumber_last": 6168,
+        "arabicnumber_first": 2276,
+        "arabicnumber_last": 2380.06
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6091,
+      "arabicnumber": "2348",
+      "text": "Bana Ebû Ğassan Er-Râzî Muhammed b. Amr rivayet etti. (Dediki): Bize Hakkâm b. Selm rivayet etti. (Dediki): Bize Osman b. Zaide Zübeyr b. Adiy'den, o da Enes b. Mâlik'den naklen rivayet etti (Şöyle demiş): Resulullah (Sallallahu Aleyhi ve Sellem) altmış üç yaşında iken vefat etti. Ebû Bekr altmış üç yaşındayken vefat etti. Ömer de altmış üç yaşında iken vefat etti. İzah 2349 da",
+      "grades": [],
+      "reference": {
+        "book": 43,
+        "hadith": 149
+      }
+    }
+  ]
 }

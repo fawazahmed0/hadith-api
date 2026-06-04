@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Ibn Majah",
-		"section": {
-			"9": "The Chapters on Marriage"
-		},
-		"section_detail": {
-			"9": {
-				"hadithnumber_first": 1845,
-				"hadithnumber_last": 2015,
-				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1861,
-			"arabicnumber": 1861,
-			"text": "Abdurrahman bin Salim bin Utbe bin Uveym bin Saide el-Ensari, babasından, O da dedesi (Uveym bin Saide) (r.a.)'den rivayet ettiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Bakire (kız)larla evlenmeye bakınız. Çünkü (dul kadınlara nazaran) onların ağızlan daha tatlı, rahimleri daha çok çocuk atıcı ve kendileri aza daha razıdırlar.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Muhammed bin Talha bulunur. Onun hakkında Ebu Hatim: O'nun rivayetlerine güvenilmez, demiştir. İbn-i Hibban da: O sikalardandır. Bazen hata eder, demiştir. Diğer ravi Abdurrahman bin Salim bin Utbe hakkında Buhari: Onun rivayet ettiği hadis, sahih değil, demiştir",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
-			"reference": {
-				"book": 9,
-				"hadith": 17
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Ibn Majah",
+    "section": {
+      "9": "Nikâh Kitabı"
+    },
+    "section_detail": {
+      "9": {
+        "hadithnumber_first": 1845,
+        "hadithnumber_last": 2015,
+        "arabicnumber_first": 1845,
+        "arabicnumber_last": 2015
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1861,
+      "arabicnumber": 1861,
+      "text": "Abdurrahman bin Salim bin Utbe bin Uveym bin Saide el-Ensari, babasından, O da dedesi (Uveym bin Saide) (r.a.)'den rivayet ettiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Bakire (kız)larla evlenmeye bakınız. Çünkü (dul kadınlara nazaran) onların ağızlan daha tatlı, rahimleri daha çok çocuk atıcı ve kendileri aza daha razıdırlar.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Muhammed bin Talha bulunur. Onun hakkında Ebu Hatim: O'nun rivayetlerine güvenilmez, demiştir. İbn-i Hibban da: O sikalardandır. Bazen hata eder, demiştir. Diğer ravi Abdurrahman bin Salim bin Utbe hakkında Buhari: Onun rivayet ettiği hadis, sahih değil, demiştir",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "book": 9,
+        "hadith": 17
+      }
+    }
+  ]
 }

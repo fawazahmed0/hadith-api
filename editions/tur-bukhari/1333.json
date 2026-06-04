@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"23": "Funerals (Al-Janaa'iz)"
-		},
-		"section_detail": {
-			"23": {
-				"hadithnumber_first": 1237,
-				"hadithnumber_last": 1394,
-				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1333,
-			"arabicnumber": 1333,
-			"text": "Ebu Hureyre r.a. Şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem Necaşî'nin öldüğü gün, ölüm haberini ashabına bildirdi. Sonra onları musallaya çıkardı, saf'a soktu ve Necaşî için dört tekbir getirdi",
-			"grades": [],
-			"reference": {
-				"book": 23,
-				"hadith": 88
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "23": "Cenazeler"
+    },
+    "section_detail": {
+      "23": {
+        "hadithnumber_first": 1237,
+        "hadithnumber_last": 1394,
+        "arabicnumber_first": 1237,
+        "arabicnumber_last": 1394
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1333,
+      "arabicnumber": 1333,
+      "text": "Ebu Hureyre r.a. Şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem Necaşî'nin öldüğü gün, ölüm haberini ashabına bildirdi. Sonra onları musallaya çıkardı, saf'a soktu ve Necaşî için dört tekbir getirdi",
+      "grades": [],
+      "reference": {
+        "book": 23,
+        "hadith": 88
+      }
+    }
+  ]
 }

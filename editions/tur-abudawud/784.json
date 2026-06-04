@@ -1,45 +1,45 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"2": "Prayer (Kitab Al-Salat)"
-		},
-		"section_detail": {
-			"2": {
-				"hadithnumber_first": 391,
-				"hadithnumber_last": 1160,
-				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 784,
-			"arabicnumber": 784,
-			"text": "el-Muhtar b. Fulful dedi ki: Ben Enes b. Malik (r.a.)'i (şöyle) derken işittim: Nebi (Sallallahu aleyhi ve Sellem); \"Demin bana bir sure indirildi\" dedi ve hemen ''Bismillahirrahmanirrahim”, diye okumaya başladı ve sureyi bitirdi. \"Kevser nedir bilir misiniz?\" buyurdu. Allah ve Resulü daha iyi bilir dediler. Bunun üzerine: \"O Rabbim'in bana va'd ettiği Cennette bir nehirdir\" buyurdular. Diğer tahric: Buharî tefsir Sure; Müslim salat; Tirmizi, cennet; Nesaî iftitah",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim (400)"
-				}
-			],
-			"reference": {
-				"book": 2,
-				"hadith": 394
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "2": "Namaz Bölümü"
+    },
+    "section_detail": {
+      "2": {
+        "hadithnumber_first": 391,
+        "hadithnumber_last": 1160,
+        "arabicnumber_first": 391,
+        "arabicnumber_last": 1160
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 784,
+      "arabicnumber": 784,
+      "text": "el-Muhtar b. Fulful dedi ki: Ben Enes b. Malik (r.a.)'i (şöyle) derken işittim: Nebi (Sallallahu aleyhi ve Sellem); \"Demin bana bir sure indirildi\" dedi ve hemen ''Bismillahirrahmanirrahim”, diye okumaya başladı ve sureyi bitirdi. \"Kevser nedir bilir misiniz?\" buyurdu. Allah ve Resulü daha iyi bilir dediler. Bunun üzerine: \"O Rabbim'in bana va'd ettiği Cennette bir nehirdir\" buyurdular. Diğer tahric: Buharî tefsir Sure; Müslim salat; Tirmizi, cennet; Nesaî iftitah",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (400)"
+        }
+      ],
+      "reference": {
+        "book": 2,
+        "hadith": 394
+      }
+    }
+  ]
 }

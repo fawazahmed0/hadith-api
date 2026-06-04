@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"5": "The Book of Mosques and Places of Prayer"
-		},
-		"section_detail": {
-			"5": {
-				"hadithnumber_first": 1161,
-				"hadithnumber_last": 1569,
-				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 1401,
-			"arabicnumber": "617.01",
-			"text": "Bana Amr b. Sevvâd ile Harmeletü'bnü Yahya rivayet ettiler. Lâfız Harmele'nindir. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihâb'dan naklen haber verdi. Demişki: Bana Ebu Selemete'bnü Abdirrahmân rivayet etti, o da Ebu Hureyre'yi şöyle derken işitmiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Cehennem Rabbine şikâyet etti de: — Yâ Rab! Ben kendi kendimi yedim; dedi. (Allah Teâlâ da), ona iki defa nefes almak için izin verdi. Bir nefes kışın, bir nefes de yazın (alır.) işte en ziyâde ma'rûz kaldığınız sıcakla, hissettiğiniz en şiddetli soğuk bundandır.» buyurdular",
-			"grades": [],
-			"reference": {
-				"book": 5,
-				"hadith": 235
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "5": "Mescidler ve Namaz Kılınan Yerler Bahsi"
+    },
+    "section_detail": {
+      "5": {
+        "hadithnumber_first": 1161,
+        "hadithnumber_last": 1569,
+        "arabicnumber_first": 520.01,
+        "arabicnumber_last": 684.04
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 1401,
+      "arabicnumber": "617.01",
+      "text": "Bana Amr b. Sevvâd ile Harmeletü'bnü Yahya rivayet ettiler. Lâfız Harmele'nindir. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihâb'dan naklen haber verdi. Demişki: Bana Ebu Selemete'bnü Abdirrahmân rivayet etti, o da Ebu Hureyre'yi şöyle derken işitmiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Cehennem Rabbine şikâyet etti de: — Yâ Rab! Ben kendi kendimi yedim; dedi. (Allah Teâlâ da), ona iki defa nefes almak için izin verdi. Bir nefes kışın, bir nefes de yazın (alır.) işte en ziyâde ma'rûz kaldığınız sıcakla, hissettiğiniz en şiddetli soğuk bundandır.» buyurdular",
+      "grades": [],
+      "reference": {
+        "book": 5,
+        "hadith": 235
+      }
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"1": "The Book of Purification"
-		},
-		"section_detail": {
-			"1": {
-				"hadithnumber_first": 1,
-				"hadithnumber_last": 324,
-				"arabicnumber_first": 1,
-				"arabicnumber_last": 324
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 132,
-			"arabicnumber": 132,
-			"text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre: Rasûlüllah (sallallahü aleyhi ve sellem) tuvaletten çıkmıştı kendisine yemek hazırlanmıştı oradakiler: suyu getirmeyelim mi?) dediler. Rasûlüllah (sallallahü aleyhi ve sellem): namaz kılacağımda abdest almakla emir olundum) buyurdular. (Müslim, Tahara: 25; Tirmizî, Tahara:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
-				}
-			],
-			"reference": {
-				"book": 1,
-				"hadith": 133
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "1": "Temizlik Bölümleri"
+    },
+    "section_detail": {
+      "1": {
+        "hadithnumber_first": 1,
+        "hadithnumber_last": 324,
+        "arabicnumber_first": 1,
+        "arabicnumber_last": 324
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 132,
+      "arabicnumber": 132,
+      "text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre: Rasûlüllah (sallallahü aleyhi ve sellem) tuvaletten çıkmıştı kendisine yemek hazırlanmıştı oradakiler: suyu getirmeyelim mi?) dediler. Rasûlüllah (sallallahü aleyhi ve sellem): namaz kılacağımda abdest almakla emir olundum) buyurdular. (Müslim, Tahara: 25; Tirmizî, Tahara:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "book": 1,
+        "hadith": 133
+      }
+    }
+  ]
 }

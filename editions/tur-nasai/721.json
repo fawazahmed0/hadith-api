@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan an Nasai",
-		"section": {
-			"8": "The Book of the Masjids"
-		},
-		"section_detail": {
-			"8": {
-				"hadithnumber_first": 688,
-				"hadithnumber_last": 741,
-				"arabicnumber_first": 688,
-				"arabicnumber_last": 741
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 721,
-			"arabicnumber": 721,
-			"text": "Abbad b. Temim (radıyallahü anh) amcasından aktararak şöyle diyor: Amcam Rasûlüllah (sallallahü aleyhi ve sellem)’i mescidde sırtüstü yatarak bir ayağını diğeri üzerine atmış şekilde gördüğünü söylemiştir. (Buhârî, Salat: 85; Müslim, Mesacid:)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih - Agreed Upon"
-				}
-			],
-			"reference": {
-				"book": 8,
-				"hadith": 34
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan an Nasai",
+    "section": {
+      "8": "Mesâcid Kitabı"
+    },
+    "section_detail": {
+      "8": {
+        "hadithnumber_first": 688,
+        "hadithnumber_last": 741,
+        "arabicnumber_first": 688,
+        "arabicnumber_last": 741
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 721,
+      "arabicnumber": 721,
+      "text": "Abbad b. Temim (radıyallahü anh) amcasından aktararak şöyle diyor: Amcam Rasûlüllah (sallallahü aleyhi ve sellem)’i mescidde sırtüstü yatarak bir ayağını diğeri üzerine atmış şekilde gördüğünü söylemiştir. (Buhârî, Salat: 85; Müslim, Mesacid:)",
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "book": 8,
+        "hadith": 34
+      }
+    }
+  ]
 }

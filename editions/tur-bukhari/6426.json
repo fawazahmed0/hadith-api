@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih al Bukhari",
-		"section": {
-			"81": "To make the Heart Tender (Ar-Riqaq)"
-		},
-		"section_detail": {
-			"81": {
-				"hadithnumber_first": 6412,
-				"hadithnumber_last": 6593,
-				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 6426,
-			"arabicnumber": 6426,
-			"text": "Ukbe İbn Amir şöyle rivayet etmiştir: Nebi Sallallahu Aleyhi ve Sellem bir gün evden çıktı ve Uhut şehitleri için cenaze namazı kıldı. Daha sonra minbere çıkarak şöyle buyurdu: \"Ben sizin önde gideninizim ve ben sizin yaptıklarınızın şahidiyim. Allah'a yemin ederim ki şu anda cenneteki Havuz'a bakıyorum. Bana dünyanın hazinelerinin anahtarları verilmiştir. Ancak Allah'a yemin ederim ki ben, benden sonra şirke düşmenizden korkmuyorum. Aksine, dünya için birbirinizle çekişmenizden korkuyorum",
-			"grades": [],
-			"reference": {
-				"book": 81,
-				"hadith": 15
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih al Bukhari",
+    "section": {
+      "81": "Kalbi İnceltecek Şeyler"
+    },
+    "section_detail": {
+      "81": {
+        "hadithnumber_first": 6412,
+        "hadithnumber_last": 6593,
+        "arabicnumber_first": 6412,
+        "arabicnumber_last": 6593
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 6426,
+      "arabicnumber": 6426,
+      "text": "Ukbe İbn Amir şöyle rivayet etmiştir: Nebi Sallallahu Aleyhi ve Sellem bir gün evden çıktı ve Uhut şehitleri için cenaze namazı kıldı. Daha sonra minbere çıkarak şöyle buyurdu: \"Ben sizin önde gideninizim ve ben sizin yaptıklarınızın şahidiyim. Allah'a yemin ederim ki şu anda cenneteki Havuz'a bakıyorum. Bana dünyanın hazinelerinin anahtarları verilmiştir. Ancak Allah'a yemin ederim ki ben, benden sonra şirke düşmenizden korkmuyorum. Aksine, dünya için birbirinizle çekişmenizden korkuyorum",
+      "grades": [],
+      "reference": {
+        "book": 81,
+        "hadith": 15
+      }
+    }
+  ]
 }

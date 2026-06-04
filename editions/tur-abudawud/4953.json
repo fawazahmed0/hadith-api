@@ -1,41 +1,41 @@
 {
-	"metadata": {
-		"name": "Sunan Abu Dawud",
-		"section": {
-			"43": "General Behavior (Kitab Al-Adab)"
-		},
-		"section_detail": {
-			"43": {
-				"hadithnumber_first": 4773,
-				"hadithnumber_last": 5274,
-				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4953,
-			"arabicnumber": 4953,
-			"text": "Muhammed İbn Amr İbn Ata'dan (rivayet edildiğine göre); Kendisine Zeyneb bint Ebi Seleme kızının: \"Kızının ismini ne koydun?\" diye sormuş (O da): Ona Berre ismini verdim, deyince, (Zeyneb) şöyle demiş: Rasûlullah (s.a.v.) bu ismi yasakladı. (Nitekim) bana da Berre ismi verilmişti de Nebi (s.a.v.) (insanı kusursuz gösteren böylesi isimlerİ vermek suretiyle); \"Kendinizi temize çıkarmayın, sizden kimin iyi olduğunu Allah daha iyi bilir\" buyurdu. Bunun üzerine (orada bulunanlardan biri Hz. Nebi'e: Peki onun) \"İsmini ne koyalım?\" diye sordu. (Hz. Nebi) de: \"Ona Zeyneb ismini veriniz\" dedi",
-			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 181
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sunan Abu Dawud",
+    "section": {
+      "43": "Edeb Bölümü"
+    },
+    "section_detail": {
+      "43": {
+        "hadithnumber_first": 4773,
+        "hadithnumber_last": 5274,
+        "arabicnumber_first": 4773,
+        "arabicnumber_last": 5274
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4953,
+      "arabicnumber": 4953,
+      "text": "Muhammed İbn Amr İbn Ata'dan (rivayet edildiğine göre); Kendisine Zeyneb bint Ebi Seleme kızının: \"Kızının ismini ne koydun?\" diye sormuş (O da): Ona Berre ismini verdim, deyince, (Zeyneb) şöyle demiş: Rasûlullah (s.a.v.) bu ismi yasakladı. (Nitekim) bana da Berre ismi verilmişti de Nebi (s.a.v.) (insanı kusursuz gösteren böylesi isimlerİ vermek suretiyle); \"Kendinizi temize çıkarmayın, sizden kimin iyi olduğunu Allah daha iyi bilir\" buyurdu. Bunun üzerine (orada bulunanlardan biri Hz. Nebi'e: Peki onun) \"İsmini ne koyalım?\" diye sordu. (Hz. Nebi) de: \"Ona Zeyneb ismini veriniz\" dedi",
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "book": 43,
+        "hadith": 181
+      }
+    }
+  ]
 }

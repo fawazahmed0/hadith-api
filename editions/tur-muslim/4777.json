@@ -1,28 +1,28 @@
 {
-	"metadata": {
-		"name": "Sahih Muslim",
-		"section": {
-			"33": "The Book on Government"
-		},
-		"section_detail": {
-			"33": {
-				"hadithnumber_first": 4701,
-				"hadithnumber_last": 4967,
-				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
-			}
-		}
-	},
-	"hadiths": [
-		{
-			"hadithnumber": 4777,
-			"arabicnumber": "1844.02",
-			"text": "{…} Bize Ebû Bekir b. Ebî Şeybe ile İbnü Numeyr ve Ebû Saîd El-Eşecc de rivayet ettiler. (Dedilerki): Bize Vekî, rivayet etti. H. Bize Ebû Kureyb dahî rivayet etti. (Dediki): Bize Ebû Muâviye rivayet etti. Her iki râvî A'meş'den bu isnadla bu hadîsin mislini rivayet etmişlerdir",
-			"grades": [],
-			"reference": {
-				"book": 33,
-				"hadith": 75
-			}
-		}
-	]
+  "metadata": {
+    "name": "Sahih Muslim",
+    "section": {
+      "33": "Emirlik"
+    },
+    "section_detail": {
+      "33": {
+        "hadithnumber_first": 4701,
+        "hadithnumber_last": 4967,
+        "arabicnumber_first": 1818.01,
+        "arabicnumber_last": 1928.02
+      }
+    }
+  },
+  "hadiths": [
+    {
+      "hadithnumber": 4777,
+      "arabicnumber": "1844.02",
+      "text": "{…} Bize Ebû Bekir b. Ebî Şeybe ile İbnü Numeyr ve Ebû Saîd El-Eşecc de rivayet ettiler. (Dedilerki): Bize Vekî, rivayet etti. H. Bize Ebû Kureyb dahî rivayet etti. (Dediki): Bize Ebû Muâviye rivayet etti. Her iki râvî A'meş'den bu isnadla bu hadîsin mislini rivayet etmişlerdir",
+      "grades": [],
+      "reference": {
+        "book": 33,
+        "hadith": 75
+      }
+    }
+  ]
 }

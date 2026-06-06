@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "Sahih Muslim",
 		"section": {
 			"10": "The Book of Prayer - Eclipses"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 2089,
 				"hadithnumber_last": 2122,
 				"arabicnumber_first": 901.01,
-				"arabicnumber_last": 915
+				"arabicnumber_last": 915,
+				"name_native": "The Book of Prayer - Eclipses"
 			}
 		}
 	},

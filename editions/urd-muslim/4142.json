@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "صحیح مسلم",
 		"section": {
 			"23": "The Book of the Rules of Inheritance"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 4140,
 				"hadithnumber_last": 4162,
 				"arabicnumber_first": 1614,
-				"arabicnumber_last": 1619.06
+				"arabicnumber_last": 1619.06,
+				"name_native": "کتاب الفرائض (وراثت)"
 			}
 		}
 	},

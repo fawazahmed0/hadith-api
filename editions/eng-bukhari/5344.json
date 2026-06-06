@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Sahih al-Bukhari",
 		"section": {
 			"68": "Divorce"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 5251,
 				"hadithnumber_last": 5350,
 				"arabicnumber_first": 5251,
-				"arabicnumber_last": 5350
+				"arabicnumber_last": 5350,
+				"name_native": "Divorce"
 			}
 		}
 	},

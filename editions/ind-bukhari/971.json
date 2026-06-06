@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Shahih al-Bukhari",
 		"section": {
 			"13": "The Two Festivals (Eids)"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 948,
 				"hadithnumber_last": 989,
 				"arabicnumber_first": 948,
-				"arabicnumber_last": 989
+				"arabicnumber_last": 989,
+				"name_native": "Dua Hari Raya (Idul Fitri)"
 			}
 		}
 	},

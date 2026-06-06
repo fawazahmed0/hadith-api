@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Sahih al-Bukhari",
 		"section": {
 			"50": "Makaatib"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 2560,
 				"hadithnumber_last": 2565,
 				"arabicnumber_first": 2560,
-				"arabicnumber_last": 2565
+				"arabicnumber_last": 2565,
+				"name_native": "Makaatib"
 			}
 		}
 	},

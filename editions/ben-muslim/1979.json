@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "সহীহ মুসলিম",
 		"section": {
 			"7": "The Book of Prayer - Friday"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 1951,
 				"hadithnumber_last": 2043,
 				"arabicnumber_first": 844.01,
-				"arabicnumber_last": 883.02
+				"arabicnumber_last": 883.02,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			}
 		}
 	},

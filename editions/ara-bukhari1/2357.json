@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "صحيح البخاري",
 		"section": {
 			"42": "Distribution of Water"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 2351,
 				"hadithnumber_last": 2383,
 				"arabicnumber_first": 2351,
-				"arabicnumber_last": 2383
+				"arabicnumber_last": 2383,
+				"name_native": "توزيع المياه"
 			}
 		}
 	},

@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sunan Abu Dawud",
+		"name_native": "সুনান আবু দাউদ",
 		"sections": {
 			"0": "",
 			"1": "Purification (Kitab Al-Taharah)",
@@ -58,259 +59,302 @@
 				"hadithnumber_first": 1,
 				"hadithnumber_last": 390,
 				"arabicnumber_first": 1,
-				"arabicnumber_last": 390
+				"arabicnumber_last": 390,
+				"name_native": "পবিত্রতা অধ্যায়"
 			},
 			"2": {
 				"hadithnumber_first": 391,
 				"hadithnumber_last": 1160,
 				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
+				"arabicnumber_last": 1160,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"3": {
 				"hadithnumber_first": 1161,
 				"hadithnumber_last": 1197,
 				"arabicnumber_first": 1161,
-				"arabicnumber_last": 1197
+				"arabicnumber_last": 1197,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"4": {
 				"hadithnumber_first": 1198,
 				"hadithnumber_last": 1249,
 				"arabicnumber_first": 1198,
-				"arabicnumber_last": 1249
+				"arabicnumber_last": 1249,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"5": {
 				"hadithnumber_first": 1250,
 				"hadithnumber_last": 1370,
 				"arabicnumber_first": 1250,
-				"arabicnumber_last": 1370
+				"arabicnumber_last": 1370,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"6": {
 				"hadithnumber_first": 1371,
 				"hadithnumber_last": 1400,
 				"arabicnumber_first": 1371,
-				"arabicnumber_last": 1400
+				"arabicnumber_last": 1400,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"7": {
 				"hadithnumber_first": 1401,
 				"hadithnumber_last": 1415,
 				"arabicnumber_first": 1401,
-				"arabicnumber_last": 1415
+				"arabicnumber_last": 1415,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"8": {
 				"hadithnumber_first": 1416,
 				"hadithnumber_last": 1555,
 				"arabicnumber_first": 1416,
-				"arabicnumber_last": 1555
+				"arabicnumber_last": 1555,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"9": {
 				"hadithnumber_first": 1556,
 				"hadithnumber_last": 1700,
 				"arabicnumber_first": 1556,
-				"arabicnumber_last": 1700
+				"arabicnumber_last": 1700,
+				"name_native": "যাকাত অধ্যায়"
 			},
 			"10": {
 				"hadithnumber_first": 1701,
 				"hadithnumber_last": 1720,
 				"arabicnumber_first": 1701,
-				"arabicnumber_last": 1720
+				"arabicnumber_last": 1720,
+				"name_native": "দ্য বুক অফ লস্ট অ্যান্ড ফাউন্ড আইটেম"
 			},
 			"11": {
 				"hadithnumber_first": 1721,
 				"hadithnumber_last": 2045,
 				"arabicnumber_first": 1721,
-				"arabicnumber_last": 2045
+				"arabicnumber_last": 2045,
+				"name_native": "হজের রীতি (কিতাব আল-মানসিক ওয়াল-হজ)"
 			},
 			"12": {
 				"hadithnumber_first": 2046,
 				"hadithnumber_last": 2174,
 				"arabicnumber_first": 2046,
-				"arabicnumber_last": 2174
+				"arabicnumber_last": 2174,
+				"name_native": "নিকাহ (বিয়ে) অধ্যায়"
 			},
 			"13": {
 				"hadithnumber_first": 2175,
 				"hadithnumber_last": 2312,
 				"arabicnumber_first": 2175,
-				"arabicnumber_last": 2312
+				"arabicnumber_last": 2312,
+				"name_native": "তালাক অধ্যায়"
 			},
 			"14": {
 				"hadithnumber_first": 2313,
 				"hadithnumber_last": 2476,
 				"arabicnumber_first": 2313,
-				"arabicnumber_last": 2476
+				"arabicnumber_last": 2476,
+				"name_native": "সিয়াম (রোজা) অধ্যায়"
 			},
 			"15": {
 				"hadithnumber_first": 2477,
 				"hadithnumber_last": 2787,
 				"arabicnumber_first": 2477,
-				"arabicnumber_last": 2787
+				"arabicnumber_last": 2787,
+				"name_native": "জিহাদ অধ্যায়"
 			},
 			"16": {
 				"hadithnumber_first": 2788,
 				"hadithnumber_last": 2843,
 				"arabicnumber_first": 2788,
-				"arabicnumber_last": 2843
+				"arabicnumber_last": 2843,
+				"name_native": "কোরবানি অধ্যায়"
 			},
 			"17": {
 				"hadithnumber_first": 2844,
 				"hadithnumber_last": 2861,
 				"arabicnumber_first": 2844,
-				"arabicnumber_last": 2861
+				"arabicnumber_last": 2861,
+				"name_native": "শিকার অধ্যায়"
 			},
 			"18": {
 				"hadithnumber_first": 2862,
 				"hadithnumber_last": 2884,
 				"arabicnumber_first": 2862,
-				"arabicnumber_last": 2884
+				"arabicnumber_last": 2884,
+				"name_native": "ওসিয়ত অধ্যায়"
 			},
 			"19": {
 				"hadithnumber_first": 2885,
 				"hadithnumber_last": 2927,
 				"arabicnumber_first": 2885,
-				"arabicnumber_last": 2927
+				"arabicnumber_last": 2927,
+				"name_native": "ফারায়েজ (উত্তরাধিকার) অধ্যায়"
 			},
 			"20": {
 				"hadithnumber_first": 2928,
 				"hadithnumber_last": 3088,
 				"arabicnumber_first": 2928,
-				"arabicnumber_last": 3088
+				"arabicnumber_last": 3088,
+				"name_native": "শ্রদ্ধা, লুণ্ঠন এবং শাসন (কিতাব আল-খারাজ, ওয়াল-ফাই' ওয়াল-ইমারাহ)"
 			},
 			"21": {
 				"hadithnumber_first": 3089,
 				"hadithnumber_last": 3241,
 				"arabicnumber_first": 3089,
-				"arabicnumber_last": 3241
+				"arabicnumber_last": 3241,
+				"name_native": "জানাযা (দাফন) অধ্যায়"
 			},
 			"22": {
 				"hadithnumber_first": 3242,
 				"hadithnumber_last": 3325,
 				"arabicnumber_first": 3242,
-				"arabicnumber_last": 3325
+				"arabicnumber_last": 3325,
+				"name_native": "শপথ ও মানত অধ্যায়"
 			},
 			"23": {
 				"hadithnumber_first": 3326,
 				"hadithnumber_last": 3415,
 				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3415
+				"arabicnumber_last": 3415,
+				"name_native": "বাণিজ্যিক লেনদেন (কিতাব আল-বুয়ু)"
 			},
 			"24": {
 				"hadithnumber_first": 3416,
 				"hadithnumber_last": 3570,
 				"arabicnumber_first": 3416,
-				"arabicnumber_last": 3570
+				"arabicnumber_last": 3570,
+				"name_native": "মজুরি (কিতাব আল-ইজারাহ)"
 			},
 			"25": {
 				"hadithnumber_first": 3571,
 				"hadithnumber_last": 3640,
 				"arabicnumber_first": 3571,
-				"arabicnumber_last": 3640
+				"arabicnumber_last": 3640,
+				"name_native": "বিচারকের কার্যালয় (কিতাব আল-আকদিয়াহ)"
 			},
 			"26": {
 				"hadithnumber_first": 3641,
 				"hadithnumber_last": 3668,
 				"arabicnumber_first": 3641,
-				"arabicnumber_last": 3668
+				"arabicnumber_last": 3668,
+				"name_native": "ইলম (জ্ঞান) অধ্যায়"
 			},
 			"27": {
 				"hadithnumber_first": 3669,
 				"hadithnumber_last": 3735,
 				"arabicnumber_first": 3669,
-				"arabicnumber_last": 3735
+				"arabicnumber_last": 3735,
+				"name_native": "পানীয় অধ্যায়"
 			},
 			"28": {
 				"hadithnumber_first": 3736,
 				"hadithnumber_last": 3854,
 				"arabicnumber_first": 3736,
-				"arabicnumber_last": 3854
+				"arabicnumber_last": 3854,
+				"name_native": "খাদ্য অধ্যায়"
 			},
 			"29": {
 				"hadithnumber_first": 3855,
 				"hadithnumber_last": 3903,
 				"arabicnumber_first": 3855,
-				"arabicnumber_last": 3903
+				"arabicnumber_last": 3903,
+				"name_native": "চিকিৎসা অধ্যায়"
 			},
 			"30": {
 				"hadithnumber_first": 3904,
 				"hadithnumber_last": 3925,
 				"arabicnumber_first": 3904,
-				"arabicnumber_last": 3925
+				"arabicnumber_last": 3925,
+				"name_native": "ভবিষ্যদ্বাণী এবং অশুভ (কিতাব আল-কাহানাহ ওয়া আল-তাতায়্যুর)"
 			},
 			"31": {
 				"hadithnumber_first": 3926,
 				"hadithnumber_last": 3968,
 				"arabicnumber_first": 3926,
-				"arabicnumber_last": 3968
+				"arabicnumber_last": 3968,
+				"name_native": "দাসদের মানুমিশনের বই"
 			},
 			"32": {
 				"hadithnumber_first": 3969,
 				"hadithnumber_last": 4008,
 				"arabicnumber_first": 3969,
-				"arabicnumber_last": 4008
+				"arabicnumber_last": 4008,
+				"name_native": "কোরানের উপভাষা এবং পাঠ (কিতাব আল-হুরুফ ওয়া আল-কিরাআত)"
 			},
 			"33": {
 				"hadithnumber_first": 4009,
 				"hadithnumber_last": 4019,
 				"arabicnumber_first": 4009,
-				"arabicnumber_last": 4019
+				"arabicnumber_last": 4019,
+				"name_native": "গরম গোসল (কিতাব আল-হাম্মাম)"
 			},
 			"34": {
 				"hadithnumber_first": 4020,
 				"hadithnumber_last": 4158,
 				"arabicnumber_first": 4020,
-				"arabicnumber_last": 4158
+				"arabicnumber_last": 4158,
+				"name_native": "পোষাক-পরিচ্ছদ অধ্যায়"
 			},
 			"35": {
 				"hadithnumber_first": 4159,
 				"hadithnumber_last": 4213,
 				"arabicnumber_first": 4159,
-				"arabicnumber_last": 4213
+				"arabicnumber_last": 4213,
+				"name_native": "চুল আঁচড়ানো (কিতাব আল তারাজ্জুল)"
 			},
 			"36": {
 				"hadithnumber_first": 4214,
 				"hadithnumber_last": 4239,
 				"arabicnumber_first": 4214,
-				"arabicnumber_last": 4239
+				"arabicnumber_last": 4239,
+				"name_native": "সিগনেট-রিং (কিতাব আল-খাতাম)"
 			},
 			"37": {
 				"hadithnumber_first": 4240,
 				"hadithnumber_last": 4278,
 				"arabicnumber_first": 4240,
-				"arabicnumber_last": 4278
+				"arabicnumber_last": 4278,
+				"name_native": "পরীক্ষা এবং ভয়ানক যুদ্ধ (কিতাব আল-ফিতান ওয়া আল-মালাহিম)"
 			},
 			"38": {
 				"hadithnumber_first": 4279,
 				"hadithnumber_last": 4290,
 				"arabicnumber_first": 4279,
-				"arabicnumber_last": 4290
+				"arabicnumber_last": 4290,
+				"name_native": "প্রতিশ্রুত বিতরণকারী (কিতাব আল-মাহদী)"
 			},
 			"39": {
 				"hadithnumber_first": 4291,
 				"hadithnumber_last": 4350,
 				"arabicnumber_first": 4291,
-				"arabicnumber_last": 4350
+				"arabicnumber_last": 4350,
+				"name_native": "যুদ্ধ (কিতাব আল-মালাহিম)"
 			},
 			"40": {
 				"hadithnumber_first": 4351,
 				"hadithnumber_last": 4493,
 				"arabicnumber_first": 4351,
-				"arabicnumber_last": 4493
+				"arabicnumber_last": 4493,
+				"name_native": "হদ (দণ্ডবিধি) অধ্যায়"
 			},
 			"41": {
 				"hadithnumber_first": 4494,
 				"hadithnumber_last": 4595,
 				"arabicnumber_first": 4494,
-				"arabicnumber_last": 4595
+				"arabicnumber_last": 4595,
+				"name_native": "দিয়ত (রক্তপণ) অধ্যায়"
 			},
 			"42": {
 				"hadithnumber_first": 4596,
 				"hadithnumber_last": 4772,
 				"arabicnumber_first": 4596,
-				"arabicnumber_last": 4772
+				"arabicnumber_last": 4772,
+				"name_native": "সুন্নাহ অধ্যায়"
 			},
 			"43": {
 				"hadithnumber_first": 4773,
 				"hadithnumber_last": 5274,
 				"arabicnumber_first": 4773,
-				"arabicnumber_last": 5274
+				"arabicnumber_last": 5274,
+				"name_native": "সাধারণ আচরণ (কিতাব আল-আদাব)"
 			}
 		}
 	},

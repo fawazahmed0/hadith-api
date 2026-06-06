@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Sahîh al-Bukhârî",
 		"section": {
 			"40": "Representation, Authorization, Business by Proxy"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 2299,
 				"hadithnumber_last": 2319,
 				"arabicnumber_first": 2299,
-				"arabicnumber_last": 2319
+				"arabicnumber_last": 2319,
+				"name_native": "Représentation, autorisation, affaires par procuration"
 			}
 		}
 	},

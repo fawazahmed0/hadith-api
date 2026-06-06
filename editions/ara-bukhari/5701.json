@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "صحيح البخاري",
 		"section": {
 			"76": "Medicine"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 5678,
 				"hadithnumber_last": 5782,
 				"arabicnumber_first": 5678,
-				"arabicnumber_last": 5782
+				"arabicnumber_last": 5782,
+				"name_native": "كتاب الطب"
 			}
 		}
 	},

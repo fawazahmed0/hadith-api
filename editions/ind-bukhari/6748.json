@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Shahih al-Bukhari",
 		"section": {
 			"85": "Laws of Inheritance (Al-Faraa'id)"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 6723,
 				"hadithnumber_last": 6771,
 				"arabicnumber_first": 6723,
-				"arabicnumber_last": 6771
+				"arabicnumber_last": 6771,
+				"name_native": "Kitab Warisan (Fara'id)"
 			}
 		}
 	},

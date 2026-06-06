@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Сахих аль-Бухари",
 		"sections": {
 			"0": "",
 			"1": "Revelation",
@@ -112,583 +113,680 @@
 				"hadithnumber_first": 1,
 				"hadithnumber_last": 7,
 				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
+				"arabicnumber_last": 7,
+				"name_native": "Книга начала откровений"
 			},
 			"2": {
 				"hadithnumber_first": 8,
 				"hadithnumber_last": 58,
 				"arabicnumber_first": 8,
-				"arabicnumber_last": 58
+				"arabicnumber_last": 58,
+				"name_native": "Книга веры (Иман)"
 			},
 			"3": {
 				"hadithnumber_first": 59,
 				"hadithnumber_last": 134,
 				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
+				"arabicnumber_last": 134,
+				"name_native": "Книга знания"
 			},
 			"4": {
 				"hadithnumber_first": 135,
 				"hadithnumber_last": 247,
 				"arabicnumber_first": 135,
-				"arabicnumber_last": 247
+				"arabicnumber_last": 247,
+				"name_native": "Книга омовения (Вуду)"
 			},
 			"5": {
 				"hadithnumber_first": 248,
 				"hadithnumber_last": 293,
 				"arabicnumber_first": 248,
-				"arabicnumber_last": 293
+				"arabicnumber_last": 293,
+				"name_native": "Книга полного омовения (Гусль)"
 			},
 			"6": {
 				"hadithnumber_first": 294,
 				"hadithnumber_last": 333,
 				"arabicnumber_first": 294,
-				"arabicnumber_last": 333
+				"arabicnumber_last": 333,
+				"name_native": "Книга менструации (Хайд)"
 			},
 			"7": {
 				"hadithnumber_first": 334,
 				"hadithnumber_last": 348,
 				"arabicnumber_first": 334,
-				"arabicnumber_last": 348
+				"arabicnumber_last": 348,
+				"name_native": "Книга таяммума (Очищения песком)"
 			},
 			"8": {
 				"hadithnumber_first": 349,
 				"hadithnumber_last": 520,
 				"arabicnumber_first": 349,
-				"arabicnumber_last": 520
+				"arabicnumber_last": 520,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"9": {
 				"hadithnumber_first": 522,
 				"hadithnumber_last": 602,
 				"arabicnumber_first": 522,
-				"arabicnumber_last": 602
+				"arabicnumber_last": 602,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"10": {
 				"hadithnumber_first": 603,
 				"hadithnumber_last": 875,
 				"arabicnumber_first": 603,
-				"arabicnumber_last": 875
+				"arabicnumber_last": 875,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"11": {
 				"hadithnumber_first": 876,
 				"hadithnumber_last": 941,
 				"arabicnumber_first": 876,
-				"arabicnumber_last": 941
+				"arabicnumber_last": 941,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"12": {
 				"hadithnumber_first": 942,
 				"hadithnumber_last": 947,
 				"arabicnumber_first": 942,
-				"arabicnumber_last": 947
+				"arabicnumber_last": 947,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"13": {
 				"hadithnumber_first": 948,
 				"hadithnumber_last": 989,
 				"arabicnumber_first": 948,
-				"arabicnumber_last": 989
+				"arabicnumber_last": 989,
+				"name_native": "Два праздника (Иды)"
 			},
 			"14": {
 				"hadithnumber_first": 990,
 				"hadithnumber_last": 1004,
 				"arabicnumber_first": 990,
-				"arabicnumber_last": 1004
+				"arabicnumber_last": 1004,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"15": {
 				"hadithnumber_first": 1005,
 				"hadithnumber_last": 1039,
 				"arabicnumber_first": 1005,
-				"arabicnumber_last": 1039
+				"arabicnumber_last": 1039,
+				"name_native": "Прошение Аллаха о дожде (истиска)"
 			},
 			"16": {
 				"hadithnumber_first": 1040,
 				"hadithnumber_last": 1066,
 				"arabicnumber_first": 1040,
-				"arabicnumber_last": 1066
+				"arabicnumber_last": 1066,
+				"name_native": "Затмения"
 			},
 			"17": {
 				"hadithnumber_first": 1067,
 				"hadithnumber_last": 1079,
 				"arabicnumber_first": 1067,
-				"arabicnumber_last": 1079
+				"arabicnumber_last": 1079,
+				"name_native": "Поклон во время чтения Корана"
 			},
 			"18": {
 				"hadithnumber_first": 1080,
 				"hadithnumber_last": 1119,
 				"arabicnumber_first": 1080,
-				"arabicnumber_last": 1119
+				"arabicnumber_last": 1119,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"19": {
 				"hadithnumber_first": 1120,
 				"hadithnumber_last": 1187,
 				"arabicnumber_first": 1120,
-				"arabicnumber_last": 1187
+				"arabicnumber_last": 1187,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"20": {
 				"hadithnumber_first": 1188,
 				"hadithnumber_last": 1197,
 				"arabicnumber_first": 1188,
-				"arabicnumber_last": 1197
+				"arabicnumber_last": 1197,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"21": {
 				"hadithnumber_first": 1198,
 				"hadithnumber_last": 1223,
 				"arabicnumber_first": 1198,
-				"arabicnumber_last": 1223
+				"arabicnumber_last": 1223,
+				"name_native": "Действия во время молитвы"
 			},
 			"22": {
 				"hadithnumber_first": 1224,
 				"hadithnumber_last": 1236,
 				"arabicnumber_first": 1224,
-				"arabicnumber_last": 1236
+				"arabicnumber_last": 1236,
+				"name_native": "Книга молитвы (Намаз)"
 			},
 			"23": {
 				"hadithnumber_first": 1237,
 				"hadithnumber_last": 1394,
 				"arabicnumber_first": 1237,
-				"arabicnumber_last": 1394
+				"arabicnumber_last": 1394,
+				"name_native": "Книга похорон (Джаназа)"
 			},
 			"24": {
 				"hadithnumber_first": 1395,
 				"hadithnumber_last": 1512,
 				"arabicnumber_first": 1395,
-				"arabicnumber_last": 1512
+				"arabicnumber_last": 1512,
+				"name_native": "Книга закята"
 			},
 			"25": {
 				"hadithnumber_first": 1513,
 				"hadithnumber_last": 1772,
 				"arabicnumber_first": 1513,
-				"arabicnumber_last": 1772
+				"arabicnumber_last": 1772,
+				"name_native": "Книга хаджа (Паломничества)"
 			},
 			"26": {
 				"hadithnumber_first": 1773,
 				"hadithnumber_last": 1805,
 				"arabicnumber_first": 1773,
-				"arabicnumber_last": 1805
+				"arabicnumber_last": 1805,
+				"name_native": "Книга хаджа (Паломничества)"
 			},
 			"27": {
 				"hadithnumber_first": 1806,
 				"hadithnumber_last": 1820,
 				"arabicnumber_first": 1806,
-				"arabicnumber_last": 1820
+				"arabicnumber_last": 1820,
+				"name_native": "Книга хаджа (Паломничества)"
 			},
 			"28": {
 				"hadithnumber_first": 1821,
 				"hadithnumber_last": 1866,
 				"arabicnumber_first": 1821,
-				"arabicnumber_last": 1866
+				"arabicnumber_last": 1866,
+				"name_native": "Книга хаджа (Паломничества)"
 			},
 			"29": {
 				"hadithnumber_first": 1867,
 				"hadithnumber_last": 1890,
 				"arabicnumber_first": 1867,
-				"arabicnumber_last": 1890
+				"arabicnumber_last": 1890,
+				"name_native": "Достоинства Медины"
 			},
 			"30": {
 				"hadithnumber_first": 1891,
 				"hadithnumber_last": 2007,
 				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
+				"arabicnumber_last": 2007,
+				"name_native": "Книга поста (Саум)"
 			},
 			"31": {
 				"hadithnumber_first": 2008,
 				"hadithnumber_last": 2013,
 				"arabicnumber_first": 2008,
-				"arabicnumber_last": 2013
+				"arabicnumber_last": 2013,
+				"name_native": "Молитва ночью в Рамадан (Таравих)"
 			},
 			"32": {
 				"hadithnumber_first": 2014,
 				"hadithnumber_last": 2024,
 				"arabicnumber_first": 2014,
-				"arabicnumber_last": 2024
+				"arabicnumber_last": 2024,
+				"name_native": "Достоинства ночи Кадр"
 			},
 			"33": {
 				"hadithnumber_first": 2025,
 				"hadithnumber_last": 2046,
 				"arabicnumber_first": 2025,
-				"arabicnumber_last": 2046
+				"arabicnumber_last": 2046,
+				"name_native": "Уход в мечеть для поминовения Аллаха (Итикаф)"
 			},
 			"34": {
 				"hadithnumber_first": 2047,
 				"hadithnumber_last": 2238,
 				"arabicnumber_first": 2047,
-				"arabicnumber_last": 2238
+				"arabicnumber_last": 2238,
+				"name_native": "Продажи и торговля"
 			},
 			"35": {
 				"hadithnumber_first": 2239,
 				"hadithnumber_last": 2256,
 				"arabicnumber_first": 2239,
-				"arabicnumber_last": 2256
+				"arabicnumber_last": 2256,
+				"name_native": "Продажи, при которых уплачивается цена за товары, которые должны быть доставлены позже (ас-салам)"
 			},
 			"36": {
 				"hadithnumber_first": 2257,
 				"hadithnumber_last": 2259,
 				"arabicnumber_first": 2257,
-				"arabicnumber_last": 2259
+				"arabicnumber_last": 2259,
+				"name_native": "Шуфа"
 			},
 			"37": {
 				"hadithnumber_first": 2260,
 				"hadithnumber_last": 2286,
 				"arabicnumber_first": 2260,
-				"arabicnumber_last": 2286
+				"arabicnumber_last": 2286,
+				"name_native": "Найм"
 			},
 			"38": {
 				"hadithnumber_first": 2287,
 				"hadithnumber_last": 2289,
 				"arabicnumber_first": 2287,
-				"arabicnumber_last": 2289
+				"arabicnumber_last": 2289,
+				"name_native": "Передача долга от одного человека к другому (Аль-Хавала)"
 			},
 			"39": {
 				"hadithnumber_first": 2290,
 				"hadithnumber_last": 2298,
 				"arabicnumber_first": 2290,
-				"arabicnumber_last": 2298
+				"arabicnumber_last": 2298,
+				"name_native": "Кафала"
 			},
 			"40": {
 				"hadithnumber_first": 2299,
 				"hadithnumber_last": 2319,
 				"arabicnumber_first": 2299,
-				"arabicnumber_last": 2319
+				"arabicnumber_last": 2319,
+				"name_native": "Представительство, авторизация, бизнес по доверенности"
 			},
 			"41": {
 				"hadithnumber_first": 2320,
 				"hadithnumber_last": 2350,
 				"arabicnumber_first": 2320,
-				"arabicnumber_last": 2350
+				"arabicnumber_last": 2350,
+				"name_native": "Сельское хозяйство"
 			},
 			"42": {
 				"hadithnumber_first": 2351,
 				"hadithnumber_last": 2383,
 				"arabicnumber_first": 2351,
-				"arabicnumber_last": 2383
+				"arabicnumber_last": 2383,
+				"name_native": "Распределение воды"
 			},
 			"43": {
 				"hadithnumber_first": 2385,
 				"hadithnumber_last": 2409,
 				"arabicnumber_first": 2385,
-				"arabicnumber_last": 2409
+				"arabicnumber_last": 2409,
+				"name_native": "Кредиты, Выплата кредитов, Замораживание имущества, Банкротство"
 			},
 			"44": {
 				"hadithnumber_first": 2410,
 				"hadithnumber_last": 2425,
 				"arabicnumber_first": 2410,
-				"arabicnumber_last": 2425
+				"arabicnumber_last": 2425,
+				"name_native": "Хусуомаат"
 			},
 			"45": {
 				"hadithnumber_first": 2426,
 				"hadithnumber_last": 2439,
 				"arabicnumber_first": 2426,
-				"arabicnumber_last": 2439
+				"arabicnumber_last": 2439,
+				"name_native": "Потерянные вещи кто-то подобрал (Луката)"
 			},
 			"46": {
 				"hadithnumber_first": 2440,
 				"hadithnumber_last": 2482,
 				"arabicnumber_first": 2440,
-				"arabicnumber_last": 2482
+				"arabicnumber_last": 2482,
+				"name_native": "Угнетения"
 			},
 			"47": {
 				"hadithnumber_first": 2483,
 				"hadithnumber_last": 2507,
 				"arabicnumber_first": 2483,
-				"arabicnumber_last": 2507
+				"arabicnumber_last": 2507,
+				"name_native": "Партнерство"
 			},
 			"48": {
 				"hadithnumber_first": 2508,
 				"hadithnumber_last": 2515,
 				"arabicnumber_first": 2508,
-				"arabicnumber_last": 2515
+				"arabicnumber_last": 2515,
+				"name_native": "Ипотечное кредитование"
 			},
 			"49": {
 				"hadithnumber_first": 2517,
 				"hadithnumber_last": 2559,
 				"arabicnumber_first": 2517,
-				"arabicnumber_last": 2559
+				"arabicnumber_last": 2559,
+				"name_native": "Освобождение рабов"
 			},
 			"50": {
 				"hadithnumber_first": 2560,
 				"hadithnumber_last": 2565,
 				"arabicnumber_first": 2560,
-				"arabicnumber_last": 2565
+				"arabicnumber_last": 2565,
+				"name_native": "Макаатиб"
 			},
 			"51": {
 				"hadithnumber_first": 2566,
 				"hadithnumber_last": 2636,
 				"arabicnumber_first": 2566,
-				"arabicnumber_last": 2636
+				"arabicnumber_last": 2636,
+				"name_native": "Подарки"
 			},
 			"52": {
 				"hadithnumber_first": 2637,
 				"hadithnumber_last": 2689,
 				"arabicnumber_first": 2637,
-				"arabicnumber_last": 2689
+				"arabicnumber_last": 2689,
+				"name_native": "Свидетели"
 			},
 			"53": {
 				"hadithnumber_first": 2690,
 				"hadithnumber_last": 2710,
 				"arabicnumber_first": 2690,
-				"arabicnumber_last": 2710
+				"arabicnumber_last": 2710,
+				"name_native": "Миротворчество"
 			},
 			"54": {
 				"hadithnumber_first": 2712,
 				"hadithnumber_last": 2737,
 				"arabicnumber_first": 2712,
-				"arabicnumber_last": 2737
+				"arabicnumber_last": 2737,
+				"name_native": "Условия"
 			},
 			"55": {
 				"hadithnumber_first": 2738,
 				"hadithnumber_last": 2781,
 				"arabicnumber_first": 2738,
-				"arabicnumber_last": 2781
+				"arabicnumber_last": 2781,
+				"name_native": "Книга завещаний"
 			},
 			"56": {
 				"hadithnumber_first": 2782,
 				"hadithnumber_last": 3090,
 				"arabicnumber_first": 2782,
-				"arabicnumber_last": 3090
+				"arabicnumber_last": 3090,
+				"name_native": "Борьба на пути Аллаха (джихад)"
 			},
 			"57": {
 				"hadithnumber_first": 3091,
 				"hadithnumber_last": 3155,
 				"arabicnumber_first": 3091,
-				"arabicnumber_last": 3155
+				"arabicnumber_last": 3155,
+				"name_native": "Одна пятая добычи на пути Аллаха (Хумус)"
 			},
 			"58": {
 				"hadithnumber_first": 3157,
 				"hadithnumber_last": 3189,
 				"arabicnumber_first": 3157,
-				"arabicnumber_last": 3189
+				"arabicnumber_last": 3189,
+				"name_native": "Джизья и Мавадаа"
 			},
 			"59": {
 				"hadithnumber_first": 3190,
 				"hadithnumber_last": 3325,
 				"arabicnumber_first": 3190,
-				"arabicnumber_last": 3325
+				"arabicnumber_last": 3325,
+				"name_native": "Начало творения"
 			},
 			"60": {
 				"hadithnumber_first": 3326,
 				"hadithnumber_last": 3488,
 				"arabicnumber_first": 3326,
-				"arabicnumber_last": 3488
+				"arabicnumber_last": 3488,
+				"name_native": "Пророки"
 			},
 			"61": {
 				"hadithnumber_first": 3489,
 				"hadithnumber_last": 3648,
 				"arabicnumber_first": 3489,
-				"arabicnumber_last": 3648
+				"arabicnumber_last": 3648,
+				"name_native": "Достоинства и заслуги Пророка (мир ему и благословение Аллаха) и его сподвижников"
 			},
 			"62": {
 				"hadithnumber_first": 3649,
 				"hadithnumber_last": 3775,
 				"arabicnumber_first": 3649,
-				"arabicnumber_last": 3775
+				"arabicnumber_last": 3775,
+				"name_native": "Сподвижники Пророка"
 			},
 			"63": {
 				"hadithnumber_first": 3776,
 				"hadithnumber_last": 3948,
 				"arabicnumber_first": 3776,
-				"arabicnumber_last": 3948
+				"arabicnumber_last": 3948,
+				"name_native": "Заслуги помощников в Медине (Ансар)"
 			},
 			"64": {
 				"hadithnumber_first": 3949,
 				"hadithnumber_last": 4473,
 				"arabicnumber_first": 3949,
-				"arabicnumber_last": 4473
+				"arabicnumber_last": 4473,
+				"name_native": "Военные экспедиции под руководством Пророка (мир ему и благословение Аллаха) (Аль-Магази)"
 			},
 			"65": {
 				"hadithnumber_first": 4474,
 				"hadithnumber_last": 4977,
 				"arabicnumber_first": 4474,
-				"arabicnumber_last": 4977
+				"arabicnumber_last": 4977,
+				"name_native": "Пророческий комментарий на Коран (тафсир Пророка (мир ему и благословение Аллаха))"
 			},
 			"66": {
 				"hadithnumber_first": 4979,
 				"hadithnumber_last": 5062,
 				"arabicnumber_first": 4979,
-				"arabicnumber_last": 5062
+				"arabicnumber_last": 5062,
+				"name_native": "Достоинства Корана"
 			},
 			"67": {
 				"hadithnumber_first": 5063,
 				"hadithnumber_last": 5250,
 				"arabicnumber_first": 5063,
-				"arabicnumber_last": 5250
+				"arabicnumber_last": 5250,
+				"name_native": "Книга брака (Никах)"
 			},
 			"68": {
 				"hadithnumber_first": 5251,
 				"hadithnumber_last": 5350,
 				"arabicnumber_first": 5251,
-				"arabicnumber_last": 5350
+				"arabicnumber_last": 5350,
+				"name_native": "Книга развода (Талак)"
 			},
 			"69": {
 				"hadithnumber_first": 5351,
 				"hadithnumber_last": 5372,
 				"arabicnumber_first": 5351,
-				"arabicnumber_last": 5372
+				"arabicnumber_last": 5372,
+				"name_native": "Поддержка семьи"
 			},
 			"70": {
 				"hadithnumber_first": 5373,
 				"hadithnumber_last": 5466,
 				"arabicnumber_first": 5373,
-				"arabicnumber_last": 5466
+				"arabicnumber_last": 5466,
+				"name_native": "Еда, Питание"
 			},
 			"71": {
 				"hadithnumber_first": 5467,
 				"hadithnumber_last": 5474,
 				"arabicnumber_first": 5467,
-				"arabicnumber_last": 5474
+				"arabicnumber_last": 5474,
+				"name_native": "Книга жертвоприношений"
 			},
 			"72": {
 				"hadithnumber_first": 5475,
 				"hadithnumber_last": 5544,
 				"arabicnumber_first": 5475,
-				"arabicnumber_last": 5544
+				"arabicnumber_last": 5544,
+				"name_native": "Книга охоты"
 			},
 			"73": {
 				"hadithnumber_first": 5545,
 				"hadithnumber_last": 5574,
 				"arabicnumber_first": 5545,
-				"arabicnumber_last": 5574
+				"arabicnumber_last": 5574,
+				"name_native": "Книга жертвоприношений"
 			},
 			"74": {
 				"hadithnumber_first": 5575,
 				"hadithnumber_last": 5639,
 				"arabicnumber_first": 5575,
-				"arabicnumber_last": 5639
+				"arabicnumber_last": 5639,
+				"name_native": "Книга напитков"
 			},
 			"75": {
 				"hadithnumber_first": 5640,
 				"hadithnumber_last": 5677,
 				"arabicnumber_first": 5640,
-				"arabicnumber_last": 5677
+				"arabicnumber_last": 5677,
+				"name_native": "Пациенты"
 			},
 			"76": {
 				"hadithnumber_first": 5678,
 				"hadithnumber_last": 5782,
 				"arabicnumber_first": 5678,
-				"arabicnumber_last": 5782
+				"arabicnumber_last": 5782,
+				"name_native": "Книга медицины"
 			},
 			"77": {
 				"hadithnumber_first": 5783,
 				"hadithnumber_last": 5969,
 				"arabicnumber_first": 5783,
-				"arabicnumber_last": 5969
+				"arabicnumber_last": 5969,
+				"name_native": "Книга одежды"
 			},
 			"78": {
 				"hadithnumber_first": 5970,
 				"hadithnumber_last": 6226,
 				"arabicnumber_first": 5970,
-				"arabicnumber_last": 6226
+				"arabicnumber_last": 6226,
+				"name_native": "Книга благонравия (Адаб)"
 			},
 			"79": {
 				"hadithnumber_first": 6227,
 				"hadithnumber_last": 6303,
 				"arabicnumber_first": 6227,
-				"arabicnumber_last": 6303
+				"arabicnumber_last": 6303,
+				"name_native": "Спрашивая разрешения"
 			},
 			"80": {
 				"hadithnumber_first": 6304,
 				"hadithnumber_last": 6411,
 				"arabicnumber_first": 6304,
-				"arabicnumber_last": 6411
+				"arabicnumber_last": 6411,
+				"name_native": "Вызовы"
 			},
 			"81": {
 				"hadithnumber_first": 6412,
 				"hadithnumber_last": 6593,
 				"arabicnumber_first": 6412,
-				"arabicnumber_last": 6593
+				"arabicnumber_last": 6593,
+				"name_native": "Сделать сердце нежным (Ар-Рикак)"
 			},
 			"82": {
 				"hadithnumber_first": 6594,
 				"hadithnumber_last": 6620,
 				"arabicnumber_first": 6594,
-				"arabicnumber_last": 6620
+				"arabicnumber_last": 6620,
+				"name_native": "Божественная воля (Аль-Кадар)"
 			},
 			"83": {
 				"hadithnumber_first": 6621,
 				"hadithnumber_last": 6707,
 				"arabicnumber_first": 6621,
-				"arabicnumber_last": 6707
+				"arabicnumber_last": 6707,
+				"name_native": "Книга клятв и обетов"
 			},
 			"84": {
 				"hadithnumber_first": 6708,
 				"hadithnumber_last": 6722,
 				"arabicnumber_first": 6708,
-				"arabicnumber_last": 6722
+				"arabicnumber_last": 6722,
+				"name_native": "Книга клятв и обетов"
 			},
 			"85": {
 				"hadithnumber_first": 6723,
 				"hadithnumber_last": 6771,
 				"arabicnumber_first": 6723,
-				"arabicnumber_last": 6771
+				"arabicnumber_last": 6771,
+				"name_native": "Книга долей наследства (Фараид)"
 			},
 			"86": {
 				"hadithnumber_first": 6772,
 				"hadithnumber_last": 6860,
 				"arabicnumber_first": 6772,
-				"arabicnumber_last": 6860
+				"arabicnumber_last": 6860,
+				"name_native": "Книга установленных наказаний (Худуд)"
 			},
 			"87": {
 				"hadithnumber_first": 6861,
 				"hadithnumber_last": 6917,
 				"arabicnumber_first": 6861,
-				"arabicnumber_last": 6917
+				"arabicnumber_last": 6917,
+				"name_native": "Книга о выкупе за кровь (Дийа)"
 			},
 			"88": {
 				"hadithnumber_first": 6918,
 				"hadithnumber_last": 6939,
 				"arabicnumber_first": 6918,
-				"arabicnumber_last": 6939
+				"arabicnumber_last": 6939,
+				"name_native": "Отступники"
 			},
 			"89": {
 				"hadithnumber_first": 6940,
 				"hadithnumber_last": 6952,
 				"arabicnumber_first": 6940,
-				"arabicnumber_last": 6952
+				"arabicnumber_last": 6952,
+				"name_native": "(Заявления, сделанные в рамках) Принуждения"
 			},
 			"90": {
 				"hadithnumber_first": 6953,
 				"hadithnumber_last": 6981,
 				"arabicnumber_first": 6953,
-				"arabicnumber_last": 6981
+				"arabicnumber_last": 6981,
+				"name_native": "Трюки"
 			},
 			"91": {
 				"hadithnumber_first": 6982,
 				"hadithnumber_last": 7047,
 				"arabicnumber_first": 6982,
-				"arabicnumber_last": 7047
+				"arabicnumber_last": 7047,
+				"name_native": "Толкование снов"
 			},
 			"92": {
 				"hadithnumber_first": 7048,
 				"hadithnumber_last": 7136,
 				"arabicnumber_first": 7048,
-				"arabicnumber_last": 7136
+				"arabicnumber_last": 7136,
+				"name_native": "Страдания и конец света"
 			},
 			"93": {
 				"hadithnumber_first": 7137,
 				"hadithnumber_last": 7225,
 				"arabicnumber_first": 7137,
-				"arabicnumber_last": 7225
+				"arabicnumber_last": 7225,
+				"name_native": "Суды (Ахкам)"
 			},
 			"94": {
 				"hadithnumber_first": 7226,
 				"hadithnumber_last": 7245,
 				"arabicnumber_first": 7226,
-				"arabicnumber_last": 7245
+				"arabicnumber_last": 7245,
+				"name_native": "Пожелания"
 			},
 			"95": {
 				"hadithnumber_first": 7246,
 				"hadithnumber_last": 7267,
 				"arabicnumber_first": 7246,
-				"arabicnumber_last": 7267
+				"arabicnumber_last": 7267,
+				"name_native": "Принятие информации, предоставленной правдивым человеком"
 			},
 			"96": {
 				"hadithnumber_first": 7268,
 				"hadithnumber_last": 7370,
 				"arabicnumber_first": 7268,
-				"arabicnumber_last": 7370
+				"arabicnumber_last": 7370,
+				"name_native": "Книга Сунны"
 			},
 			"97": {
 				"hadithnumber_first": 7371,
 				"hadithnumber_last": 7563,
 				"arabicnumber_first": 7371,
-				"arabicnumber_last": 7563
+				"arabicnumber_last": 7563,
+				"name_native": "Единство, Единственность Аллаха (Таухид)"
 			}
 		}
 	},

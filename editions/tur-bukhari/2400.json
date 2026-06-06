@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Sahih-i Buhari",
 		"section": {
 			"43": "Loans, Payment of Loans, Freezing of Property, Bankruptcy"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 2385,
 				"hadithnumber_last": 2409,
 				"arabicnumber_first": 2385,
-				"arabicnumber_last": 2409
+				"arabicnumber_last": 2409,
+				"name_native": "Krediler, Kredilerin Ödemesi, Mülkiyetin Dondurulması, İflas"
 			}
 		}
 	},

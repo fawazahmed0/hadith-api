@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "Sahih-i Müslim",
 		"section": {
 			"21": "The Book of Transactions"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 3801,
 				"hadithnumber_last": 3961,
 				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
+				"arabicnumber_last": 1550.05,
+				"name_native": "İşlemler Kitabı"
 			}
 		}
 	},

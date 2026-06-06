@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "صحيح البخاري",
 		"section": {
 			"16": "Eclipses"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 1040,
 				"hadithnumber_last": 1066,
 				"arabicnumber_first": 1040,
-				"arabicnumber_last": 1066
+				"arabicnumber_last": 1066,
+				"name_native": "الكسوف"
 			}
 		}
 	},

@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "Sahih Muslim",
 		"sections": {
 			"0": "Introduction",
 			"1": "The Book of Faith",
@@ -65,343 +66,400 @@
 				"hadithnumber_first": 1,
 				"hadithnumber_last": 92,
 				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
+				"arabicnumber_last": 7,
+				"name_native": "Introduction"
 			},
 			"1": {
 				"hadithnumber_first": 93,
 				"hadithnumber_last": 533,
 				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
+				"arabicnumber_last": 222.02,
+				"name_native": "The Book of Faith"
 			},
 			"2": {
 				"hadithnumber_first": 534,
 				"hadithnumber_last": 678,
 				"arabicnumber_first": 223,
-				"arabicnumber_last": 292.02
+				"arabicnumber_last": 292.02,
+				"name_native": "The Book of Purification"
 			},
 			"3": {
 				"hadithnumber_first": 679,
 				"hadithnumber_last": 836,
 				"arabicnumber_first": 293.01,
-				"arabicnumber_last": 376.04
+				"arabicnumber_last": 376.04,
+				"name_native": "The Book of Menstruation"
 			},
 			"4": {
 				"hadithnumber_first": 837,
 				"hadithnumber_last": 1160,
 				"arabicnumber_first": 377,
-				"arabicnumber_last": 519.02
+				"arabicnumber_last": 519.02,
+				"name_native": "The Book of Prayers "
 			},
 			"5": {
 				"hadithnumber_first": 1161,
 				"hadithnumber_last": 1569,
 				"arabicnumber_first": 520.01,
-				"arabicnumber_last": 684.04
+				"arabicnumber_last": 684.04,
+				"name_native": "The Book of Mosques and Places of Prayer"
 			},
 			"6": {
 				"hadithnumber_first": 1570,
 				"hadithnumber_last": 1950,
 				"arabicnumber_first": 685.01,
-				"arabicnumber_last": 843.02
+				"arabicnumber_last": 843.02,
+				"name_native": "The Book of Prayer - Travellers"
 			},
 			"7": {
 				"hadithnumber_first": 1951,
 				"hadithnumber_last": 2043,
 				"arabicnumber_first": 844.01,
-				"arabicnumber_last": 883.02
+				"arabicnumber_last": 883.02,
+				"name_native": "The Book of Prayer - Friday"
 			},
 			"8": {
 				"hadithnumber_first": 2044,
 				"hadithnumber_last": 2069,
 				"arabicnumber_first": 884.01,
-				"arabicnumber_last": 893
+				"arabicnumber_last": 893,
+				"name_native": "The Book of Prayer - Two Eids"
 			},
 			"9": {
 				"hadithnumber_first": 2070,
 				"hadithnumber_last": 2088,
 				"arabicnumber_first": 894.01,
-				"arabicnumber_last": 900.02
+				"arabicnumber_last": 900.02,
+				"name_native": "The Book of Prayer - Rain"
 			},
 			"10": {
 				"hadithnumber_first": 2089,
 				"hadithnumber_last": 2122,
 				"arabicnumber_first": 901.01,
-				"arabicnumber_last": 915
+				"arabicnumber_last": 915,
+				"name_native": "The Book of Prayer - Eclipses"
 			},
 			"11": {
 				"hadithnumber_first": 2123,
 				"hadithnumber_last": 2262,
 				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
+				"arabicnumber_last": 978,
+				"name_native": "The Book of Prayer - Funerals"
 			},
 			"12": {
 				"hadithnumber_first": 2263,
 				"hadithnumber_last": 2494,
 				"arabicnumber_first": 979.01,
-				"arabicnumber_last": 1078.02
+				"arabicnumber_last": 1078.02,
+				"name_native": "The Book of Zakat"
 			},
 			"13": {
 				"hadithnumber_first": 2495,
 				"hadithnumber_last": 2779,
 				"arabicnumber_first": 1079.01,
-				"arabicnumber_last": 1170
+				"arabicnumber_last": 1170,
+				"name_native": "The Book of Fasting "
 			},
 			"14": {
 				"hadithnumber_first": 2780,
 				"hadithnumber_last": 2790,
 				"arabicnumber_first": 1171.01,
-				"arabicnumber_last": 1176.02
+				"arabicnumber_last": 1176.02,
+				"name_native": "The Book of I'tikaf"
 			},
 			"15": {
 				"hadithnumber_first": 2791,
 				"hadithnumber_last": 3397,
 				"arabicnumber_first": 1177.01,
-				"arabicnumber_last": 1399.09
+				"arabicnumber_last": 1399.09,
+				"name_native": "The Book of Pilgrimage"
 			},
 			"16": {
 				"hadithnumber_first": 388,
 				"hadithnumber_last": 3567,
 				"arabicnumber_first": 1400.01,
-				"arabicnumber_last": 1443
+				"arabicnumber_last": 1443,
+				"name_native": "The Book of Marriage"
 			},
 			"17": {
 				"hadithnumber_first": 3568,
 				"hadithnumber_last": 3651,
 				"arabicnumber_first": 1444.01,
-				"arabicnumber_last": 1470.02
+				"arabicnumber_last": 1470.02,
+				"name_native": "The Book of Suckling"
 			},
 			"18": {
 				"hadithnumber_first": 3652,
 				"hadithnumber_last": 3742,
 				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
+				"arabicnumber_last": 1491,
+				"name_native": "The Book of Divorce "
 			},
 			"19": {
 				"hadithnumber_first": 3743,
 				"hadithnumber_last": 3769,
 				"arabicnumber_first": 1492.01,
-				"arabicnumber_last": 1500.04
+				"arabicnumber_last": 1500.04,
+				"name_native": "The Book of Invoking Curses"
 			},
 			"20": {
 				"hadithnumber_first": 3770,
 				"hadithnumber_last": 3800,
 				"arabicnumber_first": 1501.01,
-				"arabicnumber_last": 1510.02
+				"arabicnumber_last": 1510.02,
+				"name_native": "The Book of Emancipating Slaves"
 			},
 			"21": {
 				"hadithnumber_first": 3801,
 				"hadithnumber_last": 3961,
 				"arabicnumber_first": 1511.01,
-				"arabicnumber_last": 1550.05
+				"arabicnumber_last": 1550.05,
+				"name_native": "The Book of Transactions"
 			},
 			"22": {
 				"hadithnumber_first": 3962,
 				"hadithnumber_last": 4139,
 				"arabicnumber_first": 1551.01,
-				"arabicnumber_last": 1613
+				"arabicnumber_last": 1613,
+				"name_native": "The Book of Musaqah"
 			},
 			"23": {
 				"hadithnumber_first": 4140,
 				"hadithnumber_last": 4162,
 				"arabicnumber_first": 1614,
-				"arabicnumber_last": 1619.06
+				"arabicnumber_last": 1619.06,
+				"name_native": "The Book of the Rules of Inheritance"
 			},
 			"24": {
 				"hadithnumber_first": 4163,
 				"hadithnumber_last": 4203,
 				"arabicnumber_first": 1620.01,
-				"arabicnumber_last": 1626.02
+				"arabicnumber_last": 1626.02,
+				"name_native": "The Book of Gifts"
 			},
 			"25": {
 				"hadithnumber_first": 4204,
 				"hadithnumber_last": 4234,
 				"arabicnumber_first": 1627.01,
-				"arabicnumber_last": 1637.03
+				"arabicnumber_last": 1637.03,
+				"name_native": "The Book of Wills"
 			},
 			"26": {
 				"hadithnumber_first": 4235,
 				"hadithnumber_last": 4253,
 				"arabicnumber_first": 1638.01,
-				"arabicnumber_last": 1645
+				"arabicnumber_last": 1645,
+				"name_native": "The Book of Vows"
 			},
 			"27": {
 				"hadithnumber_first": 4254,
 				"hadithnumber_last": 4341,
 				"arabicnumber_first": 1646.01,
-				"arabicnumber_last": 1668.03
+				"arabicnumber_last": 1668.03,
+				"name_native": "The Book of Oaths"
 			},
 			"28": {
 				"hadithnumber_first": 4342,
 				"hadithnumber_last": 4397,
 				"arabicnumber_first": 1669.01,
-				"arabicnumber_last": 1683
+				"arabicnumber_last": 1683,
+				"name_native": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)"
 			},
 			"29": {
 				"hadithnumber_first": 4398,
 				"hadithnumber_last": 4469,
 				"arabicnumber_first": 1684.01,
-				"arabicnumber_last": 1710.05
+				"arabicnumber_last": 1710.05,
+				"name_native": "The Book of Legal Punishments"
 			},
 			"30": {
 				"hadithnumber_first": 4470,
 				"hadithnumber_last": 4497,
 				"arabicnumber_first": 1711.01,
-				"arabicnumber_last": 1721
+				"arabicnumber_last": 1721,
+				"name_native": "The Book of Judicial Decisions"
 			},
 			"31": {
 				"hadithnumber_first": 4498,
 				"hadithnumber_last": 4518,
 				"arabicnumber_first": 1722.01,
-				"arabicnumber_last": 1729
+				"arabicnumber_last": 1729,
+				"name_native": "The Book of Lost Property"
 			},
 			"32": {
 				"hadithnumber_first": 4519,
 				"hadithnumber_last": 4700,
 				"arabicnumber_first": 1730.01,
-				"arabicnumber_last": 1817
+				"arabicnumber_last": 1817,
+				"name_native": "The Book of Jihad and Expeditions"
 			},
 			"33": {
 				"hadithnumber_first": 4701,
 				"hadithnumber_last": 4967,
 				"arabicnumber_first": 1818.01,
-				"arabicnumber_last": 1928.02
+				"arabicnumber_last": 1928.02,
+				"name_native": "The Book on Government"
 			},
 			"34": {
 				"hadithnumber_first": 4972,
 				"hadithnumber_last": 5063,
 				"arabicnumber_first": 1929.01,
-				"arabicnumber_last": 1959
+				"arabicnumber_last": 1959,
+				"name_native": "The Book of Hunting, Slaughter, and what may be Eaten"
 			},
 			"35": {
 				"hadithnumber_first": 5064,
 				"hadithnumber_last": 5126,
 				"arabicnumber_first": 1960.01,
-				"arabicnumber_last": 1978.03
+				"arabicnumber_last": 1978.03,
+				"name_native": "The Book of Sacrifices"
 			},
 			"36": {
 				"hadithnumber_first": 5114,
 				"hadithnumber_last": 5383,
 				"arabicnumber_first": 1979.02,
-				"arabicnumber_last": 2064.04
+				"arabicnumber_last": 2064.04,
+				"name_native": "The Book of Drinks"
 			},
 			"37": {
 				"hadithnumber_first": 5385,
 				"hadithnumber_last": 5585,
 				"arabicnumber_first": 2065.01,
-				"arabicnumber_last": 2130.02
+				"arabicnumber_last": 2130.02,
+				"name_native": "The Book of Clothes and Adornment"
 			},
 			"38": {
 				"hadithnumber_first": 5586,
 				"hadithnumber_last": 5645,
 				"arabicnumber_first": 2131,
-				"arabicnumber_last": 2159.02
+				"arabicnumber_last": 2159.02,
+				"name_native": "The Book of Manners and Etiquette"
 			},
 			"39": {
 				"hadithnumber_first": 5646,
 				"hadithnumber_last": 5861,
 				"arabicnumber_first": 2160,
-				"arabicnumber_last": 2245.02
+				"arabicnumber_last": 2245.02,
+				"name_native": "The Book of Greetings"
 			},
 			"40": {
 				"hadithnumber_first": 5862,
 				"hadithnumber_last": 5884,
 				"arabicnumber_first": 2246.01,
-				"arabicnumber_last": 2254
+				"arabicnumber_last": 2254,
+				"name_native": "The Book Concerning the Use of Correct Words"
 			},
 			"41": {
 				"hadithnumber_first": 5887,
 				"hadithnumber_last": 5896,
 				"arabicnumber_first": 2255.03,
-				"arabicnumber_last": 2260
+				"arabicnumber_last": 2260,
+				"name_native": "The Book of Poetry"
 			},
 			"42": {
 				"hadithnumber_first": 5897,
 				"hadithnumber_last": 5937,
 				"arabicnumber_first": 2261.01,
-				"arabicnumber_last": 2275
+				"arabicnumber_last": 2275,
+				"name_native": "The Book of Dreams"
 			},
 			"43": {
 				"hadithnumber_first": 384,
 				"hadithnumber_last": 6168,
 				"arabicnumber_first": 2276,
-				"arabicnumber_last": 2380.06
+				"arabicnumber_last": 2380.06,
+				"name_native": "The Book of Virtues"
 			},
 			"44": {
 				"hadithnumber_first": 6169,
 				"hadithnumber_last": 6499,
 				"arabicnumber_first": 2381,
-				"arabicnumber_last": 2547
+				"arabicnumber_last": 2547,
+				"name_native": "The Book of the Merits of the Companions"
 			},
 			"45": {
 				"hadithnumber_first": 6500,
 				"hadithnumber_last": 6722,
 				"arabicnumber_first": 2548.01,
-				"arabicnumber_last": 2642.02
+				"arabicnumber_last": 2642.02,
+				"name_native": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship"
 			},
 			"46": {
 				"hadithnumber_first": 6723,
 				"hadithnumber_last": 6774,
 				"arabicnumber_first": 2643.01,
-				"arabicnumber_last": 2664
+				"arabicnumber_last": 2664,
+				"name_native": "The Book of Destiny"
 			},
 			"47": {
 				"hadithnumber_first": 6775,
 				"hadithnumber_last": 6804,
 				"arabicnumber_first": 2665,
-				"arabicnumber_last": 2674
+				"arabicnumber_last": 2674,
+				"name_native": "The Book of Knowledge"
 			},
 			"48": {
 				"hadithnumber_first": 6805,
 				"hadithnumber_last": 6936,
 				"arabicnumber_first": 2675.01,
-				"arabicnumber_last": 2735.03
+				"arabicnumber_last": 2735.03,
+				"name_native": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness "
 			},
 			"49": {
 				"hadithnumber_first": 6937,
 				"hadithnumber_last": 6951,
 				"arabicnumber_first": 2736,
-				"arabicnumber_last": 2743.03
+				"arabicnumber_last": 2743.03,
+				"name_native": "The Book of Heart-Melting Traditions"
 			},
 			"50": {
 				"hadithnumber_first": 6952,
 				"hadithnumber_last": 7023,
 				"arabicnumber_first": 2744.01,
-				"arabicnumber_last": 2771
+				"arabicnumber_last": 2771,
+				"name_native": "The Book of Repentance"
 			},
 			"51": {
 				"hadithnumber_first": 7024,
 				"hadithnumber_last": 7044,
 				"arabicnumber_first": 2772,
-				"arabicnumber_last": 2784.02
+				"arabicnumber_last": 2784.02,
+				"name_native": "Characteristics of The Hypocrites And Rulings Concerning Them"
 			},
 			"52": {
 				"hadithnumber_first": 7045,
 				"hadithnumber_last": 7129,
 				"arabicnumber_first": 2785,
-				"arabicnumber_last": 2821.03
+				"arabicnumber_last": 2821.03,
+				"name_native": "Characteristics of the Day of Judgment, Paradise, and Hell"
 			},
 			"53": {
 				"hadithnumber_first": 7130,
 				"hadithnumber_last": 7234,
 				"arabicnumber_first": 2822,
-				"arabicnumber_last": 2879
+				"arabicnumber_last": 2879,
+				"name_native": "The Book of Paradise, its Description, its Bounties and its Inhabitants"
 			},
 			"54": {
 				"hadithnumber_first": 7235,
 				"hadithnumber_last": 7416,
 				"arabicnumber_first": 2880.01,
-				"arabicnumber_last": 2955.03
+				"arabicnumber_last": 2955.03,
+				"name_native": "The Book of Tribulations and Portents of the Last Hour"
 			},
 			"55": {
 				"hadithnumber_first": 7417,
 				"hadithnumber_last": 7522,
 				"arabicnumber_first": 2956,
-				"arabicnumber_last": 3014
+				"arabicnumber_last": 3014,
+				"name_native": "The Book of Zuhd and Softening of Hearts "
 			},
 			"56": {
 				"hadithnumber_first": 7523,
 				"hadithnumber_last": 7563,
 				"arabicnumber_first": 3015,
-				"arabicnumber_last": 3033.02
+				"arabicnumber_last": 3033.02,
+				"name_native": "The Book of Commentary on the Qur'an"
 			}
 		}
 	},

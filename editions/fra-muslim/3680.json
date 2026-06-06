@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "Sahîh Muslim",
 		"section": {
 			"18": "The Book of Divorce "
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 3652,
 				"hadithnumber_last": 3742,
 				"arabicnumber_first": 1471.01,
-				"arabicnumber_last": 1491
+				"arabicnumber_last": 1491,
+				"name_native": "Livre du divorce (Talaq)"
 			}
 		}
 	},

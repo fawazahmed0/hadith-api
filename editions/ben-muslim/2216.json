@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "সহীহ মুসলিম",
 		"section": {
 			"11": "The Book of Prayer - Funerals"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 2123,
 				"hadithnumber_last": 2262,
 				"arabicnumber_first": 916.01,
-				"arabicnumber_last": 978
+				"arabicnumber_last": 978,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			}
 		}
 	},

@@ -15,6 +15,7 @@
 - No Rate limits
 - Multiple Languages
 - Multiple Grades
+- **Offline Support**: SQLite databases with FTS5 search (new)
 
 
 **URL Structure:**
@@ -57,6 +58,13 @@ The above formats also work for fallback i.e if `.min.json` link fails, you can 
 > Get Section 7:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/sections/7.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/sections/7.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/sections/7.json")
 
+- **SQLite Offline API** (Beta) <br>
+> Optimized for mobile/offline apps with FTS5 search.
+> [Documentation & Interactive Guide](https://ismailhosenismailjames.github.io/hadith-api/ "Documentation")<br>
+> **Hosted Compressed Files:** [https://ismailhosenismailjames.github.io/compressed_hadith_sqlite/](https://ismailhosenismailjames.github.io/compressed_hadith_sqlite/)<br>
+> **Public Repo:** [https://github.com/IsmailHosenIsmailJames/compressed_hadith_sqlite](https://github.com/IsmailHosenIsmailJames/compressed_hadith_sqlite)<br>
+> Master Metadata: `compressed_hadith_sqlite/all_info.json`
+
 
 - `/info` <br>
 > Get all the details about hadith book, such as hadith grades, books reference etc <br>
@@ -64,6 +72,12 @@ The above formats also work for fallback i.e if `.min.json` link fails, you can 
 
 ### Contribution:
 Without your contribution, this work won't survive, whenever you find any issue, please let me [Know](https://github.com/fawazahmed0/hadith-api/issues/new "Know"), so that I can also fix it and people can benefit from it, incase of any question, issue or problems etc<br> you can let me [Know](https://github.com/fawazahmed0/hadith-api/issues/new "Know")
+
+#### Generating SQLite Databases
+If you have updated the translations and want to regenerate the SQLite databases:
+1.  Run `python3 json_to_sqlite.py` (Generates relational DBs with FTS5).
+2.  Run `python3 compress_and_info.py` (Organizes, zips, and updates metadata).
+3.  The output will be in `compressed_hadith_sqlite/`.
 
 - Please help by adding new translations to this repo, you can share me the translation [here](https://github.com/fawazahmed0/hadith-api/issues/new "here")
 

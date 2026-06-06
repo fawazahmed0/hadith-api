@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Sahîh al-Bukhârî",
 		"section": {
 			"30": "Fasting"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 1891,
 				"hadithnumber_last": 2007,
 				"arabicnumber_first": 1891,
-				"arabicnumber_last": 2007
+				"arabicnumber_last": 2007,
+				"name_native": "Livre du jeûne (Sawm)"
 			}
 		}
 	},

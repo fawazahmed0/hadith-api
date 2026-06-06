@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sunan Abu Dawud",
+		"name_native": "سنن أبي داود",
 		"section": {
 			"2": "Prayer (Kitab Al-Salat)"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 391,
 				"hadithnumber_last": 1160,
 				"arabicnumber_first": 391,
-				"arabicnumber_last": 1160
+				"arabicnumber_last": 1160,
+				"name_native": "كتاب الصلاة"
 			}
 		}
 	},

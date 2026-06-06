@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "Sahih Muslim",
 		"section": {
 			"17": "The Book of Suckling"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 3568,
 				"hadithnumber_last": 3651,
 				"arabicnumber_first": 1444.01,
-				"arabicnumber_last": 1470.02
+				"arabicnumber_last": 1470.02,
+				"name_native": "The Book of Suckling"
 			}
 		}
 	},

@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Shahih al-Bukhari",
 		"section": {
 			"1": "Revelation"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 1,
 				"hadithnumber_last": 7,
 				"arabicnumber_first": 1,
-				"arabicnumber_last": 7
+				"arabicnumber_last": 7,
+				"name_native": "Kitab Permulaan Wahyu"
 			}
 		}
 	},

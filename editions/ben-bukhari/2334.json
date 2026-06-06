@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "সহীহ আল-বুখারী",
 		"section": {
 			"41": "Agriculture"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 2320,
 				"hadithnumber_last": 2350,
 				"arabicnumber_first": 2320,
-				"arabicnumber_last": 2350
+				"arabicnumber_last": 2350,
+				"name_native": "কৃষি"
 			}
 		}
 	},

@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "صحیح مسلم",
 		"section": {
 			"42": "The Book of Dreams"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 5897,
 				"hadithnumber_last": 5937,
 				"arabicnumber_first": 2261.01,
-				"arabicnumber_last": 2275
+				"arabicnumber_last": 2275,
+				"name_native": "خوابوں کی کتاب"
 			}
 		}
 	},

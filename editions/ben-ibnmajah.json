@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sunan Ibn Majah",
+		"name_native": "সুনান ইবনে মাজাহ",
 		"sections": {
 			"0": "The Book of the Sunnah",
 			"1": "The Book of Purification and its Sunnah",
@@ -46,229 +47,267 @@
 				"hadithnumber_first": 1,
 				"hadithnumber_last": 266,
 				"arabicnumber_first": 1,
-				"arabicnumber_last": 266
+				"arabicnumber_last": 266,
+				"name_native": "সুন্নাহ অধ্যায়"
 			},
 			"1": {
 				"hadithnumber_first": 267,
 				"hadithnumber_last": 666,
 				"arabicnumber_first": 267,
-				"arabicnumber_last": 666
+				"arabicnumber_last": 666,
+				"name_native": "পবিত্রতা অধ্যায়"
 			},
 			"2": {
 				"hadithnumber_first": 667,
 				"hadithnumber_last": 705,
 				"arabicnumber_first": 667,
-				"arabicnumber_last": 705
+				"arabicnumber_last": 705,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"3": {
 				"hadithnumber_first": 706,
 				"hadithnumber_last": 734,
 				"arabicnumber_first": 706,
-				"arabicnumber_last": 734
+				"arabicnumber_last": 734,
+				"name_native": "সুন্নাহ অধ্যায়"
 			},
 			"4": {
 				"hadithnumber_first": 735,
 				"hadithnumber_last": 802,
 				"arabicnumber_first": 735,
-				"arabicnumber_last": 802
+				"arabicnumber_last": 802,
+				"name_native": "মসজিদ ও জামাতের উপর বই"
 			},
 			"5": {
 				"hadithnumber_first": 803,
 				"hadithnumber_last": 1432,
 				"arabicnumber_first": 803,
-				"arabicnumber_last": 1432
+				"arabicnumber_last": 1432,
+				"name_native": "সালাত (নামাজ) অধ্যায়"
 			},
 			"6": {
 				"hadithnumber_first": 1433,
 				"hadithnumber_last": 1637,
 				"arabicnumber_first": 1433,
-				"arabicnumber_last": 1637
+				"arabicnumber_last": 1637,
+				"name_native": "জানাযা (দাফন) অধ্যায়"
 			},
 			"7": {
 				"hadithnumber_first": 1638,
 				"hadithnumber_last": 1782,
 				"arabicnumber_first": 1638,
-				"arabicnumber_last": 1782
+				"arabicnumber_last": 1782,
+				"name_native": "সিয়াম (রোজা) অধ্যায়"
 			},
 			"8": {
 				"hadithnumber_first": 1783,
 				"hadithnumber_last": 1844,
 				"arabicnumber_first": 1783,
-				"arabicnumber_last": 1844
+				"arabicnumber_last": 1844,
+				"name_native": "যাকাত অধ্যায়"
 			},
 			"9": {
 				"hadithnumber_first": 1845,
 				"hadithnumber_last": 2015,
 				"arabicnumber_first": 1845,
-				"arabicnumber_last": 2015
+				"arabicnumber_last": 2015,
+				"name_native": "নিকাহ (বিয়ে) অধ্যায়"
 			},
 			"10": {
 				"hadithnumber_first": 2016,
 				"hadithnumber_last": 2477,
 				"arabicnumber_first": 2016,
-				"arabicnumber_last": 2477
+				"arabicnumber_last": 2477,
+				"name_native": "তালাক অধ্যায়"
 			},
 			"11": {
 				"hadithnumber_first": 2090,
 				"hadithnumber_last": 2136,
 				"arabicnumber_first": 2090,
-				"arabicnumber_last": 2136
+				"arabicnumber_last": 2136,
+				"name_native": "কাফফারা অধ্যায়"
 			},
 			"12": {
 				"hadithnumber_first": 2137,
 				"hadithnumber_last": 2307,
 				"arabicnumber_first": 2137,
-				"arabicnumber_last": 2307
+				"arabicnumber_last": 2307,
+				"name_native": "ব্যবসায়িক লেনদেনের অধ্যায়"
 			},
 			"13": {
 				"hadithnumber_first": 2308,
 				"hadithnumber_last": 2374,
 				"arabicnumber_first": 2308,
-				"arabicnumber_last": 2374
+				"arabicnumber_last": 2374,
+				"name_native": "বিধিবিধানের অধ্যায়"
 			},
 			"14": {
 				"hadithnumber_first": 2375,
 				"hadithnumber_last": 2389,
 				"arabicnumber_first": 2375,
-				"arabicnumber_last": 2389
+				"arabicnumber_last": 2389,
+				"name_native": "উপহারের অধ্যায়"
 			},
 			"15": {
 				"hadithnumber_first": 2390,
 				"hadithnumber_last": 2528,
 				"arabicnumber_first": 2390,
-				"arabicnumber_last": 2528
+				"arabicnumber_last": 2528,
+				"name_native": "দাতব্য অধ্যায়"
 			},
 			"16": {
 				"hadithnumber_first": 2436,
 				"hadithnumber_last": 2491,
 				"arabicnumber_first": 2436,
-				"arabicnumber_last": 2491
+				"arabicnumber_last": 2491,
+				"name_native": "Pawning উপর অধ্যায়"
 			},
 			"17": {
 				"hadithnumber_first": 2492,
 				"hadithnumber_last": 2501,
 				"arabicnumber_first": 2492,
-				"arabicnumber_last": 2501
+				"arabicnumber_last": 2501,
+				"name_native": "প্রি-এম্পশনের অধ্যায়"
 			},
 			"18": {
 				"hadithnumber_first": 2502,
 				"hadithnumber_last": 2511,
 				"arabicnumber_first": 2502,
-				"arabicnumber_last": 2511
+				"arabicnumber_last": 2511,
+				"name_native": "হারানো সম্পত্তি অধ্যায়"
 			},
 			"19": {
 				"hadithnumber_first": 2512,
 				"hadithnumber_last": 2532,
 				"arabicnumber_first": 2512,
-				"arabicnumber_last": 2532
+				"arabicnumber_last": 2532,
+				"name_native": "ম্যানুমিশনের অধ্যায় (দাসদের)"
 			},
 			"20": {
 				"hadithnumber_first": 2533,
 				"hadithnumber_last": 2614,
 				"arabicnumber_first": 2533,
-				"arabicnumber_last": 2614
+				"arabicnumber_last": 2614,
+				"name_native": "হদ (দণ্ডবিধি) অধ্যায়"
 			},
 			"21": {
 				"hadithnumber_first": 2615,
 				"hadithnumber_last": 2694,
 				"arabicnumber_first": 2615,
-				"arabicnumber_last": 2694
+				"arabicnumber_last": 2694,
+				"name_native": "দিয়ত (রক্তপণ) অধ্যায়"
 			},
 			"22": {
 				"hadithnumber_first": 2695,
 				"hadithnumber_last": 2718,
 				"arabicnumber_first": 2695,
-				"arabicnumber_last": 2718
+				"arabicnumber_last": 2718,
+				"name_native": "ওসিয়ত অধ্যায়"
 			},
 			"23": {
 				"hadithnumber_first": 2719,
 				"hadithnumber_last": 2752,
 				"arabicnumber_first": 2719,
-				"arabicnumber_last": 2752
+				"arabicnumber_last": 2752,
+				"name_native": "ফারায়েজ (উত্তরাধিকার) অধ্যায়"
 			},
 			"24": {
 				"hadithnumber_first": 2753,
 				"hadithnumber_last": 2881,
 				"arabicnumber_first": 2753,
-				"arabicnumber_last": 2881
+				"arabicnumber_last": 2881,
+				"name_native": "জিহাদ অধ্যায়"
 			},
 			"25": {
 				"hadithnumber_first": 2882,
 				"hadithnumber_last": 3119,
 				"arabicnumber_first": 2882,
-				"arabicnumber_last": 3119
+				"arabicnumber_last": 3119,
+				"name_native": "হজের আচার-অনুষ্ঠানের অধ্যায়"
 			},
 			"26": {
 				"hadithnumber_first": 3120,
 				"hadithnumber_last": 3161,
 				"arabicnumber_first": 3120,
-				"arabicnumber_last": 3161
+				"arabicnumber_last": 3161,
+				"name_native": "কোরবানি অধ্যায়"
 			},
 			"27": {
 				"hadithnumber_first": 3162,
 				"hadithnumber_last": 3199,
 				"arabicnumber_first": 3162,
-				"arabicnumber_last": 3199
+				"arabicnumber_last": 3199,
+				"name_native": "জবাই সংক্রান্ত অধ্যায়"
 			},
 			"28": {
 				"hadithnumber_first": 3200,
 				"hadithnumber_last": 3250,
 				"arabicnumber_first": 3200,
-				"arabicnumber_last": 3250
+				"arabicnumber_last": 3250,
+				"name_native": "শিকার অধ্যায়"
 			},
 			"29": {
 				"hadithnumber_first": 3251,
 				"hadithnumber_last": 3370,
 				"arabicnumber_first": 3251,
-				"arabicnumber_last": 3370
+				"arabicnumber_last": 3370,
+				"name_native": "খাদ্য অধ্যায়"
 			},
 			"30": {
 				"hadithnumber_first": 3371,
 				"hadithnumber_last": 3435,
 				"arabicnumber_first": 3371,
-				"arabicnumber_last": 3435
+				"arabicnumber_last": 3435,
+				"name_native": "পানীয় অধ্যায়"
 			},
 			"31": {
 				"hadithnumber_first": 3436,
 				"hadithnumber_last": 3549,
 				"arabicnumber_first": 3436,
-				"arabicnumber_last": 3549
+				"arabicnumber_last": 3549,
+				"name_native": "চিকিৎসা অধ্যায়"
 			},
 			"32": {
 				"hadithnumber_first": 3550,
 				"hadithnumber_last": 3656,
 				"arabicnumber_first": 3550,
-				"arabicnumber_last": 3656
+				"arabicnumber_last": 3656,
+				"name_native": "পোষাক-পরিচ্ছদ অধ্যায়"
 			},
 			"33": {
 				"hadithnumber_first": 3657,
 				"hadithnumber_last": 3826,
 				"arabicnumber_first": 3657,
-				"arabicnumber_last": 3826
+				"arabicnumber_last": 3826,
+				"name_native": "আদব ও শিষ্টাচার অধ্যায়"
 			},
 			"34": {
 				"hadithnumber_first": 3827,
 				"hadithnumber_last": 3892,
 				"arabicnumber_first": 3827,
-				"arabicnumber_last": 3892
+				"arabicnumber_last": 3892,
+				"name_native": "মিনতি"
 			},
 			"35": {
 				"hadithnumber_first": 3893,
 				"hadithnumber_last": 3926,
 				"arabicnumber_first": 3893,
-				"arabicnumber_last": 3926
+				"arabicnumber_last": 3926,
+				"name_native": "স্বপ্নের ব্যাখ্যা"
 			},
 			"36": {
 				"hadithnumber_first": 3927,
 				"hadithnumber_last": 4099,
 				"arabicnumber_first": 3927,
-				"arabicnumber_last": 4099
+				"arabicnumber_last": 4099,
+				"name_native": "ক্লেশ"
 			},
 			"37": {
 				"hadithnumber_first": 4100,
 				"hadithnumber_last": 4341,
 				"arabicnumber_first": 4100,
-				"arabicnumber_last": 4341
+				"arabicnumber_last": 4341,
+				"name_native": "জুহদ"
 			}
 		}
 	},

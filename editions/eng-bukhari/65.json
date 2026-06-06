@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih al Bukhari",
+		"name_native": "Sahih al-Bukhari",
 		"section": {
 			"3": "Knowledge"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 59,
 				"hadithnumber_last": 134,
 				"arabicnumber_first": 59,
-				"arabicnumber_last": 134
+				"arabicnumber_last": 134,
+				"name_native": "Knowledge"
 			}
 		}
 	},

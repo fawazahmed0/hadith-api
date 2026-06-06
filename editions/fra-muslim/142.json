@@ -1,6 +1,7 @@
 {
 	"metadata": {
 		"name": "Sahih Muslim",
+		"name_native": "Sahîh Muslim",
 		"section": {
 			"1": "The Book of Faith"
 		},
@@ -9,7 +10,8 @@
 				"hadithnumber_first": 93,
 				"hadithnumber_last": 533,
 				"arabicnumber_first": 8.01,
-				"arabicnumber_last": 222.02
+				"arabicnumber_last": 222.02,
+				"name_native": "Livre de la foi (Iman)"
 			}
 		}
 	},

@@ -1,102 +1,170 @@
-<h1 align="center">Hadith API</h1>
+<div align="center">
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/fawazahmed0/hadith-api/raw/1/hadith.jpg">
-</p>
+# Hadith API
 
+<img width="460" height="300" src="https://github.com/fawazahmed0/hadith-api/raw/1/hadith.jpg" alt="Hadith API banner">
 
+*In the name of God, who has guided me to do this work.*
 
+</div>
 
-**In the name of God, who has guided me to do this work**
+---
 
+## ✨ Features
 
-**Features:**
-- Free & Blazing Fast response
-- No Rate limits
-- Multiple Languages
-- Multiple Grades
+- 🚀 **Free & blazing fast** response times
+- 🔓 **No rate limits**
+- 🌍 **Multiple languages** supported
+- 📊 **Multiple grades** included
 
+---
 
-**URL Structure:**
+## 🔗 URL Structure
 
-`https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@{apiVersion}/{endpoint}`
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@{apiVersion}/{endpoint}
+```
 
-**Formats:**
+## 📦 Formats
 
-The Endpoints Supports HTTP GET Method and returns the data in  two formats:
+Every endpoint supports the HTTP `GET` method and returns data in two formats:
 
-`/{endpoint}.json`
+| Format | Example |
+|---|---|
+| Standard | `/{endpoint}.json` |
+| Minified | `/{endpoint}.min.json` |
 
-`/{endpoint}.min.json`
+Both formats work as fallbacks for each other — i.e., if `.min.json` fails, fall back to `.json`, and vice versa.
 
-The above formats also work for fallback i.e if `.min.json` link fails, you can use `.json` link and vice versa
+> **⚠️ Warning:** Always include a fallback mechanism in your code [to avoid issues](https://github.com/fawazahmed0/hadith-api/issues/3).
 
-**Warning:** You should include fallback mechanism in your code, [to avoid issues](https://github.com/fawazahmed0/hadith-api/issues/3)
+---
 
-**Endpoints:**
+## 📚 Endpoints
 
-- `/editions`<br>
-> Lists all the available editions in prettified json format:<br>
- [https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json") <br>
+### List all editions
 
-> Get a minified version of it:<br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.min.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.min.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.min.json")
+Returns every available edition in prettified JSON.
 
-- `/editions/{editionName}`<br>
-> Get the whole hadith/hadith translation:<br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud.json") <br>
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json
+```
 
-- `/editions/{editionName}/{HadithNo}` <br>
-> Get the 1035th Hadith:<br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/1035.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/1035.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/1035.json")
+Minified version:
 
-> Get the 1035th Hadith in minified format:<br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/1035.min.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/1035.min.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/1035.min.json")
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.min.json
+```
 
-- `/editions/{editionName}/sections/{sectionNo}` <br>
-> Get Section 7:<br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/sections/7.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/sections/7.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/sections/7.json")
+### Get a specific edition
 
+Returns an entire hadith collection or translation.
 
-- `/info` <br>
-> Get all the details about hadith book, such as hadith grades, books reference etc <br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/info.json](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/info.json "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/info.json")<br>
+```
+/editions/{editionName}
+```
 
-### Contribution:
-Without your contribution, this work won't survive, whenever you find any issue, please let me [Know](https://github.com/fawazahmed0/hadith-api/issues/new "Know"), so that I can also fix it and people can benefit from it, incase of any question, issue or problems etc<br> you can let me [Know](https://github.com/fawazahmed0/hadith-api/issues/new "Know")
+**Example:**
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud.json
+```
 
-- Please help by adding new translations to this repo, you can share me the translation [here](https://github.com/fawazahmed0/hadith-api/issues/new "here")
+### Get a specific hadith
 
-or
-- Read [Contribute](https://github.com/fawazahmed0/hadith-api/blob/1/CONTRIBUTING.md "Contribute") to add/update the translation directly to this repo
+Returns a single hadith by number from an edition.
 
+```
+/editions/{editionName}/{hadithNo}
+```
 
-### Download: [Here](https://github.com/fawazahmed0/hadith-api/blob/1/download.md)
+**Example — Hadith #1035:**
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/1035.json
+```
 
-### Any Issues: [Raise here](https://github.com/fawazahmed0/hadith-api/issues/new "Raise here")
+**Minified version:**
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/1035.min.json
+```
 
-### Demos:
-Community Projects using Hadith API:
-- [Hadiths](https://fawazahmed0.github.io/hadiths)
-- [Quran Hadith Search Engine](https://fawazahmed0.github.io/quran-hadith-search/)
-- [Al Hadith App](https://github.com/IsmailHosenIsmailJames/al_hadith)
-- [Hadiths SQLite Data](https://github.com/IsmailHosenIsmailJames/compressed_hadith_sqlite)
+### Get a specific section
 
-### Other Similar Projects:
-- [Quran-api](https://github.com/fawazahmed0/quran-api)
+Returns all hadiths within a given section number.
 
+```
+/editions/{editionName}/sections/{sectionNo}
+```
 
-### Share:
-Please share this with your friends and Star this repo by clicking on [:star: button](#) above [:arrow_upper_right:](#)
+**Example — Section 7:**
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/eng-abudawud/sections/7.json
+```
 
-### References:
-All the open source projects and dawah/Islamic organizations
+### Get collection info
 
-Please see [References](https://github.com/fawazahmed0/hadith-api/blob/1/References.md "References")
+Returns metadata for a hadith book — grades, book references, etc.
 
+```
+/info
+```
 
-<br>
-<br>
-<br>
+**Example:**
+```
+https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/info.json
+```
 
-[:pencil2:*Improve this page*](https://github.com/fawazahmed0/hadith-api/edit/1/README.md)
+---
+
+## 🤝 Contribution
+
+This project survives because of community contributions. If you find an issue, please [let me know](https://github.com/fawazahmed0/hadith-api/issues/new) so it can be fixed for everyone.
+
+You can contribute by:
+
+- **Submitting a translation** — [share it here](https://github.com/fawazahmed0/hadith-api/issues/new) and it will be added
+- **Adding it yourself** — follow the [Contributing Guide](https://github.com/fawazahmed0/hadith-api/blob/1/CONTRIBUTING.md) to submit directly to the repo
+
+---
+
+## ⬇️ Download
+
+Get the full dataset → [**Download here**](https://github.com/fawazahmed0/hadith-api/blob/1/download.md)
+
+## 🐛 Issues
+
+Found a bug or have a request? → [**Raise an issue**](https://github.com/fawazahmed0/hadith-api/issues/new)
+
+---
+
+## 🌐 Community Projects
+
+Built with Hadith API:
+
+| Project | Description |
+|---|---|
+| [Hadiths](https://fawazahmed0.github.io/hadiths) | Hadith browsing web app |
+| [Quran Hadith Search Engine](https://fawazahmed0.github.io/quran-hadith-search/) | Combined Quran & Hadith search |
+| [Al Hadith App](https://github.com/IsmailHosenIsmailJames/al_hadith) | Mobile hadith app |
+| [Hadiths SQLite Data](https://github.com/IsmailHosenIsmailJames/compressed_hadith_sqlite) | Compressed SQLite dataset |
+
+## 🔁 Related Projects
+
+- [Quran API](https://github.com/fawazahmed0/quran-api) — the companion project for Quranic text and translations
+
+---
+
+## ⭐ Support This Project
+
+If you find this useful, please **star the repo** and share it with others who might benefit.
+
+## 📖 References
+
+All open-source projects and dawah/Islamic organizations referenced in this work are listed in [**References.md**](https://github.com/fawazahmed0/hadith-api/blob/1/References.md).
+
+---
+
+<div align="center">
+
+[✏️ Improve this page](https://github.com/fawazahmed0/hadith-api/edit/1/README.md)
+
+</div>

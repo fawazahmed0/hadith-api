@@ -172,7 +172,9 @@ function cleanTrans(json) {
   for (let key of Object.keys(json)) {
     // https://en.wikipedia.org/wiki/List_of_Unicode_characters#Basic_Latin
     // This will remove all special symbols and numbers from starting and special symbols ending of verse
-    json[key] = json[key].replace(/^[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n|\r|\p{N}]{1,20}/u, " ").replace(/^\s*\w{1}\s*(\.|\)|\}|>|\])+[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n|\r|\p{N}]{0,7}/ui, " ").replace(/[\u0020-\u002F|\u005b-\u0060|\u007b-\u007e|\s|\n|\r|\p{N}]{1,15}$/u, " ").replace(/[\r\n]/g, " ").replace(/\s\s+/g, " ").trim()
+    // At the end, keep sentence punctuation, quotes and closing brackets (. ! ? " ' ) ] }),
+    // only strip stray symbols and a bare trailing number like ' 3' (#126)
+    json[key] = json[key].replace(/^[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n|\r|\p{N}]{1,20}/u, " ").replace(/^\s*\w{1}\s*(\.|\)|\}|>|\])+[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n|\r|\p{N}]{0,7}/ui, " ").replace(/(\s\p{N}{1,4})?[\s|#$%&*+\-/<=>@\^_`~,;:]{0,15}$/u, " ").replace(/[\r\n]/g, " ").replace(/\s\s+/g, " ").trim()
     // Checking partially open/close bracket exists or not at begninning of verse
     var bracket1 = json[key].match(/^[^\[|\(|\<|\{]+(\]|\)|\>|\})/)
     // Checking partially open/close bracket exists or not at end of verse
